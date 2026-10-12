@@ -1,0 +1,796 @@
+{
+ "ma_ca": "TH-1167",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-12)",
+ "benh": "TH_benh_gan_do_ruou",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Bệnh gan do rượu",
+  "chan_doan_phai_loai_tru": [
+   "Xơ gan",
+   "Viêm gan virus"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Công nhân cao su",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất",
+  "thuoc_dang_dung": "Vitamin, thực phẩm chức năng",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Văn Quý",
+  "tuoi": 48,
+  "gioi": "Nam",
+  "nghe": "Công nhân cao su (tổ tiếp nhận và đông tụ mủ, nông trường ở Bình Phước)",
+  "can_nang": 68,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi anh là 'anh Quý'. Anh xưng 'tôi', gọi bác sĩ là 'bác sĩ'; vợ gọi anh là 'ảnh', xưng 'em'.",
+  "tinh_cach": "Kín tiếng, sĩ diện, quen chịu đựng; đi làm đủ ngày nên nghĩ mình chưa có bệnh. Thích một thủ phạm rõ ràng để 'ngưng là xong': vụ hóa chất ở xưởng, mấy viên thuốc tự mua. Ngại bị mắng là tự mua thuốc, càng ngại bị gọi là người nghiện rượu. Sợ nghỉ việc vì mất phụ cấp.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: mở đầu bằng vụ hóa chất, đưa túi ni-lông có vỉ thuốc giảm đau, lọ vitamin và hộp 'Vita-Liver Plus'. Nói 'thuốc giảm đau' chứ không nhớ là paracetamol phối hợp caffeine, không nhớ đã uống mấy viên, quên chlorpheniramine, tự tăng gấp đôi liều thực phẩm chức năng. Hỏi chung 'có uống rượu không' thì đáp 'xã giao vài chén'.",
+  "nguoi_nha": "Vợ (chị Hạnh) đi cùng ở lượt 2; lượt 1 anh đi một mình. Chị biết anh uống mỗi tối nhưng không biết bao nhiêu và không biết cai rượu cần theo dõi.",
+  "ten_nguoi_nha": "Nguyễn Thị Hạnh",
+  "ngoai_hinh": {
+   "da": "#a8734f",
+   "toc": "#1c1713",
+   "kieuToc": "ngan",
+   "ao": "#2f4a6b",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#b9855f",
+    "toc": "#1a1512",
+    "kieuToc": "dai",
+    "ao": "#8a5a6e",
+    "aoKieu": "blouse",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt, tức hạ sườn phải sau sự cố rò hóa chất ở xưởng, nghi ngộ độc hóa chất hoặc do thuốc tự mua; lượt 2: run tay, vã mồ hôi",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1 · sáng thứ Tư, ngày thứ 5 sau sự cố",
+   "tiep_don": "Nam 48 tuổi, công nhân cao su, đến khám một mình lúc 8 giờ 30, tự đi, bước đều. Tay xách túi ni-lông trong suốt có một vỉ thuốc giảm đau, một lọ vitamin và một hộp thực phẩm chức năng. Áo đồng phục xanh sẫm, gấu quần dính vệt mủ khô. Nói trọn câu, không hụt hơi. Điều dưỡng Linh đã đo sinh hiệu (đo lại sau nghỉ 10 phút, hút thuốc cách 20 phút).",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ xem giúp tôi có phải bị ngộ độc hóa chất không. Từ hôm ở xưởng bị xì hơi tới giờ người cứ mệt, bên hông phải tức tức. Tôi có uống mấy thuốc này mà không biết có hại gan không.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "136/84",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Năm ngày trước xưởng bị xì hơi hóa chất, từ đó người mệt, bên hông phải tức tức. Tôi sợ bị ngộ độc, đi khám xem gan có sao không, kèm mấy viên thuốc tôi tự uống.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do nêu ra: sự cố hóa chất (yếu tố khởi phát)"
+    },
+    {
+     "id": "su_co",
+     "noi_dung": "10 giờ 15 sáng, khu tiếp nhận mủ bán kín, ống nối tuột. Mùi khai xộc lên rồi mùi chua (ammonia bảo quản mủ, axit formic đông tụ). Tôi ở đó khoảng 7 phút, cách chỗ rò 3 mét, khẩu trang vải kéo dưới cằm. Cay mắt, chảy nước mắt, rát họng, nhức đầu, buồn nôn; rửa mắt 5 phút; hết sau vài giờ. Không ho, khó thở, khò khè, ngất. Đồng nghiệp chỉ cay mắt. Chưa ai đo nồng độ khí.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phơi nhiễm hóa chất có thật nhưng chỉ kích ứng cấp đã hồi phục; không giải thích được bệnh gan có từ trước"
+    },
+    {
+     "id": "phieu_cu",
+     "noi_dung": "Khám sức khỏe công ty hồi tháng 1: GGT 196, AST 62, ALT 38. Nhân viên y tế bảo 'men gan hơi cao, bớt nhậu'. Tôi chưa làm viêm gan B, C hay siêu âm. Tờ phiếu còn trong ví.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Men gan bất thường từ trước sự cố và trước khi dùng thực phẩm chức năng"
+    },
+    {
+     "id": "tu_dung",
+     "noi_dung": "Sau vụ xì hơi ra quầy thuốc nói 'hít hóa chất, nhức đầu, buồn nôn, gan yếu'. Mua: (1) viên giảm đau paracetamol 500 mg + caffeine 65 mg, mỗi lần 2 viên, sáng và chiều, 5 ngày (2 g paracetamol/ngày, tôi tưởng 2 viên là 1 liều); (2) chlorpheniramine 4 mg mỗi tối, 'chống dị ứng hóa chất', sáng dậy nặng đầu; (3) Vita-Liver Plus, tự tăng từ 1 lên 2 viên × 2 lần/ngày; (4) vitamin tổng hợp 1 viên sáng. Không kháng sinh, thuốc nam, NSAID, thuốc ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễu: tự uống thuốc 5 ngày; phải hỏi tên thuốc, liều, số ngày từ vỉ thuốc"
+    },
+    {
+     "id": "hds",
+     "noi_dung": "Vita-Liver Plus mua qua mạng từ đầu tháng 2, đồng nghiệp giới thiệu 'giải độc, bảo vệ gan'. Nhãn: vitamin nhóm B, niacin 50 mg, atisô, kế sữa, nghệ và 'hỗn hợp thảo dược độc quyền', không có số lô kiểm nghiệm. Tôi uống từ sau tờ phiếu tháng 1.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thực phẩm chức năng thành phần không rõ, dùng khi men gan đã bất thường"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Mỗi tối khoảng sáu chén nhỏ rượu gạo nhà làm, khoảng 40 độ. Đổ nước vào đúng cái chén ấy rồi rót vào chai nửa lít thì đầy sau khoảng sáu chén; vợ nói chai thường còn một nửa sau một tối. Chừng 250 mL một tối, sáu ngày một tuần, ngày liên hoan 350–400 mL, đã khoảng 14 năm. Sáng không uống. Ba tối đầu sau sự cố vẫn uống như cũ, hai tối gần đây bớt một nửa vì buồn nôn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'anh có uống rượu không' thì đáp 'xã giao vài chén'. Chỉ kể số thật khi bác sĩ hỏi định lượng bằng chén/chai đo được, theo ngày, theo năm, giọng không phán xét; vợ không có mặt ở lượt 1.",
+     "k": 1,
+     "y": "Rượu được rót chứ không được đo: ước tính 250 mL × 0,40 × 0,789 ≈ 79 g ethanol/ngày (khoảng 8 đơn vị 10 g)"
+    },
+    {
+     "id": "aud",
+     "noi_dung": "Uống nhiều hơn định, nhiều lần tự hứa bớt mà không được, hay thèm buổi chiều, trước hai chén là đã nay sáu chén mới êm, bác sĩ công ty dặn mà vẫn uống. Uống cho dễ ngủ. Chưa co giật, mê sảng, ảo giác khi bớt rượu; chưa uống buổi sáng. Hút khoảng 10 điếu/ngày. Không thuốc ngủ, không ma túy.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi từng tiêu chí: uống nhiều hơn dự định, cố bớt không được, thèm, tăng dung nạp, tiếp tục dù biết hại; hoặc hỏi AUDIT/AUDIT-C. Hỏi 'từng co giật hay ảo giác khi bớt rượu' thì trả lời không.",
+     "k": 1,
+     "y": "Rối loạn sử dụng rượu (5 tiêu chí DSM-5); không tiền sử cai biến chứng"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Mệt cuối buổi từ khoảng giữa tháng 4, ăn tối ít đi một phần ba, nặng nặng dưới sườn phải sau bữa nhiều dầu mỡ (1–2/10), hai buổi sáng buồn nôn khan, sụt khoảng 1,5 kg trong hai tháng. Không sốt, không vàng mắt, nước tiểu không màu trà, phân không bạc, không ngứa, không nôn máu, phân đen, phù, bụng to, lú lẫn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Quỹ đạo âm ỉ trước sự cố; không có cờ mất bù"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thật ra tôi sợ nhất mấy viên Vita-Liver Plus. Trên mạng nói thuốc bổ gan cũng làm suy gan, mà tôi tự tăng liều. Nói ra sợ bác sĩ mắng là tự mua. Còn rượu thì tôi nghĩ mình đi làm đều, không phải bệnh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ chỉ vào các hộp thuốc và hỏi: 'trong hóa chất, rượu, mấy viên thuốc, anh sợ cái nào đã làm hỏng gan mình nhất?' hoặc hỏi điều lo nhất thật sự.",
+     "k": 1,
+     "y": "Lý do thật: nghi tác dụng phụ của thuốc/thực phẩm chức năng"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa biết có viêm gan B, C hay chưa. Không xăm, truyền máu, tiêm chích, không vàng da bao giờ. Gia đình không ai bệnh gan. Không dị ứng thuốc. Sợ nghỉ việc là mất phụ cấp.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử, nguy cơ viêm gan virus"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, định hướng tốt, nói trọn câu. Cân nặng 68,0 kg, cao 165 cm, BMI 25,0 kg/m². Không vàng da, củng mạc không vàng, niêm mạc hồng. Không teo cơ, không tuyến mang tai to.",
+     "k": 1,
+     "hien": "Anh tỉnh, da ngăm do nắng, củng mạc trắng, niêm mạc hồng. Cân 68 kg, cao 165 cm."
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, không xuất tiết; mũi không phù nề; kết mạc không đỏ. Không khàn tiếng. Không còn dấu kích ứng niêm mạc.",
+     "k": 0,
+     "hien": "Họng hơi khô, không đỏ rõ. Không khàn tiếng."
+    },
+    "da": {
+     "a": "Không sao mạch lan rộng, không đỏ lòng bàn tay rõ, không bầm tím, không co rút Dupuytren, không vú to. Da không ngứa, không vết gãi.",
+     "k": 1,
+     "hien": "Da ngăm, không vàng, không vết bầm, không gãi xước."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Gan bờ dưới dưới sườn phải 2 cm, mềm, bờ đều, ấn hơi tức, không đau rõ. Lách không sờ thấy. Dấu sóng vỗ âm tính, gõ đục vùng thấp âm tính. Không tuần hoàn bàng hệ.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng; gan sờ được 2 cm dưới bờ sườn phải, ấn hơi tức."
+    },
+    "than_kinh": {
+     "a": "Tỉnh táo, định hướng đủ. Hai tay duỗi không run, không run vỗ cánh. Dáng đi vững. Không rung giật nhãn cầu.",
+     "k": 1,
+     "hien": "Anh tỉnh, hai tay duỗi thẳng không run."
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran, không khò khè.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, thở êm.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "ab": 1,
+     "r": "AST 58 U/L (tham chiếu < 40) · ALT 27 U/L (< 40). AST/ALT = 2,1.",
+     "n": "AST > ALT, tỷ số ≥ 2:1, AST hiếm khi vượt 300 IU/L gợi ý rượu (ACG 2017, mục Alcoholic liver disease; EASL 2018 Bảng 5, tr. 162: tỷ số thường > 1, không đặc hiệu). AST/ALT < 5 lần ULN thì đánh giá viêm gan B, C, rượu, nhiễm mỡ, bệnh sắt, Wilson, α1-antitrypsin, tự miễn, thuốc/thực phẩm chức năng (ACG 2017 khuyến cáo 16). Chưa tới mức > 15 lần ULN cần nghĩ tới độc tính acetaminophen (khuyến cáo 18)."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "ab": 1,
+     "r": "GGT 212 U/L (< 60) · ALP 88 U/L (< 120) · bilirubin toàn phần 15 µmol/L (< 21) · albumin 41 g/L · PT/INR 1,0.",
+     "n": "Bilirubin, albumin, INR bình thường: không vàng da, chưa suy tổng hợp (không đủ tiêu chuẩn NIAAA, ACG 2024 Bảng 5, tr. 41). Đo thêm khi nghi bệnh gan mạn (EASL 2018 tr. 159). GGT một mình không đủ chẩn đoán ALD (ACG 2017, mục Alcoholic liver disease)."
+    },
+    "ctm": {
+     "v": "e",
+     "ab": 1,
+     "r": "BC 7,1 G/L · Hb 148 g/L · MCV 98,4 fL (cao sát ngưỡng trên) · TC 214 G/L.",
+     "bang": {
+      "wbc": 7.1,
+      "neu_pct": 57.5,
+      "neu": 4.08,
+      "lym_pct": 32.0,
+      "lym": 2.27,
+      "mono_pct": 8.0,
+      "mono": 0.57,
+      "eos_pct": 2.0,
+      "eos": 0.14,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.5,
+      "hgb": 148,
+      "hct": 0.443,
+      "mcv": 98.4,
+      "mch": 32.9,
+      "mchc": 334,
+      "rdw": 14.2,
+      "plt": 214
+     },
+     "n": "Tiểu cầu 214 G/L (không giảm) chống xơ gan tăng áp cửa; tiểu cầu có thể giảm do rượu làm FIB-4 kém chính xác (ACG 2024 tr. 39). MCV là chỉ điểm gián tiếp của rượu, độ nhạy thấp (EASL 2018 Bảng 5, tr. 162)."
+    },
+    "virus_mau": {
+     "v": "e",
+     "ab": 1,
+     "r": "HBsAg âm tính · anti-HCV âm tính · HIV âm tính. Thêm: anti-HBc toàn phần âm tính; anti-HBs 2 IU/L (< 10).",
+     "n": "Men gan tăng: thử HBsAg và anti-HCV (ACG 2017 khuyến cáo 2–3, 16); anti-HCV cho người 18–79 tuổi (USPSTF 2020, độ B). Sinh trước 2003 nên xét nghiệm HBV; HBsAg và anti-HBc âm, anti-HBs < 10 IU/L là chưa miễn dịch, được tiêm vắc xin (QĐ 1740/2026 mục II, Bảng 1). Danh mục chưa có mục anti-HBs/anti-HBc, tạm gộp vào virus_mau (đã đề xuất)."
+    },
+    "abdus": {
+     "v": "e",
+     "ab": 1,
+     "r": "Siêu âm bụng: gan to nhẹ (bờ dưới dưới sườn 2 cm), bờ đều, echo dày sáng lan tỏa, giảm xuyên âm sâu: nhiễm mỡ mức nhẹ–vừa. Không khối. Lách không to, tĩnh mạch cửa không giãn, không dịch ổ bụng, đường mật không giãn, túi mật không sỏi. Đo độ đàn hồi gan thoáng qua (cùng buổi): LSM 7,8 kPa (trung vị, 10 lần đo hợp lệ, IQR/trung vị 12%).",
+     "n": "Siêu âm xác định nhiễm mỡ, loại nguyên nhân khác nhưng không xác lập rượu là nguyên nhân (EASL 2018 tr. 162). FIB-4 = 48 × 58 / (214 × √27) = 2,5, vượt 1,45 nên chưa loại được xơ gan (EASL 2018 Bảng 4, tr. 161); FIB-4 nhạy 80–90%, đặc hiệu 60–70% (ACG 2024 tr. 39) nên làm đàn hồi gan: LSM 7,8 kPa dưới ngưỡng 12,1 kPa của xơ hóa tiến triển ở ALD (ACG 2024 tr. 39); AST 58 chưa làm LSM cao giả (AST > 200 U/L, ACG 2024; > 100 U/L, EASL 2018 tr. 161). Ngưỡng 7 kPa của QĐ 1740/2026 là cho viêm gan B. Danh mục chưa có mục đàn hồi gan, tạm gộp vào abdus (đã đề xuất)."
+    },
+    "ct_bung": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Siêu âm đã đủ; CT không xác lập rượu là nguyên nhân (EASL 2018 tr. 162)."
+    },
+    "ana": {
+     "v": "n",
+     "r": "Không làm hôm nay.",
+     "n": "Bệnh sắt, tự miễn, Wilson, α1-antitrypsin chỉ làm tiếp nếu men gan còn tăng sau khi ngừng rượu (ACG 2017 khuyến cáo 7–10, 16; mục ALD: khuyên ngừng hẳn rượu khi hoãn xét nghiệm)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh gan do rượu (gan nhiễm mỡ, nghi viêm gan nhiễm mỡ do rượu) chưa có bằng chứng xơ hóa tiến triển",
+     "ok": 1,
+     "n": "Uống ~79 g ethanol/ngày × 14 năm (> 30 g/ngày ở nam, EASL 2018 tr. 159), GGT 212, AST/ALT 2,1, gan to nhẹ, siêu âm nhiễm mỡ, men gan bất thường từ tháng 1 trước thực phẩm chức năng và sự cố. Phân biệt steatosis với steatohepatitis cần sinh thiết, không cần ở đây (EASL 2018 tr. 160; ACG 2024 Bảng 2 khái niệm 15)."
+    },
+    {
+     "t": "Rối loạn sử dụng rượu mức vừa (5 tiêu chí DSM-5), AUDIT-C 11/12",
+     "ok": 1,
+     "n": "Uống nhiều hơn dự định, cố bớt không được, thèm, dung nạp, tiếp tục dù biết hại: 5 tiêu chí = mức vừa (4–5; EASL 2018 Bảng 2, tr. 157). AUDIT-C: ≥ 4 lần/tuần 4 điểm, 7–9 đơn vị/ngày 3 điểm, ≥ 5 đơn vị một lần hằng ngày 4 điểm = 11 (EASL 2018 Bảng 3, tr. 158); ≥ 8 là nguy cơ cao (Canada 2023 Box 1)."
+    },
+    {
+     "t": "Xơ gan",
+     "ok": 0,
+     "n": "Loại: không sao mạch lan rộng, cổ trướng, lách to; tiểu cầu 214, albumin 41, INR 1,0, bilirubin bình thường; LSM 7,8 kPa < 12,1 (ACG 2024 tr. 39). FIB-4 2,5 đơn độc không đủ gọi xơ gan."
+    },
+    {
+     "t": "Viêm gan virus B, C",
+     "ok": 0,
+     "n": "Loại trừ: HBsAg và anti-HCV âm tính (ACG 2017 khuyến cáo 2–3). Nhưng anti-HBs < 10 IU/L nên cần tiêm vắc xin (QĐ 1740/2026 Bảng 1)."
+    },
+    {
+     "t": "Viêm gan do rượu thể nặng (alcohol-associated hepatitis)",
+     "ok": 0,
+     "n": "Loại: không vàng da, bilirubin 15 µmol/L (probable AH cần vàng da khởi phát trong 60 ngày, bilirubin > 3 mg/dL, AST 50–400, AST/ALT > 1,5; ACG 2024 Bảng 5, tr. 41). Nếu sau này vàng da mới thì phải nghĩ tới."
+    },
+    {
+     "t": "Tổn thương gan do thuốc/thực phẩm chức năng hoặc paracetamol",
+     "ok": 0,
+     "n": "Chưa loại hẳn đóng góp của Vita-Liver Plus nên ngưng; nhưng men gan bất thường từ tháng 1 trước khi dùng. Paracetamol 2 g/ngày × 5 ngày: AST chỉ ~1,5 lần ULN, xa mức > 15 lần cần nghĩ tới độc tính acetaminophen (ACG 2017 khuyến cáo 18). Hỏi thuốc/thảo dược khi men gan bất thường (khuyến cáo 11)."
+    },
+    {
+     "t": "Tổn thương gan do hóa chất ammonia/axit formic",
+     "ok": 0,
+     "n": "Phơi nhiễm 7 phút, kích ứng mắt, họng đã hồi phục; men gan có từ tháng 1. Độc tính gan của ammonia/axit formic: không có trong tài liệu đã tải. Cần báo y học nghề nghiệp, xin phiếu an toàn hóa chất."
+    },
+    {
+     "t": "Gan nhiễm mỡ không do rượu (MASLD)",
+     "ok": 0,
+     "n": "Uống vượt xa 30 g/ngày ở nam (EASL 2018 tr. 159); BMI 25,0, chưa có đái tháo đường. Có thể đồng mắc nhưng không phải chẩn đoán chính."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Định lượng rượu bằng đồ đong cụ thể, theo ngày, theo năm; chấm AUDIT-C hoặc AUDIT và tiêu chí DSM-5",
+     "v": "c",
+     "n": "AUDIT-C (ACG 2024 Bảng 1, khuyến cáo 7, mạnh; EASL 2018 Bảng 3). DSM-5 ≥ 2 tiêu chí, 4–5 là vừa (EASL 2018 Bảng 2). Chỉ điểm sinh học không thêm giá trị khi bệnh nhân đã khai uống nhiều (ACG 2024 Bảng 2 khái niệm 11, tr. 37)."
+    },
+    {
+     "t": "Hỏi mọi thuốc tự mua, thực phẩm chức năng; xem vỉ thuốc và nhãn",
+     "v": "c",
+     "n": "Hỏi thuốc kê toa, không kê toa, thuốc bổ, thảo dược khi men gan bất thường (ACG 2017 khuyến cáo 11)."
+    },
+    {
+     "t": "Hỏi lý do thật sự lo lắng và công nhận nỗi sợ về Vita-Liver Plus",
+     "v": "c",
+     "n": "Động cơ ẩn: nghi tác dụng phụ thuốc. Kỹ thuật phỏng vấn cụ thể: không có trong tài liệu đã tải; liên quan can thiệp ngắn có yếu tố động lực (ACG 2024 khuyến cáo 8)."
+    },
+    {
+     "t": "Xét nghiệm: AST, ALT, GGT, bilirubin, albumin, INR, công thức máu, HBsAg, anti-HCV; siêu âm bụng; FIB-4 và đo độ đàn hồi gan",
+     "v": "c",
+     "n": "Men gan và một xét nghiệm đo xơ hóa (EASL 2018 tr. 163, Grade A1; ACG 2024 Bảng 2 khái niệm 13: FIB-4 và đàn hồi là NIT đầu tiên). HBV, HCV (ACG 2017 khuyến cáo 2–3, 16). Không bắt buộc CT, sinh thiết, chỉ điểm rượu (EASL 2018 tr. 160, 162; ACG 2024 khái niệm 15)."
+    },
+    {
+     "t": "Ngưng Vita-Liver Plus, hỗn hợp paracetamol–caffeine và chlorpheniramine",
+     "v": "c",
+     "n": "Thành phần không rõ, men gan bất thường: ngưng (ACG 2017 khuyến cáo 11). Ngưng cùng lúc nhiều thứ nên khó quy nguyên nhân; đừng coi ngưng một thứ là xong."
+    },
+    {
+     "t": "Cho tiếp Vita-Liver Plus (đang uống gấp đôi liều) hoặc thực phẩm chức năng 'bổ gan' không rõ thành phần",
+     "v": "w",
+     "n": "Men gan đang bất thường và anh đang tự uống gấp đôi liều: cần ngưng để đánh giá lại men gan và không thêm yếu tố nhiễu (sổ mâu thuẫn mục 'Thuốc bảo vệ gan/silymarin', bối cảnh như TH-1105). Thành phần và độc tính riêng của Vita-Liver Plus: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê silymarin (thuốc 'bảo vệ gan') kèm ngưng rượu",
+     "v": "a",
+     "n": "Chấp nhận, không phải đáp án: QĐ 2058/2020 Bài 7 mục 4.2 có liệt kê silymarin, aminoleban cho người nghiện rượu; EASL-EASD-EASO 2024 (mục nutraceuticals) không khuyến cáo vì thiếu bằng chứng, không nói gây hại. Theo sổ mâu thuẫn mục 'Thuốc bảo vệ gan/silymarin ở MASLD chưa vàng da': chấm a khi chưa vàng da và không nghi tổn thương gan do thuốc/thảo dược."
+    },
+    {
+     "t": "Giải thích: ngừng rượu hoàn toàn là điều trị chính; thiết lập mục tiêu ngừng hẳn, kế hoạch cai có theo dõi",
+     "v": "c",
+     "n": "Kiêng rượu kéo dài là cách hiệu quả nhất làm nhẹ và đảo ngược tổn thương (ACG 2024 tr. 39; EASL 2018 tr. 158). Người uống nhiều có thể cai sau 6–24 giờ (ACG 2024 tr. 38) nên không nói 'bỏ đi' rồi cho về."
+    },
+    {
+     "t": "Mục tiêu 'giảm còn vài chén' thay vì ngừng hẳn",
+     "v": "a",
+     "n": "Có thể là bước đầu nếu chưa sẵn sàng, nhưng ở ALD mục tiêu là kiêng (EASL 2018 tr. 158: không đặt mục tiêu giảm làm ưu tiên). Không tài liệu nào nói giảm có hại."
+    },
+    {
+     "t": "Can thiệp ngắn có yếu tố động lực (5 A) và hẹn gặp chuyên khoa nghiện nếu đồng ý",
+     "v": "c",
+     "n": "ACG 2024 khuyến cáo 8 (mạnh) và 14 (đa chuyên khoa); EASL 2018 tr. 159: 5 A (ask, advice, assess, assist, arrange)."
+    },
+    {
+     "t": "Bổ sung thiamine đường uống",
+     "v": "c",
+     "n": "Thiamine, B12, kẽm thường thiếu; bù khi còn uống rượu (ACG 2024 Bảng 2 khái niệm 25, mục Nutrition tr. 40). Thiamine uống 200 mg/ngày trước và trong cai (Canada 2023 Hình 3). Liều B12, kẽm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bỏ thuốc lá",
+     "v": "c",
+     "n": "ACG 2024 Bảng 1, khuyến cáo 1 (mạnh): người uống nhiều nên bỏ thuốc lá vì tăng nguy cơ xơ gan; EASL 2018 tr. 167: hút ≥ 1 bao/ngày làm nguy cơ ALD gấp ba."
+    },
+    {
+     "t": "Kê thuốc điều trị rối loạn sử dụng rượu ngay hôm nay (baclofen, acamprosate)",
+     "v": "a",
+     "n": "Canada 2023 Bảng 3: naltrexone, acamprosate an toàn khi bắt đầu lúc còn uống nhưng hiệu quả hơn sau cai. Hợp lý nhưng có thể hoãn tới khi có kế hoạch cai; không sai nếu bắt đầu."
+    },
+    {
+     "t": "Kê disulfiram để 'sợ rượu'",
+     "v": "w",
+     "n": "ACG 2024 khuyến cáo 12 (tr. 38): không dùng disulfiram ở mọi giai đoạn ALD vì độc gan. QĐ 2058/2020 mục 4.3.1 nêu disulfiram 125–250 mg/ngày ngoại trú cho người nghiện rượu nói chung, không riêng bệnh gan; ACG nói rõ gây hại nên chấm w."
+    },
+    {
+     "t": "Hẹn tái khám sớm 48–72 giờ và 1–2 tuần; dặn dấu hiệu nguy hiểm",
+     "v": "c",
+     "n": "Khoảng cách tái khám: không có trong tài liệu đã tải; chọn 48–72 giờ vì cai có thể khởi phát 6–24 giờ sau chén cuối (ACG 2024 tr. 38). Vàng da mới là dấu cảnh báo viêm gan do rượu (EASL 2018 tr. 167)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh gan do rượu thể gan nhiễm mỡ (nghi viêm gan nhiễm mỡ do rượu), chưa có bằng chứng xơ hóa tiến triển (FIB-4 2,5; LSM 7,8 kPa), chưa vàng da",
+     "Rối loạn sử dụng rượu mức vừa (5 tiêu chí DSM-5), AUDIT-C 11/12; ước tính 79 g ethanol/ngày × 14 năm; hút thuốc 10 điếu/ngày",
+     "Kích ứng cấp đã hồi phục sau phơi nhiễm ammonia/axit formic; tự dùng paracetamol–caffeine 2 g/ngày × 5 ngày, chlorpheniramine và thực phẩm chức năng (Vita-Liver Plus) liều gấp đôi",
+     "Chưa có miễn dịch viêm gan B (anti-HBs 2 IU/L, HBsAg và anti-HBc âm)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: sinh hiệu → nghe sự cố hóa chất nhưng hỏi mốc 'lần cuối khỏe hẳn' → hỏi tên thuốc, đọc nhãn từng hộp → định lượng rượu bằng chén/chai → AUDIT-C, DSM-5 → hỏi điều lo thật → khám gan, dấu bệnh gan mạn → xét nghiệm gan, huyết học, HBV/HCV, siêu âm → FIB-4 rồi đàn hồi → xử trí.",
+     "Nhiễu tự uống thuốc: phải biết thuốc gì, mấy viên, mấy ngày (paracetamol 2 g/ngày × 5 ngày, caffeine, chlorpheniramine, thực phẩm chức năng gấp đôi). Paracetamol ở người nghiện rượu cần thận trọng (EASL 2018 tr. 170) nhưng AST chỉ ~1,5 lần ULN, xa mức > 15 lần (ACG 2017 khuyến cáo 18).",
+     "Sự cố hóa chất là yếu tố khởi phát người bệnh bám vào, nhưng GGT 196, AST 62 từ tháng 1 (trước thực phẩm chức năng, trước sự cố 4 tháng) và 79 g ethanol/ngày giải thích đủ. Giữ hai mệnh đề: sự cố gây kích ứng thật, cần báo y học nghề nghiệp; nhưng không đủ giải thích bệnh gan. Độc tính gan của ammonia/axit formic: không có trong tài liệu đã tải.",
+     "Loại xơ gan bằng cả bộ: không dấu bệnh gan mạn, tiểu cầu 214, albumin 41, INR 1,0, FIB-4 2,5 (> 1,45 nên chưa loại), rồi LSM 7,8 kPa < 12,1 kPa (ACG 2024 tr. 39). Không kết luận từ một chỉ số đơn độc.",
+     "KHÔNG chỉ định CT, sinh thiết, PEth/EtG, ferritin–tự miễn–Wilson ngay hôm nay dù nguồn lực đủ: bệnh nhân đã tự khai uống nhiều (ACG 2024 tr. 37), siêu âm và đàn hồi đủ phân tầng; xét nghiệm mở rộng chỉ khi men gan còn tăng sau kiêng (ACG 2017)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cốt lõi: ngừng rượu hoàn toàn, can thiệp ngắn, chăm sóc đa chuyên khoa (ACG 2024 khuyến cáo 8, 14; EASL 2018 tr. 158–159). Người uống ~79 g/ngày × 14 năm có thể cai sau 6–24 giờ (ACG 2024 tr. 38) nên kế hoạch cai phải có theo dõi.",
+     "Thuốc điều trị rối loạn sử dụng rượu: baclofen (ACG 2024 khuyến cáo 9, mạnh), acamprosate hoặc naltrexone (khuyến cáo 10), gabapentin/topiramate (khuyến cáo 11); không disulfiram (khuyến cáo 12). Naltrexone: ACG 2024 cho dùng ở ALD sớm và xơ gan còn bù (tr. 37), EASL 2018 (tr. 158) chưa khuyến cáo vì chưa thử ở ALD; Canada 2023 xếp bậc 1 nhưng chống chỉ định viêm gan cấp, suy gan. Khác do năm (EASL cũ hơn) và bằng chứng: ghi cả hai. Hôm nay chưa bắt đầu để đợi kế hoạch cai.",
+     "Thiamine uống 200 mg/ngày (Canada 2023 Hình 3; ACG 2024 khái niệm 25). Thuốc 'bảo vệ gan': trong tài liệu đã tải không có bằng chứng cho ALD, và đang dùng thực phẩm chức năng khi men gan bất thường: chấm w.",
+     "Phòng bệnh: tiêm vắc xin viêm gan B vì anti-HBs < 10 IU/L (QĐ 1740/2026 Bảng 1); bệnh gan mạn nên tiêm viêm gan A, B, cúm, phế cầu, zona, uốn ván–bạch hầu–ho gà, COVID-19 (ACG 2024 tr. 40). Lịch tiêm cụ thể: không có trong tài liệu đã tải.",
+     "Paracetamol khi cần: thận trọng ở người nghiện rượu (EASL 2018 tr. 170); dưới 3 g/ngày ở người có bệnh gan (QĐ 361/2014 Phụ lục NSAID mục 3.3), trong khi mục giảm đau chung của cùng văn bản cho tới 4 g/ngày (Phụ lục thuốc giảm đau mục 3.1): lấy số thận trọng hơn."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Thiamine (vitamin B1)",
+      "ham_luong": "Chế phẩm có sẵn, tính theo hoạt chất",
+      "lieu": "200 mg/ngày",
+      "duong": "Uống",
+      "thoi_diem": "1 lần mỗi ngày, sau ăn",
+      "so_ngay": "Từ nay đến hết thời gian cai và theo dõi (tái khám quyết định)",
+      "ghi_chu": "Canada 2023 Hình 3 (thiamine uống 200 mg/ngày trước và trong thời gian cai); ACG 2024 Bảng 2 khái niệm 25. Thời gian dùng sau cai: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Với bệnh nhân (sau khi công nhận nỗi lo): 'Nỗi lo về Vita-Liver Plus là có lý; tôi chưa thể nói viên này vô hại vì không rõ thành phần nên ta ngưng. Nhưng men gan của anh đã cao từ tháng 1, trước khi anh uống nó. Ngưng viên này là cần nhưng chưa đủ: điều quan trọng nhất là lượng rượu mỗi tối.'",
+     "Ngưng Vita-Liver Plus, viên paracetamol–caffeine và chlorpheniramine; không tự mua thuốc hay thực phẩm chức năng 'bổ gan'. Cần giảm đau thì hỏi trước, paracetamol dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3), chỉ một chế phẩm chứa paracetamol.",
+     "Rượu: mục tiêu ngừng hẳn, nhưng không tự ngừng đột ngột ở nhà khi không có theo dõi: vài giờ sau chén cuối có thể run tay, vã mồ hôi, bồn chồn; nặng hơn là co giật, ảo giác, lú lẫn (ACG 2024 tr. 38). Đến ngay nếu có các dấu hiệu nặng.",
+     "Đến sớm nếu vàng mắt, vàng da, nước tiểu sẫm màu trà, phân bạc, bụng to, phù chân, nôn máu hay phân đen, lú lẫn, sốt (EASL 2018 tr. 167).",
+     "Tái khám sau 48–72 giờ và sau 1–2 tuần, mang theo mọi hộp thuốc và phiếu tháng 1; nên có vợ đi cùng nếu anh đồng ý. Báo công ty về sự cố, xin phiếu an toàn hóa chất (thủ tục: không có trong tài liệu đã tải). Bỏ thuốc lá (ACG 2024 khuyến cáo 1). Cà phê tới 2 cốc/ngày không cấm (EASL 2018 tr. 167). Tiêm vắc xin viêm gan B."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sáng thứ Tư, 14 ngày sau",
+   "tiep_don": "Nam 48 tuổi quay lại lúc 8 giờ 10, sớm hơn giờ hẹn xét nghiệm, có vợ đi cùng. Tự bước vào nhưng hai tay ép sát vào đùi; khi nhận phiếu, tay cầm bút rung nhẹ. Anh không đến lịch hẹn 48–72 giờ sau lượt 1 vì sợ mất phụ cấp. Điều dưỡng Linh đã đo sinh hiệu.",
+   "ket_luan": "theo_doi",
+   "loi_mo": "Tối qua tôi không uống nữa. Từ gần sáng tay cứ run, người bứt rứt, vã mồ hôi. Có phải thuốc vitamin với mấy viên tôi uống làm tôi bị vậy không bác sĩ?",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "148/90",
+    "nhiet": "37,2",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Từ khoảng 3 giờ sáng tay run, vã mồ hôi, bứt rứt, buồn nôn nhẹ, gần như không ngủ. Tôi nghĩ do viên vitamin hoặc thuốc nào đó gây phản ứng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Triệu chứng mới và lý do thật: nghi tác dụng phụ thuốc"
+    },
+    {
+     "id": "ruou_gan_day",
+     "noi_dung": "Sau lượt trước tôi không đi tái khám sớm vì mất phụ cấp, chỉ bớt rượu còn khoảng 120–150 mL mỗi tối. Hôm qua vợ đọc phiếu xét nghiệm, hôm đó cất chai rượu. Chén cuối khoảng 9 giờ tối qua, chừng 100 mL.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giảm rượu một phần rồi ngừng: giờ chén cuối khoảng 11 giờ trước khi khám; hội chứng cai khởi phát trong cửa sổ 6–24 giờ"
+    },
+    {
+     "id": "khong_nguy_co",
+     "noi_dung": "Chưa bao giờ co giật hay mê sảng. Không thấy hay nghe gì lạ. Không sốt, không đau đầu dữ dội, không té đập đầu. Nói chuyện bình thường, biết rõ hôm nay ngày mấy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có yếu tố nguy cơ cai nặng; tri giác nguyên"
+    },
+    {
+     "id": "vo_xac_nhan",
+     "noi_dung": "Vợ: Ảnh ngủ có hai tiếng, không lú lẫn, không nói lung tung, không co giật. Nhưng đêm qua ảnh cứ lăn qua lăn lại, ra mồ hôi ướt áo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người nhà xác nhận tri giác, không co giật; mất ngủ, vã mồ hôi"
+    },
+    {
+     "id": "thuoc_sau_l1",
+     "noi_dung": "Sau lượt trước tôi ngưng Vita-Liver Plus, paracetamol và chlorpheniramine. Chỉ còn uống vitamin theo dặn và viên vitamin tổng hợp 1 viên/ngày. Tôi không uống thuốc ngủ, không thuốc nào khác. Hai tuần nay tôi ăn ít, cân vẫn 68 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xác nhận không thuốc mới nào giải thích run; tác dụng phụ thuốc không hợp lý"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Tôi không nghỉ được, nghỉ là mất phụ cấp. Sáng nay mới xin đi khám.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Ràng buộc công việc, ảnh hưởng tuân thủ"
+    },
+    {
+     "id": "cai_truoc",
+     "noi_dung": "Trước đây có hôm không uống hẳn một đêm cũng hơi bứt rứt, nhưng chưa lần nào run như hôm nay.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi hỏi 'trước đây ngưng hoặc bớt rượu có bao giờ khó chịu như vậy chưa'.",
+     "k": 1,
+     "y": "Tiêu chí cai (DSM-5 tiêu chí 11): thêm vào 5 tiêu chí cũ, thành 6 = nặng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, bồn chồn, hay đổi tư thế. Trán và lòng bàn tay ẩm mồ hôi. Không sốt. Không vàng da. Không mất nước rõ: môi ẩm, da đàn hồi. CIWA-Ar do điều dưỡng Linh chấm khi được yêu cầu: 8 điểm.",
+     "k": 1,
+     "hien": "Anh tỉnh, ngồi không yên, trán và lòng bàn tay ẩm mồ hôi."
+    },
+    "run_nghi": {
+     "a": "Run mịn, biên độ nhỏ ở hai bàn tay khi duỗi tay và khi cầm cốc nước, tần số cao; không run lúc nghỉ, không run vỗ cánh (asterixis âm tính), không rung giật nhãn cầu.",
+     "k": 1,
+     "hien": "Hai bàn tay run mịn khi duỗi tay và khi cầm cốc nước."
+    },
+    "sang_loc_sang": {
+     "a": "4AT: tỉnh táo bình thường, định hướng đủ, đếm ngược tháng không lỗi, không rối loạn chú ý, không ảo giác. Điểm 0.",
+     "k": 1,
+     "hien": "Anh biết ngày, nơi mình đang ở; đếm ngược tháng trong năm đúng."
+    },
+    "than_kinh": {
+     "a": "Không dấu thần kinh khu trú, không yếu liệt, dáng đi vững, không rung giật nhãn cầu, không liệt vận nhãn. Phản xạ gân xương nhanh nhẹ.",
+     "k": 1,
+     "hien": "Dáng đi vững, hai mắt cử động đủ mọi hướng, không rung giật."
+    },
+    "bung": {
+     "a": "Bụng mềm, gan dưới sườn phải khoảng 2 cm như lượt trước, không cổ trướng, không đau cố định.",
+     "k": 0,
+     "hien": "Bụng mềm, gan còn sờ thấy dưới bờ sườn như lần trước."
+    },
+    "tam_than": {
+     "a": "Lo âu, mệt, khó ngủ; không ý tưởng tự hại; không hoang tưởng, không ảo giác.",
+     "k": 0,
+     "hien": "Anh lo lắng, mệt, hỏi lại nhiều lần về thuốc."
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 96 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran. Nhịp thở 18.",
+     "k": 0,
+     "hien": "Thở êm, không khò khè.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "ab": 1,
+     "r": "Đường huyết mao mạch (điều dưỡng Linh): 6,2 mmol/L.",
+     "bang": {
+      "glu": 6.2
+     },
+     "n": "Loại hạ đường huyết là nguyên nhân run, vã mồ hôi trước khi gọi là cai rượu. Ngưỡng hạ đường huyết: không có trong tài liệu đã tải."
+    },
+    "lyte": {
+     "v": "e",
+     "ab": 1,
+     "r": "Na⁺ 139, K⁺ 3,8, Cl⁻ 102 mmol/L.",
+     "bang": {
+      "na": 139,
+      "k": 3.8,
+      "cl": 102
+     },
+     "n": "Kiểm điện giải ở người cai (QĐ 2058/2020 Bài 7 mục 3.2.6); bình thường."
+    },
+    "creat": {
+     "v": "e",
+     "ab": 0,
+     "r": "Ure 4,6 mmol/L · Creatinin 76 µmol/L · eGFR 105 mL/ph/1,73m².",
+     "bang": {
+      "ure": 4.6,
+      "creat": 76,
+      "egfr": 105
+     },
+     "n": "Bình thường. Cần chức năng thận nếu chọn acamprosate (ClCr 30–50 chỉnh liều, < 30 tránh; ACG 2024 tr. 37); làm cũng không sai."
+    },
+    "liver": {
+     "v": "e",
+     "ab": 1,
+     "r": "AST 49 U/L (< 40) · ALT 25 U/L (< 40). AST/ALT = 2,0. (Lượt 1: AST 58, ALT 27.)",
+     "n": "AST 58 → 49 sau 14 ngày bớt rượu một phần: chậm hơn người bệnh mong, phù hợp rượu còn 120–150 mL/tối. Mốc thời gian chuẩn hóa men gan: không có trong tài liệu đã tải."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "ab": 1,
+     "r": "GGT 176 U/L · ALP 90 U/L · bilirubin toàn phần 14 µmol/L · albumin 41 g/L · INR 1,0.",
+     "n": "GGT giảm chậm (212 → 176); bilirubin, albumin, INR bình thường: chưa suy gan, chưa nghĩ tới bệnh não gan."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Không làm lại (lượt 1 bình thường).",
+     "n": "Không đổi xử trí."
+    },
+    "abdus": {
+     "v": "n",
+     "r": "Không làm lại (lượt 1 nhiễm mỡ, LSM 7,8 kPa).",
+     "n": "Không đổi xử trí hôm nay."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "ECG: nhịp xoang 96 l/p, không rối loạn nhịp, QT bình thường.",
+     "ab": 0,
+     "n": "Không bắt buộc; làm cũng không trừ điểm (ACG 2024 tr. 38: cai làm tăng mạch, huyết áp). Ngưỡng QT: không có trong tài liệu đã tải."
+    },
+    "ct_nao": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Không co giật, dấu thần kinh khu trú, đau đầu dữ dội hay chấn thương đầu: chưa cần hình ảnh sọ não (ACG 2024 tr. 39–40: co giật, dấu khu trú, đau đầu dữ dội gợi nguyên nhân khác)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng cai rượu mức nhẹ (CIWA-Ar 8), khởi phát khoảng 6 giờ sau chén cuối, trên nền bệnh gan do rượu và rối loạn sử dụng rượu mức nặng (6 tiêu chí DSM-5)",
+     "ok": 1,
+     "n": "Cai nhẹ–vừa khởi phát 6–24 giờ sau chén cuối: tăng mạch, huyết áp, run, bứt rứt, lo âu, buồn nôn, nhức đầu (ACG 2024 tr. 38; EASL 2018 tr. 158). CIWA-Ar > 8 vừa, ≥ 15 nặng (EASL 2018 tr. 158): 8 điểm nhẹ nhưng sát ngưỡng. Thêm tiêu chí cai thành 6 tiêu chí = nặng (EASL 2018 Bảng 2). QĐ 2058/2020 mục 3.1: cần ≥ 3 dấu (run, vã mồ hôi, buồn nôn, tim nhanh hay tăng huyết áp, kích động, đau đầu, mất ngủ…)."
+    },
+    {
+     "t": "Bệnh gan do rượu, men gan giảm chậm sau 14 ngày bớt rượu một phần, chưa mất bù",
+     "ok": 1,
+     "n": "AST 58 → 49, GGT 212 → 176; bilirubin, albumin, INR bình thường. Giảm chậm vì chưa ngừng hẳn (kết cục khỏi chậm hơn dự kiến)."
+    },
+    {
+     "t": "Run do tác dụng phụ của thiamine hay vitamin đang uống",
+     "ok": 0,
+     "n": "Loại: trùng cửa sổ cai 6–24 giờ sau chén cuối, kèm vã mồ hôi, mất ngủ, huyết áp cao; hai tuần dùng thuốc không gây run. Tài liệu đã tải không nêu run là tác dụng phụ của thiamine."
+    },
+    {
+     "t": "Bệnh não gan",
+     "ok": 0,
+     "n": "Loại: tỉnh, 4AT 0, không run vỗ cánh, bilirubin, albumin, INR bình thường, không xơ gan; AWS và bệnh não gan có thể cùng tồn tại nên phải phân biệt (ACG 2024 khái niệm 12)."
+    },
+    {
+     "t": "Bệnh não Wernicke hoặc sảng rượu/co giật",
+     "ok": 0,
+     "n": "Hiện chưa: không rung giật nhãn cầu, liệt vận nhãn, thất điều, ảo giác, tri giác nguyên (ACG 2024 tr. 40: loại Wernicke; cai nặng có sảng, co giật, hôn mê). Phải theo dõi vì cai có thể nặng lên."
+    },
+    {
+     "t": "Hạ đường huyết hoặc rối loạn điện giải gây run",
+     "ok": 0,
+     "n": "Loại: đường huyết 6,2 mmol/L, Na 139, K 3,8."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận định run, vã mồ hôi, bứt rứt là hội chứng cai, không quy cho thiamine hay vitamin; không tự ngừng thuốc cho bệnh nhân vì 'tác dụng phụ'",
+     "v": "c",
+     "n": "Cai khởi phát 6–24 giờ (ACG 2024 tr. 38); phân biệt với bệnh não gan, hai bệnh có thể cùng tồn tại (khái niệm 12). Công nhận nỗi lo thuốc nhưng giải thích bằng thời điểm."
+    },
+    {
+     "t": "Hỏi giờ chén cuối, tiền sử cai nặng; đo đường mao mạch, điện giải; chấm CIWA-Ar và nguy cơ cai phức tạp (PAWSS)",
+     "v": "c",
+     "n": "CIWA-Ar dẫn dắt xử trí (ACG 2024 khái niệm 12; EASL 2018 tr. 158). PAWSS < 4 nguy cơ thấp, ≥ 4 nguy cơ cao (Canada 2023 khuyến cáo 5–7); các mục chấm PAWSS: không có trong tài liệu đã tải. Chưa từng co giật/sảng nên nguy cơ thấp."
+    },
+    {
+     "t": "Quyết định nơi cai: theo dõi tại phòng khám rồi cai ngoại trú theo dõi sát (nguy cơ thấp, CIWA-Ar 8, có vợ ở bên) hoặc nhập viện nội trú",
+     "v": "c",
+     "n": "Ngoại trú: nguy cơ thấp (PAWSS < 4) điều trị ngoại trú được, nên nhập viện nếu có rào cản hoặc tiền sử cai biến chứng (Canada 2023 khuyến cáo 5–6). Nội trú: QĐ 2058/2020 Bài 7 mục 4.3.1 'người bệnh cần phải nhập viện điều trị nội trú'. Khác do năm, bối cảnh (QĐ 2058 viết cho khoa tâm thần; Canada cho tuyến ban đầu có phân tầng nguy cơ). Cả hai chấp nhận."
+    },
+    {
+     "t": "Chấm lại CIWA-Ar sau một thời gian theo dõi tại phòng khám; dùng thuốc theo triệu chứng khi tăng",
+     "v": "c",
+     "n": "Ưu tiên cách 'theo triệu chứng' (ACG 2024 tr. 38; EASL 2018 tr. 158). Khoảng thời gian chấm lại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nếu CIWA-Ar tăng (> 8) hoặc ảo giác, lú lẫn, co giật, sốt: dùng benzodiazepine thận trọng (lorazepam/oxazepam an toàn hơn khi gan kém), không quá 10–14 ngày; chuyển nhập viện",
+     "v": "c",
+     "n": "Benzodiazepine cho cai nặng ở ALD, thận trọng vì có thể gây bệnh não gan (ACG 2024 khuyến cáo 13, mạnh); lorazepam, oxazepam an toàn hơn khi gan kém (ACG 2024 tr. 38; EASL 2018 tr. 158); không quá 10–14 ngày (EASL 2018 tr. 159, Grade A1). Liều: Canada 2023 Hình 3 ví dụ diazepam cho ca nặng; QĐ 2058 mục 4.3.1 benzodiazepin 10–30 mg/ngày."
+    },
+    {
+     "t": "Kê benzodiazepine ngay cho CIWA-Ar 8 để 'cắt run'",
+     "v": "a",
+     "n": "CIWA-Ar 8 chưa tới ngưỡng dùng thuốc (EASL 2018 tr. 158: thuốc cho mức > 8). Không tài liệu nào nói kê là có hại, nhưng ở nguy cơ thấp Canada 2023 khuyến cáo 6 đề nghị thuốc không phải benzodiazepine."
+    },
+    {
+     "t": "Gabapentin (hoặc carbamazepine, clonidine) trong cai ngoại trú nguy cơ thấp",
+     "v": "a",
+     "n": "Canada 2023 khuyến cáo 6 (mạnh). ACG 2024 tr. 38: baclofen, clonidine, gabapentin, topiramate được đề xuất cho cai ở ALD, hiệu quả và an toàn trong viêm gan do rượu chưa rõ. Liều gabapentin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục thiamine đường uống 200 mg/ngày",
+     "v": "c",
+     "n": "Canada 2023 Hình 3: uống 200 mg/ngày; tiêm 200–300 mg/ngày ≥ 5 ngày cho nguy cơ Wernicke, mất bù, suy dinh dưỡng, nội trú. QĐ 2058/2020 mục 4.3.1: B1 liều cao 1 g/ngày, nên tiêm (nội trú). Khác bối cảnh."
+    },
+    {
+     "t": "Bắt đầu thuốc điều trị rối loạn sử dụng rượu: baclofen, hoặc acamprosate, hoặc naltrexone (sau khi cai xong, có kế hoạch)",
+     "v": "c",
+     "n": "Baclofen 5 mg × 3 lần/ngày, tăng sau 3–5 ngày tới tối đa 15 mg × 3 (ACG 2024 khuyến cáo 9, tr. 37) hoặc không quá 80 mg/ngày (EASL 2018 tr. 159, theo ANSM Pháp; số của ACG thận trọng hơn). Acamprosate (không chuyển hóa ở gan; ACG 2024 khuyến cáo 10); naltrexone (ACG 2024 cho ALD sớm và xơ gan còn bù; EASL 2018 tr. 158 chưa khuyến cáo; Canada 2023 bậc 1, chống chỉ định viêm gan cấp, suy gan). Chênh nguồn thật (năm, bằng chứng): ghi cả hai."
+    },
+    {
+     "t": "Kê disulfiram",
+     "v": "w",
+     "n": "ACG 2024 khuyến cáo 12 và tr. 38: disulfiram chống chỉ định ở mọi giai đoạn ALD (độc gan). QĐ 2058/2020 mục 4.3.1 có nêu disulfiram ngoại trú, không riêng bệnh gan."
+    },
+    {
+     "t": "Hẹn tái khám trong 24–48 giờ; vợ ở bên, dặn dấu hiệu nguy hiểm; giấy nghỉ ngắn ngày",
+     "v": "c",
+     "n": "Cai có thể nặng lên trong những ngày đầu (ACG 2024 tr. 38); tái khám và chăm sóc AUD kéo dài (Canada 2023 khuyến cáo 8). Khoảng 24–48 giờ: không có trong tài liệu đã tải. Giấy nghỉ ốm: TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm)."
+    },
+    {
+     "t": "Tiêm vắc xin viêm gan B (anti-HBs < 10 IU/L) và hẹn tái đánh giá gan",
+     "v": "a",
+     "n": "QĐ 1740/2026 Bảng 1: HBsAg âm, anti-HBc âm, anti-HBs < 10 IU/L thì tiêm đầy đủ. Không bắt buộc đúng buổi này."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng cai rượu mức nhẹ (CIWA-Ar 8), khởi phát khoảng 6 giờ sau chén cuối; không sảng, không co giật; PAWSS thấp; nguy cơ nặng lên cần theo dõi",
+     "Bệnh gan do rượu chưa mất bù (bilirubin, albumin, INR bình thường); men gan giảm chậm sau 14 ngày bớt rượu một phần (AST 58 → 49, GGT 212 → 176)",
+     "Rối loạn sử dụng rượu mức nặng (6 tiêu chí DSM-5 gồm cai)",
+     "Run KHÔNG do tác dụng phụ của thiamine/vitamin; không phải bệnh não gan, không hạ đường huyết hay rối loạn điện giải"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: nhìn tổng quát → sinh hiệu → giờ chén cuối, diễn tiến → kiểm tri giác, cờ đỏ (co giật, ảo giác, lú lẫn, Wernicke) → đường mao mạch, điện giải → CIWA-Ar, PAWSS → xử trí.",
+     "Triệu chứng mới 'run' đọc theo bốn hướng: tác dụng phụ thuốc, hạ đường huyết, hội chứng cai, bệnh não gan (ACG 2024 khái niệm 12). Nghe 'thuốc' mà ngưng thiamine là để nỗi lo thay sinh lý; nghe 'run' mà gọi cai mà không kiểm tri giác, đường, điện giải là đóng hồ sơ sớm.",
+     "Thời điểm: chén cuối ~21 giờ, run từ 3 giờ sáng (~6 giờ), khám 8 giờ 10 (~11 giờ): đúng cửa sổ 6–24 giờ (ACG 2024 tr. 38); không hợp tác dụng phụ thuốc vì đã dùng thuốc nhiều ngày.",
+     "CIWA-Ar 8: nhẹ nhưng sát ngưỡng vừa (> 8; EASL 2018 tr. 158), nên theo dõi. Các mục chấm CIWA-Ar: không có trong tài liệu đã tải. Men gan giảm chậm vì chưa ngừng hẳn, không phải thất bại điều trị; không cần lặp siêu âm, đàn hồi, CTM hôm nay."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhẹ, nguy cơ thấp, có vợ bên cạnh: theo dõi tại phòng khám rồi cai ngoại trú sát (Canada 2023 khuyến cáo 5–6) hoặc nhập viện (QĐ 2058/2020 mục 4.3.1). Nhập viện nếu ảo giác, lú lẫn, co giật, sốt, CIWA-Ar ≥ 15 (EASL 2018 tr. 158).",
+     "Chưa cần benzodiazepine ở CIWA-Ar 8 (EASL 2018 tr. 158); nếu tăng, benzodiazepine thận trọng, tác dụng ngắn/trung bình khi gan kém, không quá 10–14 ngày (ACG 2024 khuyến cáo 13; EASL 2018 tr. 158–159). Thay thế: gabapentin ở nguy cơ thấp (Canada 2023 khuyến cáo 6).",
+     "Thiamine tiếp tục (Canada 2023 Hình 3). Khi ổn, bắt đầu thuốc điều trị rối loạn sử dụng rượu (baclofen, acamprosate hoặc naltrexone: ACG 2024 khuyến cáo 9–10; EASL 2018 tr. 158–159; Canada 2023 khuyến cáo 10), cùng can thiệp ngắn và đa chuyên khoa (ACG 2024 khuyến cáo 8, 14). Không disulfiram (khuyến cáo 12).",
+     "Giải thích trung thực: gan nhiễm mỡ do rượu, chưa xơ (FIB-4 2,5, LSM 7,8 kPa), viêm gan virus âm tính, chưa miễn dịch viêm gan B. Còn đảo ngược được nếu kiêng kéo dài (ACG 2024 tr. 39; EASL 2018 tr. 167: nhiễm mỡ có thể hồi phục hoàn toàn sau vài tuần), nhưng 10–35% người uống nhiều tiến triển xơ hóa (EASL 2018 tr. 167).",
+     "Tiêm vắc xin viêm gan B (QĐ 1740/2026 Bảng 1); bệnh gan mạn nên tiêm thêm viêm gan A, cúm, phế cầu… (ACG 2024 tr. 40). Men gan còn tăng sau kiêng thì tìm nguyên nhân khác (ACG 2017 khuyến cáo 7–10, 16). Khoảng cách xét nghiệm lại: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Thiamine (vitamin B1)",
+      "ham_luong": "Chế phẩm có sẵn, tính theo hoạt chất",
+      "lieu": "200 mg/ngày (nội trú có thể 1 g/ngày tiêm)",
+      "duong": "Uống",
+      "thoi_diem": "1 lần mỗi ngày, sau ăn",
+      "so_ngay": "Hết giai đoạn cai; thời gian tiếp sau: không có trong tài liệu đã tải",
+      "ghi_chu": "Canada 2023 Hình 3 (uống 200 mg/ngày; tiêm 200–300 mg/ngày ≥ 5 ngày cho nguy cơ cao); QĐ 2058/2020 mục 4.3.1 (B1 liều cao 1 g/ngày, nên tiêm, cho nội trú)."
+     },
+     {
+      "thuoc": "Baclofen (nếu chọn; hoặc acamprosate/naltrexone như ghi trong phân tích)",
+      "ham_luong": "Viên 10 mg theo sẵn có; chia theo liều tính (5 mg = nửa viên)",
+      "lieu": "5 mg × 3 lần/ngày, tăng sau mỗi 3–5 ngày theo dung nạp, tối đa 15 mg × 3 lần/ngày (ACG 2024); hoặc không quá 80 mg/ngày (EASL 2018): số của ACG thận trọng hơn",
+      "duong": "Uống",
+      "thoi_diem": "Bắt đầu sau khi CIWA-Ar ổn định và có kế hoạch cai",
+      "so_ngay": "Thời gian trung bình 5,8 tháng trong nghiên cứu ACG 2024 tr. 37; thời gian điều trị chuẩn: không có trong tài liệu đã tải",
+      "ghi_chu": "ACG 2024 Bảng 1 khuyến cáo 9 (mạnh), tr. 37; EASL 2018 tr. 159. Chuẩn bị cho CCĐ, tương tác, an thần: không có trong tài liệu đã tải. Có thể thay bằng acamprosate (liều: không có trong tài liệu đã tải)."
+     }
+    ],
+    "dan_do": [
+     "Với bệnh nhân và vợ: 'Run và vã mồ hôi sáng nay là cơ thể thiếu rượu sau nhiều năm quen rượu, không phải viên vitamin gây ra. Cai rượu thường nhẹ nhưng có thể nặng lên trong vài ngày, nên cần theo dõi chứ không tự chịu đựng ở nhà.'",
+     "Đến ngay hoặc gọi cấp cứu nếu: co giật, thấy hay nghe thứ không có, lú lẫn, nói sảng, sốt, run tăng nhiều, nôn nhiều không uống được, đau đầu dữ dội, vàng da (ACG 2024 tr. 38).",
+     "Vợ ở bên, ghi lại giờ ngủ, mồ hôi, run; không cho uống lại rượu 'cắt run'; không tự mua thuốc ngủ hay an thần. Cần giảm đau thì paracetamol dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3).",
+     "Tái khám sau 24–48 giờ và 1–2 tuần; chăm sóc rối loạn sử dụng rượu lâu dài (Canada 2023 khuyến cáo 8); tiêm vắc xin viêm gan B. Giấy nghỉ ngắn ngày để cai an toàn (TT 56/2017/TT-BYT, nguồn bổ sung tự tìm)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Lượt 2: chị Hạnh ở lại bên anh Quý; theo dõi tại phòng khám khoảng 2 giờ, CIWA-Ar còn 5, mạch 88, huyết áp 138/84; về nhà theo dõi sát, tái khám 48 giờ. Không co giật, không ảo giác; run hết sau 4 ngày. Anh bắt đầu baclofen theo bậc thang, thiamine 200 mg/ngày; tiêm mũi viêm gan B đầu tiên. Tuần 3: hai bữa tiệc đám cưới uống lại (khoảng 60 g mỗi bữa), thèm rượu; được hẹn khám sớm, nhận chăm sóc đa chuyên khoa. Tuần 8 (chủ yếu kiêng): AST 36, ALT 22, GGT 98 (vẫn cao); tháng 3: GGT 61, AST/ALT bình thường, LSM 6,1 kPa. Men gan về bình thường chậm hơn nhiều so với 'uống thuốc hai tuần là khỏi' mà anh đã mong; một phần do lần uống lại ở tuần 3. Mốc thời gian chuẩn hóa men gan sau kiêng rượu: không có trong tài liệu đã tải; các số liệu trên là thiết kế của ca.",
+ "nhieu": [
+  "Tự uống thuốc 5 ngày: paracetamol 500 mg + caffeine 65 mg (2 g paracetamol/ngày), chlorpheniramine, Vita-Liver Plus gấp đôi, vitamin tổng hợp. Người bệnh nói 'thuốc giảm đau', không nhớ tên; phải xem vỉ thuốc. Dễ bị lái sang 'gan tổn thương do thuốc' (ACG 2017 khuyến cáo 11) dù men gan bất thường từ tháng 1.",
+  "Sự cố hóa chất là yếu tố khởi phát người bệnh bám vào: có thật (kích ứng niêm mạc, đã hồi phục) nhưng không giải thích bệnh gan; availability bias nếu chỉ giữ mệnh đề này, thờ ơ an toàn lao động nếu chỉ giữ mệnh đề kia.",
+  "Lý do thật là nỗi sợ tự làm hỏng gan bằng thực phẩm chức năng; vì ngại bị mắng nên không nói, và nghĩ đi làm đều thì không phải bệnh. Ở lượt 2 lại nghi tác dụng phụ của vitamin.",
+  "Rượu 'ba chén nhỏ' phải quy ra mL và ethanol (~250 mL rượu 40 độ ≈ 79 g/ngày); lượt 2 hội chứng cai dễ bị đọc là tác dụng phụ thuốc, hạ đường huyết hay bệnh não gan."
+ ],
+ "bai_hoc_bien": [
+  "Bắt đầu dòng thời gian từ 'lần cuối hoàn toàn khỏe' thay vì từ sự cố hóa chất; phiếu cũ tháng 1 chứa GGT 196, AST 62 là mảnh ghép quyết định.",
+  "Định lượng rượu bằng đồ đong (chén, chai) và người nhà; AUDIT-C 11/12 và DSM-5; đừng ghi 'uống nhiều'.",
+  "Không gọi xơ gan hay loại xơ gan bằng một chỉ số: FIB-4 (nhạy, kém đặc hiệu) rồi đàn hồi gan, đối chiếu tiểu cầu, albumin, INR (ACG 2024 tr. 39; EASL 2018 Bảng 4).",
+  "Ngừng một lúc nhiều thứ làm khó quy nguyên nhân; thực phẩm chức năng không rõ thành phần khi men gan bất thường thì ngưng.",
+  "Nói 'bỏ rượu đi' mà không có kế hoạch cai là chưa xong; người uống ~79 g/ngày × 14 năm có thể cai sau 6–24 giờ. Run + vã mồ hôi + thời điểm: nghĩ cai rượu trước khi nghĩ thuốc."
+ ],
+ "diem_nho": [
+  "AST:ALT ≥ 2:1, AST hiếm > 300 IU/L gợi ý ALD (ACG 2017, mục Alcoholic liver disease); EASL 2018 Bảng 5: tỷ số > 1 không đặc hiệu.",
+  "Nguy cơ ALD: > 30 g/ngày ở nam, > 20 g/ngày ở nữ (EASL 2018 tr. 159); ACG 2017: > 210 g/tuần nam, > 140 g/tuần nữ.",
+  "NIAAA 'probable AH': khởi phát vàng da trong 60 ngày, bilirubin > 3 mg/dL, AST 50–400, AST/ALT > 1,5 (ACG 2024 Bảng 5).",
+  "FIB-4 < 1,45 để loại xơ gan ở ALD (EASL 2018 Bảng 4); LSM 12,1 kPa cho xơ hóa tiến triển (ACG 2024 tr. 39); AST > 100 U/L (EASL) hoặc > 200 U/L (ACG) làm LSM cao giả.",
+  "CIWA-Ar > 8 vừa, ≥ 15 nặng (EASL 2018 tr. 158); cai thường 6–24 giờ sau chén cuối (ACG 2024 tr. 38)."
+ ],
+ "nguon": [
+  "ACG 2024, Clinical Guideline: Alcohol-Associated Liver Disease (Am J Gastroenterol 119:30–54) – TL-0202 – Bảng 1 khuyến cáo 1, 7–14; Bảng 2 khái niệm 11–15, 25; mục Alcohol withdrawal (tr. 38), Pharmacotherapy (tr. 37), Fibrosis assessment (tr. 39), Nutrition, Vaccinations (tr. 40), Bảng 5 (tr. 41)",
+  "EASL 2018, Clinical Practice Guidelines: Management of alcohol-related liver disease (J Hepatol 69:154–181) – TL-0228 – Bảng 2, 3 (tr. 157–158), AWS và thuốc điều trị AUD (tr. 158–159), chẩn đoán ALD và xét nghiệm (tr. 159), Bảng 4 (tr. 161), Bảng 5 (tr. 162), khuyến cáo sàng lọc (tr. 163), tự nhiên của ALD (tr. 167), paracetamol (tr. 170)",
+  "ACG 2017, Clinical Guideline: Evaluation of abnormal liver chemistries – TL-0231 – khuyến cáo 2–3, 6–11, 16–18; mục Alcoholic liver disease",
+  "Canadian guideline for the clinical management of high-risk drinking and alcohol use disorder, CMAJ 2023 – TL-0579 – Box 1; khuyến cáo 4–8, 10–11; Hình 3 (thiamine, diazepam); Bảng 3",
+  "Bộ Y tế – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 7, mục 3.1, 3.2.6, 4.3.1",
+  "Bộ Y tế – QĐ 1740/QĐ-BYT ngày 16/06/2026, Hướng dẫn chẩn đoán và điều trị viêm gan vi rút B – TL-0164 – mục II (xét nghiệm), Bảng 1; mục IV (đánh giá xơ hóa)",
+  "USPSTF 2020, Hepatitis C virus infection in adolescents and adults: Screening – TL-0686 – khuyến cáo độ B, tuổi 18–79",
+  "Bộ Y tế – QĐ 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID mục 3.3 (nguy cơ cao: bệnh gan, acetaminophen < 3 g/ngày); Phụ lục thuốc giảm đau mục 3.1",
+  "Thông tư 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT), Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm, theo sổ mâu thuẫn; chưa đối chiếu bản hiện hành)",
+  "Không có trong tài liệu đã tải: độc tính gan của ammonia và axit formic; liều B12, kẽm; liều acamprosate, gabapentin; các mục chấm PAWSS, CIWA-Ar; khoảng thời gian chuẩn hóa men gan sau kiêng rượu; lịch tiêm vắc xin viêm gan B/A cụ thể; khoảng cách tái khám cai rượu."
+ ],
+ "ghi_chu_bien_tap": [
+  "12/10/2026 (bản 1, viết: Sonnet). Đã đọc: TL-0202 (ACG 2024: Bảng 1, 2, 5; mục AUD, AWS, Fibrosis, Nutrition, Vaccinations), TL-0228 (EASL 2018: Bảng 2–5, mục AWS, thuốc, chẩn đoán, tự nhiên ALD, paracetamol), TL-0231 (ACG 2017: khuyến cáo, mục ALD), TL-0579 (Canada 2023), TL-0443 (QĐ 2058, Bài 7), TL-0164 (QĐ 1740, mục II, Bảng 1), TL-0686 (USPSTF HCV), TL-0286 (QĐ 361, Phụ lục NSAID). Tham khảo cốt truyện: ca-cu TH-1167 (mọi chi tiết lâm sàng đối chiếu lại nguồn).",
+  "Mâu thuẫn nguồn (xem TH-1167_mau_thuan.md): naltrexone ở ALD (ACG 2024, EASL 2018, Canada 2023); liều tối đa baclofen (ACG 15 mg × 3, EASL ≤ 80 mg/ngày); nơi cai rượu (QĐ 2058 nội trú, Canada 2023 ngoại trú); disulfiram (ACG, QĐ 2058); ngưỡng AST làm LSM cao giả (ACG 200, EASL 100). Áp dụng sổ cũ: thực phẩm chức năng khi men gan bất thường chấm w; paracetamol < 3 g/ngày; giấy nghỉ TT 56/2017.",
+  "Danh mục: chưa có 'đo độ đàn hồi gan' (gộp vào abdus) và 'anti-HBs/anti-HBc' (gộp vào virus_mau); xem TH-1167_de_xuat_danh_muc.json. Số liệu xét nghiệm, CIWA-Ar, LSM, diễn biến sau kết cục là thiết kế của ca. AUDIT-C 11: câu 2 chấm 3 điểm (7–9 đơn vị) theo EASL 2018 Bảng 3."
+ ]
+}
