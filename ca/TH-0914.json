@@ -1,0 +1,655 @@
+{
+ "ma_ca": "TH-0914",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới, đối chiếu kho tài liệu (2026-10-12)",
+ "benh": "TH_tao_bon_chuc_nang",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Táo bón chức năng",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư đại trực tràng",
+   "Tắc ruột"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau dùng NSAID",
+  "thuoc_dang_dung": "Thuốc bắc không rõ thành phần",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Minh Khôi",
+  "tuoi": 0.6,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 8.0,
+  "chieu_cao": 68,
+  "xung_ho": "Bé 7 tháng, chưa nói. Bà nội (66 tuổi) kể bệnh: bà xưng “bà”, gọi bác sĩ là “bác sĩ”, gọi bé là “cháu”.",
+  "tinh_cach": "Bé tỉnh, hay cười, bú khỏe; khi bị khám bụng và hậu môn thì khóc to rồi nín nhanh khi bà dỗ. Bà nội 66 tuổi, thương cháu, hiền nhưng nói nhiều, tin kinh nghiệm dân gian và lời hàng xóm; mẹ bé (28 tuổi, công nhân may) đi làm ca nên bà là người chăm chính.",
+  "kieu_nhieu": "Kể lể lộn xộn: bà nhảy từ chuyện sốt sang chuyện hàng xóm, chuyện ông lang, chuyện giá sữa rồi quay lại cái máu; ít khi trả lời thẳng vào câu hỏi. Bác sĩ phải chia nhỏ câu hỏi (mấy lần đi mỗi tuần, phân thế nào, máu ở đâu, thuốc gì đã cho) và tóm tắt lại cho bà xác nhận. Thông tin quan trọng (thuốc bắc, ibuprofen, mong muốn kháng sinh) chỉ lộ khi hỏi đúng.",
+  "nguoi_nha": "Bà nội đi cùng, kể gần như toàn bộ bệnh sử (nguoi_noi = nguoi_nha). Bé không nói được.",
+  "ten_nguoi_nha": "Bà nội (bà Nhàn)",
+  "ngoai_hinh": {
+   "da": "#f0c6a2",
+   "toc": "#2a1d17",
+   "kieuToc": "ngan",
+   "ao": "#9cc7e3",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#e0ac86",
+    "toc": "#b9b5b0",
+    "kieuToc": "bui",
+    "ao": "#8a6f5a",
+    "aoKieu": "baba",
+    "kinh": true,
+    "nep": 3,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bà nội đưa cháu 7 tháng đến khám vì cháu đi ngoài khó, rặn khóc, có vệt máu, bà lo bị viêm ruột",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Khôi, 7 tháng, bị nhập viện nhi vì “có máu trong phân”. Bé tỉnh, bú tốt, bụng mềm, không nôn, không sốt, vệt máu do một vết nứt kẽ nhỏ, nên không có chỉ định nằm viện (dấu báo động phải có: nôn mật, chướng bụng nặng, sốt, máu không do nứt kẽ: ESPGHAN 2014 Bảng 5, tr. 265). Bà nội phải ở lại viện, mẹ nghỉ làm, bé bị lấy máu và thêm xét nghiệm, trong khi PEG uống duy trì ở nhà đã đủ (khuyến cáo 33, tr. 270).",
+    "chuyen_tuyen": "Bé Khôi bị chuyển ngay đến bác sĩ tiêu hóa nhi để làm sinh thiết trực tràng hoặc đo áp lực hậu môn trực tràng vì nghĩ Hirschsprung. Bé đi phân su ngày đầu, trước đợt sốt đi ngoài đều, không chướng bụng hay nôn mật, chưa điều trị gì đúng nên chưa có chỉ định (ESPGHAN 2014 Hình 2, tr. 261: chuyển khi điều trị không hiệu quả; khuyến cáo 14–15, tr. 266). Gia đình tốn kém đi xa, bé khóc thêm trong thủ thuật, và vẫn chưa được làm mềm phân nên vết nứt tiếp tục đau và chảy máu."
+   },
+   "tiep_don": "Bé Phạm Minh Khôi, nam, 7 tháng 10 ngày, cân nặng 8,0 kg, bà nội đưa đến. Bà kể cháu đi ngoài khó, khóc, có máu khoảng một tháng nay. Sinh hiệu: mạch 128 l/p, nhịp thở 34 l/p, nhiệt độ nách 36,8 °C, SpO₂ 99%. Bé tỉnh, bú được.",
+   "loi_mo": "Ối bác sĩ ơi, cháu nhà tôi nó rặn đỏ cả mặt, khóc ré lên mà có ra được đâu, bố nó đi xe tải suốt, mẹ nó thì ca kíp, còn tôi ở nhà một mình với cháu. Mà trước đó cháu cũng ốm, rồi lại có máu, bà hàng xóm bảo… Bác sĩ khám giúp tôi với.",
+   "sinh_hieu": {
+    "mach": 128,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 34,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Khoảng 5 tuần nay cháu đi ngoài khó: rặn, khóc, mặt đỏ tím, phân ra từng cục cứng. Vài lần thấy vệt máu đỏ tươi. Bà sợ cháu bị viêm ruột, lỵ. Hôm nay không sốt, vẫn bú.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "tan_suat_phan",
+     "noi_dung": "Chừng 2 lần một tuần, cách 3–4 ngày mới đi một lần. Phân khô, vón từng cục cứng như hạt, có lần to; mỗi lần cháu rặn và khóc chừng 15 phút. Không có phân lỏng, không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số lần đi ngoài, tính chất phân, đi ngoài đau (Rome III)"
+    },
+    {
+     "id": "mau_phan",
+     "noi_dung": "Máu chỉ là vệt đỏ tươi dính ngoài cục phân và vài giọt trên tã, 3 lần trong 2 tuần nay. Không có máu trộn trong phân, không có nhầy, không phân đen, không phân như mứt dâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vị trí và kiểu máu trong phân (nứt kẽ hay xuất huyết tiêu hóa)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Trước đó cháu đi đều mỗi ngày, phân sệt. Táo bón bắt đầu sau một đợt sốt cảm 2 ngày cách đây 5 tuần (cháu bú kém mấy hôm). Gần như cùng lúc bà bắt đầu cho ăn dặm bột; bột pha đặc, rau và trái cây rất ít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời điểm khởi phát và yếu tố thúc đẩy (nhiễm trùng, đổi chế độ ăn)"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Hồi bị sốt, bà mua siro hạ sốt ở nhà thuốc đầu ngõ (chai màu cam, bà không nhớ tên, người bán nói là ibuprofen) cho uống 3 lần trong 2 ngày. Sau khi hết sốt thì cháu bắt đầu đi ngoài khó.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Khi hỏi cụ thể cháu đã uống thuốc hạ sốt, giảm đau gì, mua ở đâu, hoặc hỏi về đợt sốt trước khi táo bón. Hỏi chung chung “cháu đang dùng thuốc gì” thì bà chỉ nhắc thuốc bắc.",
+     "k": 1,
+     "y": "Dùng NSAID (ibuprofen) trước khi khởi phát"
+    },
+    {
+     "id": "thuoc_bac",
+     "noi_dung": "Khoảng 10 ngày nay bà cho cháu uống gói bột thuốc bắc bà mua ở một ông lang ngoài chợ để “mát người, hết nóng trong”, mỗi ngày 2 lần, nửa gói pha với nước. Bà không biết thành phần, gói không nhãn. Bà còn 2 gói và mang theo trong túi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Khi hỏi cụ thể thuốc bắc, thuốc nam, thuốc dân gian, thuốc cam, bột hoặc gói thuốc bà cho uống. Hỏi chung chung thì bà quên không nhắc vì cho là “thuốc mát chứ không phải thuốc”.",
+     "k": 1,
+     "y": "Thuốc bắc bột không rõ thành phần"
+    },
+    {
+     "id": "phan_su",
+     "noi_dung": "Cháu sinh thường đủ tháng, nặng 3,2 kg; đi phân su trong ngày đầu (giấy ra viện có ghi). Từ nhỏ đến trước đợt sốt cháu đi ngoài đều, phân sệt, không phải thụt hay dùng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân su ≤ 48 giờ, khởi phát không phải từ sơ sinh"
+    },
+    {
+     "id": "tang_truong",
+     "noi_dung": "Cháu tăng cân đều, sổ tiêm chủng ghi 6,9 kg lúc 5 tháng. Ăn: bú sữa công thức 5 cữ mỗi ngày (mẹ pha theo hộp), bột 2 bữa. Cháu bú tốt, không nôn, bụng không chướng, không quấy khóc từng cơn, tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tăng trưởng, không nôn, không chướng bụng (dấu hiệu báo động)"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không nôn dịch xanh hoặc vàng, không sốt hiện tại, không lừ đừ, không bỏ bú. Hậu môn không có lỗ hay chảy mủ; phân không dẹt như dải ruy băng, không phân phun thành tia.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu hiệu báo động"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không ai trong nhà bị bệnh phình đại tràng, bệnh tuyến giáp, xơ nang. Cháu không chàm, không dị ứng sữa bò. Bố mẹ khỏe; nhà ở xã gần phòng khám, nước giếng có lọc, nhà không sơn cũ, bố làm xe tải, không ai làm nghề tiếp xúc chì.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà tin có máu là “viêm ruột nhiễm trùng”: hàng xóm kể cháu bị kiết lỵ uống kháng sinh một hôm là khỏi. Bà đến để xin bác sĩ kê kháng sinh. Mẹ bé dặn “đừng tự cho kháng sinh”, nên bà mới đưa cháu đi khám.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Khi hỏi bà mong muốn gì hôm nay, bà lo điều gì nhất, hoặc vì sao bà nghĩ cháu bị viêm ruột. Không tự kể.",
+     "k": 1,
+     "y": "Động cơ thật: muốn kê kháng sinh"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân nặng 8,0 kg, dài 68 cm. Tỉnh, cười, nhìn theo người, khóc to có nước mắt khi bị khám; da hồng, niêm mạc ẩm, thóp trước phẳng, lòng bàn tay không nhợt, không vàng da, không phù. Không có dấu hiệu mất nước.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Mặt cân đối, không phù, lưỡi không to. Cổ: tuyến giáp không to. Không hạch cổ.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 128 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 128 l/p."
+    },
+    "phoi": {
+     "a": "Nhịp thở 34 l/p, rì rào phế nang rõ hai bên, không ran, không co lõm lồng ngực.",
+     "k": 0,
+     "hien": "Nhịp thở 34 l/p. Không co lõm lồng ngực."
+    },
+    "bung": {
+     "a": "Bụng không chướng, không quai ruột nổi, không sẹo. Nhu động ruột bình thường. Bụng mềm, không phản ứng, không sờ thấy khối phân hay khối bất thường, gan lách không to. Cầu bàng quang âm tính.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Quan sát: hậu môn đúng vị trí, không lỗ dò, không hẹp, không sẹo, không búi da thừa. Có một vết nứt nhỏ ở vị trí 6 giờ, đáy đỏ, còn dính vệt máu tươi. Quanh hậu môn không đỏ ướt, không dính phân lỏng. Phản xạ co hậu môn có. Thăm trực tràng bằng ngón út (nếu làm): cơ thắt trương lực bình thường, bóng trực tràng không rỗng, có phân cứng, khi rút ngón tay không có phân hay hơi phun thành tia; găng dính ít máu tươi.",
+     "k": 1,
+     "hien": "Quan sát hậu môn: vị trí bình thường, có vết nứt nhỏ ở 6 giờ dính vệt máu tươi, không lỗ dò, không sẹo."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, tương tác tốt. Trương lực và vận động hai chân bình thường, đạp đều, ngồi có chống tay. Có phản xạ co hậu môn khi kích thích da quanh hậu môn.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Vùng thắt lưng – cùng: không lõm da, không búi lông, không khối. Rãnh liên mông thẳng, mông không dẹt.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không chàm, không ban, không chấm xuất huyết, da không khô, không vàng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "xq_bung": {
+     "v": "n",
+     "r": "Phân ứ ít ở khung đại tràng, không quai ruột giãn, không mức nước hơi.",
+     "n": "Không cần: ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 6–7 (tr. 265): không dùng thường quy; chỉ khi nghi ứ phân mà khám không đáng tin cậy hoặc không khám được. QĐ 3312/2015 (TL-0037) Táo bón mục 3.2.1 (tr. 331): chỉ khi không thăm khám được hậu môn trực tràng. Ở bé bụng mềm, không khối, khám hậu môn rõ."
+    },
+    "abdus": {
+     "v": "n",
+     "r": "Phân trong đại tràng, quai ruột không giãn, không dịch tự do.",
+     "n": "Không cần: ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 10 (tr. 265): không khuyến cáo siêu âm trực tràng để chẩn đoán táo bón chức năng."
+    },
+    "tsh": {
+     "v": "n",
+     "r": "TSH 2,6 mUI/L · FT4 15 pmol/L",
+     "n": "Không cần: ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 13 (tr. 266): không xét nghiệm thường quy suy giáp, celiac, tăng canxi máu khi không có dấu hiệu báo động; QĐ 3312/2015 (TL-0037) Táo bón mục 3.2.4 (tr. 332): chỉ làm T4, TSH khi nghi nguyên nhân thực thể. Bé tăng cân đều, tỉnh, thóp phẳng, tuyến giáp không to."
+    },
+    "canxi": {
+     "v": "n",
+     "r": "Canxi toàn phần 2,45 mmol/L",
+     "n": "Không cần: ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 13 (tr. 266). Không có dấu báo động."
+    },
+    "celiac": {
+     "v": "n",
+     "r": "Anti-tTG IgA âm tính.",
+     "n": "Không cần: ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 13 (tr. 266): không xét nghiệm thường quy tìm celiac ở trẻ táo bón không có dấu hiệu báo động. Bé mới ăn dặm bột, không tiêu chảy hay chậm tăng cân."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 2 mg/L",
+     "n": "Không cần: bé không sốt, tỉnh, bú tốt, phân không lỏng; vệt máu có nguồn rõ là vết nứt. Táo bón chức năng chẩn đoán bằng hỏi bệnh và khám (QĐ 3312/2015 (TL-0037) mục 4, tr. 332; ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 2, tr. 262)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 9,2 G/L · Neu 32% · Lym 58% · Hb 118 g/L · MCV 78 fL · TC 310 G/L",
+     "bang": {
+      "wbc": 9.2,
+      "neu_pct": 32,
+      "lym_pct": 58,
+      "hgb": 118,
+      "mcv": 78,
+      "plt": 310
+     },
+     "n": "Chấp nhận, không bắt buộc: không cần để chẩn đoán táo bón (QĐ 3312/2015 (TL-0037) mục 4, tr. 332). Làm cùng chì máu là hợp lý vì QĐ 3610/2015 (kho cũ tltk-10000-ca) Ngộ độc chì mục 3.2 (tr. 194–195) nêu thiếu máu là biểu hiện huyết học của nhiễm chì. Hb 118 g/L, không thiếu máu; số bạch cầu bình thường, không dấu hiệu nhiễm khuẩn."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Phân khuôn cứng, hồng cầu rải rác ít, không bạch cầu, không thấy ký sinh trùng.",
+     "n": "Chấp nhận, không bắt buộc: bà lo “lỵ” nên soi phân giúp trấn an và cho thấy không có bạch cầu. Không thay đổi xử trí vì phân cứng, không tiêu chảy; WHO 2024 (TL-0245) Diarrhoea khuyến cáo 2 chỉ nói đến tiêu chảy kèm máu trong phân."
+    },
+    "chi_mau": {
+     "v": "u",
+     "r": "Chì máu toàn phần 3 µg/dL (bình thường < 10 µg/dL).",
+     "n": "Hữu ích: bé đang uống thuốc bắc bột không rõ nguồn gốc; QĐ 3610/2015 (kho cũ tltk-10000-ca) Ngộ độc chì mục 2 (tr. 192) nêu thuốc cam, thuốc sài không rõ nguồn gốc là nguyên nhân; mục 3.2 (tr. 194–195): tiền sử dùng thuốc không rõ nguồn gốc gợi ý nguy cơ, nồng độ chì máu toàn phần > 10 µg/dL là tiêu chuẩn quan trọng nhất; táo bón là biểu hiện tiêu hóa. ESPGHAN/NASPGHAN 2014 (TL-0269) Bảng 3 (tr. 263) cũng xếp ngộ độc chì (kim loại nặng) trong chẩn đoán phân biệt. Thuốc bắc bột là thuốc không rõ nguồn gốc cùng loại (nhận xét của ca, tài liệu chỉ nêu thuốc cam, thuốc sài). Kết quả 3 µg/dL: không nhiễm chì."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng ở nhũ nhi 7 tháng, kèm nứt kẽ hậu môn gây vệt máu; khởi phát sau đợt sốt (dùng ibuprofen) và đổi chế độ ăn dặm; đang dùng thuốc bắc không rõ thành phần",
+     "ok": 1,
+     "n": "Có 2 trong 6 tiêu chuẩn Rome III cho trẻ < 4 tuổi (≤ 2 lần đi ngoài mỗi tuần; tiền sử đi ngoài đau hoặc phân cứng), kéo dài hơn 1 tháng (cần ≥ 2 tiêu chuẩn trong ≥ 1 tháng) (ESPGHAN/NASPGHAN 2014 (TL-0269) Bảng 2, tr. 261; QĐ 3312/2015 (TL-0037) mục 4.1, tr. 332). Khởi phát sau vài tuần đầu đời, đi phân su sớm, tăng trưởng bình thường (Bảng 4, tr. 264). Sốt cảm và đổi chế độ ăn là yếu tố thúc đẩy (Bảng 4). Rome V (2026, TL-0252) Bảng 2: H2a “Functional constipation”; tiêu chuẩn nhi chi tiết của Rome V không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tắc ruột (tắc ruột cơ học, lồng ruột)",
+     "n": "Loại trừ: không nôn dịch mật, bụng không chướng, không quai ruột nổi, không khóc từng cơn, còn đi ngoài và bú tốt (nôn dịch mật và chướng bụng nặng là dấu hiệu báo động: ESPGHAN/NASPGHAN 2014 (TL-0269) Bảng 5, tr. 265; QĐ 3312/2015 (TL-0037) mục 3.1.2, tr. 331: táo bón có thể kèm dấu tắc ruột). Không sẹo mổ. X-quang bụng không cần (khuyến cáo 6–7)."
+    },
+    {
+     "t": "Ung thư đại trực tràng",
+     "n": "Loại trừ: không chảy máu trộn trong phân, không thiếu máu (Hb 118 g/L), không sụt cân, không khối bụng; máu có nguồn là vết nứt kẽ (máu trong phân khi không có nứt kẽ mới là dấu báo động: ESPGHAN/NASPGHAN 2014 (TL-0269) Bảng 5, tr. 265). Tài liệu đã tải chỉ nói về sàng lọc ung thư đại trực tràng ở người lớn (từ 45 tuổi: USPSTF 2021 khuyến cáo mức B; từ 50 tuổi: Asia-Pacific 2022 tóm tắt), không có mục ung thư đại trực tràng ở nhũ nhi (không có trong tài liệu đã tải); loại trừ dựa trên lâm sàng."
+    },
+    {
+     "t": "Bệnh Hirschsprung (phình đại tràng bẩm sinh)",
+     "n": "Ít nghĩ: đi phân su trong ngày đầu, trước đợt sốt đi ngoài đều (không khởi phát từ sơ sinh), không chướng bụng, không nôn dịch mật, bóng trực tràng không rỗng, không phân hay hơi phun thành tia khi rút ngón tay (ESPGHAN/NASPGHAN 2014 (TL-0269) Bảng 4–5, tr. 264–265; ERNICA 2020 Bảng 1: bộ ba chậm phân su > 24 giờ, chướng bụng, nôn mật). Lưu ý QĐ 3312/2015 (TL-0037) mục 4.3 (tr. 333) xếp “táo bón xuất hiện ở trẻ dưới 1 tuổi” là dấu hiệu gợi ý nguyên nhân thực thể, còn ESPGHAN chỉ coi khởi phát < 1 tháng là dấu báo động: bé 7 tháng khởi phát sau tháng thứ 6 nên đây là chỗ không điển hình, đã đối chiếu và không đủ dấu thực thể. Sinh thiết trực tràng là tiêu chuẩn vàng khi nghi (khuyến cáo 15, tr. 266), chưa có chỉ định."
+    },
+    {
+     "t": "Nhiễm khuẩn đường ruột (kiết lỵ) cần kháng sinh",
+     "n": "Không phù hợp: bé không tiêu chảy, không sốt, bạch cầu phân âm, máu chỉ là vệt ngoài cục phân cứng ở bé có vết nứt. WHO 2024 (TL-0245) Diarrhoea khuyến cáo 2 dùng kháng sinh cho trẻ ≤ 10 tuổi tiêu chảy có máu trong phân: bé không thuộc nhóm này."
+    },
+    {
+     "t": "Nhiễm độc chì do thuốc bắc không rõ nguồn gốc",
+     "n": "Chì máu 3 µg/dL < 10 µg/dL (QĐ 3610/2015 (kho cũ tltk-10000-ca) mục 1, 3.2); bé tỉnh, không quấy, không nôn, không thiếu máu. Vẫn phải ngưng thuốc không rõ nguồn gốc (mục 4.1, tr. 195: xác định nguồn chì và ngừng phơi nhiễm)."
+    },
+    {
+     "t": "Đi ngoài khó ở nhũ nhi (infant dyschezia) và nguyên nhân thực thể khác (suy giáp, dị ứng đạm sữa bò)",
+     "n": "Dyschezia là rặn khóc ≥ 10 phút rồi ra phân mềm hoặc lỏng, đi hằng ngày (ESPGHAN/NASPGHAN 2014 (TL-0269) tr. 262, phần định nghĩa; tài liệu không bàn thêm về dyschezia): bé có phân cứng, 2 lần/tuần nên không phải. Không chàm, không dị ứng sữa bò, không tiêu chảy nên chưa thử loại trừ đạm sữa bò (khuyến cáo 11–12, tr. 266: chỉ thử 2–4 tuần ở táo bón khó chữa). Suy giáp: xem TSH (khuyến cáo 13)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích cho bà: đây là táo bón làm phân cứng, nứt hậu môn chảy máu, không phải viêm ruột hay lỵ; không cần kháng sinh; điều trị chính là làm mềm phân bằng thuốc uống đều đặn",
+     "v": "c",
+     "n": "Tư vấn, giải thích cho gia đình (QĐ 3312/2015 (TL-0037) mục 5.2a, tr. 333). Kháng sinh không có chỉ định: bé không tiêu chảy kèm máu (WHO 2024 Diarrhoea khuyến cáo 2). Chi tiết hại của kháng sinh ở nhũ nhi không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng thuốc bắc bột không rõ nguồn gốc; giữ lại 2 gói còn lại; không cho thêm thuốc nam, thuốc cam, thuốc bột không biết thành phần",
+     "v": "c",
+     "n": "QĐ 3610/2015 (kho cũ tltk-10000-ca) Ngộ độc chì mục 4.1 (tr. 195): xác định nguồn và ngừng phơi nhiễm; mục 3.3: xét nghiệm mẫu thuốc nghi ngờ. ESPGHAN/NASPGHAN 2014 (TL-0269) tr. 262: hỏi tiền sử thuốc kể cả thuốc thảo dược."
+    },
+    {
+     "t": "Polyethylene glycol (PEG) uống duy trì: khởi đầu 0,4 g/kg/ngày (bé 8,0 kg: 3,2 g/ngày), chỉnh theo đáp ứng trong khoảng 0,2–0,8 g/kg/ngày (1,6–6,4 g/ngày), hoặc 1 g/kg/ngày (8 g/ngày) theo QĐ 3312; con số 0,4 g/kg thận trọng hơn",
+     "v": "c",
+     "n": "Mâu thuẫn đã có trong sổ (NH-1091): ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 33 (tr. 270) và Bảng 6 (tr. 269): PEG đầu tay, khởi đầu 0,4 g/kg/ngày, chỉnh theo đáp ứng, duy trì 0,2–0,8 g/kg/ngày; QĐ 3312/2015 (TL-0037) Táo bón mục 5.2c (tr. 334): PEG 3350 không điện giải 1 g/kg/ngày, vượt cận trên của ESPGHAN. Ghi cả hai; khởi đầu thận trọng. Không có phân ứ nên không làm sạch phân ứ (liều 1–1,5 g/kg/ngày chỉ cho phân ứ: khuyến cáo 31). Tài liệu không ghi tuổi tối thiểu dùng PEG."
+    },
+    {
+     "t": "Chế độ ăn ở mức bình thường theo tuổi: đủ sữa và nước, ăn dặm đa dạng có rau, trái cây; pha bột đúng độ đặc",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 21–22 (tr. 268): lượng chất xơ và dịch bình thường; QĐ 3312/2015 (TL-0037) mục 5.2c (tr. 334): tăng dịch, carbohydrate, chất xơ. Hai nguồn cùng hướng, không bổ sung xơ liều cao thay thuốc. Chi tiết “pha đặc làm táo bón” không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần; dặn đến sớm nếu nôn dịch xanh vàng, bụng chướng căng, sốt, khóc từng cơn, máu nhiều hoặc máu trộn trong phân, bỏ bú, lừ đừ",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2014 (TL-0269) Hình 2 (tr. 261), hộp 10: đánh giá sau 2 tuần xem điều trị có hiệu quả; Bảng 5 (tr. 265): dấu hiệu báo động (nôn mật, chướng bụng nặng, sốt, máu trong phân khi không có nứt kẽ)."
+    },
+    {
+     "t": "Lactulose uống thay cho PEG",
+     "v": "a",
+     "n": "ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 35 (tr. 270): lactulose là lựa chọn đầu tay khi không có PEG; Bảng 6: 1–2 g/kg, 1–2 lần/ngày; QĐ 3312/2015 (TL-0037) mục 5.2c: 1–3 mL/kg/ngày chia 2 lần. Ở đây PEG sẵn có nên PEG ưu tiên."
+    },
+    {
+     "t": "Cho men vi sinh hoặc prebiotic để trị táo bón",
+     "v": "a",
+     "n": "ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 24–25 (tr. 268): không khuyến cáo thường quy prebiotic, probiotic; ESPGHAN probiotic 2023 (TL-0258), phần Functional constipation: không khuyến cáo (mức khuyến cáo yếu). Không nguồn nào nói có hại."
+    },
+    {
+     "t": "Kê kháng sinh vì bà lo viêm ruột",
+     "v": "w",
+     "n": "Không có chỉ định: bé không tiêu chảy, không sốt (WHO 2024 Diarrhoea khuyến cáo 2: kháng sinh cho tiêu chảy có máu). Hại của kháng sinh ở nhũ nhi không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thụt tháo hoặc đặt thuốc nhuận tràng kích thích (bisacodyl, thụt phosphate) cho bé 7 tháng",
+     "v": "w",
+     "n": "Không có ứ phân: thụt tháo chỉ khi ứ phân mà không có PEG (ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 31–32, tr. 269); không thêm thụt vào PEG duy trì (khuyến cáo 34). QĐ 3312/2015 (TL-0037) mục 5.2b–c: Fleet cho trẻ > 2 tuổi, bisacodyl cho trẻ ≥ 2 tuổi; thuốc kích thích chỉ thuốc bậc hai (ESPGHAN khuyến cáo 36)."
+    },
+    {
+     "t": "Chuyển nhi tiêu hóa, sinh thiết trực tràng hoặc đo áp lực hậu môn trực tràng ngay",
+     "v": "w",
+     "n": "Chưa có dấu báo động (ESPGHAN 2014 Bảng 5); chuyển khi điều trị không hiệu quả sau 2 tuần theo Hình 2 (tr. 261) hộp 10–17. Sinh thiết là tiêu chuẩn vàng khi nghi Hirschsprung (khuyến cáo 15), đo áp lực hậu môn trực tràng chủ yếu cho táo bón khó chữa (khuyến cáo 14)."
+    },
+    {
+     "t": "Chỉ bổ sung chất xơ liều cao hoặc uống thêm nhiều nước thay cho thuốc",
+     "v": "w",
+     "n": "ESPGHAN/NASPGHAN 2014 (TL-0269) mục 6.1–6.2 (tr. 267): bằng chứng không ủng hộ bổ sung xơ hay uống thêm nước để điều trị táo bón chức năng; khuyến cáo 21–22: chỉ ở mức bình thường."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng ở nhũ nhi 7 tháng (đủ tiêu chuẩn Rome III cho trẻ < 4 tuổi, kéo dài hơn 1 tháng), không có ứ phân",
+     "Nứt kẽ hậu môn nhỏ (6 giờ) gây vệt máu tươi ngoài phân; không phải xuất huyết tiêu hóa hay lỵ",
+     "Yếu tố thúc đẩy: đợt sốt cảm 5 tuần trước (dùng ibuprofen, bú kém) và bắt đầu ăn dặm bột đặc ít rau",
+     "Đang dùng thuốc bắc bột không rõ thành phần 10 ngày: đã làm chì máu (3 µg/dL), không nhiễm chì; cần ngưng",
+     "Không có dấu báo động; tăng trưởng, phát triển bình thường; không có chỉ định cận lâm sàng thêm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) hỏi bệnh: tuổi khởi phát, số lần đi ngoài, tính chất phân, máu ở đâu, phân su, chế độ ăn, thuốc kể cả thuốc bắc, đợt sốt trước đó, dấu báo động; (2) khám: tăng trưởng, bụng, quan sát hậu môn, vùng thắt lưng – cùng, thần kinh chi dưới; (3) cận lâm sàng: không bắt buộc; (4) chẩn đoán và loại trừ; (5) xử trí. Táo bón chức năng chẩn đoán bằng hỏi bệnh và khám (ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 2, tr. 262; QĐ 3312/2015 (TL-0037) mục 4, tr. 332).",
+     "Vì sao bà kể “viêm ruột” mà không phải: lời kể lộn xộn nhưng hỏi kỹ thì phân khô cứng, 2 lần/tuần, rặn khóc, máu chỉ là vệt ngoài cục phân, không tiêu chảy, không sốt. Bà đã nghĩ “có máu = lỵ”; kháng sinh theo WHO 2024 chỉ cho tiêu chảy kèm máu (Diarrhoea khuyến cáo 2).",
+     "Tiêu chuẩn: Rome III cho tuổi phát triển < 4 tuổi cần ≥ 2 trong 6 tiêu chuẩn trong ≥ 1 tháng (≤ 2 lần/tuần, tiền sử đi ngoài đau hoặc phân cứng, khối phân lớn trong trực tràng…), ESPGHAN/NASPGHAN 2014 (TL-0269) Bảng 2 (tr. 261), khuyến cáo 1 (tr. 262); QĐ 3312/2015 (TL-0037) mục 4.1. Bé có 2 tiêu chuẩn (≤ 2 lần/tuần; phân cứng, đi ngoài đau), đủ ≥ 2; “khối phân lớn trong trực tràng” không cần xác định. Rome V 2026 (TL-0252, Bảng 2) chỉ có phân loại H2a; tiêu chuẩn nhi chi tiết không có trong tài liệu đã tải (xem sổ mâu thuẫn).",
+     "Chỗ không điển hình: QĐ 3312/2015 (TL-0037) mục 4.3 (tr. 333) xếp “táo bón xuất hiện ở trẻ dưới 1 tuổi” và “có máu trong phân” là gợi ý nguyên nhân thực thể, còn ESPGHAN/NASPGHAN 2014 (TL-0269) Bảng 5 chỉ coi khởi phát < 1 tháng và máu trong phân khi không có nứt kẽ là dấu báo động. Bé 7 tháng, khởi phát sau tháng thứ 6, máu có nứt kẽ giải thích, nên vẫn nghĩ chức năng. Bảng 4 (tr. 264): bắt đầu sau vài tuần đến vài tháng tuổi, phân su bình thường, bụng mềm, tăng trưởng bình thường, hậu môn bình thường.",
+     "Loại trừ: tắc ruột (không nôn dịch mật, không chướng bụng); Hirschsprung (phân su sớm, khởi phát muộn, bóng trực tràng không rỗng); ung thư đại trực tràng (không máu trộn phân, không thiếu máu; loại trừ bằng lâm sàng); lỵ (không tiêu chảy, không sốt). Thăm trực tràng bằng ngón tay không cần: chỉ khi 1 tiêu chuẩn Rome III hoặc có dấu báo động (ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 4–5, tr. 265), bé đã đủ 2 tiêu chuẩn.",
+     "Thuốc bắc không rõ nguồn gốc: QĐ 3610/2015 (kho cũ tltk-10000-ca) Ngộ độc chì mục 2 (tr. 192) nêu thuốc cam, thuốc sài không rõ nguồn gốc là nguyên nhân; mục 3.2: chì máu > 10 µg/dL là tiêu chuẩn quan trọng nhất. Chì máu 3 µg/dL: không nhiễm chì. Ibuprofen gây táo bón ở nhũ nhi: không có trong tài liệu đã tải; sốt và bú kém là yếu tố thúc đẩy (ESPGHAN/NASPGHAN 2014 (TL-0269) Bảng 4)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về điều trị ngoại trú, hẹn tái khám sau 2 tuần (ESPGHAN/NASPGHAN 2014 (TL-0269) Hình 2 hộp 10). Không có dấu báo động, bé tỉnh, bú tốt, tăng cân, nên không nhập viện, không chuyển tuyến.",
+     "Làm mềm phân bằng PEG uống: đầu tay, khởi đầu 0,4 g/kg/ngày chỉnh theo đáp ứng (khuyến cáo 33, Bảng 6); QĐ 3312 mục 5.2c ghi 1 g/kg/ngày. Hai con số khác nhau (đã có trong sổ mâu thuẫn): ESPGHAN thận trọng hơn (QĐ 3312 mới hơn một năm nhưng 1 g/kg vượt cận trên khoảng duy trì của ESPGHAN); ghi cả hai, khởi đầu 3,2 g/ngày. Không cần làm sạch phân ứ (khám bụng không khối, trực tràng không đầy). Duy trì ít nhất 2 tháng (khuyến cáo 37).",
+     "Ngưng thuốc bắc không rõ nguồn: nguyên tắc ngừng phơi nhiễm (QĐ 3610/2015 (kho cũ tltk-10000-ca) mục 4.1). Giữ gói thuốc để xét nghiệm mẫu nếu cần (mục 3.3).",
+     "Chế độ ăn: bình thường theo tuổi (ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 21–22; QĐ 3312/2015 (TL-0037) mục 5.2c), không dùng chất xơ liều cao hay thêm nước thay thuốc (mục 6.1–6.2).",
+     "Không kháng sinh, không men vi sinh thường quy (ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 24–25), không thụt tháo, không thuốc kích thích ở bé 7 tháng (QĐ 3312/2015 (TL-0037) mục 5.2b–c: từ 2 tuổi).",
+     "Trả lời đúng nỗi lo thật của bà (sợ viêm ruột, muốn kháng sinh): giải thích máu từ vết nứt do phân cứng, phân mềm thì máu hết; hẹn kiểm tra lại theo ESPGHAN 2014 Hình 2. Lời kể lộn xộn: tóm tắt từng ý cho bà xác nhận."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "PEG (polyethylene glycol) 3350 hoặc 4000 không điện giải, dạng gói bột pha uống",
+      "ham_luong": "Hàm lượng mỗi gói theo chế phẩm có sẵn (không có trong tài liệu đã tải); tính liều theo gam.",
+      "lieu": "Khởi đầu 0,4 g/kg/ngày = 3,2 g/ngày (bé 8,0 kg); chỉnh theo đáp ứng trong khoảng 0,2–0,8 g/kg/ngày (1,6–6,4 g/ngày). QĐ 3312 ghi 1 g/kg/ngày (8 g/ngày) nhưng con số này vượt cận trên của ESPGHAN nên khởi đầu theo 0,4 g/kg.",
+      "duong": "Uống, hòa với nước theo hướng dẫn trên gói (cách pha và lượng nước: không có trong tài liệu đã tải).",
+      "thoi_diem": "1 lần mỗi ngày, cùng một giờ mỗi ngày (giờ uống cụ thể: không có trong tài liệu đã tải; chọn buổi sáng cho dễ nhớ).",
+      "so_ngay": "Ít nhất 2 tháng; tái khám sau 2 tuần để chỉnh liều.",
+      "ghi_chu": "ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 33 (tr. 270), khuyến cáo 37 (≥ 2 tháng), Bảng 6 (tr. 269); QĐ 3312/2015 (TL-0037) mục 5.2c (tr. 334): 1 g/kg/ngày. Mâu thuẫn đã có trong sổ (NH-1091): ghi cả hai, 0,4 g/kg thận trọng hơn."
+     }
+    ],
+    "dan_do": [
+     "Phân của cháu cứng làm nứt hậu môn nên chảy máu; đây không phải viêm ruột, không cần kháng sinh. Thuốc làm mềm phân sẽ giúp phân ra dễ, vết nứt tự lành.",
+     "Cho cháu uống PEG đều mỗi ngày (khởi đầu 3,2 g/ngày), kể cả khi cháu đi ngoài tốt; không tự ngưng; ít nhất 2 tháng (ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 37). Cách pha theo hướng dẫn trên gói.",
+     "Ngưng hẳn gói thuốc bắc ông lang cho; giữ 2 gói còn lại mang theo. Không cho thuốc bột, thuốc cam, thuốc nam không biết thành phần (QĐ 3610/2015 (kho cũ tltk-10000-ca) mục 4.1). Khi cháu sốt, hỏi bác sĩ hoặc dược sĩ trước khi mua thuốc.",
+     "Cho cháu ăn dặm đủ bữa, thêm rau và trái cây xay nhuyễn theo tuổi, vẫn bú sữa đủ cữ; pha bột và sữa đúng hướng dẫn trên hộp (chi tiết độ đặc: không có trong tài liệu đã tải).",
+     "Đến khám ngay nếu cháu nôn dịch xanh hoặc vàng, bụng chướng căng, sốt, khóc thét từng cơn, máu nhiều hay máu trộn trong phân, bỏ bú, lừ đừ (ESPGHAN/NASPGHAN 2014 (TL-0269) Bảng 5, tr. 265).",
+     "Tái khám sau 2 tuần, mang theo ghi chép số lần đi ngoài và tính chất phân (nhật ký, ESPGHAN/NASPGHAN 2014 (TL-0269) tr. 262) và gói thuốc còn lại."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 (tái khám sau 2 tuần)",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Bé Khôi, đã đi ngoài hằng ngày, phân mềm, hết máu, tăng 300 g sau 2 tuần, bị chuyển đến bác sĩ tiêu hóa nhi để làm thêm xét nghiệm “cho chắc”. Bé không có dấu báo động và đã đáp ứng hoàn toàn với điều trị thông thường, nên không có chỉ định (ESPGHAN 2014 Hình 2, tr. 261: chuyển khi điều trị không hiệu quả hoặc có dấu báo động; khuyến cáo 13–14, tr. 266). Gia đình mất thêm một ngày đi lại, bé bị lấy máu hoặc làm thủ thuật không cần thiết, và bà càng tin bé “bệnh nặng” nên thêm thuốc dân gian.",
+    "nhap_vien": "Bé Khôi bị giữ nhập viện để “theo dõi sau điều trị” dù bé khỏe, ăn ngủ tốt, đi ngoài hằng ngày, bụng mềm. Điều bé cần là uống PEG đều ít nhất 2 tháng và giảm thuốc dần khi hết triệu chứng ≥ 1 tháng, làm tại nhà (ESPGHAN 2014 khuyến cáo 37, tr. 270). Nằm viện làm bà và mẹ mất thêm ngày công, bé có nguy cơ lây bệnh trong viện, mà việc quan trọng nhất là bà không tự ngưng thuốc vẫn chưa được dặn."
+   },
+   "tiep_don": "Bé Phạm Minh Khôi, 7 tháng 24 ngày, cân nặng 8,3 kg, bà nội đưa đến tái khám theo hẹn sau 2 tuần. Bà báo cháu đỡ nhiều. Sinh hiệu: mạch 124 l/p, nhịp thở 32 l/p, nhiệt độ nách 36,7 °C, SpO₂ 99%. Bé tỉnh, cười, ngồi vững.",
+   "loi_mo": "Cháu đỡ rồi bác sĩ ơi, hết khóc, hết máu rồi. Hôm nọ bà quên một bữa thuốc, mà bà hàng xóm lại bảo thuốc tây uống nhiều không tốt, nhà thằng cháu bà ấy… Thế giờ bà cho cháu thôi nhé?",
+   "sinh_hieu": {
+    "mach": 124,
+    "ha": "Không đo",
+    "nhiet": "36,7",
+    "nhip_tho": 32,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bà đưa cháu đến tái khám theo hẹn: “cháu đỡ rồi, hết khóc, hết máu”.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám"
+    },
+    {
+     "id": "tan_suat_phan",
+     "noi_dung": "Mấy hôm nay cháu đi ngoài mỗi ngày 1 lần, phân mềm sệt như kem đặc, ra dễ, không rặn khóc, không còn cục cứng. Đã gần 10 ngày như vậy. Không có máu từ khoảng 1 tuần nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tần số, tính chất phân, hết đau và hết máu"
+    },
+    {
+     "id": "tuan_thu_peg",
+     "noi_dung": "Mẹ pha PEG 3,2 g mỗi sáng cho cháu uống; bà cho uống đều, chỉ quên 1 hôm. Uống không nôn, cháu không tiêu chảy, không chướng bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc và tác dụng phụ"
+    },
+    {
+     "id": "thuoc_bac",
+     "noi_dung": "Bà đã ngưng thuốc bắc ngay hôm khám, còn giữ 2 gói trong túi và mang theo hỏi bác sĩ có cho tiếp được không vì “tiếc”.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã ngưng thuốc bắc"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Cháu bú sữa công thức 5 cữ, ăn bột 2 bữa, nay có thêm rau và chuối nghiền. Cháu ăn tốt, không nôn, không sốt, chơi nhiều, đã tập ngồi vững.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chế độ ăn, tăng trưởng, không dấu báo động"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không nôn dịch xanh, không chướng bụng, không sốt, không máu, không lừ đừ, không phân đen hay phân bạc màu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà thấy cháu khỏe nên muốn cho ngưng PEG: bà nghe “thuốc tây uống nhiều quen thuốc, ruột lười”. Bà định cho uống tiếp gói thuốc bắc cho “mát” rồi bỏ PEG. Bà hỏi có phải làm thêm xét nghiệm hay chụp hình kiểm tra cho chắc không.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Khi hỏi bà dự định thế nào với thuốc đang uống, bà nghĩ có cần tiếp tục không, hoặc bà còn lo điều gì. Không tự kể.",
+     "k": 1,
+     "y": "Dự định ngưng thuốc sớm, quay lại thuốc bắc; lo “quen thuốc”"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân nặng 8,3 kg (tăng 300 g sau 2 tuần). Tỉnh, cười, ngồi vững, bập bẹ; da hồng, niêm mạc ẩm, thóp phẳng.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không sờ thấy khối phân, nhu động bình thường, gan lách không to.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Quan sát: hậu môn bình thường, vết nứt ở 6 giờ đã liền, không còn máu. Thăm trực tràng không cần làm.",
+     "k": 1,
+     "hien": "Quan sát hậu môn: vết nứt cũ đã liền, không còn máu."
+    },
+    "tim": {
+     "a": "Tim đều 124 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 124 l/p."
+    },
+    "phoi": {
+     "a": "Nhịp thở 32 l/p, rì rào phế nang rõ, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 32 l/p."
+    }
+   },
+   "cls": {
+    "xq_bung": {
+     "v": "n",
+     "r": "Không có phân ứ, không quai ruột giãn.",
+     "n": "Không cần: bé đã đáp ứng, bụng mềm. ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 6 (tr. 265): không dùng thường quy; không có khuyến cáo chụp kiểm tra khi đã khỏi (không có trong tài liệu đã tải)."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Hb 120 g/L · BC 8,8 G/L · TC 300 G/L",
+     "bang": {
+      "wbc": 8.8,
+      "hgb": 120,
+      "plt": 300
+     },
+     "n": "Không cần: bé khỏe, tăng cân, không dấu báo động. Chỉ xét nghiệm khi có dấu báo động hoặc không đáp ứng điều trị tối ưu (ESPGHAN/NASPGHAN 2014 (TL-0269) Hình 2, hộp 17–21)."
+    },
+    "chi_mau": {
+     "v": "n",
+     "r": "Chì máu toàn phần 2 µg/dL.",
+     "n": "Không cần lặp lại: lần đầu 3 µg/dL < 10 µg/dL và đã ngưng thuốc; mục tiêu theo dõi chì máu < 10 µg/dL và ổn định áp dụng cho bệnh nhân đã tăng (QĐ 3610/2015 (kho cũ tltk-10000-ca) mục 4.1, tr. 195). Nhận xét của ca: không có chỉ định lặp lại khi mức đầu bình thường."
+    },
+    "tsh": {
+     "v": "n",
+     "r": "TSH 2,4 mUI/L · FT4 15 pmol/L",
+     "n": "Không cần: bé đáp ứng với điều trị, không dấu báo động (ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 13, tr. 266)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng ở nhũ nhi, đáp ứng hoàn toàn với PEG sau 2 tuần, vết nứt kẽ đã liền; đang trong giai đoạn duy trì",
+     "ok": 1,
+     "n": "Đi ngoài hằng ngày, phân mềm, không đau, không máu; tăng cân; bụng mềm; không dấu báo động. ESPGHAN/NASPGHAN 2014 (TL-0269) Hình 2 (tr. 261): điều trị hiệu quả sau 2 tuần thì tiếp tục duy trì (hộp 13); khuyến cáo 37 (tr. 270): duy trì ≥ 2 tháng, hết mọi triệu chứng ≥ 1 tháng mới giảm dần."
+    },
+    {
+     "t": "Tắc ruột, ung thư đại trực tràng, Hirschsprung",
+     "n": "Loại trừ thêm theo diễn tiến: đáp ứng hoàn toàn với điều trị thông thường, tăng cân, không nôn, không chướng bụng (Hirschsprung và các nguyên nhân thực thể thường không đáp ứng điều trị thường: QĐ 3312/2015 (TL-0037) mục 4.3, tr. 333; ESPGHAN/NASPGHAN 2014 (TL-0269) Hình 2, hộp 17–19). Không cần cận lâm sàng thêm."
+    },
+    {
+     "t": "Nhiễm độc chì",
+     "n": "Chì máu 3 µg/dL (lượt 1) < 10 µg/dL, đã ngưng thuốc bắc; không triệu chứng (QĐ 3610/2015 (kho cũ tltk-10000-ca) mục 3.2, 4.1)."
+    },
+    {
+     "t": "Chưa nhiễm khuẩn: lỵ, viêm ruột",
+     "n": "Hết máu khi phân mềm, không sốt, không tiêu chảy: khẳng định lại không có nhiễm khuẩn, không cần kháng sinh."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tiếp tục PEG liều hiện tại 3,2 g/ngày (khoảng 0,4 g/kg/ngày) mỗi ngày, ít nhất 2 tháng tính từ khi bắt đầu; chỉ giảm dần khi bé hết mọi triệu chứng ít nhất 1 tháng",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 37 (tr. 270): duy trì ít nhất 2 tháng, hết mọi triệu chứng ≥ 1 tháng mới ngưng, giảm dần; khuyến cáo 33: chỉnh liều theo đáp ứng (0,2–0,8 g/kg/ngày: Bảng 6). QĐ 3312/2015 (TL-0037) không nêu thời gian duy trì (không có trong tài liệu đã tải). Bé tăng cân 8,0 → 8,3 kg nên liều/kg giảm nhẹ (≈ 0,39 g/kg/ngày), vẫn trong khoảng."
+    },
+    {
+     "t": "Giải thích cho bà: thuốc làm mềm phân không làm “ruột lười”; ngưng sớm dễ tái phát; không ngưng thuốc vì thấy cháu khỏe",
+     "v": "c",
+     "n": "Ngưng sớm: khuyến cáo 37; khoảng 50% trẻ táo bón có ít nhất 1 lần tái phát trong 5 năm đầu sau khi khỏi, cần theo dõi sát và dùng lại thuốc sớm (ESPGHAN/NASPGHAN 2014 (TL-0269) phần Prognosis, tr. 270–271). “Quen thuốc, lười ruột”: tài liệu liệt kê tác hại thuốc nhuận tràng (ung thư, quen thuốc) là chỉ số đánh giá nhưng không nêu kết luận; kết luận cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không cho lại thuốc bắc không rõ nguồn gốc; bỏ hoặc nộp 2 gói còn lại",
+     "v": "c",
+     "n": "QĐ 3610/2015 (kho cũ tltk-10000-ca) mục 4.1 (tr. 195): ngừng phơi nhiễm. Chì máu bình thường nhưng không có lý do dùng tiếp thuốc không rõ nguồn gốc cho nhũ nhi (nhận xét của ca)."
+    },
+    {
+     "t": "Duy trì chế độ ăn bình thường theo tuổi, tăng dần rau, trái cây trong bữa dặm; theo dõi số lần đi ngoài, tính chất phân",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 21–23 (tr. 268); QĐ 3312/2015 (TL-0037) mục 5.2c (tr. 334); nhật ký theo ESPGHAN/NASPGHAN 2014 (TL-0269) tr. 262."
+    },
+    {
+     "t": "Hẹn tái khám theo dõi (sau khoảng 1 tháng hoặc khi cháu đi ngoài lại cứng, đau, có máu); không cần xét nghiệm hay chụp hình kiểm tra",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2014 (TL-0269) Hình 2 (tr. 261): hộp 14–16, theo dõi tái phát khi giảm thuốc, quay lại thuốc sớm nếu tái phát; Hình 2 không có xét nghiệm kiểm tra khi đã đáp ứng. Mốc 1 tháng là lựa chọn của ca (cùng mốc ≥ 1 tháng hết triệu chứng ở khuyến cáo 37), không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển nhi tiêu hóa hoặc làm sinh thiết trực tràng, đo áp lực hậu môn trực tràng, xét nghiệm sàng lọc thêm “cho chắc” dù bé đã khỏi",
+     "v": "w",
+     "n": "ESPGHAN/NASPGHAN 2014 (TL-0269) Hình 2 (tr. 261): chuyển khi điều trị không hiệu quả (hộp 12, 17) hoặc có dấu báo động; khuyến cáo 13, 14: xét nghiệm và đo áp lực không làm thường quy. Bé đáp ứng hoàn toàn."
+    },
+    {
+     "t": "Ngưng PEG ngay vì bé đã đi ngoài tốt",
+     "v": "w",
+     "n": "ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 37 (tr. 270): ngưng sớm không phù hợp; tiên lượng: điều trị thiếu liều, thiếu thời gian là lý do tái phát (phần Prognosis, tr. 270–271)."
+    },
+    {
+     "t": "Bỏ PEG, thay bằng thuốc bắc không rõ nguồn gốc cho “mát”",
+     "v": "w",
+     "n": "QĐ 3610/2015 (kho cũ tltk-10000-ca) mục 2 (tr. 192): thuốc không rõ nguồn gốc là nguyên nhân nhiễm chì; PEG là thuốc đầu tay có chứng cứ (ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 33)."
+    },
+    {
+     "t": "Cho thêm kháng sinh hoặc men vi sinh vì bà vẫn lo viêm ruột",
+     "v": "a",
+     "n": "Không có chỉ định kháng sinh (không tiêu chảy kèm máu: WHO 2024 Diarrhoea khuyến cáo 2). Men vi sinh không khuyến cáo thường quy (ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 25; TL-0258), không nguồn nào nói có hại."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng ở nhũ nhi, đáp ứng hoàn toàn sau 2 tuần PEG; vết nứt kẽ đã liền",
+     "Đang ở giai đoạn duy trì (chưa đủ 2 tháng); chưa được ngưng thuốc",
+     "Đã ngưng thuốc bắc không rõ nguồn gốc; chì máu 3 µg/dL ở lượt 1 nên không cần lặp lại",
+     "Không có chỉ định xét nghiệm hay chẩn đoán hình ảnh kiểm tra"
+    ],
+    "phan_tich_chan_doan": [
+     "Xác nhận khỏi bằng lâm sàng, không bằng xét nghiệm: đi ngoài mỗi ngày, phân mềm, không đau, không máu, bụng mềm, cân tăng (8,0 → 8,3 kg), vết nứt liền (ESPGHAN/NASPGHAN 2014 (TL-0269) Hình 2 hộp 10, 13). Tài liệu không có tiêu chí chụp hay xét nghiệm xác nhận khỏi.",
+     "Vì sao không làm thêm xét nghiệm: đáp ứng hoàn toàn với điều trị thông thường làm giảm khả năng nguyên nhân thực thể (Hirschsprung, suy giáp…) (nhận xét; ESPGHAN/NASPGHAN 2014 (TL-0269) Hình 2 hộp 17–21: tìm nguyên nhân khi điều trị không hiệu quả hoặc có dấu báo động). Chì máu 3 µg/dL ở lượt 1, đã ngưng phơi nhiễm (QĐ 3610/2015 (kho cũ tltk-10000-ca) mục 4.1).",
+     "Nguy cơ tái phát: khoảng 50% trẻ có ít nhất 1 lần tái phát trong 5 năm; điều trị sớm và đủ giúp khoảng 80% khỏi không cần thuốc sau 6 tháng so với 32% khi điều trị chậm (ESPGHAN/NASPGHAN 2014 (TL-0269) phần Prognosis, tr. 270–271). Vì vậy mục tiêu lượt này là giữ bé không tái phát chứ không phải xét nghiệm lại.",
+     "Nhiễu: bà kể lộn xộn, dễ nhầm “khỏi” (hết triệu chứng) với “hết bệnh” (đủ thời gian điều trị theo ESPGHAN 2014 khuyến cáo 37: ít nhất 2 tháng)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về, tiếp tục điều trị ngoại trú, tái khám theo dõi. Duy trì ít nhất 2 tháng; chỉ giảm dần khi hết mọi triệu chứng ≥ 1 tháng (ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 37, tr. 270).",
+     "Liều: giữ 3,2 g/ngày (≈ 0,39 g/kg/ngày, trong khoảng 0,2–0,8 g/kg/ngày: Bảng 6); đã đáp ứng nên không tăng liều (ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 33: chỉnh theo đáp ứng).",
+     "Không cho quay lại thuốc bắc không rõ nguồn: QĐ 3610/2015 (kho cũ tltk-10000-ca) mục 2 (tr. 192).",
+     "Trả lời đúng nỗi lo thật: bà sợ “quen thuốc” và muốn ngưng. Giải thích rõ ngưng sớm là lý do tái phát; không có số liệu về “quen thuốc” trong tài liệu đã tải; hẹn lại để giảm thuốc có kiểm soát khi hết triệu chứng đủ 1 tháng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "PEG (polyethylene glycol) 3350 hoặc 4000 không điện giải, gói bột pha uống (tiếp tục)",
+      "ham_luong": "Hàm lượng mỗi gói theo chế phẩm đang dùng (không có trong tài liệu đã tải).",
+      "lieu": "Giữ 3,2 g/ngày (≈ 0,39 g/kg/ngày với cân 8,3 kg), trong khoảng 0,2–0,8 g/kg/ngày.",
+      "duong": "Uống, hòa nước theo hướng dẫn trên gói.",
+      "thoi_diem": "1 lần mỗi ngày, cùng một giờ như trước.",
+      "so_ngay": "Tiếp tục ít nhất đến đủ 2 tháng tính từ lần bắt đầu; chỉ giảm dần khi hết triệu chứng ≥ 1 tháng.",
+      "ghi_chu": "ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 33 (tr. 270), khuyến cáo 37 (tr. 270), Bảng 6 (tr. 269); QĐ 3312/2015 (TL-0037) mục 5.2c (tr. 334) ghi 1 g/kg/ngày: xem lượt 1 và sổ mâu thuẫn."
+     }
+    ],
+    "dan_do": [
+     "Cháu khỏe là nhờ thuốc; chưa được ngưng. Uống đủ ít nhất 2 tháng, chỉ giảm khi bác sĩ hẹn và cháu hết triệu chứng ≥ 1 tháng (ESPGHAN/NASPGHAN 2014 (TL-0269) khuyến cáo 37). Ngưng sớm là lý do hay tái phát.",
+     "Không cho lại thuốc bắc; bỏ hai gói còn lại. Không tự mua thuốc bột, thuốc cam, thuốc không biết thành phần.",
+     "Tiếp tục ăn dặm đủ bữa, thêm rau, trái cây theo tuổi, bú đủ cữ; ghi lại số lần đi ngoài và tính chất phân.",
+     "Đến khám sớm nếu phân cứng trở lại, cháu rặn khóc, có máu, nôn dịch xanh hoặc vàng, bụng chướng, sốt, bỏ bú, lừ đừ (ESPGHAN/NASPGHAN 2014 (TL-0269) Bảng 5; phần Prognosis: tái phát thì dùng lại thuốc sớm).",
+     "Không cần xét nghiệm, chụp hình lúc này; nếu sau này cháu không đáp ứng điều trị hoặc có dấu báo động thì bác sĩ sẽ chỉ định."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau 2 tuần PEG, bé đi ngoài mỗi ngày phân mềm, vết nứt liền, tăng 300 g. Bà hiểu vì sao phải uống đủ 2 tháng và ngưng thuốc bắc; chì máu bình thường. Bé duy trì PEG, giảm dần sau khi hết triệu chứng ≥ 1 tháng, ổn định và khỏi.",
+ "nhieu": [
+  "Bà kể lộn xộn: nhảy từ sốt sang hàng xóm, ông lang, giá sữa; chỉ khi chia nhỏ câu hỏi (mấy lần đi mỗi tuần, máu ở đâu, đã cho thuốc gì) mới có đủ dữ kiện.",
+  "Vệt máu khiến bà nghĩ “lỵ”: máu tươi ngoài cục phân cứng ở bé có vết nứt khác với tiêu chảy kèm máu (WHO 2024 Diarrhoea khuyến cáo 2 chỉ cho kháng sinh nhóm sau).",
+  "Ibuprofen siro (NSAID) trước khởi phát và thuốc bắc bột không rõ thành phần: chỉ lộ khi hỏi cụ thể; thuốc bắc được loại trừ nhiễm chì bằng chì máu.",
+  "Lượt 2: bà muốn ngưng PEG vì cháu khỏe và quay lại thuốc bắc; bà lo xét nghiệm “cho chắc”."
+ ],
+ "bai_hoc_bien": [
+  "Táo bón ở nhũ nhi dưới 1 tuổi: QĐ 3312 xếp là dấu gợi ý thực thể, ESPGHAN chỉ coi khởi phát < 1 tháng; khởi phát sau tháng thứ 6, phân su sớm, tăng trưởng bình thường thì vẫn nghĩ chức năng và điều trị bước đầu.",
+  "Máu trong phân khi có vết nứt kẽ là hệ quả của phân cứng; hỏi kiểu máu (ngoài cục phân hay trộn trong phân) và quan sát hậu môn trước khi nghĩ lỵ hay kê kháng sinh.",
+  "Hỏi thuốc theo từng nhóm (thuốc hạ sốt, thuốc bắc, thuốc nam, thuốc cam): thuốc không rõ nguồn gốc ở nhũ nhi cần nghĩ tới nhiễm chì và ngưng.",
+  "Nguồn lực đầy đủ không có nghĩa là làm hết: táo bón chức năng không cần X-quang, siêu âm, TSH, celiac, canxi (ESPGHAN khuyến cáo 6–13); chì máu có lý do riêng vì thuốc không rõ nguồn gốc.",
+  "Đỡ hoàn toàn khi tái khám: tiếp tục duy trì ≥ 2 tháng, hết triệu chứng ≥ 1 tháng mới giảm dần; không ngưng sớm, không xét nghiệm kiểm tra."
+ ],
+ "diem_nho": [
+  "Rome III < 4 tuổi: ≥ 2 trong 6 tiêu chuẩn trong ≥ 1 tháng (ESPGHAN 2014 Bảng 2, tr. 261). Rome V: tiêu chuẩn nhi không có trong tài liệu đã tải.",
+  "Chẩn đoán bằng hỏi bệnh và khám; không X-quang, siêu âm trực tràng, TSH, celiac, canxi thường quy (ESPGHAN khuyến cáo 2, 6, 10, 13).",
+  "PEG đầu tay: khởi đầu 0,4 g/kg/ngày, 0,2–0,8 g/kg/ngày (ESPGHAN khuyến cáo 33, Bảng 6) hoặc 1 g/kg/ngày (QĐ 3312 mục 5.2c); duy trì ≥ 2 tháng (khuyến cáo 37).",
+  "Thuốc cam, thuốc sài không rõ nguồn gốc là nguyên nhân nhiễm chì; chì máu > 10 µg/dL là tiêu chuẩn quan trọng nhất (QĐ 3610/2015 Ngộ độc chì mục 2, 3.2).",
+  "Kháng sinh cho trẻ ≤ 10 tuổi chỉ khi tiêu chảy kèm máu (WHO 2024 Diarrhoea khuyến cáo 2)."
+ ],
+ "nguon": [
+  "ESPGHAN/NASPGHAN 2014 – Tabbers MM et al, Evaluation and treatment of functional constipation in infants and children, J Pediatr Gastroenterol Nutr 2014;58(2):258–274 – TL-0269 – ĐÃ ĐỌC: Hình 2 (tr. 261), Bảng 2–6 (tr. 261–269), khuyến cáo 1–16, 21–25, 31–37 (tr. 262–270), phần Prognosis (tr. 270–271)",
+  "QĐ 3312/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Táo bón (mục 1–5, tr. 330–334)",
+  "QĐ 3610/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và xử trí ngộ độc – kho cũ tltk-10000-ca (00 Dùng chung/BYT) – ĐÃ ĐỌC: Ngộ độc chì (mục 1–4, tr. 192–196)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years of age – TL-0245 – ĐÃ ĐỌC: Diarrhoea, khuyến cáo 2 (tiêu chảy có máu)",
+  "ESPGHAN 2023 – Probiotics for the management of pediatric gastrointestinal disorders (position paper) – TL-0258 – ĐÃ ĐỌC: phần Functional constipation",
+  "ERNICA 2020 – Hirschsprung (rectosigmoid) – TL-0264 – Bảng 1 (dùng lại theo ca NH-1091)",
+  "Rome V 2026 – Disorders of gut-brain interaction – TL-0252 – ĐÃ ĐỌC: Bảng 2 (H2a Functional constipation); tiêu chuẩn nhi chi tiết không có trong tài liệu đã tải",
+  "USPSTF 2021 – Colorectal Cancer: Screening – TL-0221 (khuyến cáo 45–49 tuổi, mức B); Asia-Pacific 2022 – TL-0217 (sàng lọc từ 50 tuổi, tóm tắt) – chỉ để nói ung thư đại trực tràng ở nhũ nhi không nằm trong tài liệu",
+  "Không có trong tài liệu đã tải: ibuprofen gây táo bón ở nhũ nhi; ung thư đại trực tràng ở nhũ nhi; hàm lượng gói PEG, cách pha, giờ uống; tuổi tối thiểu dùng PEG; tác hại thuốc nhuận tràng (quen thuốc); hại của kháng sinh ở nhũ nhi; tiêu chuẩn Rome V cho trẻ; chi tiết độ đặc bột/sữa gây táo bón; mốc tái khám 1 tháng ở lượt 2"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-12, viết: Sonnet. Tài liệu đã đọc: TL-0269 (Hình 2, Bảng 2–6, khuyến cáo 1–38, Prognosis), TL-0037 (Táo bón tr. 330–334), QĐ 3610/2015 Ngộ độc chì (tr. 192–196), TL-0245 (Diarrhoea khuyến cáo 2), TL-0258, TL-0252 (Bảng 2).",
+  "Biến: nhũ nhi 7 tháng; không điển hình (dưới 1 tuổi, có máu: QĐ 3312 mục 4.3 xếp là gợi ý thực thể, ESPGHAN Bảng 5 không); NSAID = ibuprofen siro khi sốt; thuốc “bắc không rõ” = bột thuốc bắc không nhãn (nghĩ nhiễm chì theo QĐ 3610, cần mục CLS mới chi_mau); lý do thật = bà muốn kháng sinh; nguồn lực đầy đủ nên khoa_cls = null.",
+  "PEG: theo sổ (NH-1091) hai liều khác nhau; ca ghi cả hai trong một mục c, nêu 0,4 g/kg thận trọng hơn (quy tắc 12/10/2026)."
+ ]
+}
