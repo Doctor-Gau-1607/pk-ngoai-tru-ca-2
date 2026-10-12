@@ -1,0 +1,618 @@
+{
+ "ma_ca": "TH-0870",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-10-12, soát nguồn với kho tài liệu đã tải",
+ "benh": "TH_tao_bon_chuc_nang",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Táo bón chức năng",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư đại trực tràng",
+   "Tắc ruột"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Trần Văn Bảy",
+  "tuoi": 82,
+  "gioi": "Nam",
+  "nghe": "Chủ sạp tạp hóa nhỏ trước nhà (nay con gái bán giúp)",
+  "can_nang": 52,
+  "chieu_cao": 160,
+  "xung_ho": "Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'; bác sĩ gọi ông là 'cụ' hoặc 'bác'. Con gái xưng 'con', gọi bác sĩ là 'bác sĩ', gọi ông là 'ba'.",
+  "tinh_cach": "Ông Bảy 82 tuổi, nghe hơi kém, nói chậm, hiền, kiệm lời, ngại nói chuyện 'kín' trước mặt con cái. Quen bán hàng ngồi cả ngày, đau gối nên ít đi lại, tự mua paracetamol uống hằng ngày. Rất ngại bị coi là 'bệnh nặng' và ngại làm phiền con. Gần đây tự ăn riêng, ngồi riêng, không dám bế cháu.",
+  "kieu_nhieu": "Thân nhân trả lời thay: chị Hạnh (con gái) nhanh miệng, tranh trả lời hầu hết câu hỏi vì 'ba nghe không rõ'. Chị kể đại khái, hay nói chung chung ('ba ăn uống bình thường, uống nước nhiều') và không biết ba uống bao nhiêu thuốc giảm đau. Ông Bảy ngồi im, chỉ gật. Nếu bác sĩ hỏi thẳng ông bằng câu ngắn, nói to rõ, thì ông trả lời ngắn (nguoi_noi = benh_nhan). Những chuyện kín (uống nước thật sự, nhịn đi cầu, thuốc giảm đau, chuyện vợ chồng, nỗi sợ lây bệnh) chỉ có thông tin thật khi bác sĩ mời con gái ra ngoài hoặc hỏi riêng ông.",
+  "nguoi_nha": "Con gái, chị Trần Thị Hạnh, 54 tuổi, đưa ông đi khám, bán hàng cùng ông; nói nhanh, lo lắng, muốn 'chụp chiếu cho chắc'. Hầu hết câu hỏi do chị trả lời (nguoi_noi = nguoi_nha). Khi bác sĩ hỏi thẳng ông thì ông trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Con gái (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#d9ae88",
+   "toc": "#d8d6d0",
+   "kieuToc": "ngan",
+   "ao": "#8a9a6b",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#6f8fb5",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đi cầu khó, rặn nhiều, 3–4 ngày mới đi một lần",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền, nước tiểu); không có X-quang, siêu âm, CT, nội soi và không làm được các xét nghiệm chuyên sâu (hormon giáp, canxi máu, huyết thanh celiac, calprotectin, FIT)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Trần Văn Bảy, 82 tuổi, chủ sạp tạp hóa nhỏ, do con gái đưa đến. Đi cầu khó, rặn nhiều, 3–4 ngày mới đi một lần, nặng hơn hai tuần nay. Sinh hiệu: HA 138/78 mmHg, mạch 76 l/p, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 96%.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Chào bác sĩ. Tôi đi cầu khó lắm, rặn mãi mới ra... Con gái nó đưa tôi đi khám.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/78",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Con gái kể: ba đi cầu khó, rặn nhiều, phân khô cứng, 3–4 ngày mới đi một lần; hai tuần nay nặng hơn. Chị lo ba 'có bệnh trong ruột' và muốn bác sĩ cho chụp chiếu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem_phan",
+     "noi_dung": "Hai năm nay ông thường đi cầu 2 lần mỗi tuần; phân thành cục cứng như phân dê hoặc khúc xúc xích sần sùi (Bristol 1–2), phải rặn lâu, đi xong vẫn thấy chưa hết. Hai tuần gần đây chỉ 3–4 ngày một lần, rặn đỏ mặt. Không phải móc phân bằng tay. Phân không dẹt, không nhỏ như bút chì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chuẩn Rome IV: rặn, phân cứng, đi chưa hết, dưới 3 lần/tuần, kéo dài trên 6 tháng"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không đi cầu ra máu, không phân đen, không phân nhầy máu. Cân nặng giữ ở 52 kg cả năm nay. Không nôn, không đau bụng quặn, không chướng bụng. Vẫn trung tiện bình thường. Hai tuần nay ăn kém đi vì mệt, không phải vì no hay buồn nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động (ung thư đại trực tràng) và tắc ruột"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Không đau bụng, chỉ nặng tức vùng bụng dưới trái khi lâu chưa đi cầu; đi xong thì hết. Không có đợt đau bụng tái đi tái lại kèm thay đổi phân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt hội chứng ruột kích thích thể táo bón (cần đau bụng)"
+    },
+    {
+     "id": "tien_su_mo",
+     "noi_dung": "Chưa từng mổ bụng, chưa từng mổ thoát vị, chưa xạ trị. Không có người nhà bị ung thư đại tràng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử mổ bụng (dính ruột), tiền sử gia đình ung thư đại tràng"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Ngoài thuốc giảm đau gối, ông không uống thuốc nào khác: không sắt, không canxi, không thuốc chữa tiêu chảy, thuốc dạ dày, thuốc ho, thuốc cảm, thuốc ngủ, thuốc an thần, không tiêm hay uống thuốc giảm đau mạnh (codein, tramadol). Không uống thuốc bắc, trà nhuận tràng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rà thuốc gây táo bón (WGO 2025 Bảng 4)"
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Đau gối đã nhiều năm. Gần hai năm nay ông tự mua paracetamol 500 mg ở tiệm thuốc, uống mỗi ngày 8 viên (sáng 2, trưa 2, chiều 2, tối 2) 'cho đỡ đau mà bán hàng được', tức 4 g mỗi ngày. Không uống rượu bia. Không uống thêm thuốc cảm hay thuốc hỗn hợp có paracetamol. Ông cho là thuốc giảm đau 'thông thường nên không hại'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì con gái nói 'ba có uống thuốc đau gối'. Ông chỉ nói tên thuốc và số viên khi bác sĩ hỏi cụ thể thuốc giảm đau, uống bao nhiêu viên mỗi ngày, uống bao lâu, hoặc hỏi thẳng ông.",
+     "k": 1,
+     "y": "Paracetamol liều cao kéo dài (thuốc đang dùng, không gây táo bón nhưng quá liều khuyến cáo ở người cao tuổi gầy)"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Cơm với cá kho, thịt; rau ăn ít vì nhai khó, trái cây ít. Ăn kém hơn hai tuần nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chế độ ăn ít chất xơ"
+    },
+    {
+     "id": "uong_nuoc",
+     "noi_dung": "Con gái nói ba uống nước nhiều. Thật ra ông chỉ uống khoảng 4 ly nhỏ mỗi ngày, cố uống ít để khỏi đi tiểu đêm (hiện tiểu đêm 2 lần).",
+     "che_do": "giau",
+     "dieu_kien_lo": "Con gái luôn nói 'uống nước nhiều'. Chỉ khi bác sĩ hỏi riêng ông, hoặc hỏi ông uống mấy ly nước mỗi ngày, ông mới nói là uống ít vì sợ tiểu đêm.",
+     "k": 1,
+     "y": "Uống ít nước"
+    },
+    {
+     "id": "van_dong_nhin",
+     "noi_dung": "Ông ngồi sạp cả ngày, rất ít đi bộ vì đau gối. Hay nhịn không đi cầu khi có khách vì nhà vệ sinh ở sau nhà, ngại bỏ khách; để lâu thì mất cảm giác mắc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông về thói quen đi cầu, có khi nào nhịn không đi, hoặc hỏi riêng ông lúc bán hàng.",
+     "k": 1,
+     "y": "Ít vận động, nhịn đi cầu (yếu tố nguy cơ)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Khoảng hai tuần trước, sau nhiều tháng, ông có gần gũi vợ. Sau đó ông mệt rã rời, đau lưng, ê ẩm cả người, nằm nghỉ gần một tuần, ngưng bán hàng, ăn ít, uống ít nước. Từ đó đi cầu càng khó. Không đau ngực, không khó thở, không đau rát hay chảy máu hậu môn, không chảy dịch niệu đạo.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi con gái không có mặt (bác sĩ mời chị ra ngoài hoặc hỏi riêng ông) và bác sĩ hỏi nhẹ nhàng điều gì xảy ra trước khi nặng lên, hoặc chuyện vợ chồng gần đây. Nếu hỏi trước mặt con gái thì ông im lặng hoặc nói 'không có gì'.",
+     "k": 1,
+     "y": "Yếu tố khởi phát: sau quan hệ tình dục, rồi nằm nhiều, ăn uống kém"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không tiểu đường, không bệnh tuyến giáp, không bệnh thận, không bệnh tim đã biết. Huyết áp thỉnh thoảng đo ở trạm y tế 140/80, chưa uống thuốc. Tiểu đêm 2 lần, tia tiểu hơi yếu.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tinh_than",
+     "noi_dung": "Ông còn nhớ rõ, tự tính tiền bán hàng. Nghe kém nhẹ, không dùng máy trợ thính. Không buồn chán kéo dài, ngủ được.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "an_rieng",
+     "noi_dung": "Con gái nói gần đây ba tự ăn riêng, dùng bát đũa riêng, ngồi cách xa, không chịu bế cháu nội 3 tuổi, và 'cứ hỏi con là bệnh này có lây không'. Chị không hiểu vì sao.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Dấu hiệu nỗi sợ lây bệnh (gợi mở lý do thật)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ông nghe người hàng xóm kể ông cụ bên kia đường 'bí đại tiện lâu năm rồi bị ung thư ruột, bà vợ cũng bị theo'. Sau lần gần gũi vợ, ông sợ mình có 'bệnh trong ruột' đã lây cho bà và sẽ lây cho cháu nội ông hay bế, nên mới tự ăn riêng. Ông xấu hổ không dám nói với con, chỉ lo nhất điều này chứ không quá lo cho bản thân.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng ông (con gái ra ngoài) và hỏi ông lo nhất điều gì, hoặc vì sao ông ăn riêng, không bế cháu. Hỏi chung chung trước mặt con gái thì ông chỉ nói 'tôi bí đi cầu thôi'.",
+     "k": 1,
+     "y": "Động cơ thật: sợ lây bệnh cho người thân"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt nhưng nghe kém nhẹ, phải nói to. Gầy (52 kg, cao 160 cm, BMI 20,3), môi hơi khô, nếp véo da trở lại hơi chậm. Niêm mạc mắt hồng, không vàng da, không hạch thượng đòn.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không sẹo mổ, không điểm đau, không phản ứng thành bụng. Hố chậu trái sờ thấy khối chắc hình thỏi, di động, ấn không đau. Không thấy khối u khác, gan lách không to, không thoát vị bẹn. Nhu động ruột 4 lần/phút, gõ vang đều.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Hậu môn không nứt kẽ, không trĩ ngoại, không sa trực tràng. Trương lực cơ thắt bình thường, khi bảo rặn cơ thắt giãn ra. Bóng trực tràng chứa nhiều phân khô cứng, dùng ngón đẩy ra được, không phải khối phân đá. Không thấy khối u, không hẹp. Tuyến tiền liệt to nhẹ, mặt nhẵn, không nhân. Găng không dính máu, phân vàng nâu.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Hai gối lạo xạo khi gấp duỗi, không sưng nóng đỏ, không tràn dịch, tầm vận động giảm nhẹ; đứng lên ngồi xuống chậm, đau. Cột sống không điểm đau chói.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, không dấu thần kinh khu trú, không run, không cứng cơ, cảm giác và phản xạ gân xương bình thường.",
+     "k": 0
+    },
+    "sang_loc_sang": {
+     "a": "4AT 0 điểm: tỉnh táo, định hướng đúng, không rối loạn chú ý cấp.",
+     "k": 0
+    },
+    "ha_tu_the": {
+     "a": "Nằm 138/78 mmHg, mạch 76 l/p; đứng 1 phút 134/76 mmHg, mạch 80 l/p, không hạ huyết áp tư thế.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 134 g/L · MCV 89 fL · BC 7,2 G/L · TC 232 G/L",
+     "bang": {
+      "wbc": 7.2,
+      "neu_pct": 62.0,
+      "neu": 4.46,
+      "lym_pct": 28.0,
+      "lym": 2.02,
+      "mono_pct": 7.0,
+      "mono": 0.5,
+      "eos_pct": 2.5,
+      "eos": 0.18,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.5,
+      "hgb": 134,
+      "hct": 0.4,
+      "mcv": 89.0,
+      "mch": 29.8,
+      "mchc": 335,
+      "rdw": 13.4,
+      "plt": 232
+     },
+     "n": "Thiếu máu thiếu sắt là dấu báo động ở người táo bón (WGO 2025 Bảng 6); Hb 134 g/L ở nam, MCV bình thường: không thiếu máu, không gợi ý mất máu mạn qua đường tiêu hóa."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 7,4 mmol/L · Creatinin 112 µmol/L · eGFR 57 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 7.4,
+      "creat": 112,
+      "egfr": 57
+     },
+     "n": "Chức năng thận giảm nhẹ theo tuổi, hơi mất nước. Thuộc nhóm xét nghiệm máu khi cần (WGO 2025 mục 3.3). Quyết định tránh magie oxid: AGA-ACG 2023 Khuyến cáo 3 tránh dùng khi suy thận."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 138 · K 3,9 · Cl 101 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 3.9,
+      "cl": 101
+     },
+     "n": "Hạ kali là nguyên nhân thứ phát gây táo bón (WGO 2025 Bảng 3): kali bình thường. Cũng là mốc nền trước khi dùng thuốc nhuận tràng (AGA-ACG 2023 Bảng 4: dùng quá mức gây tiêu chảy, rối loạn điện giải)."
+    },
+    "glu": {
+     "v": "e",
+     "r": "5,6 mmol/L",
+     "bang": {
+      "glu": 5.6
+     },
+     "n": "Đái tháo đường là nguyên nhân thứ phát (WGO 2025 Bảng 3); WGO 2025 mục 3.3 liệt kê glucose trong xét nghiệm máu khi cần. Bình thường."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 33 · ALT 29 U/L",
+     "n": "Dùng paracetamol 4 g/ngày kéo dài ở người gầy, cao tuổi: kiểm tra men gan (QĐ 3610/2015, Ngộ độc paracetamol, mục 2: ngộ độc có thể xảy ra ở liều điều trị khi suy dinh dưỡng, bệnh gan). Men gan bình thường, nhưng vẫn phải giảm liều."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Tỷ trọng 1,022 · pH 6,0 · Không bạch cầu, nitrit, protein, glucose, ceton, hồng cầu",
+     "n": "Không cần cho chẩn đoán; tỷ trọng hơi cao khớp với uống ít nước."
+    },
+    "crp": {
+     "v": "n",
+     "r": "4 mg/L",
+     "n": "Không cần: không sốt, không đau bụng, không gợi ý viêm (diverticulitis, viêm đại tràng)."
+    },
+    "hba1c": {
+     "n": "Không cần: đường huyết 5,6 mmol/L, không triệu chứng đái tháo đường."
+    },
+    "tsh": {
+     "v": "u",
+     "r": "(Phòng khám không làm được TSH, FT4.)",
+     "n": "Suy giáp là nguyên nhân thứ phát gây táo bón (WGO 2025 Bảng 3) và là xét nghiệm máu khi cần (mục 3.3). Phòng khám chỉ có xét nghiệm cơ bản; lâm sàng không gợi ý (không lạnh, không phù, không chậm chạp), nên không chuyển đi xét nghiệm ngay mà làm ở lần sau nếu không đáp ứng điều trị."
+    },
+    "canxi": {
+     "v": "u",
+     "r": "(Phòng khám không làm được canxi máu.)",
+     "n": "Tăng canxi máu là nguyên nhân thứ phát (WGO 2025 Bảng 3). Không làm được tại đây; lâm sàng không gợi ý (không khát nhiều, không đau xương, không sỏi thận); làm ở tuyến trên nếu không đáp ứng."
+    },
+    "fit": {
+     "v": "n",
+     "r": "(Phòng khám không làm được FIT.)",
+     "n": "Phòng khám không làm được FIT. Không có triệu chứng chảy máu; sàng lọc ung thư đại trực tràng ở tuổi 76–85 chỉ làm chọn lọc theo sức khỏe và nguyện vọng (USPSTF 2021, Grade C)."
+    },
+    "celiac": {
+     "v": "n",
+     "r": "(Phòng khám không làm được huyết thanh celiac.)",
+     "n": "Không cần: không tiêu chảy, không sụt cân, không thiếu máu."
+    },
+    "calprotectin": {
+     "v": "n",
+     "r": "(Phòng khám không làm được calprotectin phân.)",
+     "n": "Không cần: không tiêu chảy, không đau bụng, không gợi ý bệnh viêm ruột."
+    },
+    "soi_phan": {
+     "v": "n",
+     "r": "(Phòng khám không soi phân được.)",
+     "n": "Không cần: không tiêu chảy, không máu trong phân."
+    },
+    "abdus": {
+     "n": "Không cần: không đau bụng, không gợi ý bệnh gan mật; khối trong hố chậu trái là khối phân."
+    },
+    "xq_bung": {
+     "n": "Không cần: không nôn, không chướng, còn trung tiện, không có dấu tắc ruột; X-quang bụng chỉ có giá trị hạn chế khi nghi tắc ruột (WSES Bologna 2018, Level IIC)."
+    },
+    "ct_bung": {
+     "n": "Không cần: không có dấu báo động; WGO 2025 mục 3.5 dành thăm dò nâng cao cho người đã loại trừ nguyên nhân thực thể và thất bại điều trị bước đầu."
+    },
+    "noi_soi_dt": {
+     "n": "Không cần nội soi ngay: không dấu báo động. Nội soi đại tràng sàng lọc ở tuổi 76–85 là quyết định cá nhân hóa (USPSTF 2021, Grade C)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng (táo bón mạn nguyên phát) ở người rất cao tuổi, đợt nặng lên 2 tuần nay do ít vận động, ăn kém, uống ít nước, hay nhịn đi cầu; ứ phân cứng ở trực tràng, chưa có dấu báo động; kèm thoái hóa khớp gối và dùng paracetamol 4 g/ngày kéo dài (vượt mức cho người cao tuổi gầy)",
+     "ok": 1,
+     "n": "Đủ Rome IV: rặn, phân cứng (Bristol 1–2), cảm giác đi chưa hết và dưới 3 lần/tuần, trong ≥ 3 tháng, khởi phát ≥ 6 tháng trước (WGO 2025 Bảng 5). Không đau bụng, không dấu báo động (WGO 2025 Bảng 6), thăm trực tràng chỉ thấy phân cứng, Hb 134 g/L, kali bình thường."
+    },
+    {
+     "t": "Ung thư đại trực tràng",
+     "n": "Ít nghĩ: không ra máu, không phân đen, không sụt cân (52 kg ổn định cả năm), không thiếu máu (Hb 134 g/L, MCV 89 fL), không khối ở bụng và trực tràng, không tiền sử gia đình; táo bón đã 2 năm, đợt nặng lên có yếu tố giải thích rõ (WGO 2025 Bảng 6). Nếu xuất hiện dấu báo động hoặc không đáp ứng điều trị thì chuyển tuyến thăm dò (WGO 2025 mục 3.5). Sàng lọc ở tuổi 76–85 làm chọn lọc theo sức khỏe và nguyện vọng (USPSTF 2021, Grade C)."
+    },
+    {
+     "t": "Tắc ruột (cơ học, kể cả dính ruột sau mổ)",
+     "n": "Không nôn, không đau quặn, không chướng, còn trung tiện, bụng mềm, nhu động ruột có, không sẹo mổ, không thoát vị; tắc ruột có đau bụng, chướng, buồn nôn kèm bí trung đại tiện (WSES Bologna 2018, mục History taking and physical examination). Khối thấy ở hố chậu trái là khối phân."
+    },
+    {
+     "t": "Hội chứng ruột kích thích thể táo bón",
+     "n": "Ông không đau bụng, đau chỉ là tức khi lâu chưa đi và hết sau khi đi; táo bón chức năng phải 'không đủ tiêu chuẩn IBS' (WGO 2025 Bảng 5); IBS-C có đau và chướng bụng (WGO 2025 Bảng 8; ACG 2021 Bảng 1, Rome IV)."
+    },
+    {
+     "t": "Táo bón thứ phát do thuốc",
+     "n": "Ông không dùng opioid, kháng cholinergic, sắt, canxi, chẹn kênh canxi, lợi tiểu, thuốc kháng acid chứa nhôm hay NSAID (WGO 2025 Bảng 4); paracetamol không có trong danh sách thuốc gây táo bón. Nhưng paracetamol 4 g/ngày kéo dài vẫn phải xử trí vì nguy cơ gan (QĐ 3610/2015, mục 2)."
+    },
+    {
+     "t": "Táo bón thứ phát do bệnh chuyển hóa, nội tiết, thần kinh (đái tháo đường, hạ kali, tăng canxi, suy giáp, Parkinson, sa sút trí tuệ)",
+     "n": "Glucose 5,6 mmol/L, kali 3,9 mmol/L, không run, không cứng cơ, 4AT 0 điểm; canxi và TSH không làm được ở phòng khám, lâm sàng không gợi ý (WGO 2025 Bảng 3, Bảng 4; AGA CPU 2026 Khuyến cáo 3)."
+    },
+    {
+     "t": "Rối loạn đại tiện (dyssynergia) hoặc chậm vận chuyển đại tràng",
+     "n": "Chưa thể kết luận: khi bảo rặn cơ thắt giãn bình thường. Chỉ nghĩ tới khi không đáp ứng điều trị bước đầu; khi đó mới đo áp lực hậu môn–trực tràng và test tống bóng (AGA CPU 2026 Khuyến cáo 2; WGO 2025 mục 3.5)."
+    },
+    {
+     "t": "Ngộ độc paracetamol mạn (tổn thương gan)",
+     "n": "Liều 4 g/ngày = 77 mg/kg/ngày, dưới ngưỡng ngộ độc cấp > 150 mg/kg (QĐ 3610/2015, mục 3); AST 33, ALT 29 U/L bình thường, không uống rượu. Tuy vậy người cao tuổi, gầy, ăn kém là nhóm nguy cơ (QĐ 3610/2015, mục 2) và người cao tuổi gầy yếu chỉ nên dùng dưới 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tách ông ra hỏi riêng (mời con gái ra ngoài), hỏi nhẹ nhàng, nói to rõ; khai thác uống nước thật, nhịn đi cầu, thuốc giảm đau, chuyện vợ chồng và điều ông lo nhất",
+     "v": "c",
+     "n": "Cách tiếp cận người bệnh cao tuổi ngại nói trước người nhà. Nhiều người ngại, xấu hổ nên ít đi khám vì táo bón, nhất là người cao tuổi (WGO 2025 mục 3.1). Chi tiết kỹ thuật tách bệnh nhân không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích cho ông (và con gái) đây là táo bón chức năng: chưa có dấu hiệu ung thư hay tắc ruột, không phải bệnh lây; việc ăn riêng, không bế cháu là không cần; táo bón là bệnh mạn cần chăm sóc lâu dài",
+     "v": "c",
+     "n": "Trả lời đúng nỗi lo thật. Táo bón mạn là bệnh mạn tính, cần đặt kỳ vọng thực tế và điều trị duy trì (AGA CPU 2026 Khuyến cáo 4). Câu 'không lây': tài liệu đã tải không bàn riêng, nhưng không tài liệu nào xếp táo bón chức năng vào bệnh nhiễm; đây là câu giao tiếp."
+    },
+    {
+     "t": "Thăm trực tràng bằng tay trước khi kê thuốc",
+     "v": "c",
+     "n": "Khám hậu môn–trực tràng cẩn thận ở mọi người táo bón mạn để tìm ứ phân, khối, nứt, trĩ, hẹp, rối loạn đại tiện (WGO 2025 mục 3.3; AGA CPU 2026 Khuyến cáo 2)."
+    },
+    {
+     "t": "Macrogol (PEG) 17 g mỗi ngày, uống sáng, chỉnh theo đáp ứng",
+     "v": "c",
+     "n": "PEG là thuốc nhuận tràng thẩm thấu khuyến cáo mạnh cho táo bón mạn, đáp ứng bền tới 6 tháng (AGA-ACG 2023 Khuyến cáo 2, Bảng 4: khởi đầu 17 g/ngày); thuốc nhuận tràng thẩm thấu là thuốc đầu tay (WGO 2025 mục 4.6). Thử nghiệm PEG thu nhận người 18–70 tuổi, không có số liệu riêng cho ≥ 75 tuổi trong tài liệu đã tải."
+    },
+    {
+     "t": "Bisacodyl 5 mg uống buổi tối chỉ khi 2 ngày liền không đi cầu, tối đa 10 mg/ngày, dùng ngắn hạn (≤ 4 tuần liên tục)",
+     "v": "c",
+     "n": "Bisacodyl khuyến cáo mạnh dùng ngắn hạn hoặc làm thuốc cứu (≤ 4 tuần), khởi đầu liều thấp, tối đa 10 mg/ngày (AGA-ACG 2023 Khuyến cáo 5, Bảng 4); thuốc nhuận tràng kích thích dùng ngắt quãng, theo nhu cầu (WGO 2025 mục 4.6). Mốc 'khi 2 ngày liền không đi' là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Điều chỉnh lối sống: uống đủ nước (không nhịn uống vì sợ tiểu đêm; uống nhiều hơn ban ngày, bớt buổi tối), tăng dần rau, trái cây, ngũ cốc nguyên hạt, đi bộ nhẹ mỗi ngày, đi cầu ngay khi mắc, tập thói quen đi cầu sau ăn sáng",
+     "v": "c",
+     "n": "Tăng chất xơ dần dần tới 20–30 g/ngày cả ăn uống và bổ sung, kèm nước (WGO 2025 mục 4.2, 4.6; AGA-ACG 2023 Khuyến cáo 1). Tăng uống nước, vận động, đáp ứng ngay khi mắc (WGO 2025 mục 4.6). Chia lượng nước theo giờ và 'đi sau ăn sáng' là gợi ý của ca, mức mL cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm paracetamol xuống 1–2 g/ngày (tối đa dưới 3 g/ngày), mỗi lần 1 viên 500 mg; hỏi các thuốc khác có chứa paracetamol; giảm đau gối thêm bằng chườm nóng, vận động, vật lý trị liệu",
+     "v": "c",
+     "n": "Người cao tuổi, gầy yếu: acetaminophen dưới 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3); thoái hóa khớp gối: paracetamol 1–2 g/ngày, vật lý trị liệu, chườm nóng (QĐ 361/2014, Thoái hóa khớp gối mục 4.2.1, 4.2.2). Ngộ độc xảy ra khi dùng kéo dài hoặc phối hợp nhiều chế phẩm chứa paracetamol (QĐ 3610/2015, mục 2). Liều tối đa 4 g/ngày của QĐ 361 (Phụ lục thuốc giảm đau) là cho người trưởng thành chung: chọn bên thận trọng, dưới 3 g/ngày."
+    },
+    {
+     "t": "Dặn dấu hiệu cần đi khám ngay: ra máu hoặc phân đen, sụt cân, nôn, đau bụng quặn, chướng bụng, không trung tiện, sốt",
+     "v": "c",
+     "n": "Dấu báo động: thay đổi thói quen đi cầu, sụt cân, thiếu máu thiếu sắt, triệu chứng tắc ruột, khối ở bụng, chảy máu trực tràng (WGO 2025 Bảng 6); tắc ruột có đau, chướng, buồn nôn, bí trung đại tiện (WSES Bologna 2018, mục History taking)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần, mang theo nhật ký đi cầu; không đáp ứng sau khoảng 4 tuần hoặc có dấu báo động thì chuyển tuyến thăm dò (nội soi đại tràng, đo áp lực hậu môn–trực tràng, đánh giá thứ phát)",
+     "v": "c",
+     "n": "Thăm dò nâng cao cho người đã loại trừ nguyên nhân thực thể, thất bại điều trị bước đầu (WGO 2025 mục 3.5); cần đánh giá rối loạn đại tiện trước khi gọi là kháng trị (AGA CPU 2026 Khuyến cáo 1, 2). Mốc 2 tuần và 4 tuần là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thụt tháo hoặc đặt thuốc đạn một lần tại chỗ để lấy bớt phân ứ trực tràng trước khi bắt đầu thuốc",
+     "v": "a",
+     "n": "Thuốc đạn, thuốc thụt có thể có lợi; làm sạch ruột giúp khi nhiều phân ứ, nhưng dữ liệu hạn chế (AGA CPU 2026 Khuyến cáo 7). Không bắt buộc vì phân đẩy được và ông chưa nhập viện."
+    },
+    {
+     "t": "Bổ sung vỏ hạt mã đề (psyllium) thay hoặc thêm vào PEG",
+     "v": "a",
+     "n": "Psyllium là loại chất xơ duy nhất có hiệu quả (AGA-ACG 2023 Khuyến cáo 1); liều > 10 g/ngày tối ưu và phải uống thêm nước khi phù hợp (BDA 2025, mục Fiber supplements: good practice statements; khuyến cáo 1.1). Ông uống ít nước, ăn kém, nên chưa ưu tiên; tránh khi nghi tắc ruột hay rối loạn đại tiện (WGO 2025 mục 4.2)."
+    },
+    {
+     "t": "Lactulose 15 g/ngày thay cho PEG",
+     "v": "a",
+     "n": "Lactulose là thuốc thẩm thấu đầu tay cùng PEG (WGO 2025 mục 4.6); AGA-ACG 2023 Khuyến cáo 4 chỉ gợi ý (có điều kiện) khi thất bại hoặc không dung nạp thuốc không kê đơn. Gây đầy hơi, chướng bụng, thường làm bỏ thuốc."
+    },
+    {
+     "t": "Magie oxid 400–500 mg/ngày (hoặc sữa magnesia)",
+     "v": "a",
+     "n": "Gợi ý có điều kiện (AGA-ACG 2023 Khuyến cáo 3, Bảng 4: 400–500 mg/ngày) và có trong bước đầu của WGO 2025 Hình 3 (milk of magnesia), nhưng AGA-ACG khuyên tránh khi suy thận do nguy cơ tăng magie máu. Ông 82 tuổi, eGFR 57: chọn bên thận trọng, ưu tiên PEG; nếu dùng thì thận trọng, theo dõi."
+    },
+    {
+     "t": "Hẹn nội soi đại tràng không khẩn như sàng lọc, nếu ông và gia đình muốn",
+     "v": "a",
+     "n": "Tuổi 76–85: sàng lọc chọn lọc theo sức khỏe, tiền sử sàng lọc và nguyện vọng (USPSTF 2021, Grade C). Không bắt buộc ở lượt này; làm hay không đều không trừ điểm. Phòng khám không có nội soi nên chỉ viết giấy hẹn."
+    },
+    {
+     "t": "Chuyển ngay nội soi đại tràng hoặc chụp CT bụng cấp để loại trừ ung thư",
+     "v": "w",
+     "n": "Không có dấu báo động; thăm dò nâng cao dành cho người đã loại trừ nguyên nhân thực thể và thất bại điều trị bước đầu (WGO 2025 mục 3.5). Gây tốn kém, nguy cơ cho người 82 tuổi (USPSTF 2021: lợi ích sàng lọc 76–85 tuổi nhỏ). Phòng khám cũng không có nội soi, CT."
+    },
+    {
+     "t": "Đổi paracetamol sang NSAID (ibuprofen, diclofenac) cho đỡ đau gối",
+     "v": "w",
+     "n": "Người cao tuổi, gầy yếu nên tránh NSAID nếu có thể (QĐ 361/2014, Phụ lục NSAID mục 3.3); NSAID nằm trong danh sách thuốc gây táo bón (WGO 2025 Bảng 4)."
+    },
+    {
+     "t": "Giữ paracetamol 8 viên (4 g) mỗi ngày vì 'là thuốc thường, không hại'",
+     "v": "w",
+     "n": "Người cao tuổi, gầy yếu dưới 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3); dùng kéo dài ở người suy dinh dưỡng có thể gây ngộ độc (QĐ 3610/2015, mục 2)."
+    },
+    {
+     "t": "Dùng thụt tháo lặp lại hằng ngày hoặc thuốc nhuận tràng kích thích mỗi ngày không giới hạn thay cho thuốc duy trì",
+     "v": "w",
+     "n": "Làm sạch ruột thường xuyên nên dùng thưa để tránh kỳ vọng sai (AGA CPU 2026 Khuyến cáo 7); bisacodyl chỉ ngắn hạn hoặc cứu (AGA-ACG 2023 Khuyến cáo 5)."
+    },
+    {
+     "t": "Kê ngay prucalopride hoặc linaclotide",
+     "v": "w",
+     "n": "Chỉ dành cho người không đáp ứng thuốc không kê đơn (AGA-ACG 2023 Khuyến cáo 7–10; WGO 2025 mục 4.7). Ông chưa thử PEG nào."
+    },
+    {
+     "t": "Bisacodyl trên 10 mg/ngày hằng ngày cho tới khi đi được",
+     "v": "h",
+     "n": "Tối đa 10 mg/ngày; dùng quá mức hoặc kéo dài gây tiêu chảy, rối loạn điện giải (AGA-ACG 2023 Bảng 4; WGO 2025 Bảng 9). Ở người 82 tuổi mất nước nhẹ có nguy cơ mất nước nặng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng (táo bón mạn nguyên phát), đủ tiêu chuẩn Rome IV (WGO 2025 Bảng 5), đợt nặng lên 2 tuần",
+     "Yếu tố làm nặng: ít vận động, ăn ít chất xơ, uống ít nước, hay nhịn đi cầu, nằm nhiều và ăn kém sau đợt mệt; ứ phân cứng ở trực tràng (chưa phải phân đá)",
+     "Đã loại trừ tại phòng khám: không có dấu báo động gợi ý ung thư đại trực tràng, không có dấu tắc ruột",
+     "Thuốc đang dùng: paracetamol 4 g/ngày kéo dài gần 2 năm, vượt mức cho người cao tuổi gầy (dưới 3 g/ngày); men gan bình thường",
+     "Bệnh kèm: thoái hóa khớp gối, chức năng thận giảm nhẹ theo tuổi (eGFR 57), tiểu đêm",
+     "Lý do thật đến khám: sợ lây 'bệnh trong ruột' cho vợ và cháu; quan hệ vợ chồng gần đây là mốc khởi phát đợt nặng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: (1) đặc điểm phân và số lần đi cầu theo Rome IV; (2) dấu báo động và tiền sử mổ bụng; (3) rà thuốc; (4) ăn uống, nước, vận động, thói quen nhịn; (5) hỏi riêng ông chuyện kín và nỗi lo thật. Khám: toàn trạng, bụng, thăm trực tràng bắt buộc; cận lâm sàng cơ bản chỉ để tìm nguyên nhân thứ phát và nền trước khi dùng thuốc.",
+     "Chẩn đoán xác định: rặn, phân cứng Bristol 1–2, đi chưa hết và dưới 3 lần/tuần, kéo dài ≥ 3 tháng, khởi phát ≥ 6 tháng trước (WGO 2025 Bảng 5, tiêu chuẩn Rome IV). Tiêu chuẩn Rome V cho người lớn: không có trong tài liệu đã tải (TL-0187 là khảo sát dịch tễ); chỉ viết ca thỏa Rome IV, xem sổ mâu thuẫn.",
+     "Vì sao đợt này nặng hơn: ngồi cả ngày, đau gối nên ít đi lại, uống rất ít nước vì sợ tiểu đêm, ăn ít rau, nhịn đi cầu khi có khách (WGO 2025 Bảng 2: ít vận động, thiếu nước, chế độ ăn ít xơ là yếu tố nguy cơ). Sau đợt mệt, nằm gần một tuần, ăn uống kém nên đi cầu càng khó. Mốc 'sau quan hệ vợ chồng' chỉ là điểm mở đầu chuỗi mệt, nghỉ, ăn uống kém: tài liệu đã tải không nêu quan hệ tình dục là nguyên nhân táo bón.",
+     "Loại ung thư đại trực tràng: dấu báo động gồm thay đổi thói quen đi cầu, sụt cân, thiếu máu thiếu sắt, triệu chứng tắc ruột, khối ở bụng, chảy máu trực tràng (WGO 2025 Bảng 6). Ông không có dấu nào: cân nặng 52 kg ổn định, Hb 134 g/L, không ra máu, thăm trực tràng không khối. Táo bón đã 2 năm; đợt nặng lên có yếu tố giải thích rõ nhưng vẫn phải hẹn tái khám và dặn dấu báo động.",
+     "Loại tắc ruột: tắc ruột có đau quặn từng cơn, chướng, buồn nôn hoặc nôn, có thể bí trung đại tiện; hỏi tiền sử mổ và xạ trị (WSES Bologna 2018, mục History taking and physical examination). Ông không mổ bụng, còn trung tiện, bụng mềm không chướng, nhu động có. Khối ở hố chậu trái là khối phân.",
+     "Loại thứ phát: rà thuốc theo WGO 2025 Bảng 4 (ông không dùng thuốc nào trong danh sách; paracetamol không gây táo bón); rà bệnh theo Bảng 3 (glucose, kali bình thường; canxi và TSH không làm được ở phòng khám, lâm sàng không gợi ý). Rối loạn đại tiện chưa thể kết luận; thăm trực tràng cho thấy cơ thắt giãn khi rặn, đo áp lực hậu môn–trực tràng chỉ khi không đáp ứng (AGA CPU 2026 Khuyến cáo 2).",
+     "Ghi chú áp dụng (≥ 75 tuổi): các thử nghiệm PEG trong AGA-ACG 2023 thu nhận người 18–70 tuổi, các thử nghiệm lactulose có rất ít người cao tuổi; WGO 2025 không có khuyến cáo riêng cho người ≥ 75 tuổi. Vì vậy dùng liều khởi đầu theo bảng liều, chỉnh dần, tránh magie khi thận giảm, theo dõi mất nước và điện giải."
+    ],
+    "phan_tich_xu_tri": [
+     "Bước 1: giải thích và trả lời nỗi lo thật (ung thư, lây). Táo bón chức năng là bệnh mạn tính cần điều trị lâu dài, kỳ vọng thực tế (AGA CPU 2026 Khuyến cáo 4). Câu 'không lây' là câu giao tiếp, tài liệu đã tải không bàn riêng.",
+     "Bước 2: lối sống. Tăng chất xơ dần tới 20–30 g/ngày, uống đủ nước, vận động, đáp ứng ngay khi mắc (WGO 2025 mục 4.2, 4.6). Phải tăng dần vì tăng nhanh gây đầy hơi, chướng bụng; tránh chất xơ khi nghi tắc ruột (WGO 2025 mục 4.2).",
+     "Bước 3: thuốc. PEG 17 g/ngày khuyến cáo mạnh, chứng cứ trung bình, đáp ứng bền 6 tháng (AGA-ACG 2023 Khuyến cáo 2, Bảng 4). Bisacodyl 5 mg chỉ làm thuốc cứu, ngắn hạn ≤ 4 tuần, tối đa 10 mg/ngày (AGA-ACG 2023 Khuyến cáo 5, Bảng 4; WGO 2025 mục 4.6). Tránh magie oxid do thận giảm (AGA-ACG 2023 Khuyến cáo 3).",
+     "Về stimulant: AGA CPU 2026 (mới nhất) nói lo ngại về dùng dài hạn thuốc nhuận tràng kích thích trong táo bón kháng trị là không có cơ sở; còn WGO 2025 và AGA-ACG 2023 giới hạn dùng ngắt quãng/ngắn hạn cho điều trị bước đầu. Hai bên khác đối tượng (kháng trị so với bước đầu), không phải mâu thuẫn thật: ca này mới điều trị bước đầu nên theo hướng dùng cứu, ngắn hạn.",
+     "Bước 4: giảm paracetamol. Người cao tuổi, gầy yếu: dưới 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3); thoái hóa khớp gối 1–2 g/ngày kèm vật lý trị liệu, chườm nóng (QĐ 361/2014, Thoái hóa khớp gối mục 4.2). Liều 4 g/ngày của QĐ 361 (Phụ lục thuốc giảm đau) áp dụng cho người trưởng thành chung; chọn bên thận trọng. Dặn hỏi cả thuốc cảm, thuốc hỗn hợp có paracetamol (QĐ 3610/2015, mục 2).",
+     "Bước 5: hẹn tái khám 2 tuần với nhật ký đi cầu; sau khoảng 4 tuần không đỡ hoặc có dấu báo động thì chuyển tuyến để thăm dò nội soi, đo áp lực hậu môn–trực tràng, đánh giá nguyên nhân (WGO 2025 mục 3.5; AGA CPU 2026 Khuyến cáo 2). Các mốc thời gian 2 tuần, 4 tuần là lựa chọn của ca, không có trong tài liệu đã tải.",
+     "Những việc sai (WGO 2025 mục 3.5; QĐ 361/2014; AGA CPU 2026): chuyển ngay nội soi/CT cấp khi không có dấu báo động; đổi sang NSAID; giữ paracetamol 4 g/ngày; thụt tháo hay bisacodyl hằng ngày không giới hạn; dùng ngay prucalopride/linaclotide; bisacodyl trên 10 mg/ngày.",
+     "Ràng buộc nguồn lực: chỉ có xét nghiệm cơ bản, không có siêu âm, X-quang, CT, nội soi và không làm được TSH, canxi, FIT. Quyết định không cần các thăm dò này ở lượt này nhờ lâm sàng (thăm trực tràng, hỏi dấu báo động); thất bại điều trị hay có dấu báo động thì chuyển tuyến. Kết quả cơ bản có sau khoảng 30–45 phút, kịp cho quyết định trong buổi khám."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Macrogol (polyethylene glycol, PEG) gói bột pha uống",
+      "ham_luong": "Tương đương 17 g PEG/ngày (cách quy đổi theo nhãn từng chế phẩm trong nước: không có trong tài liệu đã tải)",
+      "lieu": "17 g PEG × 1 lần/ngày, pha với nước, chỉnh theo đáp ứng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng đều, đánh giá lại sau 2 tuần; đáp ứng bền tới 6 tháng, cần điều trị lâu dài",
+      "ghi_chu": "AGA-ACG 2023 Khuyến cáo 2, Bảng 4 (17 g/ngày, không có liều tối đa rõ); WGO 2025 mục 4.6. Tác dụng phụ: chướng bụng, đầy hơi, phân lỏng, buồn nôn."
+     },
+     {
+      "thuoc": "Bisacodyl",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên 5 mg khi 2 ngày liền không đi cầu; tối đa 10 mg/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Chỉ dùng cứu, ngắn hạn ≤ 4 tuần liên tục",
+      "ghi_chu": "AGA-ACG 2023 Khuyến cáo 5, Bảng 4 (khởi đầu 5 mg, tối đa 10 mg, ngắn hạn hoặc cứu); WGO 2025 mục 4.6, Bảng 9. Mốc 'khi 2 ngày liền không đi' là lựa chọn của ca. Tác dụng phụ: đau quặn, tiêu chảy, rối loạn điện giải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần khi đau gối, cách 6–8 giờ; tổng 1–2 g/ngày, tối đa dưới 3 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Khi cần, dùng thưa; không dùng 8 viên/ngày như cũ",
+      "ghi_chu": "QĐ 361/2014: Thoái hóa khớp gối mục 4.2.2 (1–2 g/ngày); Phụ lục NSAID mục 3.3 (người cao tuổi, gầy yếu: dưới 3 g/ngày); Phụ lục thuốc giảm đau mục 3.1 (cách 6–8 giờ). QĐ 3610/2015 mục 2 (nguy cơ ở người suy dinh dưỡng, dùng kéo dài)."
+     }
+    ],
+    "dan_do": [
+     "Táo bón của ông là táo bón chức năng, không phải ung thư lúc này và không lây sang vợ hay cháu; ông có thể ăn chung, bế cháu như bình thường. Có triệu chứng nặng thêm thì quay lại ngay.",
+     "Uống PEG mỗi sáng đều đặn, không tự bỏ khi đã đi được; cần dùng lâu dài để duy trì (AGA CPU 2026 Khuyến cáo 4). Bisacodyl chỉ dùng buổi tối khi 2 ngày liền không đi, không quá 10 mg mỗi ngày.",
+     "Uống đủ nước, uống nhiều hơn ban ngày, bớt vào buổi tối; không nhịn uống vì sợ đi tiểu đêm (WGO 2025 mục 4.6).",
+     "Ăn thêm rau, trái cây, ngũ cốc nguyên hạt, tăng dần trong vài tuần để khỏi đầy hơi, tới 20–30 g chất xơ mỗi ngày (WGO 2025 mục 4.2).",
+     "Đi bộ nhẹ vài lần mỗi ngày trong khả năng của đầu gối; thấy mắc là đi ngay, không nhịn vì có khách; tập ngồi nhà vệ sinh 10 phút sau ăn sáng (thói quen sau ăn sáng là gợi ý của ca).",
+     "Chỉ uống paracetamol khi đau, mỗi lần 1 viên 500 mg, tổng không quá 4 viên mỗi ngày; không uống thêm thuốc cảm hay thuốc đau khác có chứa paracetamol; không tự mua ibuprofen, diclofenac (QĐ 361/2014; QĐ 3610/2015). Chườm nóng và tập nhẹ cho gối.",
+     "Ghi lại mỗi ngày đi cầu mấy lần, phân cứng hay mềm; mang tờ ghi đến tái khám sau 2 tuần (nhật ký giúp đánh giá đáp ứng, WGO 2025 mục 3.3 dùng nhật ký triệu chứng).",
+     "Đi khám ngay nếu đi cầu ra máu hoặc phân đen, sụt cân, nôn, đau bụng quặn từng cơn, bụng chướng, không trung tiện, sốt (WGO 2025 Bảng 6; WSES Bologna 2018).",
+     "Nếu sau khoảng 4 tuần vẫn không đi được, bác sĩ sẽ giới thiệu lên bệnh viện làm thêm xét nghiệm, nội soi và đo chức năng hậu môn–trực tràng (WGO 2025 mục 3.5; AGA CPU 2026)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau khi con gái ra ngoài, ông nói được nỗi sợ lây bệnh cho vợ và cháu; bác sĩ giải thích, ông thở phào và chịu ăn chung, bế cháu trở lại. Hai tuần sau ông tái khám: đi cầu cách ngày, phân mềm (Bristol 4), ít rặn, không dùng bisacodyl, uống nước nhiều hơn, mỗi ngày chỉ uống paracetamol 2–3 viên, đau gối vẫn chịu được, men gan lần này không cần làm lại. Bác sĩ dặn tiếp tục PEG lâu dài, tái khám khi có dấu báo động hoặc sau 3 tháng. Đây là minh họa kết cục tốt, mốc thời gian đáp ứng không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Con gái trả lời thay và nói 'uống nước nhiều', 'ba ăn bình thường': thông tin sai lệch vì ông giấu; phải hỏi riêng ông bằng câu ngắn, nói to rõ.",
+  "Paracetamol 4 g/ngày kéo dài không gây táo bón, nhưng dễ bị bỏ sót khi hỏi chung 'đang uống thuốc gì'; là chỗ cần can thiệp an toàn (giảm liều) chứ không phải nguyên nhân táo bón.",
+  "Hàng xóm 'bí đại tiện lâu rồi ung thư, vợ cũng bị': gây nỗi sợ ung thư và sợ lây; không có dấu báo động nào ở ông; vẫn dặn dấu hiệu cần quay lại.",
+  "Con gái đòi 'chụp chiếu cho chắc': phòng khám không có siêu âm, X-quang, CT, nội soi; và về chuyên môn không có chỉ định thăm dò nâng cao khi chưa thất bại điều trị bước đầu (WGO 2025 mục 3.5).",
+  "Khối phân ở hố chậu trái dễ bị nhầm với khối u: ấn không đau, di động, thăm trực tràng thấy phân cứng, không khối."
+ ],
+ "bai_hoc_bien": [
+  "Người cao tuổi ngại nói chuyện kín trước con cái: tách bệnh nhân ra hỏi riêng mới biết uống nước thật sự, nhịn đi cầu, uống bao nhiêu thuốc giảm đau và nỗi sợ lây bệnh.",
+  "Chẩn đoán táo bón chức năng dựa trên tiêu chuẩn Rome IV cộng loại trừ dấu báo động và nguyên nhân thứ phát (WGO 2025 Bảng 5, 6, 3, 4); thăm trực tràng là bắt buộc.",
+  "Ở người ≥ 75 tuổi dùng PEG làm đầu tay; tránh magie khi thận giảm; bisacodyl chỉ cứu ngắn hạn (AGA-ACG 2023).",
+  "Rà thuốc giảm đau tự mua: giữ paracetamol dưới 3 g/ngày ở người cao tuổi gầy yếu, tránh đổi sang NSAID vừa hại thận vừa thuộc nhóm gây táo bón.",
+  "Trả lời đúng nỗi lo thật (ung thư, lây) bằng thông tin rõ ràng; không làm thêm thăm dò chỉ để trấn an; hẹn tái khám và dặn dấu báo động là lưới an toàn."
+ ],
+ "diem_nho": [
+  "Rome IV táo bón chức năng: ≥ 2 trong rặn, phân cứng, đi chưa hết, tắc nghẽn hậu môn–trực tràng, móc phân, dưới 3 lần/tuần (các mục khác tính khi > 25% lần đi cầu); ≥ 3 tháng, khởi phát ≥ 6 tháng; không đủ tiêu chuẩn IBS (WGO 2025 Bảng 5).",
+  "Dấu báo động táo bón: đổi thói quen, sụt cân, thiếu máu thiếu sắt, tắc ruột, khối ở bụng, ra máu trực tràng, sa trực tràng (WGO 2025 Bảng 6).",
+  "PEG 17 g/ngày; bisacodyl 5–10 mg ngắn hạn ≤ 4 tuần; magie oxid thận trọng khi suy thận (AGA-ACG 2023 Khuyến cáo 2, 3, 5, Bảng 4).",
+  "Chất xơ 20–30 g/ngày, tăng dần, kèm nước; tránh khi nghi tắc ruột (WGO 2025 mục 4.2).",
+  "Paracetamol người cao tuổi gầy yếu dưới 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3); ngưỡng ngộ độc cấp > 150 mg/kg (QĐ 3610/2015, mục 3).",
+  "Sàng lọc ung thư đại trực tràng 76–85 tuổi: chọn lọc (USPSTF 2021, Grade C); khác với thăm dò triệu chứng có dấu báo động."
+ ],
+ "nguon": [
+  "WGO Global Guideline – Chronic Constipation 2025 – kho cũ tltk-10000-ca (02 Tiêu hóa – gan mật/Quốc tế) – mục 2.2, 3.1–3.5, 4.2, 4.6, 4.7; Bảng 2, 3, 4, 5, 6, 8, 9; Hình 3",
+  "AGA-ACG 2023 – Pharmacological management of chronic idiopathic constipation – TL-0208 – Khuyến cáo 1–10 (Bảng 1), Bảng 4 (liều)",
+  "AGA Clinical Practice Update 2026 – Refractory constipation – TL-0184 – Khuyến cáo 1–4, 7",
+  "BDA 2025 – Dietary management of chronic constipation in adults – kho cũ tltk-10000-ca – khuyến cáo 1.1, nhóm Fiber supplements: good practice statements",
+  "WSES Bologna 2018 – tắc ruột do dính – TL-0093 – mục History taking and physical examination, Plain X-rays",
+  "USPSTF 2021 – Colorectal cancer screening – TL-0221 – tuổi 76–85 (Grade C); Asia-Pacific 2022 – TL-0217",
+  "ACG 2021 – Management of irritable bowel syndrome – kho cũ tltk-10000-ca (bản chữ của TL-0218 là nhãn thuốc, dùng bản kho cũ) – Bảng 1",
+  "BYT QĐ 361/2014 – bệnh cơ xương khớp – kho cũ tltk-10000-ca (TL-0286) – Thoái hóa khớp gối mục 4.2; Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1",
+  "BYT QĐ 3610/2015 – ngộ độc – kho cũ tltk-10000-ca – bài Ngộ độc paracetamol, mục 2, 3",
+  "Rome V 2026 (TL-0187): bản đã tải là khảo sát dịch tễ, không có tiêu chuẩn chẩn đoán; dùng Rome IV qua WGO 2025.",
+  "Không có trong tài liệu đã tải: tiêu chuẩn Rome V cho táo bón người lớn, khuyến cáo riêng cho người ≥ 75 tuổi, cách quy đổi PEG theo chế phẩm trong nước, mốc tái khám 2 và 4 tuần, mức nước uống mỗi ngày (mL), việc quan hệ tình dục liên quan đến táo bón."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-12 (viết: Sonnet): ca 1 lượt, bản 1. Đã đọc: TL-0184 (AGA CPU 2026, Khuyến cáo 1–8), TL-0208 (AGA-ACG 2023, Bảng 1 và Bảng 4, Khuyến cáo 1–10), TL-0093 (Bologna 2018, mục History taking), TL-0221 (USPSTF 2021, 76–85 tuổi), TL-0187 (chỉ là dịch tễ), WGO 2025 (Bảng 2–9, mục 3–4), BDA 2025 (khuyến cáo 1.1 và nhóm Fiber supplements), QĐ 361/2014 (Thoái hóa khớp gối 4.2; Phụ lục NSAID 3.3), QĐ 3610/2015 (Ngộ độc paracetamol mục 2, 3).",
+  "Chỗ thiếu tài liệu: Rome V cho người lớn; khuyến cáo riêng ≥ 75 tuổi; quy đổi PEG theo chế phẩm trong nước; mốc tái khám 2 và 4 tuần và mốc 'khi 2 ngày liền không đi'; lượng nước; việc 'không lây' (câu giao tiếp). Chọn magie oxid thận trọng (eGFR 57) theo AGA-ACG 2023; thuốc nhuận tràng kích thích theo AGA-ACG 2023 và WGO 2025 cho điều trị bước đầu.",
+  "Ràng buộc 'chỉ có xét nghiệm cơ bản': khóa X-quang, siêu âm (kéo theo CT, nội soi); xét nghiệm không cơ bản (TSH, canxi, FIT, celiac, calprotectin, soi phân) ghi 'phòng khám không làm được'. Không dùng ảnh."
+ ]
+}
