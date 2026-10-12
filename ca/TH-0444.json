@@ -1,0 +1,508 @@
+{
+ "ma_ca": "TH-0444",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_gerd_dai_thao_duong_o_xa",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trào ngược dạ dày thực quản (GERD)",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh mạch vành",
+   "Loét thực quản"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Hưu trí",
+  "yeu_to_khoi_phat": "Sau ngồi máy tính lâu",
+  "thuoc_dang_dung": "Insulin đang dùng",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim"
+ },
+ "benh_nhan": {
+  "ten": "Lương Văn Sáu",
+  "tuoi": 71,
+  "gioi": "Nam",
+  "nghe": "Hưu trí (nguyên giáo viên Toán trường cấp 2, nghỉ hưu 11 năm; ở một mình, con gái ở xóm bên)",
+  "can_nang": 72,
+  "chieu_cao": 164,
+  "xung_ho": "Bác sĩ gọi ông là 'thầy' hoặc 'ông'. Ông xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Điềm đạm, nói năng chuẩn mực, thích tự tra cứu trên mạng rồi tự kết luận 'chắc viêm dạ dày'. Sĩ diện, không muốn nói ra nỗi sợ. Hai tháng nay mê gõ gia phả dòng họ trên máy tính con trai để lại. Đái tháo đường 14 năm, tiêm insulin đều; bỏ thuốc lá 12 năm.",
+  "kieu_nhieu": "Ở xa, khó tái khám: nhà cách phòng khám 38 km, đi xe ôm mất hơn một giờ, mưa là đường lầy. Ngay từ đầu xin 'cho thuốc uống một lần cho đủ', nói sẽ không quay lại; bị đề nghị đi tuyến trên thì từ chối vì tốn công, tốn tiền. Dịu xuống khi nghe được một kế hoạch trọn gói: một chuyến đi duy nhất có hẹn, thuốc cấp đủ, giấy dặn bằng văn bản và số điện thoại để hỏi.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c79b73",
+   "toc": "#cfcac2",
+   "kieuToc": "ngan",
+   "ao": "#6f8f7a",
+   "aoKieu": "co_tron",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Tức nặng giữa ngực sau bữa tối, hay ợ hơi, 3 tuần nay; xin lấy thuốc dạ dày",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám huyện không có máy X-quang (kéo theo không có CT) và không có nội soi tiêu hóa; nội soi và chụp mạch vành làm ở bệnh viện tỉnh cách 85 km. Còn dùng được: ECG, siêu âm, xét nghiệm cơ bản kể cả hs-troponin T (có kết quả sau khoảng 1 giờ), đường huyết mao mạch, ống nghe, huyết áp kế, SpO₂."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Lương Văn Sáu, 71 tuổi, giáo viên Toán hưu trí, đái tháo đường đang tiêm insulin, đi xe ôm từ xã cách 38 km lên phòng khám huyện lúc 8 giờ sáng thứ Hai. Ông xin lấy thuốc dạ dày vì 3 tuần nay hay tức nặng giữa ngực sau bữa tối và ợ hơi nhiều. Lúc này ông không đau. Sinh hiệu: mạch 64 l/p, HA 138/80 mmHg, nhiệt độ 36,7 °C, nhịp thở 18 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Gọi xe cấp cứu chở ông Sáu lên bệnh viện tỉnh cách 85 km khi ECG bình thường, hs-TnT 4 ng/L ở thời điểm hơn 12 giờ sau cơn đau gần nhất và ông đang hết đau là quá tay: bệnh cảnh này nằm trong đường loại trừ của thuật toán troponin siêu nhạy (ESC 2023 Hình 6 chú thích a; QĐ 2187/2019 Hình 3). Ông mất cả ngày nằm chờ ở khoa cấp cứu, con gái phải bỏ việc ra phụ, chi phí vận chuyển lớn so với lương hưu, và nỗi sợ nhồi máu vốn đã có bị đẩy cao hơn. Điều cần làm là một chuyến đi có hẹn để thăm dò mạch vành không khẩn và nội soi (ESC 2024 mục 3.3.4; ACG 2022 chẩn đoán KC 6), cùng thuốc và lời dặn ở nhà.",
+    "nhap_vien": "Nhập viện theo dõi cho ông Sáu chỉ vì tức ngực khi ECG bình thường, hs-TnT dưới ngưỡng loại trừ, không đau lúc khám và sinh hiệu ổn là không có chỉ định (ESC 2023 Hình 6). Ở viện ông bị nhịn ăn để làm xét nghiệm trong khi vẫn tiêm insulin hai lần mỗi ngày, dễ chênh đường huyết nếu liều không chỉnh theo bữa ăn (nhận định của tác giả ca; không có trong tài liệu GERD đã tải). Ông nằm vài ngày mà việc cần làm vẫn còn nguyên: nội soi sau khi ngưng thuốc dạ dày, thăm dò mạch vành có hẹn, đổi thói quen ngồi máy tính và ăn tối muộn; chi phí và thời gian xa nhà thì tăng thêm."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi bị tức nặng giữa ngực sau bữa cơm tối, ợ hơi hoài, chắc là viêm dạ dày. Bác sĩ cho tôi lấy thuốc dạ dày uống một lần cho đủ. Nhà tôi xa lắm, đi lại khó, tôi không muốn quay lại nhiều lần.",
+   "sinh_hieu": {
+    "mach": 64,
+    "ha": "138/80",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ba tuần nay, sau bữa cơm tối, ông thấy tức nặng giữa ngực, ợ hơi nhiều. Ông cho là viêm dạ dày và muốn lấy thuốc dạ dày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "xin_thuoc_mot_lan",
+     "noi_dung": "Ông nói ngay: 'Tôi ở xa lắm, bác sĩ cho thuốc uống một lần cho đủ, tôi không quay lại đâu'. Nghe nói phải lên tỉnh thì ông lắc đầu: 'Đi một chuyến tốn cả ngày với mấy trăm nghìn'.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu: ở xa, khó tái khám",
+     "nhieu": 1
+    },
+    {
+     "id": "dac_diem_dau",
+     "noi_dung": "Cảm giác như có hòn đá đè giữa ngực, ngay sau xương ức, không rát, không nóng. Cơn bắt đầu khoảng 20–40 phút sau bữa tối, kéo dài khoảng 10–15 phút, 3–4 lần mỗi tuần. Nặng hơn khi ngồi gập hoặc ngả người ra ghế, đỡ khi đứng dậy đi lại hoặc ợ được hơi. Không lan lên cổ, hàm hay tay. Không vã mồ hôi, không khó thở, không buồn nôn. Lần gần nhất là 8 giờ tối qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mô tả cơn đau: không gắng sức, liên quan bữa ăn và tư thế"
+    },
+    {
+     "id": "o_nong_trao_nguoc",
+     "noi_dung": "Ông không bị ợ nóng, không thấy chua hay đắng trào lên cổ họng. Chỉ ợ hơi nhiều và thấy đầy tức vùng ngực – thượng vị sau ăn. Ông không gọi được tên triệu chứng 'ợ nóng'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có ợ nóng, không trào ngược: biểu hiện không điển hình"
+    },
+    {
+     "id": "gang_suc",
+     "noi_dung": "Mỗi sáng ông đi bộ 3 km ra chợ rồi về, leo cầu thang hai tầng nhà con gái mà không tức ngực, không hụt hơi. Sáng nay đi bộ cũng bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không liên quan gắng sức"
+    },
+    {
+     "id": "ban_dem",
+     "noi_dung": "Ban đêm ông ngủ được, chưa lần nào bị cơn tức ngực đánh thức. Không phải kê gối cao mới ngủ được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có đau lúc nghỉ ban đêm"
+    },
+    {
+     "id": "ngoi_may_tinh",
+     "noi_dung": "Hai tháng nay ông gõ gia phả dòng họ trên máy tính, ngồi khom 6–8 giờ mỗi ngày. Bữa tối ăn lúc 19 giờ 30 rồi ngồi lại máy tính đến 22 giờ, đi ngủ lúc 23 giờ. Buổi chiều uống cà phê sữa, ăn bánh ngọt bên máy tính. Trước đó ông ít ngồi lâu như vậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát: ngồi máy tính lâu, ăn tối muộn, ngồi gập sau ăn"
+    },
+    {
+     "id": "dai_thao_duong",
+     "noi_dung": "Đái tháo đường típ 2 được 14 năm, tiêm insulin trộn 30/70 sáng và tối trước ăn, đo đường huyết ở nhà mỗi sáng. HbA1c lần gần nhất 3 tháng trước ông nhớ là 8,1%. Hai bàn chân tê như đi tất đã hai năm. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đái tháo đường tiêm insulin, bệnh thần kinh ngoại biên: có thể mất triệu chứng đau thắt ngực kinh điển"
+    },
+    {
+     "id": "duong_huyet_luc_dau",
+     "noi_dung": "Tối thứ Bảy, đúng lúc đau, ông đo đường huyết được 7,6 mmol/L. Không run tay, không đói cồn cào, không đổ mồ hôi lạnh, không có cơn hạ đường huyết gần đây.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại hạ đường huyết là nguyên nhân"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không nuốt nghẹn, không nuốt đau, không nôn, không sụt cân (cân nặng ổn định), phân vàng không đen, không mệt mỏi hay xanh xao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Ngoài insulin, ông không dùng thuốc nào khác thường xuyên, không uống aspirin, không thuốc giảm đau, không thuốc xương khớp. Có xin hàng xóm một gói thuốc kháng acid uống 3 lần, đỡ được khoảng 15 phút rồi lại tức.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng và thuốc tự mua"
+    },
+    {
+     "id": "hut_thuoc_gia_dinh",
+     "noi_dung": "Hút thuốc lá 20 năm, bỏ cách đây 12 năm. Rượu bia hầu như không. Bố mất ở tuổi 80 vì tuổi già; trong nhà không ai bị bệnh tim sớm. Huyết áp trước giờ bình thường, chưa từng đo mỡ máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ tim mạch: đái tháo đường, từng hút thuốc"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Cách đây 4 tuần, ông bạn đồng nghiệp cùng tuổi, cũng đái tháo đường, bị 'tức ngực tưởng đau dạ dày' rồi mất ngay sau bữa cơm vì nhồi máu cơ tim. Ông sợ mình giống vậy nhưng sĩ diện, không muốn nói, nên mở lời bằng chuyện 'lấy thuốc dạ dày'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi ông đang lo lắng điều gì nhất, hoặc vì sao đến khám đúng lúc này, hoặc có ai quen bị bệnh tim không.",
+     "k": 1,
+     "y": "Lý do thật đến khám: sợ nhồi máu cơ tim"
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Nhà ở xã cách phòng khám 38 km, đi xe ôm hơn một giờ, mưa thì đường lầy. Ông ở một mình, con gái ở xóm bên có điện thoại, con trai làm công nhân ở thành phố. Ông có điện thoại dùng được Zalo. Bệnh viện tỉnh cách đây 85 km, trạm y tế xã cách nhà 3 km.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều kiện ở xa và phương tiện liên lạc"
+    },
+    {
+     "id": "tu_choi_len_tinh",
+     "noi_dung": "Nếu bác sĩ đề nghị đi bệnh viện tỉnh: 'Cả ngày với mấy trăm nghìn, chỉ vì tức ngực chút xíu'. Ông đồng ý khi được giải thích rằng chỉ cần một chuyến duy nhất, có giấy hẹn, làm gộp nhiều việc cùng một ngày.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nhiễu: từ chối tuyến trên, dịu lại khi có kế hoạch gộp",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói chuyện mạch lạc, không vã mồ hôi, da niêm hồng. Cao 164 cm, nặng 72 kg (BMI 26,8), vòng bụng 96 cm. Không phù mặt, không vàng mắt.",
+     "k": 1,
+     "hien": "Tỉnh, không vã mồ hôi, người hơi mập bụng."
+    },
+    "tim": {
+     "a": "Tim đều 64 l/p, T1 T2 rõ, không âm thổi, không T3 hay T4. Tĩnh mạch cổ không nổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 64 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3 hay T4."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai bên, không ran. Không có dấu tràn dịch màng phổi.",
+     "k": 1,
+     "hien": "Thở êm, nhịp thở 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Ấn thượng vị không đau, không phản ứng thành bụng. Gan lách không sờ thấy, không khối. Vòng bụng 96 cm.",
+     "k": 1,
+     "hien": "Bụng mềm, ấn thượng vị không đau."
+    },
+    "co_xuong_khop": {
+     "a": "Ấn các sụn sườn và cột sống ngực không đau. Ngửa, cúi, xoay thân và hít sâu không làm xuất hiện tức ngực.",
+     "k": 1,
+     "hien": "Ấn thành ngực không đau, cử động thân không gây tức ngực."
+    },
+    "chi_duoi": {
+     "a": "Không phù. Mạch mu chân bắt rõ hai bên. Da bàn chân khô, không loét.",
+     "k": 1,
+     "hien": "Không phù, mạch mu chân rõ hai bên."
+    },
+    "than_kinh": {
+     "a": "Giảm cảm giác chạm nhẹ (monofilament) ở mu và lòng hai bàn chân kiểu đi tất; phản xạ gân gót giảm hai bên. Không yếu liệt.",
+     "k": 1,
+     "hien": "Hai bàn chân giảm cảm giác chạm kiểu đi tất."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 138/80, mạch 64; đứng 3 phút 132/78, mạch 66, không choáng.",
+     "k": 0,
+     "hien": "Đứng dậy không choáng."
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 64 l/p, trục bình thường, PR 0,16 s, QRS hẹp. Không ST chênh lên hay chênh xuống, không sóng T đảo, không sóng Q bệnh lý, không dày thất trái.",
+     "n": "Đau ngực ở người 71 tuổi đái tháo đường: ECG là bước đầu tiên (ESC 2023 mục 3.2: ECG trong 10 phút khi nghi hội chứng vành cấp; mục 3.1.1: đau thượng vị, khó thở cũng là triệu chứng tương đương). ECG bình thường lúc không đau không loại trừ bệnh mạch vành mạn: phải loại trừ khách quan thiếu máu cơ tim trước khi gọi là đau ngực không do tim (ESC 2024 mục 3.1.1)."
+    },
+    "trop": {
+     "v": "e",
+     "r": "hs-TnT 4 ng/L (ngưỡng loại trừ ở lần lấy đầu < 5 ng/L với máy Elecsys)",
+     "n": "Cơn đau gần nhất cách khám hơn 12 giờ (8 giờ tối qua), nên một mẫu hs-cTn rất thấp ở 0 giờ đủ để loại trừ nhồi máu không ST chênh (ESC 2023 Hình 6 chú thích a: chỉ áp dụng khi đau khởi phát > 3 giờ trước lần lấy đầu; QĐ 2187/2019 Hình 3, hs-cTn Elecsys). Nếu đau tái lại trong lúc theo dõi thì lấy lại (ESC 2023 mục 3.3.4.1)."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "7,9 mmol/L",
+     "n": "Loại hạ đường huyết (vã mồ hôi, run, hồi hộp dễ nhầm với bệnh tim) và biết mức đường huyết hiện tại của người tiêm insulin (nhận định của tác giả ca; không có trong tài liệu GERD đã tải)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,9 G/L · Hb 139 g/L · MCV 90 fL · TC 236 G/L",
+     "bang": {
+      "wbc": 6.9,
+      "neu_pct": 58.0,
+      "neu": 4.0,
+      "lym_pct": 32.0,
+      "lym": 2.2,
+      "mono_pct": 7.0,
+      "mono": 0.48,
+      "hgb": 139,
+      "hct": 0.42,
+      "mcv": 90.0,
+      "plt": 236
+     },
+     "n": "Không thiếu máu: một dấu báo động của GERD là thiếu máu hoặc xuất huyết tiêu hóa (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Không bắt buộc để quyết định hôm nay."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Creatinin 92 µmol/L · eGFR 77 mL/ph/1,73m² · Ure 5,6 mmol/L",
+     "bang": {
+      "creat": 92,
+      "egfr": 77,
+      "ure": 5.6
+     },
+     "n": "Chức năng thận ở người đái tháo đường 14 năm; kết quả giúp tuyến trên chọn thăm dò mạch vành có cản quang (nhận định của tác giả ca; không có trong tài liệu GERD đã tải)."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Gan nhiễm mỡ nhẹ; túi mật không sỏi, thành mỏng; đường mật không giãn; tụy thấy rõ phần đầu, không to; không dịch ổ bụng.",
+     "n": "Không bắt buộc cho GERD. Đau sau bữa tối ở người đái tháo đường có thể do sỏi túi mật; siêu âm giúp loại trừ (nhận định của tác giả ca). Phòng khám có siêu âm nên không cần X-quang."
+    },
+    "echo": {
+     "v": "a",
+     "n": "Chấp nhận được nhưng không đổi quyết định hôm nay: ECG, hs-TnT bình thường, không suy tim. Siêu âm tim lúc nghỉ thuộc bước đánh giá tiếp theo của hội chứng mạch vành mạn (ESC 2024 Hình 3, bước 2), sẽ làm cùng chuyến thăm dò mạch vành ở tuyến tỉnh."
+    },
+    "cxr": {
+     "n": "Cơ sở không có X-quang. Không cần cho quyết định: phổi sạch, SpO₂ 97%, không ho; X-quang ngực chỉ làm ở một số người chọn lọc trong bước đánh giá đầu (ESC 2024 Hình 3, bước 1). Cũng không chụp thực quản cản quang chỉ để chẩn đoán GERD (ACG 2022 chẩn đoán KC 5)."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi.)",
+     "n": "Có chỉ định, không khẩn: không dấu báo động nhưng nhiều yếu tố nguy cơ Barrett (tuổi > 50, thừa cân, từng hút thuốc) (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Đau ngực không ợ nóng sau khi đã đánh giá tim thì ACG 2022 chẩn đoán KC 4 khuyến cáo đánh giá khách quan (nội soi và/hoặc đo pH). Không có cách thay thế bằng khám lâm sàng; viết giấy giới thiệu, ngưng PPI 2–4 tuần trước khi nội soi nếu đã dùng (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày thực quản (GERD), chẩn đoán lâm sàng, biểu hiện không điển hình: tức nặng sau xương ức sau bữa tối và ợ hơi, không có ợ nóng hay trào ngược, khởi phát khi ngồi gập máy tính nhiều giờ và ăn tối muộn; đã loại trừ hội chứng vành cấp tại thời điểm khám; chưa có bằng chứng khách quan; kèm đái tháo đường tiêm insulin, thừa cân",
+     "ok": 1,
+     "n": "Đau ngực không do tim là triệu chứng điển hình thứ ba của GERD (Lyon 2.0 Bảng 2; VNAGE 2026 KC 1). Cơn đau theo bữa tối muộn và tư thế ngồi gập, đỡ khi đứng dậy đi lại và ợ hơi; ACG 2022 ghi khoảng cách < 3 giờ giữa ăn và nằm làm tăng triệu chứng (phần Diet and Lifestyle Changes). ECG, hs-TnT bình thường. Thử PPI đơn thuần không đủ để xác định (VNAGE 2026 KC 2; Lyon 2.0 Bảng 2): cần bằng chứng khách quan (nội soi LA B trở lên hoặc đo pH, VNAGE 2026 KC 6)."
+    },
+    {
+     "t": "Bệnh mạch vành (hội chứng vành cấp, hội chứng mạch vành mạn)",
+     "n": "Hội chứng vành cấp được loại trừ tại thời điểm khám: đau không gắng sức, không lan, không vã mồ hôi, ECG bình thường, hs-TnT 4 ng/L sau hơn 12 giờ từ cơn đau (ESC 2023 Hình 6; QĐ 2187/2019 Hình 3). Bệnh mạch vành mạn CHƯA loại trừ: nam 71 tuổi, điểm triệu chứng 1, 2 yếu tố nguy cơ (đái tháo đường, từng hút thuốc) cho xác suất lâm sàng khoảng 19%, mức trung bình (ESC 2024 Hình 4); người đái tháo đường có bệnh thần kinh có thể không có triệu chứng đau thắt ngực kinh điển (ESC 2024 mục 3.1.1). Hẹn thăm dò hình ảnh không khẩn."
+    },
+    {
+     "t": "Loét thực quản, viêm thực quản nặng, Barrett, ung thư thực quản",
+     "n": "Không nuốt nghẹn, nuốt đau, nôn, sụt cân, xuất huyết tiêu hóa, thiếu máu (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Biến chứng nặng ít gặp ở Việt Nam: loét 1,3–5%, xuất huyết 0,4% (VNAGE 2026 KC 3, 4). Chỉ nội soi mới khẳng định hay loại trừ: ông có nhiều yếu tố nguy cơ Barrett nên hẹn nội soi không khẩn."
+    },
+    {
+     "t": "Đau thành ngực, cơ xương do ngồi gập máy tính",
+     "n": "Ấn sụn sườn và cột sống ngực không đau, cử động thân và hít sâu không gây đau; cơn đau theo bữa ăn chứ không theo vận động (nhận định của tác giả ca). Nếu đau còn dai dẳng sau điều trị GERD và thăm dò tim thì xét lại."
+    },
+    {
+     "t": "Sỏi túi mật, viêm loét dạ dày – tá tràng, liệt dạ dày do đái tháo đường",
+     "n": "Siêu âm túi mật không sỏi; ấn thượng vị không đau; không nôn thức ăn cũ, không no sớm. Không đủ cơ sở chẩn đoán liệt dạ dày; ACG 2022 điều trị KC 14 chỉ dùng thuốc vận động ruột khi có bằng chứng khách quan về liệt dạ dày."
+    },
+    {
+     "t": "Hạ đường huyết do insulin gây vã mồ hôi, hồi hộp, tức ngực",
+     "n": "Đường huyết lúc đau 7,6 mmol/L, hôm nay 7,9 mmol/L; không run, không vã mồ hôi lạnh (nhận định của tác giả ca; ngưỡng hạ đường huyết không có trong tài liệu GERD đã tải)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Làm ECG ngay và đo hs-troponin T trước khi kết luận là dạ dày, dù ông chỉ xin thuốc dạ dày",
+     "v": "c",
+     "n": "Đau ngực, đau thượng vị đều có thể là triệu chứng của hội chứng vành cấp (ESC 2023 mục 3.1.1); ECG trong 10 phút (ESC 2023 mục 3.2); hs-cTn một mẫu loại trừ khi rất thấp và đau khởi phát > 3 giờ (ESC 2023 Hình 6 chú thích a; QĐ 2187/2019 Hình 3). Lyon 2.0 và ACG 2022 đều đòi hỏi loại trừ bệnh tim trước khi coi đau ngực là do thực quản (ACG 2022 chẩn đoán KC 4; ESC 2024 mục 3.1.1)."
+    },
+    {
+     "t": "Chọn hướng cho về, không chuyển cấp cứu, không nhập viện",
+     "v": "c",
+     "n": "ECG, hs-TnT 4 ng/L, hết đau, sinh hiệu ổn, đau không liên quan gắng sức (ESC 2023 Hình 6, đường rule-out). Đây là quyết định chủ động kèm gói an toàn dưới đây vì ông ở xa; mức nguy cơ nền vẫn cần thăm dò mạch vành không khẩn."
+    },
+    {
+     "t": "Nhận diện nguy cơ nền: tính xác suất bệnh mạch vành mạn (nam 71 tuổi, điểm triệu chứng 1, đái tháo đường và từng hút thuốc: khoảng 19%) và hẹn thăm dò mạch vành không xâm lấn, không khẩn, ở tuyến tỉnh",
+     "v": "c",
+     "n": "RF-CL (ESC 2024 Hình 4; Khuyến cáo bảng 3, loại I B). Mức trung bình (> 15–50%): nên chụp CT mạch vành hoặc thăm dò chức năng (ESC 2024 mục 3.2.1, 3.3.4). Phải loại trừ khách quan thiếu máu cơ tim trước khi gọi là không do tim (ESC 2024 mục 3.1.1). Thời hạn cụ thể của chuyến thăm dò: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chiến lược xác định GERD: (A) omeprazol 20 mg uống 1 lần/ngày, 30–60 phút trước bữa sáng, 8 tuần, rồi ngưng 2–4 tuần trước khi nội soi, HOẶC (B) nội soi (± đo pH) trước khi dùng PPI kéo dài, trong lúc chờ chỉ lối sống ± alginat khi có triệu chứng",
+     "v": "c",
+     "n": "Mâu thuẫn thật về đau ngực không ợ nóng (sổ mâu thuẫn). Cách A: Lyon 2.0 (2024) Bảng 2: triệu chứng điển hình đơn độc, gồm đau ngực thực quản, có thể đủ để thử thuốc kháng tiết; VNAGE 2026 KC 1, 15 (PPI liều chuẩn 4–8 tuần cho NERD); ACG 2022 điều trị KC 8 (trước bữa 30–60 phút) và chẩn đoán KC 3 (nội soi sau ngưng PPI 2–4 tuần). Cách B: ACG 2022 chẩn đoán KC 4 (đau ngực không ợ nóng, sau khi đã loại trừ bệnh tim: đánh giá khách quan); Lyon 2.0 Bảng 2 (thăm dò thực quản trước khi điều trị nội khoa dài hạn). Khác nhau vì Lyon 2.0 coi đau ngực thực quản là triệu chứng điển hình còn ACG 2022 viết khuyến cáo riêng cho đau ngực không ợ nóng. Không có nguồn nào nói cách kia gây hại."
+    },
+    {
+     "t": "Thay đổi lối sống cụ thể: ăn tối xong 2–3 giờ mới nằm, không ngồi gập hay ngả ghế sau ăn mà đứng, đi lại nhẹ, ngồi máy tính tư thế thẳng, giảm dần cân nặng, hạn chế cà phê sữa và bánh ngọt buổi chiều nếu thấy làm nặng, kê cao đầu giường nếu có triệu chứng ban đêm",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 1 (giảm cân khi thừa cân), KC 2 (tránh ăn trong 2–3 giờ trước khi ngủ), KC 4 (tránh thức ăn khởi phát), KC 5 (kê cao đầu giường khi có triệu chứng ban đêm); phần Diet and Lifestyle Changes: giữ tư thế đứng thẳng trong và sau bữa ăn; VNAGE 2026 KC 12. Mục tiêu giảm cân bao nhiêu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trọn gói vì ở xa: cấp đủ thuốc cho cả đợt một lần; viết giấy giới thiệu hẹn MỘT chuyến lên tỉnh làm gộp khám tim mạch với thăm dò mạch vành và nội soi; hẹn gọi điện hoặc nhắn Zalo sau 2 tuần để hỏi triệu chứng và tuân thủ thuốc; ghi số điện thoại phòng khám",
+     "v": "c",
+     "n": "Thay ngưỡng an toàn theo hoàn cảnh bệnh nhân (nhận định của tác giả ca). Không tuân thủ điều trị GERD gặp ở 20–50% và cần được kiểm tra (VNAGE 2026 KC 17, phần Verifying treatment compliance). Mốc 2 tuần gọi điện và việc cấp thuốc đủ đợt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn bằng văn bản dấu hiệu phải gọi 115 hoặc đến trạm y tế xã ngay: tức ngực kéo dài > 15 phút hoặc tái lại trong 1 giờ, tức ngực khi đi bộ hay gắng sức, lan lên cổ hàm tay, vã mồ hôi, khó thở, ngất; cùng dấu báo động tiêu hóa: nuốt nghẹn, nuốt đau, nôn máu, phân đen, sụt cân. Đưa cho con gái một bản",
+     "v": "c",
+     "n": "Triệu chứng đau ngực kéo dài > 15 phút hoặc tái lại trong 1 giờ cần xử trí khẩn (ESC 2023 mục 3.1.1); các đặc điểm đau thắt ngực (ESC 2024 Hình 4: lan cổ hàm vai tay, khởi phát do gắng sức); khó thở và đau thượng vị là triệu chứng tương đương (ESC 2023 mục 3.1.1); dấu báo động nội soi sớm (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3)."
+    },
+    {
+     "t": "Hỏi và đáp lại nỗi sợ nhồi máu cơ tim: nói rõ hôm nay đã kiểm tra tim bằng điện tâm đồ và men tim, chưa thấy nhồi máu; vì ông bị đái tháo đường nên vẫn hẹn kiểm tra mạch vành một lần cho chắc; không hứa 'chắc chắn không phải tim'",
+     "v": "c",
+     "n": "Lý do thật đến khám là sợ giống người bạn đã mất. Loại trừ hội chứng vành cấp hôm nay (ESC 2023 Hình 6), nhưng bệnh mạch vành mạn chưa loại trừ (xác suất khoảng 19%, ESC 2024 Hình 4). Cách nói là nhận định của tác giả ca."
+    },
+    {
+     "t": "Giữ nguyên insulin trộn 30/70; nếu dời bữa tối sớm hơn thì vẫn tiêm theo bữa ăn như cũ và đo đường huyết trước ngủ vài ngày",
+     "v": "a",
+     "n": "Không có trong tài liệu GERD đã tải; nhận định của tác giả ca. Không đổi thuốc đái tháo đường hôm nay vì đường huyết 7,9 mmol/L; chỉnh liều là việc của bác sĩ theo dõi đái tháo đường."
+    },
+    {
+     "t": "Thêm alginat khi có triệu chứng, dùng cùng PPI hoặc đơn độc",
+     "v": "a",
+     "n": "VNAGE 2026 KC 14 (alginat khởi phát nhanh trong 1 giờ; dùng đơn độc hoặc kèm PPI cho GERD nhẹ – vừa). Liều alginat: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dùng PPI 2 lần/ngày từ đầu hoặc thay bằng P-CAB (vonoprazan, tegoprazan)",
+     "v": "a",
+     "n": "VNAGE 2026 KC 18 (P-CAB có thể xem xét); PPI 2 lần/ngày ở mức tăng liều khi chưa đáp ứng (VNAGE 2026 KC 16, 17). Đáp án chính dùng PPI liều chuẩn 1 lần/ngày. Liều P-CAB: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gọi xe cấp cứu hoặc chuyển ngay lên bệnh viện tỉnh",
+     "v": "w",
+     "n": "ECG và hs-TnT thuộc đường loại trừ, hết đau, sinh hiệu ổn (ESC 2023 Hình 6). Tốn kém, không cần, củng cố nỗi sợ. Việc cần là chuyến đi có hẹn."
+    },
+    {
+     "t": "Cho thuốc vận động đường tiêu hóa (prokinetic) vì ông bị đái tháo đường",
+     "v": "w",
+     "n": "ACG 2022 điều trị KC 14: không dùng prokinetic cho GERD nếu không có bằng chứng khách quan về liệt dạ dày."
+    },
+    {
+     "t": "Chỉ kê thuốc dạ dày theo yêu cầu rồi cho về, không làm ECG và không đo troponin vì 'chắc dạ dày'",
+     "v": "h",
+     "n": "Nam 71 tuổi đái tháo đường tức ngực, xác suất bệnh mạch vành nền khoảng 19% (ESC 2024 Hình 4); người đái tháo đường có thể không có triệu chứng kinh điển (ESC 2024 mục 3.1.1). Phải ECG (ESC 2023 mục 3.2) và loại trừ bệnh tim trước khi quy cho thực quản (ACG 2022 chẩn đoán KC 4; ESC 2024 mục 3.1.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trào ngược dạ dày thực quản (GERD), chẩn đoán lâm sàng, biểu hiện không điển hình: tức nặng sau xương ức sau bữa tối và ợ hơi, không có ợ nóng hay trào ngược; khởi phát khi ngồi gập máy tính 6–8 giờ/ngày và ăn tối muộn; chưa có bằng chứng khách quan",
+     "Đã loại trừ hội chứng vành cấp tại thời điểm khám (ECG bình thường, hs-TnT 4 ng/L sau hơn 12 giờ từ cơn đau gần nhất); chưa loại trừ bệnh mạch vành mạn: xác suất lâm sàng khoảng 19% (mức trung bình), cần thăm dò mạch vành không khẩn",
+     "Chưa có dấu báo động; chưa loại được loét hay viêm thực quản; nhiều yếu tố nguy cơ Barrett (nam > 50 tuổi, thừa cân, từng hút thuốc): cần nội soi không khẩn",
+     "Bệnh kèm: đái tháo đường típ 2 tiêm insulin 30/70 (HbA1c tự khai 8,1%), bệnh thần kinh ngoại biên hai bàn chân, thừa cân (BMI 26,8)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: (1) mô tả cơn tức ngực: vị trí, tính chất, liên quan gắng sức, tư thế, bữa ăn, thời gian, lan, vã mồ hôi, khó thở, hết khi nào; (2) hỏi riêng ợ nóng, trào chua/đắng, nuốt nghẹn, nuốt đau, nôn, sụt cân, phân đen; (3) đái tháo đường, insulin, thuốc, hút thuốc, gia đình; (4) sinh hoạt: giờ ăn, thời gian ngồi máy tính; (5) hỏi ông lo nhất điều gì. Rồi khám tim, phổi, bụng, thành ngực, bàn chân; sau đó ECG, hs-troponin, đường huyết. ESC 2024 mục 3.1.1 và Hình 3 khuyên mô tả triệu chứng chi tiết thay vì gọi 'điển hình' hay 'không điển hình'.",
+     "Vì sao khó: ông không có ợ nóng, không trào ngược nên dễ bỏ sót GERD; nhưng đồng thời ông 71 tuổi, đái tháo đường, tức ngực sau ăn nên phải nghĩ tim trước dù ông chỉ xin thuốc dạ dày. ESC 2023 mục 3.1.1 tính cả đau thượng vị và khó thở là triệu chứng tương đương đau ngực. ESC 2024 mục 3.1.1: không có đau thắt ngực không loại trừ bệnh mạch vành ở người đái tháo đường có bệnh thần kinh tự chủ, và phải loại trừ khách quan thiếu máu cơ tim trước khi gọi là không do tim.",
+     "Loại trừ hội chứng vành cấp hôm nay: cơn đau không gắng sức, 10–15 phút, đỡ khi đứng dậy đi lại, không lan, không vã mồ hôi; lần gần nhất hơn 12 giờ trước; ECG bình thường; hs-TnT 4 ng/L dưới ngưỡng loại trừ 5 ng/L ở máy Elecsys (ESC 2023 Hình 6 chú thích a: chỉ áp dụng khi đau khởi phát > 3 giờ trước lần lấy đầu; QĐ 2187/2019 Hình 3). Đau ngực tái lại thì lấy lại troponin (ESC 2023 mục 3.3.4.1).",
+     "Xác suất bệnh mạch vành mạn theo mô hình RF-CL (ESC 2024 Hình 4): nam, nhóm 70–80 tuổi; điểm triệu chứng 1 (tức thắt sau xương ức nhưng không do gắng sức, không đỡ khi nghỉ trong 5 phút); 2 yếu tố nguy cơ (đái tháo đường, từng hút thuốc) cho khoảng 19%, mức trung bình (> 15–50%). Người ở mức này nên làm thăm dò hình ảnh không xâm lấn, CT mạch vành được ủng hộ là xét nghiệm đầu tay cho nhóm thấp – trung bình (ESC 2024 mục 3.3.4). Đây là điều hay bị bỏ sót khi bác sĩ dừng ở 'ECG và men tim bình thường'.",
+     "Chẩn đoán GERD: Lyon 2.0 (2024) Bảng 2 xếp đau ngực thực quản là triệu chứng điển hình thứ ba cùng ợ nóng và trào ngược; VNAGE 2026 KC 1 nhắc lại điều này. Ngược lại ACG 2022 chẩn đoán KC 4 viết riêng cho đau ngực không ợ nóng đã loại trừ bệnh tim: nên đánh giá khách quan (nội soi và/hoặc đo pH). Triệu chứng gắn với bữa tối muộn và ngồi gập, đỡ khi đứng dậy phù hợp GERD (ACG 2022, phần Diet and Lifestyle Changes: khoảng cách < 3 giờ giữa ăn và nằm, nên giữ tư thế đứng thẳng sau ăn). Thử PPI đơn thuần không đủ để chẩn đoán xác định (VNAGE 2026 KC 2).",
+     "Dấu báo động (nuốt nghẹn, nuốt đau, nôn kéo dài, sụt cân, xuất huyết tiêu hóa, thiếu máu) đều không có (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3) nên không nội soi cấp cứu. Ông có nhiều yếu tố nguy cơ Barrett (tuổi > 50, thừa cân, từng hút thuốc; VNAGE 2026 KC 3 liệt kê) nên hẹn nội soi không khẩn (ACG 2022 chẩn đoán KC 6). Biến chứng nặng ít gặp ở Việt Nam: loét 1,3–5%, xuất huyết 0,4% (VNAGE 2026 KC 4).",
+     "Không phải nguyên nhân khác: ấn thành ngực không đau, cử động thân không gây đau (loại đau cơ xương do ngồi gập); siêu âm túi mật không sỏi; đường huyết 7,9 mmol/L, đường huyết lúc đau 7,6 mmol/L và không run, không vã mồ hôi (loại hạ đường huyết); không nôn thức ăn cũ, không no sớm (chưa gợi ý liệt dạ dày; ACG 2022 điều trị KC 14). Các điểm này là nhận định của tác giả ca.",
+     "Điều khiến ca 'không điển hình': ông tự chẩn đoán 'viêm dạ dày' và xin thuốc; lý do thật là sợ giống người bạn mất vì nhồi máu cơ tim, ông không tự nói. Nếu bác sĩ chiều theo yêu cầu, kê thuốc dạ dày rồi cho về mà không ECG, không troponin, ông rất có thể vẫn đỡ vì đúng là GERD, và đó chỉ là may mắn chứ không phải xử trí đúng."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về là quyết định chủ động, không phải 'không làm gì': dựa trên đường rule-out (ESC 2023 Hình 6 chú thích a; QĐ 2187/2019 Hình 3) và bệnh cảnh đau không phải đau thắt ngực. Vì ông ở xa 38 km, ngưỡng an toàn tăng: phải xử trí trọn gói (thuốc đủ đợt, văn bản, số điện thoại, một chuyến duy nhất). Đây là nhận định của tác giả ca.",
+     "Mâu thuẫn nguồn, ghi cả hai cách: (A) Lyon 2.0 (2024) Bảng 2: triệu chứng điển hình đơn độc có thể đủ để thử thuốc kháng tiết; VNAGE 2026 KC 15: PPI liều chuẩn 4–8 tuần cho NERD; ACG 2022 chẩn đoán KC 3: nếu không đáp ứng hoặc tái phát khi ngưng, nội soi sau ngưng PPI 2–4 tuần. (B) ACG 2022 chẩn đoán KC 4: đau ngực không ợ nóng, sau khi loại trừ bệnh tim, nên đánh giá khách quan; Lyon 2.0 Bảng 2: thăm dò thực quản trước khi điều trị nội khoa dài hạn. Khác nhau vì Lyon 2.0 coi đau ngực thực quản là triệu chứng điển hình còn ACG 2022 xếp đau ngực không ợ nóng thành khuyến cáo riêng. Cả hai cách đều đúng; không nguồn nào nói cách kia gây hại. Với người ở xa, cách B tiện vì nội soi và thăm dò mạch vành làm cùng một chuyến, cách A tiện vì bắt đầu điều trị ngay.",
+     "Thuốc cách A: omeprazol 20 mg (liều chuẩn, VNAGE 2024 Bảng 4) uống 1 lần/ngày, 30–60 phút trước bữa sáng, không uống lúc đi ngủ (ACG 2022 điều trị KC 8; QĐ 361/2014 từng ghi uống buổi tối, cách này chấm a theo sổ mâu thuẫn). Sau 8 tuần, nếu đỡ thì thử ngưng hoặc dùng khi cần nếu không có viêm thực quản hay Barrett (ACG 2022 chẩn đoán KC 2, điều trị KC 9, 16). Nội soi nên làm sau ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2). Cách B: chưa dùng PPI, tạm lối sống và alginat khi có triệu chứng (VNAGE 2026 KC 14).",
+     "Không dùng prokinetic dù đái tháo đường: ACG 2022 điều trị KC 14 chỉ dùng khi có bằng chứng khách quan về liệt dạ dày. Không dùng sucralfat (ACG 2022 điều trị KC 15). Không chụp barium (ACG 2022 chẩn đoán KC 5); không có X-quang không làm mất việc gì.",
+     "Thăm dò mạch vành: xác suất 19% là mức trung bình, nên được giới thiệu làm thăm dò hình ảnh không xâm lấn (ESC 2024 mục 3.2.1, 3.3.4); thời hạn tối đa: không có trong tài liệu đã tải. Siêu âm tim lúc nghỉ nằm trong bước đánh giá tiếp theo (ESC 2024 Hình 3, bước 2).",
+     "Ở xa, khó tái khám: cấp đủ thuốc, giấy dặn, số điện thoại, gọi điện hẹn trước, một chuyến gộp. Không tuân thủ ở 20–50% bệnh nhân GERD (VNAGE 2026 KC 17), nên hỏi lại tuân thủ khi gọi điện. Ông có điện thoại và con gái ở gần, đó là kênh an toàn.",
+     "Trả lời nỗi sợ: ông sợ giống người bạn mất vì nhồi máu cơ tim. Câu trả lời đúng là hôm nay chưa thấy nhồi máu, và vì ông có đái tháo đường nên vẫn kiểm tra mạch vành một lần cho chắc. Không hứa chắc không phải tim, không làm thêm xét nghiệm chỉ để chiều lòng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol (cách A)",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước bữa sáng, không uống lúc đi ngủ",
+      "so_ngay": "8 tuần (cấp đủ 56 viên một lần vì ở xa), đánh giá lại ở tuần 8",
+      "ghi_chu": "VNAGE 2026 KC 13, 15; liều chuẩn VNAGE 2024 Bảng 4; ACG 2022 điều trị KC 8. Ngưng 2–4 tuần trước nội soi (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2). Chỉ định này là một trong hai cách (xem cách B bên dưới). Số viên cấp một lần: nhận định của tác giả ca."
+     },
+     {
+      "thuoc": "Alginat (cách B hoặc dùng kèm cách A)",
+      "ham_luong": "Theo nhãn thuốc",
+      "lieu": "Theo nhãn thuốc, dùng khi có triệu chứng",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn khi tức ngực hoặc ợ hơi",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "VNAGE 2026 KC 14. Liều alginat không có trong tài liệu đã tải. Cách B: không dùng PPI trước nội soi, tạm lối sống và alginat."
+     },
+     {
+      "thuoc": "Insulin trộn 30/70 (đang dùng)",
+      "ham_luong": "Theo toa đang dùng",
+      "lieu": "Giữ nguyên liều đang tiêm sáng và tối",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Trước bữa ăn như cũ",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Giữ nguyên, không đổi thuốc đái tháo đường hôm nay; tài liệu GERD đã tải không có nội dung về insulin; chỉnh liều là việc của bác sĩ theo dõi đái tháo đường."
+     }
+    ],
+    "dan_do": [
+     "Hôm nay đã kiểm tra tim bằng điện tâm đồ và men tim, chưa thấy nhồi máu. Tức ngực của ông nhiều khả năng do trào ngược, nhưng vì ông có đái tháo đường nên vẫn cần kiểm tra mạch vành một lần cho chắc (ESC 2024 Hình 4, mục 3.3.4).",
+     "Thuốc dạ dày (cách A): mỗi sáng một viên omeprazol 20 mg, uống 30–60 phút trước ăn sáng, không uống lúc đi ngủ, đủ 8 tuần dù đã đỡ (ACG 2022 điều trị KC 8; VNAGE 2026 KC 15).",
+     "Ăn tối xong 2–3 giờ mới nằm; không ngồi gập hay ngả ghế sau ăn mà đứng dậy, đi lại nhẹ; ngồi máy tính lưng thẳng và thỉnh thoảng đứng dậy đi lại (ACG 2022 điều trị KC 2; phần Diet and Lifestyle Changes: tư thế đứng thẳng trong và sau bữa ăn). Giảm cà phê sữa và bánh ngọt buổi chiều nếu thấy làm nặng; giảm cân dần, mục tiêu cụ thể không có trong tài liệu đã tải (ACG 2022 điều trị KC 1, 4; VNAGE 2026 KC 12).",
+     "Gọi 115 hoặc đến trạm y tế xã ngay nếu: tức ngực kéo dài hơn 15 phút hoặc tái lại trong 1 giờ; tức ngực khi đi bộ, leo thang; lan lên cổ, hàm, tay; vã mồ hôi; khó thở; ngất (ESC 2023 mục 3.1.1; ESC 2024 Hình 4). Đưa tờ dặn này cho con gái giữ một bản.",
+     "Đến khám lại sớm nếu: nuốt nghẹn, nuốt đau, nôn ra máu, phân đen, sụt cân, mệt xanh xao (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Nếu run, vã mồ hôi lạnh, đói cồn cào thì đo đường huyết và xử trí theo hướng dẫn đái tháo đường quen thuộc của ông (nhận định của tác giả ca).",
+     "Một chuyến lên bệnh viện tỉnh có hẹn, làm gộp trong một ngày: khám tim mạch với thăm dò mạch vành (CT mạch vành hoặc thăm dò chức năng, siêu âm tim) và nội soi dạ dày – thực quản. Nếu đã uống omeprazol 8 tuần thì ngưng 2–4 tuần trước ngày nội soi (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2). Nếu chọn cách B thì đi nội soi trước, chưa uống omeprazol, tạm dùng alginat khi có triệu chứng (VNAGE 2026 KC 14).",
+     "Phòng khám sẽ gọi hoặc nhắn Zalo cho ông sau 2 tuần để hỏi triệu chứng và việc uống thuốc; ông cũng có thể gọi số điện thoại ghi trên giấy bất cứ lúc nào có thắc mắc (nhận định của tác giả ca; mốc 2 tuần không có trong tài liệu đã tải)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Sáu về trong ngày với đủ 8 tuần omeprazol, tờ dặn có số điện thoại, con gái giữ một bản. Khi phòng khám gọi sau 2 tuần, ông kể tức ngực chỉ còn thoảng, sau khi đổi giờ ăn tối và bỏ thói quen ngồi lì ở máy tính sau ăn. Hơn 8 tuần sau ông đi xe lên bệnh viện tỉnh đúng một chuyến: CT mạch vành không thấy hẹp đáng kể, siêu âm tim bình thường; nội soi sau 2 tuần ngưng thuốc thấy viêm thực quản trợt LA B, không loét, không Barrett, đủ chứng cứ khách quan của GERD (VNAGE 2026 KC 6; Lyon 2.0 Bảng 2). Ca có kết cục tốt, nhưng bài học là: nếu ông chỉ được kê thuốc dạ dày theo yêu cầu mà không ECG, không troponin, không nhắc chuyện mạch vành, ông cũng sẽ đỡ vì đúng là GERD, và đó chỉ là may mắn. Kết cục tốt không biến quy trình thiếu căn cứ thành đúng; ở người đái tháo đường 71 tuổi, một cơn đau ngực sau ăn thì chưa được phép gọi là dạ dày khi chưa loại trừ tim.",
+ "nhieu": [
+  "Ở xa, khó tái khám: ông xin thuốc uống một lần cho đủ, từ chối lên tỉnh. Trả lời bằng kế hoạch trọn gói (thuốc đủ đợt, một chuyến duy nhất có hẹn, văn bản, số điện thoại, hẹn gọi điện), không bằng cách hạ chuẩn an toàn.",
+  "Lý do thật: sợ nhồi máu cơ tim như người bạn đã mất; ông chỉ nói 'lấy thuốc dạ dày'. Chỉ lộ khi bác sĩ hỏi ông lo điều gì.",
+  "Ngồi máy tính lâu, ăn tối muộn, ngồi gập sau ăn là khởi phát và là đích của lời dặn lối sống; không phải nguyên nhân để quy cho đau cơ."
+ ],
+ "bai_hoc_bien": [
+  "Tức ngực sau ăn ở người cao tuổi đái tháo đường: ECG, hs-troponin trước khi kết luận là dạ dày; ECG bình thường lúc hết đau không loại trừ bệnh mạch vành mạn.",
+  "Hỏi và nghe được lý do thật (sợ nhồi máu) thay vì chỉ đáp ứng yêu cầu 'lấy thuốc dạ dày'.",
+  "GERD có thể không có ợ nóng: tức nặng sau xương ức theo bữa ăn và tư thế là một biểu hiện (Lyon 2.0 Bảng 2); thử PPI không đủ để xác định, cần nội soi hoặc đo pH.",
+  "Ở xa, khó tái khám: xử trí trọn gói, một chuyến gộp, văn bản và số điện thoại; không hạ chuẩn an toàn để chiều bệnh nhân.",
+  "Kết cục tốt không hợp thức hóa xử trí thiếu căn cứ (near miss)."
+ ],
+ "diem_nho": [
+  "hs-cTn 0 giờ rất thấp và đau khởi phát > 3 giờ: rule-out một mẫu; hs-TnT Elecsys < 5 ng/L (ESC 2023 Hình 6 chú thích a; QĐ 2187/2019 Hình 3).",
+  "Xác suất bệnh mạch vành mạn: RF-CL; nam 70–80 tuổi, điểm triệu chứng 0–1, 2–3 yếu tố nguy cơ: 19% (ESC 2024 Hình 4); trung bình (> 15–50%) thì chụp CT mạch vành hoặc thăm dò chức năng (ESC 2024 mục 3.3.4).",
+  "Đau ngực không ợ nóng sau khi loại trừ bệnh tim: ACG 2022 chẩn đoán KC 4 đánh giá khách quan; Lyon 2.0 Bảng 2 coi đau ngực thực quản là triệu chứng điển hình có thể thử thuốc: ghi cả hai.",
+  "PPI 30–60 phút trước ăn sáng; ngưng 2–4 tuần trước nội soi (ACG 2022 điều trị KC 8, chẩn đoán KC 3). Liều chuẩn omeprazol 20 mg (VNAGE 2024 Bảng 4).",
+  "Dấu báo động: nuốt nghẹn, nuốt đau, nôn kéo dài, sụt cân, xuất huyết, thiếu máu (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Không dùng prokinetic nếu không có liệt dạ dày khách quan (ACG 2022 điều trị KC 14)."
+ ],
+ "nguon": [
+  "VNAGE 2026 – hướng dẫn GERD – TL-0177 – KC 1–6, 12–18 (KC 17 phần tuân thủ)",
+  "Lyon Consensus 2.0 2024 – TL-0206 – Bảng 2 (Statements)",
+  "ACG 2022 GERD – TL-0212 – phần chẩn đoán KC 1–6; phần điều trị KC 1–5, 8, 9, 14–16; phần Diet and Lifestyle Changes",
+  "VNAGE 2024 khó tiêu chức năng – TL-0178 – Bảng 4 (liều PPI chuẩn)",
+  "ESC 2023 hội chứng vành cấp – TL-0069 – mục 3.1.1, 3.2, 3.3.4.1, Hình 6 (chú thích a); BYT QĐ 2187/2019 – TL-0033 – Hình 3 (bản chữ OCR)",
+  "ESC 2024 hội chứng mạch vành mạn – TL-0304 – mục 3.1.1, 3.2.1, 3.3.4, Hình 3, Hình 4 (RF-CL), Khuyến cáo bảng 3",
+  "BYT QĐ 361/2014 – TL-0286 – phụ lục NSAID mục 3.3 (PPI buổi tối; xem sổ mâu thuẫn 'Thời điểm uống PPI')",
+  "Mục sổ mâu thuẫn có sẵn: 'Thời điểm uống PPI 1 lần/ngày'; 'Đau ngực không ợ nóng có được xếp là triệu chứng điển hình của GERD không' (mở rộng cho ca đau ngực thuần, xem TH-0444_mau_thuan.md)",
+  "Không có trong tài liệu đã tải: liều alginat, liều P-CAB, mục tiêu giảm cân cụ thể, thời hạn chuyến thăm dò mạch vành, mốc gọi điện 2 tuần, cách chỉnh insulin khi đổi giờ ăn, ngưỡng hạ đường huyết."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-12: viết bản 1 (viết: Sonnet). Tài liệu đã đọc: TL-0177 (KC 1–6, 12–18), TL-0206 (Bảng 2), TL-0212 (chẩn đoán KC 1–8, điều trị KC 1–16, Diet and Lifestyle Changes), TL-0178 (Bảng 4), TL-0069 (mục 3.1.1, 3.2, Hình 6), TL-0033 (Hình 3), TL-0304 (mục 3.1.1, 3.2.1, 3.3.4, Hình 3, 4).",
+  "Biến sổ cái: nghề (hưu trí – giáo viên), khởi phát (ngồi máy tính), thuốc (insulin), lý do thật (sợ nhồi máu), kết cục (near miss) viết có dấu và có chỗ đứng trong ca.",
+  "Số liệu phụ (hs-TnT 4 ng/L, Hb, creatinin, nội soi LA B, CT mạch vành, đường huyết) là chi tiết minh họa của ca, không từ tài liệu. Tên nhân vật, khoảng cách 38 km và 85 km là chi tiết dựng.",
+  "Mâu thuẫn đau ngực không ợ nóng: ghi cả hai cách, xem TH-0444_mau_thuan.md. Chưa có tài liệu đã tải về ADA 2026 chương 6 cho ngưỡng hạ đường huyết nên không trích số."
+ ]
+}
