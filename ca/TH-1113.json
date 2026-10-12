@@ -1,0 +1,731 @@
+{
+ "ma_ca": "TH-1113",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_gan_nhiem_mo_khong_do_ruou_nafld_masld",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Gan nhiễm mỡ không do rượu (NAFLD)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm gan virus",
+   "Viêm gan do rượu"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "gioi": "Nữ",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Bộ đội",
+  "yeu_to_khoi_phat": "Khởi phát âm thầm từ từ",
+  "thuoc_dang_dung": "Tự mua amoxicillin",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại bị ngừng (huấn luyện, nhiệm vụ)",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Hằng",
+  "tuoi": 51,
+  "gioi": "Nữ",
+  "nghe": "Bộ đội (quân nhân chuyên nghiệp, thủ kho hậu cần đại đội)",
+  "can_nang": 68,
+  "chieu_cao": 152,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị xưng 'tôi' (hoặc 'em' khi nể bác sĩ lớn tuổi hơn), gọi bác sĩ là 'bác sĩ'; hay mở đầu bằng 'báo cáo bác sĩ'.",
+  "tinh_cach": "Kỷ luật, nói gọn, nghiêm túc, quen chịu đựng, không kêu ca; 28 năm trong quân ngũ, còn 4 năm nữa nghỉ hưu. Rất sợ một tờ kết luận sức khỏe 'có bệnh' sẽ khiến đơn vị cho dừng huấn luyện, dừng nhiệm vụ, ảnh hưởng xét nâng lương và nghỉ hưu, nên trả lời ngắn, chỉ nói điều được hỏi thẳng. Tính toán chi li từng đồng vì đang gửi tiền học phí cho con học đại học ở xa.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: cuối tháng, trong túi chỉ còn khoảng 300 nghìn. Hỏi giá từng xét nghiệm, tính nhẩm tổng, từ chối xét nghiệm nào bác sĩ không giải thích được vì sao cần; chịu làm khi nghe rõ xét nghiệm đó đổi được quyết định. Không nói thẳng 'tôi không có tiền' mà nói 'bác sĩ chọn cho tôi cái nào thật cần thôi'. Đồng thời giấu triệu chứng thật (tức hạ sườn phải, mệt kéo dài) và chỉ kể đau họng; chỉ nói thật khi bác sĩ hỏi cụ thể về bụng, mệt, tập luyện và hỏi 'điều gì làm chị lo nhất'.",
+  "nguoi_nha": "Đi khám một mình. Chồng là sĩ quan công tác ở đơn vị khác, con gái học đại học xa nhà; không ai biết chị mệt và tức bụng đã mấy tháng.",
+  "ten_nguoi_nha": "",
+  "ngoai_hinh": {
+   "da": "#d3a37e",
+   "toc": "#2b1e17",
+   "kieuToc": "ngan",
+   "ao": "#5b6b3c",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "binh"
+  }
+ },
+ "ly_do_kham": "Đau họng, đã uống kháng sinh tự mua mấy ngày mà vẫn mệt",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT; cần hình ảnh thì dùng siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Lê Thị Hằng, 51 tuổi, quân nhân chuyên nghiệp, thủ kho hậu cần, đi một mình, đến vì đau họng năm ngày, đã tự mua amoxicillin uống bốn ngày mà vẫn mệt. Sinh hiệu: HA 134/86 mmHg, mạch 78 l/p, nhiệt độ 36,9 °C, nhịp thở 18 l/p, SpO₂ 98%. Cân nặng 68 kg, cao 152 cm.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Báo cáo bác sĩ, tôi bị đau họng mấy hôm nay, ho sổ mũi, tôi tự mua thuốc kháng sinh uống rồi mà người vẫn mệt. Bác sĩ khám họng giúp tôi, mà xét nghiệm gì thì chọn cái nào thật cần thôi nhé, tháng này tôi hơi chật.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "134/86",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Báo cáo bác sĩ, năm ngày nay tôi đau họng, hơi ho, sổ mũi. Tôi tự mua amoxicillin uống, giờ vẫn thấy mệt nên đi khám xem họng có sao không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra"
+    },
+    {
+     "id": "hong",
+     "noi_dung": "Đau họng nhẹ khi nuốt, ho khan ít, sổ mũi trong, hơi khàn tiếng, từ khi đơn vị đổi gió lạnh đầu tuần. Không sốt, không đau tai, không nổi hạch cổ đau, họng không có mủ theo chị tự soi gương.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm viêm họng: gợi ý virus (ho, sổ mũi, khàn tiếng)"
+    },
+    {
+     "id": "amox",
+     "noi_dung": "Tự ra hiệu thuốc mua amoxicillin 500 mg, uống ngày ba viên, hôm nay là ngày thứ tư, còn khoảng sáu viên. Không biết hiệu thuốc có bán loại ghép với clavulanic hay không, vỏ hộp ghi 'amoxicillin 500 mg'. Không dị ứng thuốc. Không uống thuốc kê đơn nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: amoxicillin tự mua"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Mệt âm thầm tăng dần khoảng bốn tháng nay, không có ngày nào bắt đầu rõ. Ban đầu chỉ chạy 3 km chậm hơn trước, sau thấy nặng nặng bên sườn phải, cuối ngày càng rõ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'còn gì khác không' thì đáp 'chỉ đau họng thôi'. Chỉ kể khi bác sĩ hỏi cụ thể về mệt, về bụng (đau, nặng, đầy) hoặc về tập luyện, chạy thể lực.",
+     "k": 1,
+     "y": "Triệu chứng thật: mệt và nặng hạ sườn phải khởi phát âm thầm 4 tháng (bị giấu)"
+    },
+    {
+     "id": "trieu_chung_gan",
+     "noi_dung": "Tức nặng âm ỉ vùng hạ sườn phải, đầy bụng sau bữa cơm, ăn ít đi một chút; không đau dữ dội, không lan lên vai, không liên quan bữa mỡ rõ rệt. Không vàng da, nước tiểu vàng trong, phân vàng, không ngứa, không sốt, không nôn, không sụt cân (tăng 6 kg trong hai năm).",
+     "che_do": "giau",
+     "dieu_kien_lo": "Cùng điều kiện với 'khởi phát': bác sĩ hỏi cụ thể về bụng, vàng da, nước tiểu, phân.",
+     "k": 1,
+     "y": "Đặc điểm triệu chứng gan mật, dấu báo động âm tính"
+    },
+    {
+     "id": "phieu_cu",
+     "noi_dung": "Tám tháng trước khám sức khỏe định kỳ của đơn vị: siêu âm 'gan nhiễm mỡ độ 1', ALT 52 U/L 'tăng nhẹ', HBsAg và anti-HCV âm tính. Quân y dặn giảm cân rồi ghi vào phiếu, chị bỏ phiếu vào ví và không nói với ai vì sợ bị ghi 'hạn chế huấn luyện'. Phiếu còn trong ví.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi đã từng siêu âm bụng, xét nghiệm men gan, xét nghiệm viêm gan hoặc khám sức khỏe định kỳ chưa. Hỏi chung 'có bệnh nền không' thì đáp 'không'.",
+     "k": 1,
+     "y": "Gan nhiễm mỡ, ALT cao và xét nghiệm virus âm tính 8 tháng trước (bị giấu)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Chị sợ nếu đúng là bệnh gan thì đơn vị cho dừng huấn luyện, dừng nhiệm vụ, và bốn năm cuối trước khi nghỉ hưu bị xếp loại sức khỏe thấp. Vì vậy chị chỉ kể chuyện đau họng. Việc mệt mãi mới khiến chị phải đi khám thật.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì làm chị lo nhất, vì sao hôm nay quyết định đi khám, hoặc bác sĩ hứa giữ kín và giải thích gan nhiễm mỡ nhẹ không cấm tập luyện. Chị hạ giọng, hỏi 'bác sĩ có phải báo về đơn vị không?'.",
+     "k": 1,
+     "y": "Động cơ thật: ngại bị ngừng huấn luyện, nhiệm vụ"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ăn cơm tập thể ở bếp đơn vị, cơm nhiều, thức ăn mặn xào mỡ; tối ăn thêm bánh ngọt, trà đá đường, ngày hai ly nước ngọt hoặc trà sữa. Chạy thể lực sáng ba buổi mỗi tuần nhưng ngày công tác chủ yếu ngồi ở kho. Cân từ 62 lên 68 kg trong hai năm, vòng quần rộng ra. Không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn uống, vận động, cân nặng (yếu tố chuyển hóa)"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Không uống rượu bia thường xuyên. Dịp liên hoan đơn vị mỗi tháng khoảng một đến hai lần uống một đến hai lon bia, không uống rượu mạnh, chưa từng say, không uống buổi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rượu bia: định lượng"
+    },
+    {
+     "id": "nguy_co_virus",
+     "noi_dung": "Không vàng da, không truyền máu, không xăm, không tiêm chích, không đi nước ngoài gần đây, chưa chích ngừa viêm gan B. Chồng và con không bị viêm gan. Không ăn gỏi sống, hải sản sống gần đây.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ viêm gan virus"
+    },
+    {
+     "id": "ben_nen",
+     "noi_dung": "Chưa từng được báo đái tháo đường, mỡ máu. Huyết áp 'hơi cao' ở lần khám sức khỏe, chưa uống thuốc. Mẹ bị đái tháo đường và gan nhiễm mỡ. Đã mãn kinh năm 49 tuổi. Không dị ứng thuốc, thức ăn. Không dùng thuốc nam, thực phẩm chức năng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, gia đình, thuốc nam, thực phẩm chức năng"
+    },
+    {
+     "id": "ngan_sach",
+     "noi_dung": "Tháng này chị đã gửi tiền học phí cho con, trong túi còn khoảng 300 nghìn đồng. Chị hỏi giá từng xét nghiệm và chỉ làm cái nào bác sĩ nói rõ là đổi được cách điều trị. Chị mang theo thẻ bảo hiểm nhưng phòng khám này thu tiền xét nghiệm trực tiếp.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Ngân sách xét nghiệm giới hạn"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, dáng người nặng nề. Cao 152 cm, nặng 68 kg, BMI 29,4 kg/m²; vòng bụng 91 cm. Củng mạc và da không vàng, niêm mạc hồng. Không phù.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không sao mạch, không lòng bàn tay son, không bầm tụ máu. Vài mảng da đậm màu ở nếp gáy.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng to bè, mềm. Gan không sờ thấy dưới bờ sườn phải nhưng ấn sâu vùng hạ sườn phải hơi tức; Murphy âm. Lách không sờ thấy, không báng, không tuần hoàn bàng hệ.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ, amidan không to, không mủ, không giả mạc. Mũi ẩm, dịch trong.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, hạch thượng đòn sờ thấy. Tuyến giáp không to.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "ab": 1,
+     "r": "AST 46 U/L (tham chiếu < 32) · ALT 78 U/L (< 33)",
+     "n": "ALT > AST (AST/ALT 0,59): kiểu tế bào gan, AST > ALT mới gợi ý rượu (ACG 2017, bảng nguyên nhân tăng AST/ALT). ALT 78 = 2,4 lần ULN, nhóm tăng nhẹ 2–5 lần (ACG 2017 Hình 1). Nên thêm bilirubin, albumin, ALP, PT/INR (ACG 2017 Hình 1): danh mục chưa có, ngân sách không đủ, không có vàng da nên tạm chưa cần. FIB-4 = 51 × 46 / (238 × √78) = 1,12."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 6,8 G/L · Hb 131 g/L · MCV 91,0 fL · TC 238 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 58.0,
+      "neu": 3.94,
+      "lym_pct": 32.0,
+      "lym": 2.18,
+      "mono_pct": 7.0,
+      "mono": 0.48,
+      "eos_pct": 2.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.4,
+      "hgb": 131,
+      "hct": 0.4,
+      "mcv": 91.0,
+      "mch": 29.8,
+      "mchc": 327,
+      "rdw": 13.2,
+      "plt": 238
+     },
+     "n": "Tiểu cầu để tính FIB-4 (EASL-EASD-EASO 2024, mục Non-invasive tests, công thức); bạch cầu bình thường, không gợi ý nhiễm khuẩn họng."
+    },
+    "abdus": {
+     "v": "e",
+     "ab": 1,
+     "r": "Gan kích thước bình thường, bờ đều, echo dày sáng lan tỏa, giảm xuyên âm sâu: gan nhiễm mỡ mức trung bình. Không khối. Đường mật không giãn, túi mật không sỏi, thành mỏng. Lách không to. Không dịch ổ bụng.",
+     "n": "Xác định nhiễm mỡ bằng hình ảnh (EASL-EASD-EASO 2024 Hình 1, định nghĩa MASLD); siêu âm cũng loại sỏi, giãn đường mật là nguyên nhân khác của đau hạ sườn phải. Có thể thay CT bụng (cơ sở không có CT): CT không thuộc chiến lược FIB-4 rồi đàn hồi (Hình 2)."
+    },
+    "glu": {
+     "v": "u",
+     "ab": 1,
+     "r": "Glucose đói 5,8 mmol/L",
+     "bang": {
+      "glu": 5.8
+     },
+     "ghi_chu_mau": "Mẫu lấy lúc đói trên 8 giờ.",
+     "n": "Glucose đói 5,6–6,9 mmol/L là tiền đái tháo đường, một tiêu chí chuyển hóa (EASL-EASD-EASO 2024 Bảng 3). Chỉ 25.000 đ, rẻ nhất trong nhóm."
+    },
+    "lipid": {
+     "v": "u",
+     "ab": 1,
+     "r": "Cholesterol toàn phần 5,6 · Triglycerid 2,0 · HDL-C 1,1 · LDL-C 3,4 mmol/L",
+     "n": "TG ≥ 1,7 và HDL-C ≤ 1,3 mmol/L ở nữ là tiêu chí chuyển hóa (Bảng 3). Giá 120.000 đ: hôm nay không đổi xử trí (đã đủ tiêu chí chuyển hóa từ BMI, glucose, huyết áp), có thể hoãn tới lượt sau khi có tiền; làm hôm nay không sai."
+    },
+    "hba1c": {
+     "v": "u",
+     "ab": 1,
+     "r": "HbA1c 5,9% (41 mmol/mol)",
+     "n": "Tiền đái tháo đường 5,7–6,4% (EASL-EASD-EASO 2024 Bảng 3). Giá 120.000 đ, trùng thông tin với glucose đói: hoãn được."
+    },
+    "virus_mau": {
+     "v": "a",
+     "r": "HBsAg âm tính · anti-HCV âm tính · HIV âm tính",
+     "n": "ALT tăng phải tìm viêm gan B, C (ACG 2017 Hình 1; BSG 2018 Hình 1). Chị đã có HBsAg và anti-HCV âm tính 8 tháng trước trong phiếu cũ, không có nguy cơ mới: đặt lại 250.000 đ gần như hết ngân sách mà không đổi quyết định. Đây là xét nghiệm 'bỏ được'."
+    },
+    "creat": {
+     "v": "n",
+     "r": "Ure 5,0 mmol/L · Creatinin 66 µmol/L · eGFR > 90 mL/ph/1,73m²",
+     "n": "Không đổi xử trí hôm nay."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 3 mg/L",
+     "bang": {
+      "crp": 3
+     },
+     "n": "Viêm họng nhẹ không cần CRP."
+    },
+    "test_lien_cau": {
+     "v": "n",
+     "r": "Âm tính",
+     "n": "Có ho, sổ mũi, khàn tiếng, không sốt: dấu hiệu virus, không test, không kháng sinh (ACP 2016 Advice 4; Advice 2 chỉ nêu test khi nghi liên cầu). 150.000 đ không đổi quyết định."
+    },
+    "ct_bung": {
+     "n": "Cơ sở không có CT. Không cần: siêu âm đã xác định nhiễm mỡ và loại sỏi, giãn đường mật; phân tầng xơ hóa dùng FIB-4 rồi đàn hồi, không dùng CT (EASL-EASD-EASO 2024 Hình 2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Gan nhiễm mỡ không do rượu (NAFLD; tên mới MASLD) ở người béo phì (BMI 29,4, vòng bụng 91 cm), tiền đái tháo đường, rối loạn lipid, huyết áp biên; nguy cơ xơ hóa tiến triển thấp (FIB-4 1,12 < 1,3); viêm họng cấp do virus (cảm lạnh), không cần kháng sinh",
+     "ok": 1,
+     "n": "Nhiễm mỡ trên siêu âm + ≥ 1 tiêu chí chuyển hóa + không nguyên nhân khác + rượu dưới ngưỡng (EASL-EASD-EASO 2024 Hình 1, Bảng 3). MASLD là tên mới của NAFLD. FIB-4 < 1,3 là nguy cơ thấp (AASLD 2023, mục FIB-4; EASL-EASD-EASO 2024 Hình 2)."
+    },
+    {
+     "t": "Viêm gan virus B hoặc C",
+     "n": "Loại: HBsAg, anti-HCV âm tính 8 tháng trước (phiếu cũ), không nguy cơ mới, không vàng da, không sốt, ALT chỉ 2,4 lần ULN, men gan cao kéo dài 8 tháng (ACG 2017 Hình 1; BSG 2018 Hình 1). Viêm gan A, E cấp không hợp diễn tiến 4 tháng."
+    },
+    {
+     "t": "Viêm gan do rượu / bệnh gan do rượu",
+     "n": "Loại: 1–2 lon bia mỗi tháng (một lon 330 ml × 5% × 0,789 ≈ 13 g, công thức thể tích × độ cồn × khối lượng riêng là kiến thức phổ thông của người soạn), xa ngưỡng 20 g/ngày của nữ; ALD là > 50 g/ngày ở nữ, MetALD 20–50 g/ngày (EASL-EASD-EASO 2024, mục Definition, Hình 1); AST/ALT 0,59."
+    },
+    {
+     "t": "Tổn thương gan do thuốc (amoxicillin tự mua)",
+     "n": "Phải hỏi và nghĩ tới: kháng sinh là nhóm thuốc hay gây tăng men gan (ACG 2017, mục Medications and drug-induced liver injury). Nhưng amoxicillin mới 4 ngày, ALT đã cao từ 8 tháng trước (phiếu cũ). Ngưng thuốc vì không có chỉ định (ACG 2017 Hình 1: ngưng thuốc có thể độc gan) và theo dõi lại."
+    },
+    {
+     "t": "Bệnh đường mật, sỏi túi mật",
+     "n": "Loại: không vàng da, Murphy âm, đau không liên quan bữa mỡ, siêu âm không sỏi, đường mật không giãn."
+    },
+    {
+     "t": "Viêm họng liên cầu nhóm A",
+     "n": "Ít gợi ý: ho, sổ mũi, khàn tiếng, không sốt, họng không mủ (ACP 2016 Advice 2–4). Không test, không kháng sinh."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng amoxicillin tự mua (không có chỉ định kháng sinh); điều trị triệu chứng viêm họng; dặn không tự mua kháng sinh, thuốc nam, thực phẩm chức năng",
+     "v": "c",
+     "n": "Không kê kháng sinh cho cảm lạnh (ACP 2016 Advice 4); ngưng thuốc không cần thiết khi men gan bất thường (ACG 2017 Hình 1, 'discontinue hepatotoxic meds'). Thuốc điều trị triệu chứng cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ bí mật y khoa, giải thích gan nhiễm mỡ nguy cơ xơ hóa thấp không phải bệnh nặng và vận động đều là phần điều trị",
+     "v": "c",
+     "n": "Khuyến cáo hoạt động thể lực > 150 phút/tuần cường độ vừa hoặc 75 phút/tuần cường độ mạnh (EASL-EASD-EASO 2024, LoE 1, mạnh) nên không có lý do y khoa cấm tập luyện khi FIB-4 thấp. Quy định sức khỏe quân nhân không có trong tài liệu đã tải: không hứa thay đơn vị."
+    },
+    {
+     "t": "Giảm cân dần ≥ 5% (khoảng 3,5 kg) trong 6–12 tháng, tiến tới 7–10%; ăn kiểu Địa Trung Hải, bỏ nước ngọt, trà sữa, hạn chế đồ siêu chế biến",
+     "v": "c",
+     "n": "Giảm cân ≥ 5% giảm mỡ gan, 7–10% giảm viêm, ≥ 10% cải thiện xơ hóa (EASL-EASD-EASO 2024, LoE 2, mạnh); chất lượng bữa ăn kiểu Địa Trung Hải, hạn chế thực phẩm siêu chế biến và đồ uống có đường (LoE 2, mạnh)."
+    },
+    {
+     "t": "Hoạt động thể lực ≥ 150 phút/tuần vừa sức (đi bộ nhanh, chạy nhẹ), chạy ba buổi sáng đang có giữ tiếp; bớt ngồi liền ở kho",
+     "v": "c",
+     "n": "EASL-EASD-EASO 2024 (LoE 1, mạnh) như trên; không cần dừng chạy thể lực."
+    },
+    {
+     "t": "Hạn chế rượu bia, tốt nhất không uống",
+     "v": "c",
+     "n": "Nên khuyên người có gan nhiễm mỡ tránh uống rượu bia (EASL-EASD-EASO 2024, LoE 3, mạnh); chị chỉ 1–2 lon/tháng nên không phải MetALD."
+    },
+    {
+     "t": "Kê kháng sinh amoxicillin tiếp tục cho đủ 10 ngày vì 'đau họng'",
+     "v": "a",
+     "n": "Cách làm theo QĐ 5643/2015 (điều trị như liên cầu khi chưa xét nghiệm) vẫn là căn cứ hành nghề; mục mâu thuẫn đã có: họng đỏ có dấu virus rõ thì không kháng sinh (WHO AWaRe 2022; ACP 2016 Advice 4 mới hơn). Chấm a theo mau_thuan.md, nhưng ở người men gan bất thường nên tránh thuốc không cần."
+    },
+    {
+     "t": "Kê thuốc bảo vệ gan (silymarin, 'giải độc gan') hoặc vitamin E",
+     "v": "a",
+     "n": "Nutraceuticals không khuyến cáo vì thiếu bằng chứng hiệu quả và an toàn (EASL-EASD-EASO 2024, LoE 2, mở); vitamin E không khuyến cáo là thuốc nhắm MASH (LoE 2, yếu). Tài liệu không nói gây hại, nên chấm a theo mau_thuan.md (mục 'Thuốc bảo vệ tế bào gan'); không phải xử trí đúng vì tốn tiền của người đang thiếu."
+    },
+    {
+     "t": "Làm đủ các xét nghiệm (lipid, HbA1c, virus, ...) ngay hôm nay dù ngân sách không đủ",
+     "v": "a",
+     "n": "Không sai chuyên môn nhưng bệnh nhân không đủ tiền: ưu tiên AST/ALT, công thức máu, siêu âm; phần còn lại hoãn, không đổi quyết định hôm nay."
+    },
+    {
+     "t": "Đo đàn hồi gan (VCTE) hoặc chuyển chuyên khoa gan ngay",
+     "v": "w",
+     "n": "FIB-4 < 1,3 là nguy cơ thấp, chưa cần bước đàn hồi (AASLD 2023; EASL-EASD-EASO 2024 Hình 2); ngân sách không đủ và cơ sở chưa có máy: tốn kém không đổi xử trí."
+    },
+    {
+     "t": "Hẹn tái khám 12 tuần: cân, vòng bụng, AST/ALT, hỏi lại thuốc; lặp FIB-4 mỗi 1–3 năm; dặn quay lại ngay nếu vàng da, nước tiểu sẫm, ngứa, sốt",
+     "v": "c",
+     "n": "FIB-4 thấp: lặp lại mỗi 1–2 năm (AASLD 2023) hoặc 1–3 năm (EASL-EASD-EASO 2024 Hình 2). Đo lại men gan sớm ít giá trị: 84% còn bất thường sau 1 tháng (BSG 2018). Mốc 12 tuần do người soạn đặt; dấu hiệu cảnh báo vàng da (BSG 2018 Hình 1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Gan nhiễm mỡ không do rượu (NAFLD), nay gọi là MASLD (EASL-EASD-EASO 2024 Hình 1): nhiễm mỡ trên siêu âm + ≥ 1 tiêu chí chuyển hóa (BMI 29,4 ≥ 23 ở người Châu Á, glucose đói 5,8, HbA1c 5,9%, TG 2,0, HDL-C 1,1, huyết áp 134/86; Bảng 3) + không nguyên nhân khác + rượu dưới ngưỡng.",
+     "Nguy cơ xơ hóa tiến triển thấp: FIB-4 = 51 × 46 / (238 × √78) = 1,12 < 1,3 (AASLD 2023; EASL-EASD-EASO 2024 Hình 2).",
+     "Đã loại trừ viêm gan virus B, C (xét nghiệm 8 tháng trước) và viêm gan/bệnh gan do rượu (1–2 lon bia/tháng).",
+     "Viêm họng cấp do virus (cảm lạnh), tự giới hạn, đã dùng amoxicillin không cần thiết.",
+     "Triệu chứng mệt, nặng hạ sườn phải khởi phát âm thầm 4 tháng: phù hợp MASLD có triệu chứng mơ hồ; vẫn phải loại sỏi mật bằng siêu âm."
+    ],
+    "phan_tich_chan_doan": [
+     "THỨ TỰ HỎI BỆNH. Lý do khám nêu ra (đau họng) và dấu hiệu virus (ho, sổ mũi, khàn tiếng, không sốt). Thuốc đang dùng: tên, hàm lượng, số ngày, còn bao nhiêu viên (amoxicillin; ACG 2017: kháng sinh là nhóm hay tăng men gan). Hỏi mở 'ngoài đau họng còn gì khác', rồi hỏi cụ thể mệt, bụng, vàng da, nước tiểu, phân, cân nặng, tập luyện. Hỏi 'đã siêu âm, thử men gan, thử viêm gan, khám sức khỏe định kỳ chưa' để lộ phiếu cũ. Rượu: số lon, tần suất, kiểu uống (EASL-EASD-EASO 2024, LoE 3, mạnh: ghi lượng, kiểu uống). Yếu tố nguy cơ virus. Cuối cùng 'điều gì làm chị lo nhất' để lộ nỗi sợ bị ngừng huấn luyện.",
+     "KHÁM VÀ CẬN LÂM SÀNG. Cân, vòng bụng; củng mạc, da, sao mạch, bụng (gan, Murphy), hạch, họng. Ngân sách ~300.000 đ: chọn AST/ALT (50.000 đ), công thức máu (50.000 đ, lấy tiểu cầu cho FIB-4), siêu âm bụng (150.000 đ) và glucose đói (25.000 đ) = 275.000 đ, đúng bộ xét nghiệm đổi được quyết định (xác nhận nhiễm mỡ, loại sỏi mật, tính FIB-4, tiêu chí chuyển hóa). Hoãn: lipid, HbA1c (120.000 đ mỗi cái, không đổi xử trí hôm nay), virus (đã có kết quả cũ), test liên cầu, CRP, creatinin. Không có CT: không cần.",
+     "VÌ SAO MASLD. Siêu âm nhiễm mỡ, nhiều tiêu chí chuyển hóa, rượu thấp, virus âm, ALT > AST kéo dài 8 tháng, diễn tiến âm thầm, tăng cân hai năm, mẹ có đái tháo đường và gan nhiễm mỡ. Thuật ngữ: EASL-EASD-EASO 2024 thay NAFLD bằng MASLD; AASLD 2023 còn dùng NAFLD; chấp nhận cả hai tên.",
+     "LOẠI TRỪ VIÊM GAN VIRUS VÀ RƯỢU. HBsAg, anti-HCV âm tính trong phiếu cũ, không nguy cơ mới, không vàng da (ACG 2017 Hình 1, BSG 2018 Hình 1). Rượu 1–2 lon/tháng (~13 g/lon) quá thấp so với ngưỡng 20 g/ngày của nữ (EASL-EASD-EASO 2024 Hình 1); ALD cần > 50 g/ngày.",
+     "PHÂN TẦNG XƠ HÓA. Có yếu tố chuyển hóa + ALT tăng kéo dài: FIB-4 trước (EASL-EASD-EASO 2024 Hình 2, LoE 2, mạnh). Dưới 65 tuổi: FIB-4 < 1,3 nguy cơ thấp; 1,3–2,67 trung gian cần đàn hồi; > 2,67 nguy cơ cao (Hình 2). FIB-4 kém chính xác ở khoảng 1,3–2,67, người cao tuổi và đái tháo đường (mục Non-invasive tests): chị 51 tuổi, kết quả 1,12 nên chưa đàn hồi. Không có CT: không phải mất mát vì CT không thuộc chiến lược này.",
+     "KÊ THUỐC KHÔNG CẦN VÀ NGÂN SÁCH. Đau họng + ho, sổ mũi, khàn: virus, không kháng sinh (ACP 2016 Advice 4). Chọn xét nghiệm theo 'đổi được quyết định hay không' (điểm dạy chính của biến ngân sách). Bẫy hành vi: bệnh nhân giấu bệnh vì sợ hậu quả nghề nghiệp, nên trấn an và giữ bí mật trước khi hỏi sâu.",
+     "DIAGNOSTIC TIMEOUT. (a) Điều gì khiến tôi chốt nhanh? Chị nói 'chỉ đau họng' và có thuốc kháng sinh nên dễ dừng ở viêm họng. (b) Dữ kiện nào chưa giải thích? Mệt 4 tháng, nặng hạ sườn phải. (c) Điều gì làm tôi đổi ý? Vàng da (BSG 2018 Hình 1), FIB-4 > 1,3 (EASL-EASD-EASO 2024 Hình 2), ALT > 5 lần ULN (ACG 2017 Hình 2). (d) Chị còn giấu gì? Hỏi chung đã không lộ phiếu cũ và nỗi sợ."
+    ],
+    "phan_tich_xu_tri": [
+     "Nền tảng là lối sống: giảm cân ≥ 5% dần (7–10% để giảm viêm), ăn kiểu Địa Trung Hải, bỏ đồ uống có đường, hoạt động > 150 phút/tuần (EASL-EASD-EASO 2024, LoE 1–2, mạnh). Cà phê liên quan cải thiện tổn thương gan trong nghiên cứu quan sát (LoE 4). Mục tiêu cụ thể mỗi tuần và giới hạn calo không có trong tài liệu đã tải.",
+     "Ngưng amoxicillin vì không có chỉ định (ACP 2016 Advice 4) và thận trọng với thuốc ở người men gan bất thường (ACG 2017). Không thuốc đặc hiệu: semaglutide, resmetirom dành cho MASH có xơ hóa F2–F3 theo NIT (EASL-EASD-EASO 2026; AASLD 2025), FIB-4 của chị thấp. Thực phẩm chức năng, thuốc bổ gan: không khuyến cáo (EASL-EASD-EASO 2024 LoE 2, mở); kê thuốc bảo vệ gan chấm a theo mau_thuan.md.",
+     "Tái khám 12 tuần (mốc người soạn). Lặp FIB-4 mỗi 1–3 năm (EASL) / 1–2 năm (AASLD). Dặn quay lại ngay khi vàng da, nước tiểu sẫm, ngứa (BSG 2018 Hình 1: vàng da cần chuyển khám). Statin: dùng được theo nguy cơ tim mạch, men gan nhẹ không phải lý do ngại (EASL-EASD-EASO 2024, LoE 1, mạnh); chưa có lipid nên chưa quyết định.",
+     "Sai: kê kháng sinh tiếp; chuyển gan/đàn hồi ngay; bắt làm hết xét nghiệm khi không đủ tiền; mắng hay dọa 'sẽ báo đơn vị' (lần sau chị sẽ giấu thêm); hứa chắc 'sẽ không ảnh hưởng nghề' trong khi quy định đơn vị không có trong tài liệu."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin 500 mg (tự mua, đang dùng)",
+      "ham_luong": "500 mg",
+      "lieu": "Ngưng; bỏ số viên còn lại",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Không dùng tiếp",
+      "ghi_chu": "Cảm lạnh/viêm họng có ho, sổ mũi, khàn tiếng: không kháng sinh (ACP 2016 Advice 4); ngưng thuốc không cần thiết khi men gan bất thường (ACG 2017 Hình 1)."
+     },
+     {
+      "thuoc": "Thuốc điều trị triệu chứng viêm họng",
+      "ham_luong": "Không kê",
+      "lieu": "Súc họng nước ấm, uống đủ nước, nghỉ giọng; paracetamol khi đau (liều và thời gian không có trong tài liệu đã tải cho bối cảnh này)",
+      "duong": "Súc họng / uống",
+      "thoi_diem": "Khi khó chịu",
+      "so_ngay": "Vài ngày, tự khỏi",
+      "ghi_chu": "Triệu chứng tự giới hạn; liều paracetamol cụ thể không có trong tài liệu đã tải cho đề tài này (người lớn tối đa không quá 4 g/ngày theo mau_thuan.md), chọn thấp hơn vì bệnh gan."
+     },
+     {
+      "thuoc": "Thuốc đặc hiệu gan (silymarin, vitamin E, semaglutide, resmetirom)",
+      "ham_luong": "Không kê",
+      "lieu": "Không dùng",
+      "duong": "Không",
+      "thoi_diem": "Không",
+      "so_ngay": "Không",
+      "ghi_chu": "Chỉ cho MASH có NIT gợi ý F2–F3 (EASL-EASD-EASO 2026; AASLD 2025); FIB-4 thấp. Nutraceuticals không khuyến cáo (EASL-EASD-EASO 2024 LoE 2)."
+     }
+    ],
+    "dan_do": [
+     "Gan nhiễm mỡ do cân nặng, đường huyết, mỡ máu; hiện nguy cơ xơ hóa thấp, chưa phải bệnh nặng. Bác sĩ giữ kín thông tin sức khỏe của chị; quy định xếp loại sức khỏe của đơn vị bác sĩ không biết nên chị nên hỏi quân y.",
+     "Không dùng tiếp amoxicillin; không tự mua kháng sinh, thuốc nam, thực phẩm chức năng 'bổ gan, giải độc' khi chưa hỏi bác sĩ. Đau họng tự khỏi trong vài ngày.",
+     "Ăn: bớt cơm, bớt đồ chiên xào mỡ, bỏ nước ngọt và trà sữa, trà đá bớt đường; thêm rau, cá, đậu (EASL-EASD-EASO 2024). Cà phê không đường được.",
+     "Vận động: giữ chạy ba buổi sáng; thêm đi bộ nhanh vài buổi để đủ 150 phút/tuần (EASL-EASD-EASO 2024); đứng dậy đi lại mỗi giờ khi ngồi ở kho. Mục tiêu giảm khoảng 3,5 kg trong 6–12 tháng (≥ 5%).",
+     "Bia: hạn chế, tốt nhất không uống kể cả dịp liên hoan.",
+     "Tái khám sau 12 tuần, mang phiếu khám cũ; khi có tiền thì làm mỡ máu và HbA1c. Vài năm sau lặp FIB-4 dù thấy khỏe (EASL-EASD-EASO 2024 Hình 2).",
+     "Quay lại NGAY nếu vàng mắt, vàng da, nước tiểu sẫm, ngứa, phân bạc, sốt, đau hạ sườn phải tăng, nôn; trong lúc chờ không dùng bất cứ thuốc hay thảo dược mới (BSG 2018 Hình 1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Chị Hằng tái khám sớm sau khoảng ba tuần (chưa tới hẹn 12 tuần), kể mắt vàng, nước tiểu sẫm, ngứa, mệt nhiều hơn. Sinh hiệu: HA 126/80 mmHg, mạch 88 l/p, nhiệt độ 37,2 °C, nhịp thở 18 l/p, SpO₂ 98%. Cân nặng 67,4 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "loi_mo": "Báo cáo bác sĩ... mắt tôi vàng, nước tiểu sẫm, ngứa lắm, người rã rời hơn trước. Tôi cố chịu tới hôm nay. Tôi chỉ có chừng bốn trăm rưỡi, bác sĩ làm cái nào thật cần thôi.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "126/80",
+    "nhiet": "37,2",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do2",
+     "noi_dung": "Tái khám sớm, sau khoảng ba tuần (chưa tới hẹn 12 tuần): mắt và da vàng từ khoảng 5 ngày nay, nước tiểu sẫm như nước trà, ngứa lòng bàn tay, mệt nhiều hơn, chán ăn, nặng hạ sườn phải tăng. Đồng đội nhắc chị mới chịu đi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: vàng da, nước tiểu sẫm, ngứa (nặng hơn)"
+    },
+    {
+     "id": "vang_da",
+     "noi_dung": "Vàng mắt lúc đầu rất nhẹ, chị đeo kính râm đi làm và nói với đồng đội 'thức khuya'; sợ nhập bệnh xá rồi bị dừng nhiệm vụ nên chờ tới khi nước tiểu sẫm và ngứa không chịu nổi. Không sốt, không rét run, không nôn ra máu, không phân đen, không lú lẫn, ngủ bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến vàng da, dấu hiệu nặng âm tính (không sốt, không lú lẫn, không xuất huyết)"
+    },
+    {
+     "id": "thuoc_lai",
+     "noi_dung": "Sau lượt trước chị ngưng amoxicillin đúng hai ngày. Đau họng hơi tái phát nên chị uống nốt sáu viên còn lại rồi mua thêm bảy ngày amoxicillin 500 mg, ba viên mỗi ngày, vì 'kháng sinh thì phải uống đủ'. Chị cũng uống chưa hết hai thang thuốc nam 'giải độc gan' đồng đội đưa, nấu uống mỗi ngày, không biết thành phần.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có theo dặn không' thì đáp 'có'. Chỉ kể khi bác sĩ hỏi cụ thể 'sau lượt trước chị đã uống thuốc gì, có uống lại kháng sinh không, có uống thuốc nam, thuốc bổ, nước lá, thực phẩm chức năng không'.",
+     "k": 1,
+     "y": "Uống lại amoxicillin và thuốc nam giải độc gan (bị giấu)"
+    },
+    {
+     "id": "loi_song2",
+     "noi_dung": "Có giảm nước ngọt nhưng mấy tuần liên hoan ăn uống nhiều; vẫn không uống rượu bia trong ba tuần qua. Chạy thể lực giảm vì mệt. Cân 68 xuống 67,4 kg. Không dùng thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ lối sống, rượu bia tuần qua"
+    },
+    {
+     "id": "ngan_sach2",
+     "noi_dung": "Chị mới nhận lương, đem theo khoảng 450 nghìn đồng. Chị vẫn hỏi giá, chỉ muốn làm cái nào đổi được cách xử trí hôm nay; nếu phải chuyển tuyến chị dùng thẻ bảo hiểm quân đội.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Ngân sách xét nghiệm"
+    },
+    {
+     "id": "lo_lang2",
+     "noi_dung": "Chị sợ nhất là phải nằm viện và bị báo về đơn vị. Chị đồng ý chuyển tuyến nếu bác sĩ giải thích rõ vàng da cần làm thêm xét nghiệm mà phòng khám không làm được.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nỗi lo và chấp nhận chuyển tuyến"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt. Nặng 67,4 kg, vòng bụng 90 cm. Củng mạc vàng rõ, da vàng nhẹ, có vết gãi ở cẳng tay. Không phù, không sao mạch, không run vẫy (asterixis âm).",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm. Gan to 2 cm dưới bờ sườn phải, bờ tù, ấn tức; Murphy âm; lách không sờ thấy, không báng, không dấu xuất huyết dưới da.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da vàng nhẹ, vết trầy do gãi ở hai cẳng tay; không ban đỏ, không phát ban, không bọng nước.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ nhẹ, không mủ.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "ab": 1,
+     "r": "AST 168 U/L (tham chiếu < 32) · ALT 262 U/L (< 33)",
+     "n": "ALT 78 → 262 (7,9 lần ULN), thuộc nhóm tăng vừa 5–15 lần: ngưng thuốc/rượu độc gan, tìm dấu hiệu suy gan cấp, xét nghiệm mở rộng và siêu âm (ACG 2017 Hình 2). FIB-4 không dùng lúc này: men gan tăng cấp làm FIB-4 sai (tài liệu không nêu riêng; người soạn thận trọng)."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "ab": 1,
+     "r": "Bilirubin toàn phần 52 µmol/L (tham chiếu < 21; 3,0 mg/dL) · trực tiếp 36 µmol/L · ALP 150 U/L (< 120) · GGT 140 U/L (< 40) · Albumin 38 g/L · PT/INR 1,2",
+     "n": "Tăng bilirubin trực tiếp là tổn thương tế bào gan hoặc tắc mật (ACG 2017). R = (ALT/ULN) ÷ (ALP/ULN) = (262/33) ÷ (150/120) = 6,4 > 5: kiểu tế bào gan (ACG 2017, mục R ratio). INR 1,2 và albumin 38 g/L: chưa có dấu hiệu suy tổng hợp (ACG 2017 Hình 2, 'evaluate for signs of acute liver failure'). Giá 200.000 đ: xét nghiệm đổi quyết định nhất."
+    },
+    "abdus": {
+     "v": "e",
+     "ab": 1,
+     "r": "Gan to nhẹ, echo dày sáng lan tỏa như lượt trước, bờ đều. Không khối. Đường mật trong và ngoài gan không giãn; ống mật chủ 4 mm; túi mật không sỏi, thành mỏng. Lách không to. Không dịch ổ bụng.",
+     "n": "Loại tắc mật cơ học (sỏi ống mật chủ, u); siêu âm bất thường mà nghi u đường mật phải chuyển khẩn (BSG 2018 chú thích Hình 1). Không có CT: siêu âm đủ ở bước này."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 7,4 G/L (bạch cầu ái toan 7,5%, 0,56 G/L) · Hb 130 g/L · TC 232 G/L",
+     "bang": {
+      "wbc": 7.4,
+      "neu_pct": 52.0,
+      "neu": 3.85,
+      "lym_pct": 33.0,
+      "lym": 2.44,
+      "mono_pct": 7.0,
+      "mono": 0.52,
+      "eos_pct": 7.5,
+      "eos": 0.56,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.4,
+      "hgb": 130,
+      "hct": 0.4,
+      "mcv": 91.2,
+      "mch": 29.6,
+      "mchc": 325,
+      "rdw": 13.3,
+      "plt": 232
+     },
+     "n": "Bạch cầu ái toan tăng nhẹ (người soạn: gợi ý quá mẫn thuốc), tiểu cầu bình thường (ACG 2017 Hình 2 yêu cầu CBC/tiểu cầu). Ngưỡng bạch cầu ái toan để chẩn đoán DILI không có trong tài liệu đã tải."
+    },
+    "virus_mau": {
+     "v": "u",
+     "r": "HBsAg âm tính · anti-HCV âm tính · HIV âm tính",
+     "n": "Đã âm tính 8 tháng trước; cần thêm HAV IgM, HBc IgM, HEV (ACG 2017 Hình 2) mà danh mục chưa có: tuyến trên làm. Đặt lại phòng khám tốn 250.000 đ và không đủ ngân sách."
+    },
+    "ana": {
+     "v": "n",
+     "r": "ANA âm tính (< 1:80). Kháng dsDNA âm tính.",
+     "n": "Viêm gan tự miễn cần ANA, SMA, globulin miễn dịch (ACG 2017 Hình 2) nhưng 250.000 đ vượt ngân sách và tuyến trên làm trọn bộ; chưa đổi quyết định hôm nay."
+    },
+    "ct_bung": {
+     "n": "Không có CT. Không cần: siêu âm đường mật bình thường; chuyển tuyến nếu cần MRCP/CT. Trước hết cần chức năng gan, siêu âm (ACG 2017 Hình 2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tổn thương tế bào gan cấp kèm vàng da (ALT 7,9 lần ULN, bilirubin 52 µmol/L, R = 6,4) trên nền MASLD; nghi tổn thương gan do thuốc/thảo dược (amoxicillin dùng lại, thuốc nam); chưa có dấu suy gan cấp; cần chuyển tuyến làm xét nghiệm mở rộng",
+     "ok": 1,
+     "n": "Hai nguyên nhân chồng nhau: MASLD nền (mệt, nhiễm mỡ, men gan 2,4 lần ULN ổn định 8 tháng) và đợt tăng cấp sau khi dùng lại thuốc. Kháng sinh là nhóm thuốc hay gây tăng men gan; gán nguyên nhân thường cần thử ngưng thuốc để quan sát men gan hồi phục (ACG 2017, mục Medications and DILI). Tiêu chuẩn chẩn đoán DILI chuẩn (RUCAM...) không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm gan virus cấp (A, E, B, C)",
+     "n": "Chưa loại hết: HBsAg, anti-HCV âm tính nhưng chưa có HAV IgM, HBc IgM, HEV (ACG 2017 Hình 2). Chuyển tuyến làm."
+    },
+    {
+     "t": "Viêm gan do rượu",
+     "n": "Loại: không uống rượu bia ba tuần, AST/ALT 0,64, không tiền sử uống nặng (EASL-EASD-EASO 2024 Hình 1)."
+    },
+    {
+     "t": "Tắc mật cơ học: sỏi ống mật chủ, u đường mật",
+     "n": "Ít gợi ý: không đau quặn, không sốt, đường mật không giãn trên siêu âm, kiểu tế bào gan (R > 5). Nếu giãn đường mật phải chuyển khẩn (BSG 2018 chú thích Hình 1)."
+    },
+    {
+     "t": "Viêm gan tự miễn, bệnh Wilson, nhiễm sắt",
+     "n": "Chưa loại, cần ANA, SMA, globulin miễn dịch, ceruloplasmin, bão hòa sắt (ACG 2017 Hình 2): tuyến trên làm."
+    },
+    {
+     "t": "Suy gan cấp",
+     "n": "Chưa có: INR 1,2, không lú lẫn, albumin 38 g/L. Theo dõi sát vì ALT 5–15 lần ULN (ACG 2017 Hình 2); có dấu suy gan cấp thì hội chẩn gan khẩn."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến chuyên khoa tiêu hóa-gan mật (bệnh viện quân y/tỉnh) trong 24 giờ, kèm giấy tóm tắt kết quả xét nghiệm; đi cùng đồng đội, không tự lái xe",
+     "v": "c",
+     "n": "Vàng da chưa rõ nguyên nhân cần chuyển ngay (BSG 2018, mục Response to abnormal liver blood tests, Hình 1 ô đỏ); ALT 5–15 lần ULN cần xét nghiệm mở rộng (HAV, HBc IgM, ceruloplasmin, ANA, SMA, globulin) và cân nhắc sinh thiết nếu âm tính (ACG 2017 Hình 2). Tiêu chuẩn nhập viện cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng ngay amoxicillin, thuốc nam, mọi thảo dược, thực phẩm chức năng; không rượu bia",
+     "v": "c",
+     "n": "Ngưng thuốc/rượu độc gan khi men gan tăng (ACG 2017 Hình 1, 2); không uống rượu bia (EASL-EASD-EASO 2024)."
+    },
+    {
+     "t": "Nhập viện ngay tại bệnh viện gần nhất để theo dõi",
+     "v": "a",
+     "n": "Hợp lý khi bệnh nhân có vàng da; không bắt buộc vì chưa có dấu suy gan cấp (INR 1,2, không lú lẫn). Chuyển tuyến có chuyên khoa gan là đủ."
+    },
+    {
+     "t": "Viết giấy cho chị nghỉ vận động nặng trong lúc vàng da; dặn chạy thể lực nhẹ lại khi bác sĩ gan cho phép",
+     "v": "a",
+     "n": "Không có tài liệu đã tải nói nghỉ ngơi hay vận động trong viêm gan cấp do thuốc: cách thận trọng, chấm a."
+    },
+    {
+     "t": "Tiếp tục theo dõi ngoại trú, hẹn xét nghiệm lại sau 1 tuần",
+     "v": "w",
+     "n": "Vàng da cần chuyển ngay (BSG 2018); chờ 1 tuần có thể bỏ sót tiến triển suy gan hoặc tắc mật."
+    },
+    {
+     "t": "Kê thuốc 'bổ gan', 'giải độc gan', hoặc cho chị về đơn vị làm nhiệm vụ bình thường",
+     "v": "w",
+     "n": "Thuốc/thảo dược nghi gây tổn thương gan (ACG 2017); thuốc bảo vệ gan không có bằng chứng (EASL-EASD-EASO 2024). Trong bối cảnh đang tăng men gan, vàng da: chấm w."
+    },
+    {
+     "t": "Ghi rõ trong giấy chuyển: đã dùng lại amoxicillin 7 ngày, thuốc nam không rõ thành phần, FIB-4 lượt trước 1,12, HBsAg và anti-HCV âm tính 8 tháng trước",
+     "v": "c",
+     "n": "Thông tin thuốc, thảo dược là phần quan trọng của chẩn đoán nguyên nhân (ACG 2017, mục Medications and DILI)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nặng hơn so với lượt 1: tổn thương tế bào gan cấp kèm vàng da trên nền MASLD (ALT 262, bilirubin 52 µmol/L, R 6,4), nghi do dùng lại amoxicillin và thuốc nam; chưa có suy gan cấp.",
+     "MASLD (NAFLD) vẫn là bệnh nền: nhiễm mỡ, yếu tố chuyển hóa; FIB-4 lượt trước 1,12 (nguy cơ xơ hóa thấp), đánh giá lại xơ hóa sau khi men gan ổn định.",
+     "Chưa loại: viêm gan virus cấp A, B, C, E; viêm gan tự miễn; bệnh Wilson."
+    ],
+    "phan_tich_chan_doan": [
+     "ĐÁNH GIÁ LẠI TOÀN DIỆN. Triệu chứng mới vàng da, nước tiểu sẫm, ngứa: hỏi thuốc, thảo dược, rượu, nguy cơ virus, dấu nặng (sốt, lú lẫn, xuất huyết). Hỏi cụ thể mới lộ amoxicillin dùng lại và thuốc nam (ACG 2017: tìm thuốc, thảo dược). Khám vàng da, gan to, dấu gãi, run vẫy.",
+     "CẬN LÂM SÀNG THEO NGÂN SÁCH ~450.000 đ: AST/ALT (50.000) + chức năng gan đầy đủ (bilirubin, ALP, GGT, albumin, INR; 200.000) + siêu âm bụng (150.000) + công thức máu (50.000) = 450.000 đ. ANA, huyết thanh viêm gan A/E/HBc IgM và ceruloplasmin vượt khả năng: tuyến trên làm bằng bảo hiểm. Không CT: siêu âm đủ để loại giãn đường mật.",
+     "KIỂU TỔN THƯƠNG VÀ MỨC ĐỘ. ALT 262 = 7,9 lần ULN thuộc nhóm tăng vừa 5–15 lần; R = 6,4 > 5 là kiểu tế bào gan (ACG 2017 Hình 2, R ratio). INR 1,2, albumin 38: chưa suy gan cấp. Bilirubin trực tiếp tăng: tổn thương tế bào gan hoặc tắc mật; siêu âm không giãn đường mật.",
+     "VÌ SAO CHUYỂN TUYẾN. Vàng da chưa rõ nguyên nhân và ALT > 5 lần ULN cần chẩn đoán nguyên nhân (BSG 2018 Hình 1; ACG 2017 Hình 2: huyết thanh viêm gan, ANA, SMA, ceruloplasmin, globulin, có thể sinh thiết nếu âm tính), vượt khả năng phòng khám; mức chăm sóc cao hơn là hệ quả của diễn tiến nặng hơn.",
+     "MASLD VÀ ĐỢT CẤP. Men gan MASLD thường chỉ tăng 2–5 lần; ALT 7,9 lần không giải thích bằng MASLD đơn thuần: phải tìm nguyên nhân thứ hai. Không dùng FIB-4 lúc men gan tăng cấp (người soạn thận trọng, tài liệu không nêu). Đánh giá xơ hóa sau khi men gan ổn định.",
+     "DIAGNOSTIC TIMEOUT. (a) Điều gì khiến tôi chốt 'MASLD nặng hơn'? Nhiễm mỡ sẵn có nên dễ đổ cho gan nhiễm mỡ. (b) Dữ kiện chưa giải thích? ALT tăng gấp 3, vàng da. (c) Điều gì làm tôi đổi ý? INR > 1,5, lú lẫn, xuất huyết, đường mật giãn. (d) Chị còn giấu gì? Thuốc dùng lại, thuốc nam."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng mọi thuốc, thảo dược nghi ngờ; không rượu (ACG 2017 Hình 1, 2). Chuyển tuyến chuyên khoa gan trong 24 giờ kèm thông tin thuốc, thảo dược, kết quả xét nghiệm và nơi chị mang bảo hiểm quân đội. Nhập viện ngay chấm a.",
+     "Không kê thuốc bảo vệ gan (không có bằng chứng; EASL-EASD-EASO 2024). Không chờ 1 tuần (w). Không dùng lại kháng sinh. Thuốc điều trị đặc hiệu DILI (corticoid, acid ursodeoxycholic...) không có trong tài liệu đã tải, không kê.",
+     "Sau khi qua đợt cấp: quay lại phác đồ MASLD (giảm cân, ăn Địa Trung Hải, vận động) và lặp FIB-4 khi ALT ổn định; mốc thời gian cụ thể không có trong tài liệu đã tải (ca đặt theo ket_cuc)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin 500 mg (tự mua), thuốc nam 'giải độc gan'",
+      "ham_luong": "Theo nhãn",
+      "lieu": "Ngưng hoàn toàn",
+      "duong": "Uống",
+      "thoi_diem": "Từ lúc khám",
+      "so_ngay": "Không dùng lại",
+      "ghi_chu": "Tránh thuốc độc gan khi ALT tăng và vàng da (ACG 2017 Hình 1, 2); kháng sinh không cần cho cảm lạnh (ACP 2016 Advice 4)."
+     },
+     {
+      "thuoc": "Thuốc bảo vệ gan, thuốc điều trị đặc hiệu tổn thương gan do thuốc",
+      "ham_luong": "Không kê",
+      "lieu": "Không kê tại phòng khám",
+      "duong": "Không",
+      "thoi_diem": "Không",
+      "so_ngay": "Không",
+      "ghi_chu": "Không có bằng chứng ở MASLD (EASL-EASD-EASO 2024 LoE 2); thuốc điều trị đặc hiệu DILI không có trong tài liệu đã tải; để bác sĩ gan quyết sau xét nghiệm."
+     }
+    ],
+    "dan_do": [
+     "Gan đang bị tổn thương cấp thêm bên cạnh gan nhiễm mỡ, rất có thể do thuốc kháng sinh dùng lại và thuốc nam; chưa phải ung thư hay xơ gan. Cần làm thêm xét nghiệm ở bệnh viện, đi trong 24 giờ (BSG 2018 Hình 1; ACG 2017 Hình 2).",
+     "Ngưng hết thuốc, thuốc nam, thực phẩm chức năng; không rượu bia; không tự dùng thuốc giảm đau hay kháng sinh nữa.",
+     "Mang theo giấy chuyển, thẻ bảo hiểm, danh sách mọi thuốc đã uống (kể cả thang thuốc nam, mang theo gói còn lại). Nhờ đồng đội đi cùng.",
+     "Đến bệnh viện ngay nếu lú lẫn, ngủ li bì, nôn ra máu, phân đen, chảy máu chân răng, sốt, đau bụng dữ dội (dấu hiệu suy gan; danh sách đầy đủ không có trong tài liệu đã tải).",
+     "Bác sĩ chỉ ghi giấy chuyển cho bệnh viện; phần báo về đơn vị theo quy định của chị với đơn vị, bác sĩ không tự báo. Lần sau bắt đầu thấy vàng mắt hãy đi khám ngay, đừng chờ."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hằng được chuyển bệnh viện quân y trong ngày. Ở đó HAV IgM, HBc IgM, HEV IgM, ANA, ceruloplasmin đều âm tính; chị ngưng amoxicillin và thuốc nam. Bilirubin về bình thường sau khoảng 4 tuần, ALT 262 → 120 (tuần 3) → 62 (tuần 8) → 48 (tuần 12): đợt tăng cấp được kết luận nhiều khả năng do thuốc/thảo dược trên nền gan nhiễm mỡ (chẩn đoán cuối cùng ghi theo bệnh viện). Tháng thứ 6: cân 64,2 kg (giảm 5,6%), AST 33, ALT 40 U/L, tiểu cầu 236 G/L, FIB-4 = 52 × 33 / (236 × √40) = 1,15, vẫn dưới 1,3; chị chạy lại 3 km đều. Men gan chỉ gần về bình thường sau gần nửa năm, chậm hơn nhiều so với 'uống thuốc vài tuần là sạch gan' chị từng nghĩ. Gan vẫn nhiễm mỡ nhẹ trên siêu âm: 'khỏi' là hết triệu chứng, men gan bình thường, không tiến triển xơ hóa, không phải gan trở lại như chưa từng nhiễm mỡ. Hẹn lặp FIB-4 sau 1–2 năm. Chị kể với quân y chuyện gan nhiễm mỡ, quân y cho tiếp tục huấn luyện nhẹ theo tư vấn bác sĩ gan (phần này là diễn biến giả định của ca, không có trong tài liệu đã tải).",
+ "nhieu": [
+  "Đau họng + amoxicillin tự mua: dễ dừng ở viêm họng và kê tiếp kháng sinh. Ho, sổ mũi, khàn tiếng là dấu virus (ACP 2016 Advice 4); amoxicillin còn là nhóm thuốc hay làm tăng men gan (ACG 2017). Ở lượt 2 việc dùng lại thuốc là yếu tố làm nặng.",
+  "Giấu triệu chứng thật: hỏi chung 'còn gì khác' sẽ chỉ nghe đau họng. Mệt và nặng hạ sườn phải 4 tháng, phiếu cũ gan nhiễm mỡ, nỗi sợ bị ngừng huấn luyện chỉ lộ khi hỏi cụ thể và hỏi điều lo nhất. Lượt 2 chị giấu cả vàng da, thuốc nam.",
+  "Ngân sách 300.000 đ: AST/ALT, công thức máu, siêu âm, glucose đổi quyết định; lipid, HbA1c, virus (đã có kết quả cũ), test liên cầu, CRP, creatinin hoãn được. Lượt 2 ngân sách 450.000 đ: chức năng gan đầy đủ là xét nghiệm đổi quyết định nhất, ANA và huyết thanh viêm gan để tuyến trên.",
+  "Lượt 2 nặng hơn: ALT 78 → 262 kèm vàng da không phải là diễn tiến của MASLD đơn thuần (men gan MASLD thường chỉ tăng nhẹ). Đừng chốt 'gan nhiễm mỡ nặng lên' mà phải tìm nguyên nhân thứ hai và chuyển tuyến.",
+  "Không có CT: siêu âm đủ để xác nhận nhiễm mỡ và loại giãn đường mật; CT không thuộc chiến lược FIB-4 – đàn hồi."
+ ],
+ "bai_hoc_bien": [
+  "Trung niên, điển hình: giá trị ở quy trình chặt chẽ: hỏi thuốc, rượu, loại trừ virus, tính FIB-4, dùng tên MASLD, tư vấn lối sống cụ thể.",
+  "Nghề bộ đội, giấu triệu chứng vì sợ bị ngừng: tạo an toàn trước khi hỏi sâu, giữ bí mật y khoa, không mắng, không hứa thay đơn vị; nghề kỷ luật hay nhẫn nhịn và đến muộn.",
+  "Không đủ tiền xét nghiệm: xếp ưu tiên theo 'đổi được quyết định không'; nói rõ lý do từng xét nghiệm, hoãn cái chưa cần, dùng kết quả cũ của bệnh nhân.",
+  "Diễn tiến nặng hơn: đánh giá lại toàn diện, nhận ra khi diễn tiến không còn khớp chẩn đoán cũ (ALT gấp 3 + vàng da), tìm nguyên nhân thứ hai (thuốc, thảo dược), nâng mức chăm sóc đúng tiêu chí.",
+  "Khỏi chậm hơn dự kiến: vàng da hết sau 4 tuần, men gan gần bình thường sau gần nửa năm, nhiễm mỡ còn trên siêu âm là quỹ đạo bình thường; báo trước để chị không tìm thuốc bổ gan."
+ ],
+ "diem_nho": [
+  "MASLD (EASL-EASD-EASO 2024 Hình 1): nhiễm mỡ + ≥ 1 yếu tố chuyển hóa (BMI ≥ 23 ở người Châu Á) + không nguyên nhân khác + rượu dưới ngưỡng; nữ 20–50 g/ngày là MetALD, > 50 g/ngày là bệnh gan do rượu.",
+  "FIB-4 = tuổi × AST / (tiểu cầu × √ALT); < 1,3 nguy cơ thấp, 1,3–2,67 trung gian cần đàn hồi, > 2,67 nguy cơ cao (≤ 65 tuổi). FIB-4 thấp: lặp mỗi 1–3 năm (EASL) / 1–2 năm (AASLD).",
+  "Giảm cân bền vững ≥ 5% giảm mỡ gan, 7–10% giảm viêm, ≥ 10% cải thiện xơ hóa; > 150 phút/tuần; Địa Trung Hải; tránh đồ uống có đường. Thực phẩm chức năng, thuốc bổ gan: không khuyến cáo.",
+  "ALT 5–15 lần ULN hoặc vàng da chưa rõ nguyên nhân: ngưng thuốc/rượu độc gan, tìm dấu suy gan cấp, xét nghiệm mở rộng, chuyển tuyến (ACG 2017 Hình 2; BSG 2018 Hình 1). R = (ALT/ULN) ÷ (ALP/ULN) > 5 là kiểu tế bào gan.",
+  "Cảm lạnh/viêm họng có ho, sổ mũi: không kháng sinh (ACP 2016 Advice 4); kháng sinh là nhóm hay gây tăng men gan."
+ ],
+ "nguon": [
+  "EASL-EASD-EASO 2024, MASLD (J Hepatol 81:492–542) – TL-0204 (bản kho cũ 'EASL-EASD-EASO 2024 - Management of MASLD') – Hình 1, 2; Bảng 3; mục Definition, Non-invasive tests (công thức FIB-4, khoảng 1,3–2,67); khuyến cáo giảm cân, ăn uống, hoạt động, cà phê, nutraceuticals, vitamin E, statin",
+  "AASLD 2023, NAFLD (Hepatology 77:1797–1835) – TL-0207 (bản kho cũ 'AASLD 2023 - Practice guidance NAFLD-MASLD') – mục FIB-4 < 1,3 và lặp mỗi 1–2 năm",
+  "EASL-EASD-EASO 2026, resmetirom và semaglutide – TL-0188 và AASLD 2025 (TL-0201): chỉ dùng để nói thuốc đặc hiệu dành cho MASH F2–F3 (không đọc lại toàn văn khi viết ca này; dựa vào mô tả trong lay_ca và ca TH-1105)",
+  "ACG 2017, men gan bất thường (kho cũ 'ACG 2017 - Evaluation of abnormal liver chemistries') – Hình 1 (tăng nhẹ 2–5 lần ULN), Hình 2 (tăng vừa 5–15 lần), R ratio, mục Medications and drug-induced liver injury; bảng nguyên nhân AST/ALT",
+  "BSG 2018, xét nghiệm gan bất thường (kho cũ) – Hình 1 (ô đỏ chuyển khẩn), mục Response to abnormal liver blood tests: outcomes and pathways (vàng da chưa rõ nguyên nhân chuyển ngay; BALLETS 84%)",
+  "ACP 2016, kháng sinh cho nhiễm khuẩn hô hấp trên (Ann Intern Med) – TL-0156 – Advice 2, 3, 4",
+  "Không có trong tài liệu đã tải: quy định xếp loại sức khỏe quân nhân; liều và thời gian paracetamol/thuốc triệu chứng viêm họng; thuốc đặc hiệu và tiêu chuẩn chẩn đoán tổn thương gan do thuốc (RUCAM...); tiêu chuẩn nhập viện cụ thể; dấu hiệu cảnh báo đầy đủ; nghỉ ngơi/vận động trong viêm gan cấp; mốc tái khám 12 tuần; quy đổi lon bia ra gam cồn (kiến thức phổ thông)."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-12 (bản 1, TH-1113, viết: Sonnet): đã đọc TL-0204 (EASL-EASD-EASO 2024, bản kho cũ), TL-0207 (AASLD 2023, bản kho cũ), ACG 2017, BSG 2018 (kho cũ), TL-0156 (ACP 2016); TL-0188, TL-0201 chỉ qua mô tả lay_ca và ca TH-1105. Chỗ thiếu tài liệu: xem dòng 'Không có trong tài liệu đã tải' ở nguon.",
+  "Thuật ngữ: chẩn đoán đích giữ NAFLD; phiếu nhận xét ghi MASLD (EASL-EASD-EASO 2024), chấp nhận cả hai. Mâu thuẫn: không có mâu thuẫn mới; áp dụng các mục đã có trong mau_thuan.md (viêm họng có dấu virus; thuốc bảo vệ gan chấm a; paracetamol người lớn). Thuốc bảo vệ gan lượt 1 chấm a (khác TH-1105 chấm w): theo mục MT-0425.",
+  "Danh mục: chưa có chức năng gan đầy đủ (bilirubin, ALP, GGT, albumin, INR): đề xuất id chuc_nang_gan (xem TH-1113_de_xuat_danh_muc.json) và dùng trong lượt 2.",
+  "Biến sổ cái: 'Khởi phát âm thầm từ từ' = mệt, nặng hạ sườn phải 4 tháng; 'tự mua amoxicillin' = đang uống ngày thứ 4 (lượt 1) và dùng lại (lượt 2); 'giấu triệu chứng thật vì ngại ngừng' = sợ bị dừng huấn luyện, nhiệm vụ; 'nặng hơn' = vàng da, ALT 262, chuyển tuyến; 'không đủ tiền' = 300.000 đ rồi 450.000 đ; 'không CT' = khoa_cls và ct_bung; 'khỏi chậm' = ket_cuc.",
+  "Thiết kế: FIB-4 lượt 1 = 1,12 (< 1,3) cố ý ở người 51 tuổi để dạy ngưỡng 1,3 và không đàn hồi. Lượt 2 ALT 262 và R 6,4 chọn để thuộc nhóm 5–15 lần ULN của ACG 2017; INR 1,2 để chưa có suy gan cấp. Phần diễn biến ket_cuc là hư cấu có chủ đích."
+ ]
+}

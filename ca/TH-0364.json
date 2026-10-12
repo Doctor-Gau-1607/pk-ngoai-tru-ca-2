@@ -1,0 +1,543 @@
+{
+ "ma_ca": "TH-0364",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_gerd_khong_dien_hinh",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trào ngược dạ dày thực quản (GERD)",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh mạch vành",
+   "Loét thực quản"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Sau uống rượu bia",
+  "thuoc_dang_dung": "Kháng sinh theo toa cũ",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Văn Thái",
+  "tuoi": 66,
+  "gioi": "Nam",
+  "nghe": "Nội trợ (ở nhà nấu ăn, trông cháu; vợ còn đi làm)",
+  "can_nang": 70,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi ông là 'chú'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói nhiều, hay lo xa, dễ nghe theo lời hàng xóm. Thích tự chẩn đoán rồi tìm đúng thứ mình đã nghĩ trong đầu. Nấu ăn cho cả nhà nên hay nếm mặn, ăn nhiều dầu mỡ. Bỏ thuốc lá 15 năm. Biết mình bị huyết áp cao, uống thuốc đều.",
+  "kieu_nhieu": "Đòi truyền dịch: ngay từ đầu xin 'chai nước biển với thuốc bổ gan cho giải rượu', kể hôm trước nhậu xong truyền một chai là khỏe. Bị từ chối thì nhắc lại, tỏ ý bác sĩ khác cho truyền hoài. Dịu xuống khi được nghe nỗi lo của mình, được giải thích bằng lời đơn giản và có việc cụ thể để làm thay (uống nước từng ngụm, thuốc đúng giờ, hẹn nội soi, hẹn tái khám).",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d3a37c",
+   "toc": "#7d7b78",
+   "kieuToc": "ngan",
+   "ao": "#9fb4c7",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Tức ngực, vướng cổ sau bữa nhậu, xin truyền dịch",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám không có máy X-quang và không có nội soi tiêu hóa; nội soi làm ở bệnh viện tuyến trên."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Phạm Văn Thái, 66 tuổi, nội trợ, tăng huyết áp. Đến vì tức nặng giữa ngực và vướng cổ từ sáng nay sau bữa nhậu giỗ tối qua, xin truyền dịch. Sinh hiệu: HA 146/86 mmHg, mạch 76 l/p, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Chào bác sĩ. Sáng nay tôi tức ngực, vướng cổ, người rã rời vì hôm qua đi giỗ nhậu hơi nhiều. Bác sĩ cho tôi chai nước biển với thuốc bổ gan cho khỏe lại đi, hôm trước tôi truyền một chai là hết.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "146/86",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sáng nay thức dậy thấy tức nặng giữa ngực, vướng cổ họng, ợ hơi nhiều, người mệt rã rời sau bữa nhậu giỗ tối qua. Muốn được truyền chai nước biển cho khỏe.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Ông xin: 'Bác sĩ cho tôi chai nước biển với thuốc bổ gan, giải rượu cho nhanh. Tháng trước nhậu xong tôi truyền một chai là khỏe re, ông hàng xóm cũng vậy'.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu: đòi truyền dịch",
+     "nhieu": 1
+    },
+    {
+     "id": "truyen_dich_lai",
+     "noi_dung": "Nếu bác sĩ từ chối: 'Vậy ở đây không truyền à? Phòng khám khác người ta cho truyền hoài'. Dịu lại khi được hỏi nỗi lo của mình, được giải thích bằng lời đơn giản (chai nước không chữa chỗ bị gây ra tức ngực) và có việc cụ thể làm thay.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nhiễu: nhắc lại yêu cầu truyền dịch",
+     "nhieu": 1
+    },
+    {
+     "id": "dac_diem_nguc",
+     "noi_dung": "Tức nặng âm ỉ sau xương ức, không phải nóng rát. Mỗi lần 20–30 phút, vài lần mỗi tuần trong hơn 3 tháng, hay vào 1–2 giờ sau bữa tối nhiều hoặc khi nằm. Sáng nay tỉnh giấc lúc 3 giờ vì tức ngực, ợ hơi, miệng đắng; uống ngụm nước, ngồi dậy thì đỡ sau chừng nửa giờ; từ đó đến giờ khám (9 giờ) không đau lại. Đi bộ, leo cầu thang, gánh nước không làm tức hơn. Không lan tay trái hay hàm, không vã mồ hôi, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau ngực: phân biệt với đau thắt ngực"
+    },
+    {
+     "id": "trao_nguoc",
+     "noi_dung": "Vài lần mỗi tuần có vị chua hoặc đắng trào lên tận họng, nhất là buổi sáng và lúc nằm. Ông tưởng đó là 'ợ hơi thường' nên không nghĩ đáng kể; không bao giờ thấy 'ợ nóng' kiểu nóng rát sau xương ức.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể có thấy chua hay đắng trào lên cổ, họng, miệng không (hỏi 'ợ nóng' thì ông trả lời không).",
+     "k": 1,
+     "y": "Triệu chứng điển hình ẩn (trào ngược)"
+    },
+    {
+     "id": "ngoai_thuc_quan",
+     "noi_dung": "Hơn hai tháng nay hay hắng giọng, vướng cổ như có đờm dính nhưng khạc không ra; nuốt cơm, nước vẫn thông, không đau họng. Không ho kéo dài, không khàn tiếng, không khò khè, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng ngoài thực quản"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không nuốt nghẹn, không nuốt đau, không nôn, không nôn ra máu, phân vàng không đen. Cân nặng 70 kg, ổn định 6 tháng nay (so với 2 năm trước tăng khoảng 6 kg). Ăn ngon, không mệt mỏi bất thường, không chóng mặt khi đứng dậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động (ung thư, xuất huyết, hẹp)"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Tăng huyết áp 6 năm, uống amlodipin 5 mg mỗi sáng. Không đái tháo đường. Chưa từng đau ngực khi gắng sức, chưa từng nhồi máu. Hút thuốc lá 15 điếu/ngày suốt 20 năm, đã bỏ 15 năm. Bố mất vì đột quỵ năm 72 tuổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, yếu tố nguy cơ tim mạch"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Hơn một tháng trước ông được cho toa kháng sinh khi bị viêm họng. Ba hôm trước thấy vướng cổ, tưởng viêm họng tái lại nên lục hộp thuốc, uống amoxicillin 500 mg ngày 3 lần, hôm nay là ngày thứ ba, sáng nay đã uống 1 viên, còn nửa vỉ. Không thấy đỡ. Viên thuốc uống với nửa ly nước, ngồi thẳng. Không dùng giảm đau chống viêm, không aspirin.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì ông chỉ kể amlodipin. Chỉ kể kháng sinh khi bác sĩ hỏi đã tự mua hay tự uống thuốc gì, còn thuốc cũ trong nhà không, đã uống kháng sinh chưa.",
+     "k": 1,
+     "y": "Thuốc đang dùng: kháng sinh theo toa cũ"
+    },
+    {
+     "id": "ruou_bia",
+     "noi_dung": "Tối qua đi giỗ nhà hàng xóm, uống khoảng 5 lon bia và vài chén rượu, ăn nhiều thịt mỡ, ăn xong khoảng 22 giờ rồi nằm ngủ ngay. Thường ngày uống bia 2–3 buổi mỗi tuần, mỗi buổi 2 lon. Không nôn sau nhậu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: rượu bia, ăn khuya"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Ăn tối muộn (20–21 giờ) rồi nằm xem ti vi; hay ăn nhiều, thích đồ chiên xào, uống 2 ly cà phê mỗi sáng; vòng eo tăng dần. Nấu ăn cho cả nhà nên hay nếm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thói quen ăn uống, giờ ăn trước giờ ngủ"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Uống nước bình thường, nước tiểu vàng nhạt, đi tiểu đều. Không nôn, không tiêu chảy, không khát dữ dội.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không mất nước (không có chỉ định truyền dịch)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Ông Tư hàng xóm mất cách đây 5 tháng vì ung thư thực quản, lúc đầu cũng 'vướng cổ, tức ngực' rồi phát hiện thì đã muộn. Ông nghĩ mình cũng giống vậy nhưng không dám nói, sợ nghe kết quả xấu; vì thế mới đi khám ngay và 'muốn truyền thuốc cho chắc'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói ra khi bác sĩ hỏi ông lo nhất điều gì, hoặc vì sao hôm nay đi khám ngay, hoặc có ai quen bị bệnh tương tự không.",
+     "k": 1,
+     "y": "Động cơ thật: sợ mắc ung thư"
+    },
+    {
+     "id": "tien_su_khac",
+     "noi_dung": "Chưa từng nội soi dạ dày, chưa bị loét. Không ai trong nhà bị ung thư thực quản hay dạ dày. Không đang uống thuốc giảm đau, không thuốc ngủ, không thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói nhiều, hơi lo lắng. Cao 165 cm, nặng 70 kg (BMI 25,7), vòng eo 92 cm. Niêm mạc mắt hồng, không vàng da, môi ẩm, da véo trở lại nhanh. Không phù.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, hạch thượng đòn. Tuyến giáp không to. Khí quản ở giữa.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Thành sau họng đỏ nhẹ, có vài hạt lympho nhỏ; amiđan không to, không mủ, không giả mạc. Dây thanh không soi được tại phòng khám; giọng nói bình thường.",
+     "k": 1,
+     "hien": "Họng hơi đỏ nhẹ ở thành sau, amiđan không to, không mủ."
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1, T2 rõ, không âm thổi, không T3, T4.",
+     "k": 1,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi to bè, không đau khi ấn thượng vị, không phản ứng thành bụng, không sờ thấy khối, gan lách không to.",
+     "k": 1
+    },
+    "ha_hai_tay": {
+     "a": "Tay phải 146/86, tay trái 144/84 mmHg: chênh lệch hai tay không đáng kể.",
+     "k": 0
+    },
+    "ha_tu_the": {
+     "a": "Nằm 146/86 mmHg, mạch 76; đứng sau 3 phút 142/84 mmHg, mạch 80. Không tụt huyết áp tư thế, không chóng mặt.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Ấn dọc xương ức và các khớp sườn ức không đau, không tái hiện cơn tức ngực. Cử động cổ, vai, hít sâu không đau thêm.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Không có khối, phân vàng dính găng, không máu, không đen.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 74 l/p. Trục bình thường. Không ST chênh lên hay chênh xuống, không sóng T đảo, không sóng Q bệnh lý. Không dày thất trái.",
+     "n": "Tức ngực ở người 66 tuổi, tăng huyết áp, từng hút thuốc: làm ECG và đọc trong 10 phút (ESC 2023 mục 3.2); đau thượng vị, đau ngực đều được tính là triệu chứng tương đương đau ngực (ESC 2023 mục 3.1.1). Chưa có biến đổi thì chưa loại hẳn: còn hs-troponin."
+    },
+    "trop": {
+     "v": "e",
+     "r": "hs-TnT 4 ng/L (ngưỡng bình thường < 14)",
+     "n": "Lần đau gần nhất cách khám > 3 giờ (3 giờ sáng và 9 giờ). hs-cTn Elecsys < 5 ng/L ở lần lấy đầu: loại trừ nhồi máu cơ tim không ST chênh (QĐ 2187/2019 Hình 3; ESC 2023 mục 3.3.4.1, Hình 6). Nếu đau còn hoặc tái lại trong lúc theo dõi thì phải lấy lại (ESC 2023 mục 3.3.4.1)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 7,2 G/L · Hb 142 g/L · MCV 90 fL · TC 238 G/L",
+     "bang": {
+      "wbc": 7.2,
+      "neu_pct": 58.0,
+      "neu": 4.18,
+      "lym_pct": 32.0,
+      "lym": 2.3,
+      "mono_pct": 7.0,
+      "mono": 0.5,
+      "eos_pct": 2.5,
+      "eos": 0.18,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.7,
+      "hgb": 142,
+      "hct": 0.42,
+      "mcv": 90.0,
+      "mch": 30.2,
+      "mchc": 336,
+      "rdw": 13.1,
+      "plt": 238
+     },
+     "n": "Không thiếu máu, không tăng bạch cầu: thiếu máu là dấu báo động cần nội soi (VNAGE 2026 KC 3; ACG 2022 chẩn đoán KC 6); không có bằng chứng nhiễm khuẩn cần kháng sinh."
+    },
+    "glu": {
+     "v": "u",
+     "r": "5,4 mmol/L",
+     "bang": {
+      "glu": 5.4
+     }
+    },
+    "creat": {
+     "v": "u",
+     "r": "Creatinin 84 µmol/L · eGFR 82 mL/ph/1,73m² · Ure 5,1 mmol/L",
+     "bang": {
+      "creat": 84,
+      "egfr": 82,
+      "ure": 5.1
+     },
+     "n": "Không tăng ure, creatinin: không mất nước, không suy thận (nhận định của tác giả ca)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 140 · K 4,1 mmol/L",
+     "bang": {
+      "na": 140,
+      "k": 4.1
+     },
+     "n": "Điện giải bình thường: không có rối loạn cần bù dịch đường tĩnh mạch."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Gan nhiễm mỡ nhẹ, túi mật không sỏi, đường mật không giãn, tụy không to.",
+     "n": "Không bắt buộc cho GERD. Đau thượng vị, tức ngực hay ợ hơi sau bữa mỡ làm nghĩ tới bệnh túi mật, siêu âm giúp loại trừ (nhận định của tác giả ca; VNAGE 2024 KC 4 cho khó tiêu)."
+    },
+    "cxr": {
+     "n": "Cơ sở không có X-quang. Không cần cho chẩn đoán GERD: ACG 2022 chẩn đoán KC 5 không dùng chụp thực quản cản quang chỉ để chẩn đoán GERD. Bệnh nhân không ho kéo dài, không ho máu, không sụt cân, phổi sạch, SpO₂ 97%."
+    },
+    "echo": {
+     "n": "Không có dấu suy tim, ECG và hs-troponin bình thường, đau không liên quan gắng sức: không cần siêu âm tim lúc này."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi.)",
+     "n": "Có chỉ định nhưng không khẩn: nhiều yếu tố nguy cơ Barrett (tuổi > 50, trào ngược ban đêm, thừa cân, từng hút thuốc) (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Không có dấu báo động nên không cấp cứu (ACG 2022 mục Endoscopy (chẩn đoán): nội soi sớm khi có dấu báo động)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày thực quản (GERD) biểu hiện không điển hình ở người cao tuổi, khởi phát sau rượu bia và ăn khuya: tức ngực sau xương ức không do tim, hắng giọng, vướng cổ, ợ hơi, vị đắng/chua buổi sáng; đã loại trừ hội chứng vành cấp; chưa có dấu báo động; cần nội soi theo hẹn; không có chỉ định truyền dịch; kèm tăng huyết áp, thừa cân",
+     "ok": 1,
+     "n": "Tức ngực sau xương ức không gắng sức, trào chua/đắng khi nằm, hắng giọng và vướng cổ kéo dài, nặng thêm sau bữa tối lớn, rượu và ăn sát giờ ngủ (VNAGE 2026 KC 1; Lyon 2.0 Bảng 2: đau ngực thực quản và trào ngược là triệu chứng điển hình). ECG và hs-TnT bình thường. Chẩn đoán lâm sàng, chưa có bằng chứng khách quan (VNAGE 2026 KC 2, 6)."
+    },
+    {
+     "t": "Bệnh mạch vành (hội chứng vành cấp, đau thắt ngực ổn định)",
+     "n": "Cùng bệnh cảnh có tuổi 66, tăng huyết áp, từng hút thuốc: không được bỏ qua. Nhưng đau không liên quan gắng sức, kéo dài 20–30 phút, đỡ khi ngồi dậy uống nước, không lan, không vã mồ hôi; ECG không biến đổi; hs-TnT 4 ng/L sau > 3 giờ từ cơn đau, dưới ngưỡng loại trừ 5 ng/L (QĐ 2187/2019 Hình 3; ESC 2023 Hình 6). Tiếp tục dặn dấu hiệu gọi cấp cứu."
+    },
+    {
+     "t": "Loét thực quản, viêm thực quản nặng (kể cả do thuốc viên)",
+     "n": "Không nuốt nghẹn, không nuốt đau, không nôn, không xuất huyết, không thiếu máu (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Biến chứng nặng của GERD ít gặp ở Việt Nam (loét 1,3–5%, xuất huyết 0,4%; VNAGE 2026 KC 4). Chỉ nội soi mới khẳng định hay loại trừ: hẹn nội soi."
+    },
+    {
+     "t": "Ung thư thực quản, ung thư dạ dày",
+     "n": "Không nuốt nghẹn, không sụt cân, không thiếu máu, không nôn, không khối ở bụng, không hạch cổ. Trong 472.744 người Việt được nội soi, ác tính chỉ 0,4% (VNAGE 2026 KC 3, trích VNAGE 2023). Nội soi theo hẹn vừa là chỉ định chuyên môn vừa trả lời nỗi lo của ông."
+    },
+    {
+     "t": "Viêm họng do vi khuẩn (cần kháng sinh)",
+     "n": "Không đau họng, không sốt, không amiđan mủ, không hạch cổ đau, nên không đủ tiêu chuẩn thử liên cầu hay dùng kháng sinh (ACP/CDC 2016 Lời khuyên giá trị cao 2). Vướng cổ và hắng giọng là triệu chứng ngoài thực quản, kém đặc hiệu nếu đứng một mình (Lyon 2.0 Bảng 2)."
+    },
+    {
+     "t": "Mất nước do rượu, cần bù dịch tĩnh mạch",
+     "n": "Uống được, tiểu bình thường, môi ẩm, mạch 76, HA nằm 146/86 và đứng 142/84, ure, creatinin, điện giải bình thường: không có dấu mất nước. Bù dịch đường uống nếu còn uống được; chỉ cân nhắc truyền khi nôn nhiều, không uống được và có dấu mất nước (QĐ 2760/2023 sốt xuất huyết, B2 mục 1.2, 1.4: dùng làm nguyên tắc chung, không có trong tài liệu GERD)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi kỹ đau ngực, làm ECG ngay và đo hs-troponin trước khi quy cho trào ngược",
+     "v": "c",
+     "n": "Đau thượng vị, đau ngực đều là triệu chứng cần nghĩ tới hội chứng vành cấp (ESC 2023 mục 3.1.1); ECG trong 10 phút (mục 3.2); hs-cTn theo thuật toán 0 giờ/1 giờ (mục 3.3.4.1; QĐ 2187/2019 Hình 3). Lyon 2.0 và ACG 2022 đều đặt điều kiện: chỉ coi đau ngực là do thực quản sau khi đã loại trừ bệnh tim (Lyon 2.0, đoạn Symptoms; ACG 2022 chẩn đoán KC 4)."
+    },
+    {
+     "t": "Không truyền dịch; giải thích bằng lời đơn giản, nghe nỗi lo, rồi đưa việc cụ thể làm thay: uống nước lọc từng ngụm, ăn cháo cơm mềm, uống thuốc dạ dày đúng giờ, hẹn nội soi và tái khám",
+     "v": "c",
+     "n": "Không có dấu mất nước; tài liệu GERD đã tải không có chỉ định truyền dịch (không có trong tài liệu đã tải). Truyền dịch chỉ cân nhắc khi nôn nhiều, không uống được, có dấu mất nước (QĐ 2760/2023 B2 mục 1.2, 1.4: dùng làm nguyên tắc chung). Nguy cơ viêm tĩnh mạch, nhiễm khuẩn, quá tải dịch ở người tăng huyết áp: nhận định của tác giả ca."
+    },
+    {
+     "t": "Ngưng amoxicillin còn lại; không đổi sang kháng sinh khác",
+     "v": "c",
+     "n": "Chỉ dùng kháng sinh khi viêm họng liên cầu được xác nhận; bệnh nhân không đau họng, không sốt, Centor < 3 (ACP/CDC 2016 Lời khuyên giá trị cao 2). Thuốc không đỡ vì nguyên nhân là trào ngược."
+    },
+    {
+     "t": "Omeprazol 20 mg uống 1 lần/ngày, 30–60 phút trước bữa sáng, 8 tuần; đánh giá lại ở tuần 8",
+     "v": "c",
+     "n": "Triệu chứng điển hình (đau ngực thực quản, trào chua/đắng) kèm ngoài thực quản, không dấu báo động: PPI liều chuẩn (VNAGE 2026 KC 15, KC 16; ACG 2022 chẩn đoán KC 1: 8 tuần, 1 lần/ngày trước bữa). Liều chuẩn omeprazol 20 mg (VNAGE 2024 Bảng 4). Thời điểm: 30–60 phút trước bữa, không uống lúc đi ngủ (ACG 2022 điều trị KC 8). Sau 8 tuần, nếu đỡ thì cố ngưng hoặc dùng khi cần (ACG 2022 chẩn đoán KC 2, điều trị KC 9)."
+    },
+    {
+     "t": "Thay đổi lối sống: không ăn trong 2–3 giờ trước khi ngủ, kê cao đầu giường, giảm cân, giảm bữa lớn nhiều mỡ, giảm cà phê và nước có ga, hạn chế rồi bỏ rượu bia",
+     "v": "c",
+     "n": "VNAGE 2026 KC 11 (bỏ rượu, thuốc lá), KC 12 (giảm cân, kê cao đầu giường; bữa ăn sát giờ ngủ làm nặng triệu chứng); ACG 2022 điều trị KC 1–5 (tránh ăn trong 2–3 giờ trước khi ngủ, kê đầu giường, giảm cân khi thừa cân, tránh thức ăn gây triệu chứng). Mục tiêu giảm cân cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viết giấy giới thiệu nội soi dạ dày – thực quản ở bệnh viện tuyến trên, hẹn làm không khẩn, sau 2 tuần ngưng thuốc dạ dày ở cuối đợt 8 tuần",
+     "v": "c",
+     "n": "Nhiều yếu tố nguy cơ Barrett (tuổi > 50, trào ngược ban đêm, thừa cân, từng hút thuốc): nội soi (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Nội soi chẩn đoán GERD chưa chứng minh nên làm sau khi ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2). Thời hạn hẹn cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trả lời nỗi lo ung thư: kể ra các dấu báo động đã hỏi mà ông không có, nói rõ nội soi sẽ trả lời chắc chắn, xác suất ác tính thấp",
+     "v": "c",
+     "n": "Ác tính chỉ 0,4% trong 472.744 người nội soi, biến chứng nặng ít gặp ở Việt Nam (VNAGE 2026 KC 3, 4). Không có dấu báo động: nuốt nghẹn, nuốt đau, nôn kéo dài, sụt cân, xuất huyết, thiếu máu (ACG 2022 chẩn đoán KC 6)."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại hoặc đến cấp cứu: đau ngực kéo dài > 15 phút hoặc tái lại trong 1 giờ, vã mồ hôi, khó thở, nuốt nghẹn, nuốt đau, nôn ra máu, phân đen, sụt cân",
+     "v": "c",
+     "n": "ESC 2023 mục 3.1.1 (đau ngực > 15 phút, tái lại trong 1 giờ: gọi cấp cứu); dấu báo động đưa nội soi lên sớm (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần để xem đáp ứng và việc đổi thói quen; đánh giá lại ở tuần 8",
+     "v": "c",
+     "n": "Mốc 2 tuần là lựa chọn của ca (không có trong tài liệu đã tải). Tuần 8: ACG 2022 chẩn đoán KC 1–3; VNAGE 2026 KC 3 (không đáp ứng thì nội soi)."
+    },
+    {
+     "t": "Omeprazol 20 mg ngày 2 lần (trước bữa sáng và bữa tối) từ đầu",
+     "v": "a",
+     "n": "Triệu chứng ngoài thực quản kèm triệu chứng điển hình: ACG 2022 (ngoài thực quản KC 3) gợi ý PPI 2 lần/ngày 8–12 tuần; VNAGE 2026 KC 16 nhắc tăng lên 2 lần/ngày khi cần. Đáp án chính dùng liều 1 lần/ngày vì đau ngực là triệu chứng chính (VNAGE 2026 KC 15; ACG 2022 chẩn đoán KC 1)."
+    },
+    {
+     "t": "Thêm alginat khi cần để giảm triệu chứng nhanh",
+     "v": "a",
+     "n": "VNAGE 2026 KC 14 (alginat khởi phát trong 1 giờ; dùng đơn độc cho GERD nhẹ-vừa hoặc kèm PPI). Liều alginat: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển nội soi ngay, không thử PPI trước",
+     "v": "a",
+     "n": "Chấp nhận được vì ông 66 tuổi có nhiều yếu tố nguy cơ Barrett và lo ung thư (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3; VNAGE 2023 Statement 3); nhưng không có dấu báo động nên không bắt buộc ngay (ACG 2022 chẩn đoán KC 1)."
+    },
+    {
+     "t": "Đồng ý truyền một chai nước biển kèm thuốc bổ gan theo yêu cầu",
+     "v": "w",
+     "n": "Không có chỉ định: không mất nước, tài liệu GERD không có truyền dịch (không có trong tài liệu đã tải). Củng cố niềm tin sai rằng truyền dịch chữa được tức ngực và giải rượu; nguy cơ quá tải dịch, viêm tĩnh mạch (nhận định của tác giả ca)."
+    },
+    {
+     "t": "Cho tiếp hoặc đổi kháng sinh vì 'vướng cổ'",
+     "v": "w",
+     "n": "Không có viêm họng liên cầu được xác nhận (ACP/CDC 2016 Lời khuyên giá trị cao 2); kháng sinh không điều trị trào ngược, thêm kháng thuốc."
+    },
+    {
+     "t": "Cho sucralfat hoặc thuốc vận động đường tiêu hóa (prokinetic) thay cho PPI",
+     "v": "w",
+     "n": "ACG 2022 điều trị KC 14: không dùng prokinetic cho GERD khi không có bằng chứng liệt dạ dày; KC 15: không dùng sucralfat trừ khi có thai. PPI là nền tảng (VNAGE 2026 KC 13)."
+    },
+    {
+     "t": "Chụp thực quản có cản quang (barium) để chẩn đoán trào ngược",
+     "v": "w",
+     "n": "ACG 2022 chẩn đoán KC 5: không dùng barium chỉ để chẩn đoán GERD (độ nhạy, độ đặc hiệu thấp). Cơ sở cũng không có X-quang; không có ảnh hưởng đến hướng xử trí."
+    },
+    {
+     "t": "Chỉ kê PPI rồi cho về, không làm ECG hay troponin vì 'chắc dạ dày'",
+     "v": "h",
+     "n": "Tức ngực ở người 66 tuổi tăng huyết áp, từng hút thuốc; chậm chẩn đoán hội chứng vành cấp là nguy hiểm tính mạng. ECG trong 10 phút (ESC 2023 mục 3.2); Lyon 2.0 và ACG 2022 yêu cầu loại trừ bệnh tim trước khi kết luận đau ngực do thực quản."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trào ngược dạ dày thực quản (GERD), chẩn đoán lâm sàng, biểu hiện không điển hình: tức ngực sau xương ức không do tim, hắng giọng, vướng cổ, ợ hơi, trào chua/đắng",
+     "Yếu tố làm nặng: rượu bia, bữa tối nhiều mỡ, ăn sát giờ ngủ, thừa cân (BMI 25,7; vòng eo 92 cm)",
+     "Đã loại trừ hội chứng vành cấp tại thời điểm khám (ECG, hs-TnT sau > 3 giờ); chưa có dấu báo động, chưa có dấu mất nước",
+     "Chưa có bằng chứng khách quan (chưa nội soi, chưa đo pH); cần nội soi theo hẹn vì nhiều yếu tố nguy cơ Barrett",
+     "Bệnh kèm: tăng huyết áp (amlodipin 5 mg). Đang tự uống amoxicillin theo toa cũ, không có chỉ định"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: (1) đặc điểm tức ngực: gắng sức, thời gian, lan, vã mồ hôi, tư thế, đỡ khi nào; (2) hỏi cụ thể 'chua hay đắng trào lên cổ' vì ông không gọi đó là ợ nóng; (3) dấu báo động; (4) tiền sử tim mạch, thuốc đang dùng và thuốc tự mua (kháng sinh); (5) rượu bia, giờ ăn; (6) hỏi lo nhất điều gì. Sau đó khám tim, phổi, bụng, hạch, họng, huyết áp tư thế; rồi ECG, hs-troponin, công thức máu, ure, creatinin, điện giải.",
+     "Vì sao khó: 'không điển hình' vì ông không có ợ nóng nên dễ bỏ qua trào ngược; tức ngực ở người 66 tuổi tăng huyết áp, từng hút thuốc phải loại trừ bệnh tim trước (ESC 2023 mục 3.1.1: đau thượng vị, đau ngực đều là triệu chứng tương đương). Lyon 2.0 (2024, Bảng 2) coi 'đau ngực thực quản' là triệu chứng điển hình thứ ba cùng ợ nóng và trào ngược; còn ACG 2022 (chẩn đoán KC 4) khuyên với đau ngực không ợ nóng sau khi đã loại trừ bệnh tim thì nên có đánh giá khách quan. Hai nguồn không loại trừ nhau trong ca này vì ông có cả trào ngược chua/đắng, nên thử PPI và hẹn nội soi cùng lúc.",
+     "Loại trừ nhồi máu: đau không liên quan gắng sức, lần đau gần nhất cách > 3 giờ, ECG bình thường, hs-TnT 4 ng/L dưới ngưỡng loại trừ 5 ng/L ở máy Elecsys (QĐ 2187/2019 Hình 3; ESC 2023 Hình 6). Đau ngực lại thì phải lấy troponin lần 2 (ESC 2023 mục 3.3.4.1).",
+     "Dấu báo động (nuốt nghẹn, nuốt đau, nôn kéo dài, sụt cân, xuất huyết tiêu hóa, thiếu máu) đều không có (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Vì vậy chưa cần nội soi cấp cứu. Vẫn nên nội soi theo hẹn vì ông có nhiều yếu tố nguy cơ Barrett: > 50 tuổi, trào ngược ban đêm, thừa cân, từng hút thuốc (VNAGE 2026 KC 3).",
+     "Hắng giọng và vướng cổ là triệu chứng ngoài thực quản; đứng một mình thì ít chắc chắn là do trào ngược (Lyon 2.0 Bảng 2) và nên đánh giá nguyên nhân khác (ACG 2022 ngoài thực quản KC 1; VNAGE 2026 KC 9). Ở ông có thêm trào chua/đắng và tức ngực điển hình, nên dùng PPI là phù hợp (VNAGE 2026 KC 16).",
+     "Không điển hình ở chỗ nào: bệnh nhân không kể ợ nóng, kể 'tức ngực', 'vướng cổ'; đã tự uống kháng sinh vì nghĩ viêm họng; bữa nhậu tối qua chỉ làm bệnh nặng lên (rượu, bữa mỡ, nằm sớm sau ăn: ACG 2022 Bảng 3; VNAGE 2026 KC 11, 12), không phải nguyên nhân duy nhất vì đã có triệu chứng hơn 3 tháng.",
+     "Nỗi lo thật là ung thư (người hàng xóm mất vì ung thư thực quản). Nếu chỉ chú ý yêu cầu truyền dịch, bác sĩ bỏ lỡ lý do khiến ông đến sớm và dễ nổi nóng khi bị từ chối."
+    ],
+    "phan_tich_xu_tri": [
+     "Thứ tự xử trí: ECG và troponin ngay; loại trừ tim; xác định không mất nước; giải thích; kê PPI và lối sống; hẹn nội soi; dặn dấu hiệu; hẹn tái khám.",
+     "PPI liều chuẩn 8 tuần (VNAGE 2026 KC 15: 4–8 tuần cho NERD; KC 13: 8 tuần cho viêm thực quản; ACG 2022 chẩn đoán KC 1). Trước bữa 30–60 phút, không uống lúc đi ngủ (ACG 2022 điều trị KC 8). QĐ 361/2014 từng ghi uống buổi tối trước khi ngủ cho bệnh nhân dùng NSAID; ACG 2022 mới hơn: đáp án theo ACG, uống buổi tối chấm a (xem mục mâu thuẫn trong sổ).",
+     "Lối sống: giảm cân và kê cao đầu giường (VNAGE 2026 KC 12); không ăn trong 2–3 giờ trước khi ngủ (ACG 2022 điều trị KC 2). Rượu bia: VNAGE 2026 KC 11 liệt kê bỏ rượu vào biện pháp chính; ACG 2022 Bảng 3 ghi 'không khuyến cáo chung' vì cơ chế chưa rõ. Chọn theo VNAGE 2026 vì mới hơn và bệnh nhân vừa khởi phát sau nhậu; cách nói giảm uống vừa phải chấm a.",
+     "Không truyền dịch: bệnh nhân uống được, huyết áp tư thế không tụt, ure, creatinin, điện giải bình thường. Truyền chai nước không tác động lên cơ chế trào ngược, còn có rủi ro viêm tĩnh mạch, nhiễm khuẩn, quá tải dịch ở người tăng huyết áp (nhận định của tác giả ca; tài liệu GERD không có chỉ định truyền dịch). Đáp án thật khéo ở chỗ có việc cụ thể làm thay (xem dặn dò).",
+     "Kháng sinh: ngưng. Không đau họng, không sốt, Centor < 3, không cần thử liên cầu hay dùng kháng sinh (ACP/CDC 2016 Lời khuyên giá trị cao 2).",
+     "Nội soi không khẩn, ngưng PPI 2 tuần trước nội soi nếu mục tiêu là xác định viêm thực quản (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2: LA B/C/D, Barrett mới đủ kết luận GERD; LA A không đủ, VNAGE 2026 KC 6). Nếu nội soi bình thường mà vẫn triệu chứng: đo pH 24 giờ ở tuyến chuyên khoa (VNAGE 2026 KC 5).",
+     "Không X-quang không làm mất việc gì: không cần chụp thực quản cản quang (ACG 2022 chẩn đoán KC 5). Điều thiếu là nội soi, nên viết giấy giới thiệu và hẹn.",
+     "Thuốc nền: amlodipin giữ nguyên; huyết áp 146/86 trong lúc lo lắng, đo lại khi tái khám. Mục tiêu huyết áp: không bàn ở ca này."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng",
+      "so_ngay": "8 tuần; đánh giá lại ở tuần 8",
+      "ghi_chu": "VNAGE 2026 KC 13, 15, 16; ACG 2022 chẩn đoán KC 1, điều trị KC 8; liều chuẩn VNAGE 2024 Bảng 4. Dặn: không uống lúc đi ngủ."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên/ngày như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Giữ nguyên, không đổi lượt này; đo lại huyết áp khi tái khám."
+     },
+     {
+      "thuoc": "Amoxicillin (toa cũ, tự uống)",
+      "ham_luong": "500 mg",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng nữa",
+      "so_ngay": "Ngưng ngay, bỏ phần còn lại",
+      "ghi_chu": "Không có viêm họng liên cầu xác nhận (ACP/CDC 2016 Lời khuyên giá trị cao 2). Không tự dùng lại thuốc kháng sinh còn dư."
+     }
+    ],
+    "dan_do": [
+     "Hôm nay không truyền nước vì chú uống được, tiểu bình thường, huyết áp không tụt, xét nghiệm máu không mất nước; chai nước không chữa chỗ gây ra tức ngực. Thay vào đó: uống nước lọc từng ngụm nhỏ, ăn cháo hoặc cơm mềm, đừng nằm ngay sau ăn.",
+     "Uống omeprazol 20 mg mỗi sáng 30–60 phút trước khi ăn sáng, đều trong 8 tuần dù đã đỡ sớm (ACG 2022 chẩn đoán KC 1, điều trị KC 8). Không tự mua thêm thuốc dạ dày khác.",
+     "Ngưng kháng sinh amoxicillin còn dư; không tự uống thuốc cũ trong hộp thuốc khi vướng cổ, đau họng (ACP/CDC 2016).",
+     "Ăn tối trước giờ ngủ ít nhất 2–3 giờ; kê cao đầu giường; ăn bữa nhỏ, bớt dầu mỡ; giảm cà phê, nước ngọt có ga; giảm cân dần; hạn chế rồi bỏ rượu bia (ACG 2022 điều trị KC 2, 5; VNAGE 2026 KC 12).",
+     "Cầm giấy giới thiệu đi nội soi ở bệnh viện tuyến trên (làm khi hết đợt 8 tuần; báo cho nơi nội soi biết chú đã dùng thuốc dạ dày, họ sẽ dặn ngưng thuốc trước 2 tuần). Nội soi sẽ cho câu trả lời chắc chắn về nỗi lo ung thư của chú; hiện không có dấu hiệu nào gợi ý ung thư (ACG 2022 chẩn đoán KC 6).",
+     "Gọi cấp cứu hoặc đến ngay cơ sở y tế nếu đau ngực kéo dài > 15 phút hoặc tái lại trong vòng 1 giờ, kèm vã mồ hôi, khó thở (ESC 2023 mục 3.1.1); hoặc nuốt nghẹn, nuốt đau, nôn ra máu, phân đen, sụt cân.",
+     "Tái khám sau 2 tuần, mang theo đơn và nhật ký triệu chứng; tuần 8 đánh giá lại bằng nội soi và quyết định ngưng hay dùng khi cần (ACG 2022 chẩn đoán KC 2, điều trị KC 9)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông bỏ ý định truyền nước sau khi nghe giải thích và được bác sĩ ghi lại các việc cần làm. Ông uống omeprazol đều, bỏ ăn khuya, kê cao đầu giường, giảm bia; sau 2 tuần tái khám ông hết tức ngực ban đêm, ít hắng giọng, huyết áp 132/80 mmHg. Sau khi hết 8 tuần và ngưng thuốc 2 tuần, ông nội soi ở bệnh viện tuyến trên: viêm thực quản trào ngược Los Angeles độ A, không loét, không Barrett, không tổn thương nghi ác tính. Theo Lyon 2.0, độ A chưa đủ khẳng định GERD một mình (nhưng triệu chứng đáp ứng PPI); bác sĩ tuyến trên cho tiếp tục lối sống và dùng PPI khi cần. Ông nhẹ nhõm vì không có ung thư và kể lại với người hàng xóm.",
+ "nhieu": [
+  "Đòi truyền dịch: nhắc lại khi bị từ chối. Dịu đi khi được hỏi nỗi lo, được giải thích bằng lời đơn giản và có việc cụ thể để làm. Câu thay thế gợi ý: 'Chú uống được nước, tiểu bình thường, huyết áp không tụt, nên chai nước không giúp gì thêm cho chỗ tức ngực của chú. Cái giúp là thuốc dạ dày đúng giờ và bỏ ăn khuya. Con sẽ hẹn nội soi cho chú xem tận mắt thực quản.'",
+  "Không có X-quang: không ảnh hưởng chẩn đoán GERD (ACG 2022 chẩn đoán KC 5: không dùng chụp thực quản cản quang chỉ để chẩn đoán). Điều thiếu thật sự là nội soi, được giải quyết bằng giấy giới thiệu và hẹn có mốc.",
+  "Thuốc đang dùng: kháng sinh theo toa cũ không giúp được gì và che bệnh thật. Bệnh nhân chỉ kể khi được hỏi trực tiếp về thuốc tự mua.",
+  "Động cơ ẩn: sợ ung thư vì người hàng xóm. Nếu không hỏi, ông chỉ nói 'tức ngực, xin truyền nước' và sẽ ra về vẫn lo."
+ ],
+ "bai_hoc_bien": [
+  "Tức ngực ở người > 60 tuổi có yếu tố nguy cơ tim mạch: ECG và hs-troponin trước, rồi mới nghĩ tới trào ngược, kể cả khi đau 'giống dạ dày' (ESC 2023 mục 3.1.1, 3.2, 3.3.4.1).",
+  "Hỏi 'ợ nóng' có thể nhận về 'không'. Hỏi 'có chua hoặc đắng trào lên cổ không' thì ra triệu chứng thật. Hắng giọng, vướng cổ đơn độc là triệu chứng ngoài thực quản, kém đặc hiệu (Lyon 2.0 Bảng 2).",
+  "Đòi truyền dịch: kiểm tra có mất nước thật không (uống được, huyết áp tư thế, ure, creatinin), rồi nghe nỗi lo, giải thích ngắn gọn, và đưa việc cụ thể làm thay.",
+  "Lo sợ ung thư là động cơ ẩn: hỏi 'chú lo nhất điều gì'. Trả lời bằng dấu báo động đã hỏi (không có) và hẹn nội soi.",
+  "Nội soi không khẩn nhưng nên có ở người nam > 50 tuổi có trào ngược ban đêm, thừa cân, từng hút thuốc (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3).",
+  "Kháng sinh toa cũ không điều trị trào ngược; không có viêm họng liên cầu thì không cần kháng sinh (ACP/CDC 2016)."
+ ],
+ "diem_nho": [
+  "Triệu chứng điển hình GERD theo Lyon 2.0: ợ nóng, đau ngực thực quản, trào ngược; hắng giọng, vướng cổ, khàn giọng đơn độc có khả năng liên quan thấp (Lyon 2.0 Bảng 2).",
+  "Lý do nội soi: dấu báo động (nuốt nghẹn, nuốt đau, nôn kéo dài, sụt cân, xuất huyết, thiếu máu), nhiều yếu tố nguy cơ Barrett, không đáp ứng PPI 8 tuần (ACG 2022 chẩn đoán KC 3, 6; VNAGE 2026 KC 3).",
+  "PPI liều chuẩn 8 tuần, 30–60 phút trước ăn, không uống lúc đi ngủ (ACG 2022 chẩn đoán KC 1, điều trị KC 8); sau khi hết triệu chứng cố ngưng hoặc dùng khi cần (ACG 2022 chẩn đoán KC 2, điều trị KC 9).",
+  "Viêm thực quản Los Angeles độ A không đủ chẩn đoán GERD; độ B/C/D, Barrett hay thời gian axit > 6% mới đủ (Lyon 2.0 Bảng 2; VNAGE 2026 KC 6).",
+  "Không dùng sucralfat, prokinetic, baclofen thường quy cho GERD (ACG 2022 điều trị KC 13–15).",
+  "Truyền dịch chỉ khi nôn nhiều, không uống được, có dấu mất nước (QĐ 2760/2023 B2 mục 1.2, 1.4: nguyên tắc chung, tài liệu GERD không có)."
+ ],
+ "nguon": [
+  "VNAGE 2026 – hướng dẫn GERD – TL-0177 – KC 1–6, 9, 11–16",
+  "Lyon Consensus 2.0 2024 – TL-0206 – Bảng 2 (Statements)",
+  "ACG 2022 GERD – TL-0212 – phần chẩn đoán KC 1–6; phần điều trị KC 1–5, 8, 9, 13–15; phần ngoài thực quản KC 1–4; Bảng 3 (lối sống)",
+  "VNAGE 2024 khó tiêu chức năng – TL-0178 – KC 4, Bảng 4 (liều PPI chuẩn)",
+  "VNAGE 2023 H. pylori – TL-0179 – Statement 3",
+  "ESC 2023 hội chứng vành cấp – TL-0069 – mục 3.1.1, 3.2, 3.3.1, 3.3.4.1, Hình 6; BYT QĐ 2187/2019 – TL-0033 – Hình 3",
+  "ACP/CDC 2016 – kháng sinh trong nhiễm trùng hô hấp cấp ở người lớn – TL-0156 – Lời khuyên giá trị cao 2",
+  "BYT QĐ 2760/2023 sốt xuất huyết Dengue – TL-0029 – B2 mục 1.2, 1.4 (nguyên tắc bù dịch đường uống trước, truyền khi nôn nhiều/không uống được; dùng làm nguyên tắc chung)",
+  "Không có trong tài liệu đã tải: chỉ định truyền dịch trong GERD, liều alginat, thời hạn hẹn nội soi, mốc tái khám 2 tuần, mục tiêu giảm cân cụ thể."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-12 (viết: Sonnet): ca 1 lượt, GERD không điển hình ở nam 66 tuổi, nội trợ; tăng huyết áp, thừa cân; khởi phát sau rượu bia; thuốc đang dùng: amoxicillin theo toa cũ (tự uống ngày thứ 3); lý do thật: sợ ung thư (hàng xóm mất vì ung thư thực quản); nhiễu: đòi truyền dịch; ràng buộc: không X-quang (và nội soi, theo quy tắc app).",
+  "Loại trừ bắt buộc: bệnh mạch vành (ECG, hs-TnT, đặc điểm đau) và loét thực quản (không dấu báo động, hẹn nội soi). Có thêm: ung thư, viêm họng, mất nước.",
+  "Tài liệu đã đọc: TL-0177 (KC 1–20), TL-0206 (Bảng 2), TL-0212 (KC 1–16 chẩn đoán, điều trị, ngoài thực quản KC 1–4, Bảng 3), TL-0178 (Bảng 4), TL-0179, TL-0069 (mục 3.1.1, 3.2, 3.3.4.1), TL-0033 (Hình 3), TL-0156, TL-0158, TL-0029 (B2).",
+  "Chỗ thiếu tài liệu: chỉ định truyền dịch ở GERD, liều alginat, thời hạn nội soi theo hẹn, mốc tái khám 2 tuần, mục tiêu giảm cân; ngưỡng hs-TnT Elecsys 5 ng/L lấy từ QĐ 2187/2019 Hình 3 (bản chữ OCR xấu, bảng thấy Elecsys 5 và 12).",
+  "Mâu thuẫn: (1) rượu bia, VNAGE 2026 KC 11 so với ACG 2022 Bảng 3; (2) đau ngực là triệu chứng điển hình hay không, Lyon 2.0 so với Montreal/ACG; (3) thời điểm uống PPI: theo mục đã có trong sổ (TH-0295). Xem TH-0364_mau_thuan.md."
+ ]
+}
