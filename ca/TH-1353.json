@@ -1,0 +1,854 @@
+{
+ "ma_ca": "TH-1353",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_viem_gan_e_cap",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Viêm gan E cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm gan A cấp",
+   "Tắc mật"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Thợ sơn",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Loan",
+  "tuoi": 52,
+  "gioi": "Nữ",
+  "nghe": "Thợ sơn (sơn tường công trình, 19 năm)",
+  "can_nang": 47.5,
+  "chieu_cao": 154,
+  "xung_ho": "Chị tự xưng 'em', gọi bác sĩ là 'bác sĩ'; gọi chồng là 'ông xã nhà em'.",
+  "tinh_cach": "Gầy, nhanh nhẹn, nói gọn, hay nhìn đồng hồ. Trả lời đúng câu hỏi nhưng luôn nói nhẹ đi để được ký giấy; chỉ nói thật khi bác sĩ hỏi cụ thể hoặc hỏi thẳng chị đang vội việc gì. Sợ bệnh nặng vì chú ruột từng 'vàng da rồi mất'.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: từ ngày 26/07 tự mua thuốc cảm có paracetamol và một ít thuốc nam 'bổ gan', coi là chuyện nhỏ nên lúc đầu chỉ nói 'có uống thuốc cảm'. Phải hỏi đúng tên thuốc, số viên mỗi ngày, mấy ngày mới biết.",
+  "nguoi_nha": "Chồng, ông Phạm Văn Hùng, 55 tuổi, chạy xe ôm; chỉ đi cùng ở lượt 2. Hiền, lo lắng, nói thật mọi điều chị đã giấu: nôn nhiều, ngủ ngày thức đêm, nói lẫn, vỏ hộp thuốc. Ông biết chị đang uống thuốc 'loãng máu' nhưng không rành tên thuốc.",
+  "ten_nguoi_nha": "Ông Hùng (chồng)",
+  "ngoai_hinh": {
+   "da": "#c99a76",
+   "toc": "#2b2420",
+   "kieuToc": "bui",
+   "ao": "#8a8f98",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#b98a66",
+    "toc": "#3a342f",
+    "kieuToc": "ngan",
+    "ao": "#5f7a8a",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt, mắt vàng vàng mấy hôm; xin bác sĩ ký giấy khám sức khỏe để vào công trình mới",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Trung tâm Y tế huyện không có máy CT. Xét nghiệm máu, siêu âm bụng làm tại chỗ (trả kết quả 2–3 giờ); huyết thanh viêm gan gửi Bệnh viện đa khoa tỉnh, trả sau 2–3 ngày."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày bệnh thứ 8",
+   "tiep_don": "Chị Lê Thị Loan, 52 tuổi, thợ sơn, tự đi vào, đặt lên bàn một vỉ thuốc và tờ 'giấy khám sức khỏe' còn trống. Đến vì mệt, mắt vàng vàng mấy hôm và muốn bác sĩ ký giấy. Tiền sử đang uống thuốc chống đông theo toa tuyến tỉnh. Sinh hiệu: mạch 88 l/p, HA 112/70 mmHg, nhiệt 37,0 °C, nhịp thở 17 l/p, SpO₂ 98%. Cân nặng 47,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Giữ chị Loan nằm viện huyện ngay hôm nay là quá tay: chị tỉnh, huyết động ổn, chưa có dấu hiệu rối loạn đông máu rõ hay bệnh não gan. Ở người miễn dịch bình thường, không bệnh gan mạn, viêm gan E thường chỉ cần theo dõi men gan, bilirubin, INR (EASL 2018, mục Clinical aspects: acute infection) và diễn biến thường tự khỏi (QĐ 5450/2014, mục II.4.1). Nằm viện làm chị mất suất công trình, rất có thể tự ý bỏ về và không còn ai theo dõi sát như hẹn tái khám 2–3 ngày.",
+    "chuyen_tuyen": "Chuyển chị Loan lên tuyến tỉnh ngay hôm nay là quá tay vì chưa có chỉ định chuyển gấp: tài liệu chỉ yêu cầu chuyển ngay khi viêm gan cấp có PT kéo dài và/hoặc bệnh não (ACG 2017, khuyến cáo 19), mà chị còn tỉnh táo và INR chỉ 1,24 trong khi đang dùng thuốc chống đông. Chị tốn tiền đi lại, nghỉ việc, trong khi huyện làm được xét nghiệm và theo dõi. Chuyển tuyến không hẹn lại tại huyện còn khiến hồ sơ thuốc chống đông và thuốc tự mua không được ghi nhận."
+   },
+   "loi_mo": "Bác sĩ ơi, mấy hôm nay em mệt, mắt hơi vàng vàng. Bác sĩ khám rồi ký cho em cái giấy này với, em đang cần gấp.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "112/70",
+    "nhiet": "37,0",
+    "nhip_tho": 17,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mệt, mắt vàng vàng mấy hôm. Xin bác sĩ ký giấy khám sức khỏe vì sắp vào công trình mới.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Ngày 1 (24/07) sốt nhẹ, đau mỏi người, nhức đầu, chán ăn. Ngày 5 hết sốt. Ngày 6 nước tiểu sẫm như nước vối đặc. Ngày 7 thấy mắt vàng. Sụt khoảng 3,5 kg (từ 51 kg). Phân vẫn vàng nâu, hơi nhạt. Không ngứa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến: sốt, chán ăn rồi vàng mắt, nước tiểu sẫm"
+    },
+    {
+     "id": "non_an",
+     "noi_dung": "Nôn 2–3 lần mỗi ngày từ ngày 27/07, chỉ ăn được cháo loãng, uống nước ít.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có buồn nôn không' thì nói 'thỉnh thoảng thôi'. Chỉ nói số lần nôn mỗi ngày và chuyện ăn uống khi bác sĩ hỏi cụ thể có nôn mấy lần, hôm qua ăn gì uống gì.",
+     "y": "Nôn, ăn uống kém (mất dịch)"
+    },
+    {
+     "id": "khong_dau",
+     "noi_dung": "Không đau quặn hạ sườn phải, không rét run, không sốt từ ngày 5, không ngứa. Chỉ tức nhẹ âm ỉ dưới sườn phải.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có bộ ba đau – sốt rét run – vàng da (không gợi viêm đường mật)"
+    },
+    {
+     "id": "thuoc_cam",
+     "noi_dung": "Từ ngày 26/07 (cách đây 5 ngày) tự mua thuốc cảm ở tiệm thuốc, có paracetamol 500 mg, uống 4 viên mỗi ngày (khoảng 2 g/ngày), tổng khoảng 10 g. Ngày nào cũng nhịn ăn nhiều. Thêm gói thuốc nam 'bổ gan' không nhãn, uống 2 ngày.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chỉ kể thuốc chống đông và nói 'có uống thuốc cảm'. Chỉ khai tên, số viên mỗi ngày, số ngày, thuốc nam khi bác sĩ hỏi cụ thể thuốc cảm/giảm đau/thuốc nam, hoặc yêu cầu xem vỉ thuốc chị mang theo.",
+     "y": "Tự dùng paracetamol và thuốc nam trước 5 ngày",
+     "nhieu": 1
+    },
+    {
+     "id": "khang_dong",
+     "noi_dung": "Gãy xương mác chân phải do té giàn giáo (08/03), bó bột 6 tuần. Ngày 12/04 siêu âm Doppler thấy huyết khối tĩnh mạch sâu đùi – khoeo chân phải, uống acenocoumarol 4 mg; chỉ đo INR 3 lần trong 9 tuần (1,4 – 3,8 – 1,7) vì đi làm xa. Ngày 18/06 bác sĩ tuyến tỉnh đổi sang rivaroxaban 20 mg × 1 lần/ngày sau bữa tối, dự kiến đủ 6 tháng. Chị uống đều; viên cuối lúc 20 giờ tối qua (30/07). Không chảy máu bất thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Khai khi bác sĩ hỏi thuốc chống đông, thuốc 'loãng máu', bệnh tĩnh mạch chân. Giờ liều cuối chỉ nói khi hỏi 'viên cuối uống lúc mấy giờ'.",
+     "y": "Thuốc chống đông đang dùng và giờ liều cuối (đọc INR); đổi thuốc 36 ngày trước khởi bệnh",
+     "nhieu": 1
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ngày 22/06 tổ sơn xong công trình ở một trại lợn xã bên, chủ trại mời tiệc: chị ăn tiết canh và lòng lợn luộc còn hơi hồng, uống nước giếng khoan không đun. Sáu người ăn; anh Tư cùng tổ cũng mệt, chán ăn mấy hôm nay nhưng chưa đi khám.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi 'ăn gì lạ không' thì nói 'không có gì lạ'. Chỉ kể bữa tiệc ở trại lợn khi bác sĩ hỏi cụ thể mấy tuần trước tổ làm công trình ở đâu, có ăn tiết canh, lòng lợn, thịt chưa chín, uống nước giếng không, ai cùng ăn có bị không.",
+     "y": "Phơi nhiễm đường tiêu hóa: thịt lợn chưa chín, nước giếng, ủ bệnh khoảng 32 ngày"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng vàng da, không biết viêm gan B hay C, không tiêm ngừa viêm gan. Không uống rượu bia (chồng thỉnh thoảng uống). Không truyền máu, không xăm. Không ăn hải sản sống, không đi ra khỏi tỉnh gần đây. Không bệnh tim, đái tháo đường, bệnh gan mật; không thuốc nào khác ngoài rivaroxaban.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử, yếu tố nguy cơ viêm gan A, B, C, rượu"
+    },
+    {
+     "id": "son",
+     "noi_dung": "Làm thợ sơn 19 năm, đeo khẩu trang vải, pha sơn dầu và dung môi hằng ngày; không có sự cố ngạt hơi hay đổ hóa chất gần đây. Tuần này chưa đi làm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Phơi nhiễm dung môi nghề nghiệp (nhiễu)",
+     "nhieu": 1
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ngày 04/08 tổ khởi công sơn trường tiểu học, 21 ngày công; chủ đầu tư bắt mỗi thợ nộp giấy khám sức khỏe trước 03/08 vì làm việc trên cao. Không có giấy thì tổ trưởng gọi người khác thay, chị mất khoảng 8 triệu và suất trong tổ. Chị còn sợ vì chú ruột 'cũng vàng da như vậy rồi mất'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chị nhìn đồng hồ nhiều lần. Chỉ nói thật khi bác sĩ hỏi thẳng chị đang vội việc gì, hoặc nói rõ sẽ không ký bừa nhưng sẽ giúp tìm cách. Lúc đầu chỉ nói 'em cần gấp cái giấy'.",
+     "y": "Lý do thật sự: xin giấy chứng nhận sức khỏe (và nỗi sợ ngầm)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, định hướng đúng, trả lời nhanh. Vàng củng mạc rõ, vàng da mặt cổ nhẹ. Môi khô, mắt hơi trũng, nếp véo da mu tay xóa chậm. Không sao mạch, lòng bàn tay không đỏ son, không nốt xuất huyết, không bầm tím tự nhiên, không phù.",
+     "k": 1,
+     "hien": "Chị gầy, tỉnh táo, nói trọn câu; mắt vàng nhìn rõ dưới ánh sáng cửa sổ."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Gan to 2 cm dưới bờ sườn phải, mềm, ấn đau nhẹ. Murphy âm tính. Không cổ trướng, lách không sờ thấy. Không tuần hoàn bàng hệ.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tri giác bình thường, định hướng đủ, nhắc lại ba từ sau một phút. Duỗi hai tay không thấy run vỗ (asterixis âm tính).",
+     "k": 1
+    },
+    "nuoc_tieu_mau": {
+     "a": "Nước tiểu mẫu sẫm màu nâu như nước vối đặc, bọt vàng.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Cẳng chân phải sẫm màu hơn trái, chu vi bắp chân phải 33,5 cm, trái 32,0 cm. Không nóng, không đỏ, không đau khi ấn.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, không loét miệng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "r": "AST 1.842 · ALT 2.216 U/L (tham chiếu < 35)",
+     "ab": 1,
+     "n": "Men gan tăng > 15 lần giới hạn trên: theo ACG 2017 khuyến cáo 17–18 phải tìm viêm gan A, B, C cấp và xét thêm độc tính paracetamol, thiếu máu gan. ALT > AST: gặp trong viêm gan virus cấp."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "Bilirubin toàn phần 96 µmol/L (trực tiếp 71) · ALP 168 U/L · GGT 212 U/L · Albumin 38 g/L · PT 68% · INR 1,24 · aPTT 34 giây",
+     "ab": 1,
+     "n": "R = (2.216/35) ÷ (168/105) ≈ 39,6 > 5: tổn thương tế bào gan (ACG 2017, mục khám: R ratio). Mẫu lấy 13 giờ 45 phút sau liều rivaroxaban cuối: thuốc có thể kéo dài PT/INR (QĐ 1832/2022 mục 6.4 nêu PT, aPTT là xét nghiệm dùng với thuốc kháng Xa), nên INR 1,24 chưa kết luận được là do gan. Albumin còn bình thường."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 4,8 G/L · Lym 42% · Hb 121 g/L · TC 168 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 4.8,
+      "neu_pct": 48.0,
+      "neu": 2.3,
+      "lym_pct": 42.0,
+      "lym": 2.0,
+      "mono_pct": 8.0,
+      "mono": 0.38,
+      "eos_pct": 1.0,
+      "eos": 0.05,
+      "baso_pct": 1.0,
+      "baso": 0.05,
+      "rbc": 4.12,
+      "hgb": 121,
+      "hct": 0.364,
+      "mcv": 88,
+      "mch": 29.4,
+      "mchc": 332,
+      "rdw": 13.4,
+      "plt": 168
+     },
+     "n": "Bạch cầu không tăng, tiểu cầu bình thường: không gợi nhiễm khuẩn hay bệnh gan mạn có tăng áp cửa. Mốc nền để so sánh khi tái khám."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,2 mmol/L · creatinin 68 µmol/L · eGFR 93",
+     "bang": {
+      "ure": 4.2,
+      "creat": 68,
+      "egfr": 93
+     }
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 136 · K 3,8 · Cl 100 mmol/L",
+     "bang": {
+      "na": 136,
+      "k": 3.8,
+      "cl": 100
+     }
+    },
+    "glu_mm": {
+     "v": "e",
+     "r": "4,6 mmol/L",
+     "n": "Làm ngay tại giường ở người nôn, ăn kém, men gan rất cao: mốc nền để so với lần sau."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Bilirubin +++, urobilinogen +, không hồng cầu",
+     "bang": {
+      "u_sg": 1.022,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "+++",
+      "u_ubg": "+",
+      "u_ery": "Âm tính"
+     }
+    },
+    "virus_mau": {
+     "v": "e",
+     "r": "HBsAg âm tính · anti-HCV âm tính · HIV âm tính",
+     "n": "Bước đầu của viêm gan cấp: B, C (ACG 2017 khuyến cáo 17; EASL 2018: mọi bệnh nhân viêm gan đều phải thử HEV)."
+    },
+    "huyet_thanh_hav_hev": {
+     "v": "e",
+     "r": "Đã lấy mẫu gửi Bệnh viện đa khoa tỉnh (IgM anti-HAV, IgM anti-HEV, IgM anti-HBc). Kết quả trả sau 2–3 ngày, sẽ có ở lượt tái khám.",
+     "n": "Xác định chẩn đoán: IgM anti-HEV (+) (QĐ 5450/2014 mục II.3). EASL 2018 (A1): mọi người viêm gan cần thử HEV ngay từ đầu, không đợi HAV, HBV, HCV âm; ACG 2017 khuyến cáo 4 xếp thử HEV khi HAV, HBV, HCV âm. IgM anti-HAV vì ACG 2017 khuyến cáo 4 (viêm gan cấp có thể phơi nhiễm đường phân – miệng)."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Gan to nhẹ (gan phải 15,2 cm), nhu mô giảm âm không đồng nhất, thành khoảng cửa tăng âm. Túi mật có hai sỏi 6 mm và 8 mm di động, thành 3,2 mm, không dịch quanh túi mật, dấu Murphy siêu âm âm tính. Ống mật chủ 4,1 mm, đường mật trong gan không giãn. Tĩnh mạch cửa 10 mm, lách 9,8 cm, không dịch ổ bụng. Vùng đầu tụy khảo sát hạn chế do hơi ruột.",
+     "ab": 1,
+     "n": "Sỏi túi mật là phát hiện nhiễu: ống mật chủ không giãn, R ≈ 39,6 và không có bộ ba Charcot không ủng hộ tắc mật (QĐ 5450/2014 mục II.5 nêu sỏi đường mật, u đầu tụy, u đường mật là chẩn đoán phân biệt). Đầu tụy khảo sát hạn chế: ghi nhận, theo dõi."
+    },
+    "ct_bung": {
+     "n": "Không có CT ở cơ sở và không cần: chẩn đoán phân biệt tắc mật đã trả lời được bằng R, siêu âm và diễn tiến lâm sàng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm gan virus cấp thể tế bào gan, nghi viêm gan E (ăn tiết canh, lòng lợn, nước giếng không đun, ủ bệnh khoảng 32 ngày); có thêm yếu tố tự dùng paracetamol và đang dùng rivaroxaban; chờ IgM anti-HEV",
+     "ok": 1,
+     "n": "Sốt – chán ăn – nước tiểu sẫm – vàng mắt, ALT 2.216, R ≈ 39,6, ống mật chủ không giãn (QĐ 5450/2014 mục II.1, II.3). Ủ bệnh HEV khoảng 15–60 ngày (EASL 2018, mục Laboratory diagnosis); thịt lợn chưa nấu chín là yếu tố nguy cơ (EASL 2018, mục Prevention of HEV infection) và QĐ 5450 mục II.3 nêu thực phẩm, nguồn nước ô nhiễm là tiếp xúc dịch tễ."
+    },
+    {
+     "t": "Viêm gan A cấp",
+     "n": "Cũng gây viêm gan tế bào gan cấp lây đường tiêu hóa; cần IgM anti-HAV (ACG 2017 khuyến cáo 4, 17). Không có tiếp xúc hải sản sống, trẻ nhỏ; bệnh sử ăn thịt lợn chưa chín nghiêng về HEV. Chờ huyết thanh để loại trừ."
+    },
+    {
+     "t": "Tắc mật (sỏi ống mật chủ, u đầu tụy, u đường mật)",
+     "n": "R ≈ 39,6 (> 5 là kiểu tế bào gan, ACG 2017); ống mật chủ 4,1 mm; không đau quặn, không rét run, không sốt; ALP chỉ 1,6 lần giới hạn trên. Hai viên sỏi túi mật là phát hiện tình cờ. Đầu tụy chưa khảo sát hết: theo dõi diễn tiến, không cần CT lúc này."
+    },
+    {
+     "t": "Tổn thương gan do thuốc (paracetamol, rivaroxaban, thuốc nam)",
+     "n": "Là chẩn đoán phân biệt cần nghĩ tới; EASL 2018 (mục Differential diagnosis, tr. 1263) nêu 13% ca 'DILI' trong một nhóm Anh hóa ra là viêm gan E nên mọi nghi DILI đều phải thử HEV (A1). Liều paracetamol khoảng 2 g/ngày, dưới ngưỡng 150 mg/kg (khoảng 7,1 g ở chị) của QĐ 3610/2015 mục 3, nhưng chị nhịn ăn nên không loại hẳn. Rivaroxaban bắt đầu 36 ngày trước khởi bệnh. Xử lý: ngưng paracetamol, thuốc nam; chờ IgM anti-HEV."
+    },
+    {
+     "t": "Viêm gan B, C cấp",
+     "n": "HBsAg, anti-HCV âm tính; IgM anti-HBc gửi cùng mẫu."
+    },
+    {
+     "t": "Nhiễm độc dung môi nghề nghiệp, xoắn khuẩn vàng da",
+     "n": "Không có sự cố tiếp xúc cấp, nước tiểu không hồng cầu, không sốt, không đau bắp chân; QĐ 5450/2014 mục II.5 nêu leptospirosis, sốt rét trong chẩn đoán phân biệt vàng da."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú, có người nhà ở cùng, hẹn tái khám lâm sàng và xét nghiệm lại men gan, bilirubin, INR, đường huyết sau 48–72 giờ (hoặc ngay nếu nôn nhiều không uống được, ngủ lịm, lú lẫn, chảy máu)",
+     "v": "c",
+     "n": "Người miễn dịch bình thường: theo dõi men gan và chức năng gan là đủ, bệnh nhân viêm gan E đã xác nhận cần theo dõi ALT, AST, bilirubin, INR (EASL 2018, mục Clinical aspects: acute infection); diễn biến thường tự khỏi (QĐ 5450/2014 mục II.4.1). Chưa có PT kéo dài rõ hay bệnh não để chuyển ngay (ACG 2017 khuyến cáo 19). Khoảng cách 48–72 giờ không có trong tài liệu đã tải: là nhận xét của người soạn, vì chị đang dùng chống đông và mất dịch."
+    },
+    {
+     "t": "Ngưng ngay thuốc cảm chứa paracetamol và thuốc nam, không rượu bia, hạn chế mọi thuốc gây độc gan",
+     "v": "c",
+     "n": "QĐ 5450/2014 mục III.2.1; ACG 2017 khuyến cáo 11 (hỏi về thuốc kê đơn, không kê đơn, thuốc nam, thực phẩm chức năng)."
+    },
+    {
+     "t": "Nghỉ ngơi, ăn giàu đạm, vitamin, giảm mỡ động vật, tăng hoa quả; uống đủ nước, chia nhỏ bữa vì còn nôn",
+     "v": "c",
+     "n": "QĐ 5450/2014 mục III.2.1. Lượng nước cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lấy mẫu huyết thanh gửi tuyến tỉnh: IgM anti-HEV, IgM anti-HAV, IgM anti-HBc",
+     "v": "c",
+     "n": "QĐ 5450/2014 mục II.3; EASL 2018 (A1) thử HEV ở mọi bệnh nhân viêm gan; ACG 2017 khuyến cáo 4."
+    },
+    {
+     "t": "Giữ rivaroxaban theo toa tuyến tỉnh, theo dõi chảy máu và đo lại PT/INR sau 48–72 giờ; hỏi giờ liều cuối khi đọc INR; ngưng và hỏi ý kiến tuyến trên ngay nếu có rối loạn đông máu hoặc chảy máu",
+     "v": "c",
+     "n": "Tài liệu đã tải không có khuyến cáo về chống đông trong viêm gan cấp. Nguồn bổ sung tự tìm: tờ thông tin sản phẩm Xarelto (SmPC, emc, mục 4.3) chống chỉ định khi 'bệnh gan kèm rối loạn đông máu và nguy cơ chảy máu có ý nghĩa lâm sàng' (https://www.medicines.org.uk/emc/product/2793/smpc). Lúc này chưa có bằng chứng rối loạn đông máu do gan. QĐ 1832/2022 mục 6.4: PT, aPTT dùng để theo dõi thuốc kháng Xa."
+    },
+    {
+     "t": "Tạm ngưng rivaroxaban ngay lượt này và hội ý bác sĩ điều trị",
+     "v": "a",
+     "n": "Chấp nhận được vì tổn thương gan nặng làm tăng nguy cơ chảy máu; nhưng chưa có bằng chứng rối loạn đông máu nên giữ thuốc có theo dõi vẫn là đáp án chính. Tài liệu đã tải không có khuyến cáo trực tiếp."
+    },
+    {
+     "t": "Cân nhắc truyền N-acetylcystein vì có tiền sử paracetamol và tổn thương gan",
+     "v": "a",
+     "n": "QĐ 3610/2015 mục 4.3 nêu chỉ định NAC khi có tiền sử uống acetaminophen và tổn thương gan ở bất kỳ mức độ nào; mục 4.3.2 (ngộ độc mạn) truyền NAC ngay rồi định lượng paracetamol máu và ALT. Truyền NAC tĩnh mạch kéo dài khoảng 20 giờ phải nhập viện, cơ sở không có xét nghiệm paracetamol máu; liều khai ≤ 2 g/ngày, chị tỉnh táo: không nhập viện ngay vẫn chấp nhận được và thuộc nhận xét của người soạn."
+    },
+    {
+     "t": "Thuốc hỗ trợ gan (nhóm BDD, glutathione, lợi mật)",
+     "v": "a",
+     "n": "QĐ 5450/2014 mục III.2.2 liệt kê các nhóm này; không có liều và không bắt buộc."
+    },
+    {
+     "t": "Ký giấy chứng nhận đủ sức khỏe để chị vào làm công trình trên cao",
+     "v": "h",
+     "n": "Nhận xét lâm sàng của người soạn: vàng da, ALT > 2.000, đang mất dịch, còn đang theo dõi diễn tiến. Không có trong tài liệu đã tải. Từ chối ký nhưng nói rõ chị cần nghỉ việc và xin giấy xác nhận bệnh để chủ thầu hiểu."
+    },
+    {
+     "t": "Kháng sinh",
+     "v": "w",
+     "n": "Viêm gan virus không có điều trị đặc hiệu (QĐ 5450/2014 mục III.1); không sốt, bạch cầu không tăng."
+    },
+    {
+     "t": "Ribavirin",
+     "v": "w",
+     "n": "Viêm gan E cấp thường không cần kháng virus; chỉ cân nhắc ở thể nặng (EASL 2018, mục Treatment of acute hepatitis E, khuyến cáo C2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm gan virus cấp, kiểu tổn thương tế bào gan (R ≈ 39,6), nghi viêm gan E; chờ IgM anti-HEV",
+     "Đã loại tắc mật cơ giới ở mức hiện có: ống mật chủ 4,1 mm, không rét run, không sốt; hai sỏi túi mật tình cờ; đầu tụy khảo sát hạn chế",
+     "Yếu tố cộng hưởng: tự dùng paracetamol 5 ngày (khoảng 2 g/ngày) khi nhịn ăn, thuốc nam; đang dùng rivaroxaban 20 mg/ngày vì huyết khối tĩnh mạch sâu chân phải",
+     "Mất dịch mức nhẹ – vừa do nôn, ăn kém, sụt 3,5 kg; chưa có hạ đường huyết, rối loạn đông máu rõ hay bệnh não",
+     "Lý do thật đến khám: xin giấy chứng nhận sức khỏe để nhận công trình"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: đúng chuỗi sốt, đau mỏi, chán ăn, rồi nước tiểu sẫm và vàng mắt (QĐ 5450/2014 mục II.1). Khai thác dịch tễ cụ thể phải hỏi đúng chỗ: tiết canh, lòng lợn chưa chín, nước giếng không đun cách 32 ngày; ủ bệnh HEV khoảng 15–60 ngày (EASL 2018, mục Laboratory diagnosis). Phải hỏi thẳng thuốc cảm, số viên, số ngày, thuốc nam và giờ liều rivaroxaban cuối.",
+     "Khám: vàng củng mạc, gan to nhẹ mềm, Murphy âm, không asterixis, không dấu bệnh gan mạn (sao mạch, lòng bàn tay son, cổ trướng), mất dịch nhẹ – vừa.",
+     "CLS: AST, ALT > 1.800 U/L; R ≈ 39,6 (> 5 là tế bào gan, ACG 2017); bilirubin chủ yếu trực tiếp. Men gan > 15 lần giới hạn trên: ACG 2017 khuyến cáo 17–18 yêu cầu tìm viêm gan A, B, C và độc tính paracetamol. INR 1,24 đo 13 giờ 45 phút sau rivaroxaban không đọc được thuần túy là INR do gan: là mốc nền và thuốc có thể làm kéo dài PT (QĐ 1832/2022 mục 6.4); albumin 38 g/L bình thường.",
+     "Siêu âm: ống mật chủ không giãn, hai sỏi túi mật di động không viêm: phát hiện nhiễu. Tắc mật bị loại bởi R, ống mật chủ và lâm sàng chứ không cần CT; hạn chế ở đầu tụy được ghi nhận (QĐ 5450/2014 mục II.5 liệt kê sỏi đường mật, u đầu tụy, u đường mật).",
+     "Viêm gan E: chẩn đoán xác định cần IgM anti-HEV (+) (QĐ 5450/2014 mục II.3); EASL 2018 (A1) thử HEV ở mọi người viêm gan, kể cả khi nghi tổn thương gan do thuốc."
+    ],
+    "phan_tich_xu_tri": [
+     "Viêm gan E cấp không có điều trị đặc hiệu (QĐ 5450/2014 mục III.1); điều trị hỗ trợ: nghỉ ngơi, ăn giàu đạm, ít mỡ, không rượu bia, tránh thuốc độc gan (mục III.2.1).",
+     "Ngoại trú vì chị tỉnh, huyết động ổn, không asterixis, đường huyết 4,6 mmol/L, albumin bình thường. Hẹn xét nghiệm lại 48–72 giờ để tìm xu hướng; theo dõi ALT, AST, bilirubin, INR (EASL 2018). Khoảng 48–72 giờ là nhận xét, không có trong tài liệu đã tải. Chuyển ngay chỉ khi PT kéo dài và/hoặc bệnh não (ACG 2017 khuyến cáo 19).",
+     "Rivaroxaban: tờ thông tin sản phẩm chống chỉ định khi bệnh gan kèm rối loạn đông máu và nguy cơ chảy máu có ý nghĩa lâm sàng (SmPC Xarelto mục 4.3, nguồn bổ sung tự tìm): lượt này chưa có, nhưng đây là điều phải theo dõi. Tài liệu đã tải không có khuyến cáo chống đông trong viêm gan cấp.",
+     "NAC: QĐ 3610/2015 mục 4.3 có chỉ định khi tiền sử paracetamol kèm tổn thương gan; không bắt buộc ở lượt này vì liều khai thấp, chị tỉnh táo và truyền NAC phải nhập viện; ghi rõ để cân nhắc lại nếu chị xấu đi.",
+     "Những việc sai: ký giấy; kê kháng sinh; ribavirin; tự ngưng chống đông không hỏi ý bác sĩ điều trị rồi mất theo dõi huyết khối. Phải trả lời cả hai thứ chị nói: tiền (8 triệu) và nỗi sợ (chú ruột)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Rivaroxaban (thuốc đang dùng)",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày, giữ theo toa tuyến tỉnh",
+      "duong": "Uống",
+      "thoi_diem": "Sau bữa tối",
+      "so_ngay": "Giữ đến lần tái khám 48–72 giờ; ngưng và báo ngay nếu chảy máu hoặc có rối loạn đông máu",
+      "ghi_chu": "SmPC Xarelto mục 4.3 (nguồn bổ sung tự tìm). Thời gian dùng đủ bao lâu do bác sĩ tuyến tỉnh quyết; không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Oresol",
+      "ham_luong": "gói pha",
+      "lieu": "Pha theo hướng dẫn trên gói, uống từng ngụm nhỏ nhiều lần",
+      "duong": "Uống",
+      "thoi_diem": "Giữa các bữa",
+      "so_ngay": "Đến khi tái khám",
+      "ghi_chu": "Mất dịch do nôn, ăn kém. Lượng cụ thể cho viêm gan không có trong tài liệu đã tải; QĐ 5450/2014 mục III.2.1 chỉ nêu chế độ ăn."
+     },
+     {
+      "thuoc": "Không kê paracetamol, thuốc cảm, thuốc nam",
+      "ham_luong": "—",
+      "lieu": "Ngưng hoàn toàn",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "Đến khi men gan về bình thường",
+      "ghi_chu": "QĐ 5450/2014 mục III.2.1; ACG 2017 khuyến cáo 11."
+     }
+    ],
+    "dan_do": [
+     "Nói thẳng: 'Chị đang bị viêm gan, em chưa ký giấy khám sức khỏe được. Em sẽ viết giấy xác nhận chị đang điều trị để chủ thầu hiểu, không phải là chị bị loại.'",
+     "Giải thích chú ruột: phần lớn người bị viêm gan E tự khỏi, nhưng có thể nặng lên nhanh ở một số người nên chị phải quay lại đúng hẹn (QĐ 5450/2014 mục I.4).",
+     "Quay lại sau 2–3 ngày, hoặc đi ngay nếu nôn không giữ được nước, ngủ nhiều hoặc nói lẫn, vàng da tăng nhanh, chảy máu chân răng hay bầm tím, tiêu phân đen.",
+     "Ở nhà có chồng; nghỉ làm; ăn chín uống sôi; rửa tay xà phòng trước khi ăn (QĐ 5450/2014 mục IV.2); không rượu bia; không tự mua thuốc.",
+     "Báo anh Tư cùng tổ, người cũng mệt và chán ăn, đi khám."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày (ngày bệnh thứ 11)",
+   "tiep_don": "Chị Loan tái khám sau 3 ngày, chồng dìu đến vì chị nôn nhiều, mệt lả, ngủ ngày thức đêm, nói lẫn. Chị đã ngưng thuốc cảm như dặn, vẫn uống rivaroxaban, không còn nhắc tới tờ giấy khám. Sinh hiệu: mạch 112 l/p, HA nằm 100/62 mmHg, nhiệt 36,8 °C, nhịp thở 20 l/p, SpO₂ 97%. Cân nặng 46,2 kg. Kết quả huyết thanh gửi hôm trước chưa về.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho chị Loan về nhà dù men gan giảm là sai nặng: men gan giảm nhưng bilirubin, INR tăng, albumin giảm, đường huyết thấp và có rối loạn tri giác nghĩa là lượng tế bào gan còn lại ít đi. Viêm gan tối cấp có thể gây hôn mê gan và tử vong (QĐ 5450/2014, mục II.4.2); khi PT kéo dài hoặc bệnh não phải chuyển ngay đến thầy thuốc chuyên gan (ACG 2017, khuyến cáo 19). Chị còn đang dùng chống đông trong lúc đông máu rối loạn và đang chảy máu chân răng, ngủ lịm ở nhà thì không ai phát hiện kịp hạ đường huyết hay hôn mê.",
+    "nhap_vien": "Giữ chị Loan nằm ở Trung tâm Y tế huyện thay vì chuyển lên tuyến tỉnh làm mất thời gian quan trọng: huyện không có chuyên khoa gan, không theo dõi INR và đường huyết mỗi vài giờ, không có hồi sức. ACG 2017 (khuyến cáo 19) yêu cầu chuyển ngay đến thầy thuốc chuyên gan khi viêm gan cấp có PT kéo dài và/hoặc bệnh não. Nếu chị tiến tới hôn mê gan trong đêm, việc chuyển lúc đó nguy hiểm hơn nhiều so với chuyển có kiểm soát lúc này."
+   },
+   "loi_mo": "(Chồng nói) Bác sĩ ơi, nhà em nôn dữ lắm, hôm qua không giữ được nước, đêm không ngủ, ban ngày cứ lịm đi, hỏi gì nói lẫn lộn.",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "100/62",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 97,
+    "canh_bao": [
+     "mach",
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do2",
+     "noi_dung": "(Chồng khai) Nôn 4–5 lần mỗi ngày, không giữ được nước từ chiều hôm qua, ngủ ngày thức đêm, hỏi gì nói lẫn. Vàng da đậm hơn, nước tiểu ít và sẫm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám lượt 2"
+    },
+    {
+     "id": "dao_giac",
+     "noi_dung": "Hai đêm nay chị thức trắng, ban ngày ngủ gật; sáng nay hỏi 'hôm nay thứ mấy' chị trả lời sai và chậm, lúc nói lẫn chuyện công trình.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Chồng chỉ kể khi bác sĩ hỏi ngủ nghỉ ban ngày ban đêm, tỉnh táo, nói chuyện có lẫn không. Bản thân chị chối 'em chỉ mệt thôi'.",
+     "y": "Đảo giấc ngủ, lú lẫn nhẹ (dấu bệnh não)"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Hai hôm nay chảy máu chân răng khi đánh răng, hai vết bầm tím ở cẳng tay tự xuất hiện, không đen phân, không nôn ra máu.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cụ thể chảy máu chân răng, chảy máu mũi, vết bầm, phân đen.",
+     "y": "Chảy máu chân răng, bầm tím tự nhiên (rối loạn đông máu)"
+    },
+    {
+     "id": "khang_dong2",
+     "noi_dung": "Vẫn uống rivaroxaban 20 mg mỗi tối đều, viên cuối lúc 20 giờ hôm qua (02/08). Chồng mang vỏ hộp thuốc theo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Khai khi bác sĩ hỏi thuốc đang uống, giờ liều cuối.",
+     "y": "Vẫn đang dùng chống đông khi đã có chảy máu",
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc_cam2",
+     "noi_dung": "Từ sau lượt trước đã ngưng thuốc cảm, thuốc nam; chỉ uống nước, cháo. Chồng tìm thấy vỏ hộp thuốc cảm: mỗi viên 500 mg paracetamol.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đã ngưng paracetamol từ 31/07"
+    },
+    {
+     "id": "khong_sot2",
+     "noi_dung": "Không sốt, không rét run, không đau quặn, không ngứa; đau tức hạ sườn phải nhẹ như trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu nhiễm trùng đường mật"
+    },
+    {
+     "id": "tieu_it",
+     "noi_dung": "Từ sáng chị đi tiểu một lần, nước tiểu sẫm ít. Cân nặng 46,2 kg, giảm thêm 1,3 kg.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiểu ít, mất dịch tăng"
+    },
+    {
+     "id": "giay_kham2",
+     "noi_dung": "Chị không nhắc tới tờ giấy khám nữa. Chồng nói thấy chị đi tới đi lui lo lắng việc mất công trình 'nhưng em mệt quá không đi nổi'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lý do ban đầu đã lùi lại sau tình trạng nặng"
+    },
+    {
+     "id": "ban_dao",
+     "noi_dung": "Anh Tư cùng tổ cũng vàng mắt và đã nhập Bệnh viện huyện bên cạnh từ hôm qua.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Có người cùng bữa ăn cũng bệnh (dịch tễ)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Lơ mơ, đáp chậm, định hướng sai thời gian, đúng người và nơi. Vàng củng mạc đậm, vàng da mặt, thân và lòng bàn tay. Môi khô, mắt trũng, nếp véo da xóa chậm. Chảy máu chân răng, hai vết bầm tím ở cẳng tay. Hơi thở không mùi đặc biệt.",
+     "k": 1,
+     "hien": "Chị ngồi dựa vào chồng, mắt lờ đờ, đáp chậm."
+    },
+    "than_kinh": {
+     "a": "Tỉnh nhưng chậm, định hướng sai thời gian. Duỗi hai tay, bàn tay vỗ rung từng nhịp (asterixis dương tính hai bên). Không dấu thần kinh khu trú, đồng tử đều, phản xạ ánh sáng bình thường.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 100/62 mmHg, mạch 112. Đứng 92/58 mmHg, mạch 126 l/p, choáng váng.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, ấn đau nhẹ hạ sườn phải. Bờ gan không rõ, gõ vùng đục gan thu hẹp nhẹ. Không cổ trướng, không phản ứng thành bụng.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim nhanh đều 112 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Chu vi bắp chân phải 33,5 cm, trái 32,0 cm, như lượt trước. Không nóng, không đỏ, không đau.",
+     "k": 0
+    },
+    "nuoc_tieu_mau": {
+     "a": "Nước tiểu sẫm nâu, ít (khoảng 50 mL mẫu).",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "3,4 mmol/L",
+     "ab": 1,
+     "n": "Hạ đường huyết ở người không dùng thuốc hạ đường huyết, vừa nôn vừa tổn thương gan nặng: xử trí ngay, rồi tìm nguyên nhân (QĐ 5481/2020 Phần 6 mục 1c, 3a)."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 1.410 · ALT 1.980 U/L",
+     "ab": 1,
+     "n": "Men gan GIẢM nhưng bilirubin, INR tăng: không phải cải thiện. Phải đọc cùng bilirubin, INR, albumin và tri giác."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "Bilirubin toàn phần 214 µmol/L (trực tiếp 158) · ALP 186 · GGT 198 U/L · Albumin 33 g/L · PT 38% · INR 2,06 · aPTT 41 giây",
+     "ab": 1,
+     "n": "R = (1.980/35) ÷ (186/105) ≈ 31,9: vẫn tế bào gan. Mẫu lấy 19 giờ sau liều rivaroxaban cuối, xa hơn lượt 1 (13 giờ 45 phút) mà INR lại tăng cao hơn: khó quy hết cho thuốc; coi là tín hiệu rối loạn tổng hợp yếu tố đông máu của gan (nhận xét của người soạn). PT kéo dài + bệnh não: ACG 2017 khuyến cáo 19."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 5,6 G/L · Hb 114 g/L · TC 132 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 5.6,
+      "neu_pct": 56.0,
+      "neu": 3.14,
+      "lym_pct": 33.0,
+      "lym": 1.85,
+      "mono_pct": 9.0,
+      "mono": 0.5,
+      "eos_pct": 1.0,
+      "eos": 0.06,
+      "baso_pct": 1.0,
+      "baso": 0.06,
+      "rbc": 3.85,
+      "hgb": 114,
+      "hct": 0.343,
+      "mcv": 89,
+      "mch": 29.6,
+      "mchc": 332,
+      "rdw": 13.8,
+      "plt": 132
+     },
+     "n": "Tiểu cầu giảm nhẹ so với lượt 1 (168 → 132), Hb giảm nhẹ; bạch cầu vẫn không tăng: không nhiễm khuẩn."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 8,6 mmol/L · creatinin 92 µmol/L · eGFR 65",
+     "ab": 1,
+     "bang": {
+      "ure": 8.6,
+      "creat": 92,
+      "egfr": 65
+     },
+     "n": "Tổn thương thận cấp nhẹ trước thận do mất dịch (creatinin 68 → 92)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 132 · K 3,2 · Cl 96 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 132,
+      "k": 3.2,
+      "cl": 96
+     },
+     "n": "Hạ natri, hạ kali do nôn: bù khi chuyển tuyến."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Bilirubin +++, urobilinogen +, ceton +, không hồng cầu",
+     "bang": {
+      "u_sg": 1.028,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "+",
+      "u_bil": "+++",
+      "u_ubg": "+",
+      "u_ery": "Âm tính"
+     }
+    },
+    "huyet_thanh_hav_hev": {
+     "v": "e",
+     "r": "IgM anti-HEV DƯƠNG TÍNH · IgM anti-HAV âm tính · IgM anti-HBc âm tính",
+     "ab": 1,
+     "n": "Xác định viêm gan E cấp (QĐ 5450/2014 mục II.3), loại viêm gan A và B cấp."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Gan 14,4 cm (lượt 1: 15,2 cm), nhu mô giảm âm không đồng nhất, ít dịch quanh gan. Ống mật chủ 4,0 mm, đường mật trong gan không giãn. Hai sỏi túi mật như cũ, thành không dày. Không cổ trướng.",
+     "ab": 1,
+     "n": "Gan nhỏ lại chứ không to thêm, không giãn đường mật: tắc mật tiếp tục bị loại. QĐ 5450/2014 mục II.4.2 mô tả gan teo nhỏ trong viêm gan tối cấp."
+    },
+    "ct_bung": {
+     "n": "Không có CT ở cơ sở; không cần để quyết định chuyển tuyến."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm gan E cấp thể nặng, có dấu hiệu suy chức năng gan (INR 2,06, hạ đường huyết, bilirubin 214 µmol/L, albumin giảm) kèm rối loạn tri giác nhẹ nghi bệnh não gan; nguy cơ tiến triển viêm gan tối cấp",
+     "ok": 1,
+     "n": "IgM anti-HEV (+). Lâm sàng nặng hơn lượt 1 dù men gan giảm. QĐ 5450/2014 mục I.4, II.1, II.4.2: thể nặng có biểu hiện suy gan cấp, tối cấp (gan teo nhỏ, hôn mê gan). Ngưỡng định nghĩa suy gan cấp theo INR và bệnh não không có trong tài liệu đã tải: ca này dựa vào ACG 2017 khuyến cáo 19 (PT kéo dài và/hoặc bệnh não thì phải chuyển ngay đến thầy thuốc chuyên gan)."
+    },
+    {
+     "t": "Tổn thương gan do paracetamol hoặc rivaroxaban đơn thuần",
+     "n": "IgM anti-HEV dương tính giải thích bệnh cảnh; paracetamol đã ngưng từ lượt 1 mà vẫn xấu đi; vẫn góp phần được nên báo tuyến trên để xét NAC (QĐ 3610/2015 mục 4.3). EASL 2018: viêm gan E là chẩn đoán dễ bị bỏ sót khi tưởng DILI."
+    },
+    {
+     "t": "Viêm gan A cấp",
+     "n": "IgM anti-HAV âm tính."
+    },
+    {
+     "t": "Tắc mật",
+     "n": "R ≈ 31,9; ống mật chủ 4,0 mm; không sốt, không rét run, gan nhỏ lại; không cần CT."
+    },
+    {
+     "t": "Hạ đường huyết do suy chức năng gan và mất dịch trước thận (tổn thương thận cấp nhẹ)",
+     "n": "Glucose 3,4 mmol/L, creatinin 68 → 92 µmol/L, ure 8,6, tụt huyết áp tư thế: hậu quả đi kèm cần xử trí khi chuyển."
+    },
+    {
+     "t": "Huyết khối tĩnh mạch sâu tái phát",
+     "n": "Chu vi bắp chân, cảm giác chân không đổi so với lượt 1; chỉ ghi nhận mốc để tuyến trên so sánh."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển ngay đến bệnh viện tỉnh có chuyên khoa gan, hồi sức và xét nghiệm đông máu lặp lại; xe cứu thương có nhân viên y tế, đường truyền tĩnh mạch đang chạy, giấy chuyển tuyến ghi đầy đủ",
+     "v": "c",
+     "n": "Viêm gan cấp có PT kéo dài và/hoặc bệnh não cần chuyển ngay đến chuyên gia gan (ACG 2017 khuyến cáo 19). Viêm gan tối cấp gây hôn mê gan, tử vong (QĐ 5450/2014 mục II.4.2). Tiêu chuẩn chuyển tuyến riêng của QĐ 5450 không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xử trí hạ đường huyết ngay tại chỗ: có đường truyền thì tiêm tĩnh mạch glucose 50% 50 mL (nếu nôn hoặc lơ mơ); còn uống được thì 15–20 g glucose; thử lại đường huyết sau 15 phút; giữ glucose truyền 5–10% khi chuyển",
+     "v": "c",
+     "n": "QĐ 5481/2020 (TL-0031) Phần 6: mục 1c (uống 15–20 g glucose, thử lại sau 15 phút), mục 3a (tiêm 50 mL glucose 50%, kiểm tra lại sau 15–30 phút, truyền glucose 5–10% khi cần). Văn bản viết cho bệnh nhân đái tháo đường; dùng như cách xử trí hạ đường huyết chung vì tài liệu về viêm gan E không nêu."
+    },
+    {
+     "t": "Ngưng rivaroxaban, không tự thay bằng thuốc chống đông khác; báo rõ tuyến trên chị có huyết khối tĩnh mạch sâu chân phải chưa đủ liệu trình để họ quyết định tiếp theo",
+     "v": "c",
+     "n": "SmPC Xarelto mục 4.3 (nguồn bổ sung tự tìm, https://www.medicines.org.uk/emc/product/2793/smpc): chống chỉ định khi bệnh gan kèm rối loạn đông máu và nguy cơ chảy máu có ý nghĩa lâm sàng. Lựa chọn thuốc chống đông thay thế và thời gian liệu trình không có trong tài liệu đã tải: giao tuyến trên."
+    },
+    {
+     "t": "Bù dịch tĩnh mạch theo dõi sát; thử bù kali (K 3,2); không tự dùng thuốc an thần",
+     "v": "c",
+     "n": "Mất dịch rõ (tụt huyết áp tư thế, ure/creatinin tăng, Na 132, K 3,2; nhận xét của người soạn). Lượng dịch và liều kali không có trong tài liệu đã tải; thuốc an thần không được nêu: nhận xét của người soạn vì có bệnh não."
+    },
+    {
+     "t": "Báo tuyến trên về tiền sử paracetamol (khoảng 10 g trong 5 ngày) để xét truyền N-acetylcystein",
+     "v": "c",
+     "n": "QĐ 3610/2015 mục 4.3: chỉ định khi có tiền sử acetaminophen và tổn thương gan bất kỳ mức độ; mục 4.3.2 truyền NAC rồi định lượng paracetamol máu và ALT. Liều NAC trong QĐ 3610: tĩnh mạch 20 giờ (150 mg/kg, rồi 50 mg/kg, rồi 100 mg/kg) hoặc uống 72 giờ; cơ sở huyện không truyền được."
+    },
+    {
+     "t": "Vitamin K, plasma tươi và thuốc chuyển hóa amoniac (L-ornithin L-aspartat, lactulose) ở tuyến trên",
+     "v": "a",
+     "n": "QĐ 5450/2014 mục III.2.2 liệt kê (tăng cường yếu tố đông máu: vitamin K, plasma tươi; chuyển amoniac: L-ornithin L-aspartat, lactulose). Liều không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ribavirin do tuyến trên cân nhắc",
+     "v": "a",
+     "n": "EASL 2018 (mục Treatment of acute hepatitis E): có thể cân nhắc ở viêm gan E cấp nặng (C2); bằng chứng mỏng, liều và thời gian ở suy gan chưa được xác định; không phải việc tuyến huyện."
+    },
+    {
+     "t": "Cho về nhà, hẹn xét nghiệm lại ngày mai",
+     "v": "h",
+     "n": "Đã có PT kéo dài, hạ đường huyết, chảy máu và dấu bệnh não (ACG 2017 khuyến cáo 19; QĐ 5450/2014 mục II.4.2)."
+    },
+    {
+     "t": "Chống đông liều cao hoặc heparin để phòng huyết khối khi đang chảy máu và INR 2,06",
+     "v": "h",
+     "n": "Chống chỉ định khi bệnh gan kèm rối loạn đông máu và nguy cơ chảy máu có ý nghĩa lâm sàng (SmPC Xarelto mục 4.3, nguồn bổ sung tự tìm)."
+    },
+    {
+     "t": "Cho kháng sinh phổ rộng vì cho là nhiễm trùng",
+     "v": "w",
+     "n": "Không sốt, bạch cầu không tăng, không dấu nhiễm trùng; viêm gan virus không có điều trị đặc hiệu (QĐ 5450/2014 mục III.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm gan E cấp, IgM anti-HEV dương tính (IgM anti-HAV, IgM anti-HBc âm tính)",
+     "Dấu hiệu suy chức năng gan: INR 2,06 (PT 38%), bilirubin 214 µmol/L, albumin 33 g/L, glucose 3,4 mmol/L, chảy máu chân răng, bầm tím",
+     "Rối loạn tri giác nhẹ, asterixis dương tính: nghi bệnh não gan giai đoạn sớm; nguy cơ viêm gan tối cấp",
+     "Mất dịch rõ do nôn: tụt huyết áp tư thế, tổn thương thận cấp trước thận nhẹ, hạ natri, hạ kali",
+     "Đang dùng rivaroxaban (huyết khối tĩnh mạch sâu chân phải) trong khi có rối loạn đông máu do gan; có tiền sử paracetamol 5 ngày",
+     "Đã loại tắc mật (R ≈ 31,9, ống mật chủ 4,0 mm) và viêm gan A (IgM anti-HAV âm tính)"
+    ],
+    "phan_tich_chan_doan": [
+     "So sánh với lượt 1: bilirubin 96 → 214 µmol/L, INR 1,24 → 2,06, albumin 38 → 33 g/L, glucose 4,6 → 3,4 mmol/L, mạch 88 → 112, HA 112/70 → 100/62, xuất hiện asterixis và chảy máu. Men gan giảm (ALT 2.216 → 1.980) trong bối cảnh này không phải tin tốt.",
+     "INR 2,06 không thể chỉ do rivaroxaban: mẫu lượt 2 xa liều cuối hơn mẫu lượt 1 mà INR tăng nhiều hơn, kèm hạ đường huyết, albumin giảm, bệnh não. Đây là nhận xét của người soạn; QĐ 1832/2022 mục 6.4 chỉ nêu PT, aPTT dùng theo dõi thuốc kháng Xa.",
+     "Chẩn đoán xác định: dịch tễ (thịt lợn chưa chín, nước giếng), lâm sàng vàng da, IgM anti-HEV (+) (QĐ 5450/2014 mục II.3). Tắc mật loại bằng R, ống mật chủ và lâm sàng; thiếu CT không làm đổi quyết định (QĐ 5450/2014 mục II.5 nêu u đầu tụy, sỏi, u đường mật).",
+     "Tiên lượng: bệnh thường tự khỏi nhưng có thể ác tính (QĐ 5450/2014 mục I.4); tiến triển tới suy gan cấp hiếm ở genotype 3 (EASL 2018). Chị là người miễn dịch bình thường, không bệnh gan mạn, không có thai: yếu tố thuận lợi cho hồi phục sau điều trị hỗ trợ ở tuyến trên (nhận xét)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến vì PT kéo dài và bệnh não (ACG 2017 khuyến cáo 19); huyện không có CT, không có chuyên khoa gan, không theo dõi INR và đường huyết mỗi vài giờ. Trước khi chuyển: xử trí hạ đường huyết, đặt đường truyền, bù dịch (QĐ 5481/2020 Phần 6).",
+     "Chống đông: ngưng rivaroxaban vì bệnh gan kèm rối loạn đông máu (SmPC Xarelto mục 4.3, nguồn bổ sung tự tìm). Không tự đổi sang heparin hay thuốc khác; khuyến cáo chống đông trong viêm gan cấp nặng không có trong tài liệu đã tải.",
+     "NAC: QĐ 3610/2015 mục 4.3; báo tuyến trên về paracetamol. Vitamin K, plasma tươi, L-ornithin L-aspartat, lactulose: QĐ 5450/2014 mục III.2.2. Ribavirin chỉ cân nhắc ở thể nặng (EASL 2018, C2).",
+     "Không chuyển có nghĩa là mất thời gian quan trọng; không cần chờ IgM anti-HEV dương tính mới chuyển.",
+     "Báo người nhà bằng ngôn ngữ dễ hiểu; so sánh với chú ruột để chị và chồng hiểu vì sao phải đi ngay."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Glucose 50%",
+      "ham_luong": "ống 50 mL",
+      "lieu": "50 mL tiêm tĩnh mạch chậm (nếu nôn hoặc lơ mơ); còn uống được thì 15–20 g glucose",
+      "duong": "Tĩnh mạch hoặc uống",
+      "thoi_diem": "Ngay khi phát hiện glucose 3,4 mmol/L",
+      "so_ngay": "1 lần; thử lại đường huyết sau 15–30 phút, rồi truyền glucose 5–10% khi chuyển",
+      "ghi_chu": "QĐ 5481/2020 (TL-0031) Phần 6 mục 1c và 3a."
+     },
+     {
+      "thuoc": "Dịch truyền tĩnh mạch + kali",
+      "ham_luong": "—",
+      "lieu": "Theo đánh giá mất nước và điện giải đồ; lượng và liều kali không có trong tài liệu đã tải",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Trên đường chuyển",
+      "so_ngay": "Đến khi tuyến trên tiếp nhận",
+      "ghi_chu": "Na 132, K 3,2, creatinin 92; nhận xét của người soạn."
+     },
+     {
+      "thuoc": "N-acetylcystein (do tuyến trên quyết định)",
+      "ham_luong": "—",
+      "lieu": "Truyền tĩnh mạch 20 giờ: 150 mg/kg trong 30 phút, rồi 50 mg/kg trong 4 giờ, rồi 100 mg/kg trong 16 giờ (tổng 300 mg/kg)",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Càng sớm càng tốt khi tiếp nhận",
+      "so_ngay": "20 giờ, rồi định lượng paracetamol máu và ALT",
+      "ghi_chu": "QĐ 3610/2015 mục 4.3, 4.3.2. Với 46,2 kg: 150 mg/kg ≈ 6,9 g. Cơ sở huyện không có NAC truyền."
+     },
+     {
+      "thuoc": "Rivaroxaban",
+      "ham_luong": "20 mg",
+      "lieu": "NGƯNG",
+      "duong": "—",
+      "thoi_diem": "Từ lượt này",
+      "so_ngay": "Tuyến trên quyết định",
+      "ghi_chu": "SmPC Xarelto mục 4.3 (nguồn bổ sung tự tìm)."
+     }
+    ],
+    "dan_do": [
+     "Giải thích với chồng và chị: men gan giảm nhưng gan đang yếu đi, nên phải lên bệnh viện tỉnh ngay hôm nay, không đợi qua đêm. Đây khác với trường hợp chú ruột chị ở chỗ chị đến sớm và được theo dõi.",
+     "Mang theo vỏ hộp thuốc (rivaroxaban, thuốc cảm), tờ siêu âm và kết quả xét nghiệm; báo bệnh viện tỉnh chị bị huyết khối tĩnh mạch sâu và đang dùng chống đông.",
+     "Không uống thêm thuốc chống đông, thuốc cảm, thuốc nam, rượu; không tự cho thuốc ngủ.",
+     "Báo anh Tư và những người cùng bữa tiệc đi khám; rửa tay xà phòng trước khi ăn (QĐ 5450/2014 mục IV.2).",
+     "Ở lại bệnh viện tới khi bác sĩ gan cho về; việc nghỉ làm xin giấy xác nhận bệnh để chủ thầu hiểu."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Loan được chuyển bằng xe cứu thương lên Bệnh viện đa khoa tỉnh trong ngày, đường huyết ổn định sau truyền glucose, được theo dõi tri giác, INR và đường huyết sát, ngưng rivaroxaban và điều trị hỗ trợ; bác sĩ tuyến tỉnh dùng N-acetylcystein vì tiền sử paracetamol. Sau vài ngày, tri giác tỉnh lại, đường huyết ổn định, bilirubin giảm dần và INR về gần bình thường trong vài tuần; không cần ghép gan. Tuyến tỉnh quyết định về thuốc chống đông sau khi gan hồi phục. Chị mất suất công trình 21 ngày nhưng tổ trưởng giữ chỗ cho đợt sau khi nhận giấy xác nhận bệnh. Anh Tư cùng tổ cũng được xác định viêm gan E.",
+ "nhieu": [
+  "Hai viên sỏi túi mật: phát hiện tình cờ, ống mật chủ 4,1 mm, R ≈ 39,6, không đau quặn, không sốt: không phải tắc mật.",
+  "ALP 168 và GGT 212 tăng nhẹ – vừa: dễ đọc nhầm là ứ mật hoặc nhiễm độc dung môi; tỷ số R cho thấy kiểu tế bào gan.",
+  "Rivaroxaban bắt đầu 36 ngày trước khởi bệnh và kéo dài PT/INR: INR 1,24 lượt 1 không đọc được thuần túy là do gan; lượt 2 INR tăng dù mẫu xa liều hơn.",
+  "Thợ sơn 19 năm: phơi nhiễm dung môi là có thật nhưng không giải thích được bệnh cảnh cấp.",
+  "Tự uống paracetamol 5 ngày (khoảng 10 g) và thuốc nam: làm khó quy kết nguyên nhân; xử trí đúng là ngưng thuốc và xét NAC.",
+  "Không có CT: không cần CT để loại tắc mật hay để quyết định chuyển."
+ ],
+ "bai_hoc_bien": [
+  "Vàng da kèm men gan tăng rất cao: tính tỷ số R trước, ống mật chủ trên siêu âm sau; phát hiện sỏi túi mật không đồng nghĩa tắc mật.",
+  "Người viêm gan cấp hay giấu thuốc tự mua: hỏi tên thuốc, số viên, số ngày, thuốc nam; hỏi thẳng 'chị đang vội việc gì' khi thấy lý do đến khám không khớp (ACG 2017 khuyến cáo 11).",
+  "Đang dùng chống đông: hỏi giờ liều cuối khi đọc INR; không tự ngưng, không tự đổi; ngưng khi có bệnh gan kèm rối loạn đông máu và chảy máu (SmPC Xarelto mục 4.3, nguồn bổ sung tự tìm).",
+  "Men gan giảm trong khi bilirubin, INR tăng và đường huyết thấp là dấu hiệu xấu đi, không phải cải thiện.",
+  "Hạ đường huyết ở người không dùng thuốc hạ đường huyết kèm bệnh gan nặng: dấu suy chức năng gan, xử trí ngay (QĐ 5481/2020 Phần 6).",
+  "PT kéo dài và/hoặc bệnh não trong viêm gan cấp: chuyển ngay đến chuyên gia gan (ACG 2017 khuyến cáo 19).",
+  "Từ chối ký giấy sức khỏe như một can thiệp y khoa: nói rõ vì sao, đưa lựa chọn thay thế (giấy xác nhận bệnh) và nhắc nỗi sợ ngầm của người bệnh."
+ ],
+ "diem_nho": [
+  "Viêm gan E: chẩn đoán xác định bằng IgM anti-HEV (+), không có điều trị đặc hiệu (QĐ 5450/2014 mục II.3, III.1).",
+  "Mọi người viêm gan cần thử HEV, kể cả khi nghi tổn thương gan do thuốc (EASL 2018, A1); ACG 2017 khuyến cáo 4 xếp muộn hơn.",
+  "Ủ bệnh HEV khoảng 15–60 ngày; thịt lợn chưa chín là yếu tố nguy cơ (EASL 2018).",
+  "R > 5 là kiểu tế bào gan; < 2 là ứ mật (ACG 2017, mục Physical exam / R ratio).",
+  "Paracetamol liều ngộ độc > 150 mg/kg; NAC khi có tiền sử paracetamol kèm tổn thương gan (QĐ 3610/2015 mục 3, 4.3).",
+  "Viêm gan tối cấp: sốt cao, vàng mắt, mệt lả, gan teo nhỏ, hôn mê gan (QĐ 5450/2014 mục II.4.2)."
+ ],
+ "nguon": [
+  "BYT QĐ 5450/2014 – Hướng dẫn chẩn đoán, điều trị viêm gan vi rút E – TL-0175 – mục I.4, II.1, II.3, II.4.1–4.2, II.5, III.1, III.2.1–2.2, IV.2",
+  "EASL 2018 – Clinical Practice Guidelines on hepatitis E virus infection – TL-0227 – mục Clinical aspects: acute infection, Laboratory diagnosis, Recommendations (A1), Differential diagnosis (tr. 1263), Treatment of acute hepatitis E (C2), Prevention of HEV infection",
+  "ACG 2017 – Evaluation of Abnormal Liver Chemistries – TL-0231 – khuyến cáo 4, 11, 17, 18, 19; mục R ratio",
+  "BYT QĐ 3610/2015 – Hướng dẫn chẩn đoán và xử trí ngộ độc – kho cũ tltk-10000-ca – Ngộ độc paracetamol mục 2, 3, 4.3, 4.3.2",
+  "BYT QĐ 5481/2020 – Đái tháo đường típ 2 – TL-0031 – Phần 6 (hạ đường huyết) mục 1c, 2, 3a",
+  "BYT QĐ 1832/2022 – Một số bệnh lý huyết học – kho cũ tltk-10000-ca – mục 6.4 (thuốc chống đông đường uống thế hệ mới)",
+  "Nguồn bổ sung tự tìm: Xarelto 20 mg SmPC (emc), mục 4.2, 4.3 – https://www.medicines.org.uk/emc/product/2793/smpc"
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 12/10/2026, Sonnet. Tài liệu đã đọc: TL-0175 toàn văn; TL-0227 các mục Clinical aspects, Diagnosis, Differential diagnosis, Treatment of acute hepatitis E, Prevention; TL-0231 khuyến cáo 1–19, mục R ratio; QĐ 3610/2015 Ngộ độc paracetamol; QĐ 5481/2020 Phần 6; QĐ 1832/2022 mục 6.4.",
+  "Thiếu tài liệu đã tải: tiêu chuẩn định nghĩa suy gan cấp theo INR và bệnh não, thang bệnh não gan, khuyến cáo chống đông ở bệnh gan cấp, liều vitamin K/lactulose/L-ornithin L-aspartat, lượng dịch bù, thời hạn tái khám 48–72 giờ. Chống chỉ định rivaroxaban dùng nguồn bổ sung SmPC. Hiệu lực QĐ 5450/2014 chưa chắc (ghi chú TL-0175).",
+  "Khoảng thời gian từ liều rivaroxaban cuối tới lấy máu (13 giờ 45 phút lượt 1, 19 giờ lượt 2) là chi tiết thiết kế của người soạn; không có số bán thải trong tài liệu đã tải nên chỉ dùng để so sánh hai mẫu.",
+  "Cần mục mới trong danh mục CLS: huyet_thanh_hav_hev (xem TH-1353_de_xuat_danh_muc.json)."
+ ]
+}
