@@ -1,0 +1,543 @@
+{
+ "ma_ca": "TH-0624",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn từ kho tài liệu (2026-10-12)",
+ "benh": "TH_tieu_chay_cap_nhiem_trung",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Tiêu chảy cấp nhiễm trùng",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lỵ trực trùng",
+   "Viêm ruột thừa"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Công nhân điện tử",
+  "yeu_to_khoi_phat": "Sau ăn hải sản",
+  "thuoc_dang_dung": "Không",
+  "ly_do_that_su_den_kham": "Đọc thông tin trên mạng, lo lắng"
+ },
+ "benh_nhan": {
+  "ten": "Lê Quang Hải",
+  "tuoi": 47,
+  "gioi": "Nam",
+  "nghe": "Công nhân điện tử (khu công nghiệp, làm ca kíp)",
+  "can_nang": 67,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi ông là 'anh Hải'. Vợ là người kể bệnh: chị xưng 'em' với bác sĩ, gọi chồng là 'anh Hải' hoặc 'ảnh'. Anh Hải tự xưng 'tôi', nói ít, giọng nhỏ, mệt.",
+  "tinh_cach": "Anh Hải 47 tuổi, ít nói, hay chịu đựng, ngại phiền người khác; mệt nên để vợ nói thay và hay xua tay 'tôi không sao đâu, đi ngoài thôi mà'. Làm ca kíp, lo mất ngày công và thưởng chuyên cần nên chỉ muốn lấy thuốc rồi đi làm lại. Chị Thảo, vợ, 45 tuổi, nói nhiều, hay lướt mạng xã hội, đã đọc các bài 'ăn hải sản bị bệnh tả', 'vi khuẩn ăn thịt người ở hàu sống' nên sợ, tin rằng phải truyền nước và uống kháng sinh mạnh mới khỏi.",
+  "kieu_nhieu": "Thân nhân trả lời thay: chị Thảo giành trả lời mọi câu, nói chung chung và phóng đại ('đi cả chục lần', 'uống nước chẳng được ngụm nào', 'chắc là tả rồi bác sĩ') vì chị không có mặt ở bữa tiệc. Chị không biết chi tiết bữa ăn, số lần đi ngoài thật, hay việc đồng nghiệp cùng bàn cũng bị bệnh. Những chi tiết này chỉ lộ khi bác sĩ hỏi thẳng anh Hải (gọi tên, hoặc nói 'để tôi hỏi riêng anh Hải') thì anh trả lời ngắn, đúng, hơi ngại nói chuyện đi vệ sinh (nguoi_noi = benh_nhan). Hỏi chị về nỗi lo thì chị nói thật là đã đọc trên mạng.",
+  "nguoi_nha": "Vợ, chị Thảo, 45 tuổi, đi cùng. Chị KHÔNG dự tiệc với chồng nên không biết anh ăn gì, bao nhiêu, ai cùng bàn bị bệnh. Chị biết: anh đi ngoài nhiều từ sáng Chủ nhật, nôn mấy lần đầu, mệt, uống nước ít, chị đã pha oresol cho uống 2 lần. Chị lo, đã đọc mạng, tin là 'tả', muốn truyền nước và kháng sinh. Khi bác sĩ hỏi chung về triệu chứng, bữa ăn, đồng nghiệp thì chị trả lời (nguoi_noi = nguoi_nha) cho tới khi bác sĩ hỏi thẳng anh Hải (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Vợ (chị Thảo)",
+  "ngoai_hinh": {
+   "da": "#d9a27c",
+   "toc": "#1c1612",
+   "kieuToc": "ngan",
+   "ao": "#6b7d8f",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e6b794",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#d98fa0",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đi ngoài phân lỏng 3 ngày sau khi ăn hải sản, vợ lo bị tả",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 47 tuổi, công nhân, vợ đưa đến vì đi ngoài phân lỏng từ sáng Chủ nhật, hôm nay là ngày thứ 3. Nhiệt độ 37,4 °C, mạch 92 l/p, huyết áp 112/70 mmHg, nhịp thở 18 l/p, SpO₂ 98%. Bệnh nhân tỉnh, mệt, ngồi lặng, vợ nói thay.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Hải, 47 tuổi, mất nước độ 1, còn uống được, đi ngoài đã thưa dần, bị đưa nhập viện để truyền tĩnh mạch. Bù dịch đường uống đã đủ cho mất nước độ 1 còn truyền tĩnh mạch dành cho mất nước từ độ 2 trở lên hoặc không uống được (QĐ 5642/2015, Tiêu chảy do vi khuẩn, mục 4.2.3a; IDSA 2017 khuyến cáo 41, tr. e51). Anh mất thêm vài ngày công, nằm chung khu với người bệnh nhiễm trùng khác, còn chị Thảo càng tin là anh bị bệnh nặng, cần truyền nước và kháng sinh nên lần sau lại đòi như vậy.",
+    "chuyen_tuyen": "Chuyển anh Hải lên bệnh viện tuyến trên để 'loại trừ tả' ngay trong ngày là quá tay: anh không đi ngoài toàn nước như nước vo gạo, đã đỡ dần, mạch và huyết áp bình thường, không đủ tiêu chí của tả (QĐ 4178/2007, mục II.1a) hay của mất nước nặng (QĐ 5642/2015, mục 3.1, bảng mức độ mất nước). Việc cần làm (bù dịch đường uống, gửi cấy phân tìm cả Vibrio vì ăn hàu sống, theo IDSA 2017 khuyến cáo 10b) làm ngay được tại phòng khám. Chuyển tuyến chỉ làm anh mất nửa ngày, tốn chi phí, mà vẫn không có kết quả cấy phân ngay."
+   },
+   "loi_mo": "Dạ chào bác sĩ, em đưa chồng em đi khám. Ảnh đi ngoài cả chục lần từ hôm Chủ nhật tới giờ, ăn uống không được, người mệt lả. Em đọc trên mạng người ta nói ăn hải sản là dễ bị tả, em sợ lắm bác sĩ ơi, bác sĩ cho ảnh truyền nước với thuốc kháng sinh luôn giùm em. Ảnh cứ nói không sao, mà em thấy không ổn.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "112/70",
+    "nhiet": "37,4",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Vợ đưa anh Hải đi khám vì đi ngoài phân lỏng từ sáng Chủ nhật (nay là ngày thứ 3). Chị đọc trên mạng xã hội nói ăn hải sản dễ bị tả và có loại vi khuẩn từ hàu sống gây nhiễm trùng nặng, nên sợ và muốn chồng được truyền nước, uống kháng sinh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai của vợ)"
+    },
+    {
+     "id": "thoi_gian",
+     "noi_dung": "Bắt đầu khoảng 7 giờ sáng Chủ nhật, nghĩa là khoảng 12 giờ sau bữa tiệc tối thứ Bảy. Hôm nay là sáng thứ Ba, ngày thứ 3. Tình trạng đỡ dần từ hôm qua nhưng anh vẫn kiệt sức.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời điểm khởi phát, diễn tiến theo ngày",
+     "dieu_kien_lo": "Vợ chỉ nói 'từ hôm Chủ nhật đến giờ vẫn chưa hết'. Chi tiết đỡ dần từng ngày chỉ nói khi bác sĩ hỏi mỗi ngày đi ngoài bao nhiêu lần hoặc hỏi thẳng anh Hải."
+    },
+    {
+     "id": "bua_an",
+     "noi_dung": "Tối thứ Bảy anh dự tiệc cuối quý của công ty ở quán hải sản, 8 người một bàn: hàu sống chấm muối ớt (anh ăn khoảng 6 con), ghẹ hấp, nghêu hấp sả, uống khoảng 3 lon bia. Anh không ăn mắm tôm, không ăn thịt sống. Vợ không đi cùng nên chỉ biết 'ăn hải sản'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ: bữa ăn nghi ngờ, ăn sống hay chín",
+     "dieu_kien_lo": "Vợ chỉ trả lời 'ăn hải sản ở quán'. Hàu sống, số lượng và bia chỉ lộ khi bác sĩ hỏi thẳng anh Hải đã ăn những món gì, có món nào ăn sống không."
+    },
+    {
+     "id": "so_lan",
+     "noi_dung": "Chủ nhật đi ngoài khoảng 9–10 lần, hôm qua khoảng 6–7 lần, sáng nay đến giờ (9 giờ) 2 lần. Phân lỏng như nước, màu vàng nâu, có cặn thức ăn lúc đầu, mùi chua khẳm; có lúc buồn đi gấp, đêm phải dậy 2–3 lần. Không phải toàn nước trắng đục như nước vo gạo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số lần và tính chất phân theo từng ngày (hỏi theo số lần mỗi ngày, không hỏi 'nhiều hay ít')",
+     "dieu_kien_lo": "Vợ nói 'cả chục lần'. Số lần thật mỗi ngày và màu phân chỉ nói khi bác sĩ hỏi đếm số lần từng ngày hoặc hỏi thẳng anh Hải."
+    },
+    {
+     "id": "khong_mau",
+     "noi_dung": "Phân không có máu, không nhầy mũi, không mót rặn đau thốn sau đi ngoài, không đen như bã cà phê. Anh nhìn phân khi đi vệ sinh, vợ không thấy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân máu, nhầy máu, mót rặn (loại lỵ trực khuẩn); phân nước vo gạo (loại tả)",
+     "dieu_kien_lo": "Vợ không thấy phân. Chỉ nói đúng khi hỏi thẳng anh Hải."
+    },
+    {
+     "id": "non",
+     "noi_dung": "Nôn 3 lần sáng Chủ nhật, thêm 1 lần chiều; từ hôm qua đến giờ không nôn, chỉ còn buồn nôn nhẹ khi ngửi mùi dầu mỡ. Chất nôn là thức ăn và nước, không có máu, không có mật xanh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn: số lần, hiện còn nôn không, uống được không"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Đau quặn từng cơn quanh rốn và dưới rốn, hết hoặc dịu sau khi đi ngoài; không đau liên tục, không đau cố định một chỗ, không đau lan ra sau lưng. Hôm nay chỉ còn cảm giác cồn cào, âm ỉ nhẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau bụng: tính chất, vị trí, có cố định hố chậu phải không (loại viêm ruột thừa)"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Đêm Chủ nhật ớn lạnh, nhiệt kế nhà đo 37,6 °C; từ đó không đo thêm. Không sốt cao, không rét run, không đau mỏi toàn thân nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, mức sốt, rét run (ảnh hưởng chỉ định xét nghiệm phân, kháng sinh)"
+    },
+    {
+     "id": "nuoc_tieu",
+     "noi_dung": "Vì sợ đi ngoài nên anh uống ít nước lọc, chủ yếu vài ngụm nước ngọt và nước dừa; chị pha oresol 2 lần nhưng anh chê mặn, uống không nhiều. Khát nhẹ, miệng khô. Tiểu ít, nước tiểu vàng sẫm, lần tiểu gần nhất khoảng 5 giờ trước. Đứng dậy nhanh thì hơi choáng. Chưa ngất, không lơ mơ, không chuột rút.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất nước: khát, lượng uống, số lần tiểu và màu nước tiểu, choáng khi đứng (câu hỏi chức năng)",
+     "dieu_kien_lo": "Vợ nói 'ảnh uống nước chẳng được ngụm nào'. Số lần tiểu, màu nước tiểu, choáng chỉ nói đúng khi bác sĩ hỏi thẳng anh Hải."
+    },
+    {
+     "id": "dong_nghiep",
+     "noi_dung": "Cùng bàn tiệc có 8 người; ít nhất 2 đồng nghiệp khác cũng đi ngoài lỏng từ sáng Chủ nhật, 1 người nặng hơn phải đi bệnh viện truyền nước 1 đêm rồi về. Không ai đi ngoài ra máu. Anh chưa báo với ai ở công ty.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ: người cùng ăn có bị bệnh không (nghĩ ổ dịch từ bữa ăn chung)",
+     "dieu_kien_lo": "Vợ không biết. Chỉ lộ khi bác sĩ hỏi thẳng anh Hải 'những người cùng ăn có ai bị giống anh không'."
+    },
+    {
+     "id": "thuoc_tu_dung",
+     "noi_dung": "Không có thuốc dùng thường xuyên. Từ khi bệnh anh không uống kháng sinh, thuốc cầm tiêu chảy hay thuốc giảm đau. Vợ mua 2 gói oresol, pha 1 gói với khoảng 300 mL nước 'cho đậm mau khỏi' nên anh thấy mặn, uống không nổi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng và thuốc tự dùng từ khi bệnh; cách pha oresol",
+     "dieu_kien_lo": "Hỏi chung thì vợ nói 'chỉ cho uống oresol'. Cách pha chỉ nói khi hỏi pha với bao nhiêu nước."
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khỏe mạnh, không bệnh gan, đái tháo đường, bệnh thận, bệnh tim. Uống bia 2–3 lon vào cuối tuần, không uống rượu mạnh hằng ngày. Không dùng kháng sinh trong vài tháng qua, không nằm viện, không đi nước ngoài hay vùng đang có dịch, không ăn mắm tôm sống.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử: bệnh gan, suy giảm miễn dịch, kháng sinh gần đây, đi vùng dịch"
+    },
+    {
+     "id": "nghe_nghiep",
+     "noi_dung": "Công nhân điện tử ca kíp, đeo găng và khẩu trang khi làm, ăn cơm ở căng tin, không nấu ăn hay phục vụ thực phẩm. Ca trực tới là tối thứ Năm. Anh lo mất ngày công, thưởng chuyên cần.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nghề nghiệp, có tiếp xúc thực phẩm hay chăm sóc người khác không (quyết định nghỉ làm)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Vợ và hai con ở nhà không ăn hải sản hôm đó, hiện không ai đi ngoài. Nhà dùng nước máy đun sôi, chung một nhà vệ sinh.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Người trong nhà có bệnh không, nước, vệ sinh"
+    },
+    {
+     "id": "lo_lang",
+     "noi_dung": "Chị Thảo đọc nhiều bài trên mạng xã hội về 'tả', 'vi khuẩn ăn thịt người ở hàu sống' nên sợ và đòi truyền nước, kháng sinh. Anh Hải thì nghĩ 'chắc ăn lạnh bụng', muốn lấy thuốc về uống rồi đi làm.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Động cơ thật: lo lắng sau khi đọc mạng; mong muốn thuốc và truyền nước",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao hôm nay mới đưa anh đi khám, chị lo điều gì, chị mong bác sĩ làm gì, hoặc hỏi chị đã đọc gì trên mạng."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh táo, tiếp xúc tốt, dáng mệt, nói nhỏ. Cân nặng 67 kg. Không vật vã, không lơ mơ. Nhiệt độ 37,4 °C.",
+     "k": 1,
+     "hien": "Tỉnh, mệt, nói nhỏ. Cân nặng 67 kg."
+    },
+    "ha_tu_the": {
+     "a": "Nằm: huyết áp 112/70 mmHg, mạch 90 l/p. Đứng 3 phút: huyết áp 108/70 mmHg, mạch 98 l/p, hơi choáng nhẹ, không ngất. Ngưỡng tụt huyết áp tư thế không có trong tài liệu đã tải; không có dấu hiệu sốc.",
+     "k": 1,
+     "hien": "Nằm 112/70 mmHg, mạch 90 l/p. Đứng 3 phút: 108/70 mmHg, mạch 98 l/p, hơi choáng."
+    },
+    "dau_mat_co": {
+     "a": "Môi khô nhẹ, lưỡi hơi khô, niêm mạc miệng kém ẩm. Mắt không trũng, kết mạc hồng, củng mạc không vàng. Cổ mềm.",
+     "k": 1,
+     "hien": "Môi khô nhẹ, lưỡi hơi khô. Mắt không trũng."
+    },
+    "da": {
+     "a": "Da ấm, hơi khô. Véo da ở mu bàn tay trở lại nhanh. Không vàng da, không ban, không tím tái.",
+     "k": 1,
+     "hien": "Da ấm, véo da trở lại nhanh. Không vàng da, không ban."
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay rõ, đều, 92 l/p. Tay chân ấm, mao mạch hồi sắc nhanh.",
+     "k": 1,
+     "hien": "Mạch quay rõ, đều. Tay chân ấm."
+    },
+    "bung": {
+     "a": "Bụng không chướng, di động theo nhịp thở, mềm. Nhu động ruột tăng. Ấn đau nhẹ lan tỏa quanh rốn, không đau khu trú hố chậu phải, không phản ứng thành bụng, không co cứng, không dấu Rovsing. Gan lách không to, không sờ thấy khối.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng. Ấn đau nhẹ quanh rốn, không đau khu trú."
+    },
+    "truc_trang": {
+     "a": "Hậu môn không nứt, không sa trực tràng. Trực tràng chứa phân nhão vàng nâu, găng sạch sau khám, không máu, không nhầy.",
+     "k": 0,
+     "hien": "Hậu môn bình thường. Găng sạch, không máu."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 8,4 G/L · Neutrophil 64% · Hb 151 g/L · TC 262 G/L",
+     "bang": {
+      "wbc": 8.4,
+      "neu_pct": 64.0,
+      "neu": 5.38,
+      "lym_pct": 26.0,
+      "lym": 2.18,
+      "mono_pct": 7.0,
+      "mono": 0.59,
+      "eos_pct": 2.0,
+      "eos": 0.17,
+      "baso_pct": 1.0,
+      "baso": 0.08,
+      "rbc": 5.1,
+      "hgb": 151,
+      "hct": 0.45,
+      "mcv": 88.2,
+      "mch": 29.6,
+      "mchc": 336,
+      "rdw": 13.2,
+      "plt": 262
+     },
+     "n": "Chấp nhận, không bắt buộc (QĐ 5642/2015, Tiêu chảy do vi khuẩn, mục 3.3); IDSA 2017 khuyến cáo 8 (tr. e47) không đưa công thức máu vào chỉ định. Bạch cầu không tăng, Hb cao nhẹ do cô đặc: không đạt tiêu chí kháng sinh của QĐ 5642 mục 4.2.1."
+    },
+    "creat": {
+     "v": "n",
+     "r": "Ure 6,4 mmol/L · Creatinin 88 µmol/L",
+     "n": "Không cần ở mất nước độ 1: QĐ 5642/2015, mục 3.3 chỉ nêu 'có thể suy thận'; QĐ 4178/2007, mục III.2.a chỉ theo dõi điện giải ở ca nặng. Ngưỡng chỉ định ngoại trú cho người lớn: không có trong tài liệu đã tải."
+    },
+    "lyte": {
+     "v": "n",
+     "r": "Na 138 · K 3,8 · Cl 101 mmol/L",
+     "n": "Không cần ở mất nước độ 1; làm khi phải truyền tĩnh mạch hoặc mất nước nặng (QĐ 5642/2015, mục 3.3, 4.2.3a; QĐ 4178/2007, mục III.2.a)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 12 mg/L",
+     "n": "Không cần: chỉ định CRP trong tiêu chảy cấp người lớn không có trong tài liệu đã tải; quyết định kháng sinh dựa vào sốt, phân máu, suy giảm miễn dịch (IDSA 2017 khuyến cáo 36, tr. e50)."
+    },
+    "cay_phan": {
+     "v": "u",
+     "r": "Cấy phân (kết quả sau 48–72 giờ; đã dặn phòng xét nghiệm tìm cả Vibrio): không mọc Salmonella, Shigella, Campylobacter, Vibrio.",
+     "n": "Hữu ích, không bắt buộc: ăn hàu sống (IDSA 2017 khuyến cáo 10b, tr. e47: tìm Vibrio khi ăn sống hải sản có vỏ) và nghi ổ dịch từ bữa ăn chung (ACG 2016 khuyến cáo 1, tr. 604; IDSA 2017 khuyến cáo 11, 16). QĐ 4178/2007, mục II.1b: lấy phân sớm, trước điều trị. Kết quả có sau 48–72 giờ, không đổi xử trí hôm nay; ACG 2016 khuyến cáo 3 (tr. 604) nói xét nghiệm phân không tìm ra nguyên nhân ở đa số ca."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "Soi phân tươi: phân lỏng vàng nâu; không thấy hồng cầu, bạch cầu rất ít; không thấy ký sinh trùng, không thấy phẩy khuẩn di động.",
+     "n": "Hữu ích, rẻ, có kết quả ngay: QĐ 5642/2015, mục 3.3 và 4.2.1 (hồng cầu, bạch cầu trong phân là tiêu chí cân nhắc kháng sinh); QĐ 4178/2007, mục II.1b. Không hồng cầu, ít bạch cầu: gợi ý không xâm nhập. Ngưỡng bạch cầu cụ thể: không có trong tài liệu đã tải."
+    },
+    "liver": {
+     "v": "n",
+     "r": "AST 28 · ALT 31 U/L",
+     "n": "Không cần: bệnh gan mạn, nghiện rượu, ứ sắt là yếu tố nguy cơ Vibrio vulnificus xâm lấn (IDSA 2017, tr. e60); anh không có, không sốt cao, không tổn thương da."
+    },
+    "huyet_thanh_hav_hev": {
+     "v": "n",
+     "r": "IgM anti-HAV âm tính · IgM anti-HEV âm tính · IgM anti-HBc âm tính",
+     "n": "Không cần: viêm gan A liên quan hải sản ăn sống (IDSA 2017, Bảng 2, tr. e48) nhưng ca này không vàng da, không nước tiểu sẫm. Thời gian ủ bệnh: không có trong tài liệu đã tải."
+    },
+    "abdus": {
+     "v": "n",
+     "r": "Quai ruột chứa dịch, tăng nhu động; ruột thừa không thấy; không dịch tự do.",
+     "n": "Không cần: bụng mềm, không đau khu trú hố chậu phải. WSES 2025 (khuyến cáo 1–3.1, tr. 285) áp cho người đau hố chậu phải nghi viêm ruột thừa."
+    },
+    "xq_bung": {
+     "v": "n",
+     "r": "Vài mức nước-hơi nhỏ ở ruột non, không giãn quai ruột, không liềm hơi.",
+     "n": "Không cần: không chướng bụng, không dấu hiệu tắc ruột hay thủng. Chỉ định X-quang bụng ở tiêu chảy cấp người lớn: không có trong tài liệu đã tải."
+    },
+    "ct_bung": {
+     "v": "n",
+     "r": "Thành ruột dày nhẹ; ruột thừa bình thường; không dịch ổ bụng.",
+     "n": "Không cần: WSES 2025 (khuyến cáo 1, 3.1, tr. 285) chỉ dùng CT khi nghi viêm ruột thừa sau phân tầng nguy cơ; ca này không có hội chứng hố chậu phải."
+    },
+    "noi_soi_dt": {
+     "v": "n",
+     "r": "Niêm mạc đại tràng phù nhẹ, không loét, không giả mạc.",
+     "n": "Không cần: tiêu chảy cấp đang đỡ; ACG 2016 khuyến cáo 12 (tr. 604) không nội soi ngay cả khi dai dẳng 14–30 ngày và cấy phân âm tính."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng (viêm dạ dày – ruột cấp sau ăn hải sản, nghĩ do virus hoặc vi khuẩn không xâm nhập; tác nhân chưa xác định), thể phân nước, ngày thứ 3, kèm mất nước độ 1; có thể là ổ dịch từ bữa ăn chung",
+     "ok": 1,
+     "n": "Tiêu chảy khởi phát cấp (< 14 ngày), phân nước, nôn và đau quặn bụng sau bữa ăn có hàu sống; ít nhất 2 người cùng bàn cũng bị (ACG 2016, tr. 602; QĐ 5642/2015, Tiêu chảy do vi khuẩn, mục 3.1, 3.4; IDSA 2017, Bảng 2, tr. e48: hải sản có vỏ ăn sống liên quan Vibrio, norovirus, viêm gan A, Plesiomonas). Phân không máu, không nhầy, sốt tối đa 37,6 °C: phù hợp tiêu chảy do độc tố hoặc virus (QĐ 5642 mục 3.1). Mất nước độ 1: khát ít, da bình thường, mạch < 100, huyết áp bình thường, nước tiểu ít (QĐ 5642 mục 3.1, bảng; QĐ 4178/2007, Bảng 1). Tác nhân cụ thể cần cấy phân."
+    },
+    {
+     "t": "Tả",
+     "n": "Loại trừ: phân không toàn nước trắng đục như nước vo gạo, khoảng 10 lần/ngày rồi giảm, mất nước độ 1, ngày thứ 3 không nặng thêm (QĐ 4178/2007, mục II.1a; QĐ 5642/2015, mục 3.2: tả 20–50 lần/ngày, không sốt, không đau quặn). Có dịch tễ hải sản sống (QĐ 4178 mục II.1c) nên cấy phân tìm Vibrio; không cách ly, không kháng sinh."
+    },
+    {
+     "t": "Lỵ trực trùng (Shigella)",
+     "n": "Loại trừ: lỵ có sốt 39–40 °C, đau quặn, mót rặn, phân nhầy máu 20–40 lần/ngày, bạch cầu đa nhân tăng (QĐ 5642/2015, Bệnh lỵ trực khuẩn, mục 3.1b–c, 3.2a, tr. 44–45). Anh Hải sốt ≤ 37,6 °C, không nhầy máu, không mót rặn, găng sạch, bạch cầu bình thường (IDSA 2017 khuyến cáo 3, 8, tr. e46–e47)."
+    },
+    {
+     "t": "Viêm ruột thừa cấp",
+     "n": "Loại trừ: đau quặn quanh rốn rồi dịu sau đi ngoài, ấn không đau khu trú hố chậu phải, không phản ứng thành bụng. WSES 2025 (khuyến cáo 1–3.1, tr. 285): dùng điểm AIR, AAS và siêu âm cho người đau hố chậu phải; ca này không có. Yersinia có thể gây hội chứng giống viêm ruột thừa (IDSA 2017, tr. e60). Khám lại nếu đau chuyển hố chậu phải, sốt, bụng cứng. Viêm ruột thừa kèm tiêu chảy: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngộ độc thức ăn do độc tố (tụ cầu, Bacillus cereus, Clostridium perfringens)",
+     "n": "Ít nghĩ: ủ bệnh 12 giờ và kéo dài đến ngày thứ 3; độc tố tụ cầu ủ 1–6 giờ, không sốt (QĐ 5642/2015, mục 3.2); IDSA 2017, Bảng 3, tr. e54: nôn ≤ 24 giờ gợi ý S. aureus hoặc B. cereus."
+    },
+    {
+     "t": "Tiêu chảy xâm nhập khác (Salmonella, Campylobacter, E. coli xâm nhập, Yersinia) và nhiễm khuẩn huyết do Vibrio",
+     "n": "Không loại hẳn bằng lâm sàng nhưng chưa đạt tiêu chí kháng sinh: sốt ≤ 37,6 °C, không nhầy máu, không suy giảm miễn dịch, bạch cầu và soi phân bình thường (QĐ 5642/2015, mục 3.2, 4.2.1; IDSA 2017 khuyến cáo 36, tr. e50). Vibrio vulnificus xâm lấn gặp ở bệnh gan mạn, nghiện rượu, ứ sắt (IDSA 2017, tr. e60); anh không có. Chờ cấy phân."
+    },
+    {
+     "t": "Viêm gan A cấp",
+     "n": "Ít nghĩ: không vàng da, không nước tiểu sẫm; viêm gan A liên quan hải sản sống (IDSA 2017, Bảng 2, tr. e48). Thời gian ủ bệnh: không có trong tài liệu đã tải. Dặn khám lại nếu vàng da."
+    },
+    {
+     "t": "Mất nước độ 2 trở lên / sốc giảm thể tích",
+     "n": "Loại trừ: mạch 92 (< 100), huyết áp 112/70 (≥ 90), tay chân ấm, nước tiểu ít chứ chưa thiểu niệu, uống được (QĐ 5642/2015, mục 3.1, bảng; IDSA 2017 khuyến cáo 41, tr. e51). Đây là mốc phải theo dõi."
+    },
+    {
+     "t": "Bệnh đại tràng khác (viêm đại tràng mạn, ung thư đại tràng)",
+     "n": "Loại trừ: khởi phát cấp sau bữa ăn, đang đỡ, không phân máu, không sụt cân (QĐ 5642/2015, mục 3.5). Tiêu chảy từ 14 ngày mới cần tìm thêm (ACG 2016, Hình 1, tr. 603)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá mức mất nước bằng lâm sàng (khát, niêm mạc, véo da, mạch, huyết áp kể cả tư thế, nước tiểu) và xếp mất nước độ 1",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 5 (tr. e47); QĐ 5642/2015, mục 3.1 (bảng mức độ mất nước) và mục 4.2.3a; QĐ 4178/2007, Bảng 1."
+    },
+    {
+     "t": "Bù dịch đường uống: oresol (pha đúng thể tích ghi trên gói, hoặc 1 gói với 1 lít nước đun sôi để nguội) hoặc nước cháo muối, súp, nước dùng; uống theo nhu cầu, nôn thì uống từng ngụm nhỏ, đến khi tiểu đều và niêm mạc ẩm",
+     "v": "c",
+     "n": "QĐ 5642/2015, mục 4.2.3a (mất nước độ 1, uống được: oresol); IDSA 2017 khuyến cáo 39, 43 (tr. e50–e51: ORS là đầu tay cho mất nước nhẹ đến vừa ở người lớn) so với ACG 2016 khuyến cáo 5 (tr. 607: đa số người lớn bù đủ bằng nước, nước trái cây, nước thể thao, súp, bánh quy mặn; ORS cân bằng cho người già nặng hoặc tiêu chảy kiểu tả). Gộp một mục: oresol hoặc dịch/súp muối. Công thức và dịch thay thế: QĐ 4178/2007, mục III.2.a. Mốc tiểu đều, niêm mạc ẩm: ACG 2016, tr. 607. Lượng ml cho người lớn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ăn lại bình thường sớm, không nhịn ăn; ưu tiên súp, nước dùng, bánh quy mặn, món luộc hấp nướng",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 45 (tr. e51); ACG 2016, Hình 1 (tr. 603); QĐ 4178/2007, mục III.2.c. Tránh dầu mỡ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh; cho về điều trị bù dịch",
+     "v": "c",
+     "n": "ACG 2016 khuyến cáo 9–10 (tr. 610: không ủng hộ kháng sinh theo kinh nghiệm cho tiêu chảy cấp thường, nên tránh ở tiêu chảy cộng đồng vì đa số do virus); IDSA 2017 khuyến cáo 36 (tr. e50). QĐ 5642/2015, mục 4.2.1 chỉ 'cân nhắc' khi suy giảm miễn dịch, người già, thai phụ, sốt, phân nhầy máu, bạch cầu tăng hoặc soi phân có hồng cầu, bạch cầu; anh Hải không có tiêu chí nào."
+    },
+    {
+     "t": "Kê kháng sinh thường quy (ciprofloxacin, levofloxacin, azithromycin) cho tiêu chảy nước không sốt, không máu",
+     "v": "w",
+     "n": "ACG 2016 khuyến cáo 9–10 và tr. 610 (nên tránh; fluoroquinolon có nguy cơ C. difficile, bệnh gân khớp); IDSA 2017 khuyến cáo 36. Liều QĐ 5642/2015, mục 4.2.2a (ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày) dành cho tiêu chảy xâm nhập."
+    },
+    {
+     "t": "Truyền tĩnh mạch cho mất nước độ 1, uống được",
+     "v": "w",
+     "n": "QĐ 5642/2015, mục 4.2.3a (tĩnh mạch từ độ 2, hoặc không uống được); IDSA 2017 khuyến cáo 41 (tr. e51: khi mất nước nặng, sốc, rối loạn ý thức và thất bại với ORS)."
+    },
+    {
+     "t": "Không dùng thuốc cầm đi ngoài, chỉ bù dịch và chờ",
+     "v": "a",
+     "n": "QĐ 5642/2015, mục 4.2.3b: không lạm dụng thuốc cầm tiêu chảy như loperamide. Hai cách đều chấp nhận (xem mục kế)."
+    },
+    {
+     "t": "Loperamide ngắn hạn: 4 mg lần đầu, sau đó 2 mg sau mỗi lần phân lỏng, tối đa 8 mg/ngày, không quá 48 giờ, khi không sốt, không phân máu, đã bù dịch",
+     "v": "a",
+     "n": "ACG 2016, Hình 1 (tr. 603) và tr. 609–610; IDSA 2017 khuyến cáo 46–47 (tr. e51: có thể dùng ở người lớn miễn dịch bình thường tiêu chảy nước sau khi bù dịch; tránh khi nghi tiêu chảy viêm hoặc có sốt). Con số thận trọng hơn: không dùng, hoặc tối đa 8 mg/ngày."
+    },
+    {
+     "t": "Men vi sinh: không dùng",
+     "v": "a",
+     "n": "ACG 2016 khuyến cáo 6 (tr. 607): không khuyến cáo probiotic để điều trị tiêu chảy cấp ở người lớn, trừ tiêu chảy sau kháng sinh (mạnh, bằng chứng trung bình)."
+    },
+    {
+     "t": "Men vi sinh: có thể cho dùng để giảm mức nặng và thời gian bệnh",
+     "v": "a",
+     "n": "IDSA 2017 khuyến cáo 49 (tr. e51): có thể cho ở người lớn miễn dịch bình thường (yếu, bằng chứng trung bình); chủng, liều: không có trong tài liệu đã tải. Khác nhau vì ACG 2016 (tr. 608–609) chỉ thấy 6 thử nghiệm ở người lớn, chế phẩm và tiêu chí khác nhau nên cho chứng cứ còn thiếu. Cả hai đều đúng."
+    },
+    {
+     "t": "Diosmectite (smecta) hoặc spasmaverin hỗ trợ",
+     "v": "a",
+     "n": "QĐ 5642/2015, mục 4.2.3b (liều: không có trong tài liệu đã tải). ACG 2016 (tr. 610) không khuyến cáo kaolin, pectin, than hoạt, attapulgite; không nêu diosmectite nên chưa phải mâu thuẫn rõ."
+    },
+    {
+     "t": "Hỏi riêng anh Hải (hỏi thẳng tên hoặc mời vợ ra ngoài) về số lần đi ngoài, từng món đã ăn, người cùng bữa bị bệnh, tiểu, thuốc đã dùng",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp. Dịch tễ: IDSA 2017 khuyến cáo 1 (tr. e45); QĐ 5642/2015, mục 3.4."
+    },
+    {
+     "t": "Giải thích cho chị Thảo: không phải tả, không cần kháng sinh và truyền nước, bù dịch đường uống là đủ; nêu dấu hiệu phải quay lại",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp. Nội dung: QĐ 4178/2007, mục II.1a; QĐ 5642/2015, mục 4.2.3a; ACG 2016 khuyến cáo 9–10 (tr. 610)."
+    },
+    {
+     "t": "Dặn vệ sinh: rửa tay bằng xà phòng sau đi vệ sinh, trước ăn; không nấu ăn cho người khác khi còn tiêu chảy; ăn chín uống sôi, tránh hải sản sống",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 52 (tr. e51) và tr. e54; QĐ 5642/2015, mục 6."
+    },
+    {
+     "t": "Hẹn tái khám nếu còn tiêu chảy sau 7 ngày; từ 14 ngày coi là dai dẳng cần làm việc lại; quay lại ngay khi có dấu hiệu nặng",
+     "v": "c",
+     "n": "ACG 2016 khuyến cáo 2 (tr. 604: xét nghiệm phân khi > 7 ngày) và Hình 1 (tr. 603: 14–30 ngày cần tìm nguyên nhân); IDSA 2017 (tr. e53). Dấu hiệu nặng: sốt, phân máu, đau bụng nhiều (IDSA 2017 khuyến cáo 8), không uống được, rối loạn ý thức (khuyến cáo 41). Mốc 7 ngày ghép từ hai nguồn trên, không có lịch tái khám riêng."
+    },
+    {
+     "t": "Cân nhắc báo y tế dự phòng/an toàn thực phẩm vì nghi ổ dịch (≥ 2 người cùng bữa ăn bị bệnh)",
+     "v": "a",
+     "n": "IDSA 2017 khuyến cáo 11, 16 (tr. e47); ACG 2016 khuyến cáo 1 (tr. 604). Quy định báo cáo ở Việt Nam: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng (viêm dạ dày – ruột cấp), thể phân nước, ngày thứ 3, sau ăn hải sản có vỏ ăn sống; tác nhân chưa xác định (virus hoặc vi khuẩn không xâm nhập)",
+     "Mất nước độ 1 (khát ít, môi khô, da bình thường, mạch 92 < 100, huyết áp bình thường kể cả tư thế, tiểu ít), còn uống được, chưa nặng",
+     "Nghi ổ dịch từ một bữa ăn chung (ít nhất 2 người khác cùng bàn bị bệnh)",
+     "Loại trừ: tả, lỵ trực trùng (Shigella), viêm ruột thừa; chưa có chỉ định kháng sinh",
+     "Yếu tố gây nhiễu: vợ trả lời thay, phóng đại và lo vì đọc mạng; vợ không biết bữa ăn và số lần đi ngoài thật; pha oresol quá đặc"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: (1) mời hỏi riêng anh Hải vì vợ không dự tiệc: số lần đi ngoài từng ngày, màu phân, máu, nhầy, mót rặn, nôn, sốt, vị trí đau, tiểu, uống gì; (2) hỏi từng món đã ăn, ăn sống hay chín, người cùng bữa, thuốc tự dùng, tiền sử gan, kháng sinh gần đây (IDSA 2017 khuyến cáo 1, tr. e45; QĐ 5642/2015, mục 3.4); (3) khám mất nước (môi lưỡi, véo da, mạch, huyết áp nằm đứng, tay chân), khám bụng, thăm trực tràng; (4) chỉ làm xét nghiệm có lợi; (5) chẩn đoán và xử trí.",
+     "Vợ mở đầu 'cả chục lần', 'uống nước chẳng ngụm nào', 'chắc là tả'. Hỏi riêng anh Hải mới ra số lần thật (9–10 lần Chủ nhật, 6–7 lần hôm qua, 2 lần sáng nay), phân không máu, sốt tối đa 37,6 °C, hàu sống 6 con, 2 đồng nghiệp cùng bị. Số lần đang giảm là điểm yên tâm (số liệu của ca, không phải khuyến cáo).",
+     "Mất nước độ 1: khát ít, da bình thường, mạch < 100, huyết áp bình thường, nước tiểu ít; độ 2: khát vừa, da khô, mạch 100–120, huyết áp < 90, thiểu niệu, tay chân lạnh (QĐ 5642/2015, mục 3.1, bảng; QĐ 4178/2007, Bảng 1). Anh Hải: khát ít, môi khô nhẹ, mạch 92, huyết áp 112/70, tiểu ít, tay chân ấm nên độ 1; đứng dậy hơi choáng, mạch tăng 8 nhịp: nhắc bù dịch tốt, chưa phải sốc.",
+     "Tiêu chảy nhiễm trùng không xâm nhập: khởi phát cấp sau bữa ăn nghi ngờ, phân nước không máu không nhầy, sốt thấp, nhiều người cùng bị (QĐ 5642/2015, mục 3.1; ACG 2016, tr. 602). Hải sản có vỏ ăn sống gợi ý Vibrio, norovirus, viêm gan A, Plesiomonas (IDSA 2017, Bảng 2, tr. e48). Ngày thứ 3 còn đi ngoài nhưng thưa dần: chưa phải kéo dài.",
+     "Loại tả: phân không nước vo gạo, số lần giảm, mất nước nhẹ (QĐ 4178/2007, mục II.1a); có dịch tễ hải sản sống (mục II.1c) nên cấy phân. Loại lỵ: không sốt cao, không nhầy máu, không mót rặn (QĐ 5642/2015, Bệnh lỵ trực khuẩn, mục 3.1, 3.2). Loại viêm ruột thừa: bụng mềm, không đau khu trú hố chậu phải (WSES 2025, khuyến cáo 1–3.1, tr. 285).",
+     "Xét nghiệm: nguồn lực đầy đủ nhưng không cần gì ngay. Công thức máu, soi phân có thể làm (QĐ 5642/2015, mục 3.3); cấy phân hữu ích vì hàu sống và nghi ổ dịch (IDSA 2017 khuyến cáo 10b, 11, 16; ACG 2016 khuyến cáo 1). Ure, creatinin, điện giải, CRP, men gan, huyết thanh viêm gan, siêu âm, CT, X-quang bụng, nội soi đại tràng đều không cần.",
+     "Cạm bẫy: vợ phóng đại nên dễ kê kháng sinh và truyền nước cho yên lòng; vợ không dự tiệc nên bỏ sót hàu sống và ổ dịch; anh 'không sao' nên bỏ sót tiểu ít, choáng khi đứng; oresol pha đặc."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch đường uống là điều trị chính: oresol hoặc nước/súp muối đều đúng, miễn bù đủ đến khi tiểu đều, niêm mạc ẩm (QĐ 5642/2015, mục 4.2.3a; IDSA 2017 khuyến cáo 39, 43; ACG 2016 khuyến cáo 5, tr. 607). Ăn lại bình thường (IDSA 2017 khuyến cáo 45).",
+     "Không kháng sinh vì tiêu chảy nước, không sốt, không máu, miễn dịch bình thường (ACG 2016 khuyến cáo 9–10, tr. 610; IDSA 2017 khuyến cáo 36). Nếu về sau sốt ≥ 38,3 °C (101 °F), phân máu hoặc nhầy máu thì làm xét nghiệm phân và xem xét kháng sinh (ACG 2016, Hình 1, tr. 603; IDSA 2017 khuyến cáo 3, 8, 30; QĐ 5642/2015, mục 4.2.1). QĐ 5642 cân nhắc kháng sinh khi 'có sốt' nói chung còn IDSA/ACG chặt hơn (sổ mâu thuẫn); ca này không sốt nên ba nguồn cùng không kê.",
+     "Loperamide, probiotic, smecta, spasmaverin: không bắt buộc, hai hướng đều chấp nhận (ACG 2016 khuyến cáo 6; IDSA 2017 khuyến cáo 47, 49; QĐ 5642/2015, mục 4.2.3b). Anh Hải đã đỡ dần nên không cần cầm đi ngoài.",
+     "Truyền tĩnh mạch hoặc nhập viện khi mất nước từ độ 2 trở lên, không uống được, sốc, rối loạn ý thức hoặc thất bại với ORS (QĐ 5642/2015, mục 4.2.3a; IDSA 2017 khuyến cáo 41, tr. e51). Tiêu chí nhập viện chi tiết cho người lớn: không có trong tài liệu đã tải.",
+     "Nghi ổ dịch: hỏi đồng nghiệp, báo y tế dự phòng (IDSA 2017 khuyến cáo 11, 16; ACG 2016 khuyến cáo 1). Công nhân điện tử không phục vụ thực phẩm nên đi làm lại khi hết nôn, uống đủ; số ngày nghỉ: không có trong tài liệu đã tải.",
+     "Tái khám: từ 7 ngày là 'kéo dài', xét nghiệm phân (ACG 2016 khuyến cáo 2, tr. 604; IDSA 2017, tr. e53); từ 14 ngày là 'dai dẳng', làm việc lại (ACG 2016, Hình 1, tr. 603)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol (ORS)",
+      "ham_luong": "Gói theo công thức BYT: NaCl 3,5 g, NaHCO3 2,5 g, KCl 1,5 g, glucose 20 g (QĐ 4178/2007, mục III.2.a); gói ORS áp lực thẩm thấu thấp cũng dùng được (IDSA 2017 khuyến cáo 39)",
+      "lieu": "Pha 1 gói với đúng 1 lít nước đun sôi để nguội (hoặc theo thể tích ghi trên gói); uống theo nhu cầu; nôn thì uống từng ngụm nhỏ. Lượng ml cụ thể cho người lớn: không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Uống rải đều trong ngày, thêm sau mỗi lần đi ngoài",
+      "so_ngay": "Đến khi hết tiêu chảy, tiểu đều, niêm mạc ẩm",
+      "ghi_chu": "QĐ 5642/2015, mục 4.2.3a; QĐ 4178/2007, mục III.2.a (pha 1 lít); IDSA 2017 khuyến cáo 39, 43; ACG 2016 khuyến cáo 5 (tr. 607). Không pha đặc 'cho mau khỏi' vì làm mặn, dễ nôn. Thay bằng nước cháo muối, súp, nước dùng, nước dừa pha muối nếu không thích oresol (QĐ 4178/2007, mục III.2.a; ACG 2016, tr. 607)."
+     },
+     {
+      "thuoc": "Loperamide (tùy chọn, không bắt buộc, không kê cho anh Hải)",
+      "ham_luong": "Hàm lượng viên: không có trong tài liệu đã tải",
+      "lieu": "4 mg lần đầu, sau đó 2 mg sau mỗi lần phân lỏng; tối đa 8 mg/ngày (ACG 2016, tr. 609–610)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi cần đi ngoài ít hơn để đi làm, sau khi đã bù dịch",
+      "so_ngay": "Không quá 48 giờ",
+      "ghi_chu": "Hai hướng: QĐ 5642/2015, mục 4.2.3b không lạm dụng thuốc cầm tiêu chảy; ACG 2016 (Hình 1, tr. 603; tr. 609–610) và IDSA 2017 khuyến cáo 47 (tr. e51) cho phép ở người lớn miễn dịch bình thường, tránh khi có sốt hoặc phân máu. Con số thận trọng hơn: 8 mg/ngày (ACG 2016 bảng 4 ghi 16 mg/24 giờ khi phối hợp kháng sinh)."
+     },
+     {
+      "thuoc": "Không kê kháng sinh, không truyền dịch tĩnh mạch",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "ACG 2016 khuyến cáo 9–10 (tr. 610); IDSA 2017 khuyến cáo 36 (tr. e50); QĐ 5642/2015, mục 4.2.1, 4.2.3a."
+     }
+    ],
+    "dan_do": [
+     "Uống oresol pha đúng 1 gói với 1 lít nước đun sôi để nguội, không pha đặc; uống thường xuyên cả ngày, buồn nôn thì uống từng ngụm nhỏ; đủ nước khi tiểu đều, nước tiểu vàng nhạt, miệng ẩm (QĐ 4178/2007, mục III.2.a; ACG 2016, tr. 607). Có thể thay bằng nước cháo muối, súp, nước dùng.",
+     "Ăn lại bình thường, chia nhiều bữa nhỏ, ưu tiên cháo, súp, bánh quy mặn, món hấp luộc nướng (IDSA 2017 khuyến cáo 45; ACG 2016, Hình 1). Tạm tránh đồ nhiều dầu mỡ và bia rượu: không có trong tài liệu đã tải.",
+     "Không cần kháng sinh, không cần truyền nước lúc này; kháng sinh không làm bệnh hết sớm hơn ở tiêu chảy do virus (ACG 2016 khuyến cáo 10, tr. 610).",
+     "Rửa tay bằng xà phòng sau đi vệ sinh và trước khi ăn; còn tiêu chảy thì không nấu ăn cho gia đình (IDSA 2017 khuyến cáo 52, tr. e51; tr. e54; QĐ 5642/2015, mục 6). Ăn chín, uống nước đun sôi, tránh hàu và hải sản sống.",
+     "Nhận kết quả cấy phân sau 2–3 ngày. Báo đồng nghiệp cùng bàn để tự theo dõi và đi khám khi nặng (IDSA 2017 khuyến cáo 11, 16).",
+     "Quay lại NGAY nếu: sốt ≥ 38,3 °C hoặc ớn lạnh run, phân có máu hoặc nhầy máu, đau bụng nhiều hoặc đau cố định bên phải dưới, nôn không uống được, tiểu rất ít hoặc 6–8 giờ không tiểu, choáng khi đứng, lơ mơ, vàng da, nước tiểu sẫm (IDSA 2017 khuyến cáo 8, 41; QĐ 5642/2015, mục 3.1). Mốc 6–8 giờ là cách dặn của ca, không có trong tài liệu đã tải.",
+     "Tái khám nếu sau 7 ngày vẫn còn đi ngoài lỏng; từ 14 ngày chưa hết thì đi khám ngay (ACG 2016 khuyến cáo 2, tr. 604; Hình 1, tr. 603).",
+     "Đi làm lại khi hết nôn, uống đủ, đi ngoài thưa; công việc điện tử không tiếp xúc thực phẩm. Số ngày nghỉ, giấy nghỉ ốm: không có trong tài liệu đã tải."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Hải về nhà theo lời dặn, chị Thảo yên tâm khi nghe giải thích không phải tả. Ngày thứ 4 anh đi ngoài 4–5 lần, hết buồn nôn, tiểu đều; ngày thứ 5 phân sệt 3 lần. Nhưng phân vẫn sệt 2–3 lần/ngày, ăn kém, mệt kéo dài, anh đi làm lại sớm vào ngày thứ 6. Ngày thứ 8 chị gọi lo lắng, anh khám lại: không sốt, bụng mềm, uống được, không phân máu, cân nặng ổn; cấy phân (gửi hôm khám) âm tính. Đã qua ngày thứ 7 nên là tiêu chảy kéo dài chứ chưa dai dẳng (IDSA 2017, tr. e53); bác sĩ giải thích quỹ đạo này vẫn chấp nhận được, không kê kháng sinh, tiếp tục bù dịch và dặn lại dấu hiệu nặng. Ngày thứ 11 phân thành khuôn trở lại; hai đồng nghiệp cùng bàn cũng khỏi. Bài học: khỏi chậm hơn dự kiến nhưng không nặng thêm vẫn nằm trong quỹ đạo bình thường; mốc phải tìm nguyên nhân là sốt, phân máu, mất nước hoặc kéo dài từ 14 ngày (ACG 2016, tr. 602–603, khuyến cáo 2, tr. 604). Thời gian hồi phục điển hình theo tác nhân: không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Vợ trả lời thay và phóng đại ('cả chục lần', 'chắc là tả') vì không dự tiệc; bệnh nhân ít nói, hay nói 'không sao'. Cần hỏi riêng bệnh nhân.",
+  "Nỗi sợ từ mạng xã hội (tả, vi khuẩn từ hàu sống) làm vợ đòi truyền nước, kháng sinh; ép bác sĩ kê đơn thừa.",
+  "Hàu sống và ổ dịch bữa ăn chung không lộ nếu chỉ hỏi vợ; chỉ lộ khi hỏi thẳng bệnh nhân từng món ăn và người cùng bàn.",
+  "Pha oresol quá đặc, bệnh nhân chê mặn nên uống ít, dễ tiến tới mất nước nhiều hơn."
+ ],
+ "bai_hoc_bien": [
+  "Thân nhân trả lời thay: đừng nhận số liệu từ người không chứng kiến; hỏi riêng bệnh nhân: 'Anh Hải, mỗi ngày anh đi ngoài mấy lần', 'tối thứ Bảy anh ăn những món gì, món nào ăn sống'.",
+  "Hỏi từng món và người cùng bữa. Hàu sống gợi ý Vibrio, norovirus, viêm gan A (IDSA 2017, Bảng 2, tr. e48) và ổ dịch cần cấy phân, báo y tế dự phòng (ACG 2016 khuyến cáo 1; IDSA 2017 khuyến cáo 10b, 11, 16).",
+  "Phân độ mất nước bằng lâm sàng: độ 1 uống oresol; độ 2 trở lên hoặc không uống được mới truyền (QĐ 5642/2015, mục 3.1, 4.2.3a).",
+  "Không kê kháng sinh cho tiêu chảy nước không sốt, không máu dù người nhà đòi (ACG 2016 khuyến cáo 9–10; IDSA 2017 khuyến cáo 36).",
+  "Quỹ đạo hồi phục: dưới 7 ngày là thường; 7–13 ngày là kéo dài, theo dõi nếu không nặng thêm; từ 14 ngày là dai dẳng, cần làm việc lại (IDSA 2017, tr. e53; ACG 2016, tr. 602–603).",
+  "Nguồn lực đầy đủ vẫn phải biện luận vì sao không làm CRP, ure, creatinin, điện giải, siêu âm, CT, nội soi: mất nước độ 1, bụng mềm, đang đỡ."
+ ],
+ "diem_nho": [
+  "Mất nước độ 1: khát ít, da bình thường, mạch < 100, huyết áp bình thường, nước tiểu ít, 5–6% trọng lượng; độ 2: khát vừa, da khô, mạch 100–120, huyết áp < 90, thiểu niệu, tay chân lạnh, 7–9%; độ 3: mắt trũng, mạch > 120, vô niệu, ≥ 10% (QĐ 5642/2015, mục 3.1; QĐ 4178/2007, Bảng 1).",
+  "Độ 1, uống được: oresol; độ 2 trở lên hoặc không uống được: Ringer lactat, NaCl 0,9% (QĐ 5642/2015, mục 4.2.3a). Oresol BYT: NaCl 3,5 g, NaHCO3 2,5 g, KCl 1,5 g, glucose 20 g trong 1 lít (QĐ 4178/2007, mục III.2.a).",
+  "Tiêu chảy cấp < 14 ngày; kéo dài 7–13 ngày; dai dẳng 14–29 ngày; mạn ≥ 30 ngày (IDSA 2017, tr. e53; ACG 2016, tr. 602).",
+  "Xét nghiệm phân khi sốt, phân máu hoặc nhầy, đau quặn nhiều, nhiễm trùng huyết (IDSA 2017 khuyến cáo 8); lỵ, bệnh vừa–nặng, > 7 ngày (ACG 2016 khuyến cáo 2); ăn hải sản có vỏ sống thì tìm thêm Vibrio (IDSA 2017 khuyến cáo 10b).",
+  "Không kháng sinh theo kinh nghiệm cho tiêu chảy nước người lớn không đi nước ngoài (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9–10). Loperamide: 4 mg rồi 2 mg sau mỗi lần phân lỏng, tối đa 8 mg/ngày, ≤ 48 giờ, tránh khi sốt hoặc phân máu (ACG 2016, tr. 609–610; IDSA 2017 khuyến cáo 47).",
+  "Tả: phân nước vo gạo, 20–50 lần/ngày, không sốt, không mót rặn, không đau quặn; lỵ: sốt cao, đau quặn, mót rặn, phân nhầy máu (QĐ 5642/2015, mục 3.2)."
+ ],
+ "nguon": [
+  "QĐ 5642/2015 – Bộ Y tế, QĐ 5642/QĐ-BYT ngày 31/12/2015, Hướng dẫn chẩn đoán và điều trị một số bệnh truyền nhiễm – TL-0038 – ĐÃ ĐỌC: Bệnh tiêu chảy do vi khuẩn (mục 1–6, gồm bảng mức độ mất nước mục 3.1, tr. 73–77); Bệnh lỵ trực khuẩn (mục 1, 3.1b–c, 3.2a, 3.3, 4.1, tr. 43–46)",
+  "QĐ 4178/2007 – Bộ Y tế, QĐ 4178/QĐ-BYT ngày 31/10/2007, Hướng dẫn chẩn đoán, điều trị bệnh tả – TL-0176 – ĐÃ ĐỌC: mục II.1a–c (kể cả Bảng 1), II.2, III.1, III.2.a–c",
+  "IDSA 2017 – Shane AL, et al. Infectious Diseases Society of America Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea. Clin Infect Dis. 2017;65(12):e45-e80 – TL-0230 – ĐÃ ĐỌC: khuyến cáo 1, 3, 5, 8, 10b, 11, 13, 16, 30, 36, 39, 41, 43, 45–47, 49, 52 (tr. e45–e51); Bảng 2 (tr. e48), Bảng 3 (tr. e54), phân loại thời gian (tr. e53), Vibrio vulnificus và Yersinia (tr. e60)",
+  "ACG 2016 – Riddle MS, et al. ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults. Am J Gastroenterol. 2016;111(5):602-622 – TL-0233 – ĐÃ ĐỌC: định nghĩa (tr. 602), Hình 1 (tr. 603), Bảng 1 khuyến cáo 1–12 (tr. 604), khuyến cáo 5–6 (tr. 607), probiotic (tr. 608–609), loperamide (tr. 609–610), khuyến cáo 9–10 và Bảng 4 (tr. 610)",
+  "WSES 2025 – Diagnosis and Treatment of Acute Appendicitis: 2025 Edition of the WSES Jerusalem Guidelines. JAMA Surg. 2026;161(3):283-295 – TL-0053 – ĐÃ ĐỌC: khuyến cáo 1–3.1 (tr. 285)",
+  "Không có trong tài liệu đã tải (không dùng nguồn web): lượng oresol cụ thể cho người lớn; hàm lượng và liều smecta, spasmaverin; ngưỡng hạ huyết áp tư thế; ngưỡng bạch cầu trong soi phân; thời gian ủ viêm gan A; quy định báo cáo ổ dịch ở Việt Nam; số ngày nghỉ, giấy nghỉ ốm; tiêu chí nhập viện chi tiết cho người lớn; thời gian hồi phục theo tác nhân; viêm ruột thừa kèm tiêu chảy."
+ ],
+ "ghi_chu_bien_tap": [
+  "Ngày viết: 2026-10-12; viết: Sonnet. Bản 1 (ca TH-0624).",
+  "Tài liệu đã đọc: TL-0038 (Tiêu chảy do vi khuẩn mục 1–6; Lỵ trực khuẩn mục 1–4.1), TL-0176 (mục II–III), TL-0230 (khuyến cáo liên quan, Bảng 2–3, tr. e60), TL-0233 (định nghĩa, Hình 1, Bảng 1 và 4, khuyến cáo 5–10), TL-0053 (khuyến cáo 1–3.1).",
+  "Thiết kế tự quyết (n): vợ trả lời thay vì không dự tiệc và đọc mạng; hàu sống và ổ dịch chỉ lộ khi hỏi riêng bệnh nhân; mất nước độ 1; ket_luan = ve_hen; cấy phân mức u; kết cục khỏi chậm (ngày 11) nhưng không nặng thêm.",
+  "Mâu thuẫn ghi cả hai cách (TH-0624_mau_thuan.md): probiotic người lớn, loperamide, dạng dịch bù, ngưỡng kháng sinh khi có sốt. Không có mục danh mục mới (soi_phan, cay_phan đã có).",
+  "Chỗ thiếu tài liệu: xem mục cuối của nguon. Mốc tái khám 7 ngày ghép từ ACG 2016 khuyến cáo 2 và IDSA 2017 tr. e53."
+ ]
+}
