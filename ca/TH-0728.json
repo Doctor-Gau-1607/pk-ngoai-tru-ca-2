@@ -1,0 +1,620 @@
+{
+ "ma_ca": "TH-0728",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_ngo_doc_thuc_pham",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Ngộ độc thực phẩm",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Viêm ruột thừa",
+   "Nhiễm khuẩn huyết"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Có",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Sau stress công việc",
+  "thuoc_dang_dung": "Thuốc dị ứng tự mua theo mùa",
+  "ly_do_that_su_den_kham": "Sợ đột quỵ",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao"
+ },
+ "benh_nhan": {
+  "ten": "Lê Văn Tư",
+  "tuoi": 67,
+  "gioi": "Nam",
+  "nghe": "Nông dân trồng lúa, nuôi vịt; nhà cách phòng khám 12 km",
+  "can_nang": 54,
+  "chieu_cao": 162,
+  "xung_ho": "Ông xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Chị Hạnh gọi ông là 'ba', xưng 'con', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Ít nói, chịu đựng, hay nói 'tôi không sao, để tôi tự lo', ngại phiền con. Mấy ngày nay gặt lúa chạy bão, ngủ ít, lo mất mùa và nợ tiền thuê máy gặt nên cáu gắt. Hút thuốc lào, uống 1–2 chén rượu gạo mỗi tối. Mệt nên trả lời nhỏ, ngắn.",
+  "kieu_nhieu": "Thân nhân trả lời thay: chị Hạnh nói nhanh, hay ngắt lời ba, trả lời thay cả những điều chị không chắc ('ba uống nước nhiều rồi', 'ba không uống thuốc gì'). Muốn biết điều ông thật sự đã làm và đang lo, bác sĩ phải hỏi thẳng ông hoặc mời chị ra ngoài đóng tiền, lấy số để hỏi riêng. Chị không biết chuyện thuốc dị ứng ông tự uống và nỗi sợ đột quỵ của ông.",
+  "nguoi_nha": "Con gái, chị Lê Thị Hạnh, 38 tuổi, bán tạp hóa ở thị trấn, chở ba đi xe máy. Lo lắng, nói nhanh, thương ba nhưng hay cuống. Chị biết: ba nôn, đi ngoài nhiều lần từ sáng, chóng mặt, ăn cỗ giỗ nhà hàng xóm tối qua, và chị đã cho ba uống 1 viên thuốc cầm tiêu mua ở tiệm. Chị tin ba bị 'trúng thực' do mì gói ăn sáng hôm qua. Khi bác sĩ hỏi chung thì chị là người trả lời (nguoi_noi = nguoi_nha); hỏi thẳng ông thì ông trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Chị Hạnh (con gái)",
+  "ngoai_hinh": {
+   "da": "#b98860",
+   "toc": "#bdb8b0",
+   "kieuToc": "ngan",
+   "ao": "#6f7f5e",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9a27c",
+    "toc": "#1c1612",
+    "kieuToc": "dai",
+    "ao": "#c4a2b0",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Nôn, đi ngoài phân lỏng nhiều lần từ sáng, mệt, chóng mặt khi đứng dậy",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám không có máy X-quang."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Lê Văn Tư, 67 tuổi, nông dân, con gái dẫn đến. Từ sáng nay nôn và đi ngoài phân lỏng nhiều lần, mệt, chóng mặt khi đứng dậy. Sinh hiệu: HA 98/60 mmHg, mạch 112 l/p, nhiệt độ 38,4 °C, nhịp thở 20 l/p, SpO₂ 97%. Cân nặng 54 kg.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "ve_hen": "Cho ông Tư về uống Oresol rồi hẹn lại khi ông nôn không giữ được nước, mạch 112 l/p, nằm 108/66 mmHg nhưng đứng 3 phút còn 84/52 mmHg và gần như không đi tiểu từ sáng là bỏ sót mất nước vừa kèm hạ huyết áp tư thế. Đêm đó ông còn đi ngoài, uống không đủ, ra nhà vệ sinh ngoài sân dễ ngã (ESC 2018 Bảng 3: mất dịch do tiêu chảy, nôn gây hạ huyết áp tư thế; AGS Beers 2023 Bảng 2: thuốc kháng cholin tăng nguy cơ té); mất dịch kéo dài có thể thành sốc giảm thể tích, hạ kali, suy thận cấp (QĐ 5642/2015 mục 5). Nhà xa 12 km, chị Hạnh phải bỏ tiệm chở ông vào lại trong tình trạng nặng hơn.",
+    "nhap_vien": "Nhập viện ngay cho ông Tư mà không thử truyền dịch tại phòng khám rồi đánh giá lại là quá tay: ông tỉnh táo, nằm 108/66 mmHg, chưa sốc, chưa vô niệu, qSOFA 1/3 (Sepsis-3 2016 Box 4), có người nhà bên cạnh. Bù dịch tĩnh mạch và đánh giá lại là bước đầu (QĐ 5642/2015 mục 4.2.3a); nhập viện chỉ khi không đáp ứng (mốc 4 giờ là nhận định của ca, không có trong tài liệu đã tải). Nằm viện sớm làm ông lỡ vài ngày gặt lúa trước bão, tốn chi phí, và nỗi sợ 'tai biến' của ông càng tăng khi bị giữ lại viện.",
+    "cap_cuu": "Gọi xe cấp cứu chở ông Tư lên bệnh viện tỉnh vì 'nghi đột quỵ' là quá tay: chóng mặt chỉ khi đứng dậy, khám thần kinh không dấu khu trú, đường huyết 5,8 mmol/L, hạ huyết áp tư thế tái tạo đúng triệu chứng (ESC 2018 mục 4.2.2.1; AHA/ASA 2026 mục 4.5). Ông bị chuyển đi xa khi chưa được bù dịch, nằm cáng chờ CT trong khi vấn đề thật là mất dịch và rối loạn điện giải; mất cả ngày, chi phí lớn, và nỗi sợ ban đầu được 'xác nhận' sai lạc."
+   },
+   "loi_mo": "Bác sĩ ơi, ba con từ sáng tới giờ nôn với đi ngoài không biết bao nhiêu lần, giờ đứng lên là chóng mặt muốn ngã. Con có cho ba uống một viên thuốc cầm tiêu ngoài tiệm mà vẫn đi hoài. Ba không uống thuốc gì khác đâu bác sĩ.",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "98/60",
+    "nhiet": "38,4",
+    "nhip_tho": 20,
+    "spo2": 97,
+    "canh_bao": [
+     "Mạch nhanh 112 l/p",
+     "Huyết áp thấp so với nền (135/80)",
+     "Sốt 38,4 °C"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nôn và đi ngoài phân lỏng nhiều lần từ sáng nay, mệt lả, đứng dậy là chóng mặt muốn ngã. Chị Hạnh lo nên đưa ba đi khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "bua_co",
+     "noi_dung": "Tối qua khoảng 18 giờ cả xóm ăn cỗ giỗ nhà ông Hai: gỏi gà xé, lòng heo luộc, nem chua, rau sống. Ông ăn gỏi gà và nem chua khá nhiều. Khoảng 6 giờ sáng nay (12 giờ sau bữa ăn) bắt đầu đau quặn quanh rốn, đi ngoài, rồi nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bữa ăn nghi ngờ và thời gian ủ bệnh"
+    },
+    {
+     "id": "tinh_chat",
+     "noi_dung": "Từ sáng đến giờ đi ngoài khoảng 9 lần, phân lỏng toàn nước màu vàng nâu, mùi chua thối, không máu, không nhầy, không giống nước vo gạo; không mót rặn. Nôn khoảng 5 lần, đầu tiên ra thức ăn, sau ra nước vàng, không ra máu. Đau quặn từng cơn quanh rốn, đi ngoài xong thì dịu bớt. Có lúc ớn lạnh, nóng người.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất tiêu chảy, nôn, đau bụng, sốt"
+    },
+    {
+     "id": "nguoi_cung_an",
+     "noi_dung": "Bà vợ ăn ít, nôn 1 lần, phân lỏng 2 lần, đã đỡ. Trong xóm có thêm 3 người ăn cỗ cũng tiêu chảy, 2 người đã ra trạm y tế xã.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiều người cùng bữa ăn (ổ dịch)"
+    },
+    {
+     "id": "khong_uong",
+     "noi_dung": "Từ trưa ông không dám uống nước vì uống vào là nôn hoặc đi ngoài ngay; chỉ nhấp vài ngụm. Chị Hạnh nói 'ba uống nhiều nước rồi' nhưng thực ra ông uống rất ít. Lần đi tiểu cuối lúc 9 giờ sáng, nước tiểu sẫm, rất ít.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chị Hạnh trả lời chung 'ba uống nước rồi'. Chỉ lộ sự thật khi bác sĩ hỏi thẳng ông uống được bao nhiêu, lần cuối đi tiểu lúc nào, nước tiểu màu gì.",
+     "k": 1,
+     "y": "Lượng nước thật sự uống và lượng nước tiểu"
+    },
+    {
+     "id": "gat_lua",
+     "noi_dung": "Ba ngày nay ông gặt lúa chạy bão, làm giữa nắng cả ngày hôm qua, ngủ chỉ khoảng 4 giờ mỗi đêm, uống ít nước. Ông lo mất mùa và nợ tiền thuê máy gặt, bực bội; trưa hôm qua ăn vội tô mì gói rồi ra ruộng tiếp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Stress công việc, làm nắng, uống ít nước"
+    },
+    {
+     "id": "nghi_mi_goi",
+     "noi_dung": "Chị Hạnh cho rằng ba bị 'trúng thực' vì tô mì gói hôm qua. Ông ăn mì lúc 11 giờ trưa, không có ai khác ăn cùng; không có gì khác thường với gói mì.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nhiễu: nghi ngờ sai bữa ăn",
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc_di_ung",
+     "noi_dung": "Mùa gặt bụi rơm nên ông hắt hơi, ngứa cổ. Đã nhiều ngày ông tự mua 'thuốc dị ứng' viên vàng ở tiệm (clorpheniramin 4 mg), uống 1–2 viên mỗi tối cho dễ ngủ. Đêm qua uống 2 viên, sáng nay uống thêm 1 viên. Từ sáng ông khô miệng, buồn ngủ, chóng mặt. Ông không kể vì sợ con mắng 'uống thuốc linh tinh'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chị Hạnh nói 'ba không uống thuốc gì'. Hỏi chung 'có uống thuốc gì không' thì ông gật theo con. Chỉ kể khi bác sĩ hỏi riêng ông (mời chị ra ngoài) hoặc hỏi cụ thể thuốc dị ứng, thuốc hắt hơi, thuốc ngủ, thuốc mua ở tiệm; ông lấy trong túi vỉ thuốc ra.",
+     "k": 1,
+     "y": "Thuốc dị ứng thế hệ 1 (kháng cholin)"
+    },
+    {
+     "id": "thuoc_cam_tieu",
+     "noi_dung": "Khoảng 10 giờ sáng chị Hạnh mua 1 viên thuốc cầm tiêu (loperamid 2 mg) cho ba uống. Uống xong vẫn đi ngoài thêm 3 lần.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chị Hạnh kể khi bác sĩ hỏi đã cho ba uống thuốc gì ở nhà.",
+     "k": 1,
+     "y": "Đã dùng loperamid"
+    },
+    {
+     "id": "chong_mat",
+     "noi_dung": "Chóng mặt chỉ khi ngồi hoặc đứng dậy, tối sầm mắt, nằm xuống thì hết. Không quay cuồng, không nhìn đôi, không tê yếu tay chân, không méo miệng, không đau đầu, không nói ngọng; giọng khàn vì khô miệng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chóng mặt tư thế, không có dấu thần kinh khu trú"
+    },
+    {
+     "id": "so_dot_quy",
+     "noi_dung": "Tuần trước ông Năm hàng xóm bị méo miệng, liệt nửa người sau một ngày làm ruộng nắng, mất trong bệnh viện. Ông thấy mình chóng mặt, run chân, nói khô khó nghe nên nghĩ 'tai biến sắp tới lượt mình', nhưng không dám nói vì sợ con lo.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chị Hạnh không biết. Chỉ nói khi bác sĩ hỏi riêng ông, hỏi 'chú lo nhất điều gì', hoặc hỏi vì sao chú sợ chóng mặt; ông nói nhỏ rồi mới kể chuyện ông Năm.",
+     "k": 1,
+     "y": "Lý do thật: sợ đột quỵ"
+    },
+    {
+     "id": "ha_nen",
+     "noi_dung": "Đầu tháng 10 đo ở trạm y tế xã: HA 135/80, cân nặng 58 kg. Chưa từng bị tăng huyết áp, đái tháo đường, bệnh tim; không uống thuốc huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mốc nền huyết áp và cân nặng"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Đau từng cơn quanh rốn, đi ngoài thì dịu. Không có điểm đau cố định ở hố chậu phải, không đau dời chỗ từ rốn xuống, ho hoặc đi lại không đau thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau bụng kiểu viêm ruột, không giống ruột thừa"
+    },
+    {
+     "id": "dich_te_ta",
+     "noi_dung": "Không đi vùng dịch, không ăn hải sản sống hay mắm tôm sống; uống nước giếng khoan đã đun sôi. Trong xóm không ai đi ngoài ra nước vo gạo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ tả (dịch tễ)"
+    },
+    {
+     "id": "bvtv",
+     "noi_dung": "Ông không phun thuốc trừ sâu từ tuần trước; không dùng thuốc diệt chuột hay hóa chất nào hôm nay; không vã mồ hôi, không chảy nước mắt hay nước dãi, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ ngộ độc hóa chất bảo vệ thực vật"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói chậm, vẻ mệt. Môi khô nứt, lưỡi khô, mắt hơi trũng; véo da ở mu tay trở lại chậm khoảng 2 giây (da người già kém đàn hồi nên chỉ có giá trị phụ). Tay chân hơi mát. Cân nặng 54 kg (đầu tháng 10: 58 kg, giảm khoảng 7%). Không vàng da, không phù, không ban.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 108/66 mmHg, mạch 106 l/p. Đứng 3 phút: 84/52 mmHg, mạch 124 l/p, ông tối sầm mắt, phải vịn giường, nằm xuống thì hết.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, nhanh 112 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, đều. Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, thở đều.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng hơi lõm, nhu động ruột tăng, sôi bụng. Ấn đau nhẹ lan tỏa quanh rốn và hai hố chậu, không đề kháng, không phản ứng dội. McBurney, Rovsing âm tính; ho và gõ nhẹ không đau thêm. Gan lách không to, không có khối.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, GCS 15, định hướng đúng. Mặt cân đối, nhe răng đều, thè lưỡi giữa; giọng khàn khô nhưng không ngọng. Sức cơ 5/5 bốn chi, cảm giác bình thường, phản xạ gân xương hai bên đều, không rung giật nhãn cầu, không dấu màng não. Đứng dậy loạng choạng khi tối sầm mắt, đi vững khi có người đỡ.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Đồng tử 3 mm hai bên, đều, phản xạ ánh sáng tốt. Kết mạc hơi khô. Không vàng mắt.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Cơ vòng hậu môn bình thường, bóng trực tràng có phân nước màu vàng nâu, găng không dính máu.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 12,6 G/L · Neutrophil 84% · Hb 172 g/L · Hct 0,51 · TC 268 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 12.6,
+      "neu_pct": 84.0,
+      "neu": 10.6,
+      "lym_pct": 10.0,
+      "lym": 1.26,
+      "mono_pct": 5.0,
+      "mono": 0.63,
+      "eos_pct": 0.5,
+      "eos": 0.06,
+      "baso_pct": 0.5,
+      "baso": 0.06,
+      "rbc": 5.6,
+      "hgb": 172,
+      "hct": 0.51,
+      "mcv": 91.0,
+      "mch": 30.7,
+      "mchc": 337,
+      "rdw": 13.4,
+      "plt": 268
+     },
+     "n": "Bạch cầu và bạch cầu trung tính tăng là một tiêu chí cân nhắc kháng sinh (QĐ 5642/2015 mục 4.2.1); Hb và Hct cao do cô đặc máu (QĐ 5642/2015 mục 3.3: công thức máu, sinh hóa)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 11,8 mmol/L · Creatinin 134 µmol/L · eGFR 50 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 11.8,
+      "creat": 134,
+      "egfr": 50
+     },
+     "n": "Tăng ure, creatinin gợi ý tổn thương thận cấp trước thận do mất dịch (chưa có mốc nền để khẳng định). Suy thận cấp là biến chứng của tiêu chảy do vi khuẩn (QĐ 5642/2015 mục 3.3, 5)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 133 · K 3,1 · Cl 97 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 133,
+      "k": 3.1,
+      "cl": 97
+     },
+     "n": "Hạ natri, hạ kali nhẹ do mất qua phân, nôn (QĐ 5642/2015 mục 5: biến chứng rối loạn điện giải, hạ kali)."
+    },
+    "glu_mm": {
+     "v": "e",
+     "r": "Đường huyết mao mạch 5,8 mmol/L",
+     "n": "Hạ đường huyết có thể giống đột quỵ cấp (AHA/ASA 2026 mục 4.5; mục 3.3: đường huyết tại giường)."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang nhanh 112 l/p, đều. Không rung nhĩ. Không ST chênh. ST–T bình thường, có sóng U nhỏ ở V2–V3; QTc 440 ms.",
+     "n": "ECG nền khi chóng mặt người cao tuổi (AHA/ASA 2026 mục 3.3); không rung nhĩ."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 46 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 46
+     },
+     "n": "Gợi ý nhiễm khuẩn đường ruột; không dùng đơn độc để quyết định kháng sinh."
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "Tỷ trọng 1,030 · pH 5,0 · ceton +; không bạch cầu, nitrit, protein, glucose, bilirubin, hồng cầu",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.03,
+      "u_ph": 5.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "+",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Nước tiểu cô đặc, ceton do nhịn ăn; không bắt buộc."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "Phân nước vàng nâu. Bạch cầu 5–8/vi trường, không hồng cầu, không thấy đơn bào, trứng ký sinh.",
+     "n": "Soi phân: QĐ 5642/2015 mục 3.3, 4.2.1; IDSA 2017 khuyến cáo 20 không dùng bạch cầu phân để xác định tác nhân (sổ mâu thuẫn): làm hay không đều không sai."
+    },
+    "cay_phan": {
+     "v": "u",
+     "r": "Đã lấy phân, gửi cấy tìm Salmonella, Shigella, Campylobacter, Vibrio; kết quả sau 48–72 giờ.",
+     "n": "Có sốt, đau quặn bụng, ổ dịch và người cao tuổi: nên cấy phân trước khi dùng kháng sinh (IDSA 2017 khuyến cáo 8, 16; ACG 2016 khuyến cáo 1, 2, Hình 1; QĐ 5642/2015 mục 3.3, 3.4)."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Quai ruột dãn nhẹ chứa dịch, tăng nhu động, thành ruột không dày. Không dịch tự do ổ bụng. Ruột thừa không quan sát rõ do hơi ruột (không loại trừ hoàn toàn). Hai thận bình thường, không ứ nước.",
+     "n": "Thay X-quang bụng; siêu âm không loại trừ viêm ruột thừa ở người cao tuổi nên khám lặp (WSES 2020 khuyến cáo 1.2.1; WSES 2025 khuyến cáo 3.4: ưu tiên CT, cơ sở không có)."
+    },
+    "cay": {
+     "n": "Chưa cần: không có dấu nhiễm khuẩn huyết (tỉnh, qSOFA 1/3). Nếu HA không lên sau bù dịch thì lấy cấy máu trước khi dùng kháng sinh tĩnh mạch (IDSA 2017 khuyến cáo 34)."
+    },
+    "xq_bung": {
+     "n": "Không cần: bụng mềm, không phản ứng thành bụng. Cơ sở không có X-quang; khám lặp và siêu âm thay thế."
+    },
+    "ct_nao": {
+     "n": "Không có chỉ định: chóng mặt chỉ theo tư thế, khám thần kinh bình thường, đường huyết bình thường. Cơ sở không có CT."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ngộ độc thực phẩm: viêm dạ dày–ruột cấp nghi nhiễm khuẩn sau cỗ giỗ (gỏi gà, nem chua), ngày 1, kèm mất nước vừa, hạ huyết áp tư thế, hạ natri và kali nhẹ, tổn thương thận cấp trước thận nhẹ; chưa có dấu nhiễm khuẩn huyết",
+     "ok": 1,
+     "n": "Ăn chung bữa, cùng xóm 4 người mắc, ủ bệnh 12 giờ, sốt, nôn, đau quặn, tiêu chảy phân nước (QĐ 5642/2015 mục 1, 3.1, 3.2; QĐ 4178/2007 mục II.2a: nhiễm độc thức ăn do Salmonella 12–14 giờ sau ăn). Mất nước độ II: mạch 100–120, da khô, thiểu niệu, HA tâm thu đứng 84 mmHg (< 90) (QĐ 5642/2015 mục 3.1)."
+    },
+    {
+     "t": "Tả",
+     "n": "Tả khởi phát nhanh, 20–50 lần/ngày, toàn nước vo gạo, không sốt, không đau quặn (QĐ 5642/2015 mục 3.2); ông đi 9 lần, phân vàng nâu, có sốt và đau quặn; không dịch tễ (QĐ 4178/2007 mục II.1c)."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Đau quanh rốn từng cơn, giảm khi đi ngoài, bụng mềm, McBurney và Rovsing âm tính, ho không đau; điểm lâm sàng dùng để loại trừ (WSES 2020 khuyến cáo 1.2.1). Alvarado kém tin cậy ở người già (Statement 1.3); khám lại sau truyền dịch."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "Sốt, mạch nhanh và HA thấp nhưng tỉnh táo, nhịp thở 20, HA nằm 108/66 và tụt rõ theo tư thế (hạ thể tích). qSOFA 1/3 (HA tâm thu ≤ 100) chưa đủ ≥ 2 (Sepsis-3 2016 Box 4); SSC 2026 khuyến cáo 4: không dùng qSOFA đơn độc để sàng lọc."
+    },
+    {
+     "t": "Đột quỵ / tai biến mạch máu não",
+     "n": "Chóng mặt chỉ khi đứng dậy, hết khi nằm; khám thần kinh bình thường; đường huyết 5,8 mmol/L; hạ huyết áp tư thế tái tạo triệu chứng (ESC 2018 mục 4.2.2.1: HA tâm thu tụt ≥ 20 mmHg hoặc xuống < 90 mmHg; AHA/ASA 2026 mục 4.5, 3.3)."
+    },
+    {
+     "t": "Ngộ độc hóa chất bảo vệ thực vật (phospho hữu cơ)",
+     "n": "Không phun thuốc, đồng tử 3 mm, mạch nhanh (không phải hội chứng muscarin: đồng tử co < 2 mm, nhịp chậm < 60, vã mồ hôi) (QĐ 3610/2015 bài Phospho hữu cơ mục 2.1; QĐ 5642/2015 mục 3.5 chẩn đoán phân biệt ngộ độc hóa chất)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giữ ông lại phòng khám theo dõi, nằm đầu thấp, đặt đường truyền, truyền Ringer lactat (hoặc NaCl 0,9%); theo dõi mạch, HA nằm–đứng, nước tiểu mỗi 30–60 phút đến khi mạch dưới 100, hết tụt HA tư thế và đi tiểu được",
+     "v": "c",
+     "n": "Mất nước từ độ II, không uống được: bù đường tĩnh mạch, ưu tiên Ringer lactat hoặc NaCl 0,9% (QĐ 5642/2015 mục 4.2.3a); chỉnh tốc độ theo sinh hiệu (QĐ 4178/2007 mục III.2a, Bảng 2 loại III: truyền dịch là chính); IDSA 2017 khuyến cáo 41–42, Bảng 7: đến khi mạch, tưới máu, tri giác bình thường. Thể tích, tốc độ cho người lớn mất nước vừa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khi hết nôn: Oresol giảm thẩm thấu uống từng ngụm nhỏ, bù tiếp mỗi lần nôn hay đi ngoài đến khi hết tiêu chảy",
+     "v": "c",
+     "n": "ORS đầu tay cho mất nước nhẹ–vừa và bù mất liên tục (IDSA 2017 khuyến cáo 39, 42, 43; Bảng 7: người lớn 2–4 L, duy trì tự do khoảng 2 L/ngày). Pha 1 gói với 1 lít nước đun sôi để nguội (QĐ 4178/2007 mục III.2a). Người già nặng: ORS cân bằng điện giải (ACG 2016 khuyến cáo 5)."
+    },
+    {
+     "t": "Bổ sung kali theo dịch truyền sau khi ông đi tiểu, khi uống được chuyển đường uống; kiểm lại điện giải, creatinin trước khi cho về",
+     "v": "c",
+     "n": "KCl 1 g thêm vào mỗi 1 lít dịch truyền, khi uống được thay bằng đường uống (QĐ 4178/2007 mục III.2a, hướng dẫn tả, áp dụng tham khảo); hạ kali là biến chứng (QĐ 5642/2015 mục 5). Chờ có nước tiểu vì creatinin 134 µmol/L (lập luận của ca); liều kali uống: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng ngay clorpheniramin (thuốc dị ứng thế hệ 1) trong thời gian bệnh; giải thích cho ông, không mắng",
+     "v": "c",
+     "n": "AGS Beers 2023 Bảng 2: kháng histamin thế hệ 1 (clorpheniramin) kháng cholin mạnh, tránh ở người cao tuổi (lú lẫn, khô miệng, té). Thuốc kháng cholin có thể làm nặng bệnh do độc tố như C. perfringens (IDSA 2017, phần Ancillary Management). Chóng mặt, khô miệng của ông một phần do thuốc (lập luận của ca)."
+    },
+    {
+     "t": "Gửi cấy phân trước khi dùng kháng sinh; hỏi người cùng ăn cỗ và báo trạm y tế xã/y tế dự phòng về 4 người mắc cùng bữa",
+     "v": "c",
+     "n": "Cấy phân khi sốt, đau quặn bụng nặng (IDSA 2017 khuyến cáo 8), ổ dịch (khuyến cáo 16; ACG 2016 khuyến cáo 1), bệnh vừa–nặng (ACG 2016 khuyến cáo 2). Quy trình báo cáo ổ dịch tại Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng sinh: không kinh nghiệm, cấy phân rồi điều trị theo kết quả; hoặc cân nhắc ngay vì người già có sốt, bạch cầu tăng: ciprofloxacin 500 mg × 2 lần/ngày × 5 ngày, hoặc azithromycin 500 mg/ngày × 3 ngày (ACG 2016) hoặc × 5 ngày (QĐ 5642/2015)",
+     "v": "c",
+     "n": "Hai hướng đều chấp nhận (sổ mâu thuẫn). Không kinh nghiệm: IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10, Hình 1 (sốt ≥ 101 °F = 38,3 °C: vi sinh rồi điều trị theo nguyên nhân). Có kháng sinh: người già, sốt, bạch cầu tăng (QĐ 5642/2015 mục 4.2.1); ciprofloxacin 0,5 g × 2/ngày × 5 ngày hoặc azithromycin 0,5 g/ngày × 5 ngày (mục 4.2.2a); azithromycin 500 mg × 3 ngày (ACG 2016 Bảng 4, chú thích c, d). Khác nhau vì QĐ 5642 là văn bản chung 2015, ACG/IDSA cho thấy kháng sinh không rút ngắn đa số tiêu chảy cộng đồng."
+    },
+    {
+     "t": "Giải thích riêng với ông và chị Hạnh: chóng mặt do mất nước làm tụt HA khi đứng và do thuốc dị ứng, khám thần kinh và đường huyết bình thường nên không phải đột quỵ; chỉ dấu hiệu đột quỵ cần gọi cấp cứu ngay (méo miệng, yếu tay chân một bên, nói ngọng)",
+     "v": "c",
+     "n": "Trả lời đúng nỗi sợ thật. Hạ huyết áp tư thế: HA tâm thu tụt ≥ 20 mmHg, tâm trương ≥ 10 mmHg hoặc xuống < 90 mmHg (ESC 2018 mục 4.2.2.1); mất dịch do tiêu chảy, nôn (Bảng 3). Hạ đường huyết là bệnh giả đột quỵ (AHA/ASA 2026 mục 4.5). Thang FAST/CPSS: AHA/ASA 2026 mục 2.3; chi tiết từng dấu hiệu không có trong bản chữ đã tải."
+    },
+    {
+     "t": "Đánh giá lại sau truyền và uống thử (mốc đề xuất 4 giờ): khám bụng lặp, HA nằm–đứng, nước tiểu, điện giải; mạch ≥ 100, HA đứng < 90, vẫn nôn không uống được, không tiểu, đau khu trú hố chậu phải hoặc phản ứng thành bụng, tri giác giảm thì nhập viện hoặc chuyển tuyến",
+     "v": "c",
+     "n": "Mất nước độ II–III, HA không lên: Bảng 2 loại III–IV của QĐ 4178/2007 (trung tâm y tế huyện, tuyến tỉnh); biến chứng sốc giảm thể tích, hạ kali, suy thận cấp, nhiễm khuẩn huyết (QĐ 5642/2015 mục 5). Khám bụng lặp để loại viêm ruột thừa khi không có hình ảnh (WSES 2020 khuyến cáo 1.2.1). Mốc 4 giờ là lựa chọn của ca."
+    },
+    {
+     "t": "Khi đủ tiêu chuẩn cho về: ăn lại thức ăn thường ngay, uống Oresol đủ, rửa tay xà phòng, nấu chín thức ăn; tái khám sau 2–3 ngày với kết quả cấy phân, quay lại ngay khi có dấu hiệu nặng",
+     "v": "c",
+     "n": "Ăn lại sớm (IDSA 2017 khuyến cáo 45); rửa tay, an toàn thực phẩm (IDSA 2017 khuyến cáo 52, 54; QĐ 5642/2015 mục 6); dấu hiệu quay lại ngay: QĐ 5642/2015 mục 3.2, 5. Mốc tái khám 2–3 ngày và tiêu chuẩn cho về cho người lớn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol hạ sốt khi sốt gây khó chịu, tổng dưới 3 g/ngày",
+     "v": "a",
+     "n": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1: 500–1000 mg/lần, cách 6–8 giờ, không quá 4 g/24 giờ; Phụ lục NSAID mục 3.3: người cao tuổi, bệnh thận < 3 g/ngày. Ghi cả hai; < 3 g thận trọng hơn. Ngưỡng nhiệt độ hạ sốt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Diosmectit (Smecta), thuốc giảm co thắt (spasmaverin), hoặc ondansetron nếu nôn cản trở uống Oresol (sau khi đã bù dịch)",
+     "v": "a",
+     "n": "Smecta, spasmaverin: QĐ 5642/2015 mục 4.2.3b; ondansetron: IDSA 2017 khuyến cáo 46, 48 (khuyến cáo 48 nêu trẻ > 4 tuổi và thiếu niên, người lớn không nêu riêng). Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Men vi sinh",
+     "v": "a",
+     "n": "IDSA 2017 khuyến cáo 49: có thể dùng (yếu); ACG 2016 khuyến cáo 6: không khuyến cáo cho người lớn. Dùng hay không đều chấp nhận (sổ mâu thuẫn)."
+    },
+    {
+     "t": "Loperamid (thuốc cầm tiêu) cho ông uống tiếp",
+     "v": "w",
+     "n": "Tránh khi có sốt hoặc nghi tiêu chảy xâm nhập (IDSA 2017 khuyến cáo 47, mạnh); QĐ 5642/2015 mục 4.2.3b không lạm dụng thuốc cầm tiêu chảy như loperamide. Ca này sốt 38,4 °C, người già, đau quặn."
+    },
+    {
+     "t": "Cho về uống Oresol và hẹn tái khám sau 3 ngày, không truyền dịch",
+     "v": "w",
+     "n": "Mất nước từ độ II không uống được cần bù đường tĩnh mạch (QĐ 5642/2015 mục 4.2.3a); HA đứng 84/52, ít nước tiểu, K 3,1, creatinin 134: nguy cơ ngã, sốc giảm thể tích, suy thận cấp (QĐ 5642/2015 mục 5; ESC 2018 mục 4.2.2.1)."
+    },
+    {
+     "t": "Ibuprofen hoặc diclofenac để hạ sốt, giảm đau bụng",
+     "v": "w",
+     "n": "Người cao tuổi, bệnh thận: tránh NSAID nếu có thể, dùng acetaminophen < 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3). Đang mất nước, creatinin tăng nên NSAID làm nặng thêm thận (lập luận của ca)."
+    },
+    {
+     "t": "Bolus nhanh dịch truyền trong vài phút, hoặc ceftriaxon tĩnh mạch ngay",
+     "v": "w",
+     "n": "Ông chưa sốc, tỉnh táo, qSOFA 1/3 (Sepsis-3 2016 Box 4; SSC 2026 khuyến cáo 4). Kháng sinh đường truyền chỉ khi nặng, có nhiễm khuẩn toàn thân (QĐ 5642/2015 mục 4.2.2); bolus dành cho mất nước nặng (IDSA 2017 Bảng 7)."
+    },
+    {
+     "t": "Gọi cấp cứu, chuyển ngay đi chụp CT sọ não vì nghi đột quỵ",
+     "v": "w",
+     "n": "Không dấu thần kinh khu trú, đường huyết bình thường, hạ HA tư thế giải thích triệu chứng (ESC 2018 mục 4.2.2.1; AHA/ASA 2026 mục 4.5). Cơ sở không có CT."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ngộ độc thực phẩm: viêm dạ dày–ruột cấp nghi nhiễm khuẩn sau cỗ giỗ (gỏi gà xé, nem chua), ngày 1; chưa rõ căn nguyên, chờ cấy phân; trong xóm 4 người cùng bữa mắc",
+     "Mất nước vừa (độ II): sụt khoảng 7% cân nặng (58 → 54 kg), mạch 112, môi lưỡi khô, thiểu niệu, hạ huyết áp tư thế (nằm 108/66, đứng 84/52)",
+     "Rối loạn điện giải: Na 133, K 3,1 mmol/L; nghi tổn thương thận cấp trước thận nhẹ (ure 11,8, creatinin 134 µmol/L, chưa có mốc nền)",
+     "Chưa có dấu nhiễm khuẩn huyết (tỉnh, qSOFA 1/3), chưa có dấu bụng ngoại khoa, chưa có dấu thần kinh khu trú",
+     "Yếu tố góp phần: clorpheniramin tự mua (kháng cholin) gây khô miệng, buồn ngủ, chóng mặt; đã uống 1 viên loperamid; ngủ ít, làm nắng, uống ít nước nhiều ngày"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: sinh hiệu, tri giác; hỏi cả chị Hạnh lẫn ông (tách riêng); bữa ăn nghi ngờ, người cùng ăn, thời gian ủ; số lần nôn, đi ngoài, máu, sốt, nước tiểu; lượng nước thật sự uống; thuốc đã dùng kể cả thuốc tự mua; khám mất nước, HA nằm–đứng, bụng, thần kinh; đường huyết tại giường, điện giải, thận, công thức máu; chẩn đoán; xử trí.",
+     "Vì sao là ngộ độc thực phẩm: 12 giờ sau ăn nôn, đau quặn, tiêu chảy phân nước, sốt; nhiều người cùng bữa (QĐ 5642/2015 mục 1, 3.1, 3.2; Salmonella 12–14 giờ sau ăn, QĐ 4178/2007 mục II.2a). Ổ dịch: cấy phân và phối hợp y tế dự phòng (IDSA 2017 khuyến cáo 16; ACG 2016 khuyến cáo 1). Chưa cấy nên là chẩn đoán lâm sàng và dịch tễ.",
+     "Mức mất nước: mạch 100–120, da khô, thiểu niệu, HA tâm thu đứng < 90 là độ II (QĐ 5642/2015 mục 3.1; QĐ 4178/2007 Bảng 1). HA nằm 108/66 so với nền 135/80 là tụt rõ, đứng 84/52 (tụt 24 mmHg): hạ huyết áp tư thế (ESC 2018 mục 4.2.2.1). Người già có nguy cơ tử vong cao khi tiêu chảy (ACG 2016, phần ORS: hơn 80% tử vong do tiêu chảy ở Mỹ là người già); biến chứng: sốc giảm thể tích, hạ kali, suy thận cấp (QĐ 5642/2015 mục 5).",
+     "Loại tả: 9 lần/ngày, phân vàng nâu, có sốt và đau quặn, không dịch tễ; tả toàn nước vo gạo, không sốt, không đau quặn (QĐ 5642/2015 mục 3.2; QĐ 4178/2007 mục II.1). Loại viêm ruột thừa: đau quặn quanh rốn giảm khi đi ngoài, McBurney âm tính; điểm lâm sàng để loại trừ (WSES 2020 khuyến cáo 1.2.1), Alvarado kém tin cậy ở người già (Statement 1.3), người già ưu tiên CT khi cần hình ảnh (WSES 2025 khuyến cáo 3.4) nhưng cơ sở không có: khám lặp sau truyền dịch, chuyển nếu nghi.",
+     "Loại nhiễm khuẩn huyết: tỉnh, nhịp thở 20, chỉ HA tâm thu ≤ 100 (qSOFA 1/3, Sepsis-3 2016 Box 4); không dùng qSOFA đơn độc (SSC 2026 khuyến cáo 4). HA tụt theo tư thế và đáp ứng bù dịch là hướng hạ thể tích; HA không lên sau bù dịch thì nghĩ nhiễm khuẩn huyết và chuyển.",
+     "Loại đột quỵ: chóng mặt chỉ khi đứng, khám thần kinh và đường huyết bình thường (ESC 2018 mục 4.2.2.1; AHA/ASA 2026 mục 4.5, 3.3); nỗi sợ thật chỉ lộ khi hỏi riêng ông (chuyện ông Năm). Loại phospho hữu cơ: không phun thuốc, đồng tử 3 mm, mạch nhanh (QĐ 3610/2015 mục 2.1). Clorpheniramin kháng cholin mạnh, tránh ở người già (AGS Beers 2023 Bảng 2); chỉ hỏi riêng ông mới biết."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù nước đầu tiên: mất nước độ II không uống được thì truyền Ringer lactat hoặc NaCl 0,9% (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 41–42) rồi chuyển ORS. Thể tích, tốc độ cho người lớn: không có trong tài liệu đã tải; chỉnh theo sinh hiệu (QĐ 4178/2007 mục III.2a). QĐ 4178/2007 Bảng 2 loại III xếp bệnh nhân kiểu này ở trung tâm y tế huyện hoặc tuyến tỉnh: phòng khám cần giường lưu và ngưỡng nâng bậc rõ; không có điều kiện thì chuyển tuyến cũng hợp lý (nhận định của ca).",
+     "Kali: K 3,1 mmol/L, thêm 1 g KCl/lít dịch truyền sau khi ông đi tiểu, đổi sang uống khi uống được (QĐ 4178/2007 mục III.2a); creatinin 134 µmol/L nên chờ có nước tiểu (lập luận của ca).",
+     "Kháng sinh, ghi cả hai cách: (A) không kinh nghiệm, cấy phân rồi điều trị theo kết quả (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10, Hình 1); (B) cân nhắc ngay vì người già có sốt, bạch cầu tăng (QĐ 5642/2015 mục 4.2.1): ciprofloxacin 0,5 g × 2/ngày × 5 ngày hoặc azithromycin 0,5 g/ngày × 5 ngày (mục 4.2.2a), hoặc azithromycin 500 mg × 3 ngày (ACG 2016 Bảng 4). Con số thận trọng hơn: số ngày ngắn nhất. Khác nhau vì QĐ 5642 là văn bản chung 2015, ACG/IDSA cho thấy kháng sinh không rút ngắn đa số tiêu chảy cộng đồng.",
+     "Không dùng: loperamid vì sốt (IDSA 2017 khuyến cáo 47; QĐ 5642/2015 mục 4.2.3b); NSAID vì tuổi cao, mất nước, creatinin tăng (QĐ 361/2014 Phụ lục NSAID mục 3.3). Men vi sinh, Smecta, ondansetron: chấp nhận, không bắt buộc. Paracetamol < 3 g/ngày (QĐ 361/2014); bên rộng hơn: không quá 4 g/24 giờ (mục 3.1).",
+     "Nâng bậc: mạch ≥ 100, HA đứng < 90, nôn không uống được, không tiểu, đau khu trú hố chậu phải hay tri giác giảm thì nhập viện hoặc chuyển tuyến (QĐ 4178/2007 Bảng 2 loại III–IV; QĐ 5642/2015 mục 5; WSES 2020 khuyến cáo 1.2.1). Nói riêng với ông về nỗi sợ đột quỵ và clorpheniramin; chị Hạnh biết cách pha Oresol, không cho thuốc cầm tiêu."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ringer lactat truyền tĩnh mạch (hoặc NaCl 0,9%)",
+      "ham_luong": "Chai 500 mL",
+      "lieu": "Chỉnh tốc độ theo mạch, HA nằm–đứng, nước tiểu; thể tích và tốc độ cụ thể: không có trong tài liệu đã tải",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Tại phòng khám; ngừng khi mạch < 100, hết tụt HA tư thế, tiểu được, uống được",
+      "so_ngay": "Vài giờ trong ngày khám",
+      "ghi_chu": "QĐ 5642/2015 mục 4.2.3a (NaCl 0,9%, glucose 5% tỉ lệ 1:1 là lựa chọn khác); IDSA 2017 khuyến cáo 41–42, Bảng 7."
+     },
+     {
+      "thuoc": "Kali clorid",
+      "ham_luong": "1 g thêm vào mỗi 1 lít dịch truyền",
+      "lieu": "1 g/lít dịch truyền, sau khi ông đi tiểu; khi uống được chuyển đường uống (liều uống: không có trong tài liệu đã tải)",
+      "duong": "Truyền tĩnh mạch rồi uống",
+      "thoi_diem": "Sau khi có nước tiểu",
+      "so_ngay": "Đến khi K bình thường",
+      "ghi_chu": "QĐ 4178/2007 mục III.2a (hướng dẫn tả, áp dụng tham khảo). Cân nhắc thận là của ca."
+     },
+     {
+      "thuoc": "Oresol (ORS), ưu tiên loại giảm thẩm thấu",
+      "ham_luong": "Gói chuẩn pha 1 lít nước đun sôi để nguội (NaCl 3,5 g, NaHCO₃ 2,5 g, KCl 1,5 g, glucose 20 g)",
+      "lieu": "Từng ngụm nhỏ; mất nước vừa 2–4 L trong đợt bù đầu, sau đó bù theo mỗi lần nôn hay đi ngoài, tự do khoảng 2 L/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi hết nôn, sau truyền dịch",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "IDSA 2017 khuyến cáo 39, 42, 43, Bảng 7; QĐ 4178/2007 mục III.2a (công thức, pha 1 lít); ORS cân bằng điện giải cho người già nặng (ACG 2016 khuyến cáo 5)."
+     },
+     {
+      "thuoc": "Paracetamol (khi cần)",
+      "ham_luong": "500 mg",
+      "lieu": "500–1000 mg/lần, cách 6–8 giờ, tổng dưới 3 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt hoặc đau bụng gây khó chịu",
+      "so_ngay": "Khi cần trong đợt bệnh",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1 (không quá 4 g/24 giờ); Phụ lục NSAID mục 3.3 (người cao tuổi, bệnh thận: < 3 g/ngày). Ghi cả hai; < 3 g thận trọng hơn."
+     },
+     {
+      "thuoc": "Ciprofloxacin (chỉ nếu chọn hướng có kháng sinh)",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, sau khi gửi cấy phân",
+      "so_ngay": "5 ngày; chỉnh theo cấy phân",
+      "ghi_chu": "QĐ 5642/2015 mục 4.2.2a. Hướng cấy phân rồi điều trị theo kết quả thì chưa kê (IDSA 2017 khuyến cáo 36, 38). Chỉnh liều theo eGFR 50: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Azithromycin (lựa chọn khác của hướng có kháng sinh)",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi sáng, sau khi gửi cấy phân",
+      "so_ngay": "3 ngày (ACG 2016 Bảng 4) hoặc 5 ngày (QĐ 5642/2015 mục 4.2.2a)",
+      "ghi_chu": "Hai số ngày khác nhau (sổ mâu thuẫn); ACG 2016 Bảng 4 chú thích c, d: ưu tiên cho tiêu chảy có sốt, đầu tay ở Đông Nam Á."
+     },
+     {
+      "thuoc": "Clorpheniramin (thuốc dị ứng ông tự mua)",
+      "ham_luong": "4 mg",
+      "lieu": "NGƯNG",
+      "duong": "Uống",
+      "thoi_diem": "Từ nay",
+      "so_ngay": "Không dùng trong thời gian bệnh và nên tránh lâu dài",
+      "ghi_chu": "AGS Beers 2023 Bảng 2: kháng histamin thế hệ 1, tránh ở người cao tuổi. Thuốc thay thế: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Ở lại phòng khám truyền dịch và theo dõi; khi uống được, uống Oresol từng ngụm nhỏ, nôn thì nghỉ rồi uống chậm lại (QĐ 4178/2007 mục III.2a). Chị Hạnh pha đúng 1 gói với 1 lít nước, không pha đặc, không cho ba uống thêm thuốc cầm tiêu.",
+     "Ông ngưng clorpheniramin; mang vỉ thuốc đến khi tái khám để chọn thuốc khác (AGS Beers 2023 Bảng 2). Đứng dậy từ từ, có người đỡ khi đi vệ sinh (ESC 2018 mục 4.2.2.1).",
+     "Ăn lại ngay thức ăn thường, dễ tiêu (IDSA 2017 khuyến cáo 45). Rửa tay xà phòng, thức ăn nấu chín (IDSA 2017 khuyến cáo 52, 54; QĐ 5642/2015 mục 6). Báo trạm y tế xã về 4 người cùng ăn cỗ.",
+     "Quay lại hoặc gọi cấp cứu ngay nếu nôn không uống được, ít hoặc không tiểu, chóng mặt ngất, sốt cao, đau bụng khu trú bên phải dưới, phân có máu hay nước vo gạo (QĐ 5642/2015 mục 3.2, 5; QĐ 4178/2007 mục IV.1); méo miệng, yếu tay chân một bên, nói ngọng, lơ mơ: gọi cấp cứu (AHA/ASA 2026 mục 2.3).",
+     "Tái khám sau 2–3 ngày, mang kết quả cấy phân; kiểm lại điện giải và creatinin (mốc 2–3 ngày: không có trong tài liệu đã tải)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Tư nằm lại phòng khám truyền Ringer lactat vài giờ; chiều cùng ngày mạch xuống 88 l/p, đứng lên 3 phút HA 118/72, hết tối sầm mắt, đi tiểu lần đầu và uống hết 2 lít Oresol. Bụng mềm khi khám lại, K lên 3,6. Ông về nhà với đơn dặn, tối đó vẫn đi ngoài 2 lần rồi thưa dần; cấy phân sau 48 giờ mọc Salmonella không thương hàn; ông đã hết sốt nên bác sĩ chọn hướng không kháng sinh (IDSA 2017 khuyến cáo 36). Ông kể nỗi sợ đột quỵ khi được hỏi riêng và thôi uống thuốc dị ứng vàng. Cùng bữa cỗ, ông Hai hàng xóm chỉ tự mua loperamid và ciprofloxacin, uống ít nước, đứng dậy ngã một lần trong nhà vệ sinh nhưng không gãy xương và cũng hết sau 4 ngày. Kết cục tốt của ông Hai không biến cách làm đó thành đúng: loperamid khi sốt, bỏ qua bù dịch và nguy cơ té ở người 67 tuổi mất nước là xử trí ẩu, chỉ nhờ tự giới hạn của bệnh và may mắn mà không có biến chứng (QĐ 5642/2015 mục 4.2.3, 5; IDSA 2017 khuyến cáo 47).",
+ "nhieu": [
+  "Thân nhân trả lời thay: chị Hạnh nói 'ba uống nước nhiều rồi', 'ba không uống thuốc gì', nghi tô mì gói; thật ra ông uống rất ít, đã tự uống clorpheniramin và giấu nỗi sợ đột quỵ. Phải hỏi thẳng ông hoặc mời chị ra ngoài.",
+  "Chóng mặt, 'run chân, nói khô' gợi đột quỵ, nhưng chỉ khi đứng, kèm khô miệng do mất nước và clorpheniramin; khám thần kinh và đường huyết bình thường.",
+  "Sốt, mạch nhanh, HA thấp gợi nhiễm khuẩn huyết; đau quanh rốn gợi viêm ruột thừa; tiêu chảy nhiều gợi tả: dừng lại cân nhắc từng chẩn đoán (dịch tễ, phân, khám bụng, đáp ứng bù dịch).",
+  "Không có X-quang: không ảnh hưởng chẩn đoán; thay bằng khám bụng lặp có mốc, siêu âm bụng, chuyển tuyến nếu nghi bụng ngoại khoa."
+ ],
+ "bai_hoc_bien": [
+  "Người già tiêu chảy mất nước nhanh, tụt huyết áp tư thế, suy thận cấp: đo HA nằm–đứng là việc nhỏ cho thông tin lớn (ESC 2018 mục 4.2.2.1; QĐ 5642/2015 mục 5).",
+  "Thân nhân trả lời thay: hỏi thẳng bệnh nhân lượng nước thật sự uống, thuốc đã dùng (kể cả thuốc dị ứng, thuốc ngủ mua ở tiệm) và nỗi lo thật.",
+  "Sợ đột quỵ: loại trừ thật bằng khám thần kinh, đường huyết, HA tư thế rồi nói rõ kết quả; không chụp CT hay chuyển cấp cứu vì lời nói.",
+  "Loperamid khi có sốt, kháng sinh tự mua, cho về uống Oresol dù đang nôn: kết cục tốt không biến những cách này thành đúng.",
+  "Diagnostic timeout trước khi chốt: đột quỵ, nhiễm khuẩn huyết, viêm ruột thừa, tả, ngộ độc hóa chất bảo vệ thực vật ở nông dân; mỗi chẩn đoán có một dữ kiện loại trừ riêng."
+ ],
+ "diem_nho": [
+  "Mất nước từ độ II không uống được: truyền Ringer lactat hoặc NaCl 0,9% (QĐ 5642/2015 mục 4.2.3a); nhẹ–vừa: ORS đầu tay (IDSA 2017 khuyến cáo 39, 42).",
+  "Hạ huyết áp tư thế: tâm thu tụt ≥ 20 mmHg, tâm trương ≥ 10 mmHg hoặc xuống < 90 mmHg (ESC 2018 mục 4.2.2.1).",
+  "Kháng sinh kinh nghiệm cho tiêu chảy có sốt ở người già: hai hướng đều đúng (QĐ 5642/2015 mục 4.2.1; IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9–10, Hình 1). Không loperamid khi sốt (IDSA 2017 khuyến cáo 47).",
+  "Clorpheniramin ở người cao tuổi: tránh (AGS Beers 2023 Bảng 2). qSOFA không dùng đơn độc (SSC 2026 khuyến cáo 4); hạ đường huyết là bệnh giả đột quỵ (AHA/ASA 2026 mục 4.5)."
+ ],
+ "nguon": [
+  "BYT QĐ 5642/2015 – TL-0038 – Bệnh tiêu chảy do vi khuẩn, mục 1, 3.1–3.5, 4.2.1–4.2.3, 5, 6",
+  "BYT QĐ 4178/2007 hướng dẫn bệnh tả – TL-0176 – mục II.1c, II.2a, III.2a, Bảng 1–2, IV.1",
+  "BYT QĐ 3610/2015 – TL-0035 – Ngộ độc cấp hóa chất trừ sâu phospho hữu cơ, mục 2.1",
+  "IDSA 2017 Infectious Diarrhea – TL-0230 – khuyến cáo 8, 16, 34, 36, 38–43, 45–49, 52, 54; Bảng 7; phần Ancillary Management",
+  "ACG 2016 Acute Diarrheal Infections – TL-0233 – khuyến cáo 1, 2, 5, 6, 9, 10; Hình 1; Bảng 4",
+  "AGS Beers 2023 – TL-0022 – Bảng 2; ESC 2018 Syncope – TL-0090 – mục 4.2.2.1, Bảng 3",
+  "AHA/ASA 2026 đột quỵ thiếu máu cục bộ cấp – TL-0046 – mục 2.3, 3.3, 4.5; Sepsis-3 2016 – TL-0101 – Box 4; Surviving Sepsis Campaign 2026 – TL-0049 – khuyến cáo 4",
+  "WSES 2020 viêm ruột thừa – TL-0263 – khuyến cáo 1.2.1, Statement 1.3; WSES 2025 – TL-0053 – khuyến cáo 3.4; BYT QĐ 361/2014 – TL-0286 – Phụ lục thuốc giảm đau mục 3.1, Phụ lục NSAID mục 3.3",
+  "Không có trong tài liệu đã tải: thể tích, tốc độ truyền dịch cho người lớn mất nước vừa; liều kali uống; liều ondansetron, Smecta, spasmaverin; ngưỡng nhiệt độ hạ sốt; mốc nâng bậc 4 giờ; mốc tái khám 2–3 ngày; chỉnh liều kháng sinh theo eGFR; quy trình báo cáo ổ dịch ở Việt Nam; chi tiết từng dấu hiệu đột quỵ."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 16/10/2026. Tài liệu đã đọc: TL-0038, TL-0176, TL-0035 (mục 2.1), TL-0230 (khuyến cáo 8–54, Bảng 7), TL-0233 (khuyến cáo 1–10, Hình 1, Bảng 4), TL-0022 (Bảng 2), TL-0090 (mục 4.2.2), TL-0046 (mục 2.3, 3.3, 4.5), TL-0101, TL-0049, TL-0263, TL-0053, TL-0286.",
+  "Biến sổ cái đều có chỗ đứng: thân nhân trả lời thay (chị Hạnh); không X-quang; nông dân (nghi phospho hữu cơ, làm nắng); stress gặt lúa chạy bão; clorpheniramin tự mua (giấu, lộ khi hỏi riêng); lý do thật sợ đột quỵ (giấu); kết cục 'xử trí ẩu nhưng may mắn' ở ông Hai hàng xóm.",
+  "ket_luan theo_doi (truyền dịch tại phòng khám, ngưỡng nâng bậc rõ). Nghi ngờ: QĐ 4178/2007 Bảng 2 loại III xử trí ở trung tâm y tế huyện hoặc tuyến tỉnh; không nguồn nào nói người lớn mất nước vừa không được theo dõi tại phòng khám. Đã ghi trong phan_tich_xu_tri.",
+  "Mâu thuẫn: dùng mục có sẵn (kháng sinh kinh nghiệm tiêu chảy người lớn có sốt, số ngày azithromycin, loperamid, men vi sinh, bạch cầu phân); xem TH-0728_mau_thuan.md. Không cần mục danh mục mới."
+ ]
+}
