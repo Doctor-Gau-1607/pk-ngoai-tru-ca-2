@@ -1,0 +1,530 @@
+{
+ "ma_ca": "CX-0968",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "CX_dau_lung_co_do_nhiem_khuan_di_can",
+ "so_cai": {
+  "chuyen_khoa": "Cơ xương khớp - đau",
+  "chan_doan_dich": "Đau lưng có cờ đỏ (di căn/nhiễm trùng)",
+  "chan_doan_phai_loai_tru": [
+   "Di căn cột sống",
+   "Lao cột sống",
+   "Áp xe ngoài màng cứng"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Hưu trí (cựu giáo viên)",
+  "yeu_to_khoi_phat": "Sau uống rượu bia (tiệc giỗ cuối tuần trước)",
+  "thuoc_dang_dung": "Kháng sinh theo toa cũ (amoxicillin-clavulanat còn thừa, tự uống 5 ngày)",
+  "ly_do_that_su_den_kham": "Bạn bè có bệnh tương tự (bạn đá cờ vừa mổ cột sống vì lao)"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Văn Thành",
+  "tuoi": 67,
+  "gioi": "Nam",
+  "nghe": "Hưu trí, cựu giáo viên cấp 2",
+  "can_nang": 58,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi ông là 'bác'. Ông tự xưng 'tôi' hoặc 'bác', gọi bác sĩ là 'bác sĩ' hoặc 'cháu'.",
+  "tinh_cach": "Cựu giáo viên, nói chậm rãi, lễ độ, tiết kiệm đến mức chắt chiu. Hay tự giải thích đau do bia, do ngồi lâu. Sợ giống người bạn đá cờ nhưng không nói thẳng.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: ngay từ đầu nói 'làm cái nào thật cần thôi'; từ chối xét nghiệm đắt, nhưng chấp nhận nếu được giải thích đổi được quyết định gì. Thấy rẻ và có lợi thì đồng ý ngay.",
+  "nguoi_nha": "Con gái",
+  "ten_nguoi_nha": "Nguyễn Thị Thu Hà",
+  "ngoai_hinh": {
+   "da": "#c99b73",
+   "toc": "#9a9a9a",
+   "kieuToc": "ngan",
+   "ao": "#8a9a7b",
+   "aoKieu": "somi",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e0b48f",
+    "toc": "#241a16",
+    "kieuToc": "dai",
+    "ao": "#b86a6a",
+    "aoKieu": "tron",
+    "kinh": false
+   }
+  }
+ },
+ "ly_do_kham": "Đau lưng thắt lưng 5 tuần, đau tăng sau uống bia",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám tuyến huyện không có máy X-quang. Vì vậy cũng không có CT, MRI, nội soi. Có xét nghiệm máu cơ bản, siêu âm bụng. Bệnh viện đa khoa tỉnh có MRI cách 40 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 67 tuổi, hưu trí (cựu giáo viên), đến khám cùng con gái vì đau lưng vùng thắt lưng 5 tuần. Ông nói trước không muốn xét nghiệm tốn kém. Sinh hiệu: mạch 88, HA 135/80, nhiệt 37,6 °C, nhịp thở 18, SpO2 97%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Ông Thành được cho về với diclofenac và hẹn lại 2 tuần. Đau dịu một phần vài ngày nhờ thuốc, sốt chiều bớt nên ông yên tâm, và vì không có dấu thần kinh nên không xảy ra biến cố ngay. Đây là may mắn, không phải quy trình đúng: đau lưng đêm, sụt cân, VS và CRP tăng đáng lẽ đã phải chuyển chụp MRI trong 1 tuần (NICE NG234 2023, khuyến cáo 1.5.3; QĐ 361/2014, Hội chứng đau thắt lưng mục 3.1). Chẩn đoán bị trễ ít nhất 2 tuần, và NSAID ở người 67 tuổi, tăng huyết áp, uống bia kéo dài có nguy cơ cho dạ dày và thận (không có trong tài liệu đã tải số liệu).",
+    "theo_doi": "Ông được dặn theo dõi tại nhà thêm 1–2 tuần, uống lại kháng sinh từ toa cũ nếu sốt. Kháng sinh kéo dài làm kết quả cấy và sinh thiết kém đi (IDSA 2015, phần IV) và che triệu chứng. Lỡ tới lúc đau tăng, yếu chân mới đi thì đã muộn hơn nhiều so với MRI sớm.",
+    "nhap_vien": "Ông được nhập viện tại cơ sở không có MRI, nằm 5–7 ngày truyền kháng sinh theo kinh nghiệm và làm lại các xét nghiệm rẻ. Chưa có chẩn đoán, kháng sinh làm khó thêm cho sinh thiết (IDSA 2015 khuyến cáo 24 giữ kháng sinh khi thần kinh và huyết động ổn). Chi phí giường bệnh cao với lương hưu 5 triệu đồng, và cuối cùng vẫn phải chuyển lên tuyến trên.",
+    "cap_cuu": "Ông được đưa đi cấp cứu bằng xe cứu thương trong đêm, chi phí vận chuyển lớn dù không có dấu thần kinh, huyết động ổn. Cấp cứu dành cho nghi chèn ép tủy: MRI trong 24 giờ (NICE NG234 2023, khuyến cáo 1.5.2). Ca này MRI trong 1 tuần là đủ (khuyến cáo 1.5.3); ông hoảng sợ hơn, nỗi sợ giống ông Sáu càng tăng."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đau lưng cả tháng nay, mấy bữa nay đau nhiều hơn, nhất là sau bữa giỗ tôi có uống bia. Bác sĩ khám giúp, làm cái nào thật cần thôi nghe, tôi lương hưu ít lắm.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "135/80",
+    "nhiet": "37,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau lưng vùng thắt lưng trên đã 5 tuần, cứ tăng dần. Bạn đá cờ là ông Sáu vừa mổ cột sống vì lao, ông nghe tin về nằm không ngủ được, sợ mình bị giống ông Sáu. Con gái bắt đi khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và nỗi sợ thật"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Đau bắt đầu từ từ, ở giữa lưng chỗ ngang thắt lưng, không lan xuống chân. Hai tuần đầu ông nghĩ là mỏi lưng do ngồi lâu. Tuần trước ăn giỗ, uống bia nhiều thì đau tăng rõ, ông cho là tại bia.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Khởi phát tăng dần, mốc bia là yếu tố gây nhiễu"
+    },
+    {
+     "id": "dem",
+     "noi_dung": "Đau không đỡ khi nằm nghỉ. Mấy đêm nay đau làm thức giấc lúc 2–3 giờ sáng, phải ngồi dậy xoa lưng mới ngủ lại được. Ban ngày vận động nhẹ có đỡ đôi chút.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau đêm, đau cả khi nghỉ (cờ đỏ)",
+     "dieu_kien_lo": "Chỉ kể khi được hỏi đau có đánh thức khi ngủ không, hoặc nằm nghỉ có đỡ không; hỏi chung chung thì nói 'đau lưng thôi'."
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Hai tuần nay hay ớn lạnh, người hâm hấp chiều tối, ông không đo nhiệt độ. Sau khi uống thuốc kháng sinh thì thấy bớt hâm hấp vài hôm nhưng lưng vẫn đau.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Sốt nhẹ về chiều, bị kháng sinh che",
+     "dieu_kien_lo": "Hỏi 'có sốt không' thì ông đáp 'không sốt'. Chỉ nhớ ra khi được hỏi về ớn lạnh, nóng người, vã mồ hôi chiều tối hoặc hỏi lại sau khi nhắc chuyện thuốc."
+    },
+    {
+     "id": "sut_can",
+     "noi_dung": "Hai tháng nay ăn kém, quần phải thắt lại lỗ; trước nặng 62 kg, nay khoảng 58 kg. Ông tưởng do tuổi già.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Sụt cân không chủ ý (cờ đỏ)",
+     "dieu_kien_lo": "Chỉ nói khi được hỏi cân nặng thay đổi, quần áo rộng ra hay ăn uống."
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Có hộp amoxicillin-clavulanat 625 mg còn thừa từ toa trị viêm xoang cách đây 2 tháng, ông tự lấy uống 2 viên/ngày × 5 ngày, ngưng cách đây 3 ngày. Không đỡ đau.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Đã dùng kháng sinh trước khi khám",
+     "dieu_kien_lo": "Không tự kể. Chỉ khai khi được hỏi thuốc đã uống, thuốc tự mua hoặc thuốc còn thừa từ toa cũ."
+    },
+    {
+     "id": "ts_benh",
+     "noi_dung": "Tăng huyết áp 6 năm, uống amlodipin 5 mg mỗi sáng. Không đái tháo đường, không ung thư, không lao phổi trước đây, không chấn thương lưng. Hút thuốc lá khoảng 25 gói-năm, bỏ 8 năm nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử bệnh nền, yếu tố nguy cơ"
+    },
+    {
+     "id": "tx_lao",
+     "noi_dung": "Ông Sáu ngồi cùng bàn cờ gần mỗi ngày, từng ho kéo dài mấy tháng trước khi biết bệnh. Bản thân ông ho nhẹ buổi sáng vài tuần nay, nghĩ do thuốc lá cũ, không ho ra máu.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Tiếp xúc lao, ho mạn nhẹ",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi tiếp xúc người ho kéo dài hoặc hỏi triệu chứng hô hấp."
+    },
+    {
+     "id": "than_kinh",
+     "noi_dung": "Không tê chân, không yếu chân, đi lại bình thường, tiểu tiện và đại tiện bình thường, không tê vùng sinh dục.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu chèn ép tủy (cần hỏi để biết mức khẩn)"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Không tiểu buốt, không tiểu máu, tiểu đêm 1 lần như mọi khi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Triệu chứng tiết niệu, tiền liệt tuyến"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Uống bia 2–3 lon mỗi ngày nhiều năm, đợt giỗ thì nhiều hơn. Không có sốt tái phát sau mỗi đợt bia trước đây.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Rượu bia: mốc gây nhiễu, cần nhớ khi chọn thuốc giảm đau"
+    },
+    {
+     "id": "tien_ban",
+     "noi_dung": "Tự uống thêm vài viên paracetamol 500 mg, chỉ đỡ chút ít. Không dùng diclofenac hay thuốc giảm đau khác.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc giảm đau tự dùng"
+    },
+    {
+     "id": "kinh_te",
+     "noi_dung": "Lương hưu khoảng 5 triệu đồng/tháng, con gái đưa đến khám. Ông nói trước: 'Bác sĩ cho làm cái nào thật cần thôi, tôi không muốn tốn tiền chụp chiếu đủ thứ'. Có thẻ bảo hiểm y tế hưu trí.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Ràng buộc chi phí, ưu tiên xét nghiệm"
+    },
+    {
+     "id": "nhiem_lanh",
+     "noi_dung": "Không chấn thương, không mang vác nặng, không mụn nhọt, không nhổ răng hay thủ thuật gần đây.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại yếu tố cơ học và cửa vào nhiễm khuẩn"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, gầy, niêm mạc hơi nhợt. Cân nặng 58 kg. Sờ không thấy hạch cổ, nách, bẹn to.",
+     "k": 1,
+     "hien": "Dáng gầy, tỉnh, đi lại vững."
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không khối, không điểm đau. Gan lách không to. Không âm thổi động mạch chủ bụng, không khối đập.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Gõ đau rõ tại mỏm gai L2–L3, đau khu trú không lan. Co cứng khối cơ cạnh sống hai bên, cúi gập hạn chế còn 30°, đau tăng khi ho hoặc rặn. Nghiệm pháp Lasègue âm tính hai bên. Khớp ngoại biên không sưng, khớp cùng chậu không đau.",
+     "k": 1,
+     "hien": "Dáng đứng hơi cứng, cúi hạn chế, ấn đau vùng giữa thắt lưng."
+    },
+    "than_kinh": {
+     "a": "Lực cơ 5/5 hai chân. Phản xạ gân gối, gân gót đối xứng, bình thường. Cảm giác nông đều, không giảm cảm giác vùng yên ngựa. Babinski âm tính. Dáng đi bình thường, đi nhón gót, đi trên gót được.",
+     "k": 1,
+     "hien": "Dáng đi bình thường."
+    },
+    "suc_co": {
+     "a": "Gập và duỗi háng, gối, cổ chân đều 5/5 hai bên.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Trương lực cơ thắt hậu môn bình thường. Tuyến tiền liệt to nhẹ, mềm, đều, không nhân cứng, không đau.",
+     "k": 1,
+     "hien": "Thăm trực tràng: trương lực cơ thắt bình thường."
+    },
+    "tiet_nieu": {
+     "a": "Không đau góc sườn lưng khi rung. Không cầu bàng quang.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù, không teo cơ, không vết loét.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch mu chân, mạch chày sau bắt rõ hai bên. Không khối đập ở bụng.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da khô, không mụn nhọt, không áp xe, không sẹo mổ, không vết tiêm chích.",
+     "k": 0,
+     "hien": "Không thấy mụn nhọt, vết thương hở."
+    },
+    "dau_mat_co": {
+     "a": "Hạch cổ, thượng đòn không sờ thấy. Tuyến giáp không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 11,2 G/L · Neutrophil 74% · Hb 118 g/L · TC 380 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 11.2,
+      "neu_pct": 74.0,
+      "neu": 8.29,
+      "lym_pct": 17.0,
+      "lym": 1.9,
+      "mono_pct": 8.0,
+      "mono": 0.9,
+      "eos_pct": 0.8,
+      "eos": 0.09,
+      "baso_pct": 0.2,
+      "baso": 0.02,
+      "rbc": 4.0,
+      "hgb": 118,
+      "hct": 0.352,
+      "mcv": 88.0,
+      "mch": 29.5,
+      "mchc": 335,
+      "rdw": 14.0,
+      "plt": 380
+     },
+     "n": "Rẻ, đổi quyết định: bạch cầu tăng nhẹ, thiếu máu nhẹ, tiểu cầu tăng gợi viêm mạn. Viêm xương tủy cấp thường tăng bạch cầu, mạn thì bạch cầu thường bình thường (QĐ 361/2014, Viêm xương tủy nhiễm khuẩn mục 3.2); thiếu máu, giảm tế bào máu cũng gặp ở di căn xương (QĐ 361/2014, Ung thư di căn xương mục 2.1)."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 46 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 46
+     },
+     "n": "IDSA 2015 khuyến cáo 7: làm ESR và CRP nền trong mọi trường hợp nghi viêm đốt sống nhiễm khuẩn; khuyến cáo 2: đau lưng mới hoặc nặng thêm kèm ESR/CRP tăng thì phải nghĩ viêm đốt sống. Không có trong tài liệu đã tải ngưỡng CRP loại trừ."
+    },
+    "mau_lang": {
+     "v": "e",
+     "r": "VS giờ đầu 72 mm/giờ",
+     "ab": 1,
+     "n": "Giá rẻ nhất (30.000 đồng), cùng bộ với CRP (IDSA 2015 khuyến cáo 7). Máu lắng và CRP tăng cũng gặp ở di căn xương (QĐ 361/2014, Ung thư di căn xương mục 2.1), nên không phân biệt được nhiễm khuẩn với di căn."
+    },
+    "glu": {
+     "v": "u",
+     "r": "5,6 mmol/L",
+     "n": "Đái tháo đường là yếu tố nguy cơ viêm xương tủy (QĐ 361/2014, Viêm xương tủy mục 2.2); đường máu đo nhanh rẻ, không đổi hướng xử trí."
+    },
+    "liver": {
+     "v": "n",
+     "r": "AST 36 · ALT 31 U/L",
+     "n": "Không đổi quyết định hôm nay; ghi nhận nền gan trước khi tuyến trên cân nhắc thuốc (bia rượu nhiều năm)."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Gan nhiễm mỡ nhẹ. Hai thận không sỏi, không ứ nước. Tiền liệt tuyến thể tích khoảng 30 mL. Không thấy khối cạnh cột sống hay cơ thắt lưng chậu qua siêu âm bụng.",
+     "n": "Có thể làm tại chỗ khi không có X-quang để loại sỏi thận, phình động mạch chủ bụng, nhưng siêu âm âm tính không loại trừ áp xe cạnh sống hoặc tổn thương đốt sống. Lao: siêu âm tìm áp xe cạnh cột sống (QĐ 162/2024, danh mục kỹ thuật mục 2.5)."
+    },
+    "xpert": {
+     "v": "u",
+     "r": "Xpert MTB/RIF đờm: không phát hiện MTB. Soi AFB: âm tính.",
+     "n": "Miễn phí, nên làm vì ông ho mạn nhẹ và có tiếp xúc người ho kéo dài; kết quả âm tính không loại trừ lao cột sống. QĐ 162/2024 xếp Xpert là xét nghiệm chẩn đoán ban đầu cho lao (cần mẫu bệnh phẩm phù hợp)."
+    },
+    "cay": {
+     "v": "u",
+     "r": "Cấy máu 2 bộ: chưa có kết quả trong ngày; hẹn 48 giờ.",
+     "n": "IDSA 2015 khuyến cáo 7 làm 2 bộ cấy máu; QĐ 361/2014 Viêm xương tủy mục 4.1: cấy máu trước kháng sinh. Ông đã uống kháng sinh 5 ngày, ngưng 3 ngày nên giảm giá trị; đắt (350.000 đồng) và chờ lâu, nên có thể để tuyến trên làm cùng sinh thiết. Làm hay không đều chấp nhận được."
+    },
+    "igra": {
+     "v": "a",
+     "r": "Quantiferon: dương tính.",
+     "ab": 1,
+     "n": "900.000 đồng, không đổi hướng xử trí (vẫn phải chuyển MRI, sinh thiết); IGRA dương tính chỉ cho biết đã nhiễm lao, không phân biệt lao hoạt động. Bỏ vì ông thiếu tiền. Không có trong tài liệu đã tải hướng dẫn dùng IGRA chẩn đoán lao cột sống."
+    },
+    "pct": {
+     "v": "a",
+     "r": "Procalcitonin 0,3 ng/mL",
+     "n": "Không có trong tài liệu đã tải vai trò procalcitonin cho viêm đốt sống; đắt, không đổi quyết định."
+    },
+    "xq_cot_song": {
+     "v": "u",
+     "r": "X-quang cột sống thắt lưng thẳng nghiêng (nếu ở nơi có): hẹp khe đĩa L2–L3, bờ mâm đốt sống L2 và L3 mờ.",
+     "ab": 1,
+     "thay_the": "mau_lang",
+     "n": "Cơ sở không có X-quang; thay bằng VS/CRP. X-quang bình thường không loại trừ viêm xương tủy, tổn thương thường chỉ rõ sau 10–14 ngày (QĐ 361/2014, Viêm xương tủy mục 3.2); X-quang thường quy thấy tổn thương xương là đã muộn trong di căn (QĐ 361/2014, Ung thư di căn xương mục 2.1). X-quang cột sống được nêu khi nghi lao cột sống (QĐ 162/2024, danh mục kỹ thuật mục 2.4)."
+    },
+    "mri_cot_song": {
+     "v": "e",
+     "r": "MRI cột sống (nếu ở nơi có): viêm đĩa đệm – đốt sống L2–L3 với tín hiệu bất thường hai mâm đốt sống, khối mô mềm cạnh sống nhỏ hai bên, chưa chèn ép tủy.",
+     "ab": 1,
+     "thay_the": "crp",
+     "n": "Cơ sở không có MRI, thay bằng chuyển tuyến; việc cần làm tại chỗ là CRP/VS. MRI là xét nghiệm hình ảnh được chọn trong nghi viêm đốt sống nhiễm khuẩn (IDSA 2015 khuyến cáo 8) và nghi di căn không nghi chèn ép tủy: trong vòng 1 tuần (NICE NG234 2023, khuyến cáo 1.5.3); MRI có giá trị nhất khi di căn cột sống (QĐ 361/2014, Ung thư di căn xương mục 2.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau lưng có cờ đỏ, nghi nguyên nhân nhiễm trùng (viêm đĩa đệm – đốt sống do lao hoặc vi khuẩn sinh mủ) hoặc di căn cột sống, chưa có chèn ép tủy",
+     "ok": 1,
+     "n": "Đau thắt lưng 5 tuần tăng dần, đau đêm, đau khi nghỉ, sụt khoảng 4 kg, ớn lạnh chiều, tuổi 67, gõ đau khu trú L2–L3, VS 72, CRP 46. Đau thắt lưng kèm sốt, dấu hiệu nhiễm trùng gợi nhiễm khuẩn; gầy sút cân nhanh, đau ngày càng tăng, không đáp ứng thuốc giảm đau thông thường gợi ung thư; cần chuyển cơ sở chuyên khoa làm thăm dò chuyên sâu (QĐ 361/2014, Hội chứng đau thắt lưng mục 3.1). Đau lưng mới kèm CRP/ESR tăng thì nghĩ viêm đốt sống (IDSA 2015 khuyến cáo 2). Đau đêm, tiến triển, đau khu trú gợi di căn (NICE NG234 2023, khuyến cáo 1.3, hộp 1). Không thể phân biệt tại tuyến này nếu thiếu MRI và vi sinh/mô bệnh."
+    },
+    {
+     "t": "Lao cột sống (bệnh Pott)",
+     "n": "Chưa loại trừ, cần nghĩ vì ông ho mạn nhẹ, có tiếp xúc người ho kéo dài, hút thuốc, sụt cân, sốt chiều. Đau thắt lưng do nhiễm khuẩn gồm lao hoặc vi khuẩn sinh mủ (QĐ 361/2014, Hội chứng đau thắt lưng mục 2.2). Xpert đờm âm tính không loại trừ; cần MRI và bệnh phẩm tại tổn thương (QĐ 162/2024, danh mục kỹ thuật mục 2.4–2.5). Xác nhận ở tuyến trên."
+    },
+    {
+     "t": "Áp xe ngoài màng cứng / viêm xương tủy đốt sống do vi khuẩn sinh mủ",
+     "n": "Chưa loại trừ: có sốt nhẹ, CRP và VS tăng, bạch cầu hơi tăng, đã dùng kháng sinh (che khuất). Chưa có dấu thần kinh, huyết động ổn nên chưa phải cấp cứu; nếu có yếu chi hoặc rối loạn cơ tròn thì mổ và kháng sinh ngay (IDSA 2015 khuyến cáo 17, 25)."
+    },
+    {
+     "t": "Di căn cột sống (nguồn: phổi, tiền liệt tuyến...)",
+     "n": "Chưa loại trừ: 67 tuổi, hút thuốc 25 gói-năm, sụt cân, đau đêm, thiếu máu, VS tăng. Ung thư hay di căn xương: phổi, tiền liệt tuyến; cột sống là nơi hay bị sớm (QĐ 361/2014, Ung thư di căn xương mục 1). Tuyến tiền liệt to nhẹ, mềm, không nhân. Không có trong tài liệu đã tải ngưỡng PSA; tuyến trên tìm ổ nguyên phát. Chưa có dấu chèn ép tủy nên MRI trong 1 tuần (NICE NG234 2023, khuyến cáo 1.5.3)."
+    },
+    {
+     "t": "Chèn ép tủy / hội chứng đuôi ngựa",
+     "n": "Hiện không: lực cơ 5/5, phản xạ bình thường, không tê vùng yên ngựa, tiểu tiện bình thường, trương lực hậu môn bình thường (NICE NG234 2023, hộp 1 liệt kê dấu hiệu chèn ép). Nếu xuất hiện thì cấp cứu, MRI trong 24 giờ (NG234 khuyến cáo 1.5.2)."
+    },
+    {
+     "t": "Đau lưng cơ học / thoái hóa cột sống thắt lưng",
+     "n": "Loại trừ: đau cơ học nghỉ ngơi có đỡ, toàn thân không thay đổi, không sốt (QĐ 361/2014, Hội chứng đau thắt lưng mục 3.3); ông đau đêm, đau cả khi nghỉ, sụt cân, sốt. Không dùng quy trình đau lưng không đặc hiệu: NICE NG59 2020 khuyến cáo 1.1.1 yêu cầu loại trừ ung thư, nhiễm trùng trước."
+    },
+    {
+     "t": "Viêm cột sống dính khớp",
+     "n": "Ít nghĩ: khởi phát sau 65 tuổi, gõ đau khu trú L2–L3, sụt cân, VS 72, CRP 46. Viêm cột sống dính khớp điển hình đau thắt lưng từ 3 tháng, cải thiện khi tập (QĐ 361/2014, Viêm cột sống dính khớp mục 3); ông 5 tuần, đau khi nghỉ."
+    },
+    {
+     "t": "Sỏi thận, phình động mạch chủ bụng, đau lưng do tạng",
+     "n": "Loại trừ: không đau góc sườn lưng, siêu âm không sỏi/ứ nước, không khối đập ở bụng, mạch chi đều. Phình tách động mạch chủ bụng có đau dữ dội, sốc (QĐ 361/2014, Hội chứng đau thắt lưng mục 3.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến có hẹn trong vài ngày (không cần xe cấp cứu) đến bệnh viện có MRI cột sống và bác sĩ cơ xương khớp/lao/ung bướu, kèm giấy chuyển ghi rõ: nghi viêm đốt sống nhiễm khuẩn hoặc di căn, không dấu thần kinh, đã uống kháng sinh 5 ngày, kết quả CTM, CRP, VS",
+     "v": "c",
+     "n": "Nghi viêm đốt sống: làm MRI cột sống (IDSA 2015 khuyến cáo 8). Nghi di căn không nghi chèn ép: MRI trong 1 tuần tại bệnh viện địa phương (NICE NG234 2023, khuyến cáo 1.5.3). Không có MRI ở cơ sở nên chuyển. Khi có triệu chứng thần kinh, cấp cứu, MRI trong 24 giờ (NG234 khuyến cáo 1.5.2)."
+    },
+    {
+     "t": "Cho xét nghiệm có giá trị nhất trong ngân sách hạn hẹp: CTM, CRP, VS (và Xpert miễn phí); bỏ IGRA, procalcitonin",
+     "v": "c",
+     "n": "Bộ nền cho nghi viêm đốt sống: ESR, CRP (IDSA 2015 khuyến cáo 7). IGRA 900.000 đồng không đổi hướng xử trí; không có trong tài liệu đã tải vai trò IGRA, procalcitonin cho viêm đốt sống. Ưu tiên xét nghiệm đổi quyết định là thiết kế của ca, theo yêu cầu người bệnh."
+    },
+    {
+     "t": "Không tiếp tục kháng sinh; ngưng hẳn kháng sinh tự dùng cho đến khi có chẩn đoán vi sinh",
+     "v": "c",
+     "n": "Bệnh nhân huyết động ổn, thần kinh bình thường: nên giữ kháng sinh theo kinh nghiệm cho đến khi có chẩn đoán vi sinh (IDSA 2015 khuyến cáo 24); trì hoãn khoảng 1–2 tuần trước sinh thiết là hợp lý (IDSA 2015, phần IV). QĐ 361/2014 Viêm xương tủy mục 4.1: cấy máu hoặc mô định danh trước khi dùng kháng sinh. Nếu sốt cao, huyết động xấu hoặc triệu chứng thần kinh tiến triển thì dùng kháng sinh (khuyến cáo 25)."
+    },
+    {
+     "t": "Giảm đau tạm: paracetamol liều thấp; không kê NSAID, không kê corticoid, không kê opioid",
+     "v": "c",
+     "n": "QĐ 361/2014 Ung thư di căn xương mục 3.2: bậc 1 paracetamol 500–1000 mg mỗi 4–6 giờ, tối đa 4000 mg/ngày. Ông uống bia nhiều năm: giới hạn liều riêng cho người uống rượu không có trong tài liệu đã tải, chọn liều thấp (tối đa 2000–3000 mg/ngày) là phán đoán thận trọng của ca. NSAID: NICE NG59 2020 khuyến cáo 1.2.22 là cho đau lưng không đặc hiệu, không áp dụng khi nghi bệnh nặng; ông 67 tuổi, tăng huyết áp. Corticoid, opioid không thích hợp vì có thể che triệu chứng trước chẩn đoán."
+    },
+    {
+     "t": "Dặn khi nào quay lại/cấp cứu ngay: yếu hoặc tê chân, tê vùng sinh dục–hậu môn, bí tiểu hoặc tiểu không tự chủ, sốt cao rét run, đau tăng dữ dội; hạn chế vận động mạnh, cúi, vác nặng",
+     "v": "c",
+     "n": "Dấu hiệu chèn ép: rối loạn cơ tròn, rối loạn dáng đi, yếu chi, dấu thần kinh, tê, đau rễ (NICE NG234 2023, hộp 1, khuyến cáo 1.3.2). Cấp cứu ngay khi xuất hiện (khuyến cáo 1.5.2). Chi tiết 'hạn chế vận động mạnh' không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm bia rượu, ăn đủ chất, không tự uống thêm thuốc từ toa cũ; mang theo toàn bộ thuốc đang dùng khi đi khám",
+     "v": "c",
+     "n": "Kháng sinh tự dùng làm giảm vi sinh dương tính khi sinh thiết (IDSA 2015, phần IV). Chi tiết ngưng bia rượu không có số liệu cụ thể trong tài liệu đã tải; ở đây là lời khuyên chung."
+    },
+    {
+     "t": "Kê NSAID dài ngày (diclofenac, meloxicam) cho về, hẹn tái khám 2 tuần, chưa chuyển tuyến",
+     "v": "w",
+     "n": "Bỏ sót cờ đỏ: QĐ 361/2014 Hội chứng đau thắt lưng mục 3.1 nêu gầy sút, đau tăng, không đáp ứng thuốc giảm đau thông thường là gợi ung thư; kèm sốt là gợi nhiễm khuẩn; cần chuyển chuyên khoa. NG59 2020 khuyến cáo 1.1.1 yêu cầu loại trừ ung thư, nhiễm trùng trước."
+    },
+    {
+     "t": "Cho kháng sinh phổ rộng (amoxicillin-clavulanat, levofloxacin) tiếp 10–14 ngày",
+     "v": "h",
+     "n": "Che khuất vi sinh trước sinh thiết, làm chậm chẩn đoán; IDSA 2015 khuyến cáo 24: giữ kháng sinh khi thần kinh và huyết động ổn. Dùng levofloxacin đơn độc có thể che lao (không có trong tài liệu đã tải dữ liệu này)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau lưng có cờ đỏ (đau đêm, đau khi nghỉ, sụt cân, sốt nhẹ chiều, tuổi 67, gõ đau khu trú L2–L3, VS 72, CRP 46), nghi viêm đĩa đệm – đốt sống nhiễm khuẩn (lao hoặc vi khuẩn sinh mủ) hoặc di căn cột sống",
+     "Chưa có dấu chèn ép tủy hay hội chứng đuôi ngựa (lực cơ 5/5, phản xạ bình thường, tiểu tiện bình thường, trương lực hậu môn bình thường)",
+     "Thiếu máu nhẹ (Hb 118 g/L), tăng huyết áp đang điều trị bằng amlodipin, uống bia nhiều năm",
+     "Đã uống kháng sinh 5 ngày (ngưng 3 ngày) có thể che sốt"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: hỏi kỹ đặc điểm đau (khởi phát, nhịp ngày – đêm, nghỉ ngơi), sốt, cân nặng, thuốc đã uống/thuốc còn thừa, tiếp xúc lao, tiền sử ung thư, hút thuốc, dấu thần kinh và cơ tròn; rồi mới khám, xét nghiệm.",
+     "Vì sao không phải đau lưng cơ học: đau cơ học nghỉ có đỡ, toàn thân không thay đổi, không sốt (QĐ 361/2014, Hội chứng đau thắt lưng mục 3.3). Ông đau khi nghỉ, sụt 4 kg, sốt nhẹ chiều.",
+     "Vì sao nghĩ nhiễm khuẩn: sốt, dấu hiệu nhiễm trùng gợi nhiễm khuẩn (QĐ 361/2014, mục 3.1); nghi viêm đốt sống khi đau lưng mới/nặng thêm kèm sốt hoặc CRP, ESR tăng (IDSA 2015 khuyến cáo 1–2). Xét nghiệm: VS, CRP, bạch cầu thường tăng (QĐ 361/2014, Viêm xương tủy mục 3.2).",
+     "Vì sao chưa loại di căn: đau đêm, tiến triển, khu trú (NICE NG234 2023, hộp 1); đau xương tăng về đêm và khi nghỉ, sút cân là biểu hiện hay gặp, VS và CRP cũng tăng (QĐ 361/2014, Ung thư di căn xương mục 2.1). Hai nhóm này không phân biệt được bằng lâm sàng và xét nghiệm máu.",
+     "Vì sao nghĩ lao: ho mạn nhẹ, tiếp xúc người ho kéo dài, sụt cân, sốt chiều; lao ngoài phổi/lao xương khớp có trong QĐ 162/2024; cần MRI và mô bệnh/Xpert ở tổn thương. Xpert đờm âm tính không loại trừ.",
+     "Vì sao không cấp cứu: không dấu thần kinh, huyết động ổn, nên chuyển có hẹn trong vài ngày đến một tuần. Nếu có dấu hiệu chèn ép thì cấp cứu, MRI trong 24 giờ (NICE NG234 2023, khuyến cáo 1.3.2, 1.5.2).",
+     "Mốc bia và nỗi sợ giống ông Sáu là nhiễu: bia là mốc người bệnh gán nguyên nhân; nỗi sợ nên được ghi nhận nhưng không dùng để trấn an sớm, cũng không để thúc chỉ định chụp chiếu quá mức."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến chứ không điều trị tại chỗ: không có MRI, không có sinh thiết/vi sinh. MRI cột sống là xét nghiệm hình ảnh khuyến cáo (IDSA 2015 khuyến cáo 8; NICE NG234 2023, khuyến cáo 1.5.3: trong 1 tuần nếu nghi di căn không chèn ép).",
+     "Ưu tiên xét nghiệm theo ngân sách: CTM, CRP, VS rẻ và đổi quyết định; Xpert miễn phí; bỏ IGRA, procalcitonin, cấy máu có thể để tuyến trên (IDSA 2015 khuyến cáo 7 ủng hộ cấy máu 2 bộ nhưng ông đã dùng kháng sinh).",
+     "Không kháng sinh tiếp: huyết động ổn và thần kinh bình thường thì giữ kháng sinh theo kinh nghiệm đến khi có chẩn đoán vi sinh (IDSA 2015 khuyến cáo 24). Nếu có sốt cao, huyết động xấu hoặc thần kinh tiến triển thì ngược lại (khuyến cáo 25).",
+     "Giảm đau: paracetamol (QĐ 361/2014, Ung thư di căn xương mục 3.2). Không NSAID vì chưa có chẩn đoán, tuổi cao, tăng huyết áp (NG59 khuyến cáo 1.2.22 là cho đau lưng không đặc hiệu).",
+     "Chi phí: giải thích MRI, sinh thiết ở tuyến trên để ông chuẩn bị, mang thẻ bảo hiểm y tế và giấy chuyển tuyến. Quy định thanh toán bảo hiểm không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi 6 giờ khi đau; nếu đau nhiều tăng lên 2 viên mỗi 6 giờ, tối đa 4 viên/ngày (2000 mg) cho đến khi gặp bác sĩ tuyến trên",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau",
+      "so_ngay": "Chỉ dùng đến khi đi khám tuyến trên (dưới 1 tuần)",
+      "ghi_chu": "QĐ 361/2014, Ung thư di căn xương mục 3.2: bậc 1 paracetamol 500–1000 mg mỗi 4–6 giờ, không quá 4000 mg/ngày. Ông uống bia nhiều năm: chọn mức thấp 2000 mg/ngày là phán đoán thận trọng; giới hạn liều cho người uống rượu không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Amlodipin (thuốc huyết áp đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Tiếp tục như cũ",
+      "ghi_chu": "HA 135/80 mmHg ổn. Không đổi thuốc hôm nay. Liều theo toa cũ của người bệnh; chỉ định đã có sẵn, không bàn thêm trong ca này."
+     }
+    ],
+    "dan_do": [
+     "Mang theo giấy chuyển tuyến, thẻ bảo hiểm y tế, kết quả CTM, CRP, VS hôm nay và hộp kháng sinh còn thừa để bác sĩ tuyến trên biết ông đã dùng thuốc gì, bao lâu.",
+     "Đi trong vài ngày tới, tốt nhất trong tuần này (nghi di căn không chèn ép: MRI trong 1 tuần, NICE NG234 2023, khuyến cáo 1.5.3).",
+     "Tuyệt đối không uống tiếp amoxicillin-clavulanat hay kháng sinh khác, cũng không uống thuốc giảm đau mạnh hoặc thuốc nam, thuốc xoa bóp trước khi có chẩn đoán.",
+     "Quay lại hoặc đi cấp cứu ngay khi: yếu hoặc tê một/hai chân, tê vùng sinh dục–hậu môn, tiểu không tự chủ hoặc bí tiểu, sốt cao rét run, đau tăng dữ dội (NICE NG234 2023, hộp 1, khuyến cáo 1.3.2).",
+     "Ông chưa chắc là lao hay ung thư; còn nhiều khả năng và sẽ biết sau MRI. Con gái đi cùng, tránh bia rượu, ăn đủ chất. Mối lo giống ông Sáu là dễ hiểu, nhưng chẩn đoán chỉ có sau khi chụp."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Thành được cho giấy chuyển tuyến đúng tuyến theo thẻ bảo hiểm y tế. Con gái chở ông lên bệnh viện đa khoa tuyến tỉnh ngay trong tuần. Tại đó MRI cho thấy viêm đĩa đệm – đốt sống L2–L3, có ổ mô mềm nhỏ cạnh sống, tủy chưa bị chèn ép. Sinh thiết dưới hướng dẫn CT, Xpert mô dương tính MTB, nhạy rifampicin: lao cột sống, bắt đầu điều trị lao theo phác đồ quốc gia, hẹn khám lại. Bài học near-miss: nếu hôm đó cho về với thuốc giảm đau, ông có nhiều khả năng vẫn đi lại được thêm một thời gian vì chưa có dấu thần kinh. Đó là may mắn của người bệnh, không biện minh cho quy trình thiếu MRI và thiếu hẹn mốc.",
+ "nhieu": [
+  "Bia là mốc gán nguyên nhân: đau tăng sau bữa giỗ có bia, nhưng đau đã 5 tuần và đau đêm trước đó; không phải đau do bia hay do cơ học.",
+  "Kháng sinh toa cũ amoxicillin-clavulanat tự uống 5 ngày: làm sốt bớt, che triệu chứng, giảm giá trị cấy.",
+  "Ông Sáu bạn đá cờ mổ lao cột sống: động cơ thật của chuyến khám; không phải bằng chứng ông bị lao, cũng không phải lý do để trấn an.",
+  "Ho nhẹ buổi sáng và hút thuốc cũ: gợi ý lao hoặc ung thư phổi; Xpert đờm âm tính không loại trừ lao cột sống.",
+  "Lương hưu ít: nhiễu chi phí, buộc xếp thứ tự xét nghiệm đổi quyết định (CTM, CRP, VS)."
+ ],
+ "bai_hoc_bien": [
+  "Không đủ tiền xét nghiệm: chọn xét nghiệm rẻ nhất đổi được quyết định; giải thích cho người bệnh vì sao bỏ IGRA, procalcitonin; không dùng chi phí làm cớ bỏ chuyển tuyến.",
+  "Không có X-quang: không để thiếu X-quang làm chậm; X-quang thường chỉ rõ sau 10–14 ngày và bình thường không loại trừ; ca này cần MRI tuyến trên, không phải X-quang.",
+  "Cờ đỏ trong đau lưng: sụt cân, đau đêm, đau khi nghỉ, sốt, tuổi cao, đau khu trú; không NSAID kéo dài rồi hẹn lại.",
+  "Hỏi thuốc đã uống/còn thừa: kháng sinh tự dùng quyết định cấy và sinh thiết; ngưng chứ không kê tiếp.",
+  "Near-miss: kết cục tốt không chứng minh quy trình đúng; ghi nhận may mắn là may mắn."
+ ],
+ "diem_nho": [
+  "Nghi viêm đốt sống nhiễm khuẩn: đau lưng mới + sốt, hoặc + ESR/CRP tăng, hoặc + nhiễm khuẩn huyết (IDSA 2015 khuyến cáo 1–3); làm cấy máu 2 bộ, ESR, CRP, MRI cột sống (khuyến cáo 7–8).",
+  "Giữ kháng sinh kinh nghiệm khi thần kinh và huyết động ổn (IDSA 2015 khuyến cáo 24); dùng ngay khi huyết động xấu/nhiễm khuẩn huyết/thần kinh tiến triển (khuyến cáo 25).",
+  "Nghi di căn cột sống không nghi chèn ép: MRI trong 1 tuần; nghi chèn ép tủy: MRI ngay và trong 24 giờ (NICE NG234 2023, khuyến cáo 1.5.2–1.5.3).",
+  "Đau cột sống triệu chứng: sốt, nhiễm khuẩn; gầy sút nhanh, đau tăng, không đáp ứng thuốc giảm đau thường là ung thư; chuyển chuyên khoa (QĐ 361/2014, Hội chứng đau thắt lưng mục 3.1).",
+  "X-quang viêm xương tủy chỉ rõ sau 10–14 ngày; bình thường không loại trừ (QĐ 361/2014, Viêm xương tủy mục 3.2)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – Hội chứng đau thắt lưng mục 2.2, 3.1–3.3; Viêm xương tủy nhiễm khuẩn mục 3.2, 4.1; Ung thư di căn xương mục 1, 2.1, 3.2.",
+  "Bộ Y tế – QĐ 162/QĐ-BYT 2024, Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao – TL-0123 – danh mục kỹ thuật chẩn đoán mục 2.4–2.5 (X-quang, siêu âm tìm áp xe cạnh cột sống khi nghi lao cột sống).",
+  "NICE NG234 2023, Spinal metastases and metastatic spinal cord compression – TL-0361 – hộp 1, khuyến cáo 1.3.2–1.3.5, 1.5.2–1.5.3.",
+  "IDSA 2015, Berbari et al., Native vertebral osteomyelitis – TL-0388 – khuyến cáo 1–3, 6–8, 17, 24–25, phần IV.",
+  "NICE NG59 2020, Low back pain and sciatica in over 16s – TL-0372 – khuyến cáo 1.1.1, 1.1.4, 1.2.22."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: Sonnet, 16/10/2026. Tài liệu đã đọc: TL-0286 (Hội chứng đau thắt lưng, Viêm xương tủy nhiễm khuẩn, Ung thư di căn xương), TL-0361 (1.3, 1.5), TL-0388 (khuyến cáo 1–8, 17, 24–25, phần IV), TL-0372 (1.1.1, 1.1.4, 1.2.22), TL-0123 (2.4–2.5).",
+  "Thiếu tài liệu: không có trong tài liệu đã tải ngưỡng CRP/ESR chẩn đoán viêm đốt sống, vai trò IGRA/procalcitonin, ngưỡng PSA, giới hạn paracetamol cho người uống rượu, quy định chuyển tuyến/thanh toán BHYT; phác đồ lao cột sống người lớn không dùng trong ca này. Các chỗ này ghi 'không có trong tài liệu đã tải'.",
+  "Dữ liệu CLS, tên nhân vật, bệnh viện chuyển và kết cục là tình huống thiết kế. Mục danh mục đề xuất: xq_cot_song (xquang), mri_cot_song (ct)."
+ ]
+}
