@@ -1,0 +1,504 @@
+{
+ "ma_ca": "TH-0328",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_gerd_dien_hinh_nguoi_cao_tuoi_ngoai_gio",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trào ngược dạ dày thực quản (GERD)",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh mạch vành",
+   "Loét thực quản"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Khiêng vật nặng",
+  "thuoc_dang_dung": "Thuốc xịt hen đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Văn Tư",
+  "tuoi": 67,
+  "gioi": "Nam",
+  "nghe": "Nông dân (làm ruộng lúa và vườn, ở xã cách thị trấn khoảng 12 km)",
+  "can_nang": 54,
+  "chieu_cao": 160,
+  "xung_ho": "Bác sĩ gọi ông là 'chú'. Ông tự xưng 'tui', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Chân chất, ít chữ, tin kinh nghiệm truyền miệng ('kháng sinh mới diệt hết vi trùng trong bao tử'). Hay lo, hay nghĩ đến điều xấu nhất vì cha mất đột ngột và ông hàng xóm vừa mất vì 'đứng tim'. Làm ruộng từ 5 giờ sáng, ăn tối muộn. Hút thuốc lào 25 năm, bỏ 6 năm. Có hen 8 năm, xịt thuốc đều nhưng hay quên súc miệng.",
+  "kieu_nhieu": "Sợ hãi quá mức: run tay, nói nhanh, hỏi dồn 'có nhồi máu không', đòi 'làm hết cho tui'; nghe tối nay không có xét nghiệm máu thì hiểu là bệnh nặng quá không dám nói. Dịu lại khi được ghi nhận nỗi sợ, được nói rõ đã kiểm tra những gì và kết quả ra sao, điều gì chưa loại trừ hẳn, và có việc cụ thể để làm (theo dõi, thuốc, dấu hiệu quay lại, hẹn tái khám).",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#a8744c",
+   "toc": "#8f8d8a",
+   "kieuToc": "ngan",
+   "ao": "#6f7d62",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Nóng rát và nặng giữa ngực từ trưa nay, sợ nhồi máu cơ tim, đã tự uống kháng sinh",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Tối thứ Bảy, kỹ thuật viên xét nghiệm và chẩn đoán hình ảnh đã về: phòng khám không chạy được xét nghiệm máu (mẫu gửi xe labo, kết quả khoảng trưa hôm sau), không chụp X-quang, không siêu âm, không CT, không nội soi. Còn dùng được: ống nghe, huyết áp kế, SpO₂, máy điện tim, máy đo đường huyết mao mạch, lưu lượng đỉnh kế. Nội soi dạ dày – thực quản làm ở bệnh viện vào ngày làm việc."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Nguyễn Văn Tư, 67 tuổi, nông dân, có hen đang xịt thuốc. Đến phòng khám tối thứ Bảy vì nóng rát và nặng giữa ngực từ trưa, sợ bị nhồi máu cơ tim, đã tự uống kháng sinh ở nhà. Sinh hiệu: HA 142/88 mmHg, mạch 88 l/p, nhiệt độ 36,9 °C, nhịp thở 20 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Gọi 115 hoặc chuyển cấp cứu ông Tư tối nay trong khi ECG nhịp xoang 88 l/p không đổi ST-T, không còn đau từ hơn 6 giờ, cơn đau theo bữa no và tư thế, nguy cơ vành thấp (ESC 2024 mục 3.2.1, Hình 4) là quá tay. Ông vốn sợ hãi càng tin 'mình bệnh nặng thật', phải chờ ở khoa cấp cứu, tốn tiền xe và xét nghiệm, trong khi việc cần làm là PPI trước bữa sáng, đổi giờ ăn, hẹn nội soi và dặn dấu hiệu quay lại (ESC 2023 mục 3.1.1).",
+    "nhap_vien": "Nhập viện theo dõi ông Tư vì 'đau ngực' khi ECG bình thường và hơn 6 giờ không đau lại là không có chỉ định, không có tài liệu GERD đã tải nào nêu nhập viện cho GERD không biến chứng. Ông mất ngày công, thêm chi phí và nằm viện vẫn chưa được chỉnh giờ ăn tối, tư thế nằm, cách dùng omeprazol trước bữa sáng (ACG 2022 điều trị KC 2, 8).",
+    "chuyen_tuyen": "Chuyển ông Tư lên bệnh viện huyện tối nay để lấy hs-troponin là hướng chấp nhận được về an toàn tim mạch, nhưng với đau kiểu trào ngược, ECG bình thường, không đau lại hơn 6 giờ, khả năng bệnh vành thấp (ESC 2024 mục 3.2.1, Hình 4) thì tốn kém, chưa cần. Ông nông dân ở xa, phải thuê xe đi đêm, và lý do thật (xin kháng sinh) vẫn chưa được trả lời."
+   },
+   "loi_mo": "Bác sĩ ơi, cứu tui với. Trưa nay tui khiêng lúa xong thì nóng rát giữa ngực, nặng như đá đè, tui sợ lắm. Ông Chín hàng xóm cũng đau ngực rồi chết luôn. Tui uống thuốc kháng sinh mấy bữa rồi mà không bớt. Bác sĩ coi giùm tui có bị nhồi máu không.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "142/88",
+    "nhiet": "36,9",
+    "nhip_tho": 20,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Từ chiều nay thấy nóng rát và nặng giữa ngực, sợ bị nhồi máu cơ tim. Đã tự uống kháng sinh ở nhà mấy ngày nay mà không bớt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "so_hai",
+     "noi_dung": "Ông run tay, nói nhanh, hỏi dồn: 'Bác sĩ ơi tui sợ lắm. Ông Chín hàng xóm cũng đau ngực như vầy, nửa đêm đứng tim chết luôn. Làm hết cho tui đi, tốn bao nhiêu tui cũng chịu.'",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu: sợ hãi quá mức",
+     "nhieu": 1
+    },
+    {
+     "id": "doi_xet_nghiem",
+     "noi_dung": "Khi bác sĩ nói tối nay không có xét nghiệm máu, X-quang, siêu âm: 'Vậy là bệnh nặng quá bác sĩ không dám nói phải không? Chụp cái gì đi bác sĩ, để tui về ngủ cho yên tâm.' Dịu lại khi bác sĩ ghi nhận nỗi sợ, nói rõ đã kiểm gì và kết quả, điều gì chưa loại trừ hẳn, và giao việc cụ thể.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nhiễu: đòi làm hết, hiểu việc không có xét nghiệm là bệnh nặng",
+     "nhieu": 1
+    },
+    {
+     "id": "dac_diem_dau",
+     "noi_dung": "Ba tuần nay cứ nóng rát sau xương ức, từ thượng vị chạy lên cổ, nhiều nhất khoảng 30–60 phút sau bữa cơm no, khi nằm võng và khi cúi gập lưng làm cỏ, 4–5 lần mỗi tuần. Hôm nay sáng khiêng khoảng 7 bao lúa (mỗi bao khoảng 50 kg) lên xe, ăn trưa no lúc 12 giờ rồi nằm nghỉ; khoảng 13 giờ nóng rát dữ dội hơn mọi lần, kèm nặng giữa ngực như có hòn đá đè, kéo dài chừng 40 phút, đỡ dần khi ngồi dậy uống ngụm nước. Từ đó đến giờ khám (19 giờ 30) không đau lại. Không lan tay hay hàm, không vã mồ hôi, không khó thở thêm, không choáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm cơn đau: kiểu, liên quan bữa ăn và tư thế, thời gian, lan, triệu chứng kèm"
+    },
+    {
+     "id": "gang_suc",
+     "noi_dung": "Đi bộ ra ruộng, đạp xe, cuốc đất, gánh nước, leo dốc bờ ruộng đều không làm đau ngực hay hụt hơi. Chỉ khi khiêng nặng rồi ăn no nằm ngay hoặc khi cúi gập lâu mới nóng rát. Nghỉ ngơi không làm đỡ nhanh; ngồi dậy uống nước hoặc ợ hơi mới đỡ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt với đau thắt ngực: yếu tố gây đau và yếu tố làm đỡ"
+    },
+    {
+     "id": "trao_nguoc",
+     "noi_dung": "Hay có nước chua, đắng trào lên tận họng, ợ hơi nhiều, đêm thức giấc 2–3 lần mỗi tuần vì nóng rát hoặc ho sặc. Bảy, tám năm nay thỉnh thoảng ợ chua, nhưng ba tuần gần đây nặng và thường xuyên hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng điển hình của GERD (ợ nóng, trào ngược), trào ngược ban đêm, thời gian > 5 năm"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không nuốt nghẹn, không nuốt đau, không nôn, không sụt cân (cân nặng vẫn 54 kg), không đi cầu phân đen hay nôn ra máu, không mệt hay xanh xao dần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu báo động (loại trừ)"
+    },
+    {
+     "id": "hen",
+     "noi_dung": "Bị hen khoảng 8 năm, đang xịt thuốc phối hợp (ống xịt màu tím) sáng và tối, và xịt salbutamol khi khò khè khoảng 2–3 lần mỗi tuần. Hai tuần nay không lên cơn khò khè nặng, không ho đêm, chưa từng nhập viện vì hen. Xịt xong có khi quên súc miệng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hen đang dùng thuốc xịt: kiểm soát, loại thuốc, súc miệng"
+    },
+    {
+     "id": "tien_su_tim",
+     "noi_dung": "Chưa ai nói ông bị huyết áp cao hay tiểu đường (lần đo ở trạm y tế năm ngoái 135/85 mmHg). Chưa từng thử mỡ máu. Hút thuốc lào khoảng 25 năm, bỏ cách đây 6 năm. Chưa từng đau ngực khi gắng sức, chưa từng ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ tim mạch (hút thuốc, huyết áp, tiểu đường, mỡ máu)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Cha mất đột ngột ở nhà năm 62 tuổi, nghe nói 'đứng tim'. Ông lấy đó làm điều sợ nhất.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nguồn gốc nỗi sợ"
+    },
+    {
+     "id": "thuoc_tu_uong",
+     "noi_dung": "Ba ngày nay tự uống amoxicillin 500 mg còn dư từ lần trước, mỗi ngày 2 viên, không bớt nóng rát. Không uống thuốc giảm đau hay kháng viêm nào (không diclofenac, không aspirin). Hộp thuốc còn khoảng 8 viên.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì ông chỉ nói thuốc xịt hen. Chỉ kể khi bác sĩ hỏi cụ thể thuốc tự mua, thuốc dạ dày, kháng sinh, thuốc giảm đau, hoặc hỏi ông đã tự chữa gì.",
+     "k": 1,
+     "y": "Kháng sinh tự uống không có chỉ định; không dùng NSAID"
+    },
+    {
+     "id": "dot_thuoc_truoc",
+     "noi_dung": "Tháng trước đi trạm y tế vì nóng rát, được cho một vỉ thuốc dạ dày (viên nang) và một vỉ kháng sinh, uống 1 tuần thì hết hẳn. Ngưng thuốc hai tuần là nóng rát quay lại. Ông tin 'kháng sinh diệt hết con vi trùng trong bao tử mới hết' và nghĩ lần này vi trùng 'mạnh hơn'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đợt điều trị trước: thuốc dạ dày 1 tuần rồi tái phát; niềm tin về kháng sinh"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: ông đến để xin bác sĩ kê 'kháng sinh mạnh hơn loại tui đang uống'. Ông cho rằng vi trùng trong bao tử gây nóng rát, và sợ nếu không diệt vi trùng thì sẽ thành nhồi máu hoặc ung thư như ông Chín. Không dám nói ngay vì sợ bác sĩ bảo 'không cần thuốc'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông nghĩ mình bị gì, muốn bác sĩ giúp điều gì, lần trước thuốc nào làm đỡ, hoặc vì sao tự uống kháng sinh. Bị từ chối thì hỏi lại 'sao lần trước có kháng sinh là hết?'.",
+     "k": 1,
+     "y": "Động cơ thật: muốn được kê kháng sinh"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Làm ruộng từ 5 giờ sáng, ăn tối thường sau 20 giờ rồi nằm võng, bữa cơm no, hay ăn nước mắm ớt và uống cà phê đen đậm hai lần mỗi ngày. Ngủ gối thấp. Không uống rượu bia. Nặng 54 kg, cao 160 cm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thói quen ăn uống, giờ ăn, tư thế nằm, cân nặng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, run nhẹ đầu ngón tay, lòng bàn tay ẩm mồ hôi, nói nhanh và hay hỏi lại. Gầy vừa: cao 160 cm, nặng 54 kg (BMI 21,1), vòng eo 76 cm. Niêm mạc mắt hồng, không vàng da, môi ẩm, không phù, không tím.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, T1, T2 rõ, không âm thổi, không T3, T4.",
+     "k": 1,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Lồng ngực cân đối, thở đều 20 l/p, không co kéo cơ hô hấp phụ. Rì rào phế nang êm dịu hai bên, không ran rít, không ran ẩm, không kéo dài thì thở ra.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng phẳng, mềm. Ấn thượng vị khó chịu nhẹ, không đau chói, không phản ứng thành bụng. Gan lách không to, không sờ thấy khối.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc miệng và lưỡi hồng, không có mảng trắng (không nấm miệng). Thành sau họng không đỏ, amiđan không to, không mủ. Giọng nói bình thường, không khàn.",
+     "k": 1
+    },
+    "ha_hai_tay": {
+     "a": "Tay phải 142/88, tay trái 140/86 mmHg: hai tay không chênh đáng kể. Mạch quay hai bên đều, bắt rõ.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Ấn dọc xương ức và các khớp sườn ức không đau, không tái hiện cơn đau. Hít sâu, cử động vai không đau thêm.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 88 l/p. Trục bình thường. PR 0,16 giây, QRS hẹp. Không ST chênh lên hay chênh xuống, sóng T dương V2–V6, không sóng Q bệnh lý, không dày thất trái.",
+     "n": "Ngoài giờ không có xét nghiệm máu thì ECG là công cụ duy nhất tại chỗ cho câu hỏi tim: đo và đọc trong 10 phút (ESC 2023 mục 3.2); cơn đau đã qua nên lặp lại sau khoảng 1 giờ theo dõi (ESC 2023 mục 3.2: lặp lại khi cần, nhất là khi triệu chứng đã giảm lúc tiếp xúc đầu). ECG bình thường không loại trừ hẳn nhồi máu (ESC 2023 mục 3.2): cần đặt cạnh đặc điểm đau và dặn dấu hiệu quay lại."
+    },
+    "trop": {
+     "v": "u",
+     "r": "hs-TnT 4 ng/L (ngưỡng bình thường < 14)",
+     "thay_the": "ecg",
+     "n": "Phòng khám ngoài giờ không chạy được; mẫu gửi xe labo, kết quả khoảng trưa mai. Loại trừ nhồi máu bằng hs-cTn cần mẫu lúc đến và mẫu lặp lại theo thuật toán 0 giờ/1 giờ hoặc 0 giờ/2 giờ (ESC 2023 mục 3.3.4.1; QĐ 2187/2019 Hình 3), nên mẫu gửi đi hôm nay không thay được thuật toán đó. Không có tài liệu đã tải nào nêu cách loại trừ nhồi máu khi không có hs-cTn: xem phần nhận định trong xử trí. Ông không có cơn đau kéo dài hay cơn đau tái diễn lúc khám (ESC 2023 mục 3.3.4.1: lấy lại máu khi đau còn hoặc tái lại)."
+    },
+    "pef": {
+     "v": "a",
+     "r": "PEF 400 L/phút, bằng khoảng 95% giá trị tốt nhất của ông (420 L/phút).",
+     "n": "Hen đang kiểm soát tốt, không phải nguyên nhân của đau ngực. Làm được ngoài giờ, chấp nhận nhưng không bắt buộc (GINA 2026 mục 6, đoạn GERD: trào ngược gây nóng rát ngực và ho khan, khác với triệu chứng hen)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "Hb 138 g/L · BC 7,6 G/L · TC 262 G/L",
+     "n": "Ngoài giờ không làm được. Không cần cho quyết định tối nay vì không có dấu báo động, niêm mạc hồng, không phân đen (ACG 2022 chẩn đoán KC 6)."
+    },
+    "cxr": {
+     "n": "Ngoài giờ không có X-quang. Không có dấu hiệu hô hấp (SpO₂ 97%, phổi sạch, không sốt) nên không cần cho quyết định tối nay."
+    },
+    "noi_soi": {
+     "v": "u",
+     "r": "(Phòng khám không có nội soi.)",
+     "n": "Có chỉ định nhưng không khẩn: ông có nhiều yếu tố nguy cơ Barrett (tuổi > 50, trào ngược ban đêm, triệu chứng > 5 năm, từng hút thuốc) (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Không có dấu hiệu báo động nên không nội soi cấp cứu; làm theo hẹn ở bệnh viện, sau khi ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày thực quản (GERD): ợ nóng và trào chua/đắng kèm đau ngực thực quản, ban đêm, nặng lên sau bữa no và khi khiêng nặng, cúi gập; chẩn đoán lâm sàng, chưa có bằng chứng khách quan; tạm thời chưa thấy dấu hiệu bệnh tim và chưa có dấu báo động; kèm hen đang kiểm soát",
+     "ok": 1,
+     "n": "Nóng rát sau xương ức, trào chua/đắng, thức giấc ban đêm, đỡ khi ngồi dậy và uống nước, không liên quan gắng sức thông thường (Lyon 2.0 Bảng 2: ợ nóng, đau ngực thực quản, trào ngược là triệu chứng điển hình; ACG 2022 mục Symptoms). Khiêng nặng, cúi gập và bữa no là yếu tố khởi phát cơn nặng nhất hôm nay. Chưa nội soi hay đo pH nên chưa gọi là GERD khẳng định (VNAGE 2026 KC 2, 6; Lyon 2.0 Bảng 2)."
+    },
+    {
+     "t": "Bệnh mạch vành (hội chứng vành cấp, đau thắt ngực)",
+     "n": "Không được bỏ qua ở nam 67 tuổi từng hút thuốc: nóng rát cũng là một cách mô tả triệu chứng của hội chứng vành cấp (ESC 2023 mục 3.1.1). Nhưng đau theo bữa no và tư thế, không khi đi bộ, đạp xe, leo dốc, đỡ khi ngồi dậy uống nước chứ không phải khi nghỉ, không lan, không vã mồ hôi; ECG bình thường; không đau lại hơn 6 giờ. Theo mô hình khả năng lâm sàng RF-CL, nam 60–69 tuổi, điểm triệu chứng 0–2, chỉ 1 yếu tố nguy cơ (hút thuốc) thuộc nhóm khả năng thấp 8–12% (ESC 2024 mục 3.2.1, Hình 4). Chưa loại trừ hẳn vì thiếu hs-troponin tối nay: vì vậy cần ECG lặp, dặn dấu hiệu và tái khám sớm."
+    },
+    {
+     "t": "Loét thực quản, viêm thực quản nặng hoặc nấm thực quản do thuốc xịt hen",
+     "n": "Không nuốt nghẹn, nuốt đau, nôn, xuất huyết, thiếu máu, sụt cân (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3); miệng họng không có nấm. Biến chứng nặng của GERD ít gặp ở Việt Nam (loét 1,3–5%, xuất huyết 0,4%: VNAGE 2026 KC 4). GINA 2026 chỉ nêu nấm miệng và khàn tiếng là tác dụng phụ của corticoid hít; nấm thực quản không có trong tài liệu đã tải. Chỉ nội soi mới khẳng định hay loại trừ: hẹn nội soi."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng, viêm dạ dày do H. pylori (cần kháng sinh)",
+     "n": "Không đau thượng vị lúc đói hay về đêm đặc trưng, không phân đen, không thiếu máu, không dùng NSAID. Kháng sinh chỉ đặt ra khi đã xác định nhiễm H. pylori hoặc thấy tổn thương khi nội soi; VNAGE 2026 đã loại một khuyến cáo riêng về H. pylori trong GERD vì đã có hướng dẫn H. pylori của VNAGE (mục Phương pháp). Không có chỉ định kháng sinh cho GERD trong các tài liệu GERD đã tải."
+    },
+    {
+     "t": "Đau thành ngực do khiêng nặng (cơ, khớp sườn)",
+     "n": "Ấn xương ức và khớp sườn ức không tái hiện đau, cử động vai và hít sâu không làm đau thêm; chỉ cơ cạnh sống thắt lưng căng nhẹ. Không giải thích được cảm giác nóng rát và trào chua."
+    },
+    {
+     "t": "Cơn hen kịch phát hay hen kiểm soát kém",
+     "n": "Hai tuần nay không khò khè nặng, không ho đêm; SpO₂ 97%, phổi không ran rít, PEF 400 L/phút (95% tốt nhất của ông). Khò khè có liên quan thấp với trào ngược (Lyon 2.0 Bảng 2); trào ngược gây đau ngực và ho khan, khác triệu chứng hen (GINA 2026 mục 6, đoạn GERD)."
+    },
+    {
+     "t": "Nhiễm khuẩn cần kháng sinh (viêm họng, viêm phổi, viêm phế quản)",
+     "n": "Không sốt (36,9 °C), không ho đờm, họng không đỏ, amiđan không mủ, phổi không ran ẩm hay ran nổ, SpO₂ 97%."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đo sinh hiệu đủ, hỏi kỹ cơn đau (kiểu, yếu tố gây và làm đỡ, thời gian, lan, triệu chứng kèm), khám tim, phổi, bụng, đo huyết áp hai tay, và làm ECG ngay trước khi quy cho trào ngược",
+     "v": "c",
+     "n": "Chiều nay có đau ngực ở nam 67 tuổi từng hút thuốc: ECG trong 10 phút (ESC 2023 mục 3.2), khám đủ mạch, huyết áp hai tay, tim phổi (mục 3.1.2). Nóng rát cũng có thể là triệu chứng hội chứng vành cấp (ESC 2023 mục 3.1.1). Lyon 2.0 và ACG 2022 chỉ coi đau ngực là thực quản sau khi đã loại trừ bệnh tim (ACG 2022 chẩn đoán KC 4, mục Symptoms)."
+    },
+    {
+     "t": "Theo dõi tại phòng khám khoảng 1 giờ rồi làm ECG lần hai; nếu đau trở lại hoặc ECG đổi thì xử trí như hội chứng vành cấp (gọi 115, chuyển cấp cứu)",
+     "v": "c",
+     "n": "ESC 2023 mục 3.2: ECG nên lặp lại khi cần, nhất là khi triệu chứng đã giảm lúc tiếp xúc đầu. Thời gian theo dõi 1 giờ: lựa chọn của tác giả ca. Đau kéo dài > 15 phút hoặc tái lại trong 1 giờ là dấu hiệu cần gọi cấp cứu (ESC 2023 mục 3.1.1)."
+    },
+    {
+     "t": "Nói thẳng với ông tối nay không có hs-troponin; cơ sở để cho về là cơn đau kiểu trào ngược, ECG bình thường, không đau lại hơn 6 giờ, nguy cơ vành thấp; nói rõ điều chưa loại trừ hẳn và vì sao phải dặn dấu hiệu quay lại",
+     "v": "c",
+     "n": "ESC 2023 mục 3.3.4.1: rule-out nhồi máu dựa vào hs-cTn kết hợp lâm sàng và ECG. Không có tài liệu đã tải nêu cách quyết định khi không có hs-cTn; đây là nhận định của tác giả ca dựa trên mô hình đau (Lyon 2.0 Bảng 2), ECG và RF-CL 8–12% (ESC 2024 mục 3.2.1, Hình 4: khả năng thấp > 5–15%). RF-CL dùng cho đau ngực mạn, không thay được hs-cTn trong nghi ngờ cấp: nên bắt buộc dặn dấu hiệu và tái khám sớm."
+    },
+    {
+     "t": "Trấn an có cấu trúc: ghi nhận nỗi sợ về ông Chín và cha, nói đã kiểm tra những gì và kết quả, giải thích đau ngực vì trào ngược là có thật và chữa được, không chiều lòng bằng xét nghiệm hay thuốc không cần, giao việc cụ thể",
+     "v": "c",
+     "n": "Kỹ thuật trấn an cho người sợ hãi quá mức: không có trong tài liệu đã tải; là nhận định của tác giả ca. Căn cứ lời giải thích: ACG 2022 mục Symptoms (đau ngực có thể là triệu chứng duy nhất của GERD), VNAGE 2026 KC 4 (biến chứng nặng ít gặp ở Việt Nam)."
+    },
+    {
+     "t": "Không kê kháng sinh, ngưng amoxicillin ông đang tự uống; giải thích vì sao lần trước hết là do thuốc dạ dày chứ không phải kháng sinh",
+     "v": "c",
+     "n": "Các tài liệu GERD đã tải (VNAGE 2026, ACG 2022, Lyon 2.0) không nêu kháng sinh trong điều trị GERD (không có trong tài liệu đã tải). Ông không sốt, họng và phổi sạch nên không có nhiễm khuẩn cần kháng sinh. PPI 1 tuần giảm triệu chứng rồi tái phát khi ngưng là phù hợp với đợt PPI quá ngắn so với 8 tuần (ACG 2022 chẩn đoán KC 1; VNAGE 2026 KC 15). Nghi H. pylori: xét khi nội soi (VNAGE 2026 mục Phương pháp)."
+    },
+    {
+     "t": "Omeprazol 20 mg uống 1 lần/ngày, 30–60 phút trước bữa sáng, 8 tuần, không uống lúc đi ngủ",
+     "v": "c",
+     "n": "Triệu chứng điển hình, không dấu báo động: thử PPI liều chuẩn 1 lần/ngày trước bữa, 8 tuần (ACG 2022 chẩn đoán KC 1, điều trị KC 8; VNAGE 2026 KC 15: NERD 4–8 tuần). Liều chuẩn omeprazol 20 mg (VNAGE 2024 Bảng 4). Thử PPI đơn thuần chưa đủ để khẳng định GERD (VNAGE 2026 KC 2)."
+    },
+    {
+     "t": "Thay đổi lối sống: ăn tối sớm, cách giờ nằm ít nhất 2–3 giờ, bữa nhỏ, kê cao đầu giường, bớt cà phê đậm, ớt; không khiêng nặng ngay sau bữa no",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 2 (tránh ăn trong 2–3 giờ trước khi ngủ), KC 4 (tránh thức ăn gây triệu chứng), KC 5 (kê cao đầu giường); VNAGE 2026 KC 12 (kê cao đầu giường 20 cm giảm phơi nhiễm acid). Giảm cân không áp dụng (BMI 21,1; ACG 2022 điều trị KC 1 chỉ cho người thừa cân). Khiêng nặng sau ăn: không có trong tài liệu đã tải; lời dặn là nhận định của tác giả ca."
+    },
+    {
+     "t": "Tiếp tục thuốc xịt hen như cũ, nhớ súc miệng và nhổ sau mỗi lần xịt thuốc dự phòng; giải thích salbutamol có thể làm trào ngược nặng hơn nhưng không tự bỏ thuốc hen",
+     "v": "c",
+     "n": "GINA 2026 mục 6 (đoạn GERD): thuốc chủ vận beta2 làm giãn cơ thắt thực quản dưới; đoạn về kỹ thuật bình hít: súc miệng, nhổ sau khi dùng corticoid hít để giảm nấm miệng. QĐ 1851/2020 mục 3.3.2: dùng thuốc kiểm soát hen đều đặn. Thuốc xịt hen không phải chống chỉ định khi có GERD; không có trong tài liệu đã tải khuyến cáo đổi thuốc hen vì GERD."
+    },
+    {
+     "t": "Giấy giới thiệu nội soi dạ dày – thực quản không khẩn ở bệnh viện, làm sau khi ngưng omeprazol 2 tuần ở cuối đợt 8 tuần; báo ông dấu hiệu cần nội soi sớm hơn",
+     "v": "c",
+     "n": "Nhiều yếu tố nguy cơ Barrett: tuổi > 50, triệu chứng > 5 năm, trào ngược ban đêm, từng hút thuốc (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Nội soi chẩn đoán nên làm sau khi ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3). Không có dấu báo động nên không cấp cứu (xem mục mâu thuẫn trong sổ: nội soi GERD ≥ 40/50 tuổi). Thời hạn hẹn cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn rõ dấu hiệu gọi 115 hoặc quay lại ngay: đau ngực hoặc nặng ngực > 15 phút hoặc tái lại trong 1 giờ, vã mồ hôi, khó thở, ngất, lan tay hàm; nuốt nghẹn, nuốt đau, nôn ra máu, phân đen, sụt cân. Không tự chạy xe khi đau; người nhà chở",
+     "v": "c",
+     "n": "ESC 2023 mục 3.1.1 (đau ngực > 15 phút hoặc tái lại trong 1 giờ); dấu báo động đưa nội soi lên sớm (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3)."
+    },
+    {
+     "t": "Hẹn tái khám sau 48 giờ (xem diễn tiến, nhắc lại dấu hiệu), rồi sau 2 tuần và tuần 8; mang theo thuốc xịt hen và ống thuốc đã uống",
+     "v": "c",
+     "n": "Mốc 48 giờ và 2 tuần là lựa chọn của ca (không có trong tài liệu đã tải), mốc 48 giờ vì không có hs-troponin tối nay. Tuần 8: đánh giá lại, cố ngưng PPI nếu hết triệu chứng (ACG 2022 chẩn đoán KC 2, điều trị KC 9); không đáp ứng thì nội soi (ACG 2022 chẩn đoán KC 3; VNAGE 2026 KC 3)."
+    },
+    {
+     "t": "Gửi mẫu máu hs-troponin cho xe labo, hẹn nhận kết quả trưa mai",
+     "v": "a",
+     "n": "Chấp nhận được như thông tin thêm, nhưng không thay thuật toán 0 giờ/1 giờ (ESC 2023 mục 3.3.4.1) và không thay việc dặn dấu hiệu quay lại. Giá trị của một mẫu gửi muộn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển ông đến bệnh viện huyện tối nay để lấy hs-troponin theo thuật toán",
+     "v": "a",
+     "n": "An toàn hơn về mặt tim mạch vì rule-out nhồi máu cần hs-cTn (ESC 2023 mục 3.3.4.1), nhưng với đau kiểu trào ngược, ECG bình thường và nguy cơ vành thấp (ESC 2024 mục 3.2.1) thì chưa bắt buộc. Cân nhắc nếu ECG lặp lại có thay đổi, đau tái lại hoặc ông và gia đình không thể yên tâm."
+    },
+    {
+     "t": "Omeprazol 20 mg ngày 2 lần ngay từ đầu",
+     "v": "a",
+     "n": "ACG 2022 (ngoài thực quản KC 3) gợi ý PPI 2 lần/ngày 8–12 tuần khi có cả triệu chứng ngoài thực quản và điển hình; VNAGE 2026 KC 16 nhắc tăng lên 2 lần/ngày khi cần. Ca chọn 1 lần/ngày vì triệu chứng chính là ợ nóng và đau ngực (VNAGE 2026 KC 15; ACG 2022 chẩn đoán KC 1); hen không phải lý do tăng liều: PPI không cải thiện hen (GINA 2026 mục 6, đoạn GERD; ACG 2022 đoạn ngoài thực quản)."
+    },
+    {
+     "t": "Thêm alginat khi nóng rát để giảm triệu chứng nhanh",
+     "v": "a",
+     "n": "VNAGE 2026 KC 14 (alginat khởi phát trong khoảng 1 giờ; đơn độc cho GERD nhẹ – vừa hoặc kèm PPI). Liều alginat: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh theo yêu cầu (amoxicillin liều cao hay amoxicillin-clavulanat) để ông yên tâm",
+     "v": "w",
+     "n": "Không có chỉ định kháng sinh trong GERD (tài liệu GERD đã tải không nêu). Ông không có nhiễm khuẩn. Chiều lòng làm củng cố niềm tin sai 'kháng sinh chữa nóng rát', thêm tác dụng phụ, và che mất nguyên nhân thật (nhận định của tác giả ca)"
+    },
+    {
+     "t": "Ngưng thuốc xịt hen vì sợ làm nặng trào ngược",
+     "v": "w",
+     "n": "Thuốc kiểm soát hen cần dùng đều đặn (QĐ 1851/2020 mục 3.3.2); GINA 2026 chỉ nêu beta2-agonist có thể làm giãn cơ thắt thực quản dưới, không khuyến cáo ngưng thuốc hen vì GERD."
+    },
+    {
+     "t": "Cho về với 'chỉ là viêm dạ dày', không làm ECG, không dặn dấu hiệu quay lại, không hẹn tái khám",
+     "v": "h",
+     "n": "Bỏ qua câu hỏi tim ở nam 67 tuổi đau ngực: ECG trong 10 phút (ESC 2023 mục 3.2) và dấu hiệu gọi cấp cứu (mục 3.1.1) là bắt buộc. Kết quả tốt nếu ông không bị bệnh tim không chứng minh cách làm này đúng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trào ngược dạ dày thực quản (GERD) điển hình: ợ nóng, trào chua/đắng, nóng rát sau xương ức theo bữa no và tư thế nằm, thức giấc ban đêm; cơn nặng hôm nay sau khiêng nặng, bữa trưa no, nằm ngay; chẩn đoán lâm sàng, chưa có bằng chứng khách quan",
+     "Ba tuần nay nặng lên; bảy, tám năm nay có triệu chứng thỉnh thoảng; tái phát khi chỉ dùng PPI 1 tuần",
+     "Tạm thời chưa thấy dấu hiệu bệnh tim tại thời điểm khám: ECG hai lần bình thường, không đau lại hơn 6 giờ, khả năng lâm sàng bệnh mạch vành thấp (RF-CL 8–12%); chưa loại trừ hẳn vì không có hs-troponin",
+     "Chưa có dấu báo động; có nhiều yếu tố nguy cơ Barrett (tuổi > 50, triệu chứng > 5 năm, trào ngược ban đêm, từng hút thuốc): cần nội soi theo hẹn",
+     "Hen phế quản kiểm soát tốt, đang dùng thuốc xịt dự phòng và salbutamol cắt cơn (salbutamol có thể làm nặng trào ngược)",
+     "Lo âu mức cao (sợ nhồi máu như cha và ông hàng xóm), kèm niềm tin sai về kháng sinh; tự dùng amoxicillin không có chỉ định"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: (1) đặc điểm đau ngực: kiểu, thời gian, yếu tố gây (gắng sức, bữa ăn, nằm, cúi) và làm đỡ, lan, vã mồ hôi, lần đau gần nhất; (2) hỏi chủ động trào chua/đắng, ợ hơi, thức giấc ban đêm; (3) dấu báo động; (4) yếu tố nguy cơ tim mạch; (5) hen, thuốc xịt, thuốc tự mua, kháng sinh; (6) giờ ăn, tư thế nằm; (7) hỏi ông nghĩ mình bị gì và mong muốn gì: mới lộ lý do thật là xin kháng sinh. Sau đó khám tim, phổi, bụng, huyết áp hai tay, miệng họng, thành ngực; ECG; theo dõi và ECG lặp.",
+     "Vì sao dễ sai: đau ngực sau khiêng nặng cộng nỗi sợ của bệnh nhân dễ khiến bác sĩ bỏ ECG vì 'chắc dạ dày' hoặc làm quá tay vì sợ sót tim. Nóng rát cũng là cách mô tả của hội chứng vành cấp (ESC 2023 mục 3.1.1); đau ngực do GERD có thể không phân biệt được với đau tim chỉ bằng mô tả (ACG 2022 mục Symptoms). Vì vậy phải làm ECG ≤ 10 phút (ESC 2023 mục 3.2) dù triệu chứng nghe rất giống trào ngược.",
+     "Nghiêng về GERD: nóng rát từ thượng vị lên cổ, theo bữa no và tư thế nằm, cúi gập; đỡ khi ngồi dậy uống nước; không đau khi đi bộ, leo dốc; không lan, không vã mồ hôi; trào chua/đắng. Ợ nóng, đau ngực thực quản, trào ngược là ba triệu chứng điển hình của GERD (Lyon 2.0 Bảng 2); thử PPI đơn thuần chưa đủ khẳng định chẩn đoán (VNAGE 2026 KC 2).",
+     "Nguy cơ vành: theo RF-CL, nam 60–69 tuổi, điểm triệu chứng 0–2 (đau theo vị trí sau xương ức và có yếu tố gắng sức nhưng không đỡ khi nghỉ), 1 yếu tố nguy cơ (từng hút thuốc) cho khả năng 8–12%, nhóm thấp > 5–15%, lợi ích thăm dò thêm chưa chắc (ESC 2024 mục 3.2.1, Hình 4). RF-CL dùng cho đau ngực mạn, không phải công cụ loại trừ nhồi máu cấp. Rule-out nhồi máu cần hs-cTn theo thuật toán 0/1 giờ hoặc 0/2 giờ (ESC 2023 mục 3.3.4.1); tối nay không có. Không có tài liệu đã tải hướng dẫn cách quyết định khi không có hs-cTn: ca này dựa vào ECG bình thường, đặc điểm đau, thời gian không đau, RF-CL thấp, và mạng lưới an toàn (dặn dấu hiệu, ECG lặp, tái khám 48 giờ). Đây là nhận định của tác giả ca.",
+     "Dấu báo động (nuốt nghẹn, nuốt đau, nôn kéo dài, sụt cân, xuất huyết tiêu hóa, thiếu máu) đều không có (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3), nên chưa nội soi cấp cứu. Ông có nhiều yếu tố nguy cơ Barrett (tuổi > 50, triệu chứng > 5 năm, trào ngược ban đêm, từng hút thuốc) nên cần nội soi theo hẹn (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3).",
+     "Hen và GERD: salbutamol có thể làm giãn cơ thắt thực quản dưới; trào ngược gây đau ngực và ho khan, khác triệu chứng hen (GINA 2026 mục 6, đoạn GERD; QĐ 1851/2020 mục 3.4.1). Hen của ông đang kiểm soát (PEF 95% tốt nhất, phổi sạch). Corticoid hít gây nấm miệng, khàn tiếng (GINA 2026): miệng họng không có nấm. Nấm thực quản: không có trong tài liệu đã tải.",
+     "Lý do thật: ông tưởng vi trùng gây nóng rát và kháng sinh mới diệt được. Lần trước đỡ nhiều khả năng nhờ PPI chứ không phải kháng sinh; ngưng sau 1 tuần nên tái phát, trong khi thử PPI chuẩn là 8 tuần (ACG 2022 chẩn đoán KC 1). Đáp ứng PPI cũng chưa khẳng định GERD (VNAGE 2026 KC 2; Lyon 2.0: có thể do giả dược). Phải hỏi ra lý do thật để trả lời đúng điều ông sợ."
+    ],
+    "phan_tich_xu_tri": [
+     "Thứ tự xử trí: ECG và khám tim (ESC 2023 mục 3.2); theo dõi và ECG lặp; nói thẳng giới hạn tối nay; trấn an có cấu trúc; không kháng sinh; PPI và lối sống; giữ thuốc hen; giấy nội soi không khẩn; dặn dấu hiệu 115; tái khám 48 giờ.",
+     "Không có hs-troponin không phải lý do tự động chuyển tuyến, cũng không phải lý do bỏ câu hỏi tim. Cơ sở cho về: đặc điểm đau, ECG, thời gian không đau, RF-CL thấp, cộng mạng lưới an toàn; chuyển bệnh viện huyện tối nay chấm a (ESC 2023 mục 3.3.4.1).",
+     "Trấn an có cấu trúc: gọi tên nỗi sợ (ông Chín, cha); nói đã kiểm gì và kết quả; chưa loại trừ hẳn gì; giao việc cụ thể thay cho xét nghiệm chiều lòng. Kỹ thuật này không có trong tài liệu đã tải; là nhận định của tác giả ca.",
+     "Kháng sinh: không kê, ngưng amoxicillin dư. Giải thích vì sao lần trước hết (thuốc dạ dày) và vì sao tái phát (ngưng sớm). Nghi H. pylori thì xét ở nội soi (VNAGE 2026 mục Phương pháp); chưa có chỉ định kháng sinh khi chưa xác định.",
+     "PPI liều chuẩn 1 lần/ngày 8 tuần, 30–60 phút trước bữa sáng, không uống lúc đi ngủ (ACG 2022 chẩn đoán KC 1, điều trị KC 8; VNAGE 2026 KC 15). QĐ 361/2014 từng ghi uống buổi tối cho người dùng NSAID; ACG 2022 mới hơn, nên đáp án uống trước bữa sáng, uống buổi tối chấm a (xem mục mâu thuẫn trong sổ). PPI không cải thiện hen: không hứa PPI chữa hen (GINA 2026 mục 6; ACG 2022 đoạn ngoài thực quản).",
+     "Hen: tiếp tục thuốc xịt, súc miệng nhổ sau xịt corticoid (GINA 2026); salbutamol chỉ khi cần (QĐ 1851/2020). Hẹn bác sĩ theo dõi hen theo lịch cũ.",
+     "Nội soi: không khẩn, làm sau khi ngưng omeprazol 2 tuần ở cuối đợt 8 tuần (ACG 2022 chẩn đoán KC 3, KC 6; VNAGE 2026 KC 3). Nếu nội soi bình thường mà vẫn triệu chứng: đo pH 24 giờ ở tuyến chuyên khoa (VNAGE 2026 KC 5). Sau 8 tuần nếu hết triệu chứng thì cố ngưng PPI hoặc dùng khi cần (ACG 2022 chẩn đoán KC 2).",
+     "Không cần X-quang thực quản cản quang (ACG 2022 chẩn đoán KC 5), siêu âm bụng hay CT. Các xét nghiệm này cũng không làm được ngoài giờ."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg (viên nang)",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước bữa sáng; không uống lúc đi ngủ",
+      "so_ngay": "8 tuần; đánh giá lại ở tuần 8",
+      "ghi_chu": "ACG 2022 chẩn đoán KC 1, điều trị KC 8; VNAGE 2026 KC 15; liều chuẩn omeprazol 20 mg (VNAGE 2024 Bảng 4). Ngưng 2–4 tuần trước nội soi (ACG 2022 chẩn đoán KC 3). PPI không dùng để chữa hen."
+     },
+     {
+      "thuoc": "Thuốc xịt hen dự phòng (đang dùng, ống màu tím)",
+      "ham_luong": "Theo toa bác sĩ điều trị hen của ông (không đổi)",
+      "lieu": "Giữ nguyên liều, sáng và tối",
+      "duong": "Xịt hít",
+      "thoi_diem": "Sáng và tối, súc miệng và nhổ sau mỗi lần xịt",
+      "so_ngay": "Dùng tiếp, không tự ngưng",
+      "ghi_chu": "Đang dùng, giữ nguyên (QĐ 1851/2020 mục 3.3.2). Súc miệng sau khi dùng corticoid hít (GINA 2026). Tên thuốc và liều cụ thể: không có trong dữ liệu ca."
+     },
+     {
+      "thuoc": "Salbutamol xịt (đang dùng)",
+      "ham_luong": "100 µg/nhát (theo lọ ông đang có)",
+      "lieu": "Chỉ khi khò khè, theo toa hen cũ",
+      "duong": "Xịt hít",
+      "thoi_diem": "Khi có cơn khò khè",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "Đang dùng, giữ nguyên. Có thể làm cơ thắt thực quản dưới giãn (GINA 2026 mục 6, đoạn GERD); không tự bỏ thuốc cắt cơn. Số nhát mỗi lần: không có trong dữ liệu ca."
+     },
+     {
+      "thuoc": "Amoxicillin (tự uống từ thuốc dư)",
+      "ham_luong": "500 mg",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng nữa",
+      "so_ngay": "Ngưng ngay, bỏ phần còn lại",
+      "ghi_chu": "Không có chỉ định kháng sinh trong GERD; ông không có nhiễm khuẩn. Không tự dùng lại thuốc dư. Xét H. pylori khi nội soi (VNAGE 2026 mục Phương pháp)."
+     }
+    ],
+    "dan_do": [
+     "Tối nay đã làm điện tim hai lần, bình thường, tim phổi bình thường. Cơn đau của chú giống trào ngược acid hơn đau tim, nhưng phòng khám tối nay không thử được men tim, nên chú phải nhớ các dấu hiệu dưới đây và quay lại ngay, không đợi (ESC 2023 mục 3.1.1, 3.2).",
+     "Gọi 115 hoặc đến ngay bệnh viện nếu đau hoặc nặng ngực kéo dài hơn 15 phút hoặc tái lại trong vòng 1 giờ, vã mồ hôi, khó thở, choáng, ngất, đau lan tay trái hay hàm (ESC 2023 mục 3.1.1). Đừng tự chạy xe máy lúc đó, nhờ người chở hoặc gọi xe.",
+     "Uống omeprazol 20 mg mỗi sáng, 30–60 phút trước bữa sáng, đều 8 tuần dù đã hết nóng rát (ACG 2022 chẩn đoán KC 1, điều trị KC 8). Lần trước chỉ uống 1 tuần rồi ngưng nên bệnh quay lại. Không tự mua thêm thuốc dạ dày khác.",
+     "Ngưng amoxicillin còn dư và không mua kháng sinh uống. Lần trước chú hết là nhờ thuốc dạ dày chứ không phải kháng sinh; trào ngược là acid từ dạ dày trào lên, không phải do vi trùng. Nếu cần xét vi trùng dạ dày, bác sĩ nội soi sẽ quyết định (VNAGE 2026 mục Phương pháp).",
+     "Ăn tối trước giờ nằm ít nhất 2–3 giờ, ăn vừa, đừng nằm võng ngay sau bữa; kê cao đầu giường khoảng 20 cm; bớt cà phê đậm và ớt; giữ việc đã bỏ thuốc lào (ACG 2022 điều trị KC 2–5; VNAGE 2026 KC 12). Đừng khiêng nặng ngay sau bữa no (lời khuyên của tác giả ca; không có trong tài liệu đã tải).",
+     "Tiếp tục thuốc xịt hen như cũ, súc miệng và nhổ sau mỗi lần xịt (GINA 2026). Đừng tự ngưng vì sợ nóng rát; nếu khò khè nhiều lên thì gặp bác sĩ điều trị hen. Salbutamol chỉ xịt khi khò khè.",
+     "Hẹn tái khám sau 48 giờ, rồi sau 2 tuần, và tuần 8. Cầm giấy giới thiệu nội soi: làm không gấp, vào cuối đợt 8 tuần, ngưng omeprazol 2 tuần trước nội soi (ACG 2022 chẩn đoán KC 3, KC 6). Đến sớm hơn nếu nuốt nghẹn, nuốt đau, nôn ra máu, phân đen, sụt cân (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai kịch bản. (1) Xử trí đúng: ECG hai lần bình thường, theo dõi 1 giờ không đau lại, ông ra về với omeprazol 20 mg trước bữa sáng, ăn tối sớm, kê cao đầu giường, dặn dấu hiệu 115 và hẹn 48 giờ. Sau 48 giờ ông hết nóng rát ban đêm và biết súc miệng sau khi xịt. Tuần 8 ông ngưng omeprazol 2 tuần rồi nội soi ở bệnh viện: viêm thực quản trợt LA độ B, không Barrett, không tổn thương nghi ác tính. LA độ B đủ tiêu chuẩn GERD (Lyon 2.0 Bảng 2; VNAGE 2026 KC 6), bác sĩ cho PPI tiếp và tái khám. (2) Xử trí ẩu (NEAR MISS): bác sĩ nghe 'nóng rát, trào chua' nên kê amoxicillin-clavulanat 7 ngày cộng omeprazol cho 1 tuần theo ý ông, không làm điện tim, không nói dấu hiệu quay lại, không hẹn tái khám vì 'chắc viêm dạ dày'. Ông đỡ sau vài ngày nhờ omeprazol, nhưng tin chắc 'kháng sinh chữa khỏi', ngưng thuốc sau 1 tuần rồi tái phát, về sau lại tự mua kháng sinh. Ca này may mắn vì không phải bệnh tim: nếu là hội chứng vành cấp thì ông về nhà không ECG, không biết khi nào gọi 115 (ESC 2023 mục 3.1.1, 3.2). Kết cục tốt không hợp thức hóa quy trình sai.",
+ "nhieu": [
+  "Sợ hãi quá mức: ông run, hỏi dồn, đòi làm hết, hiểu việc không có xét nghiệm là 'bệnh nặng không dám nói' (xem su_that so_hai, doi_xet_nghiem). Không chiều lòng bằng xét nghiệm hay kháng sinh; ghi nhận nỗi sợ, nói rõ đã kiểm gì, chưa loại gì, giao việc cụ thể.",
+  "Khiêng nặng, đau ngực nặng như đá đè và tuổi 67 gợi bệnh mạch vành; nhưng đau theo bữa no, tư thế, không khi đi bộ hay leo dốc, đỡ khi ngồi dậy uống nước, ECG bình thường và RF-CL thấp (ESC 2024 mục 3.2.1, Hình 4).",
+  "Hen và thuốc xịt: dễ nghĩ khò khè, ho là do hen; thực tế hen đang kiểm soát (PEF 95%, phổi sạch). Salbutamol có thể làm trào ngược nặng hơn, không phải lý do bỏ thuốc hen (GINA 2026 mục 6, đoạn GERD).",
+  "Ngoài giờ không có hs-troponin: phải quyết định trước khi có kết quả; mạng lưới an toàn (ECG lặp, dặn dấu hiệu, tái khám 48 giờ) là phần bắt buộc."
+ ],
+ "bai_hoc_bien": [
+  "Hỏi lý do thật: ông đến xin kháng sinh vì tin vi trùng gây nóng rát; chỉ lộ khi hỏi 'ông nghĩ mình bị gì', 'lần trước thuốc nào làm đỡ'. Trả lời đúng điều ông sợ (nhồi máu, ung thư) thay vì chỉ từ chối kháng sinh.",
+  "Đau ngực 'giống trào ngược' ở người lớn tuổi vẫn phải làm ECG trước, vì nóng rát cũng có thể là triệu chứng hội chứng vành cấp và đau ngực GERD không phân biệt được với đau tim bằng mô tả (ESC 2023 mục 3.1.1, 3.2; ACG 2022 mục Symptoms).",
+  "Khi không có hs-troponin, không có tài liệu đã tải dạy 'bỏ được' hay 'phải chuyển'; ca dạy cách lập luận dựa vào mô hình đau, ECG lặp, thời gian không đau, RF-CL, và buộc có mạng lưới an toàn.",
+  "Người hen có GERD: tiếp tục thuốc hen, súc miệng sau corticoid hít, salbutamol có thể làm nặng trào ngược, PPI không chữa hen (GINA 2026 mục 6; ACG 2022 đoạn ngoài thực quản).",
+  "Kết cục tốt không hợp thức hóa quy trình sai (near miss)."
+ ],
+ "diem_nho": [
+  "Triệu chứng điển hình của GERD gồm ợ nóng, đau ngực thực quản và trào ngược (Lyon 2.0 Bảng 2); thử PPI đơn thuần không đủ khẳng định (VNAGE 2026 KC 2).",
+  "Thử PPI: liều chuẩn 1 lần/ngày, 30–60 phút trước bữa, 8 tuần (ACG 2022 chẩn đoán KC 1, điều trị KC 8; VNAGE 2026 KC 15). Omeprazol 20 mg là liều chuẩn (VNAGE 2024 Bảng 4).",
+  "Nội soi cho dấu báo động, không đáp ứng PPI hoặc nhiều yếu tố nguy cơ Barrett (tuổi > 50, triệu chứng > 5 năm, trào ngược ban đêm, hút thuốc, thừa cân, tiền sử gia đình); ngưng PPI 2–4 tuần trước khi nội soi (ACG 2022 chẩn đoán KC 3, KC 6; VNAGE 2026 KC 3).",
+  "Đau ngực nghi hội chứng vành: ECG trong 10 phút và lặp khi cần; lấy máu lại khi đau còn hoặc tái lại; đau > 15 phút hoặc tái lại trong 1 giờ là dấu hiệu gọi cấp cứu (ESC 2023 mục 3.1.1, 3.2, 3.3.4.1).",
+  "Hen và GERD: beta2-agonist làm giãn cơ thắt thực quản dưới; PPI không cải thiện hen; corticoid hít gây nấm miệng, khàn tiếng nên súc miệng (GINA 2026 mục 6; QĐ 1851/2020 mục 3.4.1)."
+ ],
+ "nguon": [
+  "VNAGE 2026 – GERD – TL-0177 – KC 1–6, 11–16 (đoạn Phương pháp: loại mệnh đề H. pylori)",
+  "Lyon Consensus 2.0 (2024) – TL-0206 – Bảng 2 (định nghĩa, triệu chứng điển hình, đáp ứng PPI)",
+  "ACG 2022 GERD – TL-0212 – mục Symptoms; chẩn đoán KC 1–6; điều trị KC 1–5, 8; ngoài thực quản KC 1–4",
+  "VNAGE 2024 – khó tiêu chức năng – TL-0178 – Bảng 4 (liều chuẩn PPI)",
+  "ESC 2023 hội chứng vành cấp – TL-0069 – mục 3.1.1, 3.1.2, 3.2, 3.3.4.1; BYT QĐ 2187/2019 – TL-0033 – Hình 3",
+  "ESC 2024 hội chứng vành mạn – TL-0304 – mục 3.2, Hình 4 (RF-CL)",
+  "GINA 2026 – TL-0137 – mục 6 (GERD), đoạn tác dụng phụ ICS và súc miệng; BYT QĐ 1851/2020 hen người lớn – TL-0127 – mục 3.3.2, 3.4.1",
+  "Không có trong tài liệu đã tải: cách quyết định cho về khi không có hs-troponin; kỹ thuật trấn an người sợ hãi quá mức; chỉ định hoặc chống chỉ định kháng sinh trong GERD; nấm thực quản do corticoid hít; thời hạn nội soi theo hẹn; mốc tái khám 48 giờ và 2 tuần; liều alginat; lời khuyên không khiêng nặng sau ăn."
+ ],
+ "phien_ban_ca": "1 – viết mới (2026-10-17)",
+ "ghi_chu_bien_tap": [
+  "2026-10-17: viết mới. Tài liệu đã đọc: TL-0177 (KC 1–6, 11–16), TL-0206 (Bảng 2), TL-0212 (bảng khuyến cáo chẩn đoán, điều trị, ngoài thực quản), TL-0178 (Bảng 4), TL-0069 (mục 3.1.1–3.3.4.1), TL-0304 (mục 3.2, Hình 4), TL-0137 (mục 6 GERD, tác dụng phụ ICS), TL-0127 (mục 3.3.2, 3.4.1).",
+  "Mâu thuẫn: không có mâu thuẫn mới. Áp dụng mục cũ: 'Thời điểm uống PPI 1 lần/ngày' (TH-0295), 'Nội soi khi GERD ≥ 40/50 tuổi không dấu báo động' và 'PPI 1 hay 2 lần/ngày khi có triệu chứng ngoài thực quản' (TH-0364).",
+  "Ràng buộc ngoài giờ: không hs-troponin. Tài liệu đã tải không nêu cách quyết định khi thiếu; ca ghi đó là nhận định của tác giả ca, kèm ECG lặp, mạng lưới an toàn và tái khám 48 giờ; chuyển bệnh viện huyện tối nay chấm a. TL-0366 (AHA/ACC 2021) chưa có toàn văn nên không trích.",
+  "RF-CL: bảng ESC 2024 Hình 4 cho nam 60–69 tuổi, điểm triệu chứng 0–1 và 0–1 yếu tố nguy cơ là 8%; điểm triệu chứng 2 là 12%. Màu nhóm 'thấp' đọc theo ngưỡng chữ trong bài (> 5–15%)."
+ ]
+}
