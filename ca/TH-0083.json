@@ -1,0 +1,508 @@
+{
+ "ma_ca": "TH-0083",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_kho_tieu_chuc_nang",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Khó tiêu chức năng",
+  "chan_doan_phai_loai_tru": [
+   "Loét dạ dày-tá tràng",
+   "Ung thư dạ dày"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Sau dùng thực phẩm chức năng",
+  "thuoc_dang_dung": "Kháng sinh đã dùng 3 ngày",
+  "ly_do_that_su_den_kham": "Mâu thuẫn gia đình",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Trương Văn Lợi",
+  "tuoi": 64,
+  "gioi": "Nam",
+  "nghe": "Chủ tiệm tạp hóa nhỏ đầu hẻm (bán từ sáng sớm tới tối, đóng cửa rồi mới ăn cơm tối)",
+  "can_nang": 63,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi ông là 'chú'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhiều chuyện, thích kể cho bác sĩ 'hiểu hoàn cảnh', hay lẫn chuyện tiệm, chuyện nhà, chuyện hàng xóm vào lời kể bệnh. Tin quảng cáo thuốc bổ, hơi tự ái khi bị chê. Hút thuốc lá khoảng 10 điếu mỗi ngày, uống ba ly cà phê mỗi ngày, ăn tối muộn.",
+  "kieu_nhieu": "Kể lể lộn xộn: vừa trả lời câu hỏi đã nhảy sang chuyện hàng tồn kho, chuyện con dâu, chuyện ông hàng xóm mới mất; nhắc lại cùng một ý nhiều lần, không theo thứ tự thời gian. Chỉ trả lời gọn và đúng khi bác sĩ hỏi từng ý một, nhắc lại câu hỏi hoặc nhẹ nhàng dẫn ông trở về triệu chứng; nếu bác sĩ ngắt lời hay tỏ ra vội thì ông tự ái, kể dài hơn.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c28e62",
+   "toc": "#7d7a76",
+   "kieuToc": "ngan",
+   "ao": "#9aa7b0",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đầy bụng, ăn mau no, thỉnh thoảng nóng rát thượng vị; lo bệnh dạ dày nặng",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Ngoài giờ (19 giờ 40 tối thứ Năm), không có kỹ thuật viên: phòng khám không làm được xét nghiệm máu, phân, X-quang, siêu âm, CT; mẫu gửi đi chỉ có kết quả sáng hôm sau, không kịp cho quyết định tối nay. Nội soi dạ dày – tá tràng làm ở bệnh viện thành phố cách 8 km vào ngày làm việc. Còn dùng được: ống nghe, huyết áp kế, SpO₂, máy điện tim."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Trương Văn Lợi, 64 tuổi, chủ tiệm tạp hóa, tăng huyết áp, đến lúc 19 giờ 40 tối thứ Năm (ngoài giờ hành chính) một mình. Ông than đầy bụng, ăn mau no, thỉnh thoảng nóng rát phía trên rốn, và nói rất nhiều chuyện khác trong lúc làm thủ tục. Sinh hiệu: HA 135/82 mmHg, mạch 78 l/p, nhiệt 36,8 °C, SpO₂ 98%. Cân nặng 63 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện ông Lợi ngay đêm nay vì lo ung thư hay loét là không cần: ông không nôn ra máu, phân vàng, cân nặng ổn 63–64 kg cả năm, niêm mạc hồng, bụng mềm, sinh hiệu bình thường, ECG bình thường, nên không có dấu báo động (VNAGE 2024 KC 2). Điều ông cần là nội soi theo hẹn (VNAGE 2024 KC 1), mà nội soi cũng chỉ làm vào ngày làm việc nên nằm viện không đẩy nhanh được. Ông mất mấy ngày bán hàng và tiền viện phí, ngủ chập chờn thêm, và nhìn việc nhập viện như xác nhận 'bệnh nặng', khiến nỗi sợ ung thư vì ông Tư càng lớn. Mâu thuẫn với con dâu vì chuyện tiệm và thực phẩm chức năng vẫn chưa ai nói tới.",
+    "chuyen_tuyen": "Chuyển ông Lợi sang cấp cứu bệnh viện ngay đêm nay chỉ vì lo ung thư là quá tay: ông không có dấu báo động nên không thuộc diện phải đánh giá gấp (VNAGE 2024 KC 2), và nội soi theo hẹn vào ngày làm việc là đủ (VNAGE 2024 KC 1). Nội soi ở bệnh viện chỉ làm vào ngày làm việc, xét nghiệm gửi đi cũng chỉ có sáng hôm sau, còn ông đã uống amoxicillin 3 ngày nên test H. pylori nếu làm sớm có thể âm tính giả (VNAGE 2023 Statement 6). Ông tốn tiền xe và chờ nhiều giờ ở khoa cấp cứu, vẫn ra về với lọ thực phẩm chức năng chưa bị ngưng và chưa ai hỏi vì sao ông đi khám đêm nay."
+   },
+   "loi_mo": "Chào bác sĩ. Đóng cửa tiệm rồi tôi ghé khám luôn. Bụng tôi đầy, ăn vô là no, chắc tại mấy viên kháng sinh hôm bữa, mà cũng có khi ông Tư đầu hẻm mới mất, ổng cũng đầy bụng hồi đầu, tôi lo quá. Mà hàng tồn đang đầy kho, thằng con tôi...",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "135/82",
+    "nhiet": "36,8",
+    "nhip_tho": 17,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ông nói một hơi, không ngắt: tối nay ông đóng cửa tiệm sớm vì 'ở nhà ngột ngạt', bụng đầy tức, ăn vài muỗng cơm đã thấy no, thỉnh thoảng nóng rát ở giữa bụng trên. Ông ngờ do mấy viên kháng sinh uống hôm bữa, rồi kể sang chuyện ông Tư đầu hẻm vừa mất vì ung thư dạ dày nên ông lo, rồi chuyện hàng tồn kho, chuyện thằng con trai.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (kể lộn xộn, phải cấu trúc lại)"
+    },
+    {
+     "id": "thoi_gian",
+     "noi_dung": "Đầy bụng, mau no thật ra đã có khoảng 8 tháng nay: lúc đầu thỉnh thoảng, ba tháng gần đây gần như ngày nào cũng đầy sau ăn (chừng 4–5 ngày mỗi tuần). Hai tuần nay nặng hơn rõ. Ông 'quen rồi nên không để ý', tới giờ mới đi khám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian: mạn tính 8 tháng, mới nặng lên 2 tuần (tiêu chuẩn Rome cần ≥ 6 tháng)"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Đầy tức sau ăn, trong khoảng 1–2 giờ; ăn nửa chén cơm là no, không ăn nổi nữa, ợ hơi nhiều. Cảm giác nóng rát giữa bụng trên, phía trên rốn, ít hơn (1–2 lần mỗi tuần), có khi lúc đói, có khi sau ăn. Không lan lên ngực, không lan ra lưng, không liên quan gắng sức, không đỡ sau khi đi cầu hay trung tiện. Ăn đồ chiên mỡ thì nặng hơn. Buồn nôn nhẹ, chưa nôn lần nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm triệu chứng: thể sau ăn (PDS) chồng đau thượng vị (EPS)"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Năm ngày trước ông bị ho, sổ mũi, hơi đau họng, không sốt; ông ra hiệu thuốc mua amoxicillin 500 mg, uống ngày 3 lần, được 3 ngày (9 viên) thì đỡ ho nên ngưng. Từ khi uống thuốc thấy bụng sôi, đầy và khó chịu hơn. Hiện hết ho, hết sổ mũi, không sốt, không đau họng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kháng sinh đã dùng 3 ngày (làm nặng triệu chứng; ảnh hưởng thời điểm test H. pylori; cảm lạnh không cần kháng sinh)"
+    },
+    {
+     "id": "tpcn",
+     "noi_dung": "Hai tuần nay ông uống mỗi ngày 4 viên trong lọ 'bổ gan, bổ dạ dày, tăng cường sinh lực' do con dâu đưa (con dâu làm đại lý). Nhãn ghi 'chiết xuất thảo dược', không rõ từng thành phần và hàm lượng. Ông không coi đó là thuốc, chỉ là 'thực phẩm bổ'. Từ khi uống bụng đầy hơn, nhưng ông nghĩ 'thuốc bổ lúc đầu phải nóng bụng'. Lọ còn ở tiệm, chưa mang theo.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì ông chỉ kể amlodipin và mấy viên kháng sinh. Chỉ kể về lọ thực phẩm chức năng khi bác sĩ hỏi cụ thể có uống thực phẩm chức năng, thuốc bổ, vitamin, thuốc nam hay thứ gì ngoài thuốc bệnh không, hoặc hỏi triệu chứng nặng lên từ khi nào và trước đó có thay đổi gì.",
+     "k": 1,
+     "y": "Thực phẩm chức năng 2 tuần (yếu tố khởi phát đợt nặng)"
+    },
+    {
+     "id": "tha",
+     "noi_dung": "Tăng huyết áp 4 năm, uống amlodipin 5 mg mỗi sáng, huyết áp ở nhà khoảng 130/80. Không đái tháo đường, không bệnh tim, gan, thận. Không uống thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền và thuốc nền"
+    },
+    {
+     "id": "giam_dau",
+     "noi_dung": "Không uống thuốc giảm đau, thuốc kháng viêm, aspirin hay thuốc có corticoid. Đau khớp gối nhẹ thì xoa dầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ NSAID/corticoid (nguyên nhân loét)"
+    },
+    {
+     "id": "xhth_am",
+     "noi_dung": "Không nôn ra máu, phân vàng, không đi cầu phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc xuất huyết tiêu hóa"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Cân nặng ổn, 63–64 kg suốt năm nay (cân ở tiệm), quần vẫn vừa lưng. Không nuốt nghẹn, không nuốt đau, không nôn, không vàng da, không mệt hay hoa mắt, không sờ thấy khối ở bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động (sụt cân, thiếu máu, nuốt nghẹn, nôn)"
+    },
+    {
+     "id": "gia_dinh_ung_thu",
+     "noi_dung": "Ba mất vì đột quỵ ở tuổi 72. Mẹ và anh chị em không ai bị ung thư dạ dày hay bệnh tiêu hóa nặng. Ông chưa từng bị loét, chưa nội soi, chưa thử vi khuẩn dạ dày (H. pylori).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình ung thư tiêu hóa; chưa thăm dò"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Khiêng thùng nước, leo cầu thang không đau ngực, không khó thở, không vã mồ hôi. Chưa từng bị nhồi máu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại trừ đau ngực tương đương"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Hút thuốc lá khoảng 10 điếu mỗi ngày, hơn 35 năm. Ba ly cà phê mỗi ngày, bia 1–2 lon cuối tuần. Ăn tối muộn (8–9 giờ tối sau khi đóng cửa), hay ăn mì gói, đồ chiên, bỏ bữa trưa.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tai_kham",
+     "noi_dung": "Bệnh viện thành phố cách 8 km, đi xe máy 25 phút. Con trai cả trông tiệm hộ được, buổi sáng ngày làm việc ông đi được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng đi nội soi theo hẹn"
+    },
+    {
+     "id": "ban_chet",
+     "noi_dung": "Ông Tư đầu hẻm, 66 tuổi, mất cách đây hai tháng vì ung thư dạ dày; lúc đầu ông ấy cũng 'chỉ đầy bụng, ăn mau no'. Ông sợ mình giống vậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi lo ung thư (gây nhiễu)"
+    },
+    {
+     "id": "mau_thuan",
+     "noi_dung": "Chiều nay ông cãi nhau lớn với con dâu: con dâu ép ông nhập thêm hai lọ 'thuốc bổ' cho đủ chỉ tiêu đại lý và đòi ông giao sổ sách, chìa khóa tiệm cho vợ chồng nó; con trai cả đứng im, không bênh ông. Bực quá ông bỏ ra tiệm, tính không về ăn cơm. Ông đến khám tối nay một phần vì khó chịu trong bụng, phần lớn vì muốn nghe bác sĩ nói bệnh của ông là do thuốc bổ và do bực bội, để ông có cớ không phải uống nữa, và để con cái thấy ông bệnh thật. Mấy hôm nay ông ngủ chập chờn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi về căng thẳng, tinh thần, giấc ngủ, chuyện gia đình, ai đưa thuốc bổ, hoặc vì sao tối nay mới đi khám. Hỏi triệu chứng thuần túy thì ông tiếp tục kể chuyện tiệm.",
+     "k": 1,
+     "y": "Lý do thật: mâu thuẫn gia đình (căng thẳng; mong được bác sĩ 'phân xử')"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói nhiều, nét mặt bực bội. Niêm mạc mắt hồng, không vàng da. Không hạch thượng đòn, không hạch nách. BMI 23,1.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Ấn đau nhẹ, khó chịu vùng thượng vị, không phản ứng thành bụng, không sờ thấy khối, gan lách không to, không dấu Murphy, gõ không đục vùng thấp.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, không âm thổi, không tiếng ngựa phi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "truc_trang": {
+     "a": "Thăm trực tràng: không khối, găng dính phân vàng, không máu, không phân đen.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Họng không đỏ, không có mủ, hạch cổ không to. Không khối vùng cổ.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 78 l/p. Trục bình thường. Không ST chênh, không sóng Q bệnh lý, sóng T bình thường.",
+     "n": "Nam 64 tuổi, tăng huyết áp, hút thuốc: khó chịu vùng thượng vị có thể là triệu chứng tương đương đau ngực (ESC 2023 mục 3.1). Ở ca này triệu chứng mạn tính 8 tháng, không liên quan gắng sức nên không bắt buộc, nhưng làm được tại chỗ và rẻ, nên là cận lâm sàng hữu ích duy nhất tối nay."
+    },
+    "trop": {
+     "n": "Không cần: triệu chứng mạn tính 8 tháng, không đau ngực, không liên quan gắng sức, ECG bình thường. Ngoài giờ phòng khám cũng không làm được."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 142 g/L · MCV 90 fL · BC 7,4 G/L · TC 265 G/L",
+     "thay_the": "toan_than",
+     "n": "VNAGE 2024 KC 4 khuyên làm công thức máu cho người khó tiêu; thiếu máu là dấu báo động (VNAGE 2023 Bảng 2). Tối nay không làm được, mẫu gửi đi có kết quả sáng hôm sau; không có dấu hiệu lâm sàng của thiếu máu (niêm mạc hồng, không mệt, không hoa mắt) nên không làm thay đổi quyết định hôm nay. Làm cùng đợt nội soi."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Creatinin 82 µmol/L · eGFR 88 mL/ph/1,73m²",
+     "n": "Nằm trong nhóm xét nghiệm nên làm khi khó tiêu (VNAGE 2024 KC 4). Không làm được tối nay; không thay đổi quyết định."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 24 · ALT 26 U/L",
+     "n": "VNAGE 2024 KC 4 (men gan). Không làm được tối nay; không thay đổi quyết định."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "Không thấy trứng giun, không thấy Giardia, không hồng cầu.",
+     "n": "VNAGE 2024 KC 4: xét nghiệm phân tìm ký sinh trùng vì tỷ lệ nhiễm ký sinh trùng cao ở Việt Nam, đặc biệt Giardia lamblia. Không làm được tối nay; không có dấu hiệu ký sinh trùng nặng; làm cùng đợt nội soi."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Gan, mật, tụy bình thường, không sỏi túi mật, không giãn đường mật, không dịch ổ bụng.",
+     "thay_the": "bung",
+     "n": "VNAGE 2024 KC 4 (siêu âm bụng); ACG-CAG 2017 (bàn luận Statement 2) cho rằng hợp lý kết hợp nội soi với siêu âm bụng khi khó tiêu mới xuất hiện ở người trên 60 tuổi để loại trừ ung thư tụy. Tối nay không có người làm siêu âm; đau không lan lưng, không vàng da, không đau theo cơn sau bữa mỡ nên không khẩn. Làm cùng đợt nội soi."
+    },
+    "ct_bung": {
+     "n": "Không có chỉ định: không có dấu báo động, bụng không sờ thấy khối. Rome V: bằng chứng không ủng hộ chẩn đoán hình ảnh thường quy khi triệu chứng phù hợp khó tiêu chức năng."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi; làm ở bệnh viện thành phố vào ngày làm việc.)",
+     "n": "Có chỉ định ở ông: 64 tuổi (VNAGE 2024 KC 1: ≥ 40 tuổi; VNAGE 2023 Statement 3: nam ≥ 40 tuổi; ACG-CAG 2017 Statement 1: ≥ 60 tuổi; Maastricht VI WG2 Statement 2: > 50 tuổi). Không cấp cứu vì không có dấu báo động (VNAGE 2024 KC 2). Rome V cho phép xử trí khó tiêu chưa thăm dò không cần nội soi khi không có dấu báo động hoặc yếu tố nguy cơ; ba nguồn trên khuyến cáo nội soi ở tuổi và bối cảnh của ông."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khó tiêu chức năng (chẩn đoán dự kiến): thể khó chịu sau ăn (PDS) chồng thể đau thượng vị (EPS), triệu chứng mạn tính 8 tháng, nặng lên 2 tuần nay sau thực phẩm chức năng và đợt amoxicillin ngắn; chưa có dấu báo động; cần nội soi theo hẹn để xác nhận và loại trừ tổn thương thực thể",
+     "ok": 1,
+     "n": "Đầy sau ăn, mau no ≥ 2 ngày mỗi tuần trong 3 tháng qua, khởi phát cách đây 8 tháng (Rome V B1a); nóng rát thượng vị ≥ 1 ngày mỗi tuần chồng lên (Rome V B1b); không đỡ sau đi cầu, không nôn nhiều (VNAGE 2024 phần Introduction). Chỉ xác nhận chắc chắn sau khi loại trừ bệnh thực thể (Rome V; VNAGE 2024 KC 5), vì vậy ở ông 64 tuổi cần nội soi (VNAGE 2024 KC 1)."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng",
+     "n": "Không dùng NSAID, aspirin, corticoid; không nôn máu, phân vàng, không thiếu máu lâm sàng; đau nóng rát thưa, không theo nhịp đói – no rõ. Triệu chứng không phân biệt được với khó tiêu chức năng bằng hỏi bệnh; chỉ nội soi loại trừ được (VNAGE 2024 Bảng 2, KC 1)."
+    },
+    {
+     "t": "Ung thư dạ dày hoặc thực quản",
+     "n": "Không dấu báo động: cân nặng ổn, không nuốt nghẹn, không nôn, không thiếu máu lâm sàng, không khối, không hạch thượng đòn, gia đình không ai bị ung thư tiêu hóa (VNAGE 2024 KC 2). Mỗi dấu báo động nâng nguy cơ ung thư 2–3 lần, nhưng ở ≥ 40 tuổi vẫn phải nội soi để loại trừ (VNAGE 2024 KC 1). Nỗi sợ vì ông Tư không phải bằng chứng."
+    },
+    {
+     "t": "Khó tiêu do thuốc hoặc thực phẩm chức năng (amoxicillin, viên thảo dược không rõ thành phần, amlodipin)",
+     "n": "Kháng sinh nằm trong nhóm thuốc gây khó tiêu; nhóm chẹn kênh canxi cũng được liệt kê (VNAGE 2024 Bảng 2, 3). Có góp phần làm nặng đợt 2 tuần nay, nhưng không giải thích được triệu chứng đã 8 tháng. Rome V: ngưng thuốc và thực phẩm bổ sung không cần thiết trước khi thăm dò thêm."
+    },
+    {
+     "t": "Nhiễm H. pylori / viêm dạ dày do H. pylori",
+     "n": "Chưa biết tình trạng H. pylori; phải xác định ở mọi người khó tiêu (Rome V; VNAGE 2024 KC 3). Không thể loại trừ tối nay, và test ngay lúc này có thể âm tính giả vì ông mới dùng amoxicillin (VNAGE 2023 Statement 6)."
+    },
+    {
+     "t": "Trào ngược dạ dày – thực quản",
+     "n": "Nóng rát giữa thượng vị, không lan lên ngực, không trào chua, không ợ nóng sau xương ức. Ợ hơi nhiều chứ không phải ợ chua. Có thể chồng lấp với khó tiêu chức năng (VNAGE 2024 KC 14; Rome V: ợ nóng không thuộc triệu chứng vùng dạ dày – tá tràng nhưng hay đi kèm)."
+    },
+    {
+     "t": "Bệnh đường mật – tụy (sỏi mật, viêm tụy mạn, ung thư tụy)",
+     "n": "Đau không thành cơn, không lan lưng, không vàng da, không liên quan nhất định bữa mỡ kiểu cơn đau quặn (VNAGE 2024 phần Introduction: đau liên quan bữa ăn phải loại trừ cơn đau mật). Siêu âm bụng hữu ích nhưng không làm được tối nay (VNAGE 2024 KC 4)."
+    },
+    {
+     "t": "Hội chứng vành cấp / thiếu máu cơ tim",
+     "n": "Không liên quan gắng sức, kéo dài 8 tháng, không lan ngực hay tay, ECG bình thường. Đau thượng vị là triệu chứng tương đương đau ngực nên vẫn nên làm ECG (ESC 2023 mục 3.1)."
+    },
+    {
+     "t": "Nhiễm ký sinh trùng đường tiêu hóa (Giardia, giun lươn)",
+     "n": "Triệu chứng không tiêu chảy, không thiếu máu; chưa loại trừ được vì tối nay không soi phân; VNAGE 2024 KC 4 khuyên làm xét nghiệm phân vì nhiễm ký sinh trùng cao ở Việt Nam."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hẹn nội soi dạ dày – tá tràng ở bệnh viện thành phố vào ngày làm việc sớm nhất có thể (không cấp cứu); viết giấy giới thiệu ghi rõ đã dùng amoxicillin 3 ngày và thực phẩm chức năng",
+     "v": "c",
+     "n": "Khó tiêu từ 40 tuổi trở lên: nội soi (VNAGE 2024 KC 1, mạnh, mức bằng chứng vừa); ACG-CAG 2017 Statement 1 (≥ 60 tuổi); Maastricht VI WG2 Statement 2 (> 50 tuổi). Không cấp cứu vì không dấu báo động (VNAGE 2024 KC 2). Thời hạn nội soi cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Test H. pylori đúng thời điểm: sinh thiết khi nội soi (urease nhanh); vì mới dùng amoxicillin nên nếu âm tính phải thử lại bằng test thở urê (hoặc kháng nguyên phân) khi đã ≥ 4 tuần sau liều kháng sinh cuối và ≥ 2 tuần sau ngưng PPI",
+     "v": "c",
+     "n": "Phải xác định H. pylori ở mọi người khó tiêu (Rome V Clinical Evaluation; VNAGE 2024 KC 3). Có chỉ định nội soi thì test dựa trên sinh thiết, ưu tiên urease nhanh (VNAGE 2023 Statement 3, 4); test không xâm lấn ưu tiên test thở urê (Statement 5). Không dùng kháng sinh trong 4 tuần hay PPI trong 2 tuần trước test; kháng sinh dùng cho nhiễm khuẩn cơ quan khác cũng gây âm tính giả (VNAGE 2023 Statement 6; Maastricht VI, đoạn khoảng nghỉ thuốc: kháng sinh, bismuth ≥ 4 tuần, PPI 14 ngày)."
+    },
+    {
+     "t": "Ngưng ngay lọ thực phẩm chức năng 'bổ gan dạ dày', không dùng thêm thuốc bổ, thảo dược hay thuốc nam; mang lọ theo khi tái khám",
+     "v": "c",
+     "n": "Khi chưa có dấu báo động, ngưng thuốc và thực phẩm bổ sung không cần thiết có thể gây khó tiêu trước khi thăm dò thêm (Rome V Clinical Evaluation). ACG-CAG 2017 Statement 12: không khuyến cáo thường quy thuốc bổ sung/thay thế cho khó tiêu chức năng. Thành phần của lọ ông dùng không có trong tài liệu đã tải: không kết luận đây là nguyên nhân duy nhất."
+    },
+    {
+     "t": "Giải thích không cần kháng sinh: đợt ho sổ mũi đã khỏi, họng không đỏ, không sốt; không kê thêm hay dùng lại kháng sinh",
+     "v": "c",
+     "n": "Cảm lạnh thông thường không dùng kháng sinh (ACP/CDC 2016 Advice 4). Kháng sinh nằm trong danh sách thuốc gây khó tiêu (VNAGE 2024 Bảng 3)."
+    },
+    {
+     "t": "Điều trị triệu chứng trong lúc chờ nội soi theo thể khó chịu sau ăn: itopride 50 mg × 3 lần/ngày",
+     "v": "c",
+     "n": "Thuốc vận động đường tiêu hóa hiệu quả trong khó tiêu chức năng (VNAGE 2024 KC 9), là lựa chọn đầu tiên khi triệu chứng sau ăn nổi bật (VNAGE 2024 KC 10, mức bằng chứng cao); itopride 50 mg × 3 lần/ngày (VNAGE 2024 Bảng 5); đáp ứng với thuốc vận động ở người châu Á tốt (Đồng thuận châu Á 2026 Statement 26). Có thể bắt đầu khi chưa nội soi: nên chẩn đoán và điều trị khó tiêu chức năng theo triệu chứng, nội soi chủ yếu để loại trừ bệnh thực thể (Đồng thuận châu Á 2026 Statement 3). Cách dùng so với bữa ăn không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tư vấn ăn uống – lối sống: ăn nhiều bữa nhỏ, ăn tối sớm, giảm đồ chiên mỡ, hạn chế cà phê, bia rượu, giảm và bỏ dần thuốc lá",
+     "v": "c",
+     "n": "Ăn bữa nhỏ, tránh thức ăn nhiều mỡ (Rome V Treatment); thức ăn gây khó tiêu nên tránh (VNAGE 2024 KC 13); ớt, đồ chiên, cà phê, rượu là các tác nhân thường gặp, nên giảm thuốc lá và hạn chế rượu (Đồng thuận châu Á 2026 Statement 14, 21)."
+    },
+    {
+     "t": "Nói rõ chẩn đoán dự kiến và lý do vẫn phải nội soi: nghĩ nhiều khó tiêu chức năng, chưa có dấu báo động, nhưng chưa loại trừ được loét hay ung thư; trấn an nỗi lo giống ông Tư và giải thích vì sao tối nay không cần xét nghiệm để quyết định",
+     "v": "c",
+     "n": "Lắng nghe, trấn an từ lần khám đầu giúp người bệnh tuân thủ (VNAGE 2024 phần Treatment of FD). Xác nhận chắc chắn chỉ sau khi loại trừ bệnh thực thể (Rome V; VNAGE 2024 KC 5)."
+    },
+    {
+     "t": "Hỏi và ghi nhận căng thẳng gia đình, giấc ngủ; không đứng về phe nào, đề nghị ông nói chuyện thẳng với con trai và hẹn mời người nhà đi cùng buổi tái khám nếu ông đồng ý",
+     "v": "c",
+     "n": "Rối loạn lo âu, trầm cảm, rối loạn giấc ngủ liên quan khó tiêu chức năng (Đồng thuận châu Á 2026 Statement 7, 15); quản lý căng thẳng là một phần của tiếp cận toàn diện (Statement 20). Liệu pháp tâm lý chỉ đặt ra khi không đáp ứng thuốc (VNAGE 2024 KC 12)."
+    },
+    {
+     "t": "Dặn dấu hiệu báo động phải đến ngay: nôn ra máu hoặc phân đen, nôn nhiều hoặc liên tục, nuốt nghẹn hay nuốt đau, sụt cân, xanh xao mệt lả, sờ thấy khối ở bụng; đau ngực, vã mồ hôi thì gọi cấp cứu",
+     "v": "c",
+     "n": "Dấu báo động: xuất huyết tiêu hóa trên, thiếu máu thiếu sắt không rõ nguyên nhân, sụt cân không chủ ý > 10% cân nặng, nôn kéo dài, nuốt nghẹn tiến triển hoặc nuốt đau, khối hoặc hạch, tiền sử gia đình ung thư tiêu hóa trên (VNAGE 2024 KC 2); khối bụng (VNAGE 2023 Bảng 2). Đau thượng vị cũng có thể là triệu chứng tương đương đau ngực (ESC 2023 mục 3.1)."
+    },
+    {
+     "t": "Hẹn tái khám sau nội soi, mang kết quả; đánh giá đáp ứng điều trị sau 8 tuần",
+     "v": "c",
+     "n": "Đánh giá đáp ứng sau 8 tuần điều trị; nếu không đáp ứng phải đánh giá lại kỹ, cân nhắc thuốc chống trầm cảm ba vòng (VNAGE 2024 KC 11). Mốc tái khám sớm hơn không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc ức chế bơm proton liều chuẩn 1 lần/ngày (omeprazol 20 mg) trong lúc chờ nội soi thay cho itopride",
+     "v": "a",
+     "n": "PPI liều chuẩn 1 lần/ngày cho cả hai thể (VNAGE 2024 KC 7, Bảng 4); thuốc đầu tay khi H. pylori âm tính hoặc còn triệu chứng sau diệt (Rome V Treatment; ACG-CAG 2017 Statement 8). Chấp nhận, nhưng PPI phải ngưng ≥ 2 tuần trước test H. pylori nên làm chậm việc xác định nhiễm khuẩn (VNAGE 2023 Statement 6). Không tăng liều (VNAGE 2024 KC 7)."
+    },
+    {
+     "t": "Kết luận 'khó tiêu chức năng' và chỉ cho thuốc, không hẹn nội soi",
+     "v": "w",
+     "n": "Ở ≥ 40 tuổi cần nội soi để loại trừ loét và ung thư (VNAGE 2024 KC 1, mạnh; ACG-CAG 2017 Statement 1; Maastricht VI WG2 Statement 2). Rome V cho phép xử trí không nội soi nếu không dấu báo động và yếu tố nguy cơ nhưng không áp cho ông (64 tuổi, ở nơi nguy cơ ung thư dạ dày trung bình đến cao: VNAGE 2024 phần Diagnosis)."
+    },
+    {
+     "t": "Cho phác đồ diệt H. pylori theo kinh nghiệm ngay tối nay mà không xét nghiệm",
+     "v": "w",
+     "n": "Chỉ nên xét nghiệm H. pylori khi có ý định diệt (VNAGE 2023 Statement 1); điều trị theo kinh nghiệm thay vì xét nghiệm có thể làm chậm phát hiện tổn thương thực thể (VNAGE 2024 phần Diagnosis and diagnostic tests). Phác đồ diệt tối ưu 14 ngày, theo thuốc cụ thể (VNAGE 2023 Statement 13, 14)."
+    },
+    {
+     "t": "Kê thêm kháng sinh vì ông mới đỡ ho và cho rằng 'nhiễm khuẩn dạ dày'",
+     "v": "w",
+     "n": "Cảm lạnh không dùng kháng sinh (ACP/CDC 2016 Advice 4). Kháng sinh tự nó gây khó tiêu (VNAGE 2024 Bảng 3) và làm test H. pylori âm tính giả (VNAGE 2023 Statement 6)."
+    },
+    {
+     "t": "Để ông dùng tiếp lọ thực phẩm chức năng hoặc kê thêm thảo dược 'bổ dạ dày'",
+     "v": "w",
+     "n": "Rome V: ngưng thực phẩm bổ sung không cần thiết trước khi thăm dò thêm. ACG-CAG 2017 Statement 12: không khuyến cáo thường quy thuốc bổ sung/thay thế. Đồng thuận châu Á 2026 Statement 31 nêu một số chế phẩm thảo dược có bằng chứng (STW 5, rikkunshito...), đó là chế phẩm đã xác định thành phần; lọ của ông không rõ thành phần."
+    },
+    {
+     "t": "Cho amitriptylin ngay từ đầu để chữa 'bệnh thần kinh dạ dày'",
+     "v": "w",
+     "n": "Thuốc chống trầm cảm ba vòng chỉ dùng sau 8 tuần PPI và/hoặc thuốc vận động không đáp ứng (VNAGE 2024 KC 11; BSG 2022 phần Summary: bậc hai, bắt đầu 10 mg/ngày). Ở người cao tuổi có tác dụng an thần và kháng cholinergic (VNAGE 2024 phần Treatment of FD)."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển cấp cứu ngay đêm nay để nội soi và xét nghiệm",
+     "v": "w",
+     "n": "Không có dấu báo động nên không phải đánh giá gấp (VNAGE 2024 KC 2); xét nghiệm tối nay không thay đổi xử trí. Nội soi theo hẹn là đủ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng khó tiêu chưa thăm dò ở nam 64 tuổi, nghĩ nhiều khó tiêu chức năng: thể khó chịu sau ăn (đầy, mau no) chồng thể đau thượng vị (nóng rát); mạn tính 8 tháng, đợt nặng 2 tuần",
+     "Chưa có dấu báo động; chưa loại trừ loét và ung thư vì chưa nội soi: có chỉ định nội soi theo hẹn do tuổi ≥ 40",
+     "Yếu tố làm nặng: viên thực phẩm chức năng không rõ thành phần (2 tuần), amoxicillin tự mua (3 ngày), ăn tối muộn, hút thuốc, cà phê, căng thẳng do mâu thuẫn gia đình",
+     "Chưa biết tình trạng H. pylori; test chưa làm được đúng lúc vì mới dùng kháng sinh",
+     "Bệnh kèm: tăng huyết áp ổn định dùng amlodipin 5 mg"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh theo trình tự (ông kể lộn xộn nên phải cấu trúc lại): triệu chứng chính, thời gian (8 tháng; 3 tháng gần đây gần như hằng ngày; Rome V B1), đặc điểm (đầy sau ăn 1–2 giờ, mau no, nóng rát thưa), yếu tố làm nặng (đồ mỡ), thuốc kể cả kháng sinh, thực phẩm chức năng, NSAID; dấu báo động; tiền sử gia đình; lối sống; lý do đến khám tối nay.",
+     "Tiêu chuẩn: đầy sau ăn hoặc mau no ≥ 2 ngày mỗi tuần (PDS) và/hoặc đau, nóng rát thượng vị ≥ 1 ngày mỗi tuần (EPS), trong 3 tháng gần nhất, khởi phát ≥ 6 tháng trước, không có bệnh thực thể giải thích (Rome V B1, B1a, B1b; VNAGE 2024 phần Introduction). PDS và EPS có thể chồng lấp, nên mô tả theo thể (Rome V Justification for Change in Criteria).",
+     "Đặc điểm hỗ trợ khó tiêu chức năng: không đỡ sau đi cầu hay trung tiện, không thành cơn quặn mật, không nôn kéo dài (VNAGE 2024 phần Introduction). Nôn nhiều hoặc buồn nôn nổi bật phải nghĩ bệnh khác (Rome V B1a, B1b).",
+     "Dấu báo động chưa có: không xuất huyết tiêu hóa, không thiếu máu lâm sàng, cân ổn, không nuốt nghẹn, không nôn kéo dài, không khối, gia đình không ung thư tiêu hóa (VNAGE 2024 KC 2). Cần nhớ ngưỡng sụt cân là > 10% cân nặng (VNAGE 2024 KC 2).",
+     "Vẫn nội soi dù không dấu báo động: khuyến cáo ≥ 40 tuổi ở vùng nguy cơ ung thư cao, ≥ 50 tuổi ở vùng nguy cơ thấp (VNAGE 2024 KC 1); nam ≥ 40 tuổi (VNAGE 2023 Statement 3); > 50 tuổi (Maastricht VI WG2 Statement 2); ≥ 60 tuổi (ACG-CAG 2017 Statement 1, cho Bắc Mỹ, đồng thuận châu Á 2026 Statement 3 khuyên cân nhắc nội soi ở vùng nhiều ung thư dạ dày). Cả ba ngưỡng đều nhỏ hơn 64 tuổi nên không mâu thuẫn trong ca này. Rome V cho phép không nội soi khi không có dấu báo động hoặc yếu tố nguy cơ: khác bối cảnh dịch tễ, không áp cho ông.",
+     "Ngoài giờ: xét nghiệm máu, phân, siêu âm không làm được tối nay, nhưng không cái nào làm thay đổi xử trí tối nay (không dấu báo động, bụng mềm, niêm mạc hồng); các xét nghiệm đó (VNAGE 2024 KC 4) làm cùng đợt nội soi. ECG là cận lâm sàng duy nhất làm được tại chỗ.",
+     "Kháng sinh và thực phẩm chức năng: cả hai có thể làm nặng thêm (VNAGE 2024 Bảng 3; Rome V Clinical Evaluation) nhưng triệu chứng đã có 8 tháng; đây là nhiễu cần hỏi cụ thể mới thấy. Kháng sinh còn làm test H. pylori âm tính giả (VNAGE 2023 Statement 6).",
+     "Lý do thật đến khám: mâu thuẫn gia đình (con dâu ép mua thực phẩm chức năng, đòi giao tiệm). Căng thẳng, lo âu, mất ngủ liên quan khó tiêu chức năng (Đồng thuận châu Á 2026 Statement 7, 15); nên được nhận diện và gọi tên, không phải để bác sĩ phân xử chuyện nhà."
+    ],
+    "phan_tich_xu_tri": [
+     "Quyết định tối nay không cần kết quả xét nghiệm: hướng đúng là cho về, hẹn nội soi có giấy giới thiệu, ngưng thực phẩm chức năng, điều trị triệu chứng, dặn dấu báo động. Nhập viện hay chuyển cấp cứu không có chỉ định (VNAGE 2024 KC 2).",
+     "Nội soi theo hẹn: thời hạn cụ thể không có trong tài liệu đã tải. Khi nội soi lấy sinh thiết test urease nhanh (VNAGE 2023 Statement 3, 4). Vì ông mới uống amoxicillin: nếu âm tính phải thử lại bằng test thở urê khi đã ≥ 4 tuần sau liều kháng sinh cuối và ≥ 2 tuần sau ngưng PPI (VNAGE 2023 Statement 5, 6; Maastricht VI, đoạn khoảng nghỉ thuốc). Nếu dương tính thì diệt H. pylori (VNAGE 2024 KC 6; Đồng thuận châu Á 2026 Statement 22); chọn phác đồ theo VNAGE 2023 Statement 14 (không thuộc phạm vi lượt khám này).",
+     "Thuốc triệu chứng trong lúc chờ: vì triệu chứng sau ăn nổi bật (đầy, mau no) nên chọn thuốc vận động đường tiêu hóa, itopride 50 mg × 3 lần/ngày (VNAGE 2024 KC 9, 10, Bảng 5; Đồng thuận châu Á 2026 Statement 26). Có thể bắt đầu trước nội soi (Đồng thuận châu Á 2026 Statement 3). Thời điểm uống so với bữa ăn không có trong tài liệu đã tải. Thuốc này không ảnh hưởng test H. pylori; PPI thì có (VNAGE 2023 Statement 6).",
+     "Cách thay thế, chấp nhận: PPI liều chuẩn 1 lần/ngày (omeprazol 20 mg; VNAGE 2024 KC 7, Bảng 4; Rome V Treatment), không tăng liều khi chưa đỡ. Thời gian thử: 4–8 tuần rồi ngưng nếu không đủ cải thiện (Rome V), ngưng nếu không đáp ứng sau 8 tuần và thử ngưng sau 6 tháng nếu có đáp ứng (VNAGE 2024 KC 8), hoặc ngưng nếu không đáp ứng sau 12 tuần (Đồng thuận châu Á 2026 Statement 23, phần bàn luận). Ba mốc khác nhau vì tài liệu khác nhau (hội, năm, mẫu nghiên cứu châu Á); ghi cả ba. Giờ uống: 30–60 phút trước ăn (ACG 2022 GERD KC 8); uống buổi tối trước khi ngủ (QĐ 361/2014 Phụ lục NSAID mục 3.3) cũng chấp nhận. Nếu chọn PPI thì phải ngưng 2 tuần mới test H. pylori được (VNAGE 2023 Statement 6).",
+     "Ngưng lọ thực phẩm chức năng (Rome V Clinical Evaluation), không kê kháng sinh (ACP/CDC 2016 Advice 4). Amlodipin giữ nguyên: nhóm chẹn kênh canxi có trong danh sách thuốc có thể gây khó tiêu (VNAGE 2024 Bảng 2) nhưng tài liệu đã tải không nêu đổi thuốc huyết áp ở người khó tiêu; xem lại sau nội soi nếu triệu chứng kéo dài.",
+     "Nếu sau 8 tuần thuốc vận động hoặc PPI không đáp ứng: đánh giá lại kỹ, nội soi nếu chưa làm, cân nhắc thuốc chống trầm cảm ba vòng liều thấp (amitriptylin khởi 10 mg trước ngủ; VNAGE 2024 KC 11: tăng mỗi 2 tuần, thường đủ 20–30 mg, không quá 75 mg; BSG 2022 phần Summary: tăng chậm, tối đa 30–50 mg/ngày; hai nguồn khác nhau về trần liều, con số 30–50 mg thận trọng hơn) hoặc liệu pháp tâm lý (VNAGE 2024 KC 11, 12). Đây không phải việc của lượt này.",
+     "Những việc sai: không nội soi dù 64 tuổi; diệt H. pylori theo kinh nghiệm; kê thêm kháng sinh; để ông dùng tiếp thực phẩm chức năng; dùng TCA ngay; nhập viện hoặc chuyển cấp cứu."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Itopride",
+      "ham_luong": "50 mg",
+      "lieu": "50 mg × 3 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Ngày 3 lần; thời điểm so với bữa ăn không có trong tài liệu đã tải: theo tờ hướng dẫn của thuốc",
+      "so_ngay": "Đến khi nội soi và tái khám; tổng 8 tuần rồi đánh giá lại",
+      "ghi_chu": "VNAGE 2024 Bảng 5 (liều); KC 10, 11 (chọn đầu tay cho thể sau ăn; đánh giá sau 8 tuần). Chống chỉ định và tương tác thuốc của itopride không có trong tài liệu đã tải: đọc tờ hướng dẫn."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên/ngày như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Giữ nguyên, không đổi vì khó tiêu; nhóm chẹn kênh canxi có trong VNAGE 2024 Bảng 2 như nguyên nhân có thể, xem lại sau nội soi nếu triệu chứng kéo dài."
+     }
+    ],
+    "dan_do": [
+     "Ngưng lọ viên 'bổ gan, bổ dạ dày'; không uống thêm thuốc bổ, thảo dược, thuốc nam. Mang lọ theo khi tái khám để xem thành phần (Rome V Clinical Evaluation).",
+     "Không tự mua kháng sinh khi ho, sổ mũi thông thường (ACP/CDC 2016 Advice 4).",
+     "Uống itopride 50 mg × 3 lần/ngày (VNAGE 2024 Bảng 5), theo tờ hướng dẫn; không tự tăng liều; báo bác sĩ nếu có tác dụng phụ.",
+     "Mang giấy giới thiệu đến bệnh viện thành phố nội soi dạ dày vào ngày làm việc sớm nhất; báo cho nơi nội soi là ông đã uống amoxicillin 3 ngày và (nếu có) đang dùng PPI, để họ tính thời điểm test H. pylori (VNAGE 2023 Statement 6).",
+     "Ăn nhiều bữa nhỏ, ăn tối trước 7 giờ tối nếu được, giảm đồ chiên mỡ, ba ly cà phê giảm còn một, hạn chế bia, bỏ dần thuốc lá (Rome V Treatment; Đồng thuận châu Á 2026 Statement 21).",
+     "Đến ngay cơ sở y tế nếu nôn ra máu hoặc phân đen, nôn nhiều hoặc liên tục, nuốt nghẹn hay nuốt đau, sụt cân, xanh xao mệt lả, sờ thấy khối ở bụng (VNAGE 2024 KC 2). Gọi cấp cứu nếu đau ngực kéo dài, vã mồ hôi, khó thở.",
+     "Chuyện nhà: hẹn nói thẳng, bình tĩnh với con trai; nếu ông đồng ý, mời con trai đi cùng lần tái khám để bác sĩ giải thích bệnh (Đồng thuận châu Á 2026 Statement 7, 20).",
+     "Tái khám sau nội soi, mang kết quả; đánh giá đáp ứng thuốc sau 8 tuần (VNAGE 2024 KC 11). Mốc tái khám sớm hơn không có trong tài liệu đã tải."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông mang giấy giới thiệu, đi nội soi sáng thứ Hai tuần sau ở bệnh viện thành phố, con trai cả trông tiệm. Nội soi: niêm mạc thực quản, dạ dày, tá tràng hồng, không loét, không tổn thương nghi ác tính; test urease âm tính nhưng bác sĩ nội soi ghi chú mới dùng kháng sinh chưa đủ 4 tuần nên hẹn thử lại. Ông ngưng lọ thực phẩm chức năng ngay hôm sau khám, ăn bữa nhỏ, giảm cà phê, bớt thuốc lá. Con trai cùng đi tái khám, bác sĩ giải thích bệnh không nguy hiểm; hai cha con nói chuyện thẳng với nhau, con dâu thôi ép mua thuốc bổ. Sau 4 tuần ông hết đầy bụng gần như hằng ngày; test thở urê làm sau 5 tuần kể từ liều kháng sinh cuối (đã ngưng thuốc dạ dày) âm tính. Chẩn đoán chốt: khó tiêu chức năng, ổn định, không cần thuốc thường xuyên.",
+ "nhieu": [
+  "Kháng sinh 3 ngày và viên thực phẩm chức năng khiến ông (và người học) quy mọi thứ cho thuốc: triệu chứng đã có 8 tháng, hai thứ này chỉ làm nặng thêm; phải hỏi mốc thời gian mới thấy.",
+  "Nỗi sợ ung thư vì ông Tư không phải bằng chứng của ung thư; ngược lại cũng không được vì 'không có dấu báo động' mà bỏ nội soi ở người 64 tuổi.",
+  "Ngoài giờ không có xét nghiệm: gần như không xét nghiệm nào tối nay làm đổi hướng xử trí; điều quan trọng là quyết định đúng trước khi có kết quả.",
+  "Ông kể lộn xộn: lẫn chuyện tiệm, chuyện con dâu, chuyện ông Tư vào lời kể bệnh; người khám phải cấu trúc lại và dẫn dắt từng ý một."
+ ],
+ "bai_hoc_bien": [
+  "Kể lể lộn xộn: ngắt lời làm ông tự ái và kể dài hơn; hỏi từng ý, nhắc lại câu hỏi, ghi nhận một câu chuyện rồi dẫn về triệu chứng. Gom lại thành trục thời gian: 8 tháng, 3 tháng hằng ngày, 2 tuần nặng hơn.",
+  "Thuốc đang dùng phải hỏi cụ thể: 'thực phẩm chức năng, thuốc bổ, thuốc nam, thuốc tự mua' (người bệnh không coi đó là thuốc). Kháng sinh tự mua cho cảm lạnh cũng là thuốc gây khó tiêu.",
+  "Khó tiêu chưa thăm dò ≥ 40 tuổi ở Việt Nam: nội soi (VNAGE 2024 KC 1; VNAGE 2023 Statement 3); ngưỡng khác nhau giữa các nguồn nhưng 64 tuổi đều vượt. Rome V cho phép không nội soi khi không dấu báo động, khác bối cảnh dịch tễ.",
+  "Test H. pylori có cửa sổ thời gian: không kháng sinh trong 4 tuần, không PPI trong 2 tuần (VNAGE 2023 Statement 6). Kháng sinh dùng cho bệnh khác cũng tính.",
+  "Chẩn đoán chức năng là chẩn đoán dương tính (đủ tiêu chuẩn Rome) cộng với loại trừ thực thể thích hợp; nói rõ 'nghĩ nhiều' chứ không chốt khi chưa nội soi.",
+  "Lý do thật đến khám là mâu thuẫn gia đình: gọi tên căng thẳng, giúp ông có kế hoạch, không phân xử chuyện nhà."
+ ],
+ "diem_nho": [
+  "Rome V B1: đầy sau ăn hoặc mau no ≥ 2 ngày/tuần (PDS); đau hoặc nóng rát thượng vị ≥ 1 ngày/tuần (EPS); 3 tháng gần nhất, khởi phát ≥ 6 tháng.",
+  "Dấu báo động (VNAGE 2024 KC 2): xuất huyết tiêu hóa, thiếu máu thiếu sắt, sụt cân > 10%, nôn kéo dài, nuốt nghẹn/đau, khối/hạch, tiền sử gia đình ung thư tiêu hóa trên: nội soi bất kể tuổi.",
+  "VNAGE 2024 KC 3, 7: test và diệt H. pylori; PPI liều chuẩn 1 lần/ngày không tăng liều; thuốc vận động là đầu tay cho thể sau ăn (KC 10); itopride 50 mg × 3 lần/ngày (Bảng 5).",
+  "VNAGE 2023 Statement 6 và Maastricht VI: không kháng sinh/bismuth 4 tuần, không PPI 2 tuần trước test H. pylori.",
+  "Rome V: ngưng thuốc và thực phẩm bổ sung không cần thiết khi chưa có dấu báo động; ACG-CAG 2017 Statement 12: không khuyến cáo thường quy thuốc bổ sung/thay thế.",
+  "Cảm lạnh thông thường không dùng kháng sinh (ACP/CDC 2016 Advice 4)."
+ ],
+ "nguon": [
+  "VNAGE 2024 – khó tiêu chức năng – TL-0178 – phần Introduction, KC 1–14 (Bảng 1), Bảng 2–5, Hình 1–2",
+  "VNAGE 2023 – H. pylori – TL-0179 – Statement 1–6, 13–14, Bảng 2",
+  "Rome V – Gastroduodenal Disorders 2026 – TL-0191 (tệp _ban_02) – B1, B1a, B1b, Clinical Evaluation, Treatment",
+  "Đồng thuận châu Á về khó tiêu chức năng 2026 – TL-0193 – Statement 3, 7, 14, 15, 20–23, 26, 31",
+  "ACG-CAG 2017 – khó tiêu – TL-0232 – Statement 1, 2 (bàn luận), 8, 12",
+  "BSG 2022 – khó tiêu chức năng – TL-0213 – phần Summary (thuốc chống trầm cảm ba vòng)",
+  "Maastricht VI/Florence 2022 – TL-0215 (tệp _ban_02) – WG2 Diagnostics Statement 1, 2, 5, đoạn khoảng nghỉ thuốc",
+  "ACP/CDC 2016 – dùng kháng sinh trong nhiễm trùng hô hấp cấp ở người lớn – TL-0156 – Advice 4",
+  "ESC 2023 hội chứng vành cấp – TL-0069 – mục 3.1",
+  "ACG 2022 GERD – TL-0212 – KC 8; BYT QĐ 361/2014 – TL-0286 – Phụ lục NSAID mục 3.3 (giờ uống PPI)",
+  "Không có trong tài liệu đã tải: thời hạn nội soi theo hẹn; mốc tái khám sau nội soi; cách dùng itopride so với bữa ăn; thành phần và tác hại của viên thực phẩm chức năng; chống chỉ định và tương tác của itopride."
+ ],
+ "phien_ban_ca": "1 – viết theo kho tài liệu (2026-10-17)",
+ "ghi_chu_bien_tap": [
+  "Viết 17/10/2026. Tài liệu đã đọc: TL-0178 (toàn văn: KC 1–14, Bảng 2–5), TL-0179 (Statement 1–7, Bảng 2), TL-0191 ban_02 (B1, Clinical Evaluation, Treatment), TL-0193 (Statement 1–3, 7, 14–15, 20–23, 26, 28, 31), TL-0232 (Statement 1, 2, 8, 12), TL-0213 (Summary: TCA), TL-0215 ban_02 (WG2 Statement 1, 2; đoạn khoảng nghỉ thuốc), TL-0156 (Advice 4), TL-0069 (mục 3.1).",
+  "Thiết kế: ca 1 lượt, đáp án ve_hen. Chẩn đoán đích 'khó tiêu chức năng' là chẩn đoán dự kiến vì chưa nội soi; kết cục xác nhận ở ket_cuc. Ngoài giờ khóa xn, xquang, sieu_am, ct, noi_soi: ECG làm được; ctm, abdus khai v:u kèm thay_the vì có cách thay bằng khám; không thêm mục danh mục mới (test H. pylori không có id riêng, ghi trong xu_tri).",
+  "Mâu thuẫn mới: thời gian thử PPI trước khi ngừng (Rome V 4–8 tuần, VNAGE 2024 KC 8 là 8 tuần, Đồng thuận châu Á 2026 Statement 23 là 12 tuần). Mục cũ áp dụng: 'Thời điểm uống PPI 1 lần/ngày' (TH-0295); ngưỡng tuổi nội soi cho khó tiêu (đã kiểm: ở tuổi 64 mọi nguồn cùng hướng nội soi).",
+  "Chỗ thiếu tài liệu đã đánh dấu trong ca: thời hạn nội soi theo hẹn, mốc tái khám, cách dùng itopride so với bữa ăn, thành phần và tác hại của thực phẩm chức năng, chống chỉ định itopride."
+ ]
+}
