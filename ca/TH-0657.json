@@ -1,0 +1,975 @@
+{
+ "ma_ca": "TH-0657",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_tieu_chay_cap_nhiem_trung",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Tiêu chảy cấp nhiễm trùng",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lỵ trực trùng",
+   "Viêm ruột thừa"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Công an",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi dùng kéo dài",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Bích Hạnh",
+  "tuoi": 29,
+  "gioi": "Nữ",
+  "nghe": "Công an (điều tra viên)",
+  "can_nang": 55,
+  "chieu_cao": 160,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nghiêm túc, kỷ luật, nói ngắn gọn, ít khi nhận mình ốm vì coi đó là yếu. Tự ái nghề, sợ bị đánh giá 'sức khỏe kém' ảnh hưởng xét nâng ngạch. Làm điều tra và trực đêm, hay ăn cơm hộp.",
+  "kieu_nhieu": "Giấu tiền sử: trả lời 'không uống thuốc gì' (chỉ kể thuốc nhỏ mũi) dù đã tự uống ciprofloxacin còn dư và loperamid vì thấy mất mặt. Chỉ kể khi được hỏi cụ thể, nhẹ nhàng, không phán xét. Lý do thật đến khám (muốn kiểm tra tổng quát) cũng chỉ lộ khi được hỏi chị lo nhất điều gì.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d4a383",
+   "toc": "#1a1410",
+   "kieuToc": "bui",
+   "ao": "#3f4f3a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh"
+  }
+ },
+ "ly_do_kham": "Đi ngoài phân lỏng, đau bụng 2 ngày; muốn kiểm tra tổng quát",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không có máy siêu âm. Có xét nghiệm máu, soi và cấy phân, thử thai nước tiểu."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Trần Thị Bích Hạnh, 29 tuổi, công an. Đến vì đi ngoài phân lỏng từ hôm qua, đau bụng âm ỉ; chị muốn nhân tiện kiểm tra tổng quát. Sinh hiệu: nhiệt 37,6 °C, mạch 94 l/p, HA 108/68 mmHg, nhịp thở 18 l/p, SpO₂ 99%. Cân nặng 54 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Hạnh mất nước độ 1 (mạch 94, HA 108/68, uống được), không sốt cao, không phân máu: nhập viện truyền dịch là quá tay vì Oresol là điều trị đầu tay cho mất nước nhẹ đến vừa (IDSA 2017 khuyến cáo 39; QĐ 5642/2015 mục 4.2.3a). Chị mất vài ngày công, tốn viện phí, và càng ngại nói mình 'yếu' nên lần sau lại tự mua thuốc mà không kể.",
+    "chuyen_tuyen": "Gửi chị lên tuyến trên hôm nay là không cần vì chưa có sốt cao, phân máu, mất nước nặng hay dấu bụng ngoại khoa (IDSA 2017 khuyến cáo 3, 8). Chị phải xin phép đơn vị, ngồi xe đường dài khi đang đau bụng, chờ nhiều giờ rồi cũng chỉ được cho Oresol và về, và sẽ giữ kín chuyện thuốc đã tự uống."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đi ngoài lỏng từ hôm qua, hơi đau bụng, chắc không có gì. Nhân tiện bác sĩ kiểm tra tổng quát giúp tôi luôn.",
+   "sinh_hieu": {
+    "mach": 94,
+    "ha": "108/68",
+    "nhiet": "37,6",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi ngoài phân lỏng từ hôm qua, đau bụng âm ỉ quanh rốn. Muốn nhân tiện kiểm tra tổng quát.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ba ngày trước chị đi công tác tỉnh xa bằng xe khách, ngồi gần như liên tục khoảng 10 giờ. Trưa trên đường ăn bún gà và gỏi ở quán ven quốc lộ cùng hai đồng nghiệp, uống trà đá. Sáng hôm qua bắt đầu đi ngoài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ: bữa ăn quán ven đường sau chuyến đi dài; khởi phát sau khoảng 1 ngày"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Hôm qua đi ngoài khoảng 6 lần, sáng nay 3 lần: phân lỏng vàng như nước, lượng vừa. Không máu, không nhầy, không phân đen, không mót rặn, không trắng đục như nước vo gạo. Đêm dậy đi 1 lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân: nước, không nhầy máu"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Đau âm ỉ quanh rốn, hơi quặn trước khi đi ngoài, đi xong thì đỡ. Không đau cố định ở hố chậu phải, không đau liên tục, không đau khi ho hay đi lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau bụng (phân biệt viêm ruột thừa)"
+    },
+    {
+     "id": "sot_non",
+     "noi_dung": "Chiều hôm qua ớn lạnh nhẹ, chưa đo nhiệt. Buồn nôn nhẹ, chưa nôn, uống được nước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, nôn"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Hơi khát; nước tiểu ít, vàng đậm. Đứng dậy không chóng mặt. Mới uống nước lọc và nước ngọt, chưa uống Oresol.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu mất nước"
+    },
+    {
+     "id": "dong_nghiep",
+     "noi_dung": "Anh Quang đi cùng chuyến, ăn cùng bữa, cũng đi ngoài lỏng một ngày rồi tự khỏi. Người thứ ba không bị.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cùng bữa ăn, có người cùng triệu chứng"
+    },
+    {
+     "id": "kinh_thai",
+     "noi_dung": "Kinh đều 28–30 ngày, kỳ cuối bắt đầu 9 ngày trước, đã sạch; dùng bao cao su đều, chưa có thai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kinh nguyệt, khả năng có thai (trước khi dùng thuốc)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khỏe, không bệnh mạn, không dị ứng thuốc. Viêm họng cách đây 5 tháng có uống kháng sinh. Hai bắp chân không đau, không sưng dù ngồi xe lâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, dị ứng thuốc"
+    },
+    {
+     "id": "thuoc_mui",
+     "noi_dung": "Nghẹt mũi gần 3 tháng, tự mua thuốc nhỏ mũi (naphazolin) nhỏ 3–4 lần mỗi ngày, không nhỏ thì nghẹt cả đêm. Không dùng thuốc khác thường ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc nhỏ mũi co mạch kéo dài"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Tối qua và sáng nay chị đã tự uống 2 viên ciprofloxacin 500 mg còn dư từ đợt viêm họng trước (mỗi lần 1 viên) và 2 viên loperamid (hàng xóm cho), thấy phân bớt nên sáng nay mới đi ít hơn. Chị không kể vì nghĩ 'công an mà tự mua thuốc bừa thì mất mặt' và sợ bị cho là yếu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' chị chỉ kể thuốc nhỏ mũi. Chỉ kể khi bác sĩ hỏi nhẹ nhàng, không phán xét, về việc đã tự uống gì cho bụng: thuốc cầm tiêu, kháng sinh, thuốc còn dư.",
+     "k": 1,
+     "y": "Giấu tiền sử: tự dùng kháng sinh còn dư và loperamid"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Đơn vị sắp khám sức khỏe định kỳ và chị đang xét nâng ngạch. Mấy tháng nay mệt, ngủ ít vì trực đêm, nghẹt mũi mãi nên lo trong người có bệnh chưa phát hiện. Tiêu chảy chỉ là cớ để vào khám tổng quát.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi nhẹ chị lo nhất điều gì, hoặc vì sao chọn hôm nay đến khám tổng quát.",
+     "k": 1,
+     "y": "Động cơ thật: muốn kiểm tra tổng quát"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói ngắn gọn, dáng nghiêm nghị. Môi hơi khô, niêm mạc hồng, lưỡi ẩm, mắt không trũng. Nếp véo da ở bụng trở lại ngay. Cân nặng 54 kg (thường ngày 55 kg). Không vàng da, không hạch cổ.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 108/68 mmHg, mạch 94 l/p. Đứng 1 phút: 104/66 mmHg, mạch 100 l/p, hơi choáng thoáng qua rồi hết.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi chướng nhẹ, nhu động ruột tăng. Ấn đau nhẹ quanh rốn, không có điểm đau khu trú; McBurney không đau hơn các vùng khác, không phản ứng thành bụng, không phản ứng dội, dấu Rovsing và dấu cơ thắt lưng chậu âm tính. Gan lách không to, không khối.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Ống hậu môn không đau, không khối; phân lỏng vàng dính găng, không máu, không nhầy.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ. Niêm mạc mũi đỏ sẫm, bóng, cuốn mũi phù nề hai bên, không mủ.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Hai bắp chân mềm, ấn không đau, không sưng, không phù.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 94 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 94 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "test_thai": {
+     "v": "u",
+     "r": "Âm tính.",
+     "n": "Nữ tuổi sinh đẻ đau bụng và có thể đã tự dùng thuốc: loại trừ thai trước khi cân nhắc quinolon (chống chỉ định khi có thai: QĐ 4178/2007 mục III.2b)."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Phân lỏng vàng; bạch cầu 0–2/vi trường, không hồng cầu, không ký sinh trùng.",
+     "n": "Chưa có chỉ định: xét nghiệm phân khi sốt, phân nhầy máu, đau quặn nặng (IDSA 2017 khuyến cáo 8, 10) hoặc triệu chứng > 7 ngày (ACG 2016 khuyến cáo 2). Bạch cầu trong phân: QĐ 5642/2015 mục 4.2.1 dùng làm tiêu chí kháng sinh, IDSA khuyến cáo 20 không dùng để xác định nguyên nhân."
+    },
+    "cay_phan": {
+     "v": "n",
+     "r": "Phòng khám nhận mẫu; kết quả báo sau 48–72 giờ: không mọc vi khuẩn gây bệnh (mẫu lấy sau khi chị đã uống 2 viên ciprofloxacin).",
+     "n": "Phân nước mới 2 ngày, sốt nhẹ: chưa thuộc tình huống nên cấy (IDSA 2017 khuyến cáo 8, 10; ACG 2016 khuyến cáo 2); cấy sau khi đã dùng kháng sinh dễ âm tính giả."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 8,6 G/L · Neutrophil 62% · Hb 134 g/L · TC 252 G/L",
+     "bang": {
+      "wbc": 8.6,
+      "neu_pct": 62.0,
+      "neu": 5.33,
+      "lym_pct": 29.0,
+      "lym": 2.49,
+      "mono_pct": 7.0,
+      "mono": 0.6,
+      "eos_pct": 1.5,
+      "eos": 0.13,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.5,
+      "hgb": 134,
+      "hct": 0.4,
+      "mcv": 88.9,
+      "mch": 29.8,
+      "mchc": 335,
+      "rdw": 13.1,
+      "plt": 252
+     },
+     "n": "Bạch cầu không dùng để xác định nguyên nhân (IDSA 2017 khuyến cáo 22). Làm cũng chấp nhận vì chị muốn kiểm tra tổng quát."
+    },
+    "abdus": {
+     "n": "Cơ sở không có siêu âm. Đau lan tỏa, không điểm đau khu trú, McBurney và Rovsing âm tính: nguy cơ viêm ruột thừa thấp trên lâm sàng, không cần hình ảnh; đau dồn hố chậu phải hoặc phản ứng thành bụng thì chuyển đánh giá ngoại khoa (WSES 2020 Statement 1.2, khuyến cáo 1.2.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng thể phân nước (khả năng do thức ăn quán ven đường), ngày thứ 2, mất nước độ 1; chị đã tự dùng ciprofloxacin và loperamid trước khi khám",
+     "ok": 1,
+     "n": "Phân nước sau bữa ăn quán ven đường 1 ngày, đồng nghiệp cùng bữa cũng bị, không nhầy máu, sốt nhẹ 37,6 °C, mạch 94, uống được (QĐ 5642/2015 mục 3.1, 3.4)."
+    },
+    {
+     "t": "Tả",
+     "n": "Không nước vo gạo, không hàng chục lần mỗi ngày; chị có đau quặn, sốt nhẹ (QĐ 4178/2007 mục II.1a: phân toàn nước, thường không sốt); không vùng dịch."
+    },
+    {
+     "t": "Lỵ trực trùng",
+     "n": "Không sốt cao, không mót rặn, không nhầy máu (QĐ 5642/2015, bài Lỵ trực khuẩn mục 3.1b, 3.3). Dặn quay lại nếu nhầy máu, sốt cao."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Đau lan tỏa, McBurney, Rovsing, cơ thắt lưng chậu âm tính (WSES 2020 Statement 1.2, khuyến cáo 1.2.1); không có siêu âm nên dặn dấu hiệu."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Bù dịch uống: Oresol pha 1 gói với 1 lít nước đun sôi để nguội, hoặc dịch/súp muối; uống theo nhu cầu, ngụm nhỏ nếu buồn nôn, bù thêm sau mỗi lần đi ngoài; chưa cần truyền tĩnh mạch",
+     "v": "c",
+     "n": "QĐ 5642/2015 mục 4.2.3a (độ 1 uống được: Oresol); IDSA 2017 khuyến cáo 39, 43, Bảng 7 (người lớn ≥ 30 kg: ORS 2–4 L; duy trì tự do đến khoảng 2 L/ngày); QĐ 4178/2007 mục III.2a (pha 1 lít). ACG 2016 khuyến cáo 5: nước, súp, bánh quy mặn cũng đủ cho đa số người lớn (cả hai đúng)."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích vì sao. Nếu chị đã tự uống ciprofloxacin còn dư thì ngưng, không uống tiếp",
+     "v": "c",
+     "n": "Chưa đủ tiêu chí (QĐ 5642/2015 mục 4.2.1); IDSA 2017 khuyến cáo 36, ACG 2016 khuyến cáo 9, 10: không kháng sinh kinh nghiệm. Fluoroquinolon: nguy cơ C. difficile (ACG 2016 tr. 610)."
+    },
+    {
+     "t": "Hỏi nhẹ nhàng, không phán xét về thuốc đã tự dùng cho bụng (cầm tiêu, kháng sinh còn dư) và thuốc dùng thường ngày (thuốc nhỏ mũi)",
+     "v": "c",
+     "n": "Người bệnh có thể giấu vì sợ bị đánh giá; thuốc tự dùng quyết định xử trí (cầm tiêu che triệu chứng; quinolon chống chỉ định khi có thai: QĐ 4178/2007 mục III.2b; C. difficile: ACG 2016 tr. 610)."
+    },
+    {
+     "t": "Dặn dấu hiệu phải quay lại ngay: sốt cao, phân nhầy hoặc máu, đau quặn tăng hay dồn hố chậu phải, nôn không uống được, tiểu rất ít, choáng; ăn lại sớm cháo, cơm mềm, uống nước đun sôi, rửa tay; hẹn tái khám sau 2–3 ngày nếu chưa đỡ",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 5, 8, 10, 45, 52; ACG 2016 khuyến cáo 2 (> 7 ngày); QĐ 5642/2015 mục 3.1, 5, 6. Mốc tái khám 2–3 ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Men vi sinh, diosmectit hoặc spasmaverin; hay không dùng men vi sinh",
+     "v": "a",
+     "n": "Men vi sinh: IDSA 2017 khuyến cáo 49 (có thể dùng) so với ACG 2016 khuyến cáo 6 (không khuyến cáo): cả hai a. QĐ 5642/2015 mục 4.2.3b nêu diosmectit, spasmaverin; liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Loperamid ngắn hạn (4 mg đầu rồi 2 mg sau mỗi lần phân lỏng, tối đa 8 mg/ngày, ≤ 48 giờ, khi không sốt); hay không dùng loperamid",
+     "v": "a",
+     "n": "ACG 2016 Hình 1 và tr. 609–610; IDSA 2017 khuyến cáo 46, 47 (có thể dùng ở người lớn tiêu chảy nước); QĐ 5642/2015 mục 4.2.3b (không lạm dụng). Chị đã uống 2 viên."
+    },
+    {
+     "t": "Kê ciprofloxacin hoặc azithromycin cho chị mau khỏi để đi làm sớm",
+     "v": "w",
+     "n": "Chưa có tiêu chí (QĐ 5642/2015 mục 4.2.1); IDSA 2017 khuyến cáo 36, ACG 2016 khuyến cáo 9, 10 không kháng sinh cho tiêu chảy phân nước cộng đồng; kháng sinh làm đổi hệ vi khuẩn ruột (ACG 2016 tr. 611)."
+    },
+    {
+     "t": "Truyền Ringer lactat tại phòng khám cho chị khỏe nhanh",
+     "v": "w",
+     "n": "Mất nước độ 1, uống được: dùng Oresol (QĐ 5642/2015 mục 4.2.3a); truyền khi nặng, sốc, thay đổi tri giác và ORS thất bại (IDSA 2017 khuyến cáo 41)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng thể phân nước, ngày thứ 2; mất nước độ 1 uống được (mạch 94, HA 108/68)",
+     "Đã tự dùng ciprofloxacin 2 viên và loperamid 2 viên trước khi khám; chưa có dấu hiệu nặng",
+     "Chưa loại hẳn tả, lỵ ở mức xét nghiệm; loại trừ viêm ruột thừa trên lâm sàng",
+     "Bối cảnh: thuốc nhỏ mũi co mạch dùng kéo dài; lý do thật là muốn kiểm tra tổng quát"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: phân (nước, nhầy máu) → sốt, nôn, mất nước → bữa ăn, người cùng bữa → đau bụng → kinh, thai → thuốc đã dùng (hỏi cụ thể cầm tiêu, kháng sinh) → thuốc thường ngày → vì sao khám hôm nay. Khám: mất nước độ 1 (mạch < 100, huyết áp bình thường; QĐ 5642/2015 mục 3.1), bụng lan tỏa không khu trú, trực tràng không máu, bắp chân mềm.",
+     "Nghĩ nhiễm trùng thể nước vì khởi phát sau bữa ăn ngoài, người cùng bữa cũng bị, phân nước không nhầy máu (QĐ 5642/2015 mục 3.1, 3.4). Tả không giống (QĐ 4178/2007 mục II.1a); lỵ chưa có hội chứng lỵ (bài Lỵ trực khuẩn mục 3.3); viêm ruột thừa loại trừ trên lâm sàng.",
+     "Sáng nay phân ít đi do loperamid chị tự uống, không phải bằng chứng bệnh lui. Ngồi xe lâu chỉ là bối cảnh (chi tiết của ca); bắp chân bình thường nên không nghĩ tắc tĩnh mạch."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch uống (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 39, 43, Bảng 7); QĐ 4178/2007 mục III.2a chỉ nêu 'theo nhu cầu'.",
+     "Không kháng sinh (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10). Nếu sau này sốt, phân nhầy máu thì QĐ 5642/2015 mục 4.2.1 cho cân nhắc kháng sinh, IDSA khuyến cáo 8 và ACG Hình 1 yêu cầu xét nghiệm phân.",
+     "Loperamid: QĐ 5642 khuyên không lạm dụng, IDSA 47 và ACG cho phép ngắn hạn ở người không sốt: cả hai cách chấp nhận.",
+     "Thuốc nhỏ mũi dài ngày: EPOS 2020 (Hình 1.4.1) thuốc co mạch < 10 ngày; ARIA-EAACI 2024–2025 Phần I: dùng lâu liên quan viêm mũi do thuốc. Cách cai thuốc: không có trong tài liệu đã tải. Khám tổng quát: để sau, nội dung không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol (muối bù nước đường uống)",
+      "ham_luong": "Gói pha 1 lít",
+      "lieu": "1 gói pha với 1 lít nước đun sôi để nguội; uống theo nhu cầu, ngụm nhỏ nếu buồn nôn; bù thêm sau mỗi lần đi ngoài (đợt bù tham khảo 2–4 L, duy trì tự do đến khoảng 2 L/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Ngay, cả ngày",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "IDSA 2017 Bảng 7, khuyến cáo 39, 43; QĐ 4178/2007 mục III.2a; QĐ 5642/2015 mục 4.2.3a. Thay thế: nước cháo muối, súp, nước dừa pha chút muối (QĐ 4178/2007 mục III.2a; ACG 2016 khuyến cáo 5)."
+     },
+     {
+      "thuoc": "Kháng sinh",
+      "ham_luong": "Không kê",
+      "lieu": "Không dùng",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10. Ngưng ciprofloxacin còn dư."
+     }
+    ],
+    "dan_do": [
+     "Uống Oresol từng ngụm nhỏ, đều trong ngày, đếm số lần đi ngoài và theo dõi nước tiểu; ăn lại cháo, cơm mềm khi đỡ.",
+     "Ngưng ciprofloxacin còn dư; không tự mua kháng sinh hay thuốc cầm tiêu khi chưa hỏi bác sĩ.",
+     "Quay lại ngay khi sốt cao, phân nhầy hoặc có máu, đau quặn tăng hoặc dồn hố chậu phải, nôn không uống được, tiểu rất ít, choáng; tái khám sau 2–3 ngày nếu chưa đỡ, quá 7 ngày thì làm xét nghiệm phân. (IDSA 2017 khuyến cáo 8; ACG 2016 khuyến cáo 2).",
+     "Thuốc nhỏ mũi co mạch không nên dùng quá 10 ngày liên tục (EPOS 2020 Hình 1.4.1); hẹn khám tai mũi họng và kiểm tra tổng quát sau khi hết tiêu chảy."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Chị Hạnh tái khám sau 3 ngày (ngày bệnh thứ 5). Đỡ một phần: đi ngoài còn 3–4 lần mỗi ngày, phân sệt đến lỏng, đau bụng âm ỉ nhẹ, mệt, ăn kém. Sinh hiệu: nhiệt 36,9 °C, mạch 80 l/p, HA 112/70 mmHg, nhịp thở 16 l/p, SpO₂ 99%. Cân nặng 54,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Hạnh ngày thứ 5 không sốt, mạch 80, HA 112/70, uống được, số lần đi ngoài đang giảm: không có tiêu chuẩn nhập viện (IDSA 2017 khuyến cáo 5, 41). Nằm viện chỉ làm chị mất thêm ngày công, tốn kém, trong khi cần nhất là uống đủ Oresol và ăn lại.",
+    "chuyen_tuyen": "Gửi chị đi nội soi đại tràng hoặc khám tiêu hóa ở ngày thứ 5 là quá sớm: tiêu chảy đang giảm và chưa tới 14 ngày (IDSA 2017 khuyến cáo 28: bệnh không nhiễm trùng chỉ nghĩ khi ≥ 14 ngày; ACG 2016 khuyến cáo 12). Chuẩn bị ruột làm chị mất nước thêm, kết quả nhiều khả năng bình thường."
+   },
+   "loi_mo": "Bác sĩ, tôi đỡ hơn nhưng chưa hết hẳn, vẫn đi ngoài lỏng ba bốn lần mỗi ngày. Tôi sắp phải đi làm lại. Có cần uống thuốc gì mạnh hơn không?",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "112/70",
+    "nhiet": "36,9",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đỡ một phần sau 3 ngày: còn 3–4 lần mỗi ngày, phân sệt đến lỏng, hết quặn, còn đau âm ỉ quanh rốn; mệt, ăn kém.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Từ hôm khám trước đi ngoài giảm dần từ 5 lần xuống 3–4 lần. Không sốt, không ớn lạnh. Không máu, không nhầy, không phân đen, không nôn, không đau dồn hố chậu phải.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến và dấu cảnh báo"
+    },
+    {
+     "id": "bu_dich",
+     "noi_dung": "Hai ngày đầu uống Oresol đều khoảng 1,5 L mỗi ngày. Hai ngày nay chán vị mặn nên chuyển sang nước lọc, nước ngọt, nước dừa; sáng qua uống một hộp sữa tươi thì sôi bụng, đi thêm một lần. Tiểu bình thường, không chóng mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ bù dịch (nền cho tái phát)"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Trước lần khám đầu đã tự uống 2 viên ciprofloxacin 500 mg và 2 viên loperamid. Sau khi khám đã ngưng, không uống thêm. Trong tủ còn 4 viên ciprofloxacin.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung chung chị chỉ kể thuốc nhỏ mũi. Chỉ kể khi bác sĩ hỏi nhẹ nhàng, không phán xét, về thuốc cầm tiêu, kháng sinh, thuốc còn dư.",
+     "k": 1,
+     "y": "Giấu tiền sử: kháng sinh và loperamid tự dùng"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Ngày mai phải đi làm lại, có ca trực đêm; vẫn nhỏ thuốc nhỏ mũi 3–4 lần mỗi ngày; ăn căng tin và cơm hộp đơn vị đặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Công việc, bữa ăn sắp tới"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Vẫn muốn kiểm tra tổng quát vì đơn vị sắp khám định kỳ và chị đang xét nâng ngạch, lo mình có bệnh chưa phát hiện (mệt mấy tháng, ngủ ít, nghẹt mũi mãi).",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi nhẹ chị lo nhất điều gì, hoặc vì sao muốn kiểm tra tổng quát.",
+     "k": 1,
+     "y": "Động cơ thật: muốn kiểm tra tổng quát"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt. Môi ẩm, niêm mạc hồng, mắt không trũng. Nếp véo da trở lại ngay. Cân nặng 54,5 kg.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, nhu động ruột hơi tăng. Ấn đau nhẹ quanh rốn, không điểm đau khu trú; McBurney, Rovsing âm tính, không phản ứng thành bụng.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Phân sệt vàng nâu dính găng, không máu, không nhầy.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "soi_phan": {
+     "v": "a",
+     "r": "Phân sệt vàng nâu; bạch cầu 0–3/vi trường, không hồng cầu, không ký sinh trùng.",
+     "n": "Chưa tới mốc > 7 ngày (ACG 2016 khuyến cáo 2); không sốt, không nhầy máu (IDSA 2017 khuyến cáo 8): chưa bắt buộc."
+    },
+    "cay_phan": {
+     "v": "n",
+     "r": "Phòng khám nhận mẫu; kết quả báo sau 48–72 giờ: không mọc vi khuẩn gây bệnh.",
+     "n": "Đang đỡ, không sốt, chưa tới 7 ngày (IDSA 2017 khuyến cáo 8, 10; ACG 2016 khuyến cáo 2); đã dùng ciprofloxacin nên dễ âm tính giả."
+    },
+    "abdus": {
+     "n": "Cơ sở không có siêu âm. Đau lan tỏa, không điểm đau khu trú, McBurney và Rovsing âm tính: nguy cơ viêm ruột thừa thấp trên lâm sàng, không cần hình ảnh; đau dồn hố chậu phải hoặc phản ứng thành bụng thì chuyển đánh giá ngoại khoa (WSES 2020 Statement 1.2, khuyến cáo 1.2.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng, ngày thứ 5, đỡ một phần: hồi phục chậm bình thường, chưa phải thất bại điều trị",
+     "ok": 1,
+     "n": "Số lần giảm 5 → 3–4 lần mỗi ngày, hết sốt, không nhầy máu, không mất nước; chưa tới 7 ngày (ACG 2016 khuyến cáo 2). Chị bù dịch chưa đủ và uống sữa tươi. Tả, lỵ, viêm ruột thừa đã loại trừ ở lượt 1 và không có dấu mới (không nước vo gạo, mót rặn, nhầy máu; bụng không khu trú)."
+    },
+    {
+     "t": "Tiêu chảy xâm nhập (Shigella, Salmonella, Campylobacter) hoặc thất bại điều trị",
+     "n": "Không sốt, không phân nhầy máu, số lần đang giảm (QĐ 5642/2015 mục 3.1). Thất bại điều trị cần kèm dấu nặng thêm hoặc kéo dài (IDSA 2017 khuyến cáo 27, 29)."
+    },
+    {
+     "t": "Không dung nạp lactose thoáng qua sau nhiễm",
+     "n": "Sữa tươi làm sôi bụng nhưng số lần đang giảm; IDSA 2017 khuyến cáo 27 chỉ nêu khi không đáp ứng điều trị đầu."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: đỡ dần sau 3 ngày là diễn tiến chấp nhận được, chưa phải thất bại; không đổi sang thuốc mạnh hơn",
+     "v": "c",
+     "n": "Không sốt, không nhầy máu, giảm số lần. IDSA 2017 khuyến cáo 27: đánh giá lại khi không đáp ứng điều trị đầu; khuyến cáo 29 khi triệu chứng dai dẳng. Mốc 'đỡ bình thường' cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục bù dịch uống (Oresol hoặc dịch/súp muối) theo lượng đi ngoài, ăn thức ăn bình thường tăng dần",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 43, 45, Bảng 7 (duy trì tự do đến khoảng 2 L/ngày, thay phần mất theo phân); QĐ 5642/2015 mục 4.2.3a; ACG 2016 khuyến cáo 5. Chị uống Oresol chưa đủ 2 ngày nay."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích; nếu còn ciprofloxacin ở nhà thì không uống tiếp",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10; QĐ 5642/2015 mục 4.2.1 chưa đủ tiêu chí. Fluoroquinolon: nguy cơ C. difficile (ACG 2016 tr. 610)."
+    },
+    {
+     "t": "Dặn mốc quay lại để làm xét nghiệm phân: sốt, phân nhầy hoặc máu, đau quặn nặng, đi ngoài tái lại hoặc kéo dài quá 7 ngày",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 8, 10, 28; ACG 2016 khuyến cáo 2 (> 7 ngày) và Hình 1 (14–30 ngày phải làm xét nghiệm phân). Tái khám 2–3 ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc nhỏ mũi kéo dài: giải thích không nên dùng quá 10 ngày, hẹn khám tai mũi họng sau đợt tiêu chảy",
+     "v": "a",
+     "n": "EPOS 2020 Hình 1.4.1 (thuốc co mạch < 10 ngày); ARIA-EAACI 2024–2025 Phần I (dùng lâu liên quan viêm mũi do thuốc). Cách cai: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Men vi sinh, diosmectit hoặc thuốc giảm co thắt; hay không dùng các thuốc này",
+     "v": "a",
+     "n": "Men vi sinh: IDSA 2017 khuyến cáo 49 (có thể) so với ACG 2016 khuyến cáo 6 (không). Diosmectit, spasmaverin: QĐ 5642/2015 mục 4.2.3b; liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Loperamid ngắn hạn (4 mg đầu, 2 mg sau mỗi lần phân lỏng, tối đa 8 mg/ngày, ≤ 48 giờ); hay không dùng",
+     "v": "a",
+     "n": "ACG 2016 tr. 609–610; IDSA 2017 khuyến cáo 46, 47 (không sốt); QĐ 5642/2015 mục 4.2.3b (không lạm dụng)."
+    },
+    {
+     "t": "Kê ciprofloxacin hoặc azithromycin vì đỡ chậm, để chị đi làm sớm",
+     "v": "w",
+     "n": "Không sốt, không nhầy máu: IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10; chưa đủ tiêu chí QĐ 5642/2015 mục 4.2.1."
+    },
+    {
+     "t": "Chuyển nội soi đại tràng hoặc nhập viện làm thêm CT, xét nghiệm tìm nguyên nhân",
+     "v": "w",
+     "n": "Chưa 14 ngày, đang giảm: IDSA 2017 khuyến cáo 28; ACG 2016 khuyến cáo 12. Cơ sở không có siêu âm nên cũng không dùng hình ảnh để tìm nguyên nhân."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng ngày thứ 5, đỡ một phần, hồi phục chậm bình thường; không mất nước",
+     "Không có dấu hiệu tiêu chảy xâm nhập hay dấu bụng ngoại khoa",
+     "Yếu tố làm đỡ chậm: bù dịch chưa đủ, uống sữa tươi; đã tự dùng ciprofloxacin, loperamid",
+     "Bối cảnh: thuốc nhỏ mũi kéo dài; muốn kiểm tra tổng quát"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: so với lượt trước (số lần, sốt, máu nhầy) → bù dịch có đủ không → ăn uống, sữa → thuốc đã dùng → công việc sắp tới. Khám: không mất nước, bụng không khu trú, McBurney, Rovsing âm tính. Chưa cần cận lâm sàng (IDSA 2017 khuyến cáo 8, 10; ACG 2016 khuyến cáo 2).",
+     "Phân biệt đỡ chậm với thất bại điều trị: thất bại là sốt lại, nhầy máu, mất nước, đau tăng hoặc không đỡ sau điều trị đúng (IDSA 2017 khuyến cáo 27, 29). Chị giảm từ 5 xuống 3–4 lần, hết sốt: hồi phục chậm; bù dịch chưa đủ và sữa tươi có thể góp phần.",
+     "Loại trừ tả, lỵ, viêm ruột thừa như lượt 1: không có dấu mới (QĐ 4178/2007 mục II.1a; bài Lỵ trực khuẩn mục 3.1c; WSES 2020 khuyến cáo 1.2.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Giải thích, không đổi thuốc: chưa có tiêu chí kháng sinh (QĐ 5642/2015 mục 4.2.1; IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10).",
+     "Bù dịch đều đến khi hết tiêu chảy, đổi vị Oresol hoặc dùng súp muối, nước cháo muối (IDSA 2017 khuyến cáo 43, Bảng 7; QĐ 4178/2007 mục III.2a; ACG 2016 khuyến cáo 5).",
+     "Mốc quay lại: sốt, nhầy máu, đau nặng, tái đi ngoài hoặc > 7 ngày thì xét nghiệm phân trước kháng sinh (IDSA 2017 khuyến cáo 8, 10; ACG 2016 khuyến cáo 2). Trở lại làm việc: ăn uống an toàn (QĐ 5642/2015 mục 6; IDSA 2017 khuyến cáo 52, 54); mốc đi làm lại: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol",
+      "ham_luong": "Gói pha 1 lít",
+      "lieu": "1 gói pha 1 lít nước đun sôi để nguội; thay phần mất sau mỗi lần phân lỏng, tự do đến khoảng 2 L/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cả ngày, từng ngụm",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "IDSA 2017 Bảng 7, khuyến cáo 43; QĐ 4178/2007 mục III.2a. Thay thế: súp muối, nước cháo muối (ACG 2016 khuyến cáo 5)."
+     },
+     {
+      "thuoc": "Kháng sinh",
+      "ham_luong": "Không kê",
+      "lieu": "Không dùng",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10. Không uống 4 viên ciprofloxacin còn lại."
+     },
+     {
+      "thuoc": "Loperamid",
+      "ham_luong": "Không bắt buộc",
+      "lieu": "Không kê; nếu dùng 4 mg đầu rồi 2 mg sau mỗi lần phân lỏng, tối đa 8 mg/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi không sốt, đã bù dịch",
+      "so_ngay": "Không quá 48 giờ",
+      "ghi_chu": "ACG 2016 tr. 609–610; IDSA 2017 khuyến cáo 47; QĐ 5642/2015 mục 4.2.3b."
+     }
+    ],
+    "dan_do": [
+     "Uống Oresol đủ, đổi vị nếu chán; hạn chế sữa tươi vài ngày nếu còn sôi bụng; ăn dần cơm, thịt, rau chín.",
+     "Quay lại ngay nếu sốt, phân nhầy hoặc máu, đau quặn nặng, đi ngoài tái lại hoặc quá 7 ngày; khi đó cần làm xét nghiệm phân. (IDSA 2017 khuyến cáo 8, 10; ACG 2016 khuyến cáo 2).",
+     "Không tự uống thêm ciprofloxacin; không dùng cầm tiêu kéo dài.",
+     "Khi đi làm lại: ăn chín, uống nước đun sôi, rửa tay; cẩn thận cơm hộp, thức ăn để lâu."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 5 ngày",
+   "tiep_don": "Chị Hạnh quay lại sau 5 ngày (ngày bệnh thứ 10). Cuối lượt trước chị đỡ hẳn rồi đi làm lại; từ sáng hôm qua đi ngoài lỏng trở lại, đau quặn, sốt. Sinh hiệu: nhiệt 38,5 °C, mạch 110 l/p, HA 104/64 mmHg, nhịp thở 18 l/p, SpO₂ 98%. Cân nặng 53 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Hạnh sốt 38,5 °C, nôn một lần nhưng tỉnh, HA nằm 104/64 mmHg, còn uống được: nhập viện truyền dịch ngay là quá tay vì tĩnh mạch dành cho mất nước nặng, sốc hoặc Oresol thất bại (IDSA 2017 khuyến cáo 41; QĐ 5642/2015 mục 4.2.3a). Chị nằm viện nhiều ngày, mất thêm ngày công, việc báo cụm bệnh cơm hộp cũng bị chậm.",
+    "chuyen_tuyen": "Gửi chị lên bệnh viện truyền nhiễm tuyến trên chỉ vì sốt và nhầy là không cần: chưa có phân máu, sốc, thay đổi tri giác hay dấu bụng ngoại khoa, và lấy mẫu phân làm được ngay (IDSA 2017 khuyến cáo 8, 10). Chị phải ngồi xe khách xa khi đang sốt, mẫu phân lấy chậm nên kết quả đến muộn."
+   },
+   "loi_mo": "Bác sĩ, tôi lại đi ngoài, đau quặn bụng, còn sốt nữa. Tưởng khỏi hẳn rồi chứ. Hôm nay tôi không đi làm được.",
+   "sinh_hieu": {
+    "mach": 110,
+    "ha": "104/64",
+    "nhiet": "38,5",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "Sốt 38,5 °C",
+     "Mạch 110 l/p"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Từ sáng hôm qua (ngày bệnh thứ 9) đi ngoài lỏng trở lại, đau quặn, ớn lạnh rồi sốt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Tái phát sau khi đã đỡ hẳn"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Sau lần khám trước đỡ nhanh: ngày 7 phân thành khuôn, ăn uống bình thường, đi làm lại. Ngày 8 bỏ hẳn Oresol, ăn cơm căng tin và cơm hộp như cũ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến sau lượt 2, tuân thủ"
+    },
+    {
+     "id": "com_hop",
+     "noi_dung": "Tối ngày thứ 8 trực đêm, ăn cơm hộp đơn vị đặt (cơm, thịt gà luộc, trứng) để từ chiều. Sáng hôm sau đau quặn rồi đi ngoài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ lần tái phát: cơm hộp chung"
+    },
+    {
+     "id": "dong_nghiep",
+     "noi_dung": "Hai đồng nghiệp ăn cùng đợt cơm hộp cũng đau bụng, đi ngoài; một người sốt, đã nghỉ. Chị chưa báo ai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cụm ca cùng bữa ăn (IDSA 11)"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Hôm qua đi ngoài 7 lần, sáng nay 4 lần: phân lỏng vàng, có ít nhầy trong. Không máu, không mót rặn rõ, không nước vo gạo. Đau quặn quanh rốn và hai bên bụng dưới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân: nhầy, không máu"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Đau quặn lan tỏa quanh rốn, đi xong đỡ; không dồn cố định hố chậu phải, không đau lưng, không cứng bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau (phân biệt viêm ruột thừa)"
+    },
+    {
+     "id": "sot_non",
+     "noi_dung": "Ớn lạnh, sốt 38,5 °C; buồn nôn, nôn 1 lần, uống được từng ngụm; tiểu ít, vàng sẫm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, nôn, dấu mất nước"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Đợt đầu chị đã tự uống 2 viên ciprofloxacin 500 mg (khoảng 8 ngày trước) và 2 viên loperamid. Đợt này chưa uống thuốc nào, ciprofloxacin còn 4 viên trong tủ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung chung chị chỉ kể thuốc nhỏ mũi. Chỉ kể khi bác sĩ hỏi nhẹ nhàng, không phán xét, về kháng sinh, thuốc cầm tiêu hay thuốc còn dư (lúc này chị đã bớt ngại vì bác sĩ không trách ở lượt trước).",
+     "k": 1,
+     "y": "Giấu tiền sử: kháng sinh trong 8–12 tuần (C. difficile)"
+    },
+    {
+     "id": "kinh_thai",
+     "noi_dung": "Kỳ kinh cuối bắt đầu 17 ngày trước; dùng bao cao su đều, chưa có thai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kinh nguyệt, thai (trước khi dùng kháng sinh)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Vẫn lo mình có bệnh chưa phát hiện (đơn vị khám định kỳ, xét nâng ngạch); sốt lại sợ bị ghi 'sức khỏe yếu'. Xin giấy nghỉ ghi rõ lý do để đơn vị không nghi ngờ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi nhẹ chị lo nhất điều gì.",
+     "k": 1,
+     "y": "Động cơ thật: kiểm tra tổng quát, lo hồ sơ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt rõ, nhăn mặt khi đau quặn. Môi khô, lưỡi hơi khô, mắt trũng nhẹ. Nếp véo da trở lại chậm khoảng 1 giây. Tay chân ấm. Cân nặng 53 kg (thường ngày 55 kg).",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 104/64 mmHg, mạch 110 l/p. Đứng 1 phút: 96/60 mmHg, mạch 124 l/p, chóng mặt thoáng qua, đỡ khi nằm xuống.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi chướng, nhu động ruột tăng. Ấn đau lan tỏa quanh rốn và hai hố chậu, rõ hơn dọc khung đại tràng; không điểm đau khu trú; McBurney không đau hơn các vùng khác; Rovsing, cơ thắt lưng chậu âm tính; không phản ứng thành bụng, không phản ứng dội.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Ống hậu môn không đau, không khối; phân lỏng vàng có ít nhầy trong, găng không dính máu.",
+     "k": 1
+    },
+    "nuoc_tieu_mau": {
+     "a": "Mẫu nước tiểu khoảng 25 mL, vàng sẫm, trong.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều nhanh 110 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, nhanh, khoảng 110 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "test_thai": {
+     "v": "u",
+     "r": "Âm tính.",
+     "n": "Trước khi cân nhắc quinolon (QĐ 4178/2007 mục III.2b)."
+    },
+    "soi_phan": {
+     "v": "e",
+     "ab": 1,
+     "r": "Phân lỏng vàng có nhầy; bạch cầu 15–20/vi trường, hồng cầu 0–2/vi trường, không ký sinh trùng.",
+     "n": "Sốt, phân nhầy, cụm ca: nên xét nghiệm phân (IDSA 2017 khuyến cáo 8, 11; ACG 2016 khuyến cáo 1, 2). Bạch cầu trong phân: tiêu chí kháng sinh theo QĐ 5642/2015 mục 3.3, 4.2.1; IDSA khuyến cáo 20 không dùng để xác định nguyên nhân."
+    },
+    "cay_phan": {
+     "v": "e",
+     "r": "Đã lấy mẫu trước khi dùng kháng sinh, gửi phòng xét nghiệm; kết quả hẹn sau 48–72 giờ (ghi ở phần kết cục).",
+     "n": "Cấy phân và chỉnh kháng sinh theo kết quả (IDSA 2017 khuyến cáo 8, 38; QĐ 5642/2015 mục 3.3, 3.4); lấy phân trước điều trị (QĐ 4178/2007 mục II.1b); không làm kháng sinh đồ thường quy (ACG 2016 khuyến cáo 4)."
+    },
+    "ctm": {
+     "v": "u",
+     "ab": 1,
+     "r": "BC 12,8 G/L · Neutrophil 78% · Hb 138 g/L · TC 268 G/L",
+     "bang": {
+      "wbc": 12.8,
+      "neu_pct": 78.0,
+      "neu": 9.98,
+      "lym_pct": 14.0,
+      "lym": 1.79,
+      "mono_pct": 7.0,
+      "mono": 0.9,
+      "eos_pct": 0.8,
+      "eos": 0.1,
+      "baso_pct": 0.2,
+      "baso": 0.03,
+      "rbc": 4.6,
+      "hgb": 138,
+      "hct": 0.42,
+      "mcv": 91.3,
+      "mch": 30.0,
+      "mchc": 329,
+      "rdw": 13.0,
+      "plt": 268
+     },
+     "n": "Bạch cầu tăng là tiêu chí cân nhắc kháng sinh (QĐ 5642/2015 mục 4.2.1); IDSA 2017 khuyến cáo 22: không dùng để xác định nguyên nhân."
+    },
+    "lyte": {
+     "v": "u",
+     "ab": 1,
+     "r": "Na 136 · K 3,4 · Cl 99 mmol/L",
+     "bang": {
+      "na": 136,
+      "k": 3.4,
+      "cl": 99
+     },
+     "n": "Nguy cơ hạ kali khi tiêu chảy kèm nôn (QĐ 5642/2015 mục 5)."
+    },
+    "abdus": {
+     "n": "Cơ sở không có siêu âm. Đau lan tỏa, không điểm đau khu trú, McBurney và Rovsing âm tính: nguy cơ viêm ruột thừa thấp trên lâm sàng, không cần hình ảnh; đau dồn hố chậu phải hoặc phản ứng thành bụng thì chuyển đánh giá ngoại khoa (WSES 2020 Statement 1.2, khuyến cáo 1.2.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng thể xâm nhập (sốt, phân nhầy) tái phát sau khi đã đỡ hẳn, nhiều khả năng tái nhiễm từ cơm hộp chung; mất nước độ 1–2 uống được; cụm ca ở đơn vị",
+     "ok": 1,
+     "n": "Đỡ hẳn rồi tái phát sau bữa cơm hộp mà hai đồng nghiệp cùng ăn cũng bị: gợi tái nhiễm hơn tác nhân cũ chưa diệt (IDSA 2017 khuyến cáo 11); sốt, nhầy, bạch cầu tăng (QĐ 5642/2015 mục 3.1). Chị bỏ Oresol sớm, ăn lại cơm hộp; căn nguyên chờ cấy."
+    },
+    {
+     "t": "Tả",
+     "n": "Có sốt, đau quặn, không nước vo gạo (QĐ 4178/2007 mục II.1a: thường không sốt)."
+    },
+    {
+     "t": "Lỵ trực trùng",
+     "n": "Sốt, nhầy, quặn nên chưa loại hẳn; chưa mót rặn, không máu (bài Lỵ trực khuẩn mục 3.1b, 3.3). Chờ cấy phân."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Đau lan tỏa, McBurney, Rovsing, cơ thắt lưng chậu âm tính; bạch cầu 12,8 G/L không đủ khẳng định (WSES 2020 Statement 1.2, khuyến cáo 1.2.1, 1.3)."
+    },
+    {
+     "t": "Tiêu chảy liên quan fluoroquinolon (C. difficile)",
+     "n": "Chỉ 2 viên ciprofloxacin cách 8 ngày, không nằm viện, hai người cùng cơm hộp cũng bệnh: ít khả năng. IDSA 2017 khuyến cáo 8 liệt kê C. difficile; nếu kéo dài sau điều trị đúng thì xét nghiệm tìm (QĐ 5642/2015 mục 4.2.2b). Phòng khám không có xét nghiệm độc tố."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Bù dịch uống bằng Oresol, từng ngụm nhỏ nếu buồn nôn, theo lượng mất; chưa cần truyền tĩnh mạch vì chị uống được, huyết áp ổn",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 39, 41, 43, Bảng 7; QĐ 5642/2015 mục 4.2.3a (truyền khi từ độ II không uống được). Nếu nôn nhiều không uống được: truyền Ringer lactat hoặc NaCl 0,9% và chuyển nhập viện."
+    },
+    {
+     "t": "Lấy phân soi và cấy trước khi dùng kháng sinh; hẹn báo kết quả sau 48–72 giờ",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 8, 10, 11; ACG 2016 khuyến cáo 1, 2; QĐ 5642/2015 mục 3.3; QĐ 4178/2007 mục II.1b."
+    },
+    {
+     "t": "Kháng sinh: chưa kê kháng sinh kinh nghiệm, chờ cấy phân rồi chỉnh theo kết quả, hẹn tái khám sát; hoặc kê ngay vì có sốt và phân nhầy: azithromycin 500 mg × 1 lần/ngày × 3 ngày (ACG 2016 Bảng 4, tr. 611, ưu tiên khi sốt hoặc lỵ), hoặc ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày / azithromycin 0,5 g/ngày × 5 ngày (QĐ 5642/2015 mục 4.2.2a)",
+     "v": "c",
+     "n": "Hai nguồn khác nhau (sổ mâu thuẫn TH-0717, TH-0601): IDSA 2017 khuyến cáo 36, 38 và ACG 2016 khuyến cáo 9, 10 không dùng kinh nghiệm cho tiêu chảy nước, chờ kết quả; QĐ 5642/2015 mục 4.2.1 cân nhắc khi sốt, nhầy, bạch cầu tăng. Azithromycin đầu tay vùng Đông Nam Á vì Campylobacter kháng quinolon (ACG Bảng 4 chú thích c, d). Thử thai âm tính; quinolon không dùng khi có thai (QĐ 4178/2007 mục III.2b)."
+    },
+    {
+     "t": "Giải thích vì sao tái phát (tái nhiễm từ cơm hộp chung, bỏ Oresol sớm); dặn ăn chín, uống nước đun sôi, rửa tay; ngưng và không tự uống lại ciprofloxacin còn dư",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 52, 54; QĐ 5642/2015 mục 6; ACG 2016 tr. 610."
+    },
+    {
+     "t": "Báo y tế đơn vị hoặc y tế dự phòng về cụm 3 người cùng ăn cơm hộp; chị nghỉ làm và không trực khi còn tiêu chảy, rửa tay kỹ",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 11, 26, 51. Quy trình báo cáo và số ngày nghỉ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám khi có kết quả cấy phân (2–3 ngày) hoặc ngay khi có dấu nặng: phân máu, nôn không uống được, tiểu rất ít, choáng, đau dồn hố chậu phải, sốt không giảm",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 29, 38. Mốc 2–3 ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khai thác lại nhẹ nhàng thuốc đã tự dùng; nếu tiêu chảy kéo dài sau điều trị đúng thì xét nghiệm C. difficile",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 8, 13. Nếu dương tính: metronidazol hoặc vancomycin 250 mg mỗi 6 giờ × 7–10 ngày (QĐ 5642/2015 mục 4.2.2b)."
+    },
+    {
+     "t": "Men vi sinh, diosmectit, spasmaverin; hay không dùng các thuốc này",
+     "v": "a",
+     "n": "Men vi sinh: IDSA 2017 khuyến cáo 49 so với ACG 2016 khuyến cáo 6; QĐ 5642/2015 mục 4.2.3b. Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho loperamid để chị đi trực đêm không phải đi ngoài",
+     "v": "w",
+     "n": "Còn sốt và phân nhầy: tránh loperamid (IDSA 2017 khuyến cáo 47; QĐ 5642/2015 mục 4.2.3b; ACG 2016 tr. 610: nguy cơ biến chứng ở tiêu chảy viêm)."
+    },
+    {
+     "t": "Cho nhập viện truyền dịch ngay hoặc chuyển bệnh viện tuyến trên",
+     "v": "w",
+     "n": "Uống được, huyết áp ổn, tỉnh, không máu, không dấu bụng ngoại khoa (IDSA 2017 khuyến cáo 41; QĐ 5642/2015 mục 4.2.3a)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng thể xâm nhập (sốt, phân nhầy), tái phát sau đợt đầu đã khỏi, nhiều khả năng tái nhiễm từ cơm hộp chung; căn nguyên chờ cấy phân",
+     "Mất nước độ 1–2 (mạch 110 do sốt, huyết áp 104/64, tụt tư thế nhẹ), uống được",
+     "Không dấu sốc, không phân máu, không dấu bụng ngoại khoa",
+     "Bối cảnh: đã dùng ciprofloxacin dang dở ở đợt đầu; cụm 3 người cùng cơm hộp"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: diễn tiến sau lượt trước (có bỏ Oresol) → bữa ăn trước tái phát và người cùng ăn → phân, sốt, nôn → thuốc đã dùng (kháng sinh trong 8–12 tuần) → kinh, thai → lo lắng thật. Khám: mất nước độ 1–2, tụt huyết áp tư thế, bụng lan tỏa, phân nhầy không máu. CLS: soi và cấy phân, công thức máu, kali 3,4, thử thai âm tính. (IDSA 2017 khuyến cáo 8, 13).",
+     "Tái nhiễm: đỡ hẳn rồi tái phát đúng sau cơm hộp mà hai người cùng ăn cũng bệnh (IDSA 2017 khuyến cáo 11); hai đợt có thể cùng hoặc khác tác nhân, cấy phân quyết định. Tái phát nhờ ba yếu tố: bỏ bù dịch sớm, ăn lại cơm hộp, nguồn lây chung chưa xử lý; không phải chẩn đoán đợt đầu sai.",
+     "Tả không giống; lỵ chưa loại hẳn (bài Lỵ trực khuẩn mục 3.3); viêm ruột thừa loại trừ trên lâm sàng, không có siêu âm (WSES 2020 khuyến cáo 1.2.1); C. difficile ít nghĩ (ACG 2016 tr. 610)."
+    ],
+    "phan_tich_xu_tri": [
+     "Mất nước độ 1–2 uống được thì Oresol; truyền khi không uống được (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 39, 41). Xét nghiệm phân trước kháng sinh (IDSA khuyến cáo 8, 11; ACG khuyến cáo 1, 2; QĐ 4178/2007 mục II.1b).",
+     "Kháng sinh: cả hai cách đều đúng: chờ cấy (IDSA 36, 38; ACG 9, 10) hoặc cân nhắc ngay vì sốt, nhầy, bạch cầu tăng (QĐ 5642 mục 4.2.1). Liều: azithromycin 500 mg/ngày × 3 ngày (ACG Bảng 4) hoặc × 5 ngày, ciprofloxacin 0,5 g × 2/ngày × 5 ngày (QĐ 5642 mục 4.2.2a). ACG 2016 tr. 611: kháng sinh có thể kéo dài thải Salmonella nhưng ý nghĩa lâm sàng hạn chế.",
+     "Không loperamid khi sốt (IDSA 2017 khuyến cáo 47). Paracetamol ≤ 4 g/ngày (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1). Báo cụm ca cho y tế đơn vị; nghề không thuộc nhóm nguy cơ cao (IDSA khuyến cáo 51). Dặn kỹ dấu đau hố chậu phải vì không có siêu âm."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol",
+      "ham_luong": "Gói pha 1 lít",
+      "lieu": "1 gói pha 1 lít nước đun sôi để nguội; từng ngụm, thay phần mất sau mỗi lần phân lỏng hoặc nôn, tự do đến khoảng 2 L/ngày (đợt bù ban đầu 2–4 L)",
+      "duong": "Uống",
+      "thoi_diem": "Ngay, cả ngày",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "IDSA 2017 Bảng 7, khuyến cáo 39, 43; QĐ 4178/2007 mục III.2a."
+     },
+     {
+      "thuoc": "Kháng sinh (một trong hai hướng)",
+      "ham_luong": "Azithromycin 500 mg hoặc ciprofloxacin 500 mg; hoặc chưa kê",
+      "lieu": "Azithromycin 500 mg × 1 lần/ngày; ciprofloxacin 500 mg × 2 lần/ngày; hoặc chờ cấy phân rồi chỉnh",
+      "duong": "Uống",
+      "thoi_diem": "Sau khi lấy phân",
+      "so_ngay": "Azithromycin 3 ngày (ACG) hoặc 5 ngày (QĐ 5642); ciprofloxacin 5 ngày",
+      "ghi_chu": "ACG 2016 Bảng 4 (tr. 611); QĐ 5642/2015 mục 4.2.2a; IDSA 2017 khuyến cáo 36, 38. Thử thai âm tính; quinolon chống chỉ định khi có thai (QĐ 4178/2007 mục III.2b)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần, cách 6–8 giờ khi sốt",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt, nếu không nôn",
+      "so_ngay": "Khi cần; tổng không quá 4 g/ngày",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1."
+     }
+    ],
+    "dan_do": [
+     "Uống Oresol đều đến khi hết tiêu chảy hẳn, không bỏ sớm; vài ngày tới chưa ăn cơm hộp, đồ để lâu.",
+     "Lấy phân hôm nay, nghe kết quả sau 48–72 giờ; nếu kê kháng sinh thì uống đủ ngày, không tự thêm ciprofloxacin còn dư. (QĐ 4178/2007 mục II.1b; QĐ 5642/2015 mục 4.2.2a).",
+     "Quay lại ngay nếu phân có máu, nôn không uống được, tiểu rất ít, choáng, đau dồn hố chậu phải, sốt không giảm sau 48 giờ. (IDSA 2017 khuyến cáo 5, 8; QĐ 5642/2015 mục 5).",
+     "Báo y tế đơn vị về 3 người ăn cùng cơm hộp; nghỉ trực, rửa tay xà phòng; hẹn khám tai mũi họng (thuốc nhỏ mũi) và kiểm tra tổng quát sau khi khỏi hẳn."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hạnh uống Oresol đều, hết sốt sau khoảng 2 ngày. Cấy phân sau 3 ngày báo Campylobacter jejuni; dù kê azithromycin ngay hay chờ cấy, chị đều khỏi, phân thành khuôn sau khoảng 5 ngày, không phải nhập viện. Y tế đơn vị xác nhận hai đồng nghiệp cùng bữa cơm hộp cũng nhiễm và đổi nhà cung cấp. Chị đi làm lại khi hết tiêu chảy, mang theo bình nước đun sôi. Chị kể hết chuyện thuốc tự dùng; kiểm tra tổng quát sau đó bình thường.",
+ "nhieu": [
+  "Giấu tiền sử: tự uống 2 viên ciprofloxacin và 2 viên loperamid làm phân ít đi, cấy phân đợt đầu dễ âm tính giả, là nguy cơ C. difficile ở lượt 3; chỉ lộ khi hỏi cụ thể, không phán xét.",
+  "Lý do thật là muốn kiểm tra tổng quát (khám định kỳ, xét nâng ngạch): giải quyết đợt cấp trước, hẹn khám tổng quát sau.",
+  "Thuốc nhỏ mũi co mạch gần 3 tháng và ngồi xe 10 giờ: không phải nguyên nhân tiêu chảy (bắp chân bình thường), nhưng thuốc nhỏ mũi cần nhắc bỏ.",
+  "Không có siêu âm: viêm ruột thừa loại trừ trên lâm sàng, dặn đau dồn hố chậu phải và hẹn tái khám."
+ ],
+ "bai_hoc_bien": [
+  "Đỡ một phần sau 3 ngày: phân biệt hồi phục chậm với thất bại bằng sốt lại, nhầy máu, mất nước, đau tăng (IDSA 2017 khuyến cáo 27, 29); không đổi sang kháng sinh chỉ vì đỡ chậm.",
+  "Tái phát: hỏi diễn tiến, bữa ăn trước tái phát và người cùng ăn; ở đây là tái nhiễm từ cơm hộp chung cộng bỏ bù dịch sớm, không phải chẩn đoán sai (IDSA 2017 khuyến cáo 11).",
+  "Hỏi thuốc bằng câu cụ thể, không phán xét: 'có uống thuốc cầm tiêu, kháng sinh còn dư không?'. Lý do thật khác lý do ghi trên phiếu: hỏi 'chị lo nhất điều gì'.",
+  "Có sốt và phân nhầy mới cần xét nghiệm phân (IDSA 2017 khuyến cáo 8; ACG 2016 khuyến cáo 2); kháng sinh có hai cách ghi, cả hai đúng."
+ ],
+ "diem_nho": [
+  "Mức mất nước (QĐ 5642/2015 mục 3.1): độ 1 mạch < 100, huyết áp bình thường; độ 2 mạch 100–120, da khô, thiểu niệu. Độ 1 uống được: Oresol; truyền khi từ độ II không uống được (mục 4.2.3a).",
+  "Người lớn: ORS 2–4 L đợt bù, duy trì tự do khoảng 2 L/ngày (IDSA 2017 Bảng 7).",
+  "Azithromycin 500 mg/ngày × 3 ngày (ACG 2016 Bảng 4) hoặc × 5 ngày / ciprofloxacin 0,5 g × 2/ngày × 5 ngày (QĐ 5642/2015 mục 4.2.2a); tránh loperamid khi sốt hoặc phân nhầy (IDSA 2017 khuyến cáo 47)."
+ ],
+ "nguon": [
+  "BYT QĐ 5642/2015 – TL-0038 – bài Tiêu chảy do vi khuẩn mục 3.1–3.4, 4.2.1–4.2.3, 5, 6 (tr. 73–77); bài Lỵ trực khuẩn mục 3.1–3.3 (tr. 44–45)",
+  "BYT QĐ 4178/2007 hướng dẫn bệnh tả – TL-0176 – mục II.1a–b, III.2a–c",
+  "IDSA 2017 Infectious Diarrhea – TL-0230 – khuyến cáo 5, 7, 8, 10, 11, 13, 20, 22, 26–29, 36, 38, 39, 41, 43, 45–47, 49, 51, 52, 54; Bảng 7",
+  "ACG 2016 Acute Diarrheal Infections – TL-0233 – khuyến cáo 1, 2, 4–6, 9, 10; Hình 1 (tr. 603); Bảng 4 (tr. 611); loperamid tr. 609–610",
+  "WSES 2020 viêm ruột thừa – TL-0263 – Statement 1.2, 1.3; khuyến cáo 1.2.1, 1.3",
+  "EPOS 2020 – TL-0087 – Hình 1.4.1 (thuốc co mạch < 10 ngày); ARIA-EAACI 2024–2025 Phần I – TL-0546 – đoạn nói thuốc co mạch dùng lâu và viêm mũi do thuốc; BYT QĐ 361/2014 – TL-0286 – Phụ lục thuốc giảm đau mục 3.1",
+  "Không có trong tài liệu đã tải: liều diosmectit, spasmaverin; mốc tái khám 2–3 ngày; số ngày nghỉ, quy trình báo cụm ca; cách cai thuốc nhỏ mũi; nội dung khám tổng quát cho người khỏe"
+ ],
+ "phien_ban_ca": "1 – viết mới (2026-10-17)",
+ "ghi_chu_bien_tap": [
+  "2026-10-17: viết mới. Tài liệu đọc lại bản chữ: TL-0038 (bài Tiêu chảy do vi khuẩn mục 3–6; bài Lỵ trực khuẩn mục 3–4), TL-0176 (mục II–III), TL-0230 (khuyến cáo 3–56, Bảng 7), TL-0233 (khuyến cáo 1–12, Hình 1, Bảng 4, đoạn loperamid), TL-0263 (Statement 1.2–1.3), TL-0087 (Hình 1.4.1), TL-0546 (đoạn thuốc co mạch).",
+  "Mâu thuẫn nguồn ghi theo các mục đã có trong sổ (ca đầu tiên TH-0717, TH-0624, TH-0601): kháng sinh kinh nghiệm khi sốt (QĐ 5642 so với IDSA/ACG), azithromycin 3 hay 5 ngày, men vi sinh, loperamid, bạch cầu trong phân. Không phát sinh mục mới.",
+  "Do người soạn tự chọn: tên nhân vật, số liệu sinh hiệu và xét nghiệm, tác nhân Campylobacter jejuni, cụm ca, mốc tái khám 2–3 ngày. Không đề xuất danh mục mới; xét nghiệm độc tố C. difficile không có trong danh mục nên chỉ nêu trong chan_doan."
+ ]
+}
