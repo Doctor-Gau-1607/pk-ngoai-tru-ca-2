@@ -1,0 +1,764 @@
+{
+ "ma_ca": "TH-0958",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_tri_ngoai_tac_mach_nguoi_cao_tuoi",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trĩ",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư trực tràng",
+   "Nứt hậu môn"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Sau đi du lịch vùng dịch",
+  "thuoc_dang_dung": "Thuốc ho long đờm",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu"
+ },
+ "benh_nhan": {
+  "ten": "Phan Thị Hiền",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Nội trợ",
+  "can_nang": 46,
+  "chieu_cao": 149,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ'. Chị Ngọc (con dâu) gọi bà là 'mẹ', tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Gầy, nghe kém nhẹ bên trái, nói nhỏ và ngắn, hay cười trừ 'thôi, không sao đâu'. Ngại nói chuyện hậu môn trước mặt con dâu, sợ làm phiền con cháu và sợ té ban đêm nên hạn chế uống nước buổi tối. Sống chung với con trai và con dâu.",
+  "kieu_nhieu": "Thân nhân trả lời thay: chị Ngọc ngồi sát bà, bác sĩ vừa hỏi là chị đã trả lời, hay chen 'mẹ em không sao đâu, em chỉ sợ sốt xuất huyết thôi'. Chị kể đúng điều chị thấy (máu trên giấy, chuyến đi, bà ăn ít, bà ho) nhưng không biết bà hạn chế uống nước, mất ngủ nhiều đêm, có búi lòi ra, và việc bà muốn xin thuốc ngủ. Bà chỉ nói thật khi bác sĩ hỏi thẳng bà (nói to bên tai phải) hoặc mời chị ra ngoài để hỏi riêng.",
+  "nguoi_nha": "Con dâu, chị Ngọc, 51 tuổi, bán tạp hóa, sống chung nhà, đưa bà đi khám bằng xe máy. Lo lắng, nói nhanh, thương mẹ chồng nhưng bận. Chị biết: bà đi cầu ra máu hơn hai tuần, chuyến đi 4 ngày ở tỉnh đang có dịch sốt xuất huyết, bà ăn ít, ho mấy hôm nay và mua siro ho uống, không sốt. Chị KHÔNG biết: bà chỉ uống khoảng 4 ly nước nhỏ mỗi ngày và ngưng sau 5 giờ chiều; bà mất ngủ, thức 3–4 lần mỗi đêm; bà có cục thịt lòi ra khi rặn; bà đến khám chủ yếu để xin thuốc ngủ (chị từng can vì sợ bà ngã). Chị không nói thay điều chị không biết; hỏi riêng bà thì bà kể. Khi bác sĩ hỏi sinh hoạt, ăn uống, đi lại, chị thường là người trả lời.",
+  "ten_nguoi_nha": "Chị Ngọc (con dâu)",
+  "ngoai_hinh": {
+   "da": "#d8b08e",
+   "toc": "#d9d6d0",
+   "kieuToc": "bui",
+   "ao": "#8a7a8f",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#dcae88",
+    "toc": "#2b1e17",
+    "kieuToc": "bui",
+    "ao": "#4f6f8a",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đi cầu ra máu hơn hai tuần, gia đình sợ sốt xuất huyết",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không có máy siêu âm. CT và nội soi (kể cả nội soi đại tràng) làm ở bệnh viện tỉnh, cách 35 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Phan Thị Hiền, 79 tuổi, nội trợ, con dâu là chị Ngọc đưa đến. Chị cho biết bà đi cầu ra máu hơn hai tuần nay và cả nhà lo bà bị sốt xuất huyết sau chuyến đi chơi vừa rồi. Sinh hiệu: HA 136/78 mmHg, mạch 80 l/p, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 46 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bà Hiền ngay hôm nay vì sợ sốt xuất huyết hoặc mất máu là không cần: bà không sốt, dây thắt âm tính, tiểu cầu 238 G/L, Hb 123 g/L, huyết động ổn, máu chỉ dính giấy và vài giọt từ búi trĩ nội thấy rõ qua ống soi (QĐ 2760/2023 mục II.1.1: sốt cao đột ngột là khởi đầu; BSG 2021 mục Definitions: thiếu máu ở nữ khi Hb dưới 120 g/L). Bà 79 tuổi vốn đã mất ngủ, nằm viện nơi lạ càng khó ngủ, chị Ngọc phải bỏ sạp hàng ở lại chăm. Việc cần làm vẫn là đổi thói quen uống nước, chất xơ, nhuận tràng và nội soi đại tràng theo hẹn (ASCRS 2024 khuyến cáo 2, 3).",
+    "chuyen_tuyen": "Đưa bà đi bệnh viện tỉnh cấp cứu ngay hôm nay là quá tay: nội soi đại tràng đúng là cần làm nhưng theo hẹn, vì máu chỉ rỉ từng giọt, Hb 123 g/L và sinh hiệu ổn (ASCRS 2024 khuyến cáo 2; AGA 2026 BPA 1). Bà phải đi 35 km trong ngày khi đang mệt, chị Ngọc nghỉ bán một ngày, tốn kém mà không được ưu tiên hơn người đang chảy máu nặng."
+   },
+   "loi_mo": "Chào bác sĩ. Mẹ em đi cầu ra máu hơn hai tuần rồi. Tháng trước cả nhà đưa mẹ đi chơi ở chỗ đang có dịch sốt xuất huyết, em sợ mẹ bị. Bác sĩ khám giúp mẹ em.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "136/78",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi cầu ra máu đỏ tươi hơn hai tuần. Cả nhà sợ bà bị sốt xuất huyết sau chuyến đi chơi vừa rồi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "chuyen_di",
+     "noi_dung": "Hơn ba tuần trước, cả nhà đưa bà đi hành hương 4 ngày bằng xe khách đường dài ở một tỉnh miền Trung đang có dịch sốt xuất huyết. Ngồi xe nhiều giờ, ngủ khách sạn lạ, bà nhịn đi cầu vì ngại nhà vệ sinh bên đường, ăn cơm quán ít rau, uống nước ít. Ba ngày đầu bà không đi cầu được; từ lúc về phân khô cứng, 3–4 ngày một lần, phải rặn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: chuyến đi, táo bón"
+    },
+    {
+     "id": "mau",
+     "noi_dung": "Máu đỏ tươi, nhỏ giọt vào bồn cầu hoặc dính giấy vệ sinh và phủ ngoài viên phân, ra cuối lúc đi cầu. Khoảng 6 lần trong hơn hai tuần, mỗi lần vài giọt đến chừng một thìa cà phê. Máu không trộn đều trong phân, không cục, không nhầy, không phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm chảy máu"
+    },
+    {
+     "id": "khong_dau",
+     "noi_dung": "Đi cầu không đau nhói, không rát như dao cắt. Chỉ thấy nặng tức, ướt và ngứa rát nhẹ quanh hậu môn sau khi đi cầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không đau nhói: đi ngược nứt hậu môn"
+    },
+    {
+     "id": "bui_loi",
+     "noi_dung": "Từ chuyến đi về, mỗi lần rặn có một cục thịt mềm lòi ra ở hậu môn, tự co lên sau khi đi xong, chưa phải dùng tay đẩy. Bà xấu hổ nên không kể với ai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng bà, hoặc hỏi có thứ gì lòi/sa ra ở hậu môn khi rặn. Chị Ngọc không biết.",
+     "k": 1,
+     "y": "Búi sa khi rặn (trĩ nội)"
+    },
+    {
+     "id": "khong_sxh",
+     "noi_dung": "Không sốt, không nhức đầu, không đau mỏi người, không nhức hai hố mắt. Không chảy máu chân răng hay chảy máu mũi, không có chấm đỏ hay vết bầm dưới da. Cả nhà đi chơi cùng, không ai bị sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Âm tính với sốt xuất huyết Dengue"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không sụt cân (cân 46 kg, bằng cân tháng trước ở trạm y tế), không đau bụng, không đổi hình dạng phân, không đi phân nhỏ dẹt, không mót rặn, không buồn nôn, ăn uống tạm ổn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng nội soi đại tràng, chưa thử máu ẩn trong phân. Gia đình không ai bị ung thư đại tràng. Sinh 5 con thường, chưa mổ bụng hay hậu môn. Tăng huyết áp nhẹ phát hiện năm ngoái, chưa dùng thuốc. Không đái tháo đường, không dị ứng thuốc. Bệnh viện tỉnh cách 35 km, chị Ngọc chở bằng xe máy được vào buổi chiều hoặc cuối tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, chưa nội soi đại tràng"
+    },
+    {
+     "id": "nuoc_uong",
+     "noi_dung": "Bà sợ đi tiểu đêm rồi té nên sau 5 giờ chiều gần như không uống nước, cả ngày chỉ uống chừng 4 ly nhỏ. Bữa ăn nhiều cháo, bánh mì, ít rau, ít trái cây vì bà bảo 'lạnh bụng'. Tiểu đêm 2–3 lần, không buốt, không tiểu khó.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi bà uống bao nhiêu nước mỗi ngày, uống lúc nào, hoặc vì sao bà ít uống. Chị Ngọc tưởng bà uống đủ.",
+     "k": 1,
+     "y": "Nguyên nhân thực sự của táo bón"
+    },
+    {
+     "id": "mat_ngu",
+     "noi_dung": "Mất ngủ hơn hai tuần: nằm khó ngủ, tỉnh dậy 3–4 lần mỗi đêm vì đi tiểu, ho và ngứa rát hậu môn. Sáng dậy mệt, ban ngày ngủ gà. Trước chuyến đi bà ngủ bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất ngủ mới, có nguyên nhân"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thực ra bà muốn nhờ bác sĩ cho thuốc ngủ. Bà thao thức khổ sở, thấy hàng xóm uống 'viên ngủ' là ngủ ngon. Bà không dám nói trước mặt con dâu vì chị từng can 'thuốc ngủ làm bà ngã'. Bà nhờ chị đưa đi khám chuyện đi cầu ra máu để có dịp hỏi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng bà về giấc ngủ, hoặc hỏi bà mong điều gì nhất ở buổi khám. Nếu chị Ngọc có mặt bà chỉ nói tránh 'ngủ không ngon lắm'.",
+     "k": 1,
+     "y": "Động cơ thật: xin thuốc ngủ"
+    },
+    {
+     "id": "chong_dong",
+     "noi_dung": "Không uống aspirin, không dùng thuốc chống đông hay thuốc giảm đau xương khớp. Không dùng thuốc đặt hay kem bôi trĩ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc chống đông/chống kết tập"
+    },
+    {
+     "id": "thuoc_ho",
+     "noi_dung": "Ho khô, ít đờm trắng 4 ngày nay, không sốt, không khó thở, không đau ngực. Từ 3 hôm nay mua siro ho long đờm (ambroxol) ở hiệu thuốc, uống 5 ml × 3 lần/ngày, ho đỡ nhẹ. Không dùng thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng: siro ho long đờm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Gầy, 46 kg, cao 149 cm (BMI 20,7). Tỉnh, đối đáp chậm, nghe kém nhẹ bên trái. Niêm mạc mắt hồng, lòng bàn tay hồng, môi hơi khô. Không vàng da, không hạch, không chấm xuất huyết hay vết bầm dưới da.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng phẳng, mềm, không điểm đau, không khối, gan lách không to. Hố chậu trái sờ thấy thừng phân nhẹ, không đau. Nhu động ruột bình thường.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Tư thế nằm nghiêng trái. Nhìn: da quanh hậu môn ẩm, đỏ nhẹ do gãi, không nứt, không lỗ rò, không cục đau, không sưng. Khi bảo bà rặn, một búi mô mềm đỏ sa ra ngoài hậu môn rồi tự co lên khi ngưng rặn. Thăm trực tràng: trương lực cơ thắt bình thường, không đau khi đưa ngón tay vào, không sờ thấy khối, polyp hay loét ở đoạn với tới, phân cứng trong bóng trực tràng, găng dính ít máu đỏ tươi.",
+     "k": 1,
+     "hien": "Da quanh hậu môn đỏ nhẹ, không nứt, không cục đau. Khi rặn có một búi mềm sa ra rồi tự co. Trương lực cơ thắt bình thường, không đau khi thăm."
+    },
+    "soi_hau_mon": {
+     "a": "Ống soi hậu môn nhựa dùng một lần, có đèn. Hai búi trĩ nội ở 3 giờ và 11 giờ, niêm mạc sung huyết, mọng; búi 3 giờ có điểm rỉ máu tươi. Búi sa có nếp xuyên tâm và mạch máu căng, không có nếp tròn của sa trực tràng. Đường lược không có vết nứt. Niêm mạc trực tràng thấp nhìn thấy trong ống soi hồng, không loét, không khối, không polyp. Phân độ Goligher độ II (sa dưới đường lược khi đi cầu, tự co).",
+     "k": 1,
+     "hien": "Có hai búi ở 3 giờ và 11 giờ, một điểm rỉ máu tươi. Nhìn thấy đoạn thấp ống hậu môn, không vết nứt, không khối."
+    },
+    "nghiem_phap_day_that": {
+     "a": "Băng quấn giữ 5 phút: 0 chấm xuất huyết/6,25 cm². Âm tính.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p, không âm thổi, không tiếng ngựa phi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran. Nhịp thở 18 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 123 g/L · MCV 88 fL · TC 238 G/L",
+     "bang": {
+      "wbc": 7.4,
+      "neu_pct": 62.0,
+      "neu": 4.59,
+      "lym_pct": 29.0,
+      "lym": 2.15,
+      "mono_pct": 6.2,
+      "mono": 0.46,
+      "eos_pct": 2.4,
+      "eos": 0.18,
+      "baso_pct": 0.4,
+      "baso": 0.03,
+      "rbc": 4.17,
+      "hgb": 123,
+      "hct": 0.37,
+      "mcv": 88.0,
+      "mch": 29.5,
+      "mchc": 333,
+      "rdw": 13.6,
+      "plt": 238
+     },
+     "n": "Chảy máu hai tuần nên cần biết Hb. Hb 123 g/L: chưa thiếu máu (BSG 2021 mục Definitions: dưới 120 g/L ở phụ nữ không mang thai), MCV bình thường, chưa thuộc diện tìm thiếu sắt và nội soi hai đầu. Tiểu cầu 238 G/L; ở giai đoạn sốt của Dengue tiểu cầu có thể còn bình thường (QĐ 2760/2023 mục II.1.2), nên loại trừ dựa vào lâm sàng: không sốt."
+    },
+    "fit": {
+     "v": "u",
+     "r": "FIT định lượng 9 µg Hb/g phân (dưới ngưỡng 10 µg Hb/g)",
+     "n": "Không bắt buộc ở ca đã thấy nguồn chảy máu qua ống soi. FIT là công cụ phân loại, không dùng một mình để loại bệnh nhân khỏi chuyển khám (ACPGBI/BSG 2022 khuyến cáo 3, 11). Kết quả dưới 10 µg Hb/g mà vẫn chảy máu dai dẳng hoặc tái phát thì đề nghị nội soi đại tràng sigma (khuyến cáo 13)."
+    },
+    "noi_soi_dt": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi đại tràng; làm ở bệnh viện tỉnh cách 35 km.)",
+     "thay_the": "fit",
+     "n": "Có chỉ định đề nghị: chảy máu hậu môn không tự quy cho trĩ, nội soi đại tràng ở bệnh nhân chọn lọc (ASCRS 2024 khuyến cáo 2); nên cân nhắc ở người chảy máu trực tràng (AGA 2026 BPA 1). Bà chưa từng nội soi. Không phải cấp cứu."
+    },
+    "abdus": {
+     "n": "Không có chỉ định: không đau bụng, không khối. Khảo sát đại tràng ở người chảy máu hậu môn dùng nội soi đại tràng hoặc CT đại tràng (ACPGBI/BSG 2022 khuyến cáo 18, 19), siêu âm bụng không thay được."
+    },
+    "ns1": {
+     "n": "Không sốt. Sốt xuất huyết Dengue khởi phát bằng sốt cao đột ngột, liên tục (QĐ 2760/2023 mục II.1.1); không có chỉ định xét nghiệm Dengue."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trĩ nội độ II (Goligher) đang rỉ máu, trên nền táo bón sau chuyến đi và uống ít nước, ở phụ nữ 79 tuổi chưa từng nội soi đại tràng",
+     "ok": 1,
+     "n": "Máu đỏ tươi cuối bãi, không đau nhói, búi sa khi rặn tự co, soi hậu môn thấy hai búi và điểm rỉ máu (ASCRS 2024 khuyến cáo 1; AGA 2026 BPA 1, Bảng 1)."
+    },
+    {
+     "t": "Mất ngủ mới khoảng hai tuần, có nguyên nhân thực tổn (tiểu đêm, ho, ngứa rát hậu môn), chưa phải mất ngủ mạn",
+     "ok": 1,
+     "n": "Khởi phát sau chuyến đi. ESRS 2023 mục 4.4: hướng dẫn chỉ bàn mất ngủ mạn trên 3 tháng, không có khuyến cáo cho mất ngủ ngắn hạn. Là động cơ thật của buổi khám."
+    },
+    {
+     "t": "Ung thư trực tràng / đại trực tràng",
+     "n": "Không sụt cân, đau bụng, đổi thói quen kiểu phân nhỏ dẹt; thăm trực tràng và soi hậu môn không khối; Hb bình thường. Nhưng mới khám được đoạn thấp: chảy máu quy cho trĩ là cơ hội bỏ sót ung thư hay gặp nhất (ASCRS 2024 khuyến cáo 2)."
+    },
+    {
+     "t": "Nứt hậu môn",
+     "n": "Không đau nhói khi đi cầu, không đau khi thăm trực tràng, trương lực cơ thắt bình thường, đường lược không nứt. Đau nhói khi đi cầu mới gợi nứt (AGA 2026 BPA 1)."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue",
+     "n": "Không sốt, không nhức đầu, đau cơ, không chảy máu niêm mạc nơi khác, dây thắt âm tính (QĐ 2760/2023 mục II.1.1). Máu ra từ búi trĩ nhìn thấy được."
+    },
+    {
+     "t": "Sa trực tràng",
+     "n": "Búi sa có nếp xuyên tâm và mạch máu căng, khác nếp tròn của sa trực tràng (AGA 2026 BPA 1)."
+    },
+    {
+     "t": "Nguồn chảy máu khác (polyp, viêm đại tràng, bệnh túi thừa, loạn sản mạch)",
+     "n": "Cùng nhóm nguyên nhân gây máu qua hậu môn mà ASCRS 2024 khuyến cáo 2 nêu tên; chỉ loại trừ chắc bằng nội soi đại tràng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: máu ra từ trĩ nội độ II nhìn thấy qua ống soi, không phải sốt xuất huyết (không sốt, dây thắt âm tính); nói rõ chưa thể kết luận 'chỉ là trĩ' vì mới nhìn được đoạn thấp",
+     "v": "c",
+     "n": "Trả lời đúng nỗi lo của gia đình. Chảy máu hậu môn không tự quy cho trĩ (ASCRS 2024 khuyến cáo 2). Không sốt: QĐ 2760/2023 mục II.1.1."
+    },
+    {
+     "t": "Hỏi riêng bà (mời chị Ngọc ra ngoài hoặc nói to bên tai phải) về nước uống, giấc ngủ và điều bà mong ở buổi khám",
+     "v": "c",
+     "n": "Thân nhân trả lời thay che mất nước uống, búi sa và mất ngủ; kỹ năng giao tiếp, không có trong tài liệu đã tải. ASCRS 2024 khuyến cáo 1: hỏi kỹ thói quen đại tiện và lượng chất xơ."
+    },
+    {
+     "t": "Viết giấy giới thiệu nội soi đại tràng ở bệnh viện tỉnh theo hẹn (không cấp cứu)",
+     "v": "c",
+     "n": "Nội soi đại tràng ở bệnh nhân chọn lọc (ASCRS 2024 khuyến cáo 2); nên cân nhắc ở người chảy máu trực tràng (AGA 2026 BPA 1); xem mục 'Soi hậu môn và nội soi đại tràng' trong sổ mâu thuẫn. Thời hạn hẹn nội soi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chất xơ tăng dần lên 20–30 g/ngày (rau, trái cây mềm, yến mạch), uống nước đủ chia đều cả ngày, không rặn, ngồi bô không quá 3 phút, đi cầu một lần mỗi ngày",
+     "v": "c",
+     "n": "Điều trị đầu tay (ASCRS 2024 khuyến cáo 3, mạnh). 20–30 g và giới hạn 3 phút (AGA 2026 BPA 2); tăng từ từ qua nhiều tuần, uống thêm nước (WGO 2025 mục 4.2, 4.6). Lượng nước mỗi ngày và giờ uống: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc làm mềm phân: macrogol (PEG) khởi đầu 17 g/ngày, hoặc psyllium (nếu uống đủ nước), hoặc lactulose 15 g/ngày",
+     "v": "c",
+     "n": "PEG thẩm thấu đầu tay (AGA-ACG 2023 khuyến cáo 2, mạnh); khởi đầu 17 g/ngày, lactulose 15 g/ngày, psyllium tổng xơ 20–30 g/ngày (WGO 2025 Bảng 9); lactulose hay đầy hơi (AGA-ACG 2023 khuyến cáo 4). Magie oxid tránh ở người rất cao tuổi (sổ mâu thuẫn, TH-0870). Nguồn là hướng dẫn táo bón mạn; hướng dẫn riêng cho táo bón 3 tuần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê thuốc ngủ; giải thích mất ngủ do tiểu đêm, ho, ngứa rát hậu môn nên chữa nguyên nhân; dặn vệ sinh giấc ngủ; dặn không tự mua 'viên ngủ' ở hiệu thuốc",
+     "v": "c",
+     "n": "Beers 2023 Bảng 2: tránh benzodiazepin, nhóm Z và kháng histamin thế hệ 1 (diphenhydramin, doxylamin...) ở người từ 65 tuổi: lú lẫn, té, táo bón. QĐ 2058/2020 Bài 27 mục 4.3: vệ sinh giấc ngủ; ESRS 2023 mục 4.1: vệ sinh giấc ngủ đơn độc chưa phải điều trị có bằng chứng. Thuốc thay thế cho mất ngủ ngắn hạn ở người cao tuổi: không có trong tài liệu đã tải (sổ mâu thuẫn, HH-1388)."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay bằng văn bản: máu chảy thành dòng hay cục, chóng mặt/ngất, phân đen, đau bụng mới, cục cứng đau không đẩy vào được ở hậu môn, không đi cầu được, sụt cân",
+     "v": "c",
+     "n": "Lưới an toàn khi quản lý ngoại trú (ACPGBI/BSG 2022 khuyến cáo 8, 10). Trĩ ngoại tắc mạch là cục đau không đẩy vào được ở rìa hậu môn (ASCRS 2024 khuyến cáo 1). Danh sách cụ thể: lựa chọn của ca."
+    },
+    {
+     "t": "Hẹn tái khám sau 1 tuần, kèm hỏi kết quả hẹn nội soi",
+     "v": "c",
+     "n": "Mốc 1 tuần là lựa chọn của ca (cao tuổi, đổi thói quen), không có trong tài liệu đã tải. Chảy máu dai dẳng sau điều trị trĩ phải tìm nguồn (ASCRS 2024 khuyến cáo 2)."
+    },
+    {
+     "t": "Thuốc tại chỗ ngắn ngày (lidocain/pramoxin giảm rát, hydrocortison không quá 2 tuần), phlebotonic, ngâm nước ấm",
+     "v": "a",
+     "n": "Ít bằng chứng, ít hại (AGA 2026 BPA 2, 3; ASCRS 2024 khuyến cáo 4: phlebotonic giảm chảy máu OR 0,12, có điều kiện, bằng chứng thấp). Tên thuốc và liều ở Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thắt vòng cao su hoặc chích xơ ngay hôm nay",
+     "v": "w",
+     "n": "Đầu tay là ăn uống/hành vi (ASCRS 2024 khuyến cáo 3, mạnh). Chưa nội soi đại tràng nên chưa biết còn nguồn chảy máu khác; vòng rụng sau 10–14 ngày để lại vết loét có thể chảy máu (ASCRS 2024 khuyến cáo 5)."
+    },
+    {
+     "t": "Kê thuốc ngủ cho bà ngủ được (benzodiazepin, zolpidem hoặc viên kháng histamin như diphenhydramin)",
+     "v": "w",
+     "n": "Beers 2023 Bảng 2 nói rõ tránh nhóm này ở người từ 65 tuổi (lú lẫn, té, gãy xương; kháng histamin thế hệ 1 còn gây táo bón); ESRS 2023 mục 4.2.1, 4.2.5. Nguyên nhân chưa xử lý (sổ mâu thuẫn TT-0161, HH-1388)."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bệnh viện tỉnh cấp cứu ngay hôm nay",
+     "v": "w",
+     "n": "Không sốt, Hb 123 g/L, huyết động ổn, máu rỉ từng giọt; nội soi đại tràng theo hẹn, không khẩn cấp (ASCRS 2024 khuyến cáo 2)."
+    },
+    {
+     "t": "Nói chắc chắn là trĩ, không phải ung thư, không cần nội soi, cho thuốc về và không hẹn lại",
+     "v": "h",
+     "n": "Chảy máu quy cho trĩ là cơ hội bỏ sót ung thư hay gặp nhất (ASCRS 2024 khuyến cáo 2). Soi hậu môn chỉ thấy đoạn thấp; chưa nhìn được phần đại tràng cao hơn."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trĩ nội độ II (Goligher) đang rỉ máu, hai búi ở 3 và 11 giờ",
+     "Yếu tố thúc đẩy: táo bón sau chuyến đi xa, uống ít nước (sợ tiểu đêm), ăn ít rau",
+     "Mất ngủ mới khoảng hai tuần do tiểu đêm, ho, ngứa rát hậu môn; chưa phải mất ngủ mạn",
+     "Đã loại trừ nứt hậu môn, sa trực tràng, sốt xuất huyết Dengue; chưa loại trừ hẳn tổn thương đại tràng khác vì chưa nội soi đại tràng",
+     "Không thiếu máu (Hb 123 g/L)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: máu đỏ tươi cuối bãi, không đau nhói, búi sa khi rặn tự co, táo bón sau chuyến đi: bộ ba điển hình của trĩ nội (ASCRS 2024 khuyến cáo 1). Phải hỏi riêng bà vì chị Ngọc không biết búi sa, nước uống và mất ngủ.",
+     "Khám: thăm trực tràng và soi hậu môn ngay trong buổi khám. AGA 2026 BPA 4: soi hậu môn ở mọi bệnh nhân mới nghi trĩ nếu có thể; ASCRS 2024 khuyến cáo 1: có thể cân nhắc. Độ II: sa dưới đường lược khi đi cầu và tự co (AGA 2026 Bảng 1). Nếp xuyên tâm khác nếp tròn của sa trực tràng (AGA 2026 BPA 1).",
+     "Sốt xuất huyết: gia đình lo vì chuyến đi. Không sốt, không nhức đầu đau cơ, không xuất huyết nơi khác, dây thắt âm tính (QĐ 2760/2023 mục II.1.1). Nhiễu cần trả lời rõ, không cần xét nghiệm Dengue.",
+     "Vì sao chưa kết luận 'chỉ là trĩ': ung thư đại trực tràng, bệnh viêm ruột, viêm đại tràng khác, bệnh túi thừa, loạn sản mạch đều gây máu qua hậu môn (ASCRS 2024 khuyến cáo 2). Bà 79 tuổi, chưa từng nội soi đại tràng, chảy máu hơn hai tuần. Hb 123 g/L: chưa thiếu máu (BSG 2021 mục Definitions).",
+     "Mất ngủ khởi phát sau chuyến đi, thức dậy vì tiểu đêm, ho, ngứa rát hậu môn. Động cơ thật của bà là xin thuốc ngủ: tìm nguyên nhân trước khi nghĩ đến thuốc.",
+     "Applicability: AGA 2026 và ASCRS 2024 không có khuyến cáo riêng cho người từ 75 tuổi (ASCRS 2024 mục Methodology: bằng chứng ở 'adult subjects'). Mốc tái khám, lượng nước, ngưỡng chuyển tuyến cho người rất cao tuổi: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Đầu tay là ăn uống và hành vi (ASCRS 2024 khuyến cáo 3): xơ 20–30 g/ngày, không rặn, ngồi bô tối đa 3 phút (AGA 2026 BPA 2), tăng từ từ (WGO 2025 mục 4.2). Nước chia đều ban ngày, dồn nhiều hơn buổi sáng và chiều; hạn chế sát giờ ngủ là lựa chọn của ca, không có trong tài liệu đã tải.",
+     "Làm mềm phân: PEG 17 g/ngày (AGA-ACG 2023 khuyến cáo 2; WGO 2025 Bảng 9) hoặc psyllium, lactulose 15 g/ngày. PEG hợp hơn khi bà uống ít nước; tác dụng phụ là đầy bụng (AGA-ACG 2023 khuyến cáo 2), dặn kỹ vì bà dễ bỏ thuốc.",
+     "Nội soi đại tràng theo hẹn (ASCRS 2024 khuyến cáo 2; AGA 2026 BPA 1): phòng khám không có nội soi, viết giấy giới thiệu ghi rõ chảy máu hơn hai tuần, 79 tuổi, chưa nội soi lần nào. FIT trong lúc chờ chỉ là phân loại (ACPGBI/BSG 2022 khuyến cáo 3, 11, 13).",
+     "Không kê thuốc ngủ (Beers 2023 Bảng 2). Lời từ chối cụ thể: 'Bà ngủ không được vì mấy chuyện cụ thể: đi tiểu đêm, ho, ngứa rát chỗ hậu môn. Bác sĩ chữa từng chuyện đó trước, vì thuốc ngủ ở tuổi bà dễ làm bà té, lú lẫn và còn làm đi cầu khó hơn. Vài đêm nữa chưa ngủ ngon thì bà quay lại, mình cùng xem lại.' Vệ sinh giấc ngủ: QĐ 2058/2020 Bài 27 mục 4.3.",
+     "Ho nhẹ: không X-quang, không kháng sinh (CHEST 2020 khuyến cáo 1, 3). Chưa thắt vòng/chích xơ: đầu tay chưa thử, chưa nội soi đại tràng (ASCRS 2024 khuyến cáo 2, 3, 5).",
+     "Lưới an toàn bằng văn bản vì thân nhân bận, bà ngại nói (ACPGBI/BSG 2022 khuyến cáo 8, 10). Tái khám 1 tuần để kiểm tra bà uống thuốc và nước thật sự."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Macrogol (polyethylene glycol) dạng bột pha",
+      "ham_luong": "Gói theo nhãn (khởi đầu 17 g/ngày theo WGO 2025)",
+      "lieu": "1 gói/ngày, hòa với lượng nước ghi trên nhãn",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng sau ăn",
+      "so_ngay": "Đến lần tái khám sau 1 tuần, giảm khi phân mềm đều",
+      "ghi_chu": "AGA-ACG 2023 khuyến cáo 2 (PEG, mạnh); WGO 2025 Bảng 9 (khởi đầu 17 g/ngày, không có liều tối đa rõ). Hàm lượng gói ở Việt Nam: không có trong tài liệu đã tải. Một trong hai: PEG hoặc psyllium hoặc lactulose."
+     },
+     {
+      "thuoc": "Psyllium (vỏ hạt mã đề) dạng gói, thay cho PEG nếu bà đồng ý uống đủ nước",
+      "ham_luong": "Theo nhãn (không có trong tài liệu đã tải)",
+      "lieu": "Tăng dần để tổng chất xơ (ăn và thuốc) đạt 20–30 g/ngày",
+      "duong": "Uống pha nước",
+      "thoi_diem": "Buổi sáng, kèm một cốc nước đầy",
+      "so_ngay": "Đến khi tái khám",
+      "ghi_chu": "WGO 2025 Bảng 9 (tổng xơ 20–30 g/ngày); mục 4.2: tăng từ từ. AGA-ACG 2023 khuyến cáo 1: đầy hơi thường gặp, cần đủ nước."
+     },
+     {
+      "thuoc": "Siro ho long đờm (ambroxol, đang dùng)",
+      "ham_luong": "Theo chai đang dùng",
+      "lieu": "Dùng khi cần, không bắt buộc",
+      "duong": "Uống",
+      "thoi_diem": "Khi ho",
+      "so_ngay": "Ngưng khi hết ho",
+      "ghi_chu": "CHEST 2020 khuyến cáo 3: không kê thường quy thuốc cho ho cấp; không thấy hại, nên không cần cấm."
+     },
+     {
+      "thuoc": "Thuốc ngủ",
+      "ham_luong": "Không kê",
+      "lieu": "Không",
+      "duong": "Không",
+      "thoi_diem": "Không",
+      "so_ngay": "Không",
+      "ghi_chu": "Beers 2023 Bảng 2 (tránh benzodiazepin, nhóm Z, kháng histamin thế hệ 1 ở người từ 65 tuổi); nguồn: AGS Beers 2023."
+     }
+    ],
+    "dan_do": [
+     "Bà không bị sốt xuất huyết. Máu ra từ búi trĩ bác sĩ đã nhìn thấy; bà không sốt, không đau mình, không chảy máu chỗ khác (QĐ 2760/2023 mục II.1.1).",
+     "Ăn thêm rau luộc, đu đủ chín, chuối chín, yến mạch, tăng từ từ trong vài tuần (WGO 2025 mục 4.2). Uống nước đều trong ngày, nhiều hơn buổi sáng và chiều.",
+     "Uống thuốc làm mềm phân mỗi sáng. Đi cầu mỗi ngày một lần, ngồi không quá 3 phút, không rặn mạnh (AGA 2026 BPA 2). Không tự bôi kem chứa corticoid quá 2 tuần (AGA 2026 BPA 3).",
+     "Mất ngủ: cố định giờ đi ngủ và thức dậy, tập vận động nhẹ hằng ngày, không dùng cà phê buổi tối (QĐ 2058/2020 Bài 27 mục 4.3). KHÔNG tự mua 'viên ngủ' ở hiệu thuốc, nhất là viên chống dị ứng gây buồn ngủ, vì dễ té, lú lẫn và táo bón nặng thêm (Beers 2023 Bảng 2).",
+     "Cầm giấy giới thiệu lên bệnh viện tỉnh nội soi đại tràng khi chị Ngọc chở được; báo là đang ra máu hậu môn.",
+     "Quay lại hoặc đi cấp cứu ngay (đã viết trên giấy, ACPGBI/BSG 2022 khuyến cáo 8, 10): máu thành dòng hoặc cục; chóng mặt, ngất; phân đen; đau bụng mới; cục cứng đau không đẩy vào được; không đi cầu được; sụt cân. Tái khám sau 1 tuần theo toa."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau 8 ngày. Lần trước đã giải thích, cho giấy giới thiệu nội soi đại tràng, toa thuốc làm mềm phân và dặn chất xơ, nước uống; không kê thuốc ngủ. Chị Ngọc đưa bà đến sớm hơn hẹn vì bà còn ra máu và kêu đau hậu môn nhiều hai ba hôm nay. Sinh hiệu: HA 148/84 mmHg, mạch 92 l/p, nhiệt độ 36,9 °C, nhịp thở 18 l/p, SpO₂ 97%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho bà về với thuốc giảm đau và hẹn lại sẽ để cục tắc mạch đau kéo dài: nhiều ca tự khỏi, nhưng một loạt hồi cứu ghi thời gian hết triệu chứng 3,9 ngày sau thủ thuật so với 24 ngày khi chỉ điều trị nội khoa, và thử nghiệm 150 người cho thấy cắt bỏ giảm đau rõ hơn ngày 4, ít tái phát hơn sau 1 năm (ASCRS 2024 khuyến cáo 6). Bà 79 tuổi đang đau liên tục, mất ngủ, mỗi lần đi cầu đau thêm nên dễ lại nhịn và táo bón nặng thêm; AGA 2026 BPA 9 nêu mốc 72 giờ cho can thiệp sớm. Giấy giới thiệu nội soi đại tràng vẫn chưa ai đưa bà đi, trong khi máu còn ra.",
+    "nhap_vien": "Nhập viện nội trú ngay là không cần: rạch lấy huyết khối làm được ở phòng khám có thủ thuật hoặc phòng cấp cứu (AGA 2026 BPA 9), bà không sốt, bạch cầu 8,1 G/L, Hb 121 g/L, huyết động ổn. Nằm viện nơi lạ càng làm bà thêm rối, chị Ngọc phải bỏ sạp hàng ở lại chăm. Điều cần là gặp bác sĩ ngoại sớm, không phải một giường bệnh."
+   },
+   "loi_mo": "Chào bác sĩ. Mẹ em vẫn còn ra máu, mấy hôm nay đau hậu môn dữ lắm, ngồi không được. Em tưởng uống thuốc rồi là đỡ chứ.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "148/84",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Vẫn còn ra máu và từ khoảng 2 ngày rưỡi nay đau nhiều ở hậu môn, ngồi không yên.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám"
+    },
+    {
+     "id": "cuc_dau",
+     "noi_dung": "Khoảng 60 giờ trước, sau một lần đi cầu phải rặn, bà thấy một cục cứng như hạt nhãn ở rìa hậu môn, đau nhức liên tục. Cục không đẩy vào được, sờ thấy hơi tím. Hai ngày đầu đau tăng dần, hôm nay đau như cũ, ngồi hay nằm ngửa đều đau, đi cầu đau thêm vì cục chạm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát cục đau cứng, dưới 72 giờ"
+    },
+    {
+     "id": "dau_lien_tuc",
+     "noi_dung": "Đau âm ỉ nhức liên tục cả khi ngồi yên, không phải kiểu nhói như dao cắt riêng lúc đi cầu rồi hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt nứt hậu môn"
+    },
+    {
+     "id": "mau",
+     "noi_dung": "Vẫn ra máu đỏ tươi dính giấy, ít hơn tuần trước: 3 lần trong tuần, mỗi lần vài giọt. Không máu cục, phân không đen, không chóng mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chảy máu còn dai dẳng"
+    },
+    {
+     "id": "khong_nhiem_trung",
+     "noi_dung": "Không sốt, không ớn lạnh, không chảy mủ, không đau bụng dưới, tiểu được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không áp xe, không nhiễm trùng"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Bà chỉ uống thuốc làm mềm phân 3 ngày rồi bỏ vì đầy bụng, ợ hơi và thấy buồn đi tiểu hơn. Chị Ngọc tưởng bà uống đều. Bà vẫn bớt nước buổi tối, ăn rau ít. Phân vẫn 2–3 ngày một lần, cứng, phải rặn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng bà đã uống thuốc làm mềm phân thế nào, uống nước ra sao; chị Ngọc không biết bà đã bỏ thuốc.",
+     "k": 1,
+     "y": "Không tuân thủ điều trị (thất bại điều trị)"
+    },
+    {
+     "id": "vien_ngu",
+     "noi_dung": "Sau lần khám trước, bà nhờ cháu gái mua ở hiệu thuốc 'viên ngủ cho người già': viên nhỏ màu trắng, nhãn ghi diphenhydramin 25 mg. Bà uống 1 viên mỗi tối, 6 đêm nay, ngủ được nhưng sáng khô miệng, lơ mơ, đi cầu khó hơn trước. Chị Ngọc không biết.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng bà về giấc ngủ, hoặc hỏi sau lần khám trước bà có tự dùng thêm thuốc nào, kể cả thuốc ngủ. Nếu chị Ngọc có mặt bà nói 'không có gì'.",
+     "k": 1,
+     "y": "Thuốc tự mua (kháng histamin thế hệ 1)"
+    },
+    {
+     "id": "noi_soi",
+     "noi_dung": "Chưa đi nội soi đại tràng: giấy giới thiệu hẹn thứ Bảy tuần sau vì chị Ngọc ngày thường trông sạp. Hôm nay chị nghỉ bán để đưa bà đi khám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa nội soi đại tràng"
+    },
+    {
+     "id": "nguon_luc",
+     "noi_dung": "Bệnh viện tỉnh cách 35 km, chị Ngọc chở bằng xe máy được trong ngày hôm nay. Phòng khám này chỉ khám nội, không có phòng thủ thuật hậu môn. Bà sợ nghe chữ 'mổ' vì hồi trẻ thấy người làng mất sau mổ; chị Ngọc nghe bác sĩ giải thích rõ thì đồng ý.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Khả năng đi tuyến trên và nỗi sợ mổ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Nhăn nhó vì đau, ngồi lệch một bên. Môi và miệng khô, niêm mạc hồng nhạt, chậm chạp nhưng trả lời đúng, định hướng đúng. Không vàng da, không phát ban.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không điểm đau, không khối. Bàng quang không căng.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Nằm nghiêng trái. Nhìn: ở rìa hậu môn vị trí 7 giờ có một cục tròn đường kính khoảng 2 cm, căng, bóng, màu tím xanh, rất đau khi chạm, không đẩy vào được. Da xung quanh phù nhẹ, không đỏ lan, không nóng, không ổ mủ, không lỗ rò, không thấy vết nứt. Thăm trực tràng: bà đau nhiều và co thắt, chỉ đưa được đầu ngón tay, không đánh giá được sâu hơn; cảm giác phân cứng ở bóng trực tràng, găng dính ít máu đỏ.",
+     "k": 1,
+     "hien": "Có một cục tròn tím căng khoảng 2 cm ở rìa hậu môn 7 giờ, rất đau, không đẩy vào được. Da xung quanh không đỏ lan, không chảy mủ."
+    },
+    "soi_hau_mon": {
+     "a": "Không soi được: bà đau dữ dội ngay khi ống soi chạm cửa hậu môn nên dừng lại. Không nên cố khi đang có cục tắc mạch đau; hình ảnh hai búi nội 3 và 11 giờ đã ghi ở lần trước.",
+     "k": 0,
+     "hien": "Bà không chịu được ống soi, phải dừng."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 121 g/L · MCV 88 fL · BC 8,1 G/L · TC 246 G/L",
+     "bang": {
+      "wbc": 8.1,
+      "neu_pct": 66.0,
+      "neu": 5.35,
+      "lym_pct": 25.0,
+      "lym": 2.03,
+      "mono_pct": 6.4,
+      "mono": 0.52,
+      "eos_pct": 2.2,
+      "eos": 0.18,
+      "baso_pct": 0.4,
+      "baso": 0.03,
+      "rbc": 4.08,
+      "hgb": 121,
+      "hct": 0.36,
+      "mcv": 88.0,
+      "mch": 29.7,
+      "mchc": 336,
+      "rdw": 13.8,
+      "plt": 246
+     },
+     "n": "Bạch cầu bình thường, không sốt: không gợi áp xe. Hb 121 g/L gần như không đổi so với 123 g/L, vẫn trên 120 g/L (BSG 2021 mục Definitions), nên chưa thuộc diện thiếu máu; chảy máu chỉ rỉ."
+    },
+    "noi_soi_dt": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi đại tràng; làm ở bệnh viện tỉnh cách 35 km.)",
+     "thay_the": "fit",
+     "n": "Vẫn cần (chảy máu còn dai dẳng sau điều trị, ASCRS 2024 khuyến cáo 2), nhưng đau cấp phải xử trí trước; hẹn nội soi sau khi cục tắc mạch ổn. Ghi rõ trên giấy giới thiệu."
+    },
+    "fit": {
+     "n": "Không làm lại: đã có nguồn chảy máu rõ, FIT không đổi xử trí hôm nay; FIT dưới ngưỡng mà còn chảy máu dai dẳng thì vẫn nội soi (ACPGBI/BSG 2022 khuyến cáo 13)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trĩ ngoại tắc mạch cấp (huyết khối) ở rìa hậu môn 7 giờ, khoảng 60 giờ, trên nền trĩ nội độ II còn rỉ máu; táo bón nặng thêm do bà bỏ thuốc làm mềm phân, uống ít nước và tự mua viên ngủ kháng histamin; chưa nội soi đại tràng",
+     "ok": 1,
+     "n": "Cục tròn tím căng, rất đau, không đẩy vào được ở rìa hậu môn (ASCRS 2024 khuyến cáo 1; AGA 2026 BPA 1, 9). Trĩ chỉ đau đáng kể khi tắc mạch (AGA 2026 BPA 1). Kháng histamin thế hệ 1 gây táo bón (Beers 2023 Bảng 2)."
+    },
+    {
+     "t": "Nứt hậu môn",
+     "n": "Đau liên tục chứ không nhói riêng lúc đi cầu, không thấy vết nứt, có cục rõ ở rìa. Nứt có thể cùng tồn tại ở tới 20% (AGA 2026 BPA 1) nên khám lại sau khi hết đau."
+    },
+    {
+     "t": "Áp xe quanh hậu môn",
+     "n": "Không sốt, không ớn lạnh, bạch cầu 8,1 G/L, không đỏ lan, không nóng, không ổ mủ. Tài liệu đã tải không có bài riêng về áp xe hậu môn."
+    },
+    {
+     "t": "Ung thư trực tràng / hậu môn",
+     "n": "Không sụt cân, không đau bụng; nhưng đau khiến thăm trực tràng không đầy đủ và chưa nội soi đại tràng nên chưa loại trừ (ASCRS 2024 khuyến cáo 2). Soi hậu môn lần trước không thấy khối (AGA 2026 BPA 4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng bà về thuốc đã uống từ lần khám trước (thuốc làm mềm phân, thuốc tự mua) và ghi nhận bà bỏ thuốc, uống viên ngủ diphenhydramin",
+     "v": "c",
+     "n": "Lần này 'không đỡ': kiểm tra theo thứ tự chẩn đoán, thuốc/tuân thủ, biến chứng. Kỹ năng giao tiếp, không có trong tài liệu đã tải. Kháng histamin thế hệ 1: tránh ở người từ 65 tuổi (Beers 2023 Bảng 2)."
+    },
+    {
+     "t": "Chuyển bà trong ngày đến khoa ngoại bệnh viện tỉnh để xử trí trĩ ngoại tắc mạch: rạch lấy cục máu đông (khoét mở nắp) hoặc cắt bỏ búi, vì mới khoảng 60 giờ; kèm giấy giới thiệu nêu cần nội soi đại tràng",
+     "v": "c",
+     "n": "Cách A: rạch lấy huyết khối giảm đau nhanh, làm ở phòng khám có thủ thuật hoặc phòng cấp cứu, không cần kháng sinh (AGA 2026 BPA 9). Cách B: cắt bỏ búi sớm cho một số bệnh nhân chọn lọc (ASCRS 2024 khuyến cáo 6, có điều kiện, bằng chứng thấp); thử nghiệm 150 người: cắt bỏ giảm đau rõ hơn ngày 4, ít tái phát hơn lấy huyết khối. AGA nêu mốc 72 giờ; ASCRS nói chưa có bằng chứng về thời điểm tối ưu. Phòng khám này không làm thủ thuật hậu môn (lựa chọn của ca). Xem đề xuất mục 'Trĩ ngoại tắc mạch' của TH-0958."
+    },
+    {
+     "t": "Giảm đau trong lúc đi: paracetamol 500 mg mỗi lần, cách ít nhất 6 giờ, tổng dưới 3 g/ngày",
+     "v": "c",
+     "n": "Paracetamol 500–1.000 mg/lần, cách 6–8 giờ (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1); người cao tuổi, gầy yếu: dưới 3 g/ngày, tránh NSAID nếu có thể (QĐ 361/2014 Phụ lục NSAID mục 3.3; sổ mâu thuẫn TH-0870 mục 4)."
+    },
+    {
+     "t": "Ngưng viên ngủ diphenhydramin, giải thích vì sao; nói rõ nguyên nhân mất ngủ vẫn xử trí từng cái, không kê thuốc ngủ",
+     "v": "c",
+     "n": "Beers 2023 Bảng 2: kháng histamin thế hệ 1 dễ lú lẫn, táo bón, té, dung nạp khi dùng làm thuốc ngủ. ESRS 2023 mục 4.2.5: bằng chứng cho kháng histamin trong mất ngủ không đủ, dung nạp nhanh."
+    },
+    {
+     "t": "Thuốc làm mềm phân kèm uống nước: đổi sang loại bà chịu được (PEG liều thấp hơn hoặc psyllium hoặc lactulose), dặn người nhà nhắc, tránh đi cầu rặn",
+     "v": "c",
+     "n": "WGO 2025 Bảng 9 (PEG 17 g/ngày, lactulose 15 g/ngày, psyllium); ASCRS 2024 khuyến cáo 3 (không rặn, đủ xơ và nước). Đầy bụng là tác dụng phụ đã biết (AGA-ACG 2023 khuyến cáo 2, 4)."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay bằng văn bản: sốt, đau tăng, chảy mủ, bí tiểu, máu thành dòng, chóng mặt",
+     "v": "c",
+     "n": "Lưới an toàn (ACPGBI/BSG 2022 khuyến cáo 8, 10). Chảy máu và bí tiểu là biến chứng đã biết sau thủ thuật trĩ (ASCRS 2024 mục Excisional hemorrhoidectomy). Danh sách cụ thể: lựa chọn của ca."
+    },
+    {
+     "t": "Điều trị bảo tồn tại nhà: chườm, ngâm nước ấm, thuốc giảm đau, hẹn lại 1 tuần",
+     "v": "a",
+     "n": "Phần lớn trĩ ngoại tắc mạch tự khỏi không cần mổ (AGA 2026 BPA 9); loạt 504 người điều trị bảo tồn: cải thiện trung vị sau 5 ngày, hết hẳn sau 8 ngày (ASCRS 2024 khuyến cáo 6). Chấp nhận được nhưng chậm hơn; ca này bà đau nhiều, còn trong mốc 72 giờ, chưa nội soi đại tràng."
+    },
+    {
+     "t": "Kê thêm thuốc ngủ hoặc cho dùng tiếp viên ngủ diphenhydramin",
+     "v": "w",
+     "n": "Beers 2023 Bảng 2: tránh; kháng histamin thế hệ 1 làm táo bón nặng thêm, mà táo bón và rặn đang duy trì cục tắc mạch."
+    },
+    {
+     "t": "Dùng ibuprofen hoặc diclofenac uống vài ngày để giảm đau",
+     "v": "w",
+     "n": "Người cao tuổi, gầy yếu: tránh NSAID nếu có thể, dùng paracetamol dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3); Beers 2023 Bảng 2 tránh NSAID dùng lâu."
+    },
+    {
+     "t": "Nhập viện nội trú ngay hoặc gọi cấp cứu 115",
+     "v": "w",
+     "n": "Không sốt, Hb 121 g/L, huyết động ổn; thủ thuật làm ngoại trú hoặc ở phòng cấp cứu (AGA 2026 BPA 9)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trĩ ngoại tắc mạch cấp (huyết khối) ở rìa hậu môn 7 giờ, khoảng 60 giờ",
+     "Trĩ nội độ II còn rỉ máu; chưa nội soi đại tràng nên chưa loại trừ hẳn nguồn chảy máu khác",
+     "Yếu tố làm không đỡ: bà bỏ thuốc làm mềm phân sau 3 ngày, vẫn hạn chế nước, tự mua viên ngủ diphenhydramin gây táo bón, lú lẫn",
+     "Đã loại trừ áp xe quanh hậu môn (không sốt, bạch cầu 8,1 G/L, không đỏ lan), nứt hậu môn, sa trực tràng",
+     "Không thiếu máu (Hb 121 g/L)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: cục cứng xuất hiện sau một lần rặn, đau liên tục, không đẩy vào được, trong 72 giờ: trĩ ngoại tắc mạch là cục đau không đẩy vào được ở rìa hậu môn (ASCRS 2024 khuyến cáo 1). Trĩ chỉ đau nhiều khi tắc mạch, đau nhói khi đi cầu nghĩ nứt (AGA 2026 BPA 1).",
+     "Quy trình 'không đỡ': (1) chẩn đoán còn đúng không: cục tím căng 7 giờ, không áp xe, không khối khác; (2) thuốc và tuân thủ: bà bỏ thuốc làm mềm phân, uống ít nước, tự dùng viên ngủ kháng histamin (Beers 2023 Bảng 2: gây táo bón); (3) biến chứng: huyết khối ngoại. Điều (2) chỉ lộ khi hỏi riêng bà vì chị Ngọc không biết.",
+     "Chưa nội soi đại tràng: chảy máu dai dẳng sau điều trị phải tìm nguồn (ASCRS 2024 khuyến cáo 2; ACPGBI/BSG 2022 khuyến cáo 13). Đau cấp xử trí trước; ghi lên giấy giới thiệu để bệnh viện hẹn nội soi sau.",
+     "Applicability: tài liệu đã tải không có khuyến cáo riêng cho người từ 75 tuổi về thời điểm cắt trĩ ngoại tắc mạch hay nguy cơ thủ thuật; ca dựa vào AGA 2026 và ASCRS 2024 cho người lớn nói chung."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến trong ngày vì khoảng 60 giờ (dưới mốc 72 giờ AGA nêu), đau nhiều, phòng khám không làm thủ thuật. Tại tuyến trên: rạch lấy huyết khối (AGA 2026 BPA 9) hoặc cắt bỏ (ASCRS 2024 khuyến cáo 6), cả hai đều chấp nhận, xem đề xuất mục mâu thuẫn. Không cấp cứu: bà tỉnh, sinh hiệu ổn. Điều trị bảo tồn tại nhà cũng có trong tài liệu (phần lớn tự khỏi) nên chấm a.",
+     "Giảm đau: paracetamol, tránh NSAID (QĐ 361/2014 Phụ lục NSAID mục 3.3). Ngưng viên ngủ kháng histamin (Beers 2023 Bảng 2; ESRS 2023 mục 4.2.5).",
+     "Phòng tái phát: thuốc làm mềm phân bà uống được, nước đủ, không rặn; hỏi lại đầy bụng để chọn thuốc (AGA-ACG 2023 khuyến cáo 2, 4; WGO 2025 Bảng 9).",
+     "Bà sợ mổ: giải thích thủ thuật làm ở phòng thủ thuật; biến chứng đã biết là chảy máu, bí tiểu (ASCRS 2024 mục Excisional hemorrhoidectomy: chảy máu 1–2%, bí tiểu 1–15% sau cắt trĩ; AGA 2026 BPA 9). Số liệu riêng cho thủ thuật nhỏ trên cục tắc mạch: không có trong tài liệu đã tải.",
+     "Lưới an toàn bằng văn bản (ACPGBI/BSG 2022 khuyến cáo 8, 10)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần, cách ít nhất 6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Đến khi được xử trí cục tắc mạch; tổng dưới 3 g/ngày",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1 (500–1.000 mg/lần, cách 6–8 giờ); Phụ lục NSAID mục 3.3 (người cao tuổi, gầy yếu: dưới 3 g/ngày)."
+     },
+     {
+      "thuoc": "Macrogol (PEG) hoặc psyllium hoặc lactulose, đổi loại bà chịu được",
+      "ham_luong": "Theo nhãn (PEG khởi đầu 17 g/ngày; lactulose 15 g/ngày)",
+      "lieu": "Một trong ba, liều thấp hơn lần trước nếu đầy bụng, tăng dần",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng sau ăn, kèm nước",
+      "so_ngay": "Dùng liên tục đến sau nội soi đại tràng; đánh giá lại tại tuyến trên",
+      "ghi_chu": "WGO 2025 Bảng 9; AGA-ACG 2023 khuyến cáo 2, 4 (tác dụng phụ đầy bụng). Hàm lượng gói ở Việt Nam: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Viên ngủ diphenhydramin tự mua",
+      "ham_luong": "25 mg",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Không dùng lại",
+      "ghi_chu": "Beers 2023 Bảng 2 (kháng histamin thế hệ 1: tránh ở người từ 65 tuổi, táo bón, lú lẫn, té); ESRS 2023 mục 4.2.5."
+     }
+    ],
+    "dan_do": [
+     "Cục đau ở hậu môn là trĩ ngoại đóng cục máu; không tự đẩy hay tự rạch. Cần gặp bác sĩ ngoại trong hôm nay (AGA 2026 BPA 9; ASCRS 2024 khuyến cáo 6). Mang theo giấy giới thiệu, nói rõ đã ra máu hơn ba tuần, chưa nội soi đại tràng.",
+     "Không uống viên ngủ tự mua; mất ngủ sẽ xử trí từng nguyên nhân khi hết đau (Beers 2023 Bảng 2).",
+     "Thuốc làm mềm phân: nếu thuốc cũ gây đầy bụng thì báo để đổi loại, đừng tự bỏ. Uống nước đều ban ngày, chị Ngọc nhắc bà (WGO 2025 mục 4.6).",
+     "Paracetamol khi đau, tổng dưới 3 g/ngày; không dùng thuốc giảm đau kháng viêm (QĐ 361/2014 Phụ lục NSAID mục 3.3).",
+     "Đi cấp cứu ngay nếu sốt, ớn lạnh, chảy mủ, không tiểu được, máu thành dòng hoặc cục, chóng mặt, ngất. Sau thủ thuật theo dõi chảy máu, bí tiểu, sốt (ASCRS 2024 mục Excisional hemorrhoidectomy)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chiều hôm đó chị Ngọc chở bà lên bệnh viện tỉnh. Bác sĩ ngoại xác nhận trĩ ngoại tắc mạch, cắt bỏ búi dưới tê tại chỗ, không cho kháng sinh; sáng hôm sau cơn đau giảm rõ. Sáng ngày thứ 6 sau thủ thuật bà ra máu đỏ nhiều từ vết cắt, thấm hết hai lần băng, chóng mặt, HA 92/58 mmHg, Hb 94 g/L; bà nhập viện, được khâu cầm máu và nằm 3 ngày rồi xuất viện. Nội soi đại tràng 4 tuần sau: trĩ nội độ II, vài túi thừa ở đại tràng sigma, không polyp, không u. Bà không còn uống viên ngủ, dùng thuốc làm mềm phân đều và uống nước ban ngày. Quyết định chuyển tuyến sớm theo đúng hướng dẫn (AGA 2026 BPA 9; ASCRS 2024 khuyến cáo 6); chảy máu sau thủ thuật là biến chứng đã biết (1–2% sau cắt trĩ, ASCRS 2024 mục Excisional hemorrhoidectomy), nên diễn tiến xấu không chứng tỏ quyết định sai.",
+ "nhieu": [
+  "Thân nhân trả lời thay: chị Ngọc kể đúng điều chị thấy nhưng không biết bà ít uống nước, mất ngủ, búi sa và việc bà muốn xin thuốc ngủ. Phải hỏi thẳng bà (nói to bên tai phải) hoặc mời chị ra ngoài; ở lượt 2 viên ngủ tự mua và việc bà bỏ thuốc cũng chỉ lộ khi hỏi riêng.",
+  "Nỗi lo sốt xuất huyết sau chuyến đi vùng dịch: không sốt, không xuất huyết nơi khác, dây thắt âm tính; máu ra từ búi trĩ thấy trực tiếp. Trả lời rõ cho gia đình, không cần xét nghiệm Dengue.",
+  "Ho 4 ngày và siro long đờm: không sốt, phổi sạch; không X-quang, không kháng sinh (CHEST 2020 khuyến cáo 1, 3). Không liên quan chảy máu hậu môn.",
+  "Không có siêu âm: không ảnh hưởng chẩn đoán trĩ vì thăm trực tràng và soi hậu môn làm tại giường; nội soi đại tràng và CT ở bệnh viện tỉnh nên cần giấy giới thiệu."
+ ],
+ "bai_hoc_bien": [
+  "Thân nhân trả lời thay: tách bệnh nhân ra hỏi riêng. Nước uống, mất ngủ, búi sa (lượt 1) và bỏ thuốc, viên ngủ tự mua (lượt 2) chỉ bà biết.",
+  "Chảy máu hậu môn không quy ngay cho trĩ: thăm trực tràng, soi hậu môn, đề nghị nội soi đại tràng ở người 79 tuổi chưa từng nội soi (ASCRS 2024 khuyến cáo 2; AGA 2026 BPA 1, 4).",
+  "Xin thuốc ngủ: tìm nguyên nhân (tiểu đêm, ho, ngứa rát hậu môn), từ chối bằng lời cụ thể; người cao tuổi tránh benzodiazepin, nhóm Z, kháng histamin thế hệ 1 (Beers 2023 Bảng 2).",
+  "Không đỡ ở lượt 2: đi theo thứ tự chẩn đoán còn đúng không, thuốc và tuân thủ, biến chứng (trĩ ngoại tắc mạch). Chẩn đoán gốc vẫn là trĩ.",
+  "Trĩ ngoại tắc mạch trong khoảng 72 giờ: chuyển sớm để rạch lấy huyết khối hoặc cắt bỏ; điều trị bảo tồn vẫn chấp nhận được (AGA 2026 BPA 9; ASCRS 2024 khuyến cáo 6).",
+  "Xử trí đúng vẫn có thể diễn tiến xấu: chảy máu sau thủ thuật là biến chứng đã biết. Đừng đánh giá quyết định chỉ qua kết cục (outcome bias)."
+ ],
+ "diem_nho": [
+  "Goligher: độ II sa dưới đường lược khi đi cầu rồi tự co; độ III phải đẩy bằng tay (AGA 2026 Bảng 1).",
+  "Trĩ chỉ đau nhiều khi tắc mạch; đau nhói khi đi cầu nghĩ nứt hậu môn, hai bệnh cùng tồn tại tới 20% (AGA 2026 BPA 1).",
+  "Đầu tay: xơ 20–30 g/ngày, không rặn, ngồi bô tối đa 3 phút (ASCRS 2024 khuyến cáo 3; AGA 2026 BPA 2); PEG 17 g/ngày (WGO 2025 Bảng 9).",
+  "Beers 2023 Bảng 2: tránh benzodiazepin, nhóm Z, kháng histamin thế hệ 1 ở người từ 65 tuổi.",
+  "Applicability (≥ 75 tuổi): AGA 2026 và ASCRS 2024 không có khuyến cáo riêng; mốc tái khám, lượng nước, ngưỡng chuyển tuyến cho người rất cao tuổi: không có trong tài liệu đã tải."
+ ],
+ "nguon": [
+  "ASCRS 2024 – trĩ – TL-0205 – khuyến cáo 1–6, mục Excisional hemorrhoidectomy, Methodology",
+  "AGA 2026 – Hemorrhoids Clinical Practice Update – TL-0183 – BPA 1–6, 9, 10, Bảng 1",
+  "ACPGBI/BSG 2022 – FIT – TL-0214 – khuyến cáo 3, 5, 8, 10, 11, 13, 18, 19",
+  "BSG 2021 – Iron deficiency anaemia – TL-0219 – mục Definitions",
+  "WGO 2025 – Constipation global guideline (tltk-10000-ca) – Bảng 6, 9, mục 4.2, 4.6",
+  "AGA-ACG 2023 – táo bón mạn, dược lý – TL-0208 – Bảng 1 (khuyến cáo 1–5)",
+  "AGS Beers 2023 – TL-0022 – Bảng 2",
+  "ESRS 2023 – European Insomnia Guideline – TL-0464 – mục 4.1, 4.2.1, 4.2.5, 4.4",
+  "BYT QĐ 2058/2020 – TL-0443 – Bài 27 mục 4.3; BYT QĐ 2760/2023 – TL-0029 – mục II.1",
+  "CHEST 2020 – viêm phế quản cấp – TL-0151 – khuyến cáo 1–4",
+  "BYT QĐ 361/2014 – TL-0286 – Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1",
+  "Không có trong tài liệu đã tải: lượng nước mỗi ngày và giờ uống; mốc tái khám 1 tuần; tên thuốc/liều thuốc bôi và phlebotonic; hàm lượng gói PEG ở Việt Nam; nguy cơ thủ thuật nhỏ trên trĩ ngoại tắc mạch ở người ≥ 75 tuổi; thuốc thay thế thuốc ngủ cho mất ngủ ngắn hạn ở người cao tuổi; bài riêng về áp xe quanh hậu môn; QĐ của BYT về trĩ."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-18, viết: Sonnet. Đối chiếu bản chữ: TL-0205 khuyến cáo 1–6, mục Excisional hemorrhoidectomy; TL-0183 BPA 1–6, 9, 10, Bảng 1; TL-0214 khuyến cáo 3, 5, 8, 10, 11, 13, 18, 19; TL-0219 mục Definitions; WGO 2025 Bảng 6, 9, mục 4.2, 4.6; TL-0208 Bảng 1; TL-0022 Bảng 2; TL-0464 mục 4.1, 4.2.1, 4.2.5, 4.4; TL-0443 Bài 27 mục 4.3; TL-0029 mục II.1; TL-0151 khuyến cáo 1–4; TL-0286 Phụ lục.",
+  "khoa_cls khai sieu_am (app tự khóa CT và nội soi), nên nội soi đại tràng khai kiểu 'cơ sở không có' kèm thay_the fit. Mâu thuẫn mới đề xuất: trĩ ngoại tắc mạch, rạch lấy huyết khối (AGA 2026 BPA 9) hay cắt bỏ (ASCRS 2024 khuyến cáo 6). Dùng lại mục cũ: TH-0970 (soi hậu môn, nội soi đại tràng), TT-0161 và HH-1388 (thuốc ngủ ≥ 65 tuổi), TH-0870 (paracetamol dưới 3 g/ngày, magie oxid).",
+  "Chi tiết do ca tự chọn: mốc tái khám 1 tuần, phòng khám không làm thủ thuật hậu môn, bà hạn chế nước buổi tối vì sợ tiểu đêm, viên ngủ tự mua là diphenhydramin 25 mg. Hb 123 và 121 g/L giữ trên 120 g/L (BSG 2021) để ca không rơi vào chỉ định nội soi hai đầu do thiếu máu."
+ ]
+}
