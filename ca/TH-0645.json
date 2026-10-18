@@ -1,0 +1,634 @@
+{
+ "ma_ca": "TH-0645",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_tieu_chay_cap_nhiem_trung",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Tiêu chảy cấp nhiễm trùng",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lỵ trực trùng",
+   "Viêm ruột thừa"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Điều dưỡng",
+  "yeu_to_khoi_phat": "Sau sinh (8 tuần, đang cho con bú)",
+  "thuoc_dang_dung": "Thuốc giảm đau khớp tự mua",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Thu Hà",
+  "tuoi": 42,
+  "gioi": "Nữ",
+  "nghe": "Điều dưỡng khoa Nội bệnh viện huyện",
+  "can_nang": 58,
+  "chieu_cao": 157,
+  "xung_ho": "Bác sĩ gọi chị. Chị tự xưng 'em', gọi bác sĩ là 'bác sĩ' hoặc 'anh/chị' (đồng nghiệp).",
+  "tinh_cach": "Nhanh nhẹn, nói nhanh, tự tin vì làm điều dưỡng. Hay tự chẩn đoán và tự quyết. Mới sinh con thứ hai 8 tuần, đang cho bé bú, thiếu ngủ, lo cho con.",
+  "kieu_nhieu": "Đòi truyền dịch: 'Cho em chai Ringer lactat đi, em quen rồi, uống oresol chậm lắm, em còn phải về cho bé bú.' Chị chỉ chịu nghe khi bác sĩ nêu tiêu chí cụ thể (uống được, mất nước nhẹ) chứ không chỉ nói 'không cần'.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#e6c3a0",
+   "toc": "#2b2420",
+   "kieuToc": "bui",
+   "ao": "#8fb8c9",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Tiêu chảy từ hôm qua, hơi sốt, muốn được truyền dịch",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Trần Thị Thu Hà, 42 tuổi, điều dưỡng, sinh con thứ hai cách đây 8 tuần, đang cho con bú. Đến vì đi ngoài phân lỏng từ hôm qua, hơi sốt. Sinh hiệu: HA 110/70 mmHg, mạch 88 l/p, nhiệt độ 37,9 °C, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Hà uống được, mạch 88 l/p, HA 110/70 mmHg, da bình thường, nước tiểu còn: đó là mất nước độ 1, bù bằng oresol đường uống là đủ, tĩnh mạch dành cho độ 2 trở lên hoặc không uống được (QĐ 5642/2015, Bệnh tiêu chảy do vi khuẩn, mục 4.2.3a; IDSA 2017 KC 39). Nhập viện khiến chị phải rời đứa con 8 tuần tuổi đang bú, tốn chi phí, và chị lại thêm lý do tin rằng mọi tiêu chảy đều cần chai dịch.",
+    "theo_doi": "Giữ chị Hà lại phòng khám truyền Ringer lactat vài giờ chỉ vì chị đòi là truyền thừa: chị uống được và mất nước độ 1 (QĐ 5642/2015, mục 4.2.3a). Chị bị đâm kim, mất nửa buổi, không đưa con đi bú đúng giờ và ra về vẫn không biết cách tự bù nước; lần tiêu chảy sau chị lại đòi truyền."
+   },
+   "loi_mo": "Chào bác sĩ. Em tiêu chảy từ hôm qua, hơi sốt. Em là điều dưỡng, em xin chai Ringer lactat rồi em về, em còn phải cho bé bú.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "110/70",
+    "nhiet": "37,9",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi ngoài phân lỏng từ hôm qua, hơi sốt, muốn truyền dịch cho nhanh khỏe.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Hôm nay là ngày thứ hai. Khoảng 7 lần/ngày, phân lỏng màu vàng nâu, nhiều nước, không có máu hay nhầy, không phải kiểu nước vo gạo. Không mót rặn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân: loại tả, lỵ"
+    },
+    {
+     "id": "sot_non",
+     "noi_dung": "Tối qua sốt khoảng 38 °C, nôn 2 lần, hôm nay hết nôn. Đau quặn quanh rốn từng cơn, đi ngoài xong thì dịu. Bụng dưới phải không đau riêng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, nôn, tính chất đau: loại viêm ruột thừa"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Hôm kia cả nhà dự giỗ, ăn gỏi gà và nem chua. Chồng và mẹ chồng cũng đau bụng, tiêu chảy, nhẹ hơn. Không đi đâu xa, không có ai ở vùng có dịch tả, không dùng kháng sinh gần đây, uống nước máy đun sôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ: nguồn lây thức ăn"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Khát vừa, uống nước thường được. Nước tiểu ít, sẫm hơn bình thường. Chưa uống oresol. Không chóng mặt khi đứng dậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức độ mất nước"
+    },
+    {
+     "id": "sinh",
+     "noi_dung": "Sinh thường con thứ hai cách đây 8 tuần, đang cho bé bú hoàn toàn. Sản dịch đã hết, không đau bụng dưới, không ra huyết. Bé bú bình thường, không sốt, không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố sau sinh, cho con bú"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Tuần trước đau cổ tay vì bế con, em mua thuốc giảm đau khớp ở hiệu thuốc, ghi 'diclofenac 50 mg', uống ngày 2 viên khoảng 5 ngày, ngừng hôm kia vì hết đau.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì chị nói không có thuốc gì. Chỉ kể khi bác sĩ hỏi cụ thể thuốc giảm đau, thuốc xương khớp tự mua.",
+     "y": "Thuốc tự mua (diclofenac)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Em sợ là tác dụng phụ của thuốc giảm đau, vì em ngưng thuốc hôm kia thì hôm qua đã tiêu chảy; em cũng sợ thuốc đó đã qua sữa làm hại bé.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chị lo nhất điều gì, hoặc vì sao nghĩ không phải thức ăn.",
+     "y": "Động cơ thật: nghi tác dụng phụ thuốc"
+    },
+    {
+     "id": "doi_truyen",
+     "noi_dung": "Em thấy bệnh nhân khoa em tiêu chảy là được truyền Ringer lactat là khỏe liền. Uống oresol chậm lắm, em sợ không bù kịp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đòi truyền dịch: gốc của nhu cầu"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Chị từ chối lấy máu và cấy phân vì chóng mặt khi lấy máu và 'ngộ độc thức ăn thì không cần cấy'. Chị đồng ý khám, đo huyết áp, thử nước tiểu và theo dõi. Nếu bác sĩ giải thích kỹ, chị vẫn không đổi ý ngày hôm nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khỏe, không bệnh nền, không dị ứng thuốc. Sinh thường, không băng huyết.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, môi hơi khô, niêm mạc hồng, da véo trở lại nhanh. Mắt không trũng. Không vàng da.",
+     "k": 1,
+     "hien": "Tỉnh, hơi mệt, môi hơi khô."
+    },
+    "bung": {
+     "a": "Bụng mềm, nhu động ruột tăng, ấn đau nhẹ quanh rốn, không khu trú hố chậu phải, không phản ứng thành bụng, không dấu Rovsing, không gan lách to.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 110/70 mmHg, mạch 84; đứng 106/68 mmHg, mạch 94. Không hạ huyết áp tư thế.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "truc_trang": {
+     "a": "Phân vàng nâu loãng, không máu, không nhầy.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Cổ tay phải ấn đau nhẹ gốc ngón cái, test Finkelstein dương tính nhẹ; không sưng nóng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ua": {
+     "v": "u",
+     "r": "Tỷ trọng 1,025 · ceton + · không bạch cầu, nitrit, protein, glucose, hồng cầu.",
+     "n": "Chị đồng ý vì không đau: nước tiểu cô đặc, hợp mất nước nhẹ (QĐ 5642/2015, mục 3.1 nước tiểu ít). Là một phần của phương án B khi chị từ chối lấy máu.",
+     "bang": {
+      "u_sg": 1.025,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Dương tính (+)",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     }
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Chị từ chối: 'Em làm xét nghiệm cho người ta cả ngày, em biết ngộ độc thức ăn chẳng cần cấy. Em chóng mặt khi bị lấy máu, còn phải về cho bé bú.' Không có kết quả.",
+     "n": "Lẽ ra nên làm khi nghi nhiễm khuẩn: bạch cầu tăng gợi ý kháng sinh (QĐ 5642/2015, Bệnh tiêu chảy do vi khuẩn, mục 3.3, 4.2.1). Chị từ chối: không ép, ghi hồ sơ lý do, giải thích nguy cơ, dùng phương án B (khám, nước tiểu, theo dõi, hẹn lại sớm)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Chị từ chối: 'Em làm xét nghiệm cho người ta cả ngày, em biết ngộ độc thức ăn chẳng cần cấy. Em chóng mặt khi bị lấy máu, còn phải về cho bé bú.' Không có kết quả.",
+     "n": "Có thể rối loạn điện giải, suy thận kèm theo (QĐ 5642/2015, mục 3.3; biến chứng hạ kali, suy thận cấp mục 5). Mất nước độ 1, uống được nên thiếu kết quả này chấp nhận được; dặn quay lại ngay nếu nặng thêm."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Chị từ chối: 'Em làm xét nghiệm cho người ta cả ngày, em biết ngộ độc thức ăn chẳng cần cấy. Em chóng mặt khi bị lấy máu, còn phải về cho bé bú.' Không có kết quả.",
+     "n": "Mất nước, từng dùng NSAID: nguy cơ suy thận cấp (QĐ 5642/2015, mục 5 nêu suy thận cấp là biến chứng). Mức độ NSAID làm nặng thêm không có trong tài liệu đã tải. Chị từ chối, ghi hồ sơ."
+    },
+    "crp": {
+     "v": "u",
+     "r": "Chị từ chối: 'Em làm xét nghiệm cho người ta cả ngày, em biết ngộ độc thức ăn chẳng cần cấy. Em chóng mặt khi bị lấy máu, còn phải về cho bé bú.' Không có kết quả.",
+     "n": "Không cần cho quyết định xử trí ca này; không tài liệu đã tải đưa CRP vào xử trí tiêu chảy cấp người lớn."
+    },
+    "cay_phan": {
+     "v": "u",
+     "r": "Chị từ chối: 'Em làm xét nghiệm cho người ta cả ngày, em biết ngộ độc thức ăn chẳng cần cấy. Em chóng mặt khi bị lấy máu, còn phải về cho bé bú.' Không có kết quả.",
+     "n": "Chỉ định khi sốt, phân máu nhầy, đau quặn nhiều, dấu nhiễm trùng huyết (IDSA 2017 KC 8) hoặc kéo dài > 7 ngày/nặng (ACG 2016 KC 2). Ca này sốt nhẹ 37,9 °C: có thể cân nhắc, nhưng chị từ chối; kết quả không đổi xử trí vì không dùng kháng sinh."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "Chị từ chối: 'Em làm xét nghiệm cho người ta cả ngày, em biết ngộ độc thức ăn chẳng cần cấy. Em chóng mặt khi bị lấy máu, còn phải về cho bé bú.' Không có kết quả.",
+     "n": "Có thể soi phân tìm hồng cầu, bạch cầu (QĐ 5642/2015, mục 3.3). Chị từ chối lấy mẫu phân hôm nay, ghi hồ sơ."
+    },
+    "abdus": {
+     "n": "Không cần: đau quặn quanh rốn từng cơn, bụng mềm, không khu trú hố chậu phải, đi ngoài thì dịu. Điểm lâm sàng và theo dõi đủ để loại viêm ruột thừa lúc này (WSES 2020, Statement 1.2: điểm lâm sàng đủ nhạy để loại trừ)."
+    },
+    "ct_bung": {
+     "n": "Không có chỉ định."
+    },
+    "test_thai": {
+     "n": "Không cần: sinh cách đây 8 tuần, đang cho bú, không rong huyết."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng (nghi vi khuẩn/ngộ độc thực phẩm sau giỗ), mất nước độ 1, sốt nhẹ, ở phụ nữ 42 tuổi sau sinh 8 tuần đang cho con bú",
+     "ok": 1,
+     "n": "Phân lỏng nhiều nước 7 lần/ngày, sốt nhẹ, nôn, đau quặn quanh rốn; nhiều người cùng ăn bị bệnh (QĐ 5642/2015, Bệnh tiêu chảy do vi khuẩn, mục 3.1, 3.4: dịch tễ nguồn lây thức ăn). Mất nước độ 1: mạch < 100, da bình thường, nước tiểu ít (bảng mục 3.1)."
+    },
+    {
+     "t": "Tả",
+     "n": "Tả khởi phát rất nhanh, 20–50 lần/ngày, phân như nước vo gạo, không sốt, không đau quặn (QĐ 5642/2015, mục 3.2). Chị 7 lần/ngày, phân vàng nâu, có sốt và đau quặn, không đi vùng dịch."
+    },
+    {
+     "t": "Lỵ trực trùng",
+     "n": "Hội chứng lỵ: sốt cao, đau quặn, mót rặn, phân nhầy máu (mục 3.2). Chị sốt nhẹ, không mót rặn, phân không nhầy máu. Không cấy phân nên chưa loại hẳn: dặn quay lại nếu phân có máu."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Đau quặn từng cơn quanh rốn, dịu sau đi ngoài, không khu trú hố chậu phải, bụng mềm, không phản ứng. Điểm lâm sàng dùng để loại trừ (WSES 2020, Statement 1.2, Recommendation 1.2.1); không dùng để khẳng định (Recommendation 1.3). Dặn quay lại nếu đau khu trú hố chậu phải."
+    },
+    {
+     "t": "Tiêu chảy do thuốc giảm đau tự mua",
+     "n": "Thuốc đã ngừng 2 ngày trước khi tiêu chảy, nhiều người cùng ăn bị bệnh, có sốt. Mối liên quan NSAID – tiêu chảy không có trong tài liệu đã tải; đây là nhận định của ca."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá mất nước độ 1 và bù dịch đường uống bằng oresol, uống từng ngụm, nhắc uống thêm sau mỗi lần đi ngoài; nước, súp, nước trái cây có muối cũng được",
+     "v": "c",
+     "n": "Mất nước độ 1, uống được: bù bằng đường uống, dùng Oresol (QĐ 5642/2015, Bệnh tiêu chảy do vi khuẩn, mục 4.2.3a); ORS giảm thẩm thấu là đầu tay cho mất nước nhẹ – vừa (IDSA 2017 KC 39); phần lớn người có thể bù bằng nước, súp, nước trái cây, bánh mặn (ACG 2016 KC 5). Thể tích cần uống mỗi giờ không có trong tài liệu đã tải: uống theo lượng mất đến khi nước tiểu trong."
+    },
+    {
+     "t": "Tôn trọng việc chị từ chối lấy máu và cấy phân: giải thích lợi ích, hỏi lại, ghi hồ sơ lý do và việc đã giải thích, dùng phương án B (khám, nước tiểu, theo dõi, hẹn lại sớm)",
+     "v": "c",
+     "n": "Quyền tự quyết của người bệnh. Xét nghiệm lẽ ra nên làm khi nghi vi khuẩn nhưng không đổi xử trí hôm nay (IDSA 2017 KC 8; QĐ 5642/2015, mục 3.3). Không có trong tài liệu đã tải mẫu ghi hồ sơ từ chối."
+    },
+    {
+     "t": "Không truyền dịch tĩnh mạch; giải thích bằng tiêu chí cụ thể: chị uống được, mạch 88, HA không tụt, nước tiểu còn; sẽ truyền nếu mất nước độ 2 trở lên hoặc không uống được",
+     "v": "c",
+     "n": "Mất nước từ độ II trở lên, không uống được: bù dịch tĩnh mạch Ringer lactat (QĐ 5642/2015, mục 4.2.3a); ORS đầu tay mất nước nhẹ – vừa; dịch đẳng trương tĩnh mạch khi nặng hoặc không uống được (IDSA 2017 KC 39, 41, 42). Nói riêng với chị: tiêu chí là quyền lợi, không phải từ chối."
+    },
+    {
+     "t": "Trả lời nỗi lo thật: thuốc giảm đau đã ngừng trước 2 ngày, nhiều người ăn chung cũng bị, nên nghĩ nhiễm khuẩn/ngộ độc thực phẩm hơn là tác dụng phụ; tạm ngưng thuốc giảm đau khớp tự mua trong khi tiêu chảy",
+     "v": "c",
+     "n": "Dịch tễ nguồn lây thức ăn (QĐ 5642/2015, mục 3.4). Mức độ thuốc qua sữa mẹ và tác dụng NSAID đối với tiêu chảy không có trong tài liệu đã tải: nói thẳng với chị là chưa có số liệu trong tài liệu, đề nghị hỏi dược sĩ nếu muốn dùng lại."
+    },
+    {
+     "t": "Dặn cờ đỏ quay lại ngay: phân có máu hoặc nhầy, sốt cao, nôn nhiều không uống được, ít tiểu hoặc không tiểu, chóng mặt, đau bụng khu trú hố chậu phải",
+     "v": "c",
+     "n": "Sốt hoặc phân máu cần tìm tác nhân (IDSA 2017 KC 3, 8); mất nước độ 2: mạch 100–120, thiểu niệu, HA < 90 (QĐ 5642/2015, mục 3.1); ranh giới biến chứng sốc, rối loạn điện giải (mục 5)."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 ngày, hoặc quay lại sớm khi có cờ đỏ; tiếp tục cho bé bú; rửa tay, ăn chín, uống nước đun sôi, tránh dùng chung đồ ăn với con",
+     "v": "c",
+     "n": "Rửa tay, ăn chín, uống nước đun sôi (QĐ 5642/2015, mục 6). Mốc 3 ngày là lựa chọn của ca, không có trong tài liệu đã tải; tiếp tục cho bú: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không dùng kháng sinh vì sốt nhẹ, không máu, không nhiễm độc",
+     "v": "a",
+     "n": "Phần lớn tiêu chảy cấp không cần kháng sinh, không rút ngắn bệnh (ACG 2016 KC 9, 10; IDSA 2017 KC 36). Mâu thuẫn với QĐ 5642/2015 mục 4.2.1 'cân nhắc kháng sinh khi sốt': xem sổ mâu thuẫn, cả hai cách đều đúng."
+    },
+    {
+     "t": "Ciprofloxacin 0,5 g uống × 2 lần/ngày × 5 ngày theo kinh nghiệm vì có sốt",
+     "v": "a",
+     "n": "QĐ 5642/2015 mục 4.2.1 (cân nhắc kháng sinh khi sốt, nhiễm trùng) và 4.2.2a (ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày). Khác với ACG/IDSA không dùng thường quy. An toàn thuốc khi cho con bú không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Smecta (diosmectit) hoặc spasmaverin hỗ trợ giảm triệu chứng",
+     "v": "a",
+     "n": "Điều trị hỗ trợ: giảm co thắt spasmaverin, làm săn niêm mạc smecta (QĐ 5642/2015, mục 4.2.3b). Liều không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Truyền Ringer lactat vì chị đòi",
+     "v": "w",
+     "n": "Mất nước độ 1, uống được: ORS là đầu tay (QĐ 5642/2015, mục 4.2.3a; IDSA 2017 KC 39). Truyền không cần, đâm kim, tốn thời gian, củng cố niềm tin sai."
+    },
+    {
+     "t": "Loperamid để cầm tiêu chảy",
+     "v": "w",
+     "n": "Không lạm dụng thuốc cầm tiêu chảy như loperamid (QĐ 5642/2015, mục 4.2.3b); tránh khi tiêu chảy có sốt (IDSA 2017 KC 47). Loperamid có thể dùng ở người lớn tiêu chảy nước không sốt (IDSA 2017 KC 47) và cùng kháng sinh khi tiêu chảy du lịch (ACG 2016 KC 8): khác bối cảnh vì chị có sốt."
+    },
+    {
+     "t": "Nhập viện hoặc giữ lại phòng khám truyền dịch",
+     "v": "w",
+     "n": "Không có tiêu chuẩn: mất nước độ 1, uống được (QĐ 5642/2015, mục 3.1, 4.2.3a)."
+    },
+    {
+     "t": "Cho men vi sinh để rút ngắn bệnh",
+     "v": "a",
+     "n": "ACG 2016 KC 6 không khuyến cáo probiotic cho tiêu chảy cấp người lớn; IDSA 2017 KC 49 cho phép (yếu, chứng cứ trung bình). Hai nguồn khác nhau, cả hai cách đều đúng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng (nghi vi khuẩn/ngộ độc thực phẩm), ngày 2",
+     "Mất nước độ 1, uống được",
+     "Sốt nhẹ 37,9 °C, không máu nhầy, không dấu nhiễm trùng huyết",
+     "Đã loại tả, lỵ, viêm ruột thừa bằng lâm sàng (không có xét nghiệm do người bệnh từ chối)",
+     "Sau sinh 8 tuần, đang cho con bú; từng dùng diclofenac tự mua"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi dịch tễ (giỗ, nhiều người cùng bệnh), tính chất phân và số lần, sốt nôn, mức mất nước, thuốc tự mua, sau sinh/cho bú; khám da niêm, huyết áp tư thế, bụng; nước tiểu; không cần CLS khác.",
+     "Mức mất nước: mạch < 100, da bình thường, khát ít, nước tiểu ít = độ 1 (QĐ 5642/2015, mục 3.1).",
+     "Loại tả bằng số lần, màu phân, có sốt, có đau quặn (mục 3.2); loại lỵ bằng phân không máu nhầy, không mót rặn; loại viêm ruột thừa bằng đau không khu trú, bụng mềm (WSES 2020, Statement 1.2).",
+     "Khi bệnh nhân từ chối cấy phân và máu: không ép, giải thích, ghi hồ sơ, phương án B. Chỉ định cấy phân khi sốt, phân máu nhầy, đau quặn nhiều (IDSA 2017 KC 8)."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù ORS (QĐ 5642/2015, mục 4.2.3a; IDSA 2017 KC 39). Không truyền vì mất nước độ 1 uống được.",
+     "Kháng sinh: ACG 2016 KC 9–10 và IDSA 2017 KC 36 không dùng thường quy; QĐ 5642/2015 mục 4.2.1 cân nhắc khi sốt: chọn không dùng hoặc ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày (mục 4.2.2a) đều chấp nhận.",
+     "Loperamid: tránh vì sốt (IDSA 2017 KC 47; QĐ 5642/2015 mục 4.2.3b không lạm dụng).",
+     "Đòi truyền dịch: nêu tiêu chí (uống được, mạch 88, HA bình thường) thay vì từ chối suông; hứa truyền nếu mất nước độ 2 hoặc không uống được.",
+     "Nhà có con 8 tuần: rửa tay, tách đồ ăn (QĐ 5642/2015, mục 6)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol (ORS giảm thẩm thấu)",
+      "ham_luong": "Gói pha theo nhãn",
+      "lieu": "Uống từng ngụm sau mỗi lần đi ngoài, uống đến khi nước tiểu trong",
+      "duong": "Uống",
+      "thoi_diem": "Suốt ngày",
+      "so_ngay": "Đến khi hết tiêu chảy (2–3 ngày)",
+      "ghi_chu": "QĐ 5642/2015, mục 4.2.3a; IDSA 2017 KC 39. Thể tích cụ thể cho người lớn không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Smecta (diosmectit)",
+      "ham_luong": "Gói 3 g",
+      "lieu": "Theo nhãn",
+      "duong": "Uống",
+      "thoi_diem": "Khi tiêu chảy",
+      "so_ngay": "Tối đa vài ngày",
+      "ghi_chu": "Tùy chọn. QĐ 5642/2015, mục 4.2.3b. Liều và an toàn khi cho bú không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống oresol từng ngụm, đều trong ngày; nước tiểu trong là dấu bù đủ.",
+     "Không tự uống thuốc cầm tiêu chảy khi đang sốt; tạm ngưng thuốc giảm đau khớp tự mua, nếu cần hỏi lại bác sĩ.",
+     "Quay lại ngay nếu phân có máu hoặc nhầy, sốt cao, nôn nhiều không uống được, ít tiểu, chóng mặt, đau khu trú hố chậu phải.",
+     "Tiếp tục cho bé bú; rửa tay bằng xà phòng trước khi bế con; ăn chín, uống nước đun sôi.",
+     "Tái khám sau 3 ngày (mốc của ca, không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Tái khám sau 3 ngày. Chị đã bù oresol như hướng dẫn. Hết sốt, phân gần thành khuôn, ăn uống lại được. Sinh hiệu: HA 112/72 mmHg, mạch 76 l/p, nhiệt độ 36,8 °C, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Hà đã hết sốt, ăn uống được, nước tiểu bình thường, đi ngoài thành khuôn: nhập viện hay truyền dịch lúc này là thừa. Chị phải rời con đang bú, tốn chi phí, và đã khỏi sẽ cảm thấy bị bắt ở lại vô ích. Tiêu chuẩn nhập viện không có ở bệnh cảnh này (QĐ 5642/2015, mục 3.1, 4.2.3a: bù đường uống khi mất nước độ I).",
+    "chuyen_tuyen": "Gửi chị Hà lên tuyến trên làm cấy phân, nội soi vì từng tiêu chảy là quá tay: tiêu chảy đã khỏi trong dưới 14 ngày, nội soi không khuyến cáo ở tiêu chảy kéo dài 14–30 ngày kèm cấy phân âm (ACG 2016 KC 11, 12) và càng không cần ở người đã khỏi. Chị tốn tiền và thời gian, phải xa con đang bú, mà không tìm thấy gì để xử trí."
+   },
+   "loi_mo": "Em đỡ rồi bác sĩ. Hết sốt, đi ngoài thành khuôn rồi. Em tái khám cho yên tâm.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "112/72",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "do_hoan_toan",
+     "noi_dung": "Hết sốt từ ngày thứ ba, nay đi ngoài 1 lần/ngày, phân gần thành khuôn, ăn cháo cơm lại được. Không đau bụng, không nôn, nước tiểu vàng nhạt như thường.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ hoàn toàn"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Em uống oresol đều hai ngày đầu, nay uống nước thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ bù dịch"
+    },
+    {
+     "id": "loperamid",
+     "noi_dung": "Hôm đi trực em lấy hai viên loperamid ở khoa uống vì sợ đi ngoài giữa ca, lúc đó còn hơi sốt. Em cũng uống thêm một viên diclofenac vì đau cổ tay. Em không dám nói lần trước.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi có tự uống thuốc gì thêm kể từ lần khám trước, hoặc hỏi thuốc cầm tiêu chảy, thuốc giảm đau.",
+     "y": "Tự uống loperamid khi còn sốt và diclofenac (xử trí ẩu)"
+    },
+    {
+     "id": "con",
+     "noi_dung": "Bé ở nhà bú bình thường, không tiêu chảy, không sốt. Chồng và mẹ chồng cũng khỏi từ hôm qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Con và người nhà"
+    },
+    {
+     "id": "mau",
+     "noi_dung": "Không có phân máu, không đen, không sụt cân, không đau hố chậu phải.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu cờ đỏ"
+    },
+    {
+     "id": "hoi_gi",
+     "noi_dung": "Em muốn biết ăn uống lại thế nào, đi trực lại được chưa, và có cần xét nghiệm gì cho chắc không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều người bệnh muốn hỏi"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, môi ẩm, da véo trở lại nhanh, niêm mạc hồng.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, nhu động bình thường, không đau, không khu trú hố chậu phải.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 112/72, mạch 74; đứng 110/70, mạch 80. Không hạ huyết áp tư thế.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ua": {
+     "v": "u",
+     "r": "Tỷ trọng 1,012 · không ceton · không bạch cầu, nitrit, protein, glucose, hồng cầu.",
+     "n": "Hết cô đặc: bù dịch đủ.",
+     "bang": {
+      "u_sg": 1.012,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     }
+    },
+    "cay_phan": {
+     "n": "Không cần: tiêu chảy đã khỏi; cấy phân chỉ làm khi nặng, sốt, phân máu hoặc kéo dài > 7 ngày (ACG 2016 KC 2; IDSA 2017 KC 8). Không có tài liệu đã tải khuyên cấy phân kiểm tra khi đã khỏi."
+    },
+    "ctm": {
+     "n": "Không cần: đã khỏi, không dấu nhiễm trùng toàn thân."
+    },
+    "lyte": {
+     "n": "Không cần: ăn uống bình thường, không dấu mất nước."
+    },
+    "abdus": {
+     "n": "Không cần: bụng mềm, không đau."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng đã khỏi hoàn toàn sau bù dịch đường uống; chị đã tự uống loperamid và diclofenac nhưng may mắn không biến chứng",
+     "ok": 1,
+     "n": "Hết sốt, đi ngoài 1 lần/ngày thành khuôn, ăn uống bình thường, nước tiểu bình thường, không máu. Bệnh cải thiện nhanh khi điều trị kịp thời (QĐ 5642/2015, mục 5)."
+    },
+    {
+     "t": "Tiêu chảy kéo dài hoặc bệnh đại tràng khác",
+     "n": "Mới 5 ngày bệnh, đã khỏi; kéo dài tính từ 14–30 ngày (ACG 2016 Hình 1, KC 11, 12). Chẩn đoán phân biệt viêm đại tràng mạn, ung thư đại tràng chỉ đặt ra khi kéo dài (QĐ 5642/2015, mục 3.5)."
+    },
+    {
+     "t": "Viêm ruột thừa, lỵ trực trùng",
+     "n": "Không đau hố chậu phải, không phân máu; diễn tiến tự khỏi nên không còn nghi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi bằng tiêu chí: hết sốt, đi ngoài thành khuôn ≤ 1–2 lần/ngày, ăn uống bình thường, nước tiểu bình thường, không đau bụng; ngưng oresol, không cần xét nghiệm kiểm tra",
+     "v": "c",
+     "n": "Bệnh cải thiện nhanh khi điều trị đúng (QĐ 5642/2015, mục 5); xét nghiệm huyết thanh/nội soi không khuyến cáo khi triệu chứng kéo dài 14–30 ngày kèm cấy phân âm (ACG 2016 KC 11, 12). Không có tài liệu đã tải yêu cầu xét nghiệm kiểm tra khi đã khỏi; tiêu chí cụ thể là của ca."
+    },
+    {
+     "t": "Hỏi lại thuốc tự dùng từ lần khám trước; nói rõ loperamid khi còn sốt và diclofenac khi mất nước không phải xử trí đúng, may mắn không sao không hợp thức hóa; ghi nhận, không trách",
+     "v": "c",
+     "n": "Tránh loperamid khi tiêu chảy có sốt (IDSA 2017 KC 47; QĐ 5642/2015, mục 4.2.3b). Nguy cơ cụ thể của NSAID khi mất nước không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn khi nào quay lại: tiêu chảy tái phát, phân máu, sốt, kéo dài quá 14 ngày thì làm cấy phân và xét nghiệm",
+     "v": "c",
+     "n": "Tiêu chảy kéo dài 14–30 ngày cần cấy và/hoặc xét nghiệm không dựa vào nuôi cấy (ACG 2016 Hình 1, KC 2); tránh kháng sinh theo kinh nghiệm khi ≥ 14 ngày (IDSA 2017 KC 36)."
+    },
+    {
+     "t": "Cho phép đi trực lại khi hết tiêu chảy; rửa tay trước khi vào ca và bế con; điều dưỡng giữ vệ sinh tay đặc biệt",
+     "v": "c",
+     "n": "Rửa tay trước ăn và sau vệ sinh (QĐ 5642/2015, mục 6). Thời gian nghỉ làm của nhân viên y tế sau tiêu chảy không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cấy phân hoặc xét nghiệm máu cho yên tâm",
+     "v": "w",
+     "n": "Đã khỏi, không dấu báo động (ACG 2016 KC 2; IDSA 2017 KC 8). Tốn kém, không đổi xử trí."
+    },
+    {
+     "t": "Cho kháng sinh dự phòng tái phát",
+     "v": "w",
+     "n": "Không dùng kháng sinh thường quy (ACG 2016 KC 9, 10; IDSA 2017 KC 36)."
+    },
+    {
+     "t": "Giữ lại hoặc nhập viện theo dõi",
+     "v": "w",
+     "n": "Đã khỏi, không tiêu chuẩn (QĐ 5642/2015, mục 3.1, 5)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng đã khỏi sau 5 ngày",
+     "Không mất nước, không dấu báo động",
+     "Đã tự dùng loperamid và diclofenac (xử trí ẩu), không biến chứng"
+    ],
+    "phan_tich_chan_doan": [
+     "Diễn tiến đúng như đáp án lượt 1: hết sốt ngày 3, phân thành khuôn, ăn uống lại; nước tiểu hết cô đặc.",
+     "Hỏi thuốc đã dùng từ lần trước, kể cả thuốc lấy ở khoa, vì người đòi truyền dịch có xu hướng tự điều trị.",
+     "Không có dấu kéo dài hoặc máu: không cần thăm dò thêm."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng oresol khi hết mất nước; ăn uống bình thường.",
+     "Nói rõ vì sao loperamid khi sốt không đúng (IDSA 2017 KC 47) dù không biến chứng.",
+     "Cờ đỏ và mốc 14 ngày (ACG 2016 Hình 1; IDSA 2017 KC 36).",
+     "Giữ vệ sinh tay vì làm việc ở bệnh viện và có con nhỏ (QĐ 5642/2015, mục 6)."
+    ],
+    "don_thuoc": [],
+    "dan_do": [
+     "Không còn cần oresol; ăn uống bình thường.",
+     "Không tự uống loperamid hay kháng sinh khi tiêu chảy.",
+     "Quay lại nếu tiêu chảy tái phát, phân máu, sốt, hoặc kéo dài quá 14 ngày (ACG 2016 Hình 1).",
+     "Đi trực lại khi hết tiêu chảy; rửa tay trước ca và trước khi bế con."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hà khỏi hoàn toàn sau 5 ngày và đi trực lại. Chị đã bù ORS đúng hướng dẫn, nhưng ở ngày thứ hai chị lén uống loperamid khi còn sốt và thêm một viên diclofenac khi mất nước. Chị không biến chứng: đó là may mắn chứ không hợp thức hóa việc làm đó. Chị không cấy phân nên không biết tác nhân.",
+ "nhieu": [
+  "Đòi truyền dịch: xử lý bằng tiêu chí cụ thể (uống được, mạch 88, HA 110/70, nước tiểu còn) thay vì từ chối suông; hứa truyền nếu mất nước độ 2 hoặc không uống được (QĐ 5642/2015, mục 4.2.3a).",
+  "Từ chối xét nghiệm: tôn trọng, giải thích, ghi hồ sơ, phương án B (khám, nước tiểu, theo dõi, hẹn lại sớm).",
+  "Nghi ngờ tác dụng phụ thuốc: là lý do thật, chỉ lộ khi hỏi chị lo gì.",
+  "Giấu việc tự uống loperamid và diclofenac ở lượt 2.",
+  "Sau sinh, cho con bú: tách đồ ăn, vệ sinh tay; mức an toàn thuốc khi cho bú không có trong tài liệu đã tải."
+ ],
+ "bai_hoc_bien": [
+  "Mất nước độ 1 uống được: ORS, không truyền; dùng tiêu chí để thuyết phục người bệnh là điều dưỡng (QĐ 5642/2015, mục 3.1, 4.2.3a; IDSA 2017 KC 39).",
+  "Bệnh nhân từ chối xét nghiệm: không ép, ghi hồ sơ, có phương án B, dặn cờ đỏ.",
+  "Loại tả, lỵ, viêm ruột thừa bằng lâm sàng khi không có xét nghiệm (QĐ 5642/2015, mục 3.2; WSES 2020, Statement 1.2).",
+  "Mâu thuẫn kháng sinh: ACG/IDSA không thường quy, QĐ 5642/2015 cân nhắc khi sốt: ghi cả hai.",
+  "Xử trí ẩu mà may mắn không sao không hợp thức hóa quy trình: loperamid khi sốt.",
+  "Khỏi hoàn toàn: tiêu chí khỏi, ngưng ORS, không cần xét nghiệm kiểm tra; cấy phân khi kéo dài ≥ 14 ngày (ACG 2016 Hình 1)."
+ ],
+ "diem_nho": [
+  "Mất nước độ 1: mạch < 100, da bình thường, nước tiểu ít; độ 2 mạch 100–120, HA < 90 (QĐ 5642/2015, mục 3.1).",
+  "ORS đầu tay mất nước nhẹ – vừa; IV khi độ 2 trở lên hoặc không uống được (QĐ 5642/2015, mục 4.2.3a; IDSA 2017 KC 39, 41, 42).",
+  "Tránh loperamid khi sốt (IDSA 2017 KC 47); không lạm dụng thuốc cầm tiêu chảy (QĐ 5642/2015, mục 4.2.3b).",
+  "Cấy phân khi sốt, phân máu nhầy, đau quặn nhiều (IDSA 2017 KC 8)."
+ ],
+ "nguon": [
+  "BYT QĐ 5642/2015 – TL-0038 – Bệnh tiêu chảy do vi khuẩn mục 2–6",
+  "IDSA 2017 – TL-0230 – KC 3, 8, 36, 39, 41, 42, 47, 49",
+  "ACG 2016 – TL-0233 – KC 2, 5, 6, 8–12, Hình 1",
+  "WSES 2020 – TL-0263 – Statement 1.2, 1.3",
+  "TL-0176 (QĐ 4178/2007, tả): không đọc nguyên văn; mô tả tả lấy từ QĐ 5642/2015 mục 3.2"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-18: viết bản 1. Đã đọc TL-0038 mục 3–6, TL-0230 KC 3, 8, 36, 39–50, TL-0233 KC 1–12 và Hình 1, TL-0263 Statement 1.2–1.3.",
+  "Không có trong tài liệu đã tải: thể tích ORS người lớn, liều smecta, an toàn thuốc/NSAID khi cho con bú, quan hệ NSAID – tiêu chảy, mốc tái khám 3 ngày, mẫu hồ sơ từ chối xét nghiệm.",
+  "Mâu thuẫn mới: kháng sinh theo kinh nghiệm tiêu chảy cấp người lớn; probiotic; loperamid khi sốt (chưa có mục trong sổ)."
+ ]
+}
