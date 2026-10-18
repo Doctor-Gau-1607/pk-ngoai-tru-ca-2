@@ -1,0 +1,945 @@
+{
+ "ma_ca": "TH-0936",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_tri_noi_nguoi_dung_khang_dong",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trĩ",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư trực tràng",
+   "Nứt hậu môn"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Thợ sơn",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe"
+ },
+ "benh_nhan": {
+  "ten": "Bùi Thị Dung",
+  "tuoi": 52,
+  "gioi": "Nữ",
+  "nghe": "Thợ sơn",
+  "can_nang": 58,
+  "chieu_cao": 155,
+  "xung_ho": "Bác sĩ gọi bà là 'cô'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói to, nhanh, hay đùa 'thợ sơn ai chẳng bị'. Ngại nói chuyện hậu môn, sợ giấy khám ghi bệnh thì mất hợp đồng nên chỉ muốn 'hết máu cho nhanh'. Làm theo công trình, bận và hay nhìn đồng hồ. Biết mình có 'thuốc loãng máu' nhưng không nghĩ nó liên quan chảy máu.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: thấy ra máu, bà mua viên 'trĩ' (diosmin–hesperidin 500 mg) uống 2 viên/ngày, và vì đau lưng do khuân thùng sơn nên uống thêm ibuprofen 400 mg vài viên mỗi ngày. Máu bớt nên bà cho là 'sắp hết'. Hỏi chung 'đang dùng thuốc gì' bà chỉ kể thuốc tim mạch; chỉ khai khi bác sĩ hỏi đã tự mua thuốc trĩ chưa, uống gì cho đau lưng.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a76",
+   "toc": "#5a4c44",
+   "kieuToc": "buoc",
+   "ao": "#8d9aa6",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "binh"
+  }
+ },
+ "ly_do_kham": "Đi cầu ra máu ba tuần, muốn có thuốc cho hết nhanh",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT. Nội soi dạ dày và nội soi đại tràng làm ở bệnh viện tỉnh, cách 30 km, thường hẹn trong khoảng 10 ngày."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Bùi Thị Dung, 52 tuổi, thợ sơn. Đến khám vì đi cầu ra máu đỏ khoảng ba tuần, muốn có thuốc cho hết nhanh. Bà khai có tăng huyết áp và đang uống thuốc tim mạch. Sinh hiệu: mạch 84 l/p, HA 132/80 mmHg, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%. Cân nặng 58 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Gửi bà Dung đi nội soi ngay hôm nay là quá tay: mạch 84 l/p, HA 132/80 mmHg, Hb 108 g/L, không đau bụng, không phân đen; nội soi dạ dày và đại tràng ở phụ nữ mãn kinh thiếu máu thiếu sắt là thăm dò theo hẹn, không phải cấp cứu (BSG 2021 khuyến cáo 11).",
+    "nhap_vien": "Nhập viện theo dõi là không cần: bà không choáng, không chảy máu nhiều, Hb 108 g/L; thiếu máu thiếu sắt nhẹ điều trị ngoại trú được (BSG 2021 khuyến cáo 17, 18)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đi cầu ra máu ba tuần nay, chắc là trĩ thôi, thợ sơn như tôi ai chẳng bị. Bác sĩ cho tôi thuốc cho hết nhanh nhé, tôi đang bận lắm.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "132/80",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi cầu ra máu đỏ tươi khoảng ba tuần nay, muốn có thuốc cho hết nhanh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Máu đỏ tươi nhỏ giọt vào bồn cầu và dính giấy, không lẫn trong phân; một tuần nay hầu như lần nào cũng có, mỗi lần vài giọt. Có búi mềm lòi ra khi rặn rồi tự co lại. Rát nhẹ, không đau nhói khi đi cầu, không cục cứng đau ở rìa hậu môn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm chảy máu: nghĩ trĩ, loại nứt hậu môn"
+    },
+    {
+     "id": "tao_bon",
+     "noi_dung": "Hai tháng nay đi cầu khó hơn: 2–3 ngày một lần, phân cứng vón, rặn nhiều, ngồi bô 10–15 phút (trước đó mỗi ngày một lần). Không tiêu chảy, không phân nhỏ dẹt, không đau bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Táo bón mới"
+    },
+    {
+     "id": "thoi_quen_lam_viec",
+     "noi_dung": "Làm trên giàn giáo cả ngày nên hay nhịn đi cầu. Uống khoảng 1 lít nước mỗi ngày, ăn cơm hộp công trình, ít rau. Khuân thùng sơn nặng nên đau lưng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố thúc đẩy: nhịn đi cầu, ít nước, ít xơ"
+    },
+    {
+     "id": "met_thieu_mau",
+     "noi_dung": "Dạo này mệt, leo giàn giáo dễ hụt hơi, đứng lên nhanh hơi choáng. Cân nặng 58 kg, sáu tháng nay không đổi. Không sốt, không đau bụng, không đi cầu phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng thiếu máu; không sụt cân"
+    },
+    {
+     "id": "benh_nen_thuoc",
+     "noi_dung": "Rung nhĩ kịch phát phát hiện hai năm trước sau một cơn yếu tay phải thoáng qua (đã hồi phục hoàn toàn). Tăng huyết áp sáu năm, amlodipin 5 mg sáng. Trước uống warfarin nhưng INR lúc cao lúc thấp, ba tuần trước bác sĩ tim mạch đổi sang apixaban 5 mg ngày 2 lần. Bà gọi là 'thuốc loãng máu'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền và thuốc kháng đông vừa đổi"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Năm ngày nay tự mua viên 'trĩ' diosmin–hesperidin 500 mg uống 2 viên/ngày, thấy máu bớt. Vì đau lưng nên cũng uống ibuprofen 400 mg khoảng 2–3 viên mỗi ngày trong năm ngày đó. Không dùng kem hay thuốc đặt.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' bà chỉ kể amlodipin và thuốc loãng máu.",
+     "k": 1,
+     "y": "Tự dùng thuốc: viên trĩ và NSAID cùng thuốc kháng đông"
+    },
+    {
+     "id": "mon_kinh_noi_soi",
+     "noi_dung": "Mãn kinh từ 50 tuổi, không ra huyết âm đạo. Chưa từng nội soi đại tràng. Gia đình không ai bị ung thư đại tràng hay polyp. Không hút thuốc, không rượu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mãn kinh; chưa sàng lọc đại tràng; tiền sử gia đình"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Tuần sau nhà thầu bắt buộc có giấy chứng nhận sức khỏe mới cho lên giàn giáo, không có là mất hợp đồng. Bà sợ khám ra bệnh thì bị loại nên muốn hết máu trước và muốn 'khám cho có, ký giấy luôn'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao gấp, hỏi công việc hoặc nhà thầu, hoặc khi bác sĩ nói chưa chắc chỉ là trĩ.",
+     "k": 1,
+     "y": "Động cơ thật: giấy chứng nhận sức khỏe"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt. Niêm mạc mắt và lòng bàn tay nhợt nhẹ, không vàng da, không phù. Không hạch bẹn.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau, không khối, gan lách không to.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Nằm nghiêng trái. Da quanh hậu môn không nứt, không rò, không cục đau. Khi rặn, một búi mềm sa ra rồi tự co. Thăm trực tràng: trương lực cơ thắt bình thường, không đau, không khối hay polyp ở đoạn với tới, phân cứng trong bóng trực tràng, găng dính ít máu đỏ tươi.",
+     "k": 1,
+     "hien": "Da quanh hậu môn không nứt, không cục đau. Khi rặn có búi mềm sa ra rồi tự co. Trương lực cơ thắt bình thường, không đau khi thăm."
+    },
+    "soi_hau_mon": {
+     "a": "Ống soi nhựa có đèn. Hai búi trĩ nội ở 7 giờ và 11 giờ, niêm mạc sung huyết; búi 11 giờ có điểm rỉ máu tươi. Búi sa có nếp xuyên tâm, không phải nếp tròn của sa trực tràng. Đường lược không vết nứt. Trực tràng thấp hồng, không loét, không khối. Goligher độ II (sa dưới đường lược khi đi cầu, tự co).",
+     "k": 1,
+     "hien": "Có hai búi ở 7 giờ và 11 giờ, một điểm rỉ máu tươi. Nhìn thấy đoạn thấp ống hậu môn, không vết nứt, không khối."
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 108 g/L · MCV 76 fL · BC 7,1 G/L · TC 402 G/L",
+     "bang": {
+      "wbc": 7.1,
+      "rbc": 4.52,
+      "hgb": 108,
+      "hct": 0.343,
+      "mcv": 76.0,
+      "mch": 23.9,
+      "mchc": 315,
+      "rdw": 16.4,
+      "plt": 402
+     },
+     "n": "Hb 108 g/L dưới 120 g/L ở nữ không mang thai; hồng cầu nhỏ, RDW cao gợi thiếu sắt (BSG 2021 mục Definitions). Có thiếu máu thì đổi hẳn mức thăm dò."
+    },
+    "ferritin_sat": {
+     "v": "e",
+     "r": "Ferritin 9 ng/mL · sắt huyết thanh 5 µmol/L · bão hòa transferrin 8%",
+     "ab": 1,
+     "n": "Xác nhận thiếu sắt trước khi thăm dò (BSG 2021 khuyến cáo 4); ferritin dưới 15 µg/L là hết dự trữ sắt (mục Iron deficiency)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,6 mmol/L · Creatinin 68 µmol/L · eGFR 90 mL/ph/1,73m²",
+     "n": "Chọn liều DOAC: apixaban giảm liều chỉ khi đủ 2 trong 3 tiêu chí (tuổi ≥ 80, cân nặng ≤ 60 kg, creatinin ≥ 133); bà chỉ có 1 (ESC 2024 Bảng 11)."
+    },
+    "fit": {
+     "v": "a",
+     "r": "FIT định lượng 62 µg Hb/g phân (ngưỡng 10 µg Hb/g)",
+     "ab": 1,
+     "n": "Không bắt buộc. ACPGBI/BSG 2022 khuyến cáo 12 gợi ý FIT ở thiếu máu thiếu sắt để định mức khẩn; BSG 2021 khuyến cáo 10 cho rằng chưa đủ cơ sở."
+    },
+    "noi_soi_dt": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi đại tràng; làm ở bệnh viện tỉnh cách 30 km, hẹn trong khoảng 10 ngày.)",
+     "thay_the": "fit",
+     "n": "Có chỉ định: phụ nữ mãn kinh thiếu máu thiếu sắt (BSG 2021 khuyến cáo 11); chảy máu hậu môn không tự quy cho trĩ, kèm táo bón mới (ASCRS 2024 khuyến cáo 2); nên cân nhắc khi chảy máu trực tràng (AGA 2026 BPA 1)."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi dạ dày; làm cùng buổi nội soi đại tràng ở bệnh viện tỉnh.)",
+     "n": "Thiếu máu thiếu sắt sau mãn kinh: soi dạ dày và đại tràng đầu tay (BSG 2021 khuyến cáo 11)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trĩ nội độ II (Goligher) đang rỉ máu, kèm thiếu máu thiếu sắt nhẹ, trên nền táo bón mới 2 tháng ở phụ nữ mãn kinh 52 tuổi chưa nội soi đại tràng, đang dùng apixaban",
+     "ok": 1,
+     "n": "Máu đỏ tươi dính giấy, không đau nhói, búi sa tự co, soi hậu môn thấy hai búi và điểm rỉ máu (ASCRS 2024 khuyến cáo 1; AGA 2026 BPA 1, Bảng 1)."
+    },
+    {
+     "t": "Apixaban và ibuprofen tự mua làm chảy máu trĩ nhiều hơn",
+     "ok": 1,
+     "n": "NSAID là yếu tố nguy cơ chảy máu sửa được ở người dùng kháng đông (ESC 2024 Hình 10). Không phải nguyên nhân gốc: nguồn chảy máu là trĩ nhìn thấy qua ống soi."
+    },
+    {
+     "t": "Ung thư trực tràng / đại tràng",
+     "n": "Chưa loại trừ: thăm trực tràng và soi hậu môn không khối nhưng chỉ thấy đoạn thấp; không sụt cân, không khối bụng."
+    },
+    {
+     "t": "Nứt hậu môn",
+     "n": "Không đau nhói khi đi cầu, thăm trực tràng không đau, soi không vết nứt: loại trừ (AGA 2026 BPA 1: đau nhói khi đi cầu nghĩ nứt hậu môn; nứt và trĩ cùng tồn tại tới 20%)."
+    },
+    {
+     "t": "Sa trực tràng; nguyên nhân tiêu hóa trên hoặc celiac gây thiếu sắt",
+     "n": "Búi có nếp xuyên tâm, không có nếp tròn của sa trực tràng (AGA 2026 phần BPA 1). Không đau thượng vị, tTG IgA âm tính; vẫn soi dạ dày cùng buổi (BSG 2021 khuyến cáo 8, 11)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: máu ra từ trĩ nội độ II nhìn thấy qua ống soi, nhưng chưa kết luận chỉ do trĩ vì bà 52 tuổi chưa nội soi đại tràng, táo bón mới và đã thiếu máu thiếu sắt",
+     "v": "c",
+     "n": "Chảy máu không tự quy cho trĩ, là cơ hội bỏ sót ung thư hay gặp nhất; táo bón mới là chỉ điểm nội soi (ASCRS 2024 khuyến cáo 2)."
+    },
+    {
+     "t": "Viết giấy giới thiệu nội soi cả dạ dày và đại tràng ở bệnh viện tỉnh theo hẹn (không cấp cứu); ghi thiếu máu thiếu sắt, đang dùng apixaban để nơi nội soi hội chẩn bác sĩ tim mạch",
+     "v": "c",
+     "n": "Phụ nữ mãn kinh thiếu máu thiếu sắt: soi dạ dày và đại tràng đầu tay (BSG 2021 khuyến cáo 11)."
+    },
+    {
+     "t": "Apixaban: không tự ngưng, không bảo bà ngưng hẳn; gọi bác sĩ tim mạch trong ngày để cùng quyết định tiếp tục giữ nguyên, bỏ NSAID và theo dõi, hoặc hoãn 1–2 liều rồi dùng lại",
+     "v": "c",
+     "n": "Ghi cả hai cách (sổ mâu thuẫn HH-0692, mục 2): ESC 2024 mục 6.7.1/Hình 10 – yếu tố nguy cơ chảy máu hiếm khi là lý do rút thuốc chống đông; mục 6.7.2/Hình 11 – chảy máu nhẹ ở người dùng DOAC: tạm ngưng và điều trị nguyên nhân, hoãn DOAC 1–2 liều."
+    },
+    {
+     "t": "Ngưng ibuprofen và thuốc chống viêm tự mua; đau lưng dùng paracetamol 500 mg, tổng dưới 3 g/ngày",
+     "v": "c",
+     "n": "Giảm đau thay thế NSAID (ESC 2024 Hình 10)."
+    },
+    {
+     "t": "Tăng chất xơ 20–30 g/ngày, uống nước đều, không rặn, ngồi bô không quá 3 phút, không nhịn đi cầu khi làm việc",
+     "v": "c",
+     "n": "Điều trị đầu tay (ASCRS 2024 khuyến cáo 3, mạnh); 20–30 g và 3 phút (AGA 2026 BPA 2)."
+    },
+    {
+     "t": "Thuốc làm mềm phân: macrogol (PEG) 17 g/ngày, hoặc lactulose 15 g/ngày, hoặc psyllium",
+     "v": "c",
+     "n": "PEG đầu tay (AGA-ACG 2023 khuyến cáo 2, mạnh); 17 g/ngày, lactulose 15 g/ngày (WGO 2025 Bảng 9)."
+    },
+    {
+     "t": "Viên sắt 1 viên/ngày, bắt đầu SAU nội soi đại tràng nếu lịch nội soi trong 2 tuần (lịch xa hơn thì bắt đầu ngay); dặn sắt làm phân sẫm màu",
+     "v": "c",
+     "n": "Không trì hoãn sắt trừ khi nội soi đại tràng sắp tới (BSG 2021 khuyến cáo 17); 1 viên/ngày sắt sulfat, fumarat hoặc gluconat (khuyến cáo 18); nội soi trong 2 tuần thì hoãn sắt vì sắt nhuộm phân và gây táo bón (mục Oral IRT)."
+    },
+    {
+     "t": "Chưa cấp giấy chứng nhận sức khỏe hôm nay; ghi đủ tiền sử, bệnh tiêu hóa và thuốc đang dùng; hẹn hoàn tất khi có kết quả nội soi",
+     "v": "c",
+     "n": "Khám phải đầy đủ nội dung, có thể chuyển chuyên khoa hoặc chỉ định cận lâm sàng để xác định và phân loại sức khỏe (TT 25/2026/TT-BYT sửa Điều 36 khoản 6; Phụ lục XXIV Mẫu số 03: mục 16 'bệnh tiêu hóa', câu 3a 'bệnh đang điều trị và thuốc')."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay bằng văn bản: máu thành dòng hay cục, chóng mặt/ngất, mệt hụt hơi tăng, phân đen, đau bụng mới, cục cứng đau ở hậu môn, không đi cầu được, sụt cân; hẹn tái khám sau 3 tuần mang kết quả nội soi",
+     "v": "c",
+     "n": "Lưới an toàn (ACPGBI/BSG 2022 khuyến cáo 8, 10); cục đau không đẩy vào được là trĩ ngoại tắc mạch (ASCRS 2024 khuyến cáo 1)."
+    },
+    {
+     "t": "Giữ ibuprofen cùng apixaban vì đau lưng",
+     "v": "w",
+     "n": "NSAID là yếu tố nguy cơ chảy máu sửa được (ESC 2024 Hình 10); người tăng huyết áp tránh NSAID nếu có thể (QĐ 361/2014 Phụ lục NSAID mục 3.3)."
+    },
+    {
+     "t": "Bảo bà ngưng hẳn apixaban để cầm máu",
+     "v": "w",
+     "n": "Yếu tố nguy cơ chảy máu hiếm khi là lý do rút thuốc chống đông (ESC 2024 mục 6.7.1); bà có đột quỵ thoáng qua, CHA₂DS₂-VA 3."
+    },
+    {
+     "t": "Thắt vòng cao su, chích xơ hoặc đông hồng ngoại ngay hôm nay",
+     "v": "w",
+     "n": "Chưa loại trừ nguyên nhân khác, bà đang dùng apixaban và ibuprofen: AGA 2026 (tr. 1777) ưu tiên đông hồng ngoại ở người dùng kháng đông; ASCRS 2024 khuyến cáo 5 nêu nguy cơ chảy máu nhiều sau thắt."
+    },
+    {
+     "t": "Nói chắc là trĩ lành tính, không cần nội soi, cho thuốc về và không hẹn lại",
+     "v": "h",
+     "n": "Chảy máu quy cho trĩ là cơ hội bỏ sót ung thư hay gặp nhất (ASCRS 2024 khuyến cáo 2); thiếu máu thiếu sắt sau mãn kinh phải thăm dò hai đầu (BSG 2021 khuyến cáo 11)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trĩ nội độ II (Goligher) đang rỉ máu, sa búi khi rặn rồi tự co",
+     "Thiếu máu thiếu sắt nhẹ (Hb 108 g/L, MCV 76 fL, ferritin 9 ng/mL), chưa thể quy hoàn toàn cho trĩ khi chưa nội soi",
+     "Táo bón mới 2 tháng; yếu tố làm nặng: apixaban, ibuprofen tự mua, ít nước, nhịn đi cầu khi làm trên giàn giáo",
+     "Chưa loại trừ ung thư trực tràng/đại tràng và tổn thương dạ dày–tá tràng: có chỉ định nội soi hai đầu",
+     "Nền: rung nhĩ kịch phát, đột quỵ thoáng qua cách 2 năm, tăng huyết áp; apixaban 5 mg × 2 lần/ngày (mới đổi từ warfarin), amlodipin 5 mg"
+    ],
+    "phan_tich_chan_doan": [
+     "Trĩ nội độ II: máu đỏ tươi dính giấy, không đau nhói; búi sa tự co là Goligher độ II (AGA 2026 Bảng 1); soi hậu môn thấy hai búi sung huyết, điểm rỉ máu, nếp xuyên tâm (AGA 2026 phần BPA 1).",
+     "Vì sao không dừng ở trĩ: chảy máu không tự quy cho trĩ; táo bón mới là chỉ điểm nội soi (ASCRS 2024 khuyến cáo 2).",
+     "Thiếu máu thiếu sắt: Hb dưới 120 g/L, ferritin dưới 15 µg/L (BSG 2021 mục Definitions). Phụ nữ mãn kinh: soi dạ dày và đại tràng đầu tay; tuổi, giới, Hb, MCV dự báo nguy cơ ung thư (khuyến cáo 9, 11).",
+     "Kháng đông: CHA₂DS₂-VA 3 (ESC 2024 Bảng 10) nên có chỉ định chống đông; đổi warfarin sang DOAC vì INR không ổn định là đúng (Bảng khuyến cáo 7, I-B)."
+    ],
+    "phan_tich_xu_tri": [
+     "Thứ tự đúng: hỏi (thời gian, đau, táo bón mới, nghề, thuốc kể cả thuốc tự mua) → khám (toàn thân, bụng, thăm trực tràng, soi hậu môn) → công thức máu, ferritin → chẩn đoán trĩ nhưng chưa dừng ở trĩ → giấy nội soi hai đầu theo hẹn, không cấp cứu.",
+     "Apixaban: ghi cả hai cách (sổ HH-0692, mục 2): tiếp tục, bỏ NSAID, theo dõi (ESC 2024 mục 6.7.1, Hình 10) hoặc hoãn 1–2 liều rồi dùng lại (mục 6.7.2, Hình 11); khác nhau vì 6.7.1 nói nguy cơ chảy máu chung, Hình 11 nói chảy máu đang xảy ra.",
+     "Sắt: sau nội soi đại tràng nếu lịch trong 2 tuần (BSG 2021 mục Oral IRT, khuyến cáo 17); 1 viên/ngày (khuyến cáo 18); kiểm Hb trong 4 tuần và dùng tiếp khoảng 3 tháng sau khi Hb bình thường (khuyến cáo 20).",
+     "Trĩ: chất xơ, nước, không rặn (ASCRS 2024 khuyến cáo 3; AGA 2026 BPA 2); thuốc tại chỗ ít bằng chứng (BPA 3).",
+     "Giấy chứng nhận sức khỏe: không cấp 'bình thường' hôm nay; ghi trung thực tiền sử, thuốc, bệnh tiêu hóa (TT 25/2026/TT-BYT, Phụ lục XXIV Mẫu số 03), hẹn hoàn tất sau nội soi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Macrogol (PEG) dạng gói",
+      "ham_luong": "Theo chế phẩm ở Việt Nam (không có trong tài liệu đã tải)",
+      "lieu": "17 g mỗi ngày (hoặc lactulose 15 g/ngày, hoặc psyllium)",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, pha đủ nước",
+      "so_ngay": "Đến lúc tái khám; chỉnh theo độ mềm của phân",
+      "ghi_chu": "AGA-ACG 2023 khuyến cáo 2; WGO 2025 Bảng 9."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên mỗi lần, cách 6–8 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau lưng, sau ăn",
+      "so_ngay": "Khi cần; tổng dưới 3 g/ngày",
+      "ghi_chu": "Thay ibuprofen. QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1; Phụ lục NSAID mục 3.3."
+     },
+     {
+      "thuoc": "Sắt sulfat",
+      "ham_luong": "200 mg (65 mg sắt nguyên tố)",
+      "lieu": "1 viên mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Bắt đầu sau khi nội soi đại tràng xong (nếu lịch trong 2 tuần)",
+      "so_ngay": "Kiểm Hb sau 4 tuần; dùng tiếp khoảng 3 tháng sau khi Hb bình thường",
+      "ghi_chu": "BSG 2021 khuyến cáo 17, 18, 20; Bảng 3. Phân sẫm màu, dễ táo bón."
+     },
+     {
+      "thuoc": "Apixaban (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 2 lần/ngày, giữ nguyên; hoãn 1–2 liều hay không do bác sĩ tim mạch quyết",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối như cũ",
+      "so_ngay": "Dùng tiếp; hoãn quanh nội soi theo hội chẩn",
+      "ghi_chu": "Giữ nguyên, bà chỉ có 1/3 tiêu chí giảm liều (ESC 2024 Bảng 11); mục 6.7.1/6.7.2 (sổ HH-0692, mục 2)."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Giữ nguyên thuốc nền đang dùng; HA 132/80 mmHg."
+     }
+    ],
+    "dan_do": [
+     "Cô bị trĩ độ II, máu từ trĩ ra thật. Nhưng cô 52 tuổi, mới táo bón hai tháng và đã thiếu máu thiếu sắt, nên tôi chưa dám nói 'chỉ là trĩ'. Cô cần nội soi dạ dày và đại tràng ở bệnh viện tỉnh, theo hẹn, không phải cấp cứu (BSG 2021 khuyến cáo 11; ASCRS 2024 khuyến cáo 2).",
+     "Cô KHÔNG tự bỏ thuốc loãng máu. Tôi sẽ nhắn bác sĩ tim mạch; họ và bác sĩ nội soi quyết có hoãn một hai liều trước nội soi không (ESC 2024 mục 6.7.1, 6.7.2). Cô từng đột quỵ thoáng qua nên ngưng thuốc là rủi ro.",
+     "Ngưng ibuprofen và thuốc 'xương khớp' tự mua. Đau lưng dùng paracetamol, không quá 3 g mỗi ngày. Muốn dùng thuốc gì, hỏi bác sĩ trước vì cô đang dùng thuốc loãng máu (ESC 2024 Hình 10).",
+     "Ăn thêm rau, trái cây, yến mạch; uống nước đều, mang chai nước lên giàn giáo; xuống đi cầu khi buồn, không nhịn; ngồi bô không quá 3 phút, không rặn; uống gói macrogol mỗi sáng (AGA 2026 BPA 2). Viên sắt uống sau khi nội soi đại tràng xong; phân sẽ sẫm màu do sắt (BSG 2021 mục Oral IRT).",
+     "Giấy chứng nhận sức khỏe: tôi chưa ký hôm nay, cô cần khám xong. Cô cứ nói thật bệnh và thuốc đang dùng.",
+     "Quay lại ngay hoặc đi cấp cứu nếu: máu chảy thành dòng hay ra cục, chóng mặt, ngất, mệt hụt hơi tăng, đau bụng mới, cục cứng đau ở hậu môn, không đi cầu được, phân đen (ACPGBI/BSG 2022 khuyến cáo 8, 10). Tái khám sau 3 tuần, mang kết quả nội soi."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau 3 tuần. Lần trước đã giải thích trĩ nội độ II nhưng chưa kết luận chỉ do trĩ vì bà thiếu máu thiếu sắt, cho giấy giới thiệu nội soi dạ dày và đại tràng, ngưng ibuprofen, kê macrogol và paracetamol, hẹn viên sắt sau nội soi, dặn không tự ngưng apixaban. Bà nói máu 'đỡ nhiều nhưng chưa hết'. Sinh hiệu: mạch 78 l/p, HA 126/78 mmHg, nhiệt độ 36,6 °C, nhịp thở 16 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bà Dung đi cắt trĩ hay làm thủ thuật ngay hôm nay là quá tay: trĩ nội độ II, máu đã giảm từ hầu như mọi lần còn 2–3 lần mỗi tuần, Hb tăng từ 108 lên 116 g/L, bà mới thật sự bỏ ibuprofen và dùng macrogol được ba tuần.",
+    "nhap_vien": "Nhập viện để truyền sắt hay truyền máu là không cần: Hb 116 g/L, mạch 78 l/p, HA 126/78 mmHg."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đi nội soi rồi, cầm kết quả đây. Máu đỡ nhiều nhưng vẫn còn dính giấy. Phân thì mấy hôm nay đen thui, tôi sợ chảy máu dạ dày quá.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "126/78",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn, cầm kết quả nội soi. Máu còn dính giấy vài lần mỗi tuần; phân đen mấy hôm nay làm bà lo.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám"
+    },
+    {
+     "id": "noi_soi_da_lam",
+     "noi_dung": "Ngày thứ 11 sau lần khám đầu, bà nội soi dạ dày và đại tràng cùng buổi ở bệnh viện tỉnh, có cầm phiếu kết quả. Theo hẹn của bác sĩ tim mạch, bà ngưng apixaban 2 ngày trước nội soi và uống lại sáng hôm sau; không chảy máu nhiều sau nội soi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã nội soi hai đầu; apixaban quanh nội soi"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Máu còn dính giấy khoảng 2–3 lần mỗi tuần, ít hơn nhiều (trước hầu như lần nào cũng có). Búi mềm vẫn lòi ra khi rặn rồi tự co. Đi cầu cách ngày, phân mềm hơn, ngồi bô khoảng 5 phút. Không đau nhói hậu môn, không sốt. Bớt mệt, vẫn hơi hụt hơi khi leo giàn giáo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến: đỡ một phần"
+    },
+    {
+     "id": "sat_phan_den",
+     "noi_dung": "Ngay sau nội soi bà uống viên sắt 1 viên mỗi ngày. Từ đó phân sẫm gần đen nhưng thành khuôn, không dính nhầy, không hôi, không chóng mặt, không đau bụng. Bà lo 'phân đen là chảy máu dạ dày' và định tự bỏ sắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân sẫm do sắt"
+    },
+    {
+     "id": "ibuprofen_van",
+     "noi_dung": "Paracetamol 'không ăn thua' với đau lưng khi khuân thùng sơn, nên tuần qua bà vẫn uống ibuprofen 400 mg khoảng 3 lần (mỗi lần 1 viên) bằng thuốc còn dư.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có theo toa không' bà nói 'có'. Chỉ kể khi hỏi cụ thể còn uống ibuprofen hay thuốc xương khớp không, hoặc đau lưng tuần qua uống gì.",
+     "k": 1,
+     "y": "Vẫn dùng NSAID cùng apixaban"
+    },
+    {
+     "id": "tuan_thu_giay",
+     "noi_dung": "Ăn thêm rau, mang chai nước 1,5 lít lên giàn giáo, uống macrogol mỗi sáng. Nhà thầu cho thêm hai tuần nộp giấy chứng nhận sức khỏe; bà vẫn muốn 'lấy giấy luôn hôm nay'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tuân thủ bảo tồn; giấy chứng nhận sức khỏe"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh. Niêm mạc mắt hồng nhạt (đỡ hơn lần trước), lòng bàn tay hơi nhợt. Không vàng da, không phù.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Da quanh hậu môn không nứt, không cục đau. Khi rặn, búi mềm sa ra rồi tự co. Thăm trực tràng: trương lực bình thường, không đau, không khối; phân mềm hơn lần trước, găng dính vệt máu đỏ rất ít.",
+     "k": 1,
+     "hien": "Khi rặn có búi mềm sa ra rồi tự co. Trương lực cơ thắt bình thường, không đau, không khối."
+    },
+    "soi_hau_mon": {
+     "a": "Hai búi trĩ nội ở 7 giờ và 11 giờ, ít sung huyết hơn lần trước; búi 11 giờ còn một điểm dính máu tươi. Không vết nứt, không loét, không khối. Goligher độ II.",
+     "k": 1,
+     "hien": "Hai búi ở 7 giờ và 11 giờ, một điểm dính máu tươi. Không vết nứt, không khối."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 116 g/L · MCV 79 fL · BC 6,9 G/L · TC 358 G/L",
+     "bang": {
+      "wbc": 6.9,
+      "rbc": 4.49,
+      "hgb": 116,
+      "hct": 0.355,
+      "mcv": 79.0,
+      "mch": 25.8,
+      "mchc": 327,
+      "rdw": 15.2,
+      "plt": 358
+     },
+     "n": "Hb tăng 8 g/L sau khoảng 12 ngày sắt. Tăng ≥ 10 g/L trong 2 tuần gợi ý thiếu sắt thật (BSG 2021 khuyến cáo 5); theo dõi đáp ứng trong 4 tuần đầu (khuyến cáo 20)."
+    },
+    "noi_soi_dt": {
+     "v": "e",
+     "r": "Bà mang theo phiếu: nội soi đại tràng tới manh tràng, chuẩn bị ruột tốt. Niêm mạc đại tràng và trực tràng bình thường, không polyp, không u, không loét, không viêm. Soi lộn ngược trực tràng: hai búi trĩ nội sung huyết, một búi có điểm rỉ máu. Không lấy sinh thiết.",
+     "n": "Loại trừ ung thư trực tràng/đại tràng ở thời điểm này (ASCRS 2024 khuyến cáo 2; BSG 2021 khuyến cáo 11)."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "Bà mang theo phiếu: niêm mạc thực quản, dạ dày, tá tràng bình thường, không loét, không u.",
+     "n": "Loại trừ nguyên nhân tiêu hóa trên của thiếu sắt (BSG 2021 khuyến cáo 11)."
+    },
+    "ferritin_sat": {
+     "n": "Chưa cần lặp hôm nay: đo lại khi Hb đã bình thường để quyết định thời gian sắt (BSG 2021 khuyến cáo 20)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trĩ nội độ II còn rỉ máu, đã loại trừ u đại–trực tràng và tổn thương dạ dày–tá tràng bằng nội soi; thiếu máu thiếu sắt nhẹ do mất máu mạn đang đáp ứng sắt",
+     "ok": 1,
+     "n": "Nội soi hai đầu bình thường, thấy búi trĩ rỉ máu (BSG 2021 khuyến cáo 11; ASCRS 2024 khuyến cáo 2). Hb 108 → 116 g/L."
+    },
+    {
+     "t": "Đáp ứng một phần với điều trị bảo tồn, chưa phải thất bại: còn dùng ibuprofen cùng apixaban, sắt mới khoảng 12 ngày",
+     "ok": 1,
+     "n": "Máu giảm từ mọi lần còn 2–3 lần/tuần, Hb tăng."
+    },
+    {
+     "t": "Phân sẫm màu do viên sắt, không phải chảy máu tiêu hóa",
+     "ok": 1,
+     "n": "Sắt thường nhuộm màu phân (BSG 2021 mục Oral IRT). Phân thành khuôn, không dính nhầy, không chóng mặt, Hb đang tăng, đã soi dạ dày bình thường."
+    },
+    {
+     "t": "Ung thư trực tràng / đại tràng; nứt hậu môn",
+     "n": "Đã loại trừ ung thư ở thời điểm này: nội soi tới manh tràng bình thường, thăm trực tràng không khối. Nứt hậu môn: không đau nhói, soi không vết nứt."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích kết quả nội soi: không u, polyp, loét; máu từ trĩ nội độ II; thiếu máu do mất máu mạn từ trĩ. Nói rõ 'chưa hết' là bình thường lúc này nhưng cần mốc theo dõi",
+     "v": "c",
+     "n": "Nội soi bình thường loại trừ nguyên nhân khác (BSG 2021 khuyến cáo 11; ASCRS 2024 khuyến cáo 2)."
+    },
+    {
+     "t": "Hỏi lại thuốc giảm đau: ngưng hẳn ibuprofen; paracetamol đúng giờ, tổng dưới 3 g/ngày",
+     "v": "c",
+     "n": "NSAID là yếu tố nguy cơ chảy máu sửa được, dùng giảm đau thay thế (ESC 2024 Hình 10)."
+    },
+    {
+     "t": "Giải thích phân sẫm do sắt, không ngưng sắt; sắt 1 viên mỗi ngày, kiểm Hb sau 4 tuần, dùng tiếp khoảng 3 tháng sau khi Hb bình thường",
+     "v": "c",
+     "n": "BSG 2021 mục Oral IRT, khuyến cáo 18, 20."
+    },
+    {
+     "t": "Apixaban: tiếp tục theo bác sĩ tim mạch (chảy máu ít, nguồn đã rõ, Hb tăng) và bỏ NSAID; hoặc hoãn 1–2 liều rồi dùng lại nếu chảy máu tăng. Không ngưng hẳn",
+     "v": "c",
+     "n": "Ghi cả hai cách (sổ HH-0692, mục 2): ESC 2024 mục 6.7.1/Hình 10 hoặc mục 6.7.2/Hình 11."
+    },
+    {
+     "t": "Tiếp tục bảo tồn: chất xơ 20–30 g/ngày, nước đều, không rặn, ngồi bô không quá 3 phút, macrogol mỗi sáng",
+     "v": "c",
+     "n": "ASCRS 2024 khuyến cáo 3; AGA 2026 BPA 2; AGA-ACG 2023 khuyến cáo 2; WGO 2025 Bảng 9."
+    },
+    {
+     "t": "Hẹn tái khám 5 tuần kèm công thức máu và ferritin; nói trước rằng nếu còn chảy máu dù bảo tồn đúng thì sẽ xét thủ thuật; dặn lại dấu hiệu quay lại",
+     "v": "c",
+     "n": "Kiểm Hb sau 4 tuần sắt (BSG 2021 khuyến cáo 20); thủ thuật cho độ I–II khi bảo tồn thất bại (ASCRS 2024 khuyến cáo 5; AGA 2026 BPA 5)."
+    },
+    {
+     "t": "Hẹn thủ thuật tại phòng khám chuyên khoa (đông hồng ngoại hoặc thắt vòng) nếu còn chảy máu sau bảo tồn đầy đủ",
+     "v": "a",
+     "n": "Hai nguồn ở người dùng kháng đông: AGA 2026 (tr. 1777) ưu tiên đông hồng ngoại vì nguy cơ chảy máu khi vòng rơi; ASCRS 2024 khuyến cáo 5 cho thắt là hiệu quả nhất nhưng nêu nguy cơ chảy máu nhiều, cân nhắc ngưng kháng đông khi có thể (thời điểm chưa rõ) hoặc chích xơ."
+    },
+    {
+     "t": "Ngưng hẳn apixaban vì còn rỉ máu",
+     "v": "w",
+     "n": "ESC 2024 mục 6.7.1; sổ HH-0692, mục 2: chỉ ngưng hẳn không hẹn là w."
+    },
+    {
+     "t": "Chuyển phẫu thuật cắt trĩ hoặc làm thủ thuật ngay hôm nay",
+     "v": "w",
+     "n": "Trĩ độ II mới bảo tồn đầy đủ khoảng 3 tuần và đang cải thiện; cắt trĩ cho trĩ ngoại hoặc hỗn hợp độ III–IV (ASCRS 2024 khuyến cáo 7); tham vấn ngoại khoa khi độ III thất bại thắt hoặc có trĩ ngoại (AGA 2026 BPA 10); phải ngưng apixaban (ACC/AHA/ACCP/HRS 2023 Bảng 18)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trĩ nội độ II còn rỉ máu, đã loại trừ u đại–trực tràng và tổn thương dạ dày–tá tràng bằng nội soi hai đầu",
+     "Thiếu máu thiếu sắt nhẹ do mất máu mạn từ trĩ: Hb 108 → 116 g/L sau khoảng 12 ngày sắt, đang đáp ứng, chưa tới mốc 4 tuần",
+     "Đáp ứng một phần với bảo tồn, chưa phải thất bại; yếu tố cản trở: ibuprofen vẫn dùng, apixaban",
+     "Phân sẫm màu do viên sắt, không phải chảy máu tiêu hóa"
+    ],
+    "phan_tich_chan_doan": [
+     "Nội soi tới manh tràng và dạ dày bình thường: loại ung thư trực tràng/đại tràng và nguyên nhân tiêu hóa trên của thiếu sắt (BSG 2021 khuyến cáo 11; ASCRS 2024 khuyến cáo 2); celiac âm tính ở lượt 1 (BSG 2021 khuyến cáo 7, 8).",
+     "Hồi phục chậm, chưa thể gọi thất bại: Hb tăng 8 g/L sau 3 tuần vì còn rỉ máu và còn ibuprofen; BSG đánh giá đáp ứng sắt trong 4 tuần (khuyến cáo 20). Thời gian bảo tồn tối thiểu trước khi coi là thất bại: không có trong tài liệu đã tải.",
+     "Phân sẫm do sắt (BSG 2021 mục Oral IRT): phân thành khuôn, không dính nhầy, không chóng mặt, Hb lên, dạ dày soi bình thường."
+    ],
+    "phan_tich_xu_tri": [
+     "Chưa thất bại nên chưa thủ thuật: thủ thuật dành cho trĩ độ I–II khi bảo tồn thất bại, độ III chọn lọc (ASCRS 2024 khuyến cáo 5; AGA 2026 BPA 5).",
+     "Apixaban: ghi cả hai cách (sổ HH-0692, mục 2). Ở bà chảy máu ít, nguồn đã rõ, Hb tăng nên giữ nguyên là hợp lý; hoãn 1–2 liều nếu chảy máu tăng, cùng bác sĩ tim mạch.",
+     "Ngưng ibuprofen (ESC 2024 Hình 10); paracetamol dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3).",
+     "Giấy chứng nhận sức khỏe: nhà thầu cho thêm hai tuần; hoàn tất sau khi Hb và triệu chứng rõ hơn (TT 25/2026/TT-BYT). Không ký 'bình thường' khi chưa đánh giá xong."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sắt sulfat",
+      "ham_luong": "200 mg (65 mg sắt nguyên tố)",
+      "lieu": "1 viên mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi ngày một lần, giờ cố định",
+      "so_ngay": "Kiểm Hb sau 4 tuần; khoảng 3 tháng sau khi Hb bình thường",
+      "ghi_chu": "BSG 2021 khuyến cáo 18, 20; Bảng 3. Phân sẫm màu là thường gặp."
+     },
+     {
+      "thuoc": "Macrogol (PEG) dạng gói",
+      "ham_luong": "Theo chế phẩm ở Việt Nam (không có trong tài liệu đã tải)",
+      "lieu": "17 g mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, pha đủ nước",
+      "so_ngay": "Dùng đều; chỉnh theo phân",
+      "ghi_chu": "AGA-ACG 2023 khuyến cáo 2; WGO 2025 Bảng 9."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên mỗi lần, cách 6–8 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau lưng, sau ăn",
+      "so_ngay": "Khi cần; tổng dưới 3 g/ngày",
+      "ghi_chu": "Thay hoàn toàn ibuprofen. QĐ 361/2014 Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1."
+     },
+     {
+      "thuoc": "Apixaban (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 2 lần/ngày, giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối như cũ",
+      "so_ngay": "Dùng tiếp; hoãn 1–2 liều chỉ khi bác sĩ tim mạch đồng ý",
+      "ghi_chu": "Giữ nguyên, ESC 2024 Bảng 11, mục 6.7.1/6.7.2 (sổ HH-0692, mục 2)."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Giữ nguyên thuốc nền đang dùng."
+     }
+    ],
+    "dan_do": [
+     "Nội soi của cô tốt: dạ dày không loét, đại tràng không polyp, không u. Máu ra từ trĩ độ II, đang đỡ nhưng chưa hết; ta có mốc theo dõi để xét thủ thuật nếu vẫn chảy (ASCRS 2024 khuyến cáo 5).",
+     "Phân đen mấy hôm nay là do viên sắt, cô đừng tự bỏ sắt. Phân đen dính nhầy kèm chóng mặt, mệt hụt hơi tăng thì quay lại ngay.",
+     "Ibuprofen cô còn uống ba lần tuần qua làm máu rỉ lâu hơn; bỏ hẳn. Đau lưng dùng paracetamol đúng giờ, không quá 3 g mỗi ngày (ESC 2024 Hình 10).",
+     "Vẫn uống thuốc loãng máu đều. Nếu máu nhiều lên, gọi bác sĩ tim mạch hỏi có hoãn một hai liều không; đừng tự bỏ.",
+     "Giữ nước, rau, macrogol mỗi sáng, không nhịn đi cầu, không rặn. Tái khám sau 5 tuần (mốc của ca; kiểm Hb sau 4 tuần theo BSG 2021 khuyến cáo 20), làm lại công thức máu và ferritin; giấy chứng nhận sức khỏe làm khi cô khá hơn."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Tái khám sau 5 tuần, đến lấy giấy chứng nhận sức khỏe. Lần trước đã giải thích nội soi bình thường, dặn bỏ ibuprofen, tiếp tục sắt, macrogol, chất xơ và apixaban theo bác sĩ tim mạch. Bà nói máu hết hẳn từ khoảng mười ngày trước. Sinh hiệu: mạch 76 l/p, HA 124/76 mmHg, nhiệt độ 36,6 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bà Dung đi phẫu thuật cắt trĩ vì 'khỏi chậm hơn dự kiến' là quá tay: máu đã hết mười ngày, Hb về 128 g/L, trĩ độ II xẹp, không có trĩ ngoại hay độ III–IV. Tham vấn ngoại khoa dành cho độ III thất bại thắt hoặc có trĩ ngoại (AGA 2026 BPA 10), cắt trĩ cho trĩ ngoại hoặc hỗn hợp độ III–IV (ASCRS 2024 khuyến cáo 7).",
+    "nhap_vien": "Nhập viện theo dõi là không cần: bà khỏe, Hb 128 g/L, hết ra máu, huyết động ổn. Thiếu sắt còn lại xử trí bằng sắt uống tại nhà (BSG 2021 khuyến cáo 18, 20). Bà mất thêm ngày công và có thể không kịp nộp giấy cho nhà thầu."
+   },
+   "loi_mo": "Chào bác sĩ. Hết máu rồi, tôi khỏe lắm. Bác sĩ ký giấy cho tôi đi, ghi giùm là bình thường để họ cho lên giàn giáo.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "124/76",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hết ra máu khoảng mười ngày, muốn lấy giấy chứng nhận sức khỏe để nộp nhà thầu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Máu giảm dần rồi hết hẳn khoảng mười ngày trước, tức khoảng bảy tuần sau lần khám đầu. Búi vẫn lòi ra khi rặn mạnh rồi tự co. Không đau hậu môn, không cục cứng, không máu cục, không phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khỏi chậm hơn dự kiến"
+    },
+    {
+     "id": "ngung_sat_macrogol",
+     "noi_dung": "Khoảng mười ngày trước, thấy khỏe và hết máu, bà tự ngưng viên sắt (đã uống khoảng năm tuần) và bỏ macrogol vì 'đi được rồi'. Mấy hôm nay phân cứng lại, phải rặn. Đã bỏ hẳn ibuprofen từ tuần thứ ba.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'thuốc đang uống' bà chỉ kể amlodipin và thuốc loãng máu.",
+     "k": 1,
+     "y": "Tự ngưng sắt và nhuận tràng"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Bác sĩ tim mạch giữ nguyên apixaban 5 mg × 2 lần/ngày, hẹn tái khám sau ba tháng. Không có cơn hồi hộp hay yếu tay mới.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc kháng đông và bệnh tim"
+    },
+    {
+     "id": "nang_giay",
+     "noi_dung": "Khi bác sĩ hỏi phần tiền sử cho mẫu giấy Bộ Y tế, bà năn nỉ: 'đừng ghi rung nhĩ với thuốc loãng máu, ghi huyết áp thôi, không họ không cho tôi lên giàn giáo'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đề nghị khai không đúng sự thật"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh. Niêm mạc mắt hồng, lòng bàn tay hồng. Không vàng da, không phù.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "truc_trang": {
+     "a": "Da quanh hậu môn không nứt, không cục đau. Khi rặn mạnh, búi mềm sa ra rồi tự co. Thăm trực tràng: trương lực bình thường, không đau, không khối; phân cứng trong bóng trực tràng; găng sạch, không dính máu.",
+     "k": 1,
+     "hien": "Khi rặn mạnh có búi mềm sa ra rồi tự co. Trương lực cơ thắt bình thường, không đau, không khối."
+    },
+    "soi_hau_mon": {
+     "a": "Hai búi trĩ nội ở 7 giờ và 11 giờ, xẹp hơn, niêm mạc hồng, không sung huyết, không điểm rỉ máu. Không vết nứt, không loét. Goligher độ II.",
+     "k": 1,
+     "hien": "Hai búi ở 7 giờ và 11 giờ, không điểm rỉ máu. Không vết nứt, không khối."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 128 g/L · MCV 85 fL · BC 6,6 G/L · TC 296 G/L",
+     "bang": {
+      "wbc": 6.6,
+      "rbc": 4.43,
+      "hgb": 128,
+      "hct": 0.377,
+      "mcv": 85.0,
+      "mch": 28.9,
+      "mchc": 340,
+      "rdw": 13.9,
+      "plt": 296
+     },
+     "n": "Hb về bình thường (≥ 120 g/L ở nữ, BSG 2021 mục Definitions)."
+    },
+    "ferritin_sat": {
+     "v": "e",
+     "r": "Ferritin 22 ng/mL · sắt huyết thanh 12 µmol/L · bão hòa transferrin 20%",
+     "ab": 1,
+     "n": "Ferritin dưới 30 µg/L vẫn là kho sắt thấp (BSG 2021 mục Iron deficiency)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Đường huyết 5,2 mmol/L",
+     "n": "Cận lâm sàng khám phân loại sức khỏe đi làm (TT 25/2026/TT-BYT; Mẫu số 03 phần III mục 1)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,5 mmol/L · Creatinin 66 µmol/L · eGFR 93 mL/ph/1,73m²",
+     "n": "Như trên (TT 25/2026/TT-BYT); thận bình thường nên giữ liều apixaban (ESC 2024 Bảng 11)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 24 · ALT 21 U/L",
+     "n": "Như trên (TT 25/2026/TT-BYT)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Nước tiểu bình thường, không hồng cầu, không protein.",
+     "n": "Như trên (TT 25/2026/TT-BYT)."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "Phổi sáng, bóng tim không to, không tổn thương nhu mô.",
+     "n": "X-quang tim phổi thẳng, như trên (TT 25/2026/TT-BYT)."
+    },
+    "fit": {
+     "n": "Không cần: đã nội soi bình thường, không chảy máu."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trĩ nội độ II đã hết chảy máu sau điều trị bảo tồn; hết thiếu máu nhưng kho sắt còn thấp (ferritin 22 ng/mL); táo bón tái phát do tự ngưng macrogol và sắt",
+     "ok": 1,
+     "n": "Hb 128 g/L; ferritin dưới 30 µg/L (BSG 2021 mục Iron deficiency; khuyến cáo 20). Bảo tồn là đầu tay (ASCRS 2024 khuyến cáo 3)."
+    },
+    {
+     "t": "Hồi phục chậm hơn dự kiến, không phải thất bại điều trị",
+     "ok": 1,
+     "n": "Hết máu sau khoảng bảy tuần, không cần thủ thuật. Thời gian hồi phục dự kiến của chảy máu trĩ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ung thư trực tràng / đại tràng; nứt hậu môn",
+     "n": "Ung thư đã loại trừ bằng nội soi ở lượt 2; hết máu, Hb bình thường. Nứt hậu môn: không đau, soi không vết nứt."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: hết máu và Hb bình thường nhưng kho sắt chưa đầy; uống lại sắt 1 viên mỗi ngày khoảng 3 tháng sau khi Hb bình thường, kiểm công thức máu định kỳ",
+     "v": "c",
+     "n": "BSG 2021 khuyến cáo 18, 20, 23 (theo dõi công thức máu định kỳ, ban đầu có thể mỗi 6 tháng); mục Iron deficiency (ferritin dưới 30 µg/L)."
+    },
+    {
+     "t": "Dùng lại macrogol, chất xơ và nước, không rặn, ngồi bô không quá 3 phút để trĩ không tái phát",
+     "v": "c",
+     "n": "ASCRS 2024 khuyến cáo 3; AGA 2026 BPA 2; AGA-ACG 2023 khuyến cáo 2; WGO 2025 Bảng 9."
+    },
+    {
+     "t": "Giữ apixaban theo bác sĩ tim mạch; không dùng NSAID; đau lưng dùng paracetamol dưới 3 g/ngày",
+     "v": "c",
+     "n": "ESC 2024 Hình 10, mục 6.7.1; QĐ 361/2014 Phụ lục NSAID mục 3.3."
+    },
+    {
+     "t": "Hoàn tất giấy khám sức khỏe đúng sự thật: ghi rung nhĩ, đột quỵ thoáng qua, thuốc kháng đông, tăng huyết áp, trĩ đã điều trị; từ chối bỏ sót; kết luận phân loại theo quy định của Bộ Y tế",
+     "v": "c",
+     "n": "Phụ lục XXIV Mẫu số 03 (TT 25/2026/TT-BYT): người khai cam đoan đúng sự thật; tiền sử mục 5, 7 (tim, tăng huyết áp), 16 (tiêu hóa), 18 (tai biến mạch máu não), câu 3a (bệnh và thuốc đang dùng); khám tuần hoàn, tiêu hóa có phân loại; Điều 36 khoản 6 (bác sĩ có chứng chỉ hành nghề, khám đầy đủ)."
+    },
+    {
+     "t": "Thu thập cận lâm sàng khám phân loại sức khỏe đi làm: công thức máu, đường máu, ure, creatinin, AST, ALT, nước tiểu, X-quang tim phổi",
+     "v": "c",
+     "n": "TT 25/2026/TT-BYT sửa Điều 36 khoản 3a; Phụ lục XXIV Mẫu số 03 phần III mục 1."
+    },
+    {
+     "t": "Hẹn tái khám 3 tháng kiểm công thức máu và ferritin để quyết định ngưng sắt; dặn quay lại sớm nếu ra máu trở lại",
+     "v": "c",
+     "n": "BSG 2021 khuyến cáo 20, 23; mốc 3 tháng lấy từ 'khoảng 3 tháng sau khi Hb bình thường'. Máu ra lại sau điều trị trĩ phải tìm nguồn (ASCRS 2024 khuyến cáo 2)."
+    },
+    {
+     "t": "Hẹn thủ thuật đông hồng ngoại hoặc thắt vòng cao su dự phòng",
+     "v": "a",
+     "n": "Không cần khi hết triệu chứng; thủ thuật dành cho trĩ còn triệu chứng sau bảo tồn (ASCRS 2024 khuyến cáo 5; AGA 2026 BPA 5)."
+    },
+    {
+     "t": "Ghi 'bình thường', bỏ rung nhĩ và thuốc loãng máu theo ý bà",
+     "v": "h",
+     "n": "Mẫu giấy yêu cầu khai đúng sự thật bệnh tim, tăng huyết áp, tai biến mạch máu não và thuốc đang dùng (Phụ lục XXIV Mẫu số 03, TT 25/2026/TT-BYT)."
+    },
+    {
+     "t": "Chuyển phẫu thuật cắt trĩ vì khỏi chậm",
+     "v": "w",
+     "n": "Hết máu, trĩ độ II xẹp: không có chỉ định cắt trĩ (ASCRS 2024 khuyến cáo 7; AGA 2026 BPA 10)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trĩ nội độ II đã hết chảy máu sau điều trị bảo tồn (khoảng bảy tuần), không cần thủ thuật",
+     "Hết thiếu máu (Hb 128 g/L) nhưng kho sắt còn thấp (ferritin 22 ng/mL) vì tự ngưng sắt",
+     "Táo bón tái phát vì tự bỏ macrogol; nguy cơ trĩ tái phát",
+     "Nền: rung nhĩ, đột quỵ thoáng qua, tăng huyết áp; apixaban 5 mg × 2 lần/ngày, amlodipin 5 mg; khỏi chậm hơn dự kiến, không phải thất bại"
+    ],
+    "phan_tich_chan_doan": [
+     "Chảy máu đã hết, soi hậu môn thấy hai búi xẹp, không rỉ máu: kết cục của bảo tồn (chất xơ, nước, bỏ NSAID, nhuận tràng), đầu tay cho trĩ (ASCRS 2024 khuyến cáo 3, mạnh).",
+     "Khỏi chậm hơn dự kiến: hết sau khoảng bảy tuần; tài liệu đã tải không nêu thời gian hết chảy máu dự kiến của trĩ độ II. Yếu tố làm chậm: ibuprofen đến tuần thứ ba, apixaban, táo bón, nhịn đi cầu.",
+     "Hb 128 g/L bình thường nhưng ferritin 22 ng/mL: kho sắt còn thấp (BSG 2021 mục Iron deficiency); phải dùng sắt tiếp khoảng 3 tháng sau khi Hb bình thường (khuyến cáo 20)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không thủ thuật, không phẫu thuật khi hết triệu chứng (ASCRS 2024 khuyến cáo 5, 7; AGA 2026 BPA 10).",
+     "Giấy chứng nhận sức khỏe: bà nhờ bỏ rung nhĩ và thuốc loãng máu. Phải ghi đúng (Phụ lục XXIV Mẫu số 03, TT 25/2026/TT-BYT)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sắt sulfat",
+      "ham_luong": "200 mg (65 mg sắt nguyên tố)",
+      "lieu": "1 viên mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi ngày một lần, giờ cố định",
+      "so_ngay": "Khoảng 3 tháng sau khi Hb bình thường; kiểm công thức máu và ferritin sau 3 tháng",
+      "ghi_chu": "BSG 2021 khuyến cáo 18, 20, 23. Sắt làm phân sẫm màu."
+     },
+     {
+      "thuoc": "Macrogol (PEG) dạng gói",
+      "ham_luong": "Theo chế phẩm ở Việt Nam (không có trong tài liệu đã tải)",
+      "lieu": "17 g mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, pha đủ nước",
+      "so_ngay": "Dùng đều; chỉnh theo phân, nhất là khi uống sắt",
+      "ghi_chu": "AGA-ACG 2023 khuyến cáo 2; WGO 2025 Bảng 9."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên mỗi lần, cách 6–8 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau lưng, sau ăn",
+      "so_ngay": "Khi cần; tổng dưới 3 g/ngày",
+      "ghi_chu": "QĐ 361/2014 Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1. Không NSAID (ESC 2024 Hình 10)."
+     },
+     {
+      "thuoc": "Apixaban (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 2 lần/ngày, giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối như cũ",
+      "so_ngay": "Dùng tiếp theo bác sĩ tim mạch",
+      "ghi_chu": "Giữ nguyên; ESC 2024 Bảng 11, mục 6.7.1."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Giữ nguyên thuốc nền đang dùng."
+     }
+    ],
+    "dan_do": [
+     "Chúc mừng cô, hết máu rồi, Hb về bình thường. Nhưng kho sắt trong người còn thấp (ferritin 22) nên cô uống viên sắt mỗi ngày khoảng ba tháng nữa (BSG 2021 khuyến cáo 20). Tự bỏ sắt là Hb sẽ tụt lại.",
+     "Dùng lại gói macrogol mỗi sáng, ăn rau, uống nước, xuống đi cầu khi buồn, không rặn; làm vậy trĩ mới không chảy lại (AGA 2026 BPA 2).",
+     "Giấy chứng nhận sức khỏe: tôi ghi đúng rung nhĩ, thuốc loãng máu và huyết áp, vì giấy phải đúng sự thật. Cô giữ thuốc loãng máu không có gì xấu; nhà thầu cần biết để lo an toàn cho cô trên cao. Kết luận phân loại theo quy định của Bộ Y tế.",
+     "Không ibuprofen, không thuốc xương khớp tự mua; đau lưng dùng paracetamol không quá 3 g/ngày (ESC 2024 Hình 10).",
+     "Tái khám sau 3 tháng kiểm công thức máu và ferritin; nếu ra máu trở lại, quay lại sớm, đừng tự mua thuốc trĩ (ASCRS 2024 khuyến cáo 2)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Máu hết hẳn khoảng bảy tuần sau lần khám đầu, chậm hơn bà mong đợi (bà hy vọng hết trong vài ngày nhờ viên thuốc trĩ mua ở tiệm). Hb về 128 g/L nhưng ferritin còn 22 ng/mL; nhờ nhận ra bà tự ngưng sắt nên bà uống tiếp, ba tháng sau Hb 134 g/L, ferritin 58 ng/mL. Bác sĩ tim mạch giữ nguyên apixaban, không có đột quỵ hay chảy máu lớn. Giấy chứng nhận sức khỏe được ghi trung thực, nhà thầu nhận. Nội soi hai đầu sớm và giữ thuốc kháng đông đã tránh cả bỏ sót u lẫn đột quỵ do ngưng thuốc.",
+ "nhieu": [
+  "Tự uống thuốc trước 5 ngày: viên trĩ phlebotonic làm máu bớt nên bà tưởng sắp hết; ibuprofen chỉ khai khi hỏi cụ thể thuốc giảm đau. Phải hỏi riêng thuốc trĩ và thuốc đau lưng.",
+  "Lý do thật là giấy chứng nhận sức khỏe: bà tới 'xin thuốc cho hết máu' vì hợp đồng; lượt 3 bà nhờ ghi sai tiền sử. Trả lời bằng giải thích tử tế, không ký đại.",
+  "Không có CT: không ảnh hưởng; thăm trực tràng và soi hậu môn làm tại giường, loại trừ u bằng nội soi ở bệnh viện tỉnh (BSG 2021 khuyến cáo 11), không bằng CT.",
+  "Phân sẫm do sắt ở lượt 2 dễ nhầm với chảy máu tiêu hóa: hỏi tính chất phân, triệu chứng toàn thân, đối chiếu Hb và nội soi dạ dày."
+ ],
+ "bai_hoc_bien": [
+  "Chảy máu hậu môn không tự quy cho trĩ: 52 tuổi chưa nội soi, táo bón mới, thiếu máu thiếu sắt là ba chỉ điểm phải nội soi hai đầu (ASCRS 2024 khuyến cáo 2; BSG 2021 khuyến cáo 11).",
+  "Người dùng kháng đông: không tự ngưng, không để NSAID chen vào, bàn với bác sĩ tim mạch (ESC 2024 mục 6.7.1, 6.7.2). Thuốc vừa đổi là thông tin phải hỏi."
+ ],
+ "diem_nho": [
+  "Trĩ độ II (Goligher): sa dưới đường lược khi đi cầu, tự co (AGA 2026 Bảng 1). Soi hậu môn cho mọi bệnh nhân nghi trĩ mới nếu có thể (BPA 4).",
+  "Chảy máu hậu môn: nội soi đại tràng ở bệnh nhân chọn lọc (ASCRS 2024 khuyến cáo 2); FIT chỉ phân loại, hai nguồn khác nhau ở thiếu máu thiếu sắt (BSG 2021 khuyến cáo 10; ACPGBI/BSG 2022 khuyến cáo 12)."
+ ],
+ "nguon": [
+  "AGA 2026 – Hemorrhoids Clinical Practice Update – TL-0183 – BPA 1–6, 9, 10, Bảng 1; tr. 1777 (đông hồng ngoại ở người dùng kháng đông)",
+  "ASCRS 2024 – Hemorrhoids – TL-0205 – khuyến cáo 1–7",
+  "ACPGBI/BSG 2022 – FIT ở người có triệu chứng nghi ung thư đại trực tràng – TL-0214 – khuyến cáo 8, 10, 12; mục Specific symptoms",
+  "BSG 2021 – Iron deficiency anaemia ở người lớn – TL-0219 – khuyến cáo 4, 5, 7–11, 17–21, 23; mục Definitions, Oral IRT, Bảng 3",
+  "ESC 2024 – Management of atrial fibrillation (tltk-10000-ca) – mục 6.7.1, 6.7.2, Hình 10, 11, Bảng 10, 11, Bảng khuyến cáo 6, 7",
+  "ACC/AHA/ACCP/HRS 2023 – Atrial fibrillation (tltk-10000-ca) – mục 6.7 Periprocedural Management, khuyến cáo 1, 4, Bảng 18",
+  "AGA-ACG 2023 – táo bón mạn – TL-0208 – khuyến cáo 2; WGO 2025 – Constipation (tltk-10000-ca) – Bảng 9",
+  "BYT QĐ 361/2014 – TL-0286 – Phụ lục thuốc giảm đau mục 3.1; Phụ lục NSAID mục 3.3",
+  "BYT TT 25/2026/TT-BYT (30/6/2026) – sửa Điều 36 TT 32/2023; Phụ lục XXIV Mẫu số 03 – tltk-10000-ca (13 Tư vấn kết quả khám tổng quát) và TL-0668",
+  "USPSTF 2021 – TL-0221; Asia-Pacific 2022 – TL-0217 (Statement 6): tuổi sàng lọc ung thư đại trực tràng",
+  "Không có trong tài liệu đã tải: thời gian bảo tồn tối thiểu trước khi coi là thất bại; thời gian hết chảy máu trĩ dự kiến; nhóm nguy cơ chảy máu của nội soi đại tràng; tên thuốc, liều phlebotonic và thuốc bôi, chế phẩm sắt và macrogol ở Việt Nam; tiêu chí phân loại sức khỏe và quy định làm việc trên cao ở người dùng kháng đông; mối liên quan nhịn đi cầu, khuân vác với trĩ; đặc điểm phân đen do chảy máu so với phân sẫm do sắt; ảnh hưởng của apixaban lên INR."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-18: bản 1 (agent TH-0936). Tài liệu đã đọc: TL-0183 (BPA 1–11, Bảng 1, tr. 1776–1777), TL-0205 (khuyến cáo 1–9), TL-0214 (khuyến cáo 1–17, mục Rectal bleeding, Iron deficiency anaemia), TL-0219 (khuyến cáo 3–23, mục Oral IRT, Bảng 3, Special situations), ESC 2024 rung nhĩ (mục 6.7, Hình 10–11, Bảng 10–11), ACC/AHA/ACCP/HRS 2023 (mục 6.7, Bảng 18), TL-0668 và TT 25/2026 (Điều 36, Mẫu số 03), WGO 2025 Bảng 9, AGA-ACG 2023 khuyến cáo 2, QĐ 361/2014.",
+  "Áp dụng mục sổ cũ: 'Soi hậu môn và nội soi đại tràng ở người nghi trĩ có chảy máu hậu môn' (TH-0970); 'Chảy máu nhẹ ở người dùng DOAC' (HH-0692, mục 2); paracetamol dưới 3 g/ngày (TH-0295); tuổi sàng lọc 45/50 (TH-0859). Mâu thuẫn mới đề xuất: FIT ở thiếu máu thiếu sắt; thủ thuật phòng khám cho trĩ ở người dùng kháng đông (xem tệp mâu thuẫn).",
+  "Các số liệu mô phỏng (mốc 3 tuần, 5 tuần, 3 tháng; Hb, ferritin; lịch nội soi khoảng 10 ngày; bà ngưng apixaban 2 ngày quanh nội soi) là thiết kế của ca; mốc tái khám không có trong tài liệu đã tải."
+ ]
+}
