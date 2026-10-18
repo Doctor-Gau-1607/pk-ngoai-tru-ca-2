@@ -1,0 +1,950 @@
+{
+ "ma_ca": "TH-0096",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_kho_tieu_chuc_nang",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Khó tiêu chức năng",
+  "chan_doan_phai_loai_tru": [
+   "Loét dạ dày-tá tràng",
+   "Ung thư dạ dày"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Lao công",
+  "yeu_to_khoi_phat": "Tiếp xúc động vật",
+  "thuoc_dang_dung": "Thuốc đái tháo đường đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe"
+ },
+ "benh_nhan": {
+  "ten": "Đinh Thị Sen",
+  "tuoi": 53,
+  "gioi": "Nữ",
+  "nghe": "Lao công (công nhân vệ sinh môi trường đô thị): quét đường, gom rác ca đêm từ 2 đến 10 giờ sáng; đang làm hợp đồng thời vụ, sắp được ký hợp đồng chính thức",
+  "can_nang": 54,
+  "chieu_cao": 152,
+  "xung_ho": "Bác sĩ gọi cô là 'cô Sen'. Cô tự xưng 'tôi' hoặc 'cô', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Chân chất, tháo vát, quen chịu khó; sợ làm phiền và sợ mất việc, nghĩ 'có bệnh là bị cho nghỉ'. Nói liên tục, tự ngắt câu mình để chen chuyện khác. Quý hai con chó, ba con mèo nhặt về nuôi.",
+  "kieu_nhieu": "Kể lể lộn xộn: nhảy từ 'mệt, ăn không vô' sang con chó con bị bệnh rồi chết, sang giấy sức khỏe của công ty, sang chuyện giá cà phê, rồi quay lại ăn uống; không theo thứ tự thời gian, trộn chuyện cũ với chuyện mới, ngắt câu ở đúng chỗ bác sĩ cần nghe. Hỏi dồn nhiều ý một lúc thì cô trả lời ý cuối. Hỏi từng ý ngắn, tóm tắt lại cho cô xác nhận ('vậy là từ khoảng tám tháng nay, đúng không?') thì cô trả lời gọn và chính xác.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a72",
+   "toc": "#2a2522",
+   "kieuToc": "bui",
+   "ao": "#7a8f6a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Mệt, ăn không vô, nôn nao, tức dưới ngực mấy tháng; nhờ bác sĩ cho giấy sức khỏe để công ty ký hợp đồng",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không làm được xét nghiệm nào (không máu, không phân, không test thở hay test urease) và không có máy siêu âm; vì vậy cũng không có X-quang, CT, nội soi. Có huyết áp kế, nhiệt kế, máy đo SpO₂, máy điện tim và máy thử đường huyết mao mạch. Bệnh viện huyện cách 12 km (xe máy khoảng 25 phút) có nội soi dạ dày, xét nghiệm máu, soi phân và siêu âm; mỗi lần đi phải nghỉ nguyên một buổi."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Cô Đinh Thị Sen, 53 tuổi, lao công, đến lúc 11 giờ trưa thứ Bảy ngay sau ca đêm, quần áo bảo hộ còn dính bụi. Vừa ngồi xuống đã nói 'mệt, ăn không vô, nôn nao' rồi chuyển sang chuyện lấy giấy sức khỏe. Sinh hiệu: HA 128/78 mmHg, mạch 78 l/p, nhiệt 36,8 °C, nhịp thở 17 l/p, SpO₂ 98%. Cân nặng 54 kg, cao 152 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện cô Sen ngay hôm nay vì 'mệt, nôn nao, tức ngực' là quá tay: sinh hiệu ổn, điện tim bình thường, không nôn máu, không phân đen, không dấu báo động nặng (VNAGE 2024 KC 2); nội soi theo hẹn ngoại trú là đủ (KC 1). Cô nghỉ liền mấy ca đêm, bị ghi 'nghỉ nhiều vì bệnh' đúng lúc sắp ký hợp đồng, nỗi sợ 'có bệnh là bị cho nghỉ' thành sự thật, và lần sau cô giấu bệnh kỹ hơn.",
+    "chuyen_tuyen": "Chuyển cô lên bệnh viện huyện ngay hôm nay như ca khẩn là không cần: không xuất huyết tiêu hóa hay triệu chứng nặng, nội soi theo hẹn ngoại trú (VNAGE 2024 KC 1, 2). Cô đến nơi không có lịch hẹn, chờ nhiều giờ sau một đêm thức làm việc, ra về với lời dặn 'đặt lịch rồi quay lại'. Cô thất vọng, nghĩ 'đi khám chỉ tốn công' và không còn muốn hỏi chuyện nội soi."
+   },
+   "loi_mo": "Bác sĩ ơi, dạo này tôi mệt lắm, ăn không vô, cứ nôn nao, tức tức dưới ngực này. Mà tôi cũng không biết có phải tại con chó con nhà tôi không, nó bệnh rồi chết, tôi tắm rửa dọn phân cho nó mấy hôm liền… Bác sĩ cho tôi cái giấy sức khỏe đi, công ty bắt nộp, không có là họ không ký hợp đồng cho tôi đó.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "128/78",
+    "nhiet": "36,8",
+    "nhip_tho": 17,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mệt, ăn không vô, nôn nao, tức tức dưới ngực mấy tháng nay; muốn bác sĩ cho giấy sức khỏe để công ty ký hợp đồng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "giay_ksk",
+     "noi_dung": "Công ty môi trường đô thị yêu cầu nộp giấy khám sức khỏe trước cuối tháng thì mới ký hợp đồng chính thức. Cô nhờ bác sĩ viết 'đủ sức khỏe' cho nhanh vì không có thời gian đi nơi khác.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do thật: xin giấy chứng nhận sức khỏe"
+    },
+    {
+     "id": "ke_chuyen_cho",
+     "noi_dung": "Hai tháng trước chó con nhà cô bị tiêu chảy rồi chết; cô tắm, dọn phân ba hôm liền, sau đó sợ 'dính bệnh từ chó'. Nhà nuôi hai chó, ba mèo nhặt ở bãi rác. Ba tuần trước cô tự uống một viên thuốc tẩy giun, không thấy giun, không đỡ.",
+     "che_do": "tu_ke",
+     "k": 0
+    },
+    {
+     "id": "tieu_su_ba_tuan",
+     "noi_dung": "Khoảng tám tháng nay, hầu như ngày nào ăn vài thìa cơm là no, bụng tức nặng sau ăn (5 ngày/tuần), ợ hơi nhiều. Sáu tuần gần đây nặng hơn: một chén cơm không hết, nôn nao buổi sáng, thỉnh thoảng nóng rát dưới mũi ức, 1–2 ngày/tuần, thường sau ăn. Không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh sử có cấu trúc: thời gian, tần suất, mau no, đầy sau ăn, nóng rát"
+    },
+    {
+     "id": "vi_tri_dac_diem",
+     "noi_dung": "Cô chỉ vùng dưới mũi ức hơi lệch phải, 'tức như có hòn đá'. Không lan ra lưng hay vai phải, không thành cơn quặn, không liên quan bữa ăn nhiều dầu mỡ, không vàng da. Không đỡ khi đi ngoài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vị trí, tính chất: loại trừ bệnh đường mật, ruột"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không nôn ra máu, phân vàng, không đen. Không nuốt nghẹn hay nuốt đau. Không nôn kéo dài. Cân nặng 55 kg đầu năm, nay 54 kg. Không xanh xao mệt lả. Gia đình không ai bị ung thư dạ dày, thực quản.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "chua_noi_soi",
+     "noi_dung": "Chưa bao giờ nội soi dạ dày, chưa thử vi khuẩn HP, chưa khám bệnh dạ dày lần nào. Không dùng kháng sinh, thuốc dạ dày hay thuốc giảm đau xương khớp gần đây.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa thăm dò; chưa dùng PPI, kháng sinh, NSAID"
+    },
+    {
+     "id": "dtd_metformin",
+     "noi_dung": "Đái tháo đường típ 2 năm năm nay, uống metformin 500 mg ngày hai lần sau ăn sáng và sau ăn tối, do trạm y tế cho; đường huyết đo ở nhà 7–9 mmol/L. Cô không khai với công ty vì sợ mất việc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc gì không' thì cô nói 'thuốc bổ'. Chỉ khai metformin và bệnh tiểu đường khi bác sĩ hỏi riêng về bệnh mạn tính, thuốc đường huyết, hoặc hỏi sao cô không muốn công ty biết.",
+     "k": 1,
+     "y": "Đái tháo đường dùng metformin (thuốc gây khó tiêu; lý do giấu)"
+    },
+    {
+     "id": "ca_dem_bua_an",
+     "noi_dung": "Làm ca 2–10 giờ sáng, ngủ ban ngày 4–5 giờ. Thường bỏ bữa trước ca, ăn một bữa lớn sau ca lúc 11 giờ, tối ăn muộn. Uống ba ly cà phê đen mỗi ngày để tỉnh. Không hút thuốc, không rượu bia. Bỏ bữa thì quên luôn thuốc đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nếp ăn, ca đêm, cà phê"
+    },
+    {
+     "id": "tim_mach_am",
+     "noi_dung": "Không đau ngực khi gắng sức, không khó thở, không vã mồ hôi, không hồi hộp. Không tăng huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ triệu chứng tương đương đau ngực (ĐTĐ, nữ 53 tuổi)"
+    },
+    {
+     "id": "tieu_chay_sot_am",
+     "noi_dung": "Không sốt, không tiêu chảy, đại tiện bình thường mỗi ngày một lần. Chó mèo trong nhà khỏe, chỉ có con chó con chết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễm trùng, ký sinh trùng đường ruột"
+    },
+    {
+     "id": "lo_lang_ngu",
+     "noi_dung": "Từ khi biết phải nộp giấy sức khỏe, cô lo mất việc, ngủ ban ngày hay giật mình, sợ 'ông bác sĩ soi ra ung thư thì hết đường làm'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng về nỗi lo, giấc ngủ, hoặc cô sợ điều gì nhất.",
+     "k": 1,
+     "y": "Nỗi lo thật: mất việc, sợ ung thư"
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Nhà cách bệnh viện huyện 12 km, đi xe máy. Mỗi lần đi khám phải nghỉ một buổi ngủ bù, mất một ca lương; muốn đi thì chỉ đi được ngày nghỉ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng đi nội soi, tái khám"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, niêm mạc hồng, không vàng da, lòng bàn tay không nhợt. Không hạch thượng đòn. BMI 23,4.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Ấn đau nhẹ vùng thượng vị, không phản ứng thành bụng, không khối, gan lách không to, dấu Murphy âm tính.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "truc_trang": {
+     "a": "Bóng trực tràng không khối; găng dính phân vàng, không máu, không phân đen.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 78 l/p. Không ST chênh, không sóng Q, không biến đổi ST–T.",
+     "n": "Đái tháo đường, nữ 53 tuổi, khó chịu vùng ngực dưới: cần loại trừ triệu chứng tương đương đau ngực, ECG trong 10 phút (ESC 2023 mục 3.1.1, 3.2). Bình thường."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "9,4 mmol/L (ăn cách 3 giờ).",
+     "n": "Biết tình trạng đái tháo đường; chỉnh thuốc đái tháo đường không thuộc ca này."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi.)",
+     "n": "Có chỉ định: khó tiêu chưa thăm dò, nữ 53 tuổi (VNAGE 2024 KC 1; VNAGE 2023 Statement 3, Bảng 2). Không cấp cứu. Hẹn ở bệnh viện huyện."
+    },
+    "hp_ubt": {
+     "v": "e",
+     "r": "(Phòng khám không làm được test thở urê.)",
+     "n": "Phải xác định H. pylori ở mọi người khó tiêu (Rome V Clinical Evaluation; VNAGE 2024 KC 3). Có chỉ định soi nên làm urease nhanh khi soi (VNAGE 2023 Statement 3, 4). Chưa dùng PPI, kháng sinh nên test hợp lệ (Statement 6)."
+    },
+    "hp_phan": {
+     "v": "u",
+     "r": "(Phòng khám không làm được.)",
+     "n": "Test không xâm lấn khi không soi (VNAGE 2024 KC 3); ca có chỉ định soi nên ưu tiên urease khi soi."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 128 g/L · BC 6,8 G/L · TC 262 G/L (nếu làm ở huyện).",
+     "n": "VNAGE 2024 KC 4; thiếu máu là dấu báo động (KC 2)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose đói 7,9 mmol/L (nếu làm ở huyện).",
+     "n": "VNAGE 2024 KC 4."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "Không thấy trứng giun hay Giardia (nếu làm ở huyện).",
+     "n": "Giardia lamblia, Strongyloides stercoralis gây khó tiêu; Việt Nam nhiễm ký sinh trùng nhiều (VNAGE 2024 Bảng 2, KC 4)."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Gan nhiễm mỡ nhẹ; túi mật không sỏi; tụy không to (nếu làm ở huyện).",
+     "n": "VNAGE 2024 KC 4 khuyên; Rome V không ủng hộ hình ảnh thường quy. Làm hay không không trừ điểm."
+    },
+    "creat": {
+     "v": "a",
+     "n": "VNAGE 2024 KC 4; Rome V: không thường quy."
+    },
+    "lyte": {
+     "v": "a",
+     "n": "VNAGE 2024 KC 4; Rome V: không thường quy."
+    },
+    "liver": {
+     "v": "a",
+     "n": "VNAGE 2024 KC 4; Rome V: không thường quy."
+    },
+    "tsh": {
+     "v": "a",
+     "n": "VNAGE 2024 KC 4; Rome V: không thường quy."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khó tiêu chưa thăm dò ở nữ 53 tuổi, nghĩ nhiều khó tiêu chức năng thể khó chịu sau ăn (PDS) chồng lấp nóng rát thượng vị (EPS); chưa nội soi; đái tháo đường típ 2 dùng metformin",
+     "ok": 1,
+     "n": "Mau no, đầy tức sau ăn gây phiền 8 tháng; nóng rát 1–2 ngày/tuần; không dấu báo động nặng, ECG bình thường (Rome V B1, B1a; VNAGE 2024 Introduction)."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng",
+     "n": "Khoảng 8% người khó tiêu nội soi có loét (BSG 2022 tr. 1705); chỉ loại trừ bằng nội soi (VNAGE 2024 KC 1). Chưa dùng NSAID, chưa xuất huyết."
+    },
+    {
+     "t": "Ung thư dạ dày",
+     "n": "Triệu chứng sớm nghèo nàn, không đặc hiệu (QĐ 3127/2020 mục 3.1); sàng lọc chủ yếu bằng nội soi (mục 3.6). Cô không sụt cân đáng kể, không thiếu máu, không nuốt nghẹn nhưng 53 tuổi chưa soi."
+    },
+    {
+     "t": "Bệnh động mạch vành (triệu chứng tương đương đau ngực)",
+     "n": "Đái tháo đường, nữ 53 tuổi; nhưng đau không liên quan gắng sức, ECG bình thường (ESC 2023 mục 3.1.1, 3.2)."
+    },
+    {
+     "t": "Bệnh đường mật – sỏi túi mật",
+     "n": "Đau sau ăn phải loại cơn quặn mật (VNAGE 2024 Introduction): cô không đau thành cơn, không lan vai phải, Murphy âm tính."
+    },
+    {
+     "t": "Liệt dạ dày do đái tháo đường",
+     "n": "Buồn nôn/nôn nổi bật mới gợi ý (Rome V B1a, B1b); cô chỉ nôn nao nhẹ. Không làm test làm rỗng dạ dày thường quy (ACG-CAG 2017 khuyến cáo 13)."
+    },
+    {
+     "t": "Khó tiêu thứ phát do metformin hoặc ký sinh trùng đường ruột",
+     "n": "Metformin gây khó tiêu (VNAGE 2024 Bảng 3) nhưng cô dùng năm năm, triệu chứng mới tám tháng; giun, Giardia chưa loại trừ vì chưa soi phân (Bảng 2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích chẩn đoán dự kiến và vì sao vẫn phải nội soi: nghĩ nhiều khó tiêu chức năng, chưa dấu báo động nặng, nhưng 53 tuổi chưa từng soi nên chưa loại trừ loét hay ung thư",
+     "v": "c",
+     "n": "VNAGE 2024 KC 1, 2; VNAGE 2023 Statement 3, Bảng 2; Maastricht VI WG2 Statement 2; BSG 2022 Summary. Rome V và ACG-CAG 2017 Table 1 khuyến cáo 1, 2 (từ 60 tuổi) viết cho bối cảnh nguy cơ thấp hơn."
+    },
+    {
+     "t": "Viết giấy giới thiệu nội soi dạ dày – tá tràng ở bệnh viện huyện theo hẹn (không cấp cứu), ghi 53 tuổi, chưa soi, chưa test H. pylori, đái tháo đường dùng metformin; dặn xếp ngày nghỉ ca đi trong vài tuần tới",
+     "v": "c",
+     "n": "VNAGE 2024 KC 1. Thời hạn nội soi theo hẹn không có trong tài liệu đã tải; 'vài tuần' là lựa chọn của ca."
+    },
+    {
+     "t": "Xác định H. pylori bằng urease nhanh qua sinh thiết khi nội soi; dương tính thì diệt",
+     "v": "c",
+     "n": "VNAGE 2023 Statement 3, 4, 6; VNAGE 2024 KC 3, 6; châu Á 2026 Statement 22."
+    },
+    {
+     "t": "Điều trị triệu chứng trong lúc chờ nội soi theo thể khó chịu sau ăn: itopride 50 mg × 3 lần/ngày",
+     "v": "c",
+     "n": "Thuốc vận động đầu tiên cho thể sau ăn (VNAGE 2024 KC 9, 10, Bảng 5). Châu Á 2026 Statement 26: lợi ích so với giả dược chưa lặp lại ở pha 3. Không làm sai test H. pylori, PPI thì có (VNAGE 2023 Statement 6)."
+    },
+    {
+     "t": "Giữ metformin 500 mg × 2 lần/ngày, uống ngay sau ăn, không uống lúc đói, không tự ngưng; nói cô biết metformin có thể góp phần gây khó tiêu",
+     "v": "c",
+     "n": "QĐ 5904/2019 Phụ lục 2.3 Bước 2; VNAGE 2024 Bảng 3. Xử lý liều khi bỏ bữa hoặc thay thuốc vì khó tiêu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ăn nhiều bữa nhỏ đều giờ theo ca (ăn nhẹ trước ca, bữa chính sau ca), giảm đồ chiên béo, bớt cà phê, không bỏ bữa",
+     "v": "c",
+     "n": "Rome V Treatment; VNAGE 2024 KC 13; châu Á 2026 Statement 21. Bằng chứng ăn uống còn thấp."
+    },
+    {
+     "t": "Không cấp giấy 'đủ sức khỏe' hôm nay; hướng dẫn đến cơ sở đủ điều kiện làm xét nghiệm máu, nước tiểu, X-quang ngực; khuyên khai trung thực đái tháo đường",
+     "v": "c",
+     "n": "TT 25/2026/TT-BYT Phụ lục XXIV Mẫu số 03: tiền sử hỏi đái tháo đường; mục III.1 gồm xét nghiệm máu, nước tiểu, X-quang ngực. TT 32/2023/TT-BYT Điều 32 khoản 3: khám không đủ chuyên khoa thì không phân loại sức khỏe."
+    },
+    {
+     "t": "Dặn dấu hiệu báo động phải đến ngay: nôn ra máu hoặc phân đen, nôn kéo dài, nuốt nghẹn hay đau, sụt cân, xanh xao mệt lả",
+     "v": "c",
+     "n": "VNAGE 2024 KC 2."
+    },
+    {
+     "t": "Hẹn tái khám sau 4–6 tuần, mang kết quả nội soi; đánh giá thuốc ở mốc 8 tuần",
+     "v": "c",
+     "n": "Mốc 8 tuần: VNAGE 2024 KC 8, 11. Mốc 4–6 tuần là lựa chọn của ca."
+    },
+    {
+     "t": "Omeprazol 20 mg 1 lần/ngày thay cho itopride",
+     "v": "a",
+     "n": "Liều chuẩn (VNAGE 2024 KC 7, Bảng 4; Rome V Treatment). Phải ngưng ít nhất 2 tuần trước test H. pylori (VNAGE 2023 Statement 6). Châu Á 2026 Statement 23: một phần ba thành viên dè dặt về PPI."
+    },
+    {
+     "t": "Kết luận 'khó tiêu chức năng' và chỉ cho thuốc, không hẹn nội soi vì 'cô còn trẻ, không dấu báo động nặng'",
+     "v": "w",
+     "n": "VNAGE 2024 KC 1 (mạnh, đồng thuận 100%), KC 2; VNAGE 2023 Bảng 2 (nữ từ 35 tuổi); BSG 2022 trên 40 tuổi vùng nguy cơ cao."
+    },
+    {
+     "t": "Cho phác đồ diệt H. pylori theo kinh nghiệm ngay mà không xét nghiệm",
+     "v": "w",
+     "n": "VNAGE 2024 KC 3: điều trị kinh nghiệm thay test có thể làm chậm chẩn đoán tổn thương thực thể; VNAGE 2023 Statement 1."
+    },
+    {
+     "t": "Cho amitriptylin ngay từ đầu để chữa 'thần kinh dạ dày, mất ngủ'",
+     "v": "w",
+     "n": "Bậc hai sau 8 tuần PPI/thuốc vận động không đáp ứng (VNAGE 2024 KC 11; BSG 2022 Summary; Rome V Treatment; ACG-CAG 2017 khuyến cáo 9)."
+    },
+    {
+     "t": "Viết giấy xác nhận 'sức khỏe tốt, đủ điều kiện làm việc' cho cô yên tâm",
+     "v": "w",
+     "n": "TT 32/2023/TT-BYT Điều 32 khoản 3; Mẫu số 03 mục III.1 cần xét nghiệm và X-quang phòng khám không làm được."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng khó tiêu chưa thăm dò ở nữ 53 tuổi, nghĩ nhiều khó tiêu chức năng: thể khó chịu sau ăn (mau no, đầy tức) chồng lấp nóng rát thượng vị; mạn tính 8 tháng, đợt nặng 6 tuần",
+     "Chưa dấu báo động nặng; chưa loại trừ loét, ung thư dạ dày vì chưa nội soi: có chỉ định nội soi theo hẹn do tuổi và giới",
+     "Chưa biết tình trạng H. pylori; test còn hợp lệ vì chưa dùng PPI, kháng sinh",
+     "Yếu tố làm nặng: ca đêm, bỏ bữa, cà phê, lo mất việc; metformin có thể góp phần",
+     "Bệnh kèm: đái tháo đường típ 2 dùng metformin; không phải triệu chứng vành (ECG bình thường)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh khi người bệnh kể lộn xộn: ngắt nhẹ, hỏi từng ý ngắn rồi tóm tắt cho cô xác nhận. Chuyện chó chết và giấy sức khỏe là hai việc cần giữ riêng.",
+     "Tiêu chuẩn: đầy sau ăn hoặc mau no gây phiền (PDS: ít nhất 2 ngày/tuần theo Rome V B1a, 3 ngày/tuần theo VNAGE 2024 Introduction; cô 5 ngày) và/hoặc đau, nóng rát thượng vị ít nhất 1 ngày/tuần (EPS, Rome V B1b); 3 tháng gần nhất, khởi phát từ 6 tháng trước; không bệnh thực thể giải thích. Rome V xếp đau, nóng rát sau ăn vào PDS (B1a mục 2); VNAGE 2024 và châu Á 2026 Statement 1 vẫn mô tả thể chồng lấp.",
+     "Không điển hình: cô kể 'mệt, ăn không vô, nôn nao' chứ không kêu 'đau thượng vị'; phải hỏi theo chức năng (một bữa ăn mấy thìa, bỏ bữa nào) mới ra PDS.",
+     "Dấu báo động chưa có: không xuất huyết, cân 55 → 54 kg (sụt khoảng 2%, ngưỡng trên 10%), không nuốt nghẹn, không nôn kéo dài, không khối, không tiền sử gia đình (VNAGE 2024 KC 2). Nhưng khó tiêu mới ở nữ từ 35 tuổi là dấu báo động theo VNAGE 2023 Bảng 2 nên vẫn soi.",
+     "Ngưỡng tuổi nội soi: VNAGE 2024 KC 1 (từ 40 tuổi vùng nguy cơ cao, từ 50 vùng thấp), VNAGE 2023 Statement 3 (nữ từ 35), Maastricht VI WG2 Statement 2 (trên 50), BSG 2022 (trên 40 vùng nguy cơ cao). Rome V và ACG-CAG 2017 (từ 60 tuổi) không đòi soi khi không dấu báo động, viết cho bối cảnh nguy cơ thấp hơn; cô 53 tuổi ở Việt Nam, theo hướng nội soi.",
+     "Chưa có xét nghiệm, siêu âm vẫn quyết được hôm nay: nội soi kèm urease, công thức máu, sinh hóa, soi phân, siêu âm (VNAGE 2024 KC 4) gửi huyện. Không sốt, không tiêu chảy nên không nghĩ khó tiêu sau nhiễm khuẩn (châu Á 2026 Statement 9, 17).",
+     "Lý do thật là giấy sức khỏe và nỗi sợ mất việc; cô giấu đái tháo đường. Giải thích giấy cần những gì (TT 25/2026 Mẫu 03 mục III.1; TT 32/2023 Điều 32 khoản 3): phòng khám không đủ xét nghiệm nên không cấp."
+    ],
+    "phan_tich_xu_tri": [
+     "Thể sau ăn nổi bật nên chọn thuốc vận động: itopride 50 mg × 3 lần/ngày (VNAGE 2024 KC 10, Bảng 5); châu Á 2026 Statement 26 nêu lợi ích chưa lặp lại ở pha 3. Chấp nhận: PPI liều chuẩn 1 lần/ngày (VNAGE 2024 KC 7; Rome V Treatment), thử 4–8 tuần (Rome V), 8 tuần (VNAGE 2024 KC 8) hoặc 12 tuần (châu Á 2026 Statement 23); ngưng ít nhất 2 tuần trước test H. pylori (VNAGE 2023 Statement 6).",
+     "Metformin: giữ, uống ngay sau ăn (QĐ 5904/2019 Phụ lục 2.3 Bước 2); có trong danh sách thuốc gây khó tiêu (VNAGE 2024 Bảng 3). Rome V Clinical Evaluation khuyên ngưng thuốc có thể gây khó tiêu, nhưng cách thay thuốc đái tháo đường không có trong tài liệu đã tải: báo bác sĩ điều trị.",
+     "Giấy sức khỏe cần xét nghiệm và X-quang ngực mà phòng khám không làm được nên không phân loại sức khỏe (TT 25/2026 Mẫu 03 mục III.1; TT 32/2023 Điều 32 khoản 3); gộp với chuyến nội soi để chỉ nghỉ một buổi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Itopride",
+      "ham_luong": "50 mg",
+      "lieu": "1 viên × 3 lần/ngày",
+      "duong": "uống",
+      "thoi_diem": "Theo tờ hướng dẫn của thuốc (giờ uống so với bữa ăn không có trong tài liệu đã tải)",
+      "so_ngay": "Đủ 8 tuần, đánh giá lại ở tái khám",
+      "ghi_chu": "VNAGE 2024 KC 9, 10, Bảng 5 (50 mg tid). Liều khi suy gan, suy thận không có trong tài liệu đã tải. Thay thế chấp nhận: omeprazol 20 mg 1 lần/ngày (VNAGE 2024 Bảng 4), ngưng 2 tuần trước test H. pylori (VNAGE 2023 Statement 6)."
+     },
+     {
+      "thuoc": "Metformin (đang dùng, giữ nguyên)",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên × 2 lần/ngày",
+      "duong": "uống",
+      "thoi_diem": "Ngay sau ăn sáng và sau ăn tối (không uống lúc đói)",
+      "so_ngay": "Tiếp tục dài hạn theo bác sĩ điều trị đái tháo đường",
+      "ghi_chu": "QĐ 5904/2019 Phụ lục 2.3 Bước 2; VNAGE 2024 Bảng 3; QĐ 5481/2020 mục 8: dạng phóng thích chậm giảm tác dụng phụ tiêu hóa. Không đổi thuốc ở lượt này."
+     }
+    ],
+    "dan_do": [
+     "Đi nội soi ở bệnh viện huyện trong vài tuần tới, mang giấy giới thiệu; báo chưa dùng PPI, kháng sinh để làm test H. pylori khi soi (VNAGE 2023 Statement 3, 6).",
+     "Đến ngay nếu nôn ra máu, phân đen, nôn nhiều, nuốt nghẹn, sụt cân, xanh xao mệt lả (VNAGE 2024 KC 2).",
+     "Ăn nhiều bữa nhỏ, ăn nhẹ trước ca, không bỏ bữa, bớt cà phê; metformin ngay sau ăn, không uống khi đói (Rome V Treatment; QĐ 5904/2019 Phụ lục 2.3).",
+     "Giấy khám sức khỏe: làm ở cơ sở đủ điều kiện, gộp với chuyến nội soi, khai thật đái tháo đường vì mẫu giấy có hỏi (TT 25/2026 Phụ lục XXIV Mẫu 03)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 6 tuần",
+   "tiep_don": "Cô Sen quay lại sau 6 tuần, hôm nay nghỉ ca nên đến buổi sáng, tỉnh táo hơn. Cô mang theo nửa vỉ itopride còn lại. Sinh hiệu: HA 126/76 mmHg, mạch 76 l/p, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%. Cân nặng 53,5 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho cô Sen về 'uống tiếp thuốc rồi tính' vì đã đỡ một phần là bỏ lỡ lúc cần soi: sau 6 tuần cô vẫn chưa soi, còn nóng rát và nôn nao nên chưa loại trừ loét hay ung thư (VNAGE 2024 KC 1, 11; Rome V Proposed Management Algorithm). Cô nhẹ nhõm vì 'khỏi phải đi', lùi thêm vài tuần; ung thư dạ dày sớm nghèo triệu chứng (QĐ 3127/2020 mục 3.1) nên chờ lâu làm chậm chẩn đoán nếu có bệnh thực thể. Tới mốc 8 tuần cô vẫn còn triệu chứng mà chưa có kết quả nội soi để quyết bước tiếp.",
+    "nhap_vien": "Nhập viện để chờ nội soi là không cần: cô ăn uống được, sinh hiệu ổn, không dấu báo động nặng, nội soi ngoại trú sau khi sắp ngày nghỉ ca là đủ (VNAGE 2024 KC 1, 2). Cô mất cả tuần lương ca đêm, trễ hạn nộp giấy sức khỏe công ty đã gia hạn, và nỗi sợ 'có bệnh là bị đuổi' thành đúng như cô lo."
+   },
+   "loi_mo": "Chào bác sĩ. Thuốc bác sĩ cho uống cũng đỡ đỡ, mà chưa hết hẳn. Tôi chưa đi soi được đâu, bận ca, với lại tôi sợ soi ra cái gì thì mất việc. Giấy sức khỏe thì công ty cho thêm tới cuối tháng sau.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "126/76",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Uống itopride sáu tuần, đỡ một phần; vẫn còn triệu chứng; chưa đi nội soi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, đáp ứng một phần"
+    },
+    {
+     "id": "muc_dap_ung",
+     "noi_dung": "Mau no đỡ nhiều: từ nửa chén cơm giờ ăn được một chén; ợ hơi giảm. Còn tức nặng sau ăn 2 ngày/tuần, nóng rát dưới mũi ức 2 lần/tuần, nôn nao buổi sáng 2–3 buổi/tuần. Cô tự chấm đỡ khoảng một nửa. Không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức đáp ứng: đỡ một phần, chưa hết"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống itopride đều những ngày ăn đủ bữa; những ngày bỏ bữa thì quên thuốc, mỗi tuần quên chừng 4–5 liều. Không chóng mặt, không tiêu chảy, không phát ban.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, tác dụng phụ"
+    },
+    {
+     "id": "metformin_doi",
+     "noi_dung": "Có hôm bỏ bữa mà vẫn uống metformin cho 'đúng giờ', sau đó nôn nao nhiều hơn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cụ thể cô uống metformin lúc nào, có hôm bỏ bữa thì sao.",
+     "k": 1,
+     "y": "Uống metformin lúc đói làm nặng triệu chứng"
+    },
+    {
+     "id": "vi_sao_chua_soi",
+     "noi_dung": "Chưa soi vì thấy đã đỡ, nghỉ một buổi mất một ca lương, nghe nói soi đau, và sợ soi ra ung thư thì mất việc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao chưa đi nội soi hoặc cô sợ điều gì ở nội soi.",
+     "k": 1,
+     "y": "Rào cản nội soi: tiền, sợ đau, sợ ung thư, sợ mất việc"
+    },
+    {
+     "id": "ksk_tien_do",
+     "noi_dung": "Công ty cho nộp giấy khám sức khỏe tới cuối tháng sau. Cô chưa làm vì chưa biết đi đâu và sợ khai tiểu đường bị loại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiến độ giấy sức khỏe"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không nôn ra máu, không phân đen, không nuốt nghẹn, không nôn kéo dài, không xanh xao. Cân 54 → 53,5 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động vẫn âm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, không vàng da. Cân 53,5 kg.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ thượng vị ít hơn lần trước, không phản ứng thành bụng, không khối, gan lách không to.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "8,7 mmol/L (ăn cách 4 giờ).",
+     "n": "Biết đường huyết hiện tại; không bàn chỉnh thuốc đái tháo đường ở ca này."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi.)",
+     "n": "Đáp ứng chưa đủ với thuốc thử mà chưa soi thì phải soi (VNAGE 2024 KC 11; Rome V Proposed Management Algorithm); đã có chỉ định từ lượt 1. Chuyển bệnh viện huyện."
+    },
+    "hp_ubt": {
+     "v": "e",
+     "r": "(Phòng khám không làm được test thở urê.)",
+     "n": "Xác định H. pylori (Rome V; VNAGE 2024 KC 3) bằng urease khi soi (VNAGE 2023 Statement 3, 4); cô chỉ dùng itopride nên test hợp lệ (Statement 6)."
+    },
+    "hp_phan": {
+     "v": "u",
+     "r": "(Phòng khám không làm được.)",
+     "n": "Test không xâm lấn khi không soi (VNAGE 2024 KC 3)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 128 g/L (nếu làm ở huyện).",
+     "n": "VNAGE 2024 KC 4."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "Không thấy ký sinh trùng (nếu làm ở huyện).",
+     "n": "VNAGE 2024 KC 4, Bảng 2."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Gan nhiễm mỡ nhẹ, túi mật không sỏi (nếu làm ở huyện).",
+     "n": "VNAGE 2024 KC 4."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khó tiêu chức năng (PDS chồng lấp EPS) đáp ứng một phần sau 6 tuần itopride; chưa nội soi nên phải hoàn tất đánh giá; đái tháo đường típ 2 dùng metformin",
+     "ok": 1,
+     "n": "Đỡ khoảng một nửa, uống thuốc không đều (Rome V B1; châu Á 2026 Statement 26: thuốc vận động hiếm khi hết hẳn). Mới 6 tuần, chưa tới mốc 8 tuần (VNAGE 2024 KC 8, 11)."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng",
+     "n": "Chưa loại trừ vì chưa nội soi (VNAGE 2024 KC 1)."
+    },
+    {
+     "t": "Ung thư dạ dày",
+     "n": "Dấu báo động vẫn âm: cân 54 → 53,5 kg, không thiếu máu triệu chứng, không nuốt nghẹn (VNAGE 2024 KC 2) nhưng chưa nội soi (QĐ 3127/2020 mục 3.6)."
+    },
+    {
+     "t": "Thất bại điều trị, kháng thuốc",
+     "n": "Chưa đủ: 6 tuần, đỡ một nửa, quên chừng 4–5 liều/tuần; mốc 8 tuần chưa tới (VNAGE 2024 KC 11)."
+    },
+    {
+     "t": "Khó tiêu do metformin uống lúc đói",
+     "n": "Nôn nao nặng hơn đúng hôm bỏ bữa mà vẫn uống: góp phần (VNAGE 2024 Bảng 3; QĐ 5904/2019 Phụ lục 2.3 Bước 2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển bệnh viện huyện nội soi dạ dày – tá tràng trong vài tuần tới vào ngày nghỉ ca; thư chuyển ghi tóm tắt: 53 tuổi, nữ, khó chịu sau ăn 8 tháng, đỡ một nửa sau 6 tuần itopride, chưa soi, chưa test H. pylori, đái tháo đường dùng metformin",
+     "v": "c",
+     "n": "Đáp ứng chưa đủ thì nội soi, xét nghiệm nếu chưa làm (Rome V Proposed Management Algorithm; VNAGE 2024 KC 11); chỉ định từ lượt 1 (KC 1; VNAGE 2023 Statement 3). Thời hạn nội soi không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Urease nhanh qua sinh thiết khi nội soi để xác định H. pylori; dương tính thì diệt",
+     "v": "c",
+     "n": "VNAGE 2023 Statement 3, 4, 6; VNAGE 2024 KC 3, 6."
+    },
+    {
+     "t": "Giải thích: đỡ khoảng một nửa sau 6 tuần là có đáp ứng, chưa phải thất bại, cũng chưa phải khỏi; vì vậy phải nội soi để biết chắc, không chờ hết thuốc rồi tính",
+     "v": "c",
+     "n": "Đánh giá đáp ứng ở 8 tuần (VNAGE 2024 KC 8, 11); thuốc vận động hiếm khi hết hẳn triệu chứng (châu Á 2026 Statement 26)."
+    },
+    {
+     "t": "Tiếp tục itopride 50 mg × 3 lần/ngày cho đủ 8 tuần, uống đều kể cả ngày bỏ bữa; chưa tăng liều, chưa thêm thuốc khác",
+     "v": "c",
+     "n": "VNAGE 2024 KC 11, Bảng 5."
+    },
+    {
+     "t": "Gắn thuốc vào bữa ăn: metformin chỉ uống ngay sau ăn, không uống lúc đói; ăn nhẹ trước ca để luôn có bữa",
+     "v": "c",
+     "n": "QĐ 5904/2019 Phụ lục 2.3 Bước 2; VNAGE 2024 Bảng 3. Xử lý liều khi bỏ bữa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gộp một chuyến ở bệnh viện huyện: nội soi cùng khám sức khỏe đi làm (xét nghiệm máu, nước tiểu, X-quang ngực), cô khai thật đái tháo đường; chỉ mất một ngày nghỉ",
+     "v": "c",
+     "n": "TT 25/2026/TT-BYT Phụ lục XXIV Mẫu số 03 mục III.1; TT 32/2023/TT-BYT Điều 32 khoản 3. Giải quyết đúng lý do thật để cô chịu đi soi."
+    },
+    {
+     "t": "Trả lời nỗi sợ 'soi ra ung thư là mất việc': soi để biết rõ và chữa đúng, ung thư dạ dày sớm nghèo triệu chứng nên chỉ nội soi mới loại trừ được; không hứa chuyện công việc",
+     "v": "c",
+     "n": "QĐ 3127/2020 mục 3.1, 3.6; châu Á 2026 Statement 3 (nhiều người ngại nội soi nhưng là công cụ then chốt), Statement 20."
+    },
+    {
+     "t": "Dặn dấu báo động phải đến ngay; hẹn tái khám sau nội soi, mang kết quả",
+     "v": "c",
+     "n": "VNAGE 2024 KC 2, 11."
+    },
+    {
+     "t": "Thêm omeprazol 20 mg/ngày vì còn nóng rát",
+     "v": "a",
+     "n": "Liều chuẩn, không tăng (VNAGE 2024 KC 7). Phải ngưng ít nhất 2 tuần trước test H. pylori (VNAGE 2023 Statement 6) nên không thích hợp khi sắp soi."
+    },
+    {
+     "t": "Hẹn thêm công thức máu, sinh hóa, soi phân, siêu âm bụng cùng chuyến",
+     "v": "a",
+     "n": "VNAGE 2024 KC 4; Rome V không thường quy."
+    },
+    {
+     "t": "Cho omeprazol 40 mg/ngày (gấp đôi liều chuẩn) vì 'đỡ chưa hết'",
+     "v": "w",
+     "n": "Tăng đôi liều PPI không cải thiện thêm (VNAGE 2024 KC 7; Rome V Treatment; BSG 2022 Summary: không đáp ứng theo liều)."
+    },
+    {
+     "t": "Cho amitriptylin ngay vì 'đỡ ít, thuốc cũ không hiệu quả'",
+     "v": "w",
+     "n": "Bậc hai sau 8 tuần không đáp ứng và sau đánh giá lại kỹ, nội soi nếu chưa làm (VNAGE 2024 KC 11; Rome V; BSG 2022 Summary). Mới 6 tuần, chưa soi."
+    },
+    {
+     "t": "Đổi sang metoclopramid hoặc domperidon dùng kéo dài thay itopride",
+     "v": "w",
+     "n": "VNAGE 2024 Bảng 5: metoclopramid tối đa 5 ngày, domperidon tối đa 1 tuần; tác dụng phụ ngoại tháp, tăng prolactin."
+    },
+    {
+     "t": "Cho rằng đã đỡ nên ngưng thuốc, không cần nội soi",
+     "v": "w",
+     "n": "VNAGE 2024 KC 1, 11; VNAGE 2023 Bảng 2."
+    },
+    {
+     "t": "Cho phác đồ diệt H. pylori theo kinh nghiệm không xét nghiệm",
+     "v": "w",
+     "n": "VNAGE 2024 KC 3; VNAGE 2023 Statement 1."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Khó tiêu chức năng (PDS chồng lấp EPS) đáp ứng một phần sau 6 tuần itopride, uống chưa đều; chưa nội soi nên chưa thể khẳng định",
+     "Chưa loại trừ loét và ung thư dạ dày; chưa biết tình trạng H. pylori; chưa có dấu báo động mới",
+     "Yếu tố làm nặng: bỏ bữa, uống metformin lúc đói, ca đêm, nỗi sợ nội soi và mất việc"
+    ],
+    "phan_tich_chan_doan": [
+     "Vùng xám: hồi phục chậm bình thường hay thất bại điều trị sớm? Đỡ khoảng một nửa, uống không đều, mới 6 tuần: chưa tới mốc 8 tuần (VNAGE 2024 KC 8, 11), và thuốc vận động hiếm khi hết hẳn (châu Á 2026 Statement 26).",
+     "Nhưng điều quan trọng hơn là cô chưa nội soi dù đã có chỉ định ở lượt 1 (VNAGE 2024 KC 1; VNAGE 2023 Statement 3). Đáp ứng chưa đủ với thuốc thử mà chưa soi thì phải soi (Rome V Proposed Management Algorithm; VNAGE 2024 KC 11).",
+     "Hỏi tuân thủ cụ thể và cách uống metformin: uống lúc đói làm nôn nao nặng hơn; metformin có trong Bảng 3 VNAGE 2024.",
+     "Lý do chưa soi: sợ mất việc, sợ đau, mất một ca lương. Giải quyết bằng gộp nội soi với khám sức khỏe, chỉ mất một ngày.",
+     "Dấu báo động âm (cân 54 → 53,5 kg, không xuất huyết, không nuốt nghẹn: VNAGE 2024 KC 2); không có chỉ định cấp cứu."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển nội soi ở bệnh viện huyện (thư chuyển có tóm tắt) kèm urease nhanh. Thời hạn nội soi không có trong tài liệu đã tải; 'vài tuần' là lựa chọn của ca.",
+     "Tiếp tục itopride cho đủ 8 tuần, không tăng liều, chưa thêm thuốc: thêm PPI thì phải ngưng ít nhất 2 tuần trước test H. pylori (VNAGE 2023 Statement 6), mà nội soi đã gần.",
+     "Sau 8 tuần vẫn không đáp ứng và đã soi: cân nhắc amitriptylin 10 mg trước ngủ (VNAGE 2024 KC 11: tăng mỗi 2 tuần, thường 20–30 mg, không quá 75 mg; BSG 2022 Summary: tối đa 30–50 mg/ngày, thận trọng hơn) hoặc liệu pháp tâm lý (KC 12). Chưa thuộc lượt này."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Itopride",
+      "ham_luong": "50 mg",
+      "lieu": "1 viên × 3 lần/ngày",
+      "duong": "uống",
+      "thoi_diem": "Theo tờ hướng dẫn của thuốc (giờ uống so với bữa ăn không có trong tài liệu đã tải)",
+      "so_ngay": "Đến đủ 8 tuần (còn khoảng 2 tuần)",
+      "ghi_chu": "VNAGE 2024 KC 11, Bảng 5. Không tăng liều; không thêm PPI trước test H. pylori (VNAGE 2023 Statement 6)."
+     },
+     {
+      "thuoc": "Metformin (đang dùng, giữ nguyên)",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên × 2 lần/ngày",
+      "duong": "uống",
+      "thoi_diem": "Ngay sau ăn sáng và sau ăn tối; không uống khi chưa ăn",
+      "so_ngay": "Tiếp tục dài hạn",
+      "ghi_chu": "QĐ 5904/2019 Phụ lục 2.3 Bước 2. Liều ngày nhịn ăn nội soi: không có trong tài liệu đã tải, hỏi nơi nội soi."
+     }
+    ],
+    "dan_do": [
+     "Đi nội soi và khám sức khỏe ở bệnh viện huyện cùng một ngày, mang thư chuyển; khai thật đái tháo đường (TT 25/2026 Phụ lục XXIV Mẫu 03).",
+     "Uống itopride đủ 3 liều/ngày kể cả ngày bỏ bữa chính (ăn nhẹ để có thuốc); metformin chỉ uống ngay sau ăn.",
+     "Đến ngay nếu nôn ra máu, phân đen, nôn nhiều, nuốt nghẹn, sụt cân, xanh xao (VNAGE 2024 KC 2)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 3 tháng",
+   "tiep_don": "Cô Sen quay lại sau 3 tháng, mang tờ kết quả nội soi của bệnh viện huyện. Cô nói 'hết thuốc được vài tuần là bị lại'. Sinh hiệu: HA 130/80 mmHg, mạch 80 l/p, nhiệt 36,8 °C, nhịp thở 16 l/p, SpO₂ 98%. Cân nặng 54 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển cô soi lại ngay vì coi tái phát sau ngưng thuốc là dấu báo động (VNAGE 2023 Bảng 2) là bỏ qua nội soi hai tháng trước: niêm mạc bình thường, urease âm tính, không dấu báo động mới (VNAGE 2024 KC 2). Cô lại nhịn ăn, nghỉ ca, tốn tiền để nhận kết quả rất có thể giống lần trước (BSG 2022 tr. 1705: khoảng 80% người khó tiêu nội soi bình thường, ung thư dưới 0,5%). Cô kết luận 'soi hai lần vẫn không ra bệnh, uống thuốc làm gì', dễ bỏ điều trị và không đổi nếp ăn.",
+    "nhap_vien": "Nhập viện vì 'tái phát' là không cần: cô ăn uống được, cân ổn định, không dấu báo động, nội soi đã bình thường (VNAGE 2024 KC 2). Cô mất lương ca đêm đúng lúc vừa ký hợp đồng, nghỉ mấy ngày mà nguyên nhân thật (ca đêm, bỏ bữa, cà phê) vẫn nguyên nên ra viện lại bị tiếp."
+   },
+   "loi_mo": "Bác sĩ ơi, thuốc uống đủ tám tuần thì hết hẳn, tôi ngưng theo dặn. Được ba tuần là bị lại, no sớm, tức, nôn nao như cũ. Tôi mang tờ soi của bệnh viện huyện đây, bác sĩ coi giùm. Chứ tôi đã đỡ rồi mà sao lại bị lại hả bác sĩ?",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "130/80",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mau no, tức nặng, nôn nao trở lại ba tuần sau khi ngưng thuốc; mang kết quả nội soi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: tái phát sau ngưng thuốc"
+    },
+    {
+     "id": "ket_qua_noi_soi",
+     "noi_dung": "Nội soi ở bệnh viện huyện hai tháng trước: thực quản, dạ dày, hành tá tràng niêm mạc bình thường, không loét, không khối; urease nhanh âm tính. Cùng chuyến khám sức khỏe: Hb 128 g/L, creatinin bình thường, glucose đói 7,9 mmol/L, soi phân không ký sinh trùng, siêu âm gan nhiễm mỡ nhẹ, túi mật không sỏi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Kết quả nội soi, urease, xét nghiệm khác"
+    },
+    {
+     "id": "dieu_tri_da_qua",
+     "noi_dung": "Uống itopride đủ 8 tuần như dặn. Hết gần hết triệu chứng, còn ợ hơi chút ít. Ngưng thuốc theo hẹn, chưa tự mua thuốc dạ dày nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã đáp ứng điều trị, ngưng thuốc"
+    },
+    {
+     "id": "tai_phat_trieu_chung",
+     "noi_dung": "Ba tuần nay mau no, tức nặng sau ăn 4–5 ngày/tuần, nóng rát dưới mũi ức 2 ngày/tuần, nôn nao buổi sáng. Nhẹ hơn trước khi điều trị nhưng vướng công việc. Không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mô tả tái phát"
+    },
+    {
+     "id": "doi_ca_an_uong",
+     "noi_dung": "Hai tháng nay công ty thiếu người, cô làm ca đêm 6 đêm/tuần, thường bỏ bữa trước ca, ăn một bữa lớn sau ca; cà phê tăng lên 4 ly/ngày để tỉnh; ngủ ban ngày 4 giờ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cụ thể về lịch ca, bữa ăn, cà phê, giấc ngủ kể từ khi ngưng thuốc.",
+     "k": 1,
+     "y": "Nguyên nhân nền chưa xử lý: ca đêm, bỏ bữa, cà phê"
+    },
+    {
+     "id": "metformin_doi",
+     "noi_dung": "Bỏ bữa thì cô lại uống metformin cho 'đúng giờ', rồi nôn nao như lần trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thói quen uống metformin lúc đói quay lại"
+    },
+    {
+     "id": "lo_au",
+     "noi_dung": "Từ khi vừa ký hợp đồng một năm, cô lo giữ việc và lo tiền chữa chó mèo bệnh, ngủ không sâu giấc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng về căng thẳng, lo lắng hoặc giấc ngủ.",
+     "k": 1,
+     "y": "Căng thẳng, mất ngủ"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không nôn ra máu, không phân đen, không nuốt nghẹn, không nôn kéo dài. Cân 54 kg, ổn định so với lượt trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động mới: không"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, không vàng da. Cân 54 kg.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ thượng vị, không phản ứng thành bụng, không khối, gan lách không to.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "8,9 mmol/L (ăn cách 3 giờ).",
+     "n": "Theo dõi đường huyết; không bàn chỉnh thuốc đái tháo đường ở ca này."
+    },
+    "noi_soi": {
+     "v": "n",
+     "r": "(Phòng khám không có nội soi.)",
+     "n": "Không cần soi lại: đã soi bình thường hai tháng trước, không dấu báo động mới (VNAGE 2024 KC 2). Tài liệu đã tải không có khuyến cáo riêng về soi lại khi tái phát."
+    },
+    "hp_ubt": {
+     "v": "n",
+     "r": "(Phòng khám không làm được test thở urê.)",
+     "n": "Urease âm tính khi soi; không cần test lại (BSG 2022 tr. 1706: chỉ xác nhận sau diệt ở người nguy cơ ung thư dạ dày cao)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khó tiêu chức năng (PDS chồng lấp EPS) tái phát sau ngưng thuốc; nội soi bình thường, urease âm tính; yếu tố thúc đẩy: ca đêm, bỏ bữa, cà phê, căng thẳng, metformin uống lúc đói",
+     "ok": 1,
+     "n": "Triệu chứng đúng tiêu chuẩn, nội soi không tổn thương, H. pylori âm tính (Rome V B1; VNAGE 2024 KC 5; châu Á 2026 Statement 3: chẩn đoán dương tính). Bệnh mạn tính tái diễn (VNAGE 2024 Introduction)."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng",
+     "n": "Nội soi hai tháng trước không loét (VNAGE 2024 KC 1); không dùng NSAID."
+    },
+    {
+     "t": "Ung thư dạ dày",
+     "n": "Nội soi niêm mạc bình thường, không khối; cân ổn định, không dấu báo động mới (VNAGE 2024 KC 2; QĐ 3127/2020 mục 3.6)."
+    },
+    {
+     "t": "Chẩn đoán sai từ đầu, bệnh thực thể bị bỏ sót",
+     "n": "Nội soi, urease, siêu âm, soi phân, huyết học đều bình thường; đáp ứng itopride 8 tuần rồi tái phát đúng kiểu khó tiêu chức năng."
+    },
+    {
+     "t": "Thất bại điều trị (kháng trị)",
+     "n": "Không: đáp ứng gần hết sau 8 tuần (VNAGE 2024 KC 8, 11); tái phát sau ngưng khác với không đáp ứng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: khó tiêu chức năng hay tái diễn, tái phát không phải thất bại hay chẩn đoán sai; nội soi bình thường củng cố chẩn đoán, không soi lại",
+     "v": "c",
+     "n": "VNAGE 2024 Introduction, KC 5; châu Á 2026 Statement 3. Không dấu báo động mới (VNAGE 2024 KC 2). Khuyến cáo riêng về soi lại khi tái phát: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Điều trị lại một đợt vì H. pylori âm tính: PPI liều chuẩn 1 lần/ngày (omeprazol 20 mg) hoặc itopride 50 mg × 3 lần/ngày; thời gian thử 4–8 tuần, 8 tuần hoặc 12 tuần; nếu đáp ứng thì thử ngưng sau 6 tháng",
+     "v": "c",
+     "n": "Rome V Treatment: PPI 4–8 tuần, không tăng liều; ACG-CAG 2017 Table 1 khuyến cáo 8; VNAGE 2024 KC 7, 8, 10, Bảng 4 (8 tuần; ngưng sau 6 tháng nếu đáp ứng); châu Á 2026 Statement 23 (12 tuần). Khác hội, năm, bằng chứng ở người châu Á; không nguồn nào nói cách kia gây hại."
+    },
+    {
+     "t": "Xử lý nguyên nhân nền: ăn nhẹ trước ca, bữa nhỏ đều đặn, bớt cà phê, giữ giấc ngủ ban ngày; hỏi và giải tỏa căng thẳng về việc làm",
+     "v": "c",
+     "n": "Rome V Treatment; VNAGE 2024 KC 13; châu Á 2026 Statement 15, 20, 21. Hướng dẫn riêng cho người làm ca đêm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gắn metformin vào bữa ăn, không uống khi đói; nhờ bác sĩ điều trị đái tháo đường cân nhắc dạng phóng thích chậm nếu vẫn khó tiêu",
+     "v": "c",
+     "n": "QĐ 5904/2019 Phụ lục 2.3 Bước 2; QĐ 5481/2020 mục 8; VNAGE 2024 Bảng 3."
+    },
+    {
+     "t": "Hẹn tái khám sau 8 tuần; nếu không đáp ứng thì đánh giá lại kỹ, cân nhắc amitriptylin liều thấp hoặc liệu pháp tâm lý",
+     "v": "c",
+     "n": "VNAGE 2024 KC 11, 12; BSG 2022 Summary; Rome V Treatment."
+    },
+    {
+     "t": "Dặn dấu hiệu báo động mới và khi nào cần khám sớm",
+     "v": "c",
+     "n": "VNAGE 2024 KC 2."
+    },
+    {
+     "t": "Tiếp tục itopride thay cho PPI",
+     "v": "a",
+     "n": "Đã đáp ứng 8 tuần (VNAGE 2024 KC 10, Bảng 5); châu Á 2026 Statement 26 nêu lợi ích chưa lặp lại ở pha 3."
+    },
+    {
+     "t": "Hướng dẫn liệu pháp tâm lý, kiểm soát căng thẳng",
+     "v": "a",
+     "n": "VNAGE 2024 KC 12; BSG 2022 Summary (khuyến cáo yếu); ở Việt Nam chưa phát triển (VNAGE 2024 KC 12)."
+    },
+    {
+     "t": "Thuốc kháng H2 thay PPI",
+     "v": "a",
+     "n": "Châu Á 2026 Statement 24; BSG 2022 Summary (khuyến cáo yếu). Liều không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng omeprazol lên 40 mg/ngày vì tái phát",
+     "v": "w",
+     "n": "VNAGE 2024 KC 7; Rome V Treatment; BSG 2022 Summary (không đáp ứng theo liều)."
+    },
+    {
+     "t": "Cho amitriptylin ngay vì 'tái phát nghĩa là thuốc cũ hết tác dụng'",
+     "v": "w",
+     "n": "Chưa thử lại thuốc bậc một sau tái phát; bậc hai chỉ khi không đáp ứng sau 8 tuần (VNAGE 2024 KC 11; BSG 2022 Summary)."
+    },
+    {
+     "t": "Dùng metoclopramid hoặc domperidon kéo dài",
+     "v": "w",
+     "n": "VNAGE 2024 Bảng 5: tối đa 5 ngày và 1 tuần; tác dụng phụ ngoại tháp, tăng prolactin."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Khó tiêu chức năng (PDS chồng lấp EPS) tái phát ba tuần sau ngưng itopride; nội soi bình thường, urease âm tính",
+     "Yếu tố thúc đẩy nền chưa xử lý: ca đêm 6 đêm/tuần, bỏ bữa, cà phê 4 ly, ngủ ít, lo việc làm, metformin uống lúc đói",
+     "Không dấu báo động mới; không cần soi lại. Bệnh kèm: đái tháo đường típ 2 dùng metformin"
+    ],
+    "phan_tich_chan_doan": [
+     "Tái phát có ba cách giải thích: nguyên nhân nền chưa xử lý, tuân thủ, hay chẩn đoán sai. Nội soi, urease, huyết học, siêu âm, soi phân đều bình thường và cô đáp ứng rồi tái phát đúng kiểu: loại 'chẩn đoán sai'. Cô ngưng thuốc đúng hẹn: loại 'bỏ thuốc'. Còn nguyên nhân nền: ca đêm, bỏ bữa, cà phê, căng thẳng, metformin lúc đói.",
+     "Tái phát khác không đáp ứng: không đáp ứng là chưa đỡ sau 8 tuần (VNAGE 2024 KC 8, 11); cô đã đáp ứng gần hết rồi tái phát sau ngưng, đúng bản chất bệnh mạn tính tái diễn (VNAGE 2024 Introduction).",
+     "Tái phát 2–4 tuần sau ngưng điều trị là dấu báo động trong VNAGE 2023 Bảng 2 khi chưa thăm dò; cô đã soi bình thường hai tháng trước, không dấu báo động mới (VNAGE 2024 KC 2) nên không soi lại. Khuyến cáo riêng về soi lại: không có trong tài liệu đã tải.",
+     "Nội soi bình thường, urease âm tính chốt chẩn đoán dương tính (Rome V B1; châu Á 2026 Statement 3) và đổi lựa chọn thuốc: H. pylori âm tính thì PPI là đầu tay (Rome V Treatment; ACG-CAG 2017 Table 1 khuyến cáo 8)."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị lại bằng thuốc bậc một: PPI liều chuẩn 1 lần/ngày hoặc itopride, không tăng liều (VNAGE 2024 KC 7; Rome V Treatment). Thời gian thử 4–8 tuần (Rome V), 8 tuần (VNAGE 2024 KC 8), 12 tuần (châu Á 2026 Statement 23); nếu đáp ứng, thử ngưng sau 6 tháng (VNAGE 2024 KC 8). Ghi cả ba mốc vì khác hội và năm; một phần ba thành viên đồng thuận châu Á dè dặt về PPI.",
+     "Giờ uống PPI: 30–60 phút trước bữa ăn đầu tiên trong ngày, tức trước bữa sau ca (ACG 2022 GERD KC 8); uống tối trước ngủ (QĐ 361/2014 Phụ lục NSAID mục 3.3) cũng chấp nhận.",
+     "Nguyên nhân nền quyết định có tái phát nữa không: bữa nhỏ đều, ăn nhẹ trước ca, bớt cà phê, giấc ngủ, căng thẳng (Rome V Treatment; VNAGE 2024 KC 13; châu Á 2026 Statement 15, 20, 21). Metformin gắn với bữa ăn (QĐ 5904/2019 Phụ lục 2.3 Bước 2); dạng phóng thích chậm là hướng cho bác sĩ điều trị đái tháo đường (QĐ 5481/2020 mục 8)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "1 viên × 1 lần/ngày",
+      "duong": "uống",
+      "thoi_diem": "30–60 phút trước bữa ăn đầu tiên trong ngày (ACG 2022 GERD KC 8)",
+      "so_ngay": "4–8 tuần (Rome V), 8 tuần (VNAGE 2024 KC 8) hoặc 12 tuần (châu Á 2026 Statement 23); đánh giá lại",
+      "ghi_chu": "VNAGE 2024 KC 7, Bảng 4; Rome V Treatment. Không tăng liều. Thay thế chấp nhận: itopride 50 mg × 3 lần/ngày (VNAGE 2024 Bảng 5)."
+     },
+     {
+      "thuoc": "Metformin (đang dùng, giữ nguyên)",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên × 2 lần/ngày",
+      "duong": "uống",
+      "thoi_diem": "Ngay sau ăn; không uống khi đói",
+      "so_ngay": "Tiếp tục dài hạn",
+      "ghi_chu": "QĐ 5904/2019 Phụ lục 2.3 Bước 2; đổi dạng phóng thích chậm do bác sĩ điều trị đái tháo đường quyết (QĐ 5481/2020 mục 8)."
+     }
+    ],
+    "dan_do": [
+     "Ăn nhẹ trước ca, bữa nhỏ đều giờ, bớt cà phê; metformin ngay sau ăn, không uống khi đói (Rome V Treatment; QĐ 5904/2019 Phụ lục 2.3 Bước 2).",
+     "Uống thuốc dạ dày đủ đợt, tái khám sau 8 tuần (VNAGE 2024 KC 8, 11) trước khi tự ngưng.",
+     "Đến ngay nếu nôn ra máu, phân đen, nôn nhiều, nuốt nghẹn, sụt cân, xanh xao (VNAGE 2024 KC 2)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Cô Sen dùng lại omeprazol 20 mg 8 tuần, ăn nhẹ trước ca, bớt cà phê còn hai ly; triệu chứng đỡ nhiều. Cô giữ được việc: giấy khám sức khỏe nộp đúng hạn, công ty ký hợp đồng. Bốn tháng sau, lúc công ty lại thiếu người, no sớm và tức nặng quay lại nhẹ hơn; lần này cô không hoảng, quay lại sớm, nhớ ăn nhẹ trước ca và uống metformin ngay sau ăn. Đây là bệnh mạn tính tái diễn, không phải thất bại điều trị hay chẩn đoán sai (VNAGE 2024 Introduction).",
+ "nhieu": [
+  "Kể lể lộn xộn: cô nhảy giữa chó chết, giấy sức khỏe, giá cà phê, bữa ăn. Dẫn dắt lại bằng câu hỏi ngắn từng ý, tóm tắt cho cô xác nhận, gom thành dòng thời gian (tám tháng, sáu tuần, tần suất từng triệu chứng).",
+  "Lý do thật là xin giấy sức khỏe: nếu chỉ nghe 'tức ngực, nôn nao' mà không hỏi 'hôm nay cô còn muốn nhờ gì', bác sĩ bỏ sót động cơ và việc cô giấu đái tháo đường; cấp giấy 'đủ sức khỏe' thì sai quy định.",
+  "Thuốc đái tháo đường giấu: hỏi chung chỉ nhận 'thuốc bổ'; metformin vừa là nguyên nhân khó tiêu có thể có (Bảng 3 VNAGE 2024), vừa là chỗ đặt rào cản (uống lúc đói khi bỏ bữa).",
+  "Không có xét nghiệm nào: quyết định hôm nay bằng hỏi bệnh, khám, ECG, đường huyết mao mạch; nội soi, urease, xét nghiệm, siêu âm gửi bệnh viện huyện, gộp với khám sức khỏe để cô chỉ nghỉ một ngày."
+ ],
+ "bai_hoc_bien": [
+  "Khó tiêu mới từ 35 tuổi ở nữ (VNAGE 2023 Bảng 2) hoặc từ 40 tuổi (VNAGE 2024 KC 1) vẫn cần nội soi dù không dấu báo động khác; Rome V và ACG-CAG 2017 viết cho bối cảnh nguy cơ ung thư dạ dày thấp hơn.",
+  "Biểu hiện không điển hình: người bệnh không nói 'đau thượng vị'. Hỏi theo chức năng (một bữa ăn mấy thìa, bỏ bữa nào) để tìm mau no, đầy sau ăn (Rome V B1a).",
+  "Đỡ một phần ở tuần 6 chưa phải thất bại, chưa phải khỏi: chưa tới mốc 8 tuần; nhưng chưa nội soi thì phải soi (Rome V Proposed Management Algorithm; VNAGE 2024 KC 11).",
+  "Tái phát: phân biệt nguyên nhân nền chưa xử lý, tuân thủ, chẩn đoán sai; soi lại không phải phản xạ khi vừa có nội soi bình thường."
+ ],
+ "diem_nho": [
+  "Rome V (B1a, B1b): PDS ≥ 2 ngày/tuần, EPS ≥ 1 ngày/tuần, 3 tháng gần nhất, khởi phát ≥ 6 tháng; VNAGE 2024 dùng PDS ≥ 3 ngày/tuần.",
+  "Dấu báo động (VNAGE 2024 KC 2): xuất huyết tiêu hóa, thiếu máu thiếu sắt, sụt cân trên 10%, nôn kéo dài, nuốt nghẹn hoặc đau, khối, tiền sử gia đình; VNAGE 2023 Bảng 2 thêm khó tiêu mới ở nữ ≥ 35 tuổi, không đáp ứng hoặc tái phát 2–4 tuần sau ngưng PPI.",
+  "Thể sau ăn: thuốc vận động đầu tiên, itopride 50 mg × 3 lần/ngày (VNAGE 2024 Bảng 5); PPI liều chuẩn 1 lần/ngày, không tăng đôi liều."
+ ],
+ "nguon": [
+  "VNAGE 2024 – khó tiêu chức năng – TL-0178 – Introduction, KC 1–14 (Bảng 1), Bảng 2–5",
+  "VNAGE 2023 – H. pylori – TL-0179 – Statement 1, 3, 4, 6; Bảng 2",
+  "Rome V – Gastroduodenal Disorders 2026 – TL-0191 (tệp _ban_02) – B1, B1a, B1b, Clinical Evaluation, Treatment, Proposed Management Algorithm",
+  "Đồng thuận châu Á về khó tiêu chức năng 2026 – TL-0193 – Statement 1, 3, 7, 9, 15, 17, 20–24, 26",
+  "BSG 2022 – khó tiêu chức năng – TL-0213 – phần Summary; tr. 1705–1706",
+  "ACG-CAG 2017 – khó tiêu – TL-0232 – Table 1 (khuyến cáo 1, 2, 8, 9, 13)",
+  "Maastricht VI/Florence 2022 – TL-0215 (tệp _ban_02) – WG2 Statement 2",
+  "QĐ 3127/QĐ-BYT/2020 ung thư dạ dày – TL-0170 – mục 3.1, 3.6",
+  "QĐ 5904/QĐ-BYT/2019 trạm y tế xã – TL-0284 – Phụ lục 2.3, Bước 2 (đái tháo đường)",
+  "QĐ 5481/QĐ-BYT/2020 đái tháo đường típ 2 – TL-0031 – mục 8 (metformin phóng thích chậm)",
+  "TT 25/2026/TT-BYT – TL-0668 – Phụ lục XXIV Mẫu số 03 (tiền sử bản thân; mục III.1)",
+  "TT 32/2023/TT-BYT – TL-0669 – Điều 30, 31, 32 khoản 3",
+  "ESC 2023 hội chứng vành cấp – TL-0069 – mục 3.1.1, 3.2",
+  "ACG 2022 GERD – TL-0212 – điều trị KC 8; QĐ 361/2014 – TL-0286 – Phụ lục NSAID mục 3.3 (giờ uống PPI)",
+  "Không có trong tài liệu đã tải: thời hạn nội soi theo hẹn; mốc tái khám 4–6 tuần; giờ uống và liều itopride khi suy gan, thận; liều thuốc kháng H2; xử lý liều metformin khi bỏ bữa hoặc nhịn ăn nội soi; hướng dẫn cho người làm ca đêm; khuyến cáo soi lại khi tái phát sau nội soi bình thường; tẩy giun theo kinh nghiệm."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 18/10/2026. Tài liệu đã đọc: TL-0178 (toàn văn), TL-0179 (Statement 1–6, Bảng 2), TL-0191 ban_02 (B1, Clinical Evaluation, Treatment, Algorithm), TL-0193 (Statement 1–3, 7, 9, 15, 17, 20–26), TL-0213 (Summary, tr. 1705–1706), TL-0232 (Table 1), TL-0215 ban_02 (WG2 Statement 2), TL-0170 (mục 3.1, 3.6), TL-0284 (Phụ lục 2.3), TL-0031 (mục 8), TL-0668 (Mẫu 03), TL-0669 (Điều 30–32).",
+  "Thiết kế: L1 ve_hen (giấy giới thiệu nội soi + itopride; chấm như TH-0162/TH-0083); L2 chuyen_tuyen (đỡ một phần ở tuần 6 mà chưa soi); L3 ve_hen. khoa_cls khóa xn, sieu_am; còn ECG, đường huyết mao mạch. Không thêm danh mục mới.",
+  "Mâu thuẫn: áp dụng mục sổ có sẵn (tuổi nội soi, giờ uống PPI, thời gian thử PPI 4–8/8/12 tuần, amitriptylin, itopride c). Không có mâu thuẫn thật mới; Rome V xếp đau, nóng rát sau ăn vào PDS, VNAGE mô tả chồng lấp: ghi cả hai.",
+  "Bối cảnh 'bệnh viện huyện có nội soi, xét nghiệm, siêu âm' và chuyện công ty, hợp đồng do ca tự dựng, không phải nội dung chuyên môn. Chỗ thiếu tài liệu: xem dòng cuối mục nguon."
+ ]
+}
