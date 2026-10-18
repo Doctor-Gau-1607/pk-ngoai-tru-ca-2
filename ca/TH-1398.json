@@ -1,0 +1,854 @@
+{
+ "ma_ca": "TH-1398",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_viem_tuy_cap",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Viêm tụy cấp",
+  "chan_doan_phai_loai_tru": [
+   "Thủng tạng rỗng",
+   "Nhồi máu cơ tim"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Bảo vệ",
+  "yeu_to_khoi_phat": "Sau lao động ngoài trời nắng",
+  "thuoc_dang_dung": "Thuốc dạ dày tự mua",
+  "ly_do_that_su_den_kham": "Khó khăn tài chính, ngại xét nghiệm"
+ },
+ "benh_nhan": {
+  "ten": "Đỗ Thị Nhàn",
+  "tuoi": 66,
+  "gioi": "Nữ",
+  "nghe": "Bảo vệ trường tiểu học (ca ngày, kiêm trông xe)",
+  "can_nang": 54,
+  "chieu_cao": 153,
+  "xung_ho": "Bác sĩ gọi bà là 'bác'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Chịu đựng, tiết kiệm, hay nói 'không sao đâu', quen tự mua thuốc ở hiệu thuốc. Nói ngắn, né chuyện tiền; chỉ nói thật khi bác sĩ hỏi thẳng về chi phí hoặc nỗi lo. Hiểu biết y khoa ít.",
+  "kieu_nhieu": "Ở xa, khó tái khám: nhà ở xã cách phòng khám 22 km, đi xe ôm gần một tiếng; con gái làm công nhân, ít nghỉ được. Bệnh viện huyện cách phòng khám 14 km, bệnh viện tỉnh 68 km. Bà ngại quay lại, chỉ nói rõ khi bác sĩ hỏi về đường đi, ai đưa đón, có quay lại được không.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a74",
+   "toc": "#cfcac2",
+   "kieuToc": "bui",
+   "ao": "#5b7a99",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Đau thượng vị lan ra lưng, xin thuốc dạ dày",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám đa khoa khu vực không có máy siêu âm (máy hỏng, chưa có người vận hành). Xét nghiệm máu, điện tim và X-quang làm được tại chỗ. Siêu âm và điều trị nội trú ở bệnh viện huyện cách 14 km; MRCP, ERCP, phẫu thuật nội soi ở bệnh viện tỉnh cách 68 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Đỗ Thị Nhàn, 66 tuổi, bảo vệ trường tiểu học. Đến vì đau vùng trên rốn từ tối hôm qua, đau lan ra sau lưng, nôn mấy lần. Sinh hiệu: HA 138/84 mmHg, mạch 84 l/p, nhiệt độ 37,4 °C, nhịp thở 18 l/p, SpO₂ 97%.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cho bà Nhàn thuốc dạ dày rồi về vì bà ngại tốn kém: lipase gấp khoảng 15 lần giới hạn trên, ure và Hct cao, tụt huyết áp khi đứng, tức là đã mất dịch mà chưa được bù, trong khi truyền dịch có lợi nhất ở 24 giờ đầu (ACG 2024, Key concept 11). Khoảng 20% người viêm tụy cấp tiến triển thành thể trung bình nặng hoặc nặng, và thể nhẹ cũng cần theo dõi sát 48 giờ đầu (ACG 2024, mục Initial assessment, Key concept 8). Nhà bà cách phòng khám 22 km, đêm đó bà nôn tiếp và mất nước thêm, nếu choáng hay khó thở thì không ai đưa đi kịp; chi phí cấp cứu về sau cao hơn nhiều so với nằm viện sớm.",
+    "chuyen_tuyen": "Chuyển thẳng bà Nhàn lên bệnh viện tỉnh cách 68 km bằng xe cấp cứu là quá tay: bà chưa có suy tạng, chưa có SIRS, huyết động ổn; chuyển trung tâm lớn dành cho người có suy tạng hoặc hoại tử nhiễm trùng (IAP 2025, khuyến cáo 6), còn thể nhẹ chủ yếu cần bù dịch và theo dõi (Atlanta 2012, mục Mild acute pancreatitis). Bệnh viện huyện cách phòng khám 14 km đã có siêu âm và điều trị nội trú. Đường xa và chi phí xe cấp cứu làm người nhà vất vả, bà vốn ngại tốn kém nên dễ đòi về giữa chừng."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi bị đau dạ dày, đau từ tối hôm qua tới giờ. Bác sĩ cho tôi ít thuốc uống cho nhanh, tôi còn phải về.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "138/84",
+    "nhiet": "37,4",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau trên rốn từ tối hôm qua, đau lan xuyên ra sau lưng, nôn 3 lần. Nghĩ là đau dạ dày nên xin thuốc dạ dày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem_dau",
+     "noi_dung": "Đau liên tục, không thành cơn quặn, mức khoảng 7/10, bắt đầu khoảng 8 giờ tối hôm qua. Ngồi gập người ra trước thì đỡ chút, nằm ngửa đau tăng. Nôn 3 lần ra thức ăn rồi dịch vàng, nôn xong vẫn đau như cũ. Không lan lên vai trái hay hàm, không vã mồ hôi lạnh, không khó thở, đau không liên quan việc đi lại hay leo cầu thang.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau: tụy, dạ dày hay tim"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Hôm qua đồng nghiệp nghỉ nên bà đứng trực cổng ngoài nắng gần 10 tiếng, chỉ uống chừng hai ly nước. Tối về ăn cơm với thịt ba chỉ chiên, khoảng ba tiếng sau thì bắt đầu đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát: nắng nóng mất nước, bữa nhiều mỡ"
+    },
+    {
+     "id": "dau_truoc",
+     "noi_dung": "Từ đầu năm tới giờ có 3–4 lần đau tức vùng thượng vị và dưới sườn phải sau bữa nhiều mỡ, kéo dài 1–2 giờ rồi tự hết. Bà gọi đó là 'đau dạ dày', chưa nội soi hay siêu âm lần nào.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi những lần đau trước, hoặc đau sau bữa ăn mỡ, hoặc có đau dưới sườn phải.",
+     "k": 1,
+     "y": "Tiền sử cơn đau mật gợi ý sỏi mật"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Sáng nay bà ra hiệu thuốc mua uống 1 gói Phosphalugel lúc 5 giờ và 1 viên omeprazol 20 mg lúc 7 giờ, không bớt chút nào. Ngoài ra không uống thuốc giảm đau, kháng viêm, thuốc nam hay thuốc bổ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì bà nói 'có uống gì đâu'. Chỉ kể khi bác sĩ hỏi đã tự mua hoặc đã uống thuốc dạ dày gì chưa, hoặc thuốc giảm đau, kháng viêm.",
+     "k": 1,
+     "y": "Thuốc dạ dày tự mua; không NSAID, không thuốc gây viêm tụy"
+    },
+    {
+     "id": "ruou_thuoc_la",
+     "noi_dung": "Không uống rượu bia, không hút thuốc lá.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nguyên nhân do rượu"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Chưa từng đau ngực khi gắng sức, chưa từng nhồi máu. Không khó thở khi nằm. Huyết áp và đường huyết chưa kiểm tra mấy năm nay, không ai nói bà bị bệnh gì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử tim mạch"
+    },
+    {
+     "id": "xhth_vang_da",
+     "noi_dung": "Không nôn ra máu, phân vàng, không đi cầu phân đen. Không sốt, không rét run, mắt không vàng, nước tiểu vàng bình thường.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Sàng lọc xuất huyết tiêu hóa, vàng da"
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Nhà ở xã cách phòng khám 22 km, đi xe ôm gần một tiếng. Con gái đi làm công nhân, chỉ nghỉ được khi báo trước. Bệnh viện huyện cách phòng khám 14 km, bệnh viện tỉnh 68 km. Bà ngại quay lại tái khám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng tái khám (ở xa)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà chỉ xin thuốc vì ngại xét nghiệm: lương bảo vệ khoảng 4,5 triệu đồng mỗi tháng, còn đóng tiền học cho cháu ngoại. Nghe nói vào bệnh viện là bị làm đủ thứ, tốn mấy triệu. Thẻ bảo hiểm đăng ký ở trạm y tế xã, bà sợ đi chỗ khác phải trả nhiều tiền.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi thẳng chi phí, hỏi bà lo điều gì nhất, vì sao chỉ xin thuốc hay không muốn làm xét nghiệm, hoặc khi bác sĩ nói cần nằm viện.",
+     "k": 1,
+     "y": "Động cơ thật: khó khăn tài chính, ngại xét nghiệm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vẻ mặt đau, nằm nghiêng co gối. Môi khô, da khô, nếp véo da mất chậm. Niêm mạc mắt hồng, củng mạc không vàng. Không hạch ngoại vi.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 138/84 mmHg, mạch 84 l/p. Đứng sau 3 phút: HA 124/78 mmHg, mạch 102 l/p, hơi choáng, ngồi xuống thì hết.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng hơi chướng, gõ vang vùng trên rốn, nhu động ruột giảm. Ấn đau rõ vùng thượng vị và dưới sườn trái, phản ứng thành bụng nhẹ khu trú ở thượng vị, không co cứng như gỗ, không phản ứng dội. Ấn điểm sườn lưng trái đau. Murphy âm tính. Gan lách không to, không có khối, không bầm tím vùng hông hay quanh rốn.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, không âm thổi, không tiếng ngựa phi.",
+     "k": 1,
+     "hien": "Tim đều, tần số khoảng 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "lipase": {
+     "v": "e",
+     "r": "Lipase 913 U/L (tham chiếu của phòng xét nghiệm 13–60 U/L, gấp khoảng 15 lần giới hạn trên)",
+     "ab": 1,
+     "n": "Đau thượng vị lan ra lưng kèm lipase hoặc amylase > 3 lần giới hạn trên là đủ 2 trong 3 tiêu chuẩn, không cần hình ảnh để chẩn đoán (ACG 2024, mục Diagnosis; IAP 2025, khuyến cáo 1; Atlanta 2012; QĐ 1493/2015, mục 4.1). Ưu tiên lipase hơn amylase (ACG 2024, mục Diagnosis; QĐ 1493/2015, mục 3.2a). Mức lipase không cho biết độ nặng (ACG 2024, mục Diagnosis)."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 84 l/p. Không ST chênh, không sóng Q, không biến đổi ST–T ở DII, DIII, aVF.",
+     "n": "Đau thượng vị là triệu chứng tương đương đau ngực, phải loại nhồi máu cơ tim trước (ESC 2023, mục 3.1.1); ECG trong 10 phút (mục 3.2); QĐ 1493/2015 mục 4.2 liệt kê nhồi máu cơ tim trong chẩn đoán phân biệt."
+    },
+    "trop": {
+     "v": "e",
+     "r": "hs-TnT 4 ng/L (ngưỡng < 14)",
+     "n": "Đo hs-troponin khi nghi hội chứng vành cấp (ESC 2023, mục 3.3.4). Đợt đau đã qua nhiều giờ, giá trị rất thấp: loại trừ ở 0 giờ (QĐ 2187/2019, Hình 3; ESC 2023, Hình 6)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Bạch cầu 11,8 G/L (trung tính 82%) · Hb 148 g/L · Hct 0,45 · TC 286 G/L",
+     "bang": {
+      "wbc": 11.8,
+      "neu_pct": 82.0,
+      "neu": 9.68,
+      "lym_pct": 12.0,
+      "lym": 1.42,
+      "mono_pct": 5.0,
+      "mono": 0.59,
+      "eos_pct": 0.8,
+      "eos": 0.09,
+      "baso_pct": 0.2,
+      "baso": 0.02,
+      "rbc": 4.9,
+      "hgb": 148,
+      "hct": 0.45,
+      "mcv": 91.8,
+      "mch": 30.2,
+      "mchc": 329,
+      "rdw": 13.4,
+      "plt": 286
+     },
+     "n": "Hct ≥ 44% và BUN > 20 mg/dL là dấu hiệu máu cô, yếu tố nguy cơ nặng (ACG 2024, Bảng 4); mục tiêu Hct < 44% (IAP 2025, khuyến cáo 12). Bạch cầu chưa vượt 12 G/L nên chưa đủ tiêu chí SIRS (ACG 2024, Bảng 4)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 8,4 mmol/L · Creatinin 82 µmol/L · eGFR 68 mL/ph/1,73m²",
+     "bang": {
+      "ure": 8.4,
+      "creat": 82,
+      "egfr": 68
+     },
+     "n": "Ure 8,4 mmol/L quy đổi khoảng 23,5 mg/dL BUN (1 mmol/L ure = 2,8 mg/dL BUN; phép đổi do ca tính), vượt mục tiêu BUN < 20 mg/dL hay ure máu < 40 mg/dL (IAP 2025, khuyến cáo 12; ACG 2024, Bảng 4). Gợi ý thiếu dịch do nắng và nôn; cần đo lại 6–8 giờ sau bù dịch (ACG 2024, Key concept 12)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 136 · K 3,6 · Cl 99 mmol/L",
+     "bang": {
+      "na": 136,
+      "k": 3.6,
+      "cl": 99
+     }
+    },
+    "glu": {
+     "v": "u",
+     "r": "6,8 mmol/L (không nhịn đói)",
+     "bang": {
+      "glu": 6.8
+     },
+     "ghi_chu_mau": "Mẫu lấy lúc khám, người bệnh không nhịn đói."
+    },
+    "crp": {
+     "v": "u",
+     "r": "22 mg/L",
+     "bang": {
+      "crp": 22
+     },
+     "ab": 1,
+     "n": "CRP phải sau 48–72 giờ mới có giá trị tiên lượng (ACG 2024, mục Predicting severe disease); chưa dùng để quyết định hôm nay."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 64 · ALT 78 U/L (ngưỡng < 40)",
+     "ab": 1,
+     "n": "Men gan nằm trong nhóm xét nghiệm tìm nguyên nhân khi nằm viện (IAP 2025, khuyến cáo 2)."
+    },
+    "chuc_nang_gan": {
+     "v": "u",
+     "r": "Bilirubin toàn phần 17 µmol/L (trực tiếp 5) · ALP 128 U/L · GGT 96 U/L (< 40) · Albumin 40 g/L · INR 1,0",
+     "ab": 1,
+     "n": "Bilirubin bình thường: chưa gợi ý sỏi ống mật chủ tồn lưu hay viêm đường mật (ACG 2024, Key concept 13–14; mục The role of surgery)."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol TP 5,4 · LDL-C 3,1 · HDL-C 1,4 · TG 1,6 mmol/L",
+     "n": "Loại tăng triglycerid: chỉ coi là nguyên nhân khi > 1.000 mg/dL, khoảng 11,3 mmol/L (ACG 2024, Key concept 2; QĐ 1493/2015, mục 5.3e: > 11 mmol/L)."
+    },
+    "canxi": {
+     "v": "u",
+     "r": "Canxi toàn phần 2,31 mmol/L",
+     "n": "Tăng canxi máu là nguyên nhân hiếm (IAP 2025, khuyến cáo 2; QĐ 1493/2015, mục 2)."
+    },
+    "xq_bung": {
+     "v": "u",
+     "r": "Không thấy liềm hơi dưới hoành. Vài quai ruột non vùng trên rốn giãn nhẹ chứa hơi, không có mức nước–hơi.",
+     "n": "Loại thủng tạng rỗng: khi chưa có CT thì chụp X-quang ngực hoặc bụng (WSES 2020, khuyến cáo chẩn đoán hình ảnh). Viêm tụy cấp: bụng nhiều hơi, quai ruột gần tụy giãn (QĐ 1493/2015, mục 3.2c)."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "Hai phổi sáng, góc sườn hoành nhọn, không liềm hơi dưới hoành, bóng tim bình thường.",
+     "n": "Hỗ trợ loại thủng tạng rỗng (WSES 2020)."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "(Phòng khám không có siêu âm.)",
+     "n": "Siêu âm bụng tìm sỏi mật nên làm ở mọi người viêm tụy cấp, lặp lại nếu lần đầu chưa rõ (ACG 2024, khuyến cáo 1; IAP 2025, khuyến cáo 2). Cơ sở không có: làm khi nhập bệnh viện huyện; chẩn đoán viêm tụy cấp hôm nay không phải chờ hình ảnh."
+    },
+    "ct_bung": {
+     "n": "Không làm thường quy lúc mới vào: chẩn đoán đã rõ; CT dành cho nghi ngờ chẩn đoán hoặc không đỡ sau 48–72 giờ (ACG 2024, Key concept 1; IAP 2025, khuyến cáo 7). Phòng khám cũng không có CT."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tụy cấp, dự đoán thể nhẹ (chưa suy tạng, chưa có SIRS), chưa rõ nguyên nhân, nghi do sỏi mật; kèm mất nước do nắng và nôn; đã loại trừ nhồi máu cơ tim và thủng tạng rỗng",
+     "ok": 1,
+     "n": "Đau thượng vị liên tục lan ra lưng kèm lipase gấp khoảng 15 lần giới hạn trên: đủ 2 trong 3 tiêu chuẩn (ACG 2024; IAP 2025, khuyến cáo 1; QĐ 1493/2015, mục 4.1). Không rượu; sỏi mật chiếm 40–70% (ACG 2024, mục Etiology), siêu âm tìm sỏi làm ở bệnh viện (ACG 2024, khuyến cáo 1)."
+    },
+    {
+     "t": "Thủng tạng rỗng (loét dạ dày–tá tràng thủng)",
+     "n": "Không có bụng cứng như gỗ, không phản ứng dội, X-quang không liềm hơi (QĐ 1493/2015, mục 4.2; WSES 2020)."
+    },
+    {
+     "t": "Nhồi máu cơ tim (thành dưới)",
+     "n": "ECG không biến đổi DII, DIII, aVF; hs-TnT dưới ngưỡng loại trừ 0 giờ; đau không liên quan gắng sức (ESC 2023, mục 3.1.1, 3.3.4; QĐ 2187/2019, Hình 3)."
+    },
+    {
+     "t": "Viêm dạ dày hoặc loét dạ dày–tá tràng chưa biến chứng",
+     "n": "Điều bà tự nghĩ. Không giải thích được lipase tăng gấp 15 lần, đau lan ra lưng và không đỡ sau gel + omeprazol."
+    },
+    {
+     "t": "Cơn đau quặn mật, viêm túi mật cấp",
+     "n": "Đau liên tục thay vì quặn từng cơn (ACG 2024, mục Diagnosis: đau quặn không phù hợp viêm tụy cấp), Murphy âm tính, không sốt. Có thể cùng nguyên nhân sỏi, cần siêu âm ở bệnh viện."
+    },
+    {
+     "t": "Tắc ruột cơ học",
+     "n": "Không bí trung đại tiện, không quai ruột nổi, X-quang không mức nước–hơi (QĐ 1493/2015, mục 4.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích đây là viêm tụy cấp chứ không phải đau dạ dày; cần nằm viện để truyền dịch, giảm đau và theo dõi 24–48 giờ đầu; viết giấy nhập viện bệnh viện huyện (có siêu âm, điều trị nội trú), gọi báo trước",
+     "v": "c",
+     "n": "Tài liệu đã tải không có hướng dẫn điều trị ngoại trú viêm tụy cấp: bù dịch trong 24 giờ đầu, đo lại BUN/Hct sau 6–8 giờ, theo dõi 48 giờ đầu, nuôi ăn sớm đều là xử trí nội trú (ACG 2024, Key concept 8, 11, 12; IAP 2025, khuyến cáo 12). Bà trên 55 tuổi, BUN và Hct cao, hạ HA tư thế (ACG 2024, Bảng 4). Thể nhẹ vẫn nằm viện thời gian ngắn (Atlanta 2012)."
+    },
+    {
+     "t": "Hỏi thẳng nỗi lo chi phí, giải thích vì sao phải nằm viện và nhập viện sớm tốn ít hơn để đến muộn; hướng dẫn mang thẻ bảo hiểm và giấy giới thiệu; gọi con gái đến đi cùng, không để bà tự đi",
+     "v": "c",
+     "n": "Lý do thật của bà là tài chính. Mức chi phí và quy định thanh toán bảo hiểm không có trong tài liệu đã tải; việc hỏi thẳng và gỡ nỗi lo là xử trí hành vi của ca. Nhà ở xa nên người nhà đi cùng là điều kiện an toàn."
+    },
+    {
+     "t": "Bắt đầu bù dịch tĩnh mạch ngay tại phòng khám trước khi chuyển: Ringer lactat bolus 10 mL/kg vì có dấu thiếu dịch rồi 1,5 mL/kg/giờ (ACG 2024 khuyến cáo 3, 4; IAP 2025 khuyến cáo 10, 11), hoặc dịch muối đẳng trương 0,9% theo QĐ 1493/2015 mục 5.2–5.3a (thể nặng: 250–300 mL/giờ, 4–6 lít trong 24 giờ đầu nếu tuần hoàn cho phép)",
+     "v": "c",
+     "n": "Hai nguồn khác nhau: ACG 2024 và IAP 2025 (mới hơn, cho mọi mức độ) chọn Ringer lactat và truyền vừa phải để tránh quá tải dịch, thận trọng ở người lớn tuổi (ACG 2024, Key concept 10); QĐ 1493/2015 viết cho viêm tụy cấp nặng, dùng muối đẳng trương liều cao hơn. Bà không SIRS nên mức 1,5 mL/kg/giờ thận trọng hơn. Tốc độ truyền bolus không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm đau trước khi chuyển: paracetamol 1 g truyền tĩnh mạch trong 15 phút (QĐ 1493/2015 mục 5.2), hoặc NSAID hay opioid liều thấp (IAP 2025 khuyến cáo 14)",
+     "v": "c",
+     "n": "QĐ 1493/2015 mục 5.2 dùng paracetamol và mục 5.3a nói tránh morphin vì co thắt cơ Oddi; IAP 2025 khuyến cáo 14 cho phép opioid hoặc NSAID, opioid tốt hơn khi đau nặng. Hai cách đều đúng. NSAID ở người 66 tuổi chưa bù đủ dịch cần thận trọng thận (nhận xét của ca, không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Không kê kháng sinh",
+     "v": "c",
+     "n": "Không dùng kháng sinh dự phòng trong viêm tụy cấp (IAP 2025, khuyến cáo 19; ACG 2024, Rec 8; QĐ 1493/2015, mục 5.3a)."
+    },
+    {
+     "t": "Dặn trong lúc chờ chuyển: nếu còn buồn nôn thì chưa ăn uống; ở bệnh viện sẽ được ăn lại sớm khi hết nôn và đỡ đau, bữa ít mỡ, không rượu bia",
+     "v": "c",
+     "n": "Ăn đường miệng sớm trong 24–48 giờ khi dung nạp, bắt đầu bằng thức ăn đặc ít mỡ (ACG 2024, khuyến cáo 10, 11; IAP 2025, khuyến cáo 22). QĐ 1493/2015 mục 5.3a (thể nặng): nuôi tĩnh mạch 24–48 giờ đầu rồi ăn sớm."
+    },
+    {
+     "t": "Dặn bằng giấy cho bà và con gái: khó thở, lú lẫn, ngất, sốt rét run, vàng mắt vàng da, đau tăng nhiều thì gọi cấp cứu ngay; ghi số điện thoại phòng khám; sau khi ra viện quay lại để dặn tiếp, nếu bệnh viện thấy sỏi mật thì phải được cắt túi mật",
+     "v": "c",
+     "n": "Suy tạng hay hoại tử là biến chứng nặng (ACG 2024, mục Definition of severe AP; IAP 2025, khuyến cáo 5, 6). Sỏi mật: cắt túi mật trong cùng đợt nằm viện với thể nhẹ (ACG 2024, Key concept 21; IAP 2025, khuyến cáo 84). Thời điểm cắt túi mật trong thể nặng theo QĐ 1493/2015 mục 5.3e là sau ít nhất 3 tuần; IAP 2025 khuyến cáo 85 cũng hoãn khi có ổ tụ dịch."
+    },
+    {
+     "t": "Cho tiếp omeprazol 20 mg/ngày hoặc chưa cần thuốc dạ dày",
+     "v": "a",
+     "n": "PPI không phải điều trị viêm tụy; QĐ 1493/2015 mục 5.3a chỉ nói kháng tiết acid 'có thể dùng' để ngừa loét do stress ở thể nặng. Không có hại."
+    },
+    {
+     "t": "Chuyển thẳng bệnh viện tỉnh bằng xe cấp cứu",
+     "v": "w",
+     "n": "Chưa suy tạng, chưa SIRS (IAP 2025, khuyến cáo 6 chỉ chuyển trung tâm lớn khi suy tạng hoặc hoại tử nhiễm trùng). Đi 68 km tốn kém, bà dễ từ chối."
+    },
+    {
+     "t": "Dùng kháng sinh ceftriaxone dự phòng cho chắc",
+     "v": "w",
+     "n": "Không khuyến cáo kháng sinh dự phòng (IAP 2025, khuyến cáo 19; ACG 2024, Rec 8)."
+    },
+    {
+     "t": "Truyền dịch tích cực: bolus 20 mL/kg rồi 3 mL/kg/giờ",
+     "v": "w",
+     "n": "Truyền vừa phải hiệu quả tương đương, ít quá tải hơn; người lớn tuổi cần thận trọng (ACG 2024, mục Initial management; Key concept 10)."
+    },
+    {
+     "t": "Bảo bà nhịn ăn uống hoàn toàn cho đến khi hết đau",
+     "v": "w",
+     "n": "Nhịn ăn là cách làm cũ; ăn sớm tốt hơn (ACG 2024, khuyến cáo 10)."
+    },
+    {
+     "t": "Xem là viêm dạ dày: tăng liều PPI, thêm thuốc kháng acid, hẹn nội soi",
+     "v": "w",
+     "n": "Bỏ sót viêm tụy cấp khi lipase gấp 15 lần giới hạn trên (QĐ 1493/2015, mục 4.1)."
+    },
+    {
+     "t": "Cho về nhà với thuốc dạ dày, không giải thích bệnh, không dặn dấu hiệu nguy hiểm vì 'bà ở xa, ngại tốn kém'",
+     "v": "h",
+     "n": "Khoảng 20% viêm tụy cấp thành thể trung bình nặng hoặc nặng, nhiều người mới vào trông như thể nhẹ (ACG 2024, mục Initial assessment); bù dịch muộn qua 24 giờ đầu làm mất cơ hội dự phòng (ACG 2024, Key concept 11)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tụy cấp (đau thượng vị lan ra lưng + lipase > 3 lần giới hạn trên), dự đoán thể nhẹ: chưa suy tạng, chưa SIRS",
+     "Nguyên nhân: chưa xác định; nghi sỏi mật (không rượu, TG và canxi bình thường, tiền sử đau sau bữa mỡ), cần siêu âm ở bệnh viện",
+     "Mất dịch do đứng nắng, nôn: ure, Hct cao, hạ huyết áp tư thế",
+     "Đã loại trừ nhồi máu cơ tim và thủng tạng rỗng",
+     "Hoàn cảnh: ở xa, ngại chi phí, tự mua thuốc dạ dày"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: đau liên tục, lan ra lưng, nôn không giảm đau, khởi phát ba tiếng sau bữa mỡ, nằm ngửa đau tăng (QĐ 1493/2015, mục 3.1). Hỏi thêm rượu, thuốc, những lần đau trước, tim mạch; chỉ khi hỏi cụ thể mới ra thuốc dạ dày tự mua, cơn đau mật cũ và nỗi lo tiền.",
+     "Khám: ấn đau thượng vị, điểm sườn lưng trái đau, phản ứng thành bụng nhẹ khu trú, không co cứng, hạ huyết áp tư thế (QĐ 1493/2015, mục 3.1c). Không có Grey Turner hay Cullen, nên chưa nghĩ thể hoại tử xuất huyết.",
+     "Cận lâm sàng: lipase 913 U/L; ECG và hs-TnT loại nhồi máu (ESC 2023); X-quang loại thủng tạng rỗng (WSES 2020). Hct 0,45 và ure 8,4 mmol/L cho thấy máu cô (ACG 2024, Bảng 4). Không cần CT lúc đầu (ACG 2024, Key concept 1).",
+     "Mức độ: chưa có suy tạng, chưa SIRS (mạch 84, WBC 11,8, nhiệt 37,4, thở 18) nên dự đoán nhẹ, nhưng không dự đoán được chắc ở 24–48 giờ đầu; tuổi > 55 và máu cô là yếu tố nguy cơ (ACG 2024, Key concept 7–9, Bảng 4; Atlanta 2012).",
+     "Nguyên nhân: không rượu, TG 1,6 mmol/L và canxi bình thường, thuốc tự mua không phải thuốc gây viêm tụy; còn sỏi mật là nguyên nhân thường gặp nhất (ACG 2024: 40–70%). Ở Việt Nam QĐ 1493/2015 mục 2 xếp rượu hàng đầu và sỏi mật thứ hai; khác nhau về dịch tễ, ca này không uống rượu nên hướng về sỏi. Siêu âm bụng chưa làm được ở phòng khám."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: nhập viện bệnh viện huyện (có siêu âm, điều trị nội trú). Vì sao không về: các biện pháp cốt lõi (bù dịch 24 giờ đầu, đo lại BUN/Hct, theo dõi 48 giờ) chỉ làm được nội trú; tài liệu đã tải không có phác đồ ngoại trú. Vì sao không chuyển tỉnh: chưa suy tạng (IAP 2025, khuyến cáo 6).",
+     "Bù dịch: Ringer lactat 1,5 mL/kg/giờ, bolus 10 mL/kg khi thiếu dịch (ACG 2024; IAP 2025) hoặc muối đẳng trương 0,9% theo QĐ 1493/2015 (thể nặng: 250–300 mL/giờ). Hai nguồn khác năm, mức độ bệnh, khuyến cáo về quá tải dịch; cả hai chấp nhận.",
+     "Giảm đau: paracetamol 1 g truyền tĩnh mạch (QĐ 1493/2015, mục 5.2) hoặc NSAID/opioid (IAP 2025, khuyến cáo 14); QĐ nói tránh morphin vì co thắt cơ Oddi, IAP không nêu hạn chế đó. Không kháng sinh dự phòng.",
+     "Chi phí là điều bà ngại nhất: phải hỏi thẳng và nói rõ; không dặn thì bà sẽ về nhà dù có giấy nhập viện.",
+     "Việc sai: cho về hoặc tăng liều thuốc dạ dày, kháng sinh dự phòng, truyền dịch ồ ạt, nhịn ăn, chuyển thẳng bệnh viện tỉnh."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ringer lactat",
+      "ham_luong": "Chai 500 mL",
+      "lieu": "Bolus 10 mL/kg (khoảng 540 mL với 54 kg) vì có dấu thiếu dịch; sau đó 1,5 mL/kg/giờ (khoảng 80 mL/giờ)",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Ngay tại phòng khám, tiếp tục trên đường chuyển và ở bệnh viện huyện",
+      "so_ngay": "24–48 giờ đầu; đo lại BUN và Hct sau 6–8 giờ rồi chỉnh tốc độ",
+      "ghi_chu": "ACG 2024, khuyến cáo 3, 4 và Key concept 10–12; IAP 2025, khuyến cáo 10–12 (mục tiêu nước tiểu 0,5 mL/kg/giờ, BUN < 20 mg/dL, Hct < 44%). Hoặc muối đẳng trương 0,9% 250–300 mL/giờ ở thể nặng (QĐ 1493/2015, mục 5.3a). Tốc độ truyền bolus không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "1 g",
+      "lieu": "1 g mỗi lần",
+      "duong": "Truyền tĩnh mạch trong 15 phút",
+      "thoi_diem": "Khi đau nhiều, trước khi chuyển",
+      "so_ngay": "Theo bệnh viện",
+      "ghi_chu": "QĐ 1493/2015, mục 5.2. Thay thế: NSAID hoặc opioid theo IAP 2025, khuyến cáo 14 (liều không có trong tài liệu đã tải cho viêm tụy cấp)."
+     },
+     {
+      "thuoc": "Phosphalugel và omeprazol (bà tự mua)",
+      "ham_luong": "Gói; 20 mg",
+      "lieu": "Ngưng, hoặc để bệnh viện quyết định",
+      "duong": "Uống",
+      "thoi_diem": "Không tự uống thêm",
+      "so_ngay": "Không",
+      "ghi_chu": "Không điều trị được viêm tụy; che dấu đau trong lúc chờ. QĐ 1493/2015 mục 5.3a: kháng tiết acid chỉ 'có thể dùng' ở thể nặng."
+     }
+    ],
+    "dan_do": [
+     "Bà bị viêm tụy cấp, không phải đau dạ dày thông thường; cần nằm viện để truyền dịch và theo dõi, đi trong hôm nay.",
+     "Mang thẻ bảo hiểm và giấy giới thiệu; nhờ con gái đến đi cùng; chuẩn bị nói với bệnh viện nỗi lo về tiền để được hướng dẫn thủ tục.",
+     "Trên đường đi, nếu còn buồn nôn thì chưa ăn; ở bệnh viện bà sẽ được ăn lại sớm khi hết nôn, bữa ít mỡ (ACG 2024, khuyến cáo 10, 11).",
+     "Không rượu bia, không ăn thịt chiên, mỡ; không tự mua thuốc dạ dày hoặc thuốc giảm đau.",
+     "Gọi cấp cứu hoặc nhờ người đưa đi ngay nếu khó thở, lú lẫn, ngất, sốt rét run, vàng mắt vàng da, đau tăng nhiều; số điện thoại phòng khám đã ghi trong giấy.",
+     "Hỏi bệnh viện kết quả siêu âm có sỏi mật không; nếu có thì cắt túi mật để khỏi tái phát (ACG 2024, Key concept 21; IAP 2025, khuyến cáo 84). Sau khi ra viện quay lại phòng khám để dặn tiếp."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Bà Đỗ Thị Nhàn, 66 tuổi, bảo vệ trường tiểu học, tái khám sau 13 ngày, con gái đi cùng. Hai tuần trước bà nằm bệnh viện huyện 5 ngày rồi ra viện, mang theo giấy ra viện. Đến vì đau vùng trên rốn lan ra lưng trở lại từ tối hôm kia, tự uống thuốc dạ dày hai ngày không đỡ. Sinh hiệu: HA 146/88 mmHg, mạch 96 l/p, nhiệt độ 37,6 °C, nhịp thở 18 l/p, SpO₂ 97%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho bà Nhàn về với thuốc dạ dày và hẹn mổ khi nào có tiền: bà đã có đợt viêm tụy thứ hai, bilirubin, ALP và GGT đang tăng gợi ý sỏi ống mật chủ, nhà cách phòng khám 22 km. Sỏi vẫn nằm đó, nên cơn sau có thể đến bất cứ lúc nào: khoảng 18% người ra viện mà không cắt túi mật phải nhập lại vì biến cố mật, 8% là viêm tụy do sỏi lại (ACG 2024, mục The role of surgery in AP). Nếu sỏi gây viêm đường mật (sốt, rét run, vàng da), ERCP sớm trong 24 giờ làm giảm biến chứng và tử vong (ACG 2024, Key concept 13), nhưng bà ở xa nên dễ đến muộn.",
+    "nhap_vien": "Nhập lại bệnh viện huyện điều trị nội khoa như lần trước là chưa giải quyết được nguyên nhân: nơi đó chỉ có siêu âm, không có phẫu thuật nội soi, MRCP hay ERCP. Bà được truyền dịch, hết đau sau vài ngày rồi ra viện lần nữa với tờ giấy hẹn mổ cũ, trong khi sỏi ống mật chủ cần được tìm bằng MRCP hoặc siêu âm nội soi trước khi quyết định ERCP (ACG 2024, Key concept 14; IAP 2025, khuyến cáo 29). Tốn thêm một đợt nằm viện và ngày công nghỉ, bà càng nản chuyện đi mổ.",
+    "cap_cuu": "Gọi xe cấp cứu, đặt đường truyền lớn và đưa bà vào khoa cấp cứu bệnh viện tỉnh là quá mức: bà không sốc, không khó thở, không sốt cao rét run nên chưa phải viêm đường mật cần ERCP khẩn (ACG 2024, Key concept 13; IAP 2025, khuyến cáo 28). Chuyển tuyến có kế hoạch, có báo trước và giấy chuyển rõ ràng là đủ. Chi phí xe cấp cứu thêm một khoản bà ngại, và có thể bà từ chối đi."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi lại đau chỗ cũ rồi, uống thuốc dạ dày hai hôm nay mà không đỡ. Chắc tại tôi ăn uống không cẩn thận thôi.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "146/88",
+    "nhiet": "37,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khong_do",
+     "noi_dung": "Đau trên rốn lan ra sau lưng trở lại từ tối hôm kia, nôn 2 lần. Hai ngày nay uống gel dạ dày và omeprazol đều mà không bớt. Đau giống hệt lần trước, không khác.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đỡ sau thuốc dạ dày tự mua; đau tái phát"
+    },
+    {
+     "id": "ra_vien",
+     "noi_dung": "Nằm bệnh viện huyện 5 ngày: truyền dịch, tiêm thuốc giảm đau, nhịn ăn một ngày rồi ăn cháo. Giấy ra viện ghi viêm tụy cấp thể nhẹ, siêu âm có nhiều sỏi nhỏ trong túi mật, ống mật chủ không giãn (5 mm). Bác sĩ dặn kiêng mỡ và đi bệnh viện tỉnh khám ngoại khoa để cắt túi mật vì bệnh viện huyện không mổ nội soi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh sử đợt trước và nguyên nhân (sỏi túi mật)"
+    },
+    {
+     "id": "chua_di_mo",
+     "noi_dung": "Bà chưa đi khám ngoại khoa. Bệnh viện tỉnh xa 68 km, nghe nói mổ tốn tiền, nghỉ mổ mấy tuần thì mất lương. Thấy hết đau nên nghĩ 'thôi uống thuốc dạ dày cho chắc', cất giấy ra viện trong túi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi đã đi khám ngoại khoa hay cắt túi mật chưa, hoặc vì sao chưa đi; hỏi chung 'có tuân thủ dặn dò không' thì bà nói 'có kiêng mỡ'.",
+     "k": 1,
+     "y": "Nguyên nhân nền chưa xử lý: sỏi túi mật chưa cắt"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Chiều hôm kia bà đi ăn giỗ nhà hàng xóm, ăn thịt chiên, nem rán, giò; trước đó một tuần bà kiêng mỡ được. Khoảng ba tiếng sau thì đau. Không rượu bia.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát đợt tái phát: bữa nhiều mỡ"
+    },
+    {
+     "id": "vang_da",
+     "noi_dung": "Từ hôm qua nước tiểu vàng sẫm như nước trà, phân hơi nhạt màu; con gái thấy mắt mẹ hơi vàng. Không sốt, không rét run, không ngứa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu ứ mật: nghi sỏi ống mật chủ"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Đau giống lần trước, không lan lên ngực hay vai, không vã mồ hôi, không khó thở. Không dùng thuốc gì khác.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đau không giống thiếu máu cơ tim"
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Nhà cách phòng khám 22 km. Lần này con gái Ngân (28 tuổi, công nhân) xin nghỉ một ngày chở mẹ bằng xe máy. Từ phòng khám tới bệnh viện tỉnh 68 km, đi xe khách khoảng hai tiếng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng đi lại, người nhà (ở xa)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà vẫn lo tiền: lần nằm viện huyện đã mất mấy trăm nghìn ngoài bảo hiểm và 5 ngày công. Bà sợ mổ tốn nhiều hơn, nghỉ cả tháng thì không có lương bảo vệ. Muốn xin thuốc về rồi tính sau.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi thẳng nỗi lo, chi phí, hoặc khi bác sĩ đề nghị chuyển tuyến hay mổ.",
+     "k": 1,
+     "y": "Động cơ thật: khó khăn tài chính, ngại xét nghiệm và mổ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, đau, nằm co gối. Môi khô nhẹ. Củng mạc hai mắt vàng nhẹ, da không vàng rõ. Niêm mạc hồng. Không hạch ngoại vi.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi chướng. Ấn đau thượng vị và dưới sườn phải, phản ứng thành bụng nhẹ khu trú ở thượng vị, không co cứng. Murphy âm tính (bà ngập ngừng vì đang đau). Ấn điểm sườn lưng trái đau. Gan không to, không khối, không bầm tím vùng hông hay quanh rốn.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, không âm thổi, không tiếng ngựa phi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 96 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "lipase": {
+     "v": "e",
+     "r": "Lipase 1.040 U/L (tham chiếu 13–60 U/L)",
+     "ab": 1,
+     "n": "Đau thượng vị lan ra lưng và lipase lại > 3 lần giới hạn trên: viêm tụy cấp đợt hai (ACG 2024, mục Diagnosis; IAP 2025, khuyến cáo 1). Cơn tái phát 13 ngày sau đợt đầu trên nền sỏi chưa xử lý."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "Bilirubin toàn phần 44 µmol/L (trực tiếp 29) · ALP 236 U/L · GGT 318 U/L (< 40) · Albumin 38 g/L · INR 1,0",
+     "ab": 1,
+     "n": "Bilirubin, ALP, GGT tăng cùng vàng củng mạc: nghi sỏi ống mật chủ tồn lưu (ACG 2024, mục The role of surgery). Bilirubin 44 µmol/L khoảng 2,6 mg/dL, chưa tới mức 3–5 mg/dL của ERCP khẩn và chưa sốt: chưa viêm đường mật. Khi nghi sỏi ống mật chủ mà không viêm đường mật thì MRCP hoặc siêu âm nội soi trước ERCP, tránh ERCP chẩn đoán (ACG 2024, Key concept 14; IAP 2025, khuyến cáo 29)."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 156 · ALT 198 U/L (ngưỡng < 40)",
+     "ab": 1,
+     "n": "Men gan tăng gấp nhiều lần so với lần trước, hợp với ứ mật."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Bạch cầu 11,4 G/L (trung tính 78%) · Hb 140 g/L · Hct 0,42 · TC 262 G/L",
+     "bang": {
+      "wbc": 11.4,
+      "neu_pct": 78.0,
+      "neu": 8.89,
+      "lym_pct": 14.0,
+      "lym": 1.6,
+      "mono_pct": 6.0,
+      "mono": 0.68,
+      "eos_pct": 1.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.06,
+      "rbc": 4.6,
+      "hgb": 140,
+      "hct": 0.42,
+      "mcv": 91.3,
+      "mch": 30.4,
+      "mchc": 333,
+      "rdw": 13.6,
+      "plt": 262
+     },
+     "n": "Hct dưới 44%: không máu cô như lần trước (IAP 2025, khuyến cáo 12). Bạch cầu chưa vượt 12 G/L, chưa SIRS (ACG 2024, Bảng 4)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 6,4 mmol/L · Creatinin 76 µmol/L · eGFR 74 mL/ph/1,73m²",
+     "bang": {
+      "ure": 6.4,
+      "creat": 76,
+      "egfr": 74
+     },
+     "n": "Ure dưới 7,5 mmol/L (khoảng 18 mg/dL BUN, quy đổi do ca tính): đủ dịch (IAP 2025, khuyến cáo 12)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "41 mg/L",
+     "bang": {
+      "crp": 41
+     },
+     "ab": 1,
+     "n": "Chưa dùng để tiên lượng ở giờ đầu (ACG 2024, mục Predicting severe disease)."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "(Phòng khám không có siêu âm.)",
+     "n": "Siêu âm bệnh viện huyện đã làm 8 ngày trước (sỏi túi mật, ống mật chủ 5 mm). Lần này nghi sỏi mới xuống ống mật chủ: MRCP phát hiện sỏi ống mật chủ chính xác hơn (ACG 2024, mục Diagnosis; Key concept 14), làm ở bệnh viện tỉnh."
+    },
+    "ct_bung": {
+     "n": "Chẩn đoán đã rõ; CT chỉ khi nghi ngờ hoặc không đỡ sau 48–72 giờ (ACG 2024, Key concept 1; IAP 2025, khuyến cáo 7)."
+    },
+    "ecg": {
+     "n": "Không cần làm lại: đau giống hệt lần trước, không lan ngực, ECG và hs-TnT lượt 1 bình thường."
+    },
+    "trop": {
+     "n": "Không cần: không có đau ngực mới."
+    },
+    "xq_bung": {
+     "n": "Đã chụp lượt 1; bụng mềm, không dấu thủng tạng rỗng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tụy cấp tái phát (đợt 2) do sỏi túi mật chưa xử lý, nghi kèm sỏi ống mật chủ (bilirubin, ALP, GGT tăng), chưa có viêm đường mật hay suy tạng",
+     "ok": 1,
+     "n": "Đợt hai sau bữa nhiều mỡ, lipase 1.040 U/L; đợt trước siêu âm có sỏi túi mật nhưng chưa cắt: không xử lý nguyên nhân mật là lý do thường gặp của tái phát (ACG 2024, mục Etiology); 18% ra viện không cắt túi mật phải nhập lại (ACG 2024, mục The role of surgery). Tái phát xảy ra ở 20–29% sau đợt đầu (ACG 2024, mục Etiology)."
+    },
+    {
+     "t": "Viêm đường mật cấp",
+     "n": "Có vàng nhẹ và tăng bilirubin nhưng chưa sốt (37,6 °C), chưa rét run, huyết động ổn; theo dõi sát vì nếu có thì cần ERCP trong 24 giờ (ACG 2024, Key concept 13; IAP 2025, khuyến cáo 28iii)."
+    },
+    {
+     "t": "Viêm túi mật cấp",
+     "n": "Murphy âm tính, không sốt, bạch cầu < 12 G/L; lipase tăng vọt lệch về tụy. Cùng nguyên nhân sỏi."
+    },
+    {
+     "t": "Hoại tử tụy, ổ tụ dịch quanh tụy",
+     "n": "Không sốt kéo dài, bụng mềm, ăn uống được trước giờ; CT hay MRI khi không đỡ 48–72 giờ (ACG 2024, Key concept 1)."
+    },
+    {
+     "t": "Thủng tạng rỗng",
+     "n": "Bụng mềm, không phản ứng dội; đã loại ở lượt 1; đau giống hệt lần trước (QĐ 1493/2015, mục 4.2)."
+    },
+    {
+     "t": "Nhồi máu cơ tim",
+     "n": "Đau giống hệt lần trước, không lan ngực, ECG và hs-TnT lượt 1 bình thường (ESC 2023, mục 3.1.1)."
+    },
+    {
+     "t": "Ung thư đầu tụy gây tắc mật",
+     "n": "Key concept 3 của ACG 2024 áp dụng khi chưa rõ nguyên nhân; ở bà đã có sỏi mật và đau sau bữa mỡ. MRCP tuyến trên sẽ xem cả đầu tụy."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chẩn đoán viêm tụy cấp tái phát do sỏi mật nghi sỏi ống mật chủ; chuyển bệnh viện tỉnh (có MRCP/siêu âm nội soi, ERCP, phẫu thuật nội soi cắt túi mật, hồi sức) ngay trong hôm nay, gọi báo trước, giấy chuyển kèm giấy ra viện, lipase, men gan, bilirubin",
+     "v": "c",
+     "n": "Cắt túi mật sớm, tốt nhất trong cùng đợt nằm viện với viêm tụy do sỏi thể nhẹ (ACG 2024, Key concept 21; IAP 2025, khuyến cáo 84); sỏi ống mật chủ: MRCP hoặc siêu âm nội soi rồi ERCP chọn lọc (ACG 2024, Key concept 14; IAP 2025, khuyến cáo 29). Bệnh viện huyện không có các phương tiện này (nhận xét của ca). Nếu thể nặng, cắt túi mật hoãn tới khi ổ tụ dịch giảm (IAP 2025, khuyến cáo 85) hoặc sau ít nhất 3 tuần (QĐ 1493/2015, mục 5.3e)."
+    },
+    {
+     "t": "Bù dịch và giảm đau trước khi chuyển như lượt 1: Ringer lactat 1,5 mL/kg/giờ (ACG 2024, IAP 2025) hoặc muối đẳng trương 0,9% theo QĐ 1493/2015; paracetamol 1 g truyền tĩnh mạch (QĐ 1493/2015) hoặc NSAID/opioid (IAP 2025, khuyến cáo 14)",
+     "v": "c",
+     "n": "Ure 6,4 mmol/L, Hct 0,42 cho thấy đã đủ dịch; tiếp tục duy trì, không bolus. Mâu thuẫn nguồn về dịch và giảm đau ghi như lượt 1."
+    },
+    {
+     "t": "Hỏi và gỡ nỗi lo chi phí: giải thích cắt túi mật là cách chữa dứt điểm; không cắt thì cơn sau còn đến, và mỗi lần nằm viện tốn nhiều hơn; nhờ bệnh viện tỉnh tư vấn thủ tục bảo hiểm và xếp mổ ngay trong đợt này; con gái đi cùng",
+     "v": "c",
+     "n": "Cắt túi mật cùng đợt: 0% nhập lại vì biến cố mật so với 18% khi chỉ ra viện (ACG 2024, mục The role of surgery). Mức chi phí, thanh toán bảo hiểm không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn bằng giấy dấu hiệu viêm đường mật: sốt, rét run, vàng da tăng, lú lẫn, tụt huyết áp thì gọi cấp cứu ngay, trên đường đi cũng vậy",
+     "v": "c",
+     "n": "Viêm đường mật cần ERCP sớm trong 24 giờ (ACG 2024, Key concept 13; IAP 2025, khuyến cáo 28iii)."
+    },
+    {
+     "t": "Không kê kháng sinh",
+     "v": "c",
+     "n": "Không kháng sinh dự phòng (IAP 2025, khuyến cáo 19); không có nhiễm khuẩn rõ."
+    },
+    {
+     "t": "Chuyển bằng xe khách hoặc xe cứu thương có người nhà đi kèm, không để bà tự đi xe máy",
+     "v": "a",
+     "n": "Cách đi do ca chọn; tài liệu đã tải không quy định."
+    },
+    {
+     "t": "Nhập lại bệnh viện huyện điều trị nội khoa như lần trước",
+     "v": "w",
+     "n": "Không xử lý nguyên nhân; tái phát và nhập lại thường gặp khi chỉ ra viện không cắt túi mật (ACG 2024, mục The role of surgery); cần MRCP/EUS cho sỏi ống mật chủ (Key concept 14)."
+    },
+    {
+     "t": "Đề nghị ERCP khẩn ngay hôm nay để chẩn đoán",
+     "v": "w",
+     "n": "Không ERCP sớm khi không có viêm đường mật (IAP 2025, khuyến cáo 28i–ii; ACG 2024, Rec 5); tránh ERCP chẩn đoán (ACG 2024, Key concept 14)."
+    },
+    {
+     "t": "Kê kháng sinh dự phòng ceftriaxone",
+     "v": "w",
+     "n": "Không khuyến cáo (IAP 2025, khuyến cáo 19)."
+    },
+    {
+     "t": "Cho về, tăng liều thuốc dạ dày, hẹn mổ 'khi nào có tiền', không dặn dấu hiệu viêm đường mật",
+     "v": "h",
+     "n": "Bỏ sót sỏi ống mật chủ đang gây ứ mật; viêm đường mật cần ERCP trong 24 giờ để giảm tử vong (ACG 2024, Key concept 13); 18% nhập lại vì biến cố mật khi không cắt túi mật (ACG 2024)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tụy cấp tái phát (đợt 2), lipase 1.040 U/L, sau bữa nhiều mỡ",
+     "Nguyên nhân: sỏi túi mật (đã thấy trên siêu âm đợt trước) chưa được cắt; nghi sỏi ống mật chủ vì vàng củng mạc, bilirubin 44, ALP, GGT, ALT tăng",
+     "Chưa viêm đường mật (không sốt, không rét run), chưa SIRS, chưa suy tạng",
+     "Đã loại: thủng tạng rỗng, nhồi máu cơ tim; không nghi ung thư tụy ở lượt này",
+     "Hoàn cảnh: ở xa, khó khăn tài chính, chưa đi khám ngoại khoa vì tiền"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: đau giống hệt lần trước sau bữa giỗ nhiều mỡ; hỏi cụ thể mới ra giấy ra viện (sỏi túi mật, hẹn cắt túi mật), chuyện chưa đi mổ vì tiền, nước tiểu sẫm và mắt vàng.",
+     "Khám: củng mạc vàng nhẹ, ấn đau thượng vị, Murphy âm tính, bụng mềm, nhiệt 37,6 °C.",
+     "Cận lâm sàng: lipase 1.040 U/L xác nhận đợt hai (ACG 2024; IAP 2025, khuyến cáo 1). Bilirubin 44 µmol/L, ALP 236, GGT 318, AST/ALT 156/198 là kiểu ứ mật: nghi sỏi ống mật chủ, khác lượt 1 (bilirubin 17). ECG và troponin không cần làm lại.",
+     "Vì sao tái phát: sỏi túi mật chưa xử lý là lý do thường gặp; tái phát 20–29% sau đợt đầu; nếu không cắt túi mật, 18% nhập lại vì biến cố mật, trong đó 8% viêm tụy do sỏi (ACG 2024, mục Etiology và The role of surgery).",
+     "Phân biệt viêm đường mật: cần sốt, vàng da, đau (tam chứng Charcot) và bilirubin lên nhanh; bà mới có vàng nhẹ và chưa sốt nên chưa cần ERCP khẩn, nhưng phải dặn dấu hiệu chuyển nặng."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến bệnh viện tỉnh trong ngày, có báo trước: cần MRCP hoặc siêu âm nội soi để tìm sỏi ống mật chủ, ERCP nếu có sỏi, cắt túi mật nội soi sớm trong cùng đợt (ACG 2024, Key concept 14, 21; IAP 2025, khuyến cáo 29, 84, 86). Bệnh viện huyện không làm được.",
+     "Trong lúc chờ: dịch duy trì và giảm đau như lượt 1 (cả hai cách theo ACG/IAP và QĐ 1493/2015 đều chấp nhận); không kháng sinh.",
+     "Thời điểm cắt túi mật: thể nhẹ cùng đợt nằm viện (ACG 2024, Key concept 21; IAP 2025, khuyến cáo 84); thể nặng hoặc có ổ tụ dịch thì hoãn (IAP 2025, khuyến cáo 85), QĐ 1493/2015 mục 5.3e ghi sau ít nhất 3 tuần. Hai nguồn khác ở mức độ bệnh; tuyến tỉnh quyết định theo diễn tiến.",
+     "Nỗi lo tiền là lý do ca tái phát: nếu không gỡ thì bà sẽ chối chuyển tuyến. Dặn bằng văn bản, con gái đi cùng, giấy chuyển rõ ràng.",
+     "Việc sai: nhập lại bệnh viện huyện, ERCP khẩn khi chưa viêm đường mật, kháng sinh dự phòng, cho về."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ringer lactat",
+      "ham_luong": "Chai 500 mL",
+      "lieu": "1,5 mL/kg/giờ (khoảng 80 mL/giờ với 54 kg), không bolus",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Tại phòng khám và trên đường chuyển",
+      "so_ngay": "Tiếp tục ở bệnh viện tỉnh",
+      "ghi_chu": "ACG 2024, khuyến cáo 3, 4; IAP 2025, khuyến cáo 10–11. Hoặc muối đẳng trương 0,9% theo QĐ 1493/2015 mục 5.3a (thể nặng 250–300 mL/giờ). Ure 6,4 và Hct 0,42 cho thấy đã đủ dịch nên chọn mức duy trì."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "1 g",
+      "lieu": "1 g mỗi lần",
+      "duong": "Truyền tĩnh mạch trong 15 phút",
+      "thoi_diem": "Khi đau, trước khi chuyển",
+      "so_ngay": "Theo bệnh viện",
+      "ghi_chu": "QĐ 1493/2015, mục 5.2; hoặc NSAID/opioid theo IAP 2025, khuyến cáo 14."
+     },
+     {
+      "thuoc": "Phosphalugel và omeprazol (bà tự mua)",
+      "ham_luong": "Gói; 20 mg",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Không tự uống thêm",
+      "so_ngay": "Không",
+      "ghi_chu": "Không điều trị được viêm tụy do sỏi (ACG 2024, mục Initial management; QĐ 1493/2015, mục 5.3a: kháng tiết acid chỉ để ngừa loét ở thể nặng)."
+     }
+    ],
+    "dan_do": [
+     "Bệnh lần này là cơn viêm tụy thứ hai do sỏi mật; sỏi chưa lấy nên bệnh sẽ quay lại nếu không mổ.",
+     "Đi bệnh viện tỉnh trong hôm nay, có con gái đi cùng; mang giấy ra viện, giấy chuyển và thẻ bảo hiểm; hỏi bệnh viện xếp cắt túi mật ngay trong đợt này để khỏi nhập viện thêm lần nữa.",
+     "Sốt, rét run, vàng da tăng, lú lẫn, ngất hoặc đau tăng nhiều thì báo ngay nhân viên y tế hoặc gọi cấp cứu, kể cả trên đường đi.",
+     "Sau khi hồi phục: bữa ăn ít mỡ, không thịt chiên, nem rán, giò; không rượu bia (IAP 2025, khuyến cáo 91).",
+     "Sau 3–6 tháng làm đường huyết và HbA1c, rồi mỗi 12 tháng (IAP 2025, khuyến cáo 88); tái khám sau ra viện để theo dõi.",
+     "Số điện thoại phòng khám ghi trên giấy; gọi khi cần hỏi."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chiều hôm đó con gái đưa bà lên bệnh viện tỉnh bằng xe khách; phòng khám đã gọi báo trước. MRCP thấy nhiều sỏi nhỏ trong túi mật và một sỏi 4 mm ở đoạn cuối ống mật chủ; bà được ERCP lấy sỏi rồi cắt túi mật nội soi ngay trong đợt nằm viện đó, ra viện sau 8 ngày. Khi tái khám, bà kể mình suýt bỏ chuyến đi vì sợ tốn tiền, và nhờ được giải thích thủ tục bảo hiểm tại phòng khám nên mới chịu đi. Không còn sỏi, không còn cơn đau nào quay lại; bà vẫn đi làm bảo vệ, uống đủ nước khi đứng nắng.",
+ "nhieu": [
+  "Ở xa, khó tái khám: bà ngại quay lại và ngại đi tỉnh; xử trí trọn gói (giấy chuyển, giấy dặn, số điện thoại, con gái đi cùng, báo trước bệnh viện) mới an toàn.",
+  "Không có siêu âm: không làm được tại phòng khám; chẩn đoán viêm tụy cấp vẫn chắc nhờ đau điển hình và lipase (ACG 2024; IAP 2025, khuyến cáo 1); siêu âm tìm sỏi dời sang bệnh viện huyện, MRCP ở bệnh viện tỉnh.",
+  "Thuốc dạ dày tự mua che dấu và làm bà tin là đau dạ dày: gel, omeprazol không điều trị được viêm tụy; hỏi cụ thể mới ra."
+ ],
+ "bai_hoc_bien": [
+  "Đau thượng vị lan ra lưng, nôn không đỡ, ở người không rượu: nghĩ viêm tụy cấp và thử lipase, đừng dừng ở 'đau dạ dày' (QĐ 1493/2015, mục 3.1, 4.1).",
+  "Lipase tăng > 3 lần giới hạn trên đủ chẩn đoán cùng đau điển hình, không phải chờ hình ảnh; không cần CT lúc đầu (ACG 2024, mục Diagnosis; Key concept 1).",
+  "Viêm tụy cấp thể nhẹ vẫn là bệnh phải nằm viện 24–48 giờ đầu: bù dịch đúng lúc quan trọng nhất (ACG 2024, Key concept 8, 11).",
+  "Nguyên nhân nền quyết định tái phát: sỏi mật chưa cắt thì cơn thứ hai đến; hỏi 'đã đi mổ chưa' ở lượt tái khám (ACG 2024, Key concept 21; IAP 2025, khuyến cáo 84).",
+  "Tái khám không đỡ: hỏi lại chính nguyên nhân, cả thuốc tự mua lẫn việc đã làm theo hẹn chưa, và xét nghiệm ứ mật để nghĩ tới sỏi ống mật chủ (ACG 2024, Key concept 14).",
+  "Lý do thật của bà là tiền: hỏi thẳng chi phí, gỡ từng bước, vì không gỡ thì bà không đi dù có giấy chuyển."
+ ],
+ "diem_nho": [
+  "Chẩn đoán viêm tụy cấp: 2 trong 3 (đau điển hình, lipase hoặc amylase > 3 lần giới hạn trên, hình ảnh) (ACG 2024; IAP 2025, khuyến cáo 1; Atlanta 2012).",
+  "Yếu tố nguy cơ nặng: tuổi > 55, BUN > 20 mg/dL, Hct ≥ 44%, SIRS, béo phì, bệnh kèm (ACG 2024, Bảng 4). Mục tiêu bù dịch: nước tiểu 0,5 mL/kg/giờ, BUN < 20 mg/dL, Hct < 44% (IAP 2025, khuyến cáo 12).",
+  "Bù dịch: Ringer lactat 1,5 mL/kg/giờ, bolus 10 mL/kg khi thiếu dịch (ACG 2024; IAP 2025); QĐ 1493/2015 mục 5.3a: muối đẳng trương 250–300 mL/giờ ở thể nặng. Giảm đau: paracetamol (QĐ 1493/2015) hoặc NSAID/opioid (IAP 2025, khuyến cáo 14).",
+  "Không kháng sinh dự phòng (IAP 2025, khuyến cáo 19); ăn đường miệng sớm trong 24–48 giờ (ACG 2024, khuyến cáo 10, 11).",
+  "ERCP khẩn chỉ khi viêm đường mật (24 giờ); sỏi ống mật chủ nghi ngờ mà không viêm đường mật thì MRCP/siêu âm nội soi trước (ACG 2024, Key concept 13–14; IAP 2025, khuyến cáo 28–29).",
+  "Viêm tụy do sỏi thể nhẹ: cắt túi mật trong cùng đợt nằm viện; không cắt thì 18% nhập lại (ACG 2024, Key concept 21; IAP 2025, khuyến cáo 84). Sau viêm tụy tầm soát đái tháo đường (IAP 2025, khuyến cáo 88)."
+ ],
+ "nguon": [
+  "ACG 2024 – Management of acute pancreatitis (Am J Gastroenterol 2024;119:419-437) – TL-0060 – mục Diagnosis; Etiology (khuyến cáo 1; Key concept 2–4); Initial assessment (Bảng 4; Key concept 5–9); Initial management (khuyến cáo 3–4; Key concept 10–12); ERCP (khuyến cáo 5; Key concept 13–14); Nutrition (khuyến cáo 10–11); The role of surgery (Key concept 21); khuyến cáo 8 (kháng sinh)",
+  "IAP 2025 – Revised guidelines on acute pancreatitis (Pancreatology 2025;25:770-814) – TL-0199 – Bảng 1: khuyến cáo 1–2, 5–7, 10–12, 14, 19, 22, 28–29, 84–86, 88, 91",
+  "Atlanta 2012 – Classification of acute pancreatitis (Gut 2013) – TL-0104 – định nghĩa viêm tụy cấp nhẹ, mức độ nặng",
+  "BYT QĐ 1493/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và xử trí hồi sức tích cực – TL-0034 – Viêm tụy cấp nặng, mục 2, 3.1, 3.2, 4.1, 4.2, 5.2, 5.3a, 5.3e",
+  "ESC 2023 – hội chứng vành cấp – TL-0069 – mục 3.1.1, 3.2, 3.3.4, Hình 6; BYT QĐ 2187/2019 – TL-0033 – Hình 3 (hs-troponin)",
+  "WSES 2020 – Perforated and bleeding peptic ulcer – TL-0088 – khuyến cáo chẩn đoán hình ảnh (tr. 4)",
+  "Không có trong tài liệu đã tải: phác đồ điều trị ngoại trú viêm tụy cấp; liều NSAID/opioid cụ thể cho viêm tụy; tốc độ truyền bolus 10 mL/kg; khoảng thời gian giữa hai đợt thì tái phát; chi phí điều trị và quy định thanh toán bảo hiểm; thời gian chờ mổ cắt túi mật theo hẹn; quy đổi ure–BUN do ca tự tính."
+ ],
+ "phien_ban_ca": "1 – viết mới (2026-10-18)",
+ "ghi_chu_bien_tap": [
+  "Ngày viết 18/10/2026. Tài liệu đã đọc: TL-0060 (Diagnosis, Etiology, Initial assessment/management, ERCP, Nutrition, Surgery, Bảng 3–4), TL-0199 (Bảng 1 toàn bộ, mục Fluid, Analgesics), TL-0104 (Mild AP), TL-0034 (Viêm tụy cấp nặng, mục 1–7), TL-0069 (mục 3.1.1, 3.2, 3.3.4), TL-0033 (Hình 3, bản chữ lỗi OCR), TL-0088 (khuyến cáo hình ảnh).",
+  "Thiết kế: lượt 1 nhap_vien (bệnh viện huyện có siêu âm) vì tài liệu đã tải chỉ có xử trí nội trú; không SIRS, không suy tạng nên không chuyen_tuyen. Lượt 2 (13 ngày sau, tái phát vì chưa cắt túi mật, nghi sỏi ống mật chủ) chuyen_tuyen tỉnh có MRCP/ERCP/phẫu thuật nội soi (bệnh viện huyện không có là lựa chọn của ca).",
+  "Mâu thuẫn nguồn ghi cả hai: dịch truyền (ACG/IAP so với QĐ 1493/2015), giảm đau (QĐ 1493 so với IAP khuyến cáo 14). Chi tiết ở TH-1398_mau_thuan.md.",
+  "Nghi ngờ: lượt 1 dùng thể nhẹ nhập viện huyện (không phác đồ ngoại trú trong kho); tách ure–BUN do ca tự quy đổi; các số liệu xét nghiệm, khoảng cách, chi phí là thiết kế của ca."
+ ]
+}
