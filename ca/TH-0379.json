@@ -1,0 +1,793 @@
+{
+ "ma_ca": "TH-0379",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1",
+ "benh": "TH_gerd_cao_tuoi_khong_dien_hinh",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trào ngược dạ dày thực quản (GERD)",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh mạch vành",
+   "Loét thực quản"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Mất ngủ kéo dài",
+  "thuoc_dang_dung": "Thuốc nam không rõ loại",
+  "ly_do_that_su_den_kham": "Sợ đột quỵ",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Tám",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Bán tạp hóa nhỏ ở chợ xã",
+  "can_nang": 49,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ', có lúc 'con'.",
+  "tinh_cach": "Hiền, nói chậm, hay thở dài, dễ lo. Lanh lợi chuyện buôn bán, nhớ giá từng món hàng, nhưng ngại tốn kém và ngại 'làm phiền'. Tin 'thuốc nam lành, không hại'. Học hết lớp 4, nghe tên bệnh lạ là hoảng.",
+  "kieu_nhieu": "Ở xa, khó tái khám: nhà cách phòng khám 22 km, đi xe ôm 45 phút, đóng tiệm là mất buổi bán. Bà không chủ động nói chuyện đi lại; chỉ kể rõ khi bác sĩ hỏi nhà ở đâu, ai chở, quay lại được không. Bà cũng sợ 'rút máu là mất sức' nên từ chối xét nghiệm máu, nhưng đồng ý điện tim.",
+  "nguoi_nha": "Cháu gái Hằng, 26 tuổi, làm công nhân may ở huyện, chở bà đi ở lượt 2 (lượt 1 bà đi xe ôm một mình). Hiền, hay nhắc bà uống thuốc, biết giờ bà uống thuốc và ăn uống ở nhà (nguoi_noi = nguoi_nha khi hỏi giờ giấc, thuốc, ăn uống; bà tự trả lời chuyện đau, sợ).",
+  "ten_nguoi_nha": "Cháu gái Hằng",
+  "ngoai_hinh": {
+   "da": "#c99a76",
+   "toc": "#d9d6d0",
+   "kieuToc": "bui",
+   "ao": "#8f7a63",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e0b08c",
+    "toc": "#1e1612",
+    "kieuToc": "dai",
+    "ao": "#6f8fa3",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tức nặng giữa ngực mỗi đêm, mất ngủ, hay hắng giọng; sợ bị đột quỵ",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Lê Thị Tám, 79 tuổi, bán tạp hóa nhỏ ở chợ xã, đi xe ôm đến một mình. Đến vì tức nặng giữa ngực mỗi đêm khoảng 4 tuần, mất ngủ, hay hắng giọng. Sinh hiệu: HA 138/80 mmHg, mạch 76 l/p, nhiệt 36,7 °C, nhịp thở 18 l/p, SpO₂ 96%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Tám 79 tuổi, tức ngực xuất hiện sau khi nằm, đỡ khi ngồi dậy, không liên quan gắng sức, ECG bình thường, huyết động ổn: nhập viện chỉ vì không có troponin là quá tay, vì không có dấu báo động nào (khó nuốt, sụt cân, xuất huyết, thiếu máu) để phải theo dõi nội trú (ACG 2022, chẩn đoán KC 1, 6; ESC 2023 mục 3.2). Bà bỏ bán mấy ngày, tốn viện phí, rất có thể vẫn từ chối rút máu trong viện, và nằm viện làm nỗi sợ 'sắp liệt như bà hàng xóm' thêm nặng.",
+    "chuyen_tuyen": "Chuyển bà Tám lên bệnh viện tỉnh ngay hôm nay để đo men tim và nội soi là quá sớm: bà ở xa, đi lại tốn kém, đang từ chối xét nghiệm máu nên chuyến đi rất có thể không làm thêm được gì, trong khi nội soi cho bà chỉ cần theo hẹn, không khẩn (ACG 2022 chẩn đoán KC 1, 3; VNAGE 2026 KC 3).",
+    "cap_cuu": "Gọi xe cấp cứu đưa bà Tám đi ngay là không cần: cơn tức ngực chỉ 10–15 phút, hết khi ngồi dậy, không vã mồ hôi, không khó thở, ECG không biến đổi ST–T, nên chưa có dấu hiệu hội chứng vành cấp đang diễn tiến (ESC 2023 mục 3.1.1, 3.2). Bà tốn chi phí xe cấp cứu, hoang mang thêm và có thể bỏ tái khám."
+   },
+   "loi_mo": "Bác sĩ ơi, bà mất ngủ cả tháng nay, nằm xuống một lúc là tức nặng giữa ngực, hắng giọng hoài. Bà sợ lắm, kẻo lại như bà Ba xóm bà.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/80",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tức nặng giữa ngực mỗi đêm khoảng 4 tuần, kèm mất ngủ và hay hắng giọng. Sợ bị đột quỵ như bà hàng xóm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem_dau",
+     "noi_dung": "Tức nặng sau xương ức, hơi nóng, không đau nhói. Xuất hiện khoảng 30–60 phút sau khi nằm, nặng hơn khi ăn tối muộn, làm bà thức giấc lúc 1–3 giờ sáng, kéo dài 10–15 phút. Ngồi dậy hoặc nhấp ngụm nước ấm thì đỡ. Ban ngày gánh hàng, đi bộ ra chợ không đau; không lan tay trái hay hàm, không vã mồ hôi, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau: không liên quan gắng sức, liên quan tư thế và bữa ăn"
+    },
+    {
+     "id": "trao_nguoc",
+     "noi_dung": "Bà không biết 'ợ nóng' là gì và sẽ trả lời 'không'. Nhưng sáng dậy miệng đắng, có lúc nước chua trào lên tận cổ khi nằm, phải ngồi dậy ho khan.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có ợ nóng không' thì bà nói không. Chỉ kể khi bác sĩ hỏi có chua hoặc đắng trào lên cổ, miệng đắng buổi sáng, hoặc nước chua lên họng khi nằm.",
+     "k": 1,
+     "y": "Triệu chứng trào ngược điển hình (trào chua/đắng)"
+    },
+    {
+     "id": "ngoai_thuc_quan",
+     "noi_dung": "Hắng giọng, vướng cổ, ho khan về đêm kể từ khi bắt đầu tức ngực. Không sốt, không khó thở, không đau họng, không khàn tiếng kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng ngoài thực quản"
+    },
+    {
+     "id": "mat_ngu",
+     "noi_dung": "Mất ngủ 4–5 tuần: nằm xuống một lúc thì tức ngực, thức 1–3 giờ sáng rồi khó ngủ lại; mỗi đêm ngủ chừng 3–4 giờ. Ban ngày mệt, hay gật gà ở quầy hàng. Không buồn chán, không muốn chết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất ngủ kéo dài (yếu tố khởi phát)"
+    },
+    {
+     "id": "an_khuya",
+     "noi_dung": "Đóng cửa tiệm lúc 21 giờ 30, ăn tối lúc đó rồi nằm ngay. Thích uống trà đặc buổi tối cho tỉnh coi hàng. Gối một cái. Không uống rượu, không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thói quen ăn khuya, nằm ngay sau ăn"
+    },
+    {
+     "id": "canh_bao_am",
+     "noi_dung": "Không nuốt nghẹn, không nuốt đau, không nôn, không sụt cân (49 kg như cũ), ăn uống bình thường, phân vàng, không đi cầu phân đen. Không uống thuốc giảm đau, không aspirin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động và thuốc gây tổn thương niêm mạc"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Chưa từng đau ngực khi gắng sức, chưa từng nhồi máu hay đột quỵ. Không biết có tăng huyết áp, tiểu đường hay mỡ máu vì chưa khám bao giờ. Không khó thở khi nằm, không phù chân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử và nguy cơ tim mạch"
+    },
+    {
+     "id": "choang_vang",
+     "noi_dung": "Có choáng váng vài giây khi vừa đứng dậy buổi sáng, kể từ khi thiếu ngủ. Không quay cuồng, không yếu tay chân, không nói ngọng, không méo miệng, không tê mặt hay tay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng thần kinh (nỗi lo đột quỵ)"
+    },
+    {
+     "id": "thuoc_nam",
+     "noi_dung": "Ba tuần nay mỗi tối bà uống một gói bột nâu thầy lang ở chợ bán, nghe nói 'bổ máu, thông kinh lạc, ngừa tai biến'. Không nhãn, bà không biết thành phần, còn khoảng 6 gói trong nhà.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì bà nói không có. Chỉ kể khi bác sĩ hỏi cụ thể thuốc nam, thuốc bổ, thuốc người khác cho, hoặc có uống gì để ngừa tai biến không.",
+     "k": 1,
+     "y": "Thuốc nam không rõ loại đang dùng"
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Bà không đồng ý rút máu, cả chích đầu ngón tay thử đường: 'rút máu là mất sức, lần trước người ta rút xong là nằm liệt'. Bà đồng ý điện tim vì 'không đau, không mất gì'. Nếu bác sĩ giải thích kỹ vẫn không đổi ý lượt này.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm máu: cần ghi nhận và dùng phương án B"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Bà Ba bán gạo cạnh tiệm vừa đột quỵ liệt nửa người cách đây 5 tuần, trước đó cũng 'mất ngủ, chóng mặt, hay hắng giọng'. Bà sợ mình sắp bị, nên đi khám và mua thuốc nam ngừa tai biến.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà lo nhất điều gì, vì sao hôm nay quyết định đi khám, hoặc bà nghĩ mình bị bệnh gì.",
+     "k": 1,
+     "y": "Động cơ thật: sợ đột quỵ"
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Nhà cách phòng khám 22 km, đi xe ôm 45 phút. Con cái ở xa, cháu gái Hằng làm công nhân ở huyện, chỉ nghỉ được cuối tuần. Trạm y tế xã gần chợ, đo huyết áp được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng tái khám (ở xa)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, gầy, mệt, mắt trũng nhẹ, niêm mạc hồng, không vàng da. BMI 21,8. Không hạch thượng đòn.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, không âm thổi, không tiếng ngựa phi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực hơi gù, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn thượng vị không đau, không sờ thấy khối, gan lách không to.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói rõ, không méo miệng, sức cơ tay chân 5/5, hai tay giơ ngang không rơi, đi lại vững, không dấu thần kinh khu trú.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 138/80 mmHg, mạch 76 l/p; đứng 1 phút 134/78 mmHg, mạch 80 l/p; đứng 3 phút 136/78 mmHg. Không hạ huyết áp tư thế.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Ấn thành ngực, sụn sườn không đau; cúi, xoay thân không làm đau ngực.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, amidan không to, thành sau họng hơi sần. Không chảy mũi sau.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, tuyến giáp không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 74 l/p, trục trung gian, PR 0,16 giây, QRS hẹp, không ST chênh, không sóng T đảo, không sóng Q bệnh lý.",
+     "n": "Đau ngực kể cả kiểu thực quản đều phải loại trừ tim trước, ECG trong 10 phút (ESC 2023 mục 3.2). ECG bình thường không loại trừ hẳn hội chứng vành khi không có hs-troponin (ESC 2023 mục 3.3.1)."
+    },
+    "trop": {
+     "r": "(Bà Tám không đồng ý rút máu đo troponin. Đã ghi nhận từ chối vào hồ sơ.)",
+     "v": "u",
+     "n": "Phương án B: dựa vào đặc điểm đau (liên quan tư thế và bữa ăn, 10–15 phút, đỡ khi ngồi dậy, không đau khi gắng sức), ECG bình thường, theo dõi sát và dặn dấu hiệu gọi cấp cứu. Đau ngực nghỉ kéo dài trên 20 phút là đặc điểm đau thắt ngực không ổn định (ESC 2023 mục 2.1); cơn của bà dưới 20 phút, nhưng khi không có hs-troponin (ESC 2023 mục 3.3.1) bệnh mạch vành chỉ được xem là ít khả năng, chưa loại trừ hẳn."
+    },
+    "ctm": {
+     "r": "(Bà Tám không đồng ý rút máu. Đã ghi nhận từ chối vào hồ sơ.)",
+     "v": "u",
+     "n": "Thiếu máu là dấu báo động cần nội soi (VNAGE 2026 KC 3). Khi không có công thức máu, dựa vào lâm sàng: niêm mạc hồng, không phân đen, không sụt cân."
+    },
+    "glu_mm": {
+     "r": "(Bà Tám không đồng ý chích đầu ngón tay. Đã ghi nhận từ chối.)",
+     "v": "u",
+     "n": "Không có trong tài liệu GERD đã tải chỉ định đo đường huyết; nhắc bà đo lại ở trạm y tế khi đồng ý."
+    },
+    "creat": {
+     "r": "(Bà Tám không đồng ý rút máu. Đã ghi nhận từ chối vào hồ sơ.)",
+     "v": "u",
+     "n": "Chức năng thận không cần để bắt đầu omeprazol 20 mg; ACG 2022 (PPI dài hạn, KC 5) không khuyến cáo theo dõi creatinin thường quy ở người không có nguy cơ bệnh thận."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi tiêu hóa; nội soi làm ở bệnh viện tỉnh, cách 45 km.)",
+     "n": "Chỉ định nội soi không khẩn: có yếu tố nguy cơ Barrett (tuổi > 50, trào ngược ban đêm) (VNAGE 2026 KC 3); nội soi sau ngưng PPI 2 tuần (ACG 2022 chẩn đoán KC 3)."
+    },
+    "cxr": {
+     "n": "Không cần: không ho sốt, phổi không ran, SpO₂ 96%. ACG 2022 chẩn đoán KC 5: không dùng cản quang thực quản chỉ để chẩn đoán GERD."
+    },
+    "ct_nao": {
+     "n": "Không cần: khám thần kinh bình thường, không có triệu chứng thần kinh khu trú."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày thực quản (GERD) biểu hiện không điển hình ở người rất cao tuổi: tức ngực thực quản về đêm, trào đắng, hắng giọng; kèm mất ngủ do trào ngược ban đêm; đã loại trừ lâm sàng bệnh mạch vành khi từ chối troponin",
+     "ok": 1,
+     "n": "Tức ngực sau xương ức sau khi nằm và sau bữa tối muộn, đỡ khi ngồi dậy; trào chua/đắng; hắng giọng. Đau ngực thực quản và trào ngược là triệu chứng điển hình (Lyon 2.0, Bảng 2); đau ngực + triệu chứng ngoài thực quản được xử trí với PPI khi có kèm triệu chứng điển hình (VNAGE 2026 KC 16)."
+    },
+    {
+     "t": "Bệnh mạch vành (đau thắt ngực, hội chứng vành cấp)",
+     "n": "Ít khả năng: đau liên quan tư thế và bữa ăn, 10–15 phút, đỡ khi ngồi dậy, không đau khi gắng sức, ECG bình thường. Không có hs-troponin do bà từ chối nên chưa loại trừ hẳn; bù bằng theo dõi và lưới an toàn (ESC 2023 mục 3.1.1, 3.2, 3.3.1)."
+    },
+    {
+     "t": "Loét thực quản / viêm thực quản nặng",
+     "n": "Chỉ nội soi mới trả lời. Không nuốt nghẹn, nuốt đau, xuất huyết, thiếu máu lâm sàng, không dùng NSAID: không có dấu báo động nên nội soi theo hẹn, không khẩn (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3)."
+    },
+    {
+     "t": "Đột quỵ / cơn thiếu máu não thoáng qua",
+     "n": "Khám thần kinh bình thường, không méo miệng, không yếu liệt, không nói ngọng; choáng váng chỉ vài giây khi đứng dậy, không hạ huyết áp tư thế. Không có chỉ định chụp CT sọ."
+    },
+    {
+     "t": "Mất ngủ mạn (insomnia disorder)",
+     "n": "Mất ngủ mới 4–5 tuần, tiêu chuẩn mạn tính cần ít nhất 3 tháng (ESRS 2023, Bảng 2); nguyên nhân rõ là trào ngược ban đêm và thói quen ăn khuya."
+    },
+    {
+     "t": "Ung thư thực quản / dạ dày",
+     "n": "Không nuốt nghẹn, không sụt cân, không thiếu máu lâm sàng, không nôn (ACG 2022 chẩn đoán KC 6). Nội soi theo hẹn sẽ trả lời chắc chắn (VNAGE 2026 KC 3: ác tính 0,4% trong 472.744 người nội soi)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi kỹ đặc điểm đau, làm điện tim ngay, khám thần kinh; đề nghị xét nghiệm máu và troponin, hỏi vì sao bà ngại, giải thích bằng lời đơn giản; khi bà vẫn từ chối thì ghi nhận từ chối vào hồ sơ và chọn phương án B (theo dõi sát, dặn dấu hiệu gọi cấp cứu)",
+     "v": "c",
+     "n": "Đau ngực kể cả khi nghĩ do thực quản vẫn phải loại trừ tim trước, ECG trong 10 phút (ESC 2023 mục 3.1.1, 3.2); Lyon 2.0 và ACG 2022 (chẩn đoán KC 4) đều đặt điều kiện này. Quy trình ghi nhận từ chối: không có trong tài liệu đã tải; phương án B là cách xử trí của ca."
+    },
+    {
+     "t": "Omeprazol 20 mg uống 1 lần/ngày, 30–60 phút trước bữa sáng, 8 tuần; đánh giá lại ở tuần 8",
+     "v": "c",
+     "n": "Triệu chứng điển hình (đau ngực thực quản, trào chua/đắng) kèm ngoài thực quản, không dấu báo động: PPI liều chuẩn (VNAGE 2026 KC 15, 16; ACG 2022 chẩn đoán KC 1). Liều chuẩn 20 mg (VNAGE 2024 Bảng 4). Uống 30–60 phút trước bữa, không uống lúc đi ngủ (ACG 2022 điều trị KC 8; mục sổ mâu thuẫn 'Thời điểm uống PPI' từ TH-0295). Không dùng PPI theo lịch quá 8 tuần nếu không có chỉ định rõ ở người từ 65 tuổi (AGS Beers 2023, Bảng 2)."
+    },
+    {
+     "t": "Thay đổi lối sống cụ thể cho người bán hàng: ăn tối xong chờ ít nhất 2–3 giờ mới nằm (hoặc ăn tối sớm), kê cao đầu giường bằng chân giường hoặc gối nêm, không uống trà đặc buổi tối, chia nhỏ bữa",
+     "v": "c",
+     "n": "Tránh ăn trong 2–3 giờ trước khi ngủ, kê cao đầu giường, tránh thức ăn gây triệu chứng (ACG 2022 điều trị: lối sống KC 2, 4, 5); nâng đầu giường 20 cm cải thiện trào ngược ban đêm (VNAGE 2026 KC 11). Trà đặc là thức ăn kích gây triệu chứng theo lời bà; nguồn riêng về trà: không có trong tài liệu đã tải. Cân nặng bình thường nên không đặt mục tiêu giảm cân (ACG 2022 điều trị KC 1: chỉ cho người thừa cân)."
+    },
+    {
+     "t": "Viết giấy giới thiệu nội soi dạ dày – thực quản ở bệnh viện tỉnh, làm không khẩn sau khi ngưng omeprazol 2 tuần ở cuối đợt 8 tuần; dặn bà đưa giấy cho cháu gái",
+     "v": "c",
+     "n": "Tuổi > 50 và trào ngược ban đêm là yếu tố nguy cơ Barrett (VNAGE 2026 KC 3); nội soi chẩn đoán ngưng PPI 2–4 tuần trước (ACG 2022 chẩn đoán KC 3; Lyon 2.0, Bảng 2). Đau ngực khi đã loại trừ tim: đánh giá khách quan (ACG 2022 chẩn đoán KC 4). Thời hạn hẹn nội soi cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trả lời đúng nỗi sợ đột quỵ: khám thần kinh bình thường, điện tim không có gì lạ, tức ngực do trào ngược chứ không phải mạch máu não; dặn biết các dấu hiệu FAST (Mặt méo, Tay yếu, Nói khó, Thời gian: gọi 115) và nhờ trạm y tế đo lại huyết áp nhiều lần",
+     "v": "c",
+     "n": "Đột quỵ có thể khởi phát đột ngột với yếu liệt, rối loạn ngôn ngữ, thị giác, thăng bằng; người bệnh cần biết dấu hiệu và hành động, công cụ FAST (Hướng dẫn PHCN người bệnh đột quỵ, BYT 2018, TL-0444, phần giới thiệu và Phụ lục 4). Huyết áp 138/80 dưới ngưỡng 140/90; tăng huyết áp cần xác nhận khi đo lại (VSH/VNHA 2024, TL-0288)."
+    },
+    {
+     "t": "Xem gói thuốc nam, hỏi và ghi lại tên, nguồn gốc; khuyên bà tạm ngưng trong lúc chưa rõ thành phần và mang gói theo lần sau",
+     "v": "c",
+     "n": "Thuốc thảo dược không được khuyến cáo trong điều trị mất ngủ (ESRS 2023, tóm tắt: phytotherapeutics not recommended, mức A). Thành phần và tương tác với PPI: không có trong tài liệu đã tải; việc 'ngưng khi chưa rõ thành phần' là quyết định của ca."
+    },
+    {
+     "t": "Xử trí mất ngủ bằng cách chữa nguyên nhân (trào ngược đêm), giờ ngủ đều, ban ngày hạn chế ngủ gật; chưa kê thuốc ngủ",
+     "v": "c",
+     "n": "Mất ngủ mới 4–5 tuần, nguyên nhân rõ. Không kê benzodiazepin hay thuốc nhóm Z hằng đêm cho người ≥ 65 tuổi (AGS Beers 2023, Bảng 2; xem mục sổ mâu thuẫn 'Thuốc ngủ benzodiazepin và nhóm Z', ESRS 2023 cho phép ≤ 4 tuần). CBT-I là đầu tay cho mất ngủ mạn ở người mọi tuổi, nếu kéo dài từ 3 tháng (ESRS 2023, tóm tắt, Bảng 2)."
+    },
+    {
+     "t": "Dặn bằng văn bản vì nhà xa: dấu hiệu gọi 115 hoặc đến trạm y tế gần nhất (đau ngực > 15 phút hoặc tái lại trong 1 giờ, vã mồ hôi, khó thở, đau lan tay hàm, nuốt nghẹn, nuốt đau, nôn máu, phân đen, sụt cân, yếu liệt, méo miệng); ghi số điện thoại phòng khám; hẹn tái khám sau 4 tuần, có thể báo qua trạm y tế xã",
+     "v": "c",
+     "n": "ESC 2023 mục 3.1.1 (đau ngực > 15 phút hoặc tái lại trong 1 giờ là dấu hiệu cảnh báo); dấu báo động (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Mốc tái khám 4 tuần là lựa chọn của ca (nhà xa, giữa đợt 8 tuần), không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Omeprazol 20 mg ngày 2 lần ngay từ đầu (trước bữa sáng và bữa tối)",
+     "v": "a",
+     "n": "Có triệu chứng ngoài thực quản kèm điển hình: ACG 2022 (ngoài thực quản KC 3) gợi ý PPI 2 lần/ngày 8–12 tuần. VNAGE 2026 KC 15 (NERD 4–8 tuần liều chuẩn), KC 17 (xác nhận tuân thủ trước khi tăng liều). Ca chọn 1 lần/ngày vì triệu chứng chính là đau ngực và bà cao tuổi (Beers: PPI liều thấp nhất, thời gian ngắn nhất)."
+    },
+    {
+     "t": "Thử alginat uống khi cần để giảm triệu chứng nhanh, kết hợp lối sống, trước khi dùng PPI",
+     "v": "a",
+     "n": "VNAGE 2026 KC 14 (alginat là bước tiếp theo cho GERD nhẹ-vừa, khởi phát trong 1 giờ). Liều alginat: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển bà đi nội soi và đo men tim ngay, không thử PPI trước",
+     "v": "a",
+     "n": "Hợp lý khi đau ngực là triệu chứng chính (ACG 2022 chẩn đoán KC 4) và bà cao tuổi, nhưng không có dấu báo động nên không bắt buộc (ACG 2022 chẩn đoán KC 1). Bà từ chối xét nghiệm máu và ở xa nên nhiều khả năng không đi."
+    },
+    {
+     "t": "Kê omeprazol uống tối trước khi đi ngủ",
+     "v": "a",
+     "n": "QĐ 361/2014 (TL-0286, Phụ lục NSAID mục 3.3) ghi uống tối trước khi ngủ cho dự phòng NSAID; ACG 2022 điều trị KC 8 khuyên 30–60 phút trước bữa ăn, không phải lúc đi ngủ; mục sổ mâu thuẫn 'Thời điểm uống PPI' từ TH-0295."
+    },
+    {
+     "t": "Kê aspirin liều thấp 'phòng đột quỵ' theo yêu cầu của bà",
+     "v": "w",
+     "n": "Không khởi trị aspirin để phòng ngừa tiên phát ở người cao tuổi vì nguy cơ chảy máu lớn tăng (AGS Beers 2023, Bảng 2); bà còn có tổn thương thực quản chưa loại trừ."
+    },
+    {
+     "t": "Kê diazepam, zolpidem hoặc diphenhydramin để bà ngủ, mỗi đêm",
+     "v": "w",
+     "n": "Benzodiazepin, thuốc nhóm Z và kháng histamin thế hệ 1 nên tránh ở người ≥ 65 tuổi vì lú lẫn, té ngã (AGS Beers 2023, Bảng 2); kháng histamin không được khuyến cáo cho mất ngủ (ESRS 2023, tóm tắt). Nguyên nhân mất ngủ là trào ngược đêm chưa được chữa."
+    },
+    {
+     "t": "Cho metoclopramid hoặc sucralfat thay cho PPI",
+     "v": "w",
+     "n": "ACG 2022 điều trị KC 14 (không dùng prokinetic nếu không có bằng chứng liệt dạ dày), KC 15 (không dùng sucralfat trừ khi có thai); metoclopramid nên tránh ở người cao tuổi (AGS Beers 2023, Bảng 2)."
+    },
+    {
+     "t": "Nói 'không xét nghiệm thì không khám, không kê thuốc' hoặc ép bà rút máu",
+     "v": "w",
+     "n": "Bà có quyền từ chối xét nghiệm và vẫn cần được điều trị theo phương án B (đặc tả sổ cái). Ép buộc làm bà bỏ về, mất cơ hội theo dõi."
+    },
+    {
+     "t": "Kê omeprazol, nói chắc chắn 'không phải tim', không dặn dấu hiệu nguy hiểm vì bà đã từ chối men tim",
+     "v": "h",
+     "n": "Không có troponin nên không thể nói chắc chắn; ở người 79 tuổi chậm nhận hội chứng vành cấp có thể gây tử vong. Dấu hiệu đau ngực kéo dài > 15 phút hoặc tái lại trong 1 giờ phải được dặn (ESC 2023 mục 3.1.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "GERD biểu hiện không điển hình ở bà 79 tuổi: tức ngực thực quản về đêm, trào chua/đắng, hắng giọng",
+     "Mất ngủ 4–5 tuần do trào ngược ban đêm và thói quen ăn khuya, nằm ngay",
+     "Bệnh mạch vành ít khả năng nhưng chưa loại trừ hẳn vì từ chối troponin; loét thực quản/Barrett chưa loại trừ, cần nội soi không khẩn",
+     "Đang dùng thuốc nam không rõ thành phần; lý do thật đi khám là sợ đột quỵ",
+     "Ở xa, từ chối xét nghiệm máu: phương án B, ghi nhận từ chối"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do và nỗi sợ thật, đặc điểm đau (tư thế, bữa ăn, gắng sức, thời gian cơn), hỏi trào chua/đắng (không hỏi 'ợ nóng'), triệu chứng ngoài thực quản, dấu báo động, thuốc kể cả thuốc nam, thói quen ăn uống ngủ nghỉ, nhà ở xa. Đau ngực thực quản, trào ngược là triệu chứng điển hình; hắng giọng, vướng cổ đơn độc ít liên quan hơn (Lyon 2.0, Bảng 2). Người rất cao tuổi hay biểu hiện không điển hình: không nói 'ợ nóng' mà nói 'tức nặng, mất ngủ'.",
+     "Khám và cận lâm sàng: tim phổi bình thường, bụng mềm, khám thần kinh bình thường (đáp lại nỗi lo đột quỵ), huyết áp tư thế bình thường. ECG bình thường nhưng không thay được hs-troponin (ESC 2023 mục 3.2, 3.3.1); bà từ chối nên chỉ nói 'ít khả năng', không nói 'đã loại trừ'.",
+     "Vì sao GERD: đau xuất hiện sau khi nằm và sau bữa tối muộn, đỡ khi ngồi dậy, kèm trào chua/đắng, không đau khi gánh hàng. Thử PPI đơn thuần không đủ để khẳng định (VNAGE 2026 KC 2; Lyon 2.0 Bảng 2); LA độ A cũng không đủ, cần B trở lên, Barrett hay AET > 6% (VNAGE 2026 KC 6). Ở tuyến cơ sở chẩn đoán chủ yếu là lâm sàng kèm đáp ứng điều trị.",
+     "Loét thực quản: cần nội soi mới loại trừ; không có dấu báo động nên nội soi theo hẹn sau ngưng PPI 2 tuần (ACG 2022 chẩn đoán KC 3, 6). Mất ngủ chưa đủ 3 tháng nên chưa gọi mất ngủ mạn (ESRS 2023, Bảng 2).",
+     "Áp dụng cho người ≥ 75 tuổi: các hướng dẫn GERD đã tải (VNAGE 2026, ACG 2022, Lyon 2.0) không có khuyến cáo riêng cho nhóm này; tài liệu đã tải duy nhất nêu giới hạn là AGS Beers 2023 (PPI theo lịch > 8 tuần cần có lý do rõ)."
+    ],
+    "phan_tich_xu_tri": [
+     "Loại trừ tim trước, ghi nhận từ chối, dặn lưới an toàn rõ ràng: đây là phần quan trọng nhất khi không có troponin.",
+     "Omeprazol 20 mg 1 lần/ngày, 30–60 phút trước bữa sáng, 8 tuần (VNAGE 2026 KC 15, 16; ACG 2022 điều trị KC 8). Uống buổi tối trước ngủ chấm chấp nhận (QĐ 361/2014), theo mục sổ mâu thuẫn đã có. Sau 8 tuần: hết triệu chứng thì thử ngưng hoặc dùng khi cần (ACG 2022 chẩn đoán KC 2, điều trị KC 9, 16); Beers tránh PPI theo lịch > 8 tuần nếu không có chỉ định rõ.",
+     "Cách xử trí đau ngực không ợ nóng: bà còn trào chua/đắng nên thử PPI 8 tuần kèm hẹn nội soi không khẩn (Lyon 2.0 Bảng 2; VNAGE 2026 KC 15, 16, 3); nội soi hoặc đo pH trước khi dùng PPI kéo dài (ACG 2022 chẩn đoán KC 4) cũng được chấp nhận. Hai nguồn không loại trừ nhau trong ca này.",
+     "Lối sống: ăn tối xong 2–3 giờ mới nằm, kê cao đầu giường, tránh thức ăn gây triệu chứng (ACG 2022 điều trị KC 2, 4, 5; VNAGE 2026 KC 11). Mất ngủ sẽ giảm khi trào ngược ban đêm giảm; không kê thuốc ngủ (Beers 2023).",
+     "Thuốc nam: không khuyến cáo cho mất ngủ (ESRS 2023); thành phần không rõ nên tạm ngưng và mang gói theo (không có trong tài liệu đã tải).",
+     "Vì nhà xa: dặn bằng văn bản, ghi số điện thoại, nhờ trạm y tế xã đo huyết áp và điện tim lại khi cần; tái khám sau 4 tuần (mốc của ca, không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng",
+      "so_ngay": "8 tuần; đánh giá lại ở tuần 8",
+      "ghi_chu": "VNAGE 2026 KC 15, 16; liều chuẩn VNAGE 2024 Bảng 4; ACG 2022 điều trị KC 8 (thời điểm). Dặn: không uống lúc đi ngủ. Beers 2023 Bảng 2: không dùng theo lịch quá 8 tuần nếu không có lý do rõ."
+     },
+     {
+      "thuoc": "Thuốc nam bột (đang dùng, không rõ loại)",
+      "ham_luong": "Không rõ",
+      "lieu": "Tạm ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng",
+      "so_ngay": "Tạm ngưng trong đợt điều trị",
+      "ghi_chu": "ESRS 2023 (tóm tắt): thuốc thảo dược không khuyến cáo cho mất ngủ. Thành phần và tương tác với PPI: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống omeprazol mỗi sáng 30–60 phút trước ăn sáng, đủ 8 tuần, không uống lúc lên giường (ACG 2022 điều trị KC 8).",
+     "Ăn tối trước 19 giờ, hoặc ăn xong chờ 2–3 giờ rồi mới nằm; kê cao đầu giường, không uống trà đặc buổi tối (ACG 2022 điều trị KC 2, 4, 5).",
+     "Mang gói thuốc nam lần sau và tạm ngưng uống trong lúc điều trị.",
+     "Gọi 115 hoặc đến trạm y tế ngay nếu đau ngực kéo dài trên 15 phút hoặc tái lại trong 1 giờ, vã mồ hôi, khó thở, đau lan tay hoặc hàm (ESC 2023 mục 3.1.1); méo miệng, yếu tay chân, nói khó (FAST, TL-0444); nuốt nghẹn, nuốt đau, nôn ra máu, phân đen, sụt cân (ACG 2022 chẩn đoán KC 6).",
+     "Cầm giấy giới thiệu nội soi, đi vào tuần thứ 9, khi đã ngưng thuốc 2 tuần (ACG 2022 chẩn đoán KC 3); ghi sẵn số điện thoại phòng khám trên giấy.",
+     "Nhờ trạm y tế xã đo huyết áp lại; nếu đổi ý về xét nghiệm máu thì đến lúc nào cũng được.",
+     "Tái khám sau 4 tuần (mốc của ca, không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần",
+   "tiep_don": "Tái khám sau 4 tuần, cháu gái Hằng chở đến. Đỡ một phần: tức ngực đêm thưa hơn nhưng vẫn hắng giọng, miệng đắng, ngủ chưa ngon. Sinh hiệu: HA 136/80 mmHg, mạch 74 l/p, nhiệt 36,6 °C, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bà Tám vì 'dùng thuốc 4 tuần mà chưa hết' là không cần: bà đã giảm tức ngực, không có dấu báo động, huyết động ổn; thuốc mới uống đúng nửa đợt 8 tuần và chưa được tối ưu cách uống (VNAGE 2026 KC 4, 17: đáp ứng PPI ở NERD thấp hơn, cần kiểm tra tuân thủ trước khi leo thang). Bà tốn chi phí, mất buổi bán, vẫn có thể từ chối xét nghiệm trong viện.",
+    "chuyen_tuyen": "Chuyển bà đi bệnh viện tỉnh ngay để đo pH hoặc nội soi khẩn là sớm: bà đáp ứng một phần, chưa hết 8 tuần PPI, chưa tối ưu giờ uống và thói quen ăn tối. Nội soi khi chưa ngưng PPI thì kết quả kém tin cậy; nên chờ đủ 8 tuần, ngưng 2 tuần rồi nội soi theo hẹn (ACG 2022 chẩn đoán KC 3; điều trị khó chữa KC 1)."
+   },
+   "loi_mo": "Bác sĩ ơi, bà đỡ hơn một chút, nhưng vẫn hắng giọng, miệng đắng, ngủ cũng chưa ngon. Cháu Hằng chở bà đi nên bà mới đi được.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "136/80",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "do_mot_phan",
+     "noi_dung": "Tức ngực đêm giảm còn 2–3 đêm một tuần, nhẹ hơn và ngắn hơn, ngủ được 4–5 giờ. Vẫn hắng giọng, miệng đắng buổi sáng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần sau 4 tuần PPI"
+    },
+    {
+     "id": "gio_uong",
+     "noi_dung": "Bà uống omeprazol mỗi tối ngay trước khi lên giường, 'cho khỏi quên'. Cháu Hằng xác nhận: thấy bà uống lúc tắt đèn. Chưa lần nào uống trước ăn sáng. Thuốc uống đều, không bỏ ngày nào.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống thuốc đều không' thì bà nói đều. Chỉ lộ giờ uống khi bác sĩ hỏi cụ thể uống lúc nào trong ngày, trước hay sau ăn, hoặc hỏi cháu Hằng.",
+     "k": 1,
+     "y": "Giờ uống PPI sai (tuân thủ cách dùng)"
+    },
+    {
+     "id": "an_khuya2",
+     "noi_dung": "Tuần đầu bà ăn tối sớm 19 giờ và đỡ hẳn. Hai tuần nay bán đông, lại đóng cửa 21 giờ 30 rồi mới ăn, nằm ngay, khoảng 4 đêm một tuần; những đêm đó tức ngực lại. Đã kê thêm một cái gối nhưng chưa kê chân giường. Trà đặc buổi tối vẫn uống.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ lối sống"
+    },
+    {
+     "id": "thuoc_nam2",
+     "noi_dung": "Bà vẫn uống gói thuốc nam mỗi tối, còn khoảng 6 gói, mang theo một gói: bột nâu, mùi hắc, túi giấy không nhãn, chỉ có mấy chữ viết tay 'bổ huyết thông mạch'. Bà nghĩ thuốc nam thì 'lành', và cần để ngừa tai biến.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà còn uống thuốc nam, thuốc bổ, thuốc ngừa tai biến không, hoặc nhắc lại lời dặn ngưng lần trước.",
+     "k": 1,
+     "y": "Vẫn dùng thuốc nam không rõ loại"
+    },
+    {
+     "id": "than_kinh2",
+     "noi_dung": "Không yếu tay chân, không méo miệng, không nói ngọng, không tê. Choáng váng khi đứng dậy đã hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc thần kinh"
+    },
+    {
+     "id": "canh_bao_am2",
+     "noi_dung": "Vẫn không nuốt nghẹn, không nuốt đau, không nôn, cân nặng 49 kg, phân vàng, không phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động"
+    },
+    {
+     "id": "tim_mach2",
+     "noi_dung": "Không đau ngực khi gánh hàng, không khó thở, không có cơn đau mới. Mỗi cơn tức ngực vẫn ngắn, đỡ khi ngồi dậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau ngực không đổi tính chất"
+    },
+    {
+     "id": "xn_lai",
+     "noi_dung": "Vẫn không muốn rút máu; cháu Hằng khuyên mà bà lắc đầu 'đỡ rồi thì thôi'. Đồng ý uống thuốc đúng giờ nếu được dặn kỹ, đồng ý đo huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm lần 2"
+    },
+    {
+     "id": "noi_soi_hen",
+     "noi_dung": "Chưa đi nội soi vì còn đang uống thuốc theo dặn. Cháu Hằng nghỉ phép được một ngày vào tuần thứ 9; chở bà lên tỉnh được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng đi nội soi (cháu chở được)"
+    },
+    {
+     "id": "lo_lang2",
+     "noi_dung": "Vẫn nhắc bà Ba còn nằm viện. Nghe nói không phải bệnh mạch máu não thì bà yên tâm hơn, nhưng vẫn muốn có thuốc 'bổ não'.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tươi hơn lần trước, niêm mạc hồng, không vàng da. Cân 49 kg.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn thượng vị không đau, không khối.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói rõ, không méo miệng, sức cơ 5/5, không dấu thần kinh khu trú.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p, không âm thổi, không tiếng ngựa phi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực hơi gù, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "ha_tu_the": {
+     "a": "Nằm 136/80 mmHg, mạch 74 l/p; đứng 1 phút 134/78 mmHg, mạch 78 l/p. Không hạ huyết áp tư thế.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, thành sau họng sần nhẹ như lần trước.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "n": "Không cần làm lại: cơn đau không đổi tính chất, thưa hơn, không liên quan gắng sức; ECG lượt 1 bình thường."
+    },
+    "trop": {
+     "r": "(Bà Tám vẫn không đồng ý rút máu đo troponin. Đã ghi nhận từ chối lần 2.)",
+     "v": "u",
+     "n": "Cơn thưa dần khi điều trị trào ngược, nhưng đáp ứng PPI một mình không đủ để khẳng định nguyên nhân (VNAGE 2026 KC 2); PPI chỉ cải thiện đau ngực không do tim ở người có viêm thực quản trợt hoặc pH bất thường (ACG 2022, phần triệu chứng). Tiếp tục lưới an toàn."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi tiêu hóa; nội soi làm ở bệnh viện tỉnh.)",
+     "n": "Chưa cần ngay: đáp ứng một phần, chưa hết 8 tuần và chưa tối ưu cách dùng (ACG 2022, điều trị khó chữa KC 1; VNAGE 2026 KC 17). Giữ hẹn không khẩn sau ngưng PPI 2 tuần (ACG 2022 chẩn đoán KC 3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "GERD đáp ứng một phần sau 4 tuần PPI do dùng chưa tối ưu: uống PPI lúc đi ngủ, ăn tối muộn nằm ngay, còn dùng thuốc nam; chưa có dấu báo động, chưa kết luận kháng PPI",
+     "ok": 1,
+     "n": "Giảm từ mỗi đêm còn 2–3 đêm/tuần; tuần đầu ăn sớm thì đỡ hẳn. Cần kiểm tra tuân thủ và tối ưu PPI trước khi coi là khó chữa (ACG 2022, điều trị khó chữa KC 1; VNAGE 2026 KC 17)."
+    },
+    {
+     "t": "GERD kháng PPI / bệnh nền khác (rối loạn vận động thực quản, viêm thực quản tăng bạch cầu ái toan)",
+     "n": "Chưa đủ cơ sở: mới 4 tuần, uống sai giờ, vẫn ăn muộn. Chỉ nghĩ tới khi đã tối ưu mà không đáp ứng sau 8 tuần (VNAGE 2026 KC 3, 17; ACG 2022 điều trị khó chữa KC 1–3)."
+    },
+    {
+     "t": "Bệnh mạch vành",
+     "n": "Cơn không đổi tính chất, ngắn, thưa dần, đỡ khi ngồi dậy, không đau khi gắng sức. Không có troponin nên không loại trừ hẳn; vẫn dặn lưới an toàn (ESC 2023 mục 3.1.1)."
+    },
+    {
+     "t": "Loét thực quản / Barrett / ung thư thực quản",
+     "n": "Chưa loại trừ, cần nội soi: không có dấu báo động, hẹn sau khi ngưng PPI 2 tuần (VNAGE 2026 KC 3; ACG 2022 chẩn đoán KC 3, 6)."
+    },
+    {
+     "t": "Mất ngủ mạn",
+     "n": "Mới khoảng 9 tuần kể từ khi khởi phát, chưa đủ 3 tháng, đang cải thiện theo trào ngược (ESRS 2023, Bảng 2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi chi tiết cách dùng thuốc (giờ uống, trước hay sau ăn), giờ ăn tối, thuốc nam, nhờ cháu Hằng xác nhận, trước khi tăng liều hay đổi thuốc",
+     "v": "c",
+     "n": "Kiểm tra tuân thủ và tối ưu PPI là bước đầu của GERD chưa đáp ứng, không tăng liều hay đổi thuốc trước (VNAGE 2026 KC 17; ACG 2022 điều trị khó chữa KC 1); không tuân thủ gặp ở 20–50% bệnh nhân (VNAGE 2026, mục Verifying treatment compliance)."
+    },
+    {
+     "t": "Đổi giờ uống omeprazol 20 mg sang 30–60 phút trước bữa sáng, vẫn 1 lần/ngày, tiếp tục cho đủ 8 tuần (còn khoảng 4 tuần)",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 8 (30–60 phút trước bữa ăn, không phải lúc đi ngủ); liều chuẩn VNAGE 2024 Bảng 4; NERD đáp ứng sau 4 tuần thấp hơn ERD (37% so với 56%), 4 tuần có thể chưa đủ đánh giá (VNAGE 2026, bàn luận sau KC 14, 15)."
+    },
+    {
+     "t": "Chốt lại lối sống: ăn tối trước 19 giờ hoặc chờ 2–3 giờ rồi mới nằm, kê chân giường cao khoảng 20 cm, bỏ trà đặc buổi tối; bàn cách thực hiện khi đóng cửa tiệm muộn (ăn nhẹ sớm hơn, nghỉ giữa giờ)",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 2, 4, 5; nâng đầu giường 20 cm (VNAGE 2026 KC 11). Mức 20 cm theo VNAGE."
+    },
+    {
+     "t": "Xem gói thuốc nam, ghi lại, khuyên ngưng hẳn trong đợt điều trị và giải thích đây không phải thuốc ngừa đột quỵ đã có bằng chứng; đưa gói theo khi đi nội soi",
+     "v": "c",
+     "n": "Thuốc thảo dược không khuyến cáo cho mất ngủ (ESRS 2023, tóm tắt). Bằng chứng thuốc nam ngừa đột quỵ, thành phần và tương tác với PPI: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ giấy nội soi: đi vào tuần thứ 9, sau ngưng omeprazol 2 tuần, báo nơi nội soi đã dùng PPI; nếu hết 8 tuần còn triệu chứng thì nội soi, không tăng thuốc tiếp",
+     "v": "c",
+     "n": "VNAGE 2026 KC 3 (nội soi khi triệu chứng dai dẳng không đáp ứng PPI); ACG 2022 chẩn đoán KC 3 (ngưng PPI 2–4 tuần). Thời hạn hẹn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đánh giá tại tuần 8: hết triệu chứng thì thử ngưng hoặc dùng PPI khi cần; không kéo dài PPI theo lịch nếu không có chỉ định",
+     "v": "c",
+     "n": "ACG 2022 chẩn đoán KC 2, điều trị KC 9, 16; VNAGE 2026 KC 14 (PPI theo nhu cầu). AGS Beers 2023 Bảng 2: tránh PPI theo lịch > 8 tuần trừ khi nguy cơ cao hoặc viêm thực quản trợt/Barrett đã chứng minh."
+    },
+    {
+     "t": "Giải thích tiếp cho bà và cháu Hằng: bệnh là trào ngược, không phải mạch máu não; nhắc lại dấu hiệu FAST và đau ngực gọi 115; vẫn đề nghị lại xét nghiệm máu khi bà sẵn sàng, ghi nhận từ chối lần 2",
+     "v": "c",
+     "n": "FAST (TL-0444, Phụ lục 4); ESC 2023 mục 3.1.1 (đau ngực > 15 phút hoặc tái lại trong 1 giờ). Quy trình ghi nhận từ chối: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Mất ngủ: tiếp tục chữa nguyên nhân; nếu còn kéo dài từ 3 tháng thì CBT-I; chưa kê thuốc ngủ",
+     "v": "c",
+     "n": "CBT-I là đầu tay cho mất ngủ mạn ở người mọi tuổi (ESRS 2023, tóm tắt, Bảng 2). Benzodiazepin, nhóm Z: tránh ở ≥ 65 tuổi (AGS Beers 2023 Bảng 2); ESRS 2023 cho dùng ≤ 4 tuần (xem mục sổ mâu thuẫn từ TT-0161)."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần (tuần 8), có thể nhờ trạm y tế xã khám giúp và nhắn qua điện thoại",
+     "v": "c",
+     "n": "Mốc tái khám của ca (nhà xa), không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng omeprazol lên 2 lần/ngày",
+     "v": "a",
+     "n": "VNAGE 2026 KC 16, 17 và bàn luận: PPI 2 lần/ngày hiệu quả hơn ở triệu chứng đêm; ACG 2022 ngoài thực quản KC 3 gợi ý 2 lần/ngày 8–12 tuần. Nhưng cần xác nhận tuân thủ trước, bà dùng sai giờ nên chưa thể coi là thất bại (VNAGE 2026 KC 17). Beers: PPI liều thấp nhất."
+    },
+    {
+     "t": "Đổi sang P-CAB (vonoprazan, tegoprazan) hoặc thêm alginat",
+     "v": "a",
+     "n": "VNAGE 2026 KC 14 (alginat), KC 18 (P-CAB có thể xem xét). Chưa cần vì chưa tối ưu PPI. Liều P-CAB, alginat: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thêm thuốc ngủ ngắn hạn (benzodiazepin hoặc nhóm Z) vài ngày để bà ngủ",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2: tránh ở người ≥ 65 tuổi (té ngã, lú lẫn). ESRS 2023 cho ≤ 4 tuần ở nhóm chung; mục đã có trong sổ mâu thuẫn (TT-0161): kê hằng đêm cho người cao tuổi chấm w."
+    },
+    {
+     "t": "Tăng omeprazol lên 2 lần/ngày kèm metoclopramid và sucralfat",
+     "v": "w",
+     "n": "ACG 2022 điều trị KC 11 (không thêm thuốc thường quy cho người không đáp ứng PPI), KC 14, 15 (prokinetic, sucralfat); metoclopramid tránh ở người cao tuổi (Beers 2023 Bảng 2)."
+    },
+    {
+     "t": "Cho tiếp thuốc nam hoặc kê thêm thuốc 'bổ não ngừa đột quỵ' theo ý bà",
+     "v": "w",
+     "n": "Thuốc thảo dược không được khuyến cáo (ESRS 2023, tóm tắt); thành phần không rõ, không có bằng chứng trong tài liệu đã tải."
+    },
+    {
+     "t": "Kết luận đã 'khỏi trào ngược', ngưng PPI và không cần nội soi",
+     "v": "w",
+     "n": "Mới 4 tuần, còn triệu chứng; PPI cần đủ 8 tuần và nội soi theo hẹn vì có yếu tố nguy cơ Barrett (VNAGE 2026 KC 3, 15)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "GERD đáp ứng một phần sau 4 tuần PPI, do uống PPI sai giờ (lúc đi ngủ), ăn tối muộn nằm ngay và còn thuốc nam; chưa phải kháng PPI",
+     "Chưa có dấu báo động; vẫn cần nội soi không khẩn do nguy cơ Barrett (tuổi > 50, trào ngược ban đêm)",
+     "Bệnh mạch vành ít khả năng nhưng chưa loại trừ hẳn do từ chối troponin lần 2",
+     "Mất ngủ cải thiện cùng trào ngược; ở xa, từ chối xét nghiệm"
+    ],
+    "phan_tich_chan_doan": [
+     "Đỡ một phần ở tuần 4 là vùng khó: không phải khỏi, cũng chưa phải thất bại. Phân biệt bằng cách hỏi cách dùng thuốc và thói quen trước khi nghĩ tới kháng PPI (VNAGE 2026 KC 17; ACG 2022 điều trị khó chữa KC 1). Triệu chứng đêm tái phát đúng những đêm ăn muộn nằm ngay, và đỡ hẳn tuần ăn sớm.",
+     "Đáp ứng PPI ở NERD thấp hơn ERD (4 tuần: 37% so với 56%), nên 4 tuần chưa đủ đánh giá (VNAGE 2026, phần bàn luận về NERD sau KC 14, 15). Đáp ứng với PPI không đủ để khẳng định GERD hay loại trừ tim (VNAGE 2026 KC 2; ACG 2022 mô tả chẩn đoán).",
+     "Thuốc nam không rõ loại là yếu tố gây nhiễu cho việc đánh giá đáp ứng; không có tài liệu đã tải nói thành phần nên không loại trừ được tác động lên triệu chứng.",
+     "Tim: cơn không đổi tính chất, thưa dần, đỡ khi ngồi dậy, không đau khi gắng sức, ECG lượt 1 bình thường; vẫn chưa có troponin (ESC 2023 mục 3.3.1), nên lưới an toàn giữ nguyên."
+    ],
+    "phan_tich_xu_tri": [
+     "Không tăng liều, không đổi thuốc: chỉnh giờ uống 30–60 phút trước ăn sáng và lối sống trước (VNAGE 2026 KC 17; ACG 2022 điều trị KC 8). Tăng 2 lần/ngày, P-CAB, alginat chấm chấp nhận nhưng là bước sau khi đã tối ưu.",
+     "Nội soi theo hẹn sau ngưng PPI 2 tuần (ACG 2022 chẩn đoán KC 3). Nếu hết 8 tuần vẫn còn triệu chứng thì nội soi/đo pH và không thêm thuốc thường quy (ACG 2022 điều trị KC 11; điều trị khó chữa KC 2).",
+     "Kế hoạch tuần 8: hết triệu chứng thì ngưng hoặc dùng khi cần (ACG 2022 điều trị KC 9, 16; VNAGE 2026 KC 14); Beers không cho dùng theo lịch > 8 tuần nếu không có chỉ định rõ.",
+     "Thuốc ngủ không giải quyết nguyên nhân mất ngủ và có hại ở người cao tuổi (Beers 2023); chữa trào ngược đêm là chữa mất ngủ.",
+     "Ở xa: dặn bằng văn bản, nhờ trạm y tế xã, nhắn qua điện thoại; mốc 4 tuần là của ca, không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng (đổi từ lúc đi ngủ)",
+      "so_ngay": "Tiếp 4 tuần nữa cho đủ 8 tuần, rồi đánh giá",
+      "ghi_chu": "ACG 2022 điều trị KC 8; VNAGE 2026 KC 15, 17; liều VNAGE 2024 Bảng 4. Sau 8 tuần: ngưng hoặc dùng khi cần (ACG 2022 điều trị KC 9, 16); Beers 2023 Bảng 2."
+     },
+     {
+      "thuoc": "Thuốc nam bột (không rõ loại)",
+      "ham_luong": "Không rõ",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng",
+      "so_ngay": "Ngưng trong đợt điều trị",
+      "ghi_chu": "ESRS 2023 (tóm tắt): thảo dược không khuyến cáo cho mất ngủ. Thành phần, tương tác: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống omeprazol buổi sáng, 30–60 phút trước ăn sáng, không uống lúc đi ngủ; cháu Hằng nhắc giúp bà.",
+     "Ăn tối trước 19 giờ hoặc chờ 2–3 giờ rồi mới nằm, kê cao chân giường (ACG 2022 điều trị KC 2, 5), bỏ trà đặc buổi tối; tối đóng cửa muộn thì ăn nhẹ sớm hơn.",
+     "Ngưng thuốc nam; đưa gói theo khi đi khám.",
+     "Đi nội soi vào tuần thứ 9, sau ngưng omeprazol 2 tuần (ACG 2022 chẩn đoán KC 3), cầm giấy giới thiệu và báo là đã dùng thuốc dạ dày.",
+     "Gọi 115 hoặc đến trạm y tế ngay nếu đau ngực kéo dài trên 15 phút hoặc tái lại trong 1 giờ, vã mồ hôi, khó thở (ESC 2023 mục 3.1.1); méo miệng, yếu tay chân, nói khó; nuốt nghẹn, nôn máu, phân đen, sụt cân.",
+     "Tái khám sau 4 tuần (mốc của ca, không có trong tài liệu đã tải) hoặc sớm hơn nếu nặng lên; có thể nhờ trạm y tế xã đo huyết áp và nhắn điện thoại."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Tám đổi sang uống omeprazol trước ăn sáng, ăn tối sớm hơn và kê cao chân giường nhờ cháu Hằng phụ. Tuần thứ 6 hết tức ngực ban đêm và ngủ được 6 giờ, nhưng còn hắng giọng và miệng đắng đến tuần thứ 10. Sau khi hết 8 tuần và ngưng thuốc 2 tuần, cháu Hằng chở bà lên bệnh viện tỉnh nội soi: niêm mạc thực quản bình thường, không loét, không Barrett, không thấy tổn thương nghi ác tính; bác sĩ tuyến tỉnh cho tiếp tục lối sống và dùng PPI khi cần. Bà nhẹ nhõm, kể lại với bà Ba và vẫn tạm ngưng thuốc nam. Bà vẫn từ chối rút máu. Bà khỏi chậm hơn dự kiến vì khởi đầu dùng thuốc sai giờ, còn ăn muộn và trào ngược không có viêm trợt nên đáp ứng PPI chậm (VNAGE 2026 KC 4, 15).",
+ "nhieu": [
+  "Từ chối xét nghiệm máu ('rút máu mất sức'): hỏi lý do, giải thích, rồi tôn trọng và ghi nhận vào hồ sơ; phương án B là lâm sàng, ECG, theo dõi và lưới an toàn. Bà đồng ý điện tim nên vẫn loại trừ được phần lớn nguy cơ.",
+  "Ở xa, khó tái khám: dặn bằng văn bản, ghi số điện thoại, nhờ trạm y tế xã, giấy giới thiệu nội soi cho cháu cầm; mốc tái khám 4 tuần.",
+  "Thuốc nam không rõ loại: bà không kể nếu chỉ hỏi chung 'thuốc đang dùng'; hỏi cụ thể 'thuốc nam, thuốc bổ, thuốc ngừa tai biến'. Lượt 2 bà vẫn uống.",
+  "Giờ uống PPI sai (lúc đi ngủ): bà nói 'uống đều' nhưng sai giờ; cần hỏi uống lúc nào."
+ ],
+ "bai_hoc_bien": [
+  "Mất ngủ kéo dài là hậu quả của trào ngược đêm chứ không phải bệnh riêng: hỏi tức ngực khi nằm, ăn tối muộn trước khi kê thuốc ngủ.",
+  "Người rất cao tuổi không nói 'ợ nóng': hỏi 'chua hoặc đắng trào lên cổ', 'tức nặng sau xương ức khi nằm' (Lyon 2.0 Bảng 2).",
+  "Lý do thật là sợ đột quỵ: hỏi 'bà lo nhất điều gì', rồi trả lời bằng khám thần kinh bình thường và dạy FAST.",
+  "Từ chối troponin: ghi nhận, chọn phương án B, nói 'ít khả năng' chứ không nói 'đã loại trừ', và dặn kỹ dấu hiệu gọi 115.",
+  "Đỡ một phần ở tuần 4: kiểm tra giờ uống, lối sống, thuốc khác trước khi tăng liều hay đổi thuốc (VNAGE 2026 KC 17).",
+  "Người ≥ 65 tuổi: tránh thuốc ngủ benzodiazepin/nhóm Z, tránh PPI theo lịch > 8 tuần nếu không có chỉ định (Beers 2023 Bảng 2)."
+ ],
+ "diem_nho": [
+  "Đau ngực thực quản và trào ngược là triệu chứng điển hình của GERD; hắng giọng, vướng cổ đơn độc ít liên quan (Lyon 2.0 Bảng 2).",
+  "Thử PPI không đủ để khẳng định GERD; LA độ A không đủ, cần B trở lên, Barrett hay AET > 6% (VNAGE 2026 KC 2, 6).",
+  "PPI liều chuẩn 20 mg, 30–60 phút trước ăn sáng, 4–8 tuần (VNAGE 2026 KC 15; ACG 2022 điều trị KC 8).",
+  "Nội soi khi có dấu báo động, không đáp ứng PPI hoặc có yếu tố nguy cơ Barrett, sau ngưng PPI 2–4 tuần (VNAGE 2026 KC 3; ACG 2022 chẩn đoán KC 3, 6).",
+  "Không thêm thuốc thường quy cho người không đáp ứng PPI, không dùng sucralfat/prokinetic (ACG 2022 điều trị KC 11, 14, 15).",
+  "Đau ngực: ECG trong 10 phút, hs-troponin; đau > 15 phút hoặc tái lại trong 1 giờ là cảnh báo (ESC 2023 mục 3.1.1, 3.2, 3.3.1).",
+  "Các hướng dẫn GERD đã tải không có khuyến cáo riêng cho ≥ 75 tuổi."
+ ],
+ "nguon": [
+  "VNAGE 2026 – hướng dẫn GERD – TL-0177 – KC 1–6, 11, 14–18 và bàn luận",
+  "Lyon Consensus 2.0 2024 – TL-0206 – Bảng 2 (Statements)",
+  "ACG 2022 GERD – TL-0212 – chẩn đoán KC 1–6; điều trị KC 1–5, 8, 9, 11, 14–16; ngoài thực quản KC 1–4; điều trị khó chữa KC 1–3; an toàn PPI dài hạn KC 5",
+  "VNAGE 2024 khó tiêu chức năng – TL-0178 – Bảng 4 (liều PPI chuẩn)",
+  "ESC 2023 hội chứng vành cấp – TL-0069 – mục 2.1, 3.1.1, 3.2, 3.3.1",
+  "AGS Beers 2023 – TL-0022 – Bảng 2 (PPI, aspirin, benzodiazepin/nhóm Z, kháng histamin, metoclopramid)",
+  "ESRS 2023 – hướng dẫn mất ngủ châu Âu – TL-0464 – tóm tắt, Bảng 2",
+  "BYT 2018 – Hướng dẫn PHCN người bệnh đột quỵ – TL-0444 – giới thiệu, Phụ lục 4 (FAST)",
+  "VSH/VNHA 2024 – tăng huyết áp – TL-0288 – ngưỡng 140/90",
+  "BYT QĐ 361/2014 – TL-0286 – Phụ lục NSAID mục 3.3 (thời điểm uống PPI)",
+  "Không có trong tài liệu đã tải: liều alginat và P-CAB; thành phần và tác dụng của thuốc nam; thời hạn hẹn nội soi; mốc tái khám 4 tuần; quy trình ghi nhận từ chối; khuyến cáo GERD riêng cho ≥ 75 tuổi."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-18 (Sonnet): ca 2 lượt, GERD không điển hình ở bà 79 tuổi bán tạp hóa; khởi phát mất ngủ; thuốc nam không rõ loại; lý do thật sợ đột quỵ; nhiễu ở xa; từ chối xét nghiệm máu (khoa_cls null, từng CLS ghi lời từ chối); đỡ một phần; khỏi chậm.",
+  "Tài liệu đã đọc: TL-0177 (KC 1–18), TL-0206 (Bảng 2), TL-0212 (KC chẩn đoán, điều trị, ngoài thực quản, khó chữa, an toàn PPI), TL-0178 (Bảng 4), TL-0069 (mục 2.1, 3.1.1, 3.2), TL-0022 (Bảng 2), TL-0464, TL-0444, TL-0288, TL-0286.",
+  "Chỗ thiếu tài liệu: xem mục cuối trong nguon.",
+  "Mâu thuẫn: dùng mục sổ đã có 'Thời điểm uống PPI' (TH-0295), 'Đau ngực nghi do thực quản' (TH-0364), 'Nội soi khi GERD ≥ 40/50 tuổi' (TH-0364), 'Thuốc ngủ benzodiazepin và nhóm Z' (TT-0161). Xem TH-0379_mau_thuan.md."
+ ]
+}
