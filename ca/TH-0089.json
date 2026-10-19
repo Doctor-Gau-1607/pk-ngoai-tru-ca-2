@@ -1,0 +1,923 @@
+{
+ "ma_ca": "TH-0089",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "Khó tiêu chức năng",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Khó tiêu chức năng",
+  "chan_doan_phai_loai_tru": [
+   "Loét dạ dày-tá tràng",
+   "Ung thư dạ dày"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Biến chứng do bỏ sót",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Xe ôm",
+  "yeu_to_khoi_phat": "Sau dùng NSAID",
+  "thuoc_dang_dung": "Thuốc bắc không rõ thành phần",
+  "ly_do_that_su_den_kham": "Sợ mắc lao"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Văn Tín",
+  "tuoi": 28,
+  "gioi": "Nam",
+  "nghe": "Xe ôm (bến và xe ôm công nghệ)",
+  "can_nang": 58,
+  "chieu_cao": 168,
+  "xung_ho": "Anh xưng 'em', gọi bác sĩ là 'bác sĩ'; bác sĩ gọi anh là 'anh'.",
+  "tinh_cach": "Nói nhanh, hay ngắt lời, đọc nhiều bài bệnh trên mạng nên hay nghĩ tới bệnh nặng nhất. Chạy xe 10–12 giờ/ngày, ăn vội lề đường. Sợ nhất là lây bệnh cho mẹ và cháu nhỏ ở cùng nhà. Sợ bị bác sĩ mắng nên hay giấu chuyện uống thuốc không đúng lời dặn.",
+  "kieu_nhieu": "Sợ hãi quá mức: nghĩ ngay tới bệnh nặng nhất (ung thư, lao), đòi chụp phổi, nội soi, 'làm hết xét nghiệm', hỏi đi hỏi lại 'có chắc không bác sĩ'; trấn an xong vài phút lại quay về nỗi sợ. Chỉ nói điều sợ thật (lao) khi được hỏi nhẹ nhàng về điều lo nhất.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c4906a",
+   "toc": "#1f1b18",
+   "kieuToc": "ngan",
+   "ao": "#3f6f4a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đầy bụng, rát thượng vị, ăn mau no; rất lo mình mắc bệnh nặng",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Đoàn Văn Tín, 28 tuổi, chạy xe ôm. Đến vì đầy bụng, rát vùng trên rốn, ăn mau no khoảng 8 tháng, hai tháng nay nhiều hơn; rất lo mình bị bệnh nặng. Sinh hiệu: HA 118/72 mmHg, mạch 74 l/p, nhiệt độ 36,7 °C, SpO₂ 99%. Cân nặng 58 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện để làm hết xét nghiệm cho anh Tín là quá tay: 28 tuổi, không nôn máu, phân đen, sụt cân, nuốt nghẹn hay thiếu máu, huyết động ổn, điều trị ngoại trú được (VNAGE 2024, KC 2; Rome V 2026, Clinical Evaluation). Anh nghỉ chạy xe mất thu nhập, kết quả bình thường chỉ làm anh nghĩ còn bệnh chưa tìm ra, trong khi nỗi sợ thật và thuốc đang uống chưa ai hỏi tới.",
+    "chuyen_tuyen": "Chuyển anh Tín lên tuyến trên nội soi ngay hoặc sang khoa lao là quá tay: dưới 40 tuổi, không dấu báo động thì nội soi chưa phải bước đầu (VNAGE 2024, KC 1, 2; ACG-CAG 2017, Statement 2), và anh không có triệu chứng nghi lao (QĐ 162/2024, Phần II mục 1.1 Bảng 1). Anh bị gắn nhãn nghi lao, tốn công đi lại, sợ hơn, trong khi chưa ngưng thuốc giảm đau, chưa thử H. pylori và điều trị."
+   },
+   "loi_mo": "Chào bác sĩ. Em chạy xe ôm, dạo này đầy bụng, rát trên rốn, ăn chút xíu là no. Em đọc trên mạng thấy hay là bệnh nặng lắm, bác sĩ khám kỹ giúp em, làm hết các xét nghiệm cho em yên tâm với!",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "118/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đầy bụng, rát vùng trên rốn, ăn mau no khoảng 8 tháng, hai tháng gần đây nhiều hơn. Rất lo mình bị bệnh nặng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Rát và đầy vùng trên rốn 3–4 ngày/tuần, hay nửa đến một tiếng sau ăn hoặc khi chạy xe lúc đói. Ăn nửa tô phở là no, nặng bụng sau ăn 4–5 ngày/tuần, hay ợ hơi. Không ợ nóng lên ngực rõ, không thức giấc vì đau, không liên quan đi cầu, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm triệu chứng theo tiêu chuẩn Rome"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Chạy xe 10–12 giờ/ngày nên đau lưng. Khoảng 8 tháng trước bắt đầu mua ibuprofen 400 mg ở hiệu thuốc, lúc đầu thỉnh thoảng; 1–2 tuần sau thì đầy bụng, no sớm. Ba tháng nay uống đều 1–2 viên/ngày, lúc chưa ăn gì. Không dùng aspirin hay thuốc giảm đau khác.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì anh nói 'không có thuốc gì'. Chỉ kể ibuprofen khi bác sĩ hỏi cụ thể thuốc giảm đau, chống viêm, thuốc mua ở hiệu, hoặc cách đối phó với đau lưng.",
+     "y": "Dùng NSAID tự mua (khởi phát sau NSAID)"
+    },
+    {
+     "id": "thuoc_bac",
+     "noi_dung": "Hai tuần nay uống thuốc bắc của một thầy lang ở quê: 30 thang, mỗi tối nấu một thang, rất đắng, đã uống 14 thang. Thầy không nói thành phần, anh không biết trong đó có gì. Không dùng thực phẩm chức năng khác.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng về thuốc bắc, thuốc nam, đông y, thực phẩm chức năng, hoặc 'có uống gì ngoài thuốc Tây không'.",
+     "y": "Thuốc bắc không rõ thành phần"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Anh Sáu, bạn thân cùng bến, mất hai tháng trước vì lao phổi nặng. Ban đầu anh Sáu chỉ kêu 'đau bao tử', chán ăn, rồi sụt cân, ho ra máu, đi khám muộn. Anh Tín nghĩ mình cũng 'đau bao tử' như vậy nên chắc mắc lao; uống thuốc bắc vì thầy bảo 'bổ phổi, ngừa lao'. Sợ nhất là lây cho mẹ và cháu nhỏ ở cùng nhà.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh lo nhất điều gì, vì sao nghĩ là bệnh nặng, hoặc vì sao uống thuốc bắc. Anh hay nói 'ung thư' trước khi chịu nói chữ 'lao'.",
+     "y": "Lý do thật: sợ mắc lao"
+    },
+    {
+     "id": "sang_loc_lao",
+     "noi_dung": "Không ho, sốt, ra mồ hôi đêm, ho ra máu, khó thở hay đau ngực. Cân nặng 58 kg, ổn mấy tháng nay. Ngồi uống nước, hút thuốc chung với anh Sáu ngoài bến; không ở cùng nhà hay ngủ cùng phòng với anh Sáu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng lao"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không nôn máu, phân vàng không đen, không nuốt nghẹn hay nuốt đau, không nôn nhiều, không sụt cân, không da xanh, không sờ thấy khối. Gia đình không ai ung thư dạ dày hay thực quản.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "thuoc_khac_hp",
+     "noi_dung": "Bốn tuần qua không dùng kháng sinh, bismuth hay thuốc dạ dày (omeprazol...). Chưa từng nội soi hay thử H. pylori.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa dùng PPI/kháng sinh: làm test H. pylori ngay được"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Bỏ bữa sáng, ăn vội ở lề đường, tối hay ăn mì gói. Cà phê 3 ly/ngày, hút nửa gói thuốc lá/ngày, bia 2–3 lon 1–2 lần/tuần. Ngủ 5–6 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lối sống, ăn uống"
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ thượng vị, không phản ứng thành bụng, không khối, gan lách không to, Murphy âm tính.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, lo lắng, niêm mạc mắt hồng, không vàng da, không hạch cổ hay thượng đòn.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Co cứng cơ cạnh cột sống thắt lưng hai bên, ấn đau nhẹ, Lasègue âm tính, sức cơ chân bình thường, không tê.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran. Nhịp thở 16.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, nhịp thở 16, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "hp_ubt": {
+     "v": "e",
+     "r": "Test thở urê 13C: âm tính (làm trước PPI; anh không dùng PPI, kháng sinh, bismuth trong 4 tuần).",
+     "n": "Mọi người khó tiêu cần xác định H. pylori (VNAGE 2024 KC 3; Rome V, Clinical Evaluation); không có chỉ định nội soi thì UBT là test đầu (VNAGE 2023 Statement 5). Phải làm trước PPI: PPI ≥ 2 tuần, kháng sinh/bismuth ≥ 4 tuần (Statement 6)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 24 · ALT 28 U/L (ULN 40 U/L)",
+     "n": "Nằm trong xét nghiệm cơ bản khi khó tiêu (VNAGE 2024 KC 4), và là mốc nền vì anh uống thuốc bắc không rõ thành phần (ACG 2017 men gan bất thường, khuyến cáo 11)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 6,8 G/L · Hb 148 g/L · TC 262 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 58.0,
+      "neu": 3.94,
+      "lym_pct": 32.0,
+      "lym": 2.18,
+      "mono_pct": 7.0,
+      "mono": 0.48,
+      "eos_pct": 2.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 5.0,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 88.0,
+      "mch": 29.6,
+      "mchc": 336,
+      "rdw": 12.9,
+      "plt": 262
+     },
+     "n": "VNAGE 2024 KC 4 khuyên làm; Rome V không thường quy ở người trẻ không báo động. Không thiếu máu."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 4,6 mmol/L · creatinin 82 µmol/L · eGFR 118",
+     "bang": {
+      "ure": 4.6,
+      "creat": 82,
+      "egfr": 118
+     },
+     "n": "VNAGE 2024 KC 4."
+    },
+    "glu": {
+     "v": "a",
+     "r": "Glucose đói 4,9 mmol/L",
+     "bang": {
+      "glu": 4.9
+     },
+     "n": "VNAGE 2024 KC 4."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Không thấy trứng giun, không có Giardia.",
+     "n": "Việt Nam nhiễm ký sinh trùng đường ruột cao, Giardia gây khó tiêu (VNAGE 2024 KC 4)."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Gan, mật, tụy, thận bình thường; túi mật không sỏi.",
+     "n": "VNAGE 2024 KC 4 khuyên làm; Rome V không ủng hộ hình ảnh thường quy."
+    },
+    "cxr": {
+     "n": "Không có chỉ định: không triệu chứng nghi lao, không phải người tiếp xúc theo định nghĩa (QĐ 162/2024, Phần I mục 1.5; Phần II mục 1.1 Bảng 1). Làm để chiều lòng người sợ hãi chỉ củng cố nỗi sợ."
+    },
+    "noi_soi": {
+     "n": "Chưa phải bước đầu: dưới 40 tuổi, không báo động (VNAGE 2024 KC 1, 2); còn dùng NSAID, chưa thử H. pylori và điều trị. Hẹn mốc nội soi ở phần xử trí."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khó tiêu chưa thăm dò ở thanh niên, khởi phát sau dùng NSAID (ibuprofen), nghi khó tiêu chức năng; chưa dấu báo động; H. pylori âm tính; chưa kết luận cuối cho đến khi ngưng NSAID và có đáp ứng điều trị",
+     "ok": 1,
+     "n": "Đầy sau ăn, no sớm, rát thượng vị > 6 tháng (Rome V B1, B1a, B1b); NSAID thuộc thuốc gây khó tiêu (VNAGE 2024 Bảng 3) nên phải ngưng trước khi kết luận chức năng (Rome V, Clinical Evaluation)."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng",
+     "n": "Chưa loại hẳn nếu không nội soi; 28 tuổi, không báo động, H. pylori âm: ngưng NSAID, thử PPI, hẹn mốc nội soi (VNAGE 2024 KC 1, 2, 11; ACG-CAG 2017 Statement 2–4)."
+    },
+    {
+     "t": "Ung thư dạ dày",
+     "n": "Xác suất thấp: không sụt cân, thiếu máu, nuốt nghẹn, nôn dai dẳng, khối, tiền sử gia đình (VNAGE 2024 KC 2). Nội soi từ 40 tuổi, khi báo động hoặc không đáp ứng (KC 1, 2, 11)."
+    },
+    {
+     "t": "Viêm dạ dày do H. pylori",
+     "n": "UBT âm tính, làm đúng điều kiện (VNAGE 2023 Statement 5, 6)."
+    },
+    {
+     "t": "Lao phổi hoặc lao ổ bụng",
+     "n": "Không ho, sốt, mồ hôi đêm, sụt cân; phổi sạch; không phải người tiếp xúc (QĐ 162/2024, Phần I mục 1.5; Phần II mục 1.1 Bảng 1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng ibuprofen và mọi thuốc giảm đau chống viêm tự mua; ngưng thuốc bắc không rõ thành phần, mang số thuốc còn lại theo khi tái khám",
+     "v": "c",
+     "n": "Ngưng thuốc và chất bổ sung có thể gây khó tiêu trước khi thăm dò tiếp (Rome V, Clinical Evaluation; VNAGE 2024 Bảng 3). Rome V và Đồng thuận châu Á 2026 (Statement 31) chấp nhận thảo dược đã có bằng chứng hiệu quả, an toàn; thuốc bắc không biết thành phần không thuộc nhóm đó. Tác hại của thuốc bắc này: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi lý do uống thuốc bắc và điều anh lo; trấn an bằng chính dữ kiện của anh (không triệu chứng lao, phổi sạch, cân nặng ổn), nói thuốc bắc không phải thuốc ngừa lao; không chỉ định X-quang phổi hay xét nghiệm lao",
+     "v": "c",
+     "n": "Lắng nghe, trấn an từ lần khám đầu (VNAGE 2024, phần Treatment; Đồng thuận châu Á 2026 Statement 20). Không triệu chứng nghi lao: QĐ 162/2024, Phần II mục 1.1 Bảng 1; không phải người tiếp xúc: Phần I mục 1.5."
+    },
+    {
+     "t": "Test H. pylori không xâm lấn (UBT hoặc kháng nguyên phân) ngay hôm nay, trước khi bắt đầu PPI",
+     "v": "c",
+     "n": "VNAGE 2024 KC 3; VNAGE 2023 Statement 5, 6; Maastricht VI WG1 Statement 3 (test-and-treat); ACG-CAG 2017 Statement 3. Dương tính thì diệt (VNAGE 2024 KC 6)."
+    },
+    {
+     "t": "Điều trị thử 4 tuần bằng PPI liều chuẩn 1 lần/ngày (omeprazol 20 mg) hoặc thuốc vận động (itopride 50 mg × 3 lần/ngày); chọn một, không dùng cùng lúc",
+     "v": "c",
+     "n": "PPI liều chuẩn 1 lần/ngày (VNAGE 2024 KC 7, Bảng 4), 4–8 tuần không tăng liều (Rome V, Treatment); thuốc vận động khi đầy sau ăn, no sớm (VNAGE 2024 KC 9, 10, Bảng 5). Đánh giá sau 8 tuần (KC 8, 11); Đồng thuận châu Á 2026 Statement 23 ghi 12 tuần."
+    },
+    {
+     "t": "Không nội soi ngay: giải thích lý do, hẹn mốc nội soi (có dấu báo động, không đáp ứng sau 8 tuần, tái phát sau ngưng thuốc, từ 40 tuổi)",
+     "v": "c",
+     "n": "VNAGE 2024 KC 1, 2, 11; ACG-CAG 2017 Statement 2 (không nội soi dưới 60 tuổi); Rome V cho xử trí không nội soi khi không báo động; Đồng thuận châu Á 2026 Statement 3 nêu cân nhắc nội soi ở nơi nguy cơ cao. Không nguồn nào đặt ngưỡng dưới 40 tuổi."
+    },
+    {
+     "t": "Đau lưng thay NSAID bằng paracetamol, chườm ấm, đai lưng, nghỉ giữa các cuốc xe",
+     "v": "c",
+     "n": "QĐ 361/2014, Hội chứng đau thắt lưng, mục 4.2.1 (paracetamol 0,5 g × 4–6 viên/24 giờ, tối đa 4.000 mg/ngày), mục 4.1, 5."
+    },
+    {
+     "t": "Tư vấn ăn uống – lối sống: ăn nhiều bữa nhỏ, ăn sáng, giảm đồ mỡ chiên, giảm cà phê và bia, bỏ thuốc lá, ngủ đủ",
+     "v": "c",
+     "n": "Rome V, Treatment; VNAGE 2024 KC 13; Đồng thuận châu Á 2026 Statement 21. Ngưỡng cà phê, bia, thuốc lá: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay (nôn máu, phân đen, nôn nhiều, nuốt nghẹn, sụt cân, xanh xao) và hẹn tái khám sau 4 tuần",
+     "v": "c",
+     "n": "Dấu báo động: VNAGE 2024 KC 2; VNAGE 2023 Bảng 2. Mốc 4 tuần là lựa chọn của ca (Rome V ghi PPI 4–8 tuần), không có mốc hẹn trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm thêm xét nghiệm cơ bản (công thức máu, men gan, creatinin, đường huyết, soi phân, siêu âm bụng)",
+     "v": "a",
+     "n": "VNAGE 2024 KC 4; Rome V không thường quy."
+    },
+    {
+     "t": "Nội soi theo hẹn vì anh muốn, sau khi đã giải thích",
+     "v": "a",
+     "n": "Đồng thuận châu Á 2026 Statement 3 cho phép cân nhắc; không nội soi cũng không trừ điểm."
+    },
+    {
+     "t": "Chụp X-quang phổi, Xpert hoặc IGRA 'cho anh yên tâm'",
+     "v": "w",
+     "n": "Không chỉ định (QĐ 162/2024, Phần II mục 1.1 Bảng 1; Phần I mục 1.5); chiều lòng nỗi sợ làm củng cố lo âu."
+    },
+    {
+     "t": "Cho phác đồ diệt H. pylori hoặc kháng sinh 'cho chắc' dù UBT âm tính",
+     "v": "w",
+     "n": "Diệt khi đã xác định nhiễm (VNAGE 2024 KC 6; ACG-CAG 2017 Statement 3)."
+    },
+    {
+     "t": "Cho tiếp ibuprofen, đổi NSAID khác 'ít hại dạ dày', hoặc uống tiếp thuốc bắc 'bổ'",
+     "v": "w",
+     "n": "NSAID gây khó tiêu (VNAGE 2024 Bảng 3); thuốc bắc không rõ thành phần: không có thông tin an toàn trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Khó tiêu chưa thăm dò ở thanh niên 28 tuổi, chồng lấp đầy sau ăn – no sớm và rát thượng vị, 8 tháng; khởi phát sau dùng ibuprofen tự mua vì đau lưng",
+     "Chưa có dấu báo động; H. pylori âm tính (UBT làm trước PPI); chưa kết luận khó tiêu chức năng khi còn NSAID",
+     "Chưa loại hẳn loét và ung thư dạ dày: hẹn nội soi theo mốc",
+     "Đang uống thuốc bắc không rõ thành phần; lý do thật đến khám là sợ mắc lao (không triệu chứng nghi lao)"
+    ],
+    "phan_tich_chan_doan": [
+     "Triệu chứng: đầy sau ăn 4–5 ngày/tuần, no sớm (PDS ≥ 2 ngày/tuần), rát thượng vị 3–4 ngày/tuần (EPS ≥ 1 ngày/tuần), khởi phát 8 tháng (Rome V B1, B1a, B1b). Rome V yêu cầu không có bệnh thực tổn giải thích được; NSAID là thuốc gây khó tiêu (VNAGE 2024 Bảng 3) nên chưa chẩn đoán chức năng khi còn dùng.",
+     "Báo động âm (VNAGE 2024 KC 2). Ngưỡng nội soi theo tuổi: VNAGE 2024 KC 1 từ 40 (vùng nguy cơ cao) hoặc 50 (thấp); VNAGE 2023 Statement 3 nam ≥ 40; ACG-CAG 2017 từ 60; Maastricht VI WG1 Statement 4 không cần ban đầu ở vùng ít H. pylori; BSG 2022 từ 55 kèm sụt cân; Rome V không bắt buộc khi không báo động. Không nguồn nào dưới 40 tuổi nên hẹn mốc.",
+     "UBT, không nội soi sinh thiết: không có chỉ định nội soi nên test không xâm lấn (VNAGE 2023 Statement 5, 6). Kết quả âm: không diệt H. pylori.",
+     "Lao: không ho, sốt, mồ hôi đêm, sụt cân; phổi sạch; ngồi cùng bạn ngoài bến không đạt định nghĩa tiếp xúc (QĐ 162/2024, Phần I mục 1.5). Máy móc có sẵn không phải chỉ định (Rome V không ủng hộ xét nghiệm thường quy khi không báo động)."
+    ],
+    "phan_tich_xu_tri": [
+     "Bỏ nguyên nhân trước: ngưng ibuprofen (VNAGE 2024 Bảng 3; JSGE 2026 Hình 7) và thuốc bắc. Hỏi ra lý do uống thuốc bắc (sợ lao): nếu chỉ dặn 'ngưng' mà không gỡ nỗi sợ thì anh có thể không ngưng.",
+     "PPI liều chuẩn 1 lần/ngày: Rome V 4–8 tuần; VNAGE 2024 KC 8 là 8 tuần; Đồng thuận châu Á 2026 Statement 23 là 12 tuần. Ba mốc khác nhau vì hội, năm và mức dè dặt về PPI; cả ba hợp lệ. Thuốc vận động là lựa chọn thay thế khi đầy sau ăn, no sớm là chính (VNAGE 2024 KC 9, 10)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước bữa sáng, bắt đầu sau khi làm UBT",
+      "so_ngay": "4 tuần rồi tái khám (Rome V 4–8 tuần; VNAGE 2024 8 tuần; Đồng thuận châu Á 2026 12 tuần)",
+      "ghi_chu": "Liều: VNAGE 2024 KC 7, Bảng 4. Không tăng liều: Rome V, Treatment. Thời điểm: ACG 2022 GERD KC 8."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần khi đau lưng, tối đa 4 viên/24 giờ, chia 3 lần sau ăn",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 361/2014, Hội chứng đau thắt lưng, mục 4.2.1 (0,5 g × 4–6 viên/24 giờ, tối đa 4.000 mg/ngày)."
+     }
+    ],
+    "dan_do": [
+     "Không dùng ibuprofen hay thuốc giảm đau chống viêm khác; đau lưng dùng paracetamol, chườm ấm, đai lưng, nghỉ giữa các cuốc xe (QĐ 361/2014, mục 4.2.1, 5).",
+     "Ngưng thuốc bắc không rõ thành phần, mang số còn lại khi tái khám; thuốc này không phải thuốc ngừa lao, anh không có triệu chứng nghi lao. Ho > 2 tuần, sốt kéo dài, ra mồ hôi đêm, sụt cân thì quay lại (QĐ 162/2024, Phần II mục 1.1 Bảng 1).",
+     "Omeprazol mỗi sáng 30–60 phút trước ăn (ACG 2022 GERD KC 8). Ăn bữa nhỏ, đủ ba bữa, giảm chiên mỡ, cà phê, bia, thuốc lá (Rome V, Treatment).",
+     "Quay lại ngay nếu nôn máu, phân đen, nôn nhiều, nuốt nghẹn, sụt cân, xanh xao, vàng mắt vàng da (VNAGE 2024 KC 2). Tái khám sau 4 tuần."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 5 tuần",
+   "tiep_don": "Anh Tín tái khám sau 5 tuần: vẫn ăn mau no, rát thượng vị như cũ, mấy ngày nay thêm chán ăn, buồn nôn buổi sáng, mệt hơn. Sinh hiệu: HA 116/70 mmHg, mạch 80 l/p, nhiệt độ 37,0 °C, SpO₂ 99%. Cân nặng 57,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện ngay cho anh Tín là quá tay: men gan tăng mức vừa (ALT khoảng 6 lần giới hạn trên), nhưng INR 1,0, albumin bình thường, tỉnh táo, không chảy máu, viêm gan virus âm tính, chưa có dấu suy gan cấp (ACG 2017, Hình 2 và khuyến cáo 19: chuyển ngay chỉ khi PT kéo dài hoặc bệnh não gan). Anh nghỉ chạy xe mất thu nhập, và nằm viện làm anh tin mình mắc bệnh rất nặng, đúng điều anh sợ.",
+    "chuyen_tuyen": "Chuyển anh Tín lên chuyên khoa gan hoặc tuyến trên ngay là chưa cần: phòng khám làm đủ xét nghiệm viêm gan virus, INR, siêu âm ngay trong ngày và không có dấu suy gan cấp (ACG 2017, khuyến cáo 17, 19). Anh đi xa, chờ lâu, xét nghiệm lặp lại, trong khi việc quan trọng nhất là ngưng thuốc bắc và theo dõi men gan sát; chuyển tuyến chỉ đặt ra nếu INR kéo dài, lú lẫn hoặc men gan, bilirubin tăng tiếp."
+   },
+   "loi_mo": "Bác sĩ ơi, em uống thuốc dạ dày đủ rồi mà vẫn không đỡ, mấy hôm nay còn chán ăn, buồn nôn, người mệt lừ. Hay là em bị lao thật rồi bác sĩ? Cho em chụp phổi đi!",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "116/70",
+    "nhiet": "37,0",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Vẫn ăn mau no, rát thượng vị như 5 tuần trước; mấy hôm nay thêm chán ăn, buồn nôn sáng, mệt. Rất sợ là lao.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ppi",
+     "noi_dung": "Uống omeprazol 20 mg mỗi sáng trước ăn đủ 5 tuần, không quên ngày nào; đầy, no sớm, rát không đỡ rõ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ PPI nhưng không đáp ứng"
+    },
+    {
+     "id": "ibuprofen_ngung",
+     "noi_dung": "Đã ngưng ibuprofen từ ngày khám lần trước, vỉ thuốc còn nguyên. Đau lưng dùng paracetamol 500 mg 1 viên, khoảng 2–3 lần/tuần, chườm ấm, đeo đai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã ngưng NSAID, paracetamol rất thấp"
+    },
+    {
+     "id": "thuoc_bac_tiep",
+     "noi_dung": "Vẫn uống thuốc bắc mỗi tối một thang suốt 5 tuần qua; hết đợt đầu thì thầy cho thêm đợt hai, còn khoảng 10 thang. Anh nghe bác sĩ dặn ngưng nhưng thầy bảo bỏ giữa chừng thì 'uổng, bệnh quay lại', và anh vẫn sợ lao. Không dám nói vì sợ bị mắng.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có tuân thủ dặn dò không' thì anh nói 'dạ có'. Chỉ nói thật khi bác sĩ hỏi thẳng 'anh còn uống thuốc bắc không, mỗi ngày bao nhiêu', hoặc hỏi vì sao không ngưng.",
+     "y": "Vẫn dùng thuốc bắc (nguồn gốc biến chứng)"
+    },
+    {
+     "id": "trieu_chung_moi",
+     "noi_dung": "Chán ăn rõ 5–6 ngày nay, buồn nôn buổi sáng, mệt, nước tiểu sẫm như nước trà đặc. Phân vàng bình thường, không ngứa, không sốt, không đau hạ sườn phải nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng gan mới"
+    },
+    {
+     "id": "ruou_virus",
+     "noi_dung": "Từ lần trước chỉ uống bia một lần ở đám cưới khoảng 2 tuần trước, 3 lon. Không tiêm chích, không quan hệ nguy cơ, không xăm, không ăn hải sản sống. Chưa thử HBV, chưa tiêm ngừa viêm gan B. Không ai quanh anh vàng da.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rượu bia, yếu tố nguy cơ viêm gan virus"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không nôn máu, phân không đen, không chảy máu răng mũi, không lú lẫn, không ngủ lịm. Cân nặng 57,5 kg (58 kg lần trước).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động và dấu hiệu nặng"
+    },
+    {
+     "id": "sang_loc_lao",
+     "noi_dung": "Vẫn không ho, sốt, ra mồ hôi đêm, ho ra máu; cân nặng gần như không đổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc lao lần hai"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt vẻ. Củng mạc vàng nhẹ, da không vàng rõ, không xuất huyết da, không phù, không hạch cổ hay thượng đòn.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, gan sờ được dưới bờ sườn phải 2 cm, bờ sắc, mật độ mềm, ấn đau nhẹ hạ sườn phải; ấn đau nhẹ thượng vị, lách không to, không báng, không phản ứng thành bụng.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh táo, định hướng tốt, nói mạch lạc, không run vẫy tay, không dấu thần kinh khu trú.",
+     "k": 1
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran. Nhịp thở 16.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, nhịp thở 16, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "r": "AST 164 · ALT 238 U/L (ULN 40 U/L; ALT khoảng 6 lần; lượt 1: AST 24, ALT 28)",
+     "ab": 1,
+     "n": "Tăng 5–15 lần ULN là mức vừa: đánh giá ngay, ngưng thuốc độc gan (ACG 2017, phân độ và Hình 2). ULN mỗi phòng xét nghiệm khác nhau; ACG đề xuất 29–33 U/L cho nam, ALT vẫn ≥ 5 lần."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "Bilirubin toàn phần 26 µmol/L (trực tiếp 11) · ALP 96 U/L · GGT 70 U/L · albumin 43 g/L · PT 13 giây, INR 1,0",
+     "ab": 1,
+     "n": "R = (ALT/ULN)/(ALP/ULN) = (238/40)/(96/120) ≈ 7,4 > 5: kiểu tế bào gan (ACG 2017, công thức R). PT/INR và bilirubin để nhận suy gan cấp (Hình 2, khuyến cáo 19)."
+    },
+    "virus_mau": {
+     "v": "e",
+     "r": "HBsAg âm tính · anti-HCV âm tính",
+     "n": "Men gan 5–15 lần ULN: tìm viêm gan virus cấp (ACG 2017 khuyến cáo 16, 17)."
+    },
+    "huyet_thanh_hav_hev": {
+     "v": "u",
+     "r": "IgM anti-HAV âm · IgM anti-HEV âm · IgM anti-HBc âm",
+     "n": "ACG 2017 khuyến cáo 17 và Hình 2 (IgM anti-HAV, HBsAg, IgM anti-HBc, anti-HCV); phần phân độ nêu cả viêm gan E cấp."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Gan to nhẹ, nhu mô đồng nhất, đường mật không giãn, túi mật không sỏi, lách bình thường.",
+     "n": "Siêu âm bụng trong sơ đồ men gan tăng (ACG 2017 Hình 1, 2)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 7,1 G/L · Hb 146 g/L · TC 248 G/L",
+     "n": "Công thức máu/tiểu cầu thuộc nhóm đánh giá men gan (ACG 2017 Hình 1, 2)."
+    },
+    "cxr": {
+     "n": "Vẫn không chỉ định: không ho, sốt, mồ hôi đêm, sụt cân (QĐ 162/2024, Phần II mục 1.1 Bảng 1); men gan tăng có nguyên nhân khác giải thích."
+    },
+    "noi_soi": {
+     "n": "Chưa lượt này: đang có tổn thương gan cần ưu tiên; chưa đủ 8 tuần PPI (VNAGE 2024 KC 8, 11). VNAGE 2023 Bảng 2 xếp 'không đáp ứng PPI' là dấu báo động nên nội soi sớm cũng chấp nhận."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tổn thương gan kiểu tế bào gan mức vừa (ALT khoảng 6 lần ULN), nghi do thuốc bắc không rõ thành phần anh vẫn uống, ở người điều trị khó tiêu chưa thăm dò; chưa dấu hiệu suy gan cấp",
+     "ok": 1,
+     "n": "Men gan nền bình thường lượt 1, tăng khi vẫn uống thuốc bắc thêm 5 tuần; đã ngưng ibuprofen, paracetamol rất thấp, bia 1 lần, virus A, B, C âm (ACG 2017, khuyến cáo 11, 16, 17). Tác nhân cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm gan virus cấp (A, B, C, E)",
+     "n": "HBsAg, anti-HCV, IgM anti-HAV, HEV, anti-HBc IgM âm."
+    },
+    {
+     "t": "Tổn thương gan do paracetamol",
+     "n": "Paracetamol 2–3 viên/tuần; độc tính paracetamol được khảo sát khi men gan > 15 lần ULN (ACG 2017 khuyến cáo 18)."
+    },
+    {
+     "t": "Khó tiêu chức năng",
+     "n": "Vẫn là bệnh nền khả dĩ nhưng chưa kết luận: chưa đủ 8 tuần, chưa nội soi; chán ăn, nước tiểu sẫm, vàng mắt không do khó tiêu chức năng."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng",
+     "n": "Chưa loại hẳn; chưa đủ 8 tuần PPI (VNAGE 2024 KC 8, 11); hẹn nội soi khi men gan về."
+    },
+    {
+     "t": "Ung thư dạ dày",
+     "n": "Chưa nội soi; vẫn không báo động, cân nặng 57,5 kg, Hb 146 g/L."
+    },
+    {
+     "t": "Lao (phổi, ổ bụng, gan)",
+     "n": "Vẫn không triệu chứng nghi lao; phổi sạch; tổn thương gan có nguyên nhân khác giải thích."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng hoàn toàn thuốc bắc ngay hôm nay, mang số còn lại theo; không dùng thuốc nam, thuốc bắc, thực phẩm chức năng hay thuốc 'bổ gan'; không rượu bia",
+     "v": "c",
+     "n": "Ngưng thuốc và rượu có thể độc gan (ACG 2017, Hình 1, 2; khuyến cáo 11 hỏi cả thảo dược). Thuốc bắc làm tổn thương gan là nghi ngờ, tác nhân chưa xác định; cách ngưng không giảm dần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi thẳng việc còn uống thuốc bắc và vì sao không ngưng; xử lý nỗi sợ lao (sàng lọc lại âm tính, không chụp phổi), nói bệnh gan hiện nay do thuốc chứ không phải lao",
+     "v": "c",
+     "n": "VNAGE 2024, Treatment (lắng nghe, trấn an); Đồng thuận châu Á 2026 Statement 20; QĐ 162/2024, Phần II mục 1.1 Bảng 1, Phần I mục 1.5."
+    },
+    {
+     "t": "Làm ngay trong ngày: men gan, bilirubin, ALP, GGT, albumin, PT/INR, HBsAg, anti-HCV, IgM anti-HAV, siêu âm bụng; khám tìm dấu suy gan cấp (vàng da, lú lẫn, run vẫy)",
+     "v": "c",
+     "n": "Men gan 5–15 lần ULN: tìm viêm gan A, B, C cấp (ACG 2017 khuyến cáo 17), đánh giá suy gan cấp, siêu âm (Hình 2). Hình 2 còn liệt kê sắt, ceruloplasmin, ANA, ASMA, globulin: ca này làm sau nếu men gan không về khi đã ngưng thuốc (lựa chọn của ca; khuyến cáo 7–10)."
+    },
+    {
+     "t": "Không nhập viện, không chuyển tuyến vì chưa suy gan cấp; hẹn kiểm tra men gan, bilirubin, INR sau 1 tuần, dặn dấu hiệu phải đến ngay (lú lẫn, ngủ lịm, vàng da tăng, chảy máu, nôn nhiều, đau hạ sườn phải nhiều)",
+     "v": "c",
+     "n": "ACG 2017 khuyến cáo 19: PT kéo dài hoặc bệnh não gan cần chuyển ngay chuyên khoa gan. Mốc 1 tuần là lựa chọn của ca; Hình 1 chỉ nêu 'quan sát 3 tháng' cho mức nhẹ, không có mốc cho mức vừa trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục không NSAID; đau lưng chườm ấm, đai lưng, nghỉ chạy xe; hạn chế thuốc giảm đau uống khi men gan còn cao",
+     "v": "c",
+     "n": "QĐ 361/2014, Hội chứng đau thắt lưng, mục 4.1, 4.2.1, 5. Liều paracetamol an toàn khi men gan tăng: không có trong tài liệu đã tải, chọn không dùng trong lúc chờ (lựa chọn của ca)."
+    },
+    {
+     "t": "Giải thích khó tiêu chưa đỡ vì chưa đủ 8 tuần điều trị và còn yếu tố gây nhiễu; hẹn nội soi và bậc thuốc kế tiếp ở lượt sau khi men gan về",
+     "v": "c",
+     "n": "VNAGE 2024 KC 8, 11 (đánh giá sau 8 tuần; cân nhắc nội soi nếu chưa làm); Rome V, Clinical Evaluation."
+    },
+    {
+     "t": "Tiếp tục omeprazol 20 mg đến đủ 8 tuần rồi ngưng, hoặc ngưng sớm",
+     "v": "a",
+     "n": "Rome V, Treatment: 4–8 tuần; VNAGE 2024 KC 8: 8 tuần; Đồng thuận châu Á 2026 Statement 23: 12 tuần (sổ mâu thuẫn TH-0083)."
+    },
+    {
+     "t": "Nội soi sớm ngay lượt này vì không đáp ứng PPI",
+     "v": "a",
+     "n": "VNAGE 2023 Bảng 2 xếp 'không đáp ứng PPI' là dấu báo động; VNAGE 2024 KC 11 chờ 8 tuần. Hai cách đều chấp nhận."
+    },
+    {
+     "t": "Chụp X-quang phổi, Xpert hoặc IGRA vì anh sợ lao",
+     "v": "w",
+     "n": "Không chỉ định (QĐ 162/2024, Phần II mục 1.1 Bảng 1)."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển cấp cứu",
+     "v": "w",
+     "n": "Chưa suy gan cấp (ACG 2017 khuyến cáo 19)."
+    },
+    {
+     "t": "Cho uống tiếp thuốc bắc cho hết liệu trình, hoặc đổi sang NSAID giảm đau lưng",
+     "v": "h",
+     "n": "Tiếp tục tác nhân nghi tổn thương gan là sai nghiêm trọng (ACG 2017, Hình 2: ngưng thuốc độc gan); NSAID gây khó tiêu (VNAGE 2024 Bảng 3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tổn thương gan kiểu tế bào gan mức vừa (ALT khoảng 6 lần ULN, R ≈ 7), nghi do thuốc bắc không rõ thành phần uống thêm 5 tuần; chưa suy gan cấp",
+     "Khó tiêu chưa thăm dò, không đáp ứng PPI 5 tuần: chưa đủ 8 tuần, chưa kết luận chức năng",
+     "Đã loại trừ: viêm gan virus A, B, C cấp, NSAID đang tiếp diễn, paracetamol, lao",
+     "Loét và ung thư dạ dày chưa loại hẳn: hẹn nội soi lượt sau"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao không đỡ: chưa đủ 8 tuần PPI (VNAGE 2024 KC 8, 11); đã ngưng ibuprofen 5 tuần mà triệu chứng còn nên chưa thể quy toàn bộ cho NSAID; và triệu chứng gan mới (chán ăn, buồn nôn, nước tiểu sẫm, vàng mắt) làm khó đánh giá khó tiêu cho đến khi gan ổn.",
+     "Điểm gãy: anh vẫn uống thuốc bắc vì thầy dặn uống đủ và vì sợ lao, lượt trước dặn ngưng mà chưa kiểm chứng; anh sợ bị mắng nên không khai. Hỏi thẳng, không phán xét, về mọi thứ đang uống ở mỗi lần tái khám là bước truy nguyên (ACG 2017 khuyến cáo 11).",
+     "Phân độ: ALT 238 U/L khoảng 6 lần ULN 40 là mức vừa (5–15 lần); R = 7,4 > 5 nên kiểu tế bào gan (ACG 2017, phân độ và công thức R). ALT nền 28 ở lượt 1 cho thấy tổn thương xuất hiện trong khoảng 5 tuần.",
+     "Loại nguyên nhân khác: virus A, B, C âm (khuyến cáo 16, 17); bia 1 lần; paracetamol rất thấp, độc tính chỉ khảo sát khi > 15 lần ULN (khuyến cáo 18). Chưa suy gan cấp: INR 1,0, tỉnh táo, không run vẫy (khuyến cáo 19). Không chụp phổi: sàng lọc lao lần hai âm (QĐ 162/2024, Phần II mục 1.1 Bảng 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng thuốc bắc hôm nay và theo dõi sát. Không nhập viện, không chuyển tuyến vì chưa suy gan cấp (ACG 2017 khuyến cáo 19); kết quả có ngay trong ngày, hẹn lại sau 1 tuần (mốc là lựa chọn của ca).",
+     "Gốc rễ biến chứng là nỗi sợ lao khiến anh tiếp tục thuốc: nói rõ anh không có triệu chứng nghi lao, thuốc bắc không ngừa lao và đang hại gan, rồi mời anh nhắc lại bằng lời của mình điều sẽ làm.",
+     "Khó tiêu: PPI đến đủ 8 tuần rồi dừng nếu không đáp ứng, hoặc ngưng sớm (Rome V 4–8 tuần; VNAGE 2024 8 tuần; Đồng thuận châu Á 2026 12 tuần); nội soi và bậc thuốc sau để lượt 3."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol (tiếp tục, không tăng liều)",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước bữa sáng",
+      "so_ngay": "Đến đủ 8 tuần tính từ lượt 1 (còn khoảng 3 tuần) rồi ngưng nếu không đáp ứng",
+      "ghi_chu": "VNAGE 2024 KC 7, 8, Bảng 4; Rome V, Treatment; Đồng thuận châu Á 2026 Statement 23; ACG 2022 GERD KC 8 (thời điểm)."
+     },
+     {
+      "thuoc": "Không kê thuốc giảm đau uống",
+      "ham_luong": "—",
+      "lieu": "Không dùng trong khi men gan tăng",
+      "duong": "—",
+      "thoi_diem": "Đau lưng: chườm ấm, đai lưng, nghỉ",
+      "so_ngay": "Đến khi men gan về bình thường",
+      "ghi_chu": "QĐ 361/2014, mục 4.2.1, 5. Liều paracetamol an toàn khi men gan tăng: không có trong tài liệu đã tải (lựa chọn thận trọng của ca)."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn thuốc bắc từ hôm nay; không dùng thuốc nam, thuốc bắc, thực phẩm chức năng, 'thuốc bổ gan'; không bia rượu cho đến khi bác sĩ cho phép (ACG 2017, Hình 2).",
+     "Quay lại ngay hoặc gọi phòng khám nếu lú lẫn, ngủ lịm, vàng da vàng mắt tăng, chảy máu, nôn nhiều, đau hạ sườn phải nhiều (ACG 2017 khuyến cáo 19).",
+     "Tái khám sau 1 tuần thử lại men gan, bilirubin, INR (mốc của ca, không có trong tài liệu đã tải). Tiếp tục omeprazol buổi sáng trước ăn đến đủ 8 tuần."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 6 tuần nữa",
+   "tiep_don": "Anh Tín tái khám, tính từ lượt 1 là 11 tuần. Đã ngưng thuốc bắc từ lượt trước; hết mệt, chán ăn, vàng mắt; men gan thử lại sau 1 tuần đã giảm. Vẫn ăn mau no, đầy bụng, rát thượng vị; omeprazol uống đủ 8 tuần, ngưng 3 tuần nay. Sinh hiệu: HA 114/70 mmHg, mạch 72 l/p, nhiệt độ 36,6 °C, SpO₂ 99%. Cân nặng 58 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển anh Tín lên tuyến trên 'xem lại cả gan lẫn dạ dày' là quá tay: nội soi bình thường, urease và mô học không H. pylori, men gan về bình thường, INR 1,0, bệnh đã rõ và điều trị được tại phòng khám (VNAGE 2024, KC 5, 11; Rome V 2026, Treatment). Xét nghiệm lặp lại không thêm thông tin, lại làm anh tin 'bác sĩ chưa tìm ra bệnh'.",
+    "nhap_vien": "Nhập viện để 'theo dõi gan và dạ dày' cho anh Tín là không cần: không dấu báo động, gan đã hồi phục, nội soi không tổn thương thực thể (VNAGE 2024, KC 2, 5; Rome V 2026, Clinical Evaluation). Nằm viện khiến anh tin mình bệnh nặng, củng cố nỗi sợ, tốn chi phí và ngày công."
+   },
+   "loi_mo": "Bác sĩ ơi, thuốc bắc em bỏ rồi, gan em hết mệt rồi. Nhưng bao tử em vẫn không khá, vẫn ăn một chút là no. Hay là em còn bệnh gì bác sĩ chưa tìm ra? Em muốn nội soi, chụp phổi nữa cho chắc!",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "114/70",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hết mệt, hết chán ăn, hết vàng mắt, nước tiểu trong. Còn ăn mau no, đầy bụng sau ăn, rát thượng vị.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "trieu_chung_con",
+     "noi_dung": "Ăn mau no và đầy sau ăn 4–5 ngày/tuần, rát thượng vị 2 ngày/tuần, mức độ giống lúc mới đến khám, không nặng hơn; ngưng omeprazol 3 tuần cũng không khác. Không nôn, không thức giấc vì đau. Tổng cộng khoảng 10–11 tháng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng còn sau khi bỏ NSAID, thuốc bắc và đủ 8 tuần PPI"
+    },
+    {
+     "id": "ngung_thuoc",
+     "noi_dung": "Ngưng thuốc bắc từ hôm khám lần trước, vứt phần còn lại. Không ibuprofen từ 11 tuần nay. Không bia rượu. Không dùng thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã bỏ các tác nhân gây nhiễu"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không nôn máu, phân đen, nuốt nghẹn, nôn nhiều; không sụt cân (58 kg), không xanh xao. Gia đình không ai ung thư tiêu hóa trên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "sang_loc_lao",
+     "noi_dung": "Không ho, sốt, ra mồ hôi đêm, cân nặng ổn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc lao lần ba"
+    },
+    {
+     "id": "tam_ly",
+     "noi_dung": "Ngủ 5 giờ, hay thức lúc 3 giờ sáng nghĩ về bệnh; lo nhiều khi chạy xe một mình. Không buồn chán kéo dài, không nghĩ tới tự hại, vẫn đi làm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lo âu, mất ngủ đi kèm"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Anh đỡ sợ lao từ khi bác sĩ nói rõ gan hại do thuốc bắc chứ không phải lao. Nhưng vẫn nghĩ 'bao tử mình giống anh Sáu', sợ còn bệnh chưa tìm ra nên đòi nội soi và chụp phổi.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh còn lo điều gì, hoặc vì sao muốn chụp phổi.",
+     "y": "Lý do thật: sợ lao, nay thành sợ bỏ sót bệnh"
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng mềm, không đau rõ, ấn thượng vị hơi khó chịu, gan không sờ thấy dưới bờ sườn, lách không to, không khối.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, củng mạc không vàng, niêm mạc hồng, cân nặng 58 kg.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Khí sắc bình thường, lo âu về sức khỏe rõ khi nói về bệnh, tư duy mạch lạc, không ý tưởng tự hại, không dấu hiệu trầm cảm nặng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "noi_soi": {
+     "v": "e",
+     "r": "Thực quản bình thường. Dạ dày: niêm mạc hồng, không trợt, không loét, không u; môn vị mở đều. Hành tá tràng và D2 bình thường. Urease nhanh: âm tính. Sinh thiết hang vị và thân vị: viêm mạn nhẹ, không H. pylori, không teo, không dị sản ruột.",
+     "n": "Nội soi khi bậc đầu thất bại và chưa từng nội soi (Rome V, Treatment; VNAGE 2024 KC 11), sau ngưng PPI ≥ 2 tuần để test H. pylori không âm tính giả (VNAGE 2023 Statement 6). ACG-CAG 2017 Statement 5, 6: dưới 60 tuổi không đáp ứng thì thêm thuốc vận động hoặc TCA, không nêu nội soi: ghi cả hai hướng."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 26 · ALT 31 U/L (ULN 40 U/L)",
+     "n": "Xác nhận gan hồi phục sau ngưng thuốc bắc (ACG 2017, Hình 1, 2); lượt 2: ALT 238."
+    },
+    "cxr": {
+     "n": "Vẫn không chỉ định: không ho, sốt, mồ hôi đêm, sụt cân (QĐ 162/2024, Phần II mục 1.1 Bảng 1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khó tiêu chức năng thể chồng lấp hội chứng đau thượng vị và khó chịu sau ăn (Rome IV/V): nội soi và mô học bình thường, H. pylori âm tính, đã bỏ NSAID, không đáp ứng PPI 8 tuần; tổn thương gan do thuốc bắc không rõ thành phần đã hồi phục",
+     "ok": 1,
+     "n": "Đầy sau ăn, no sớm ≥ 2 ngày/tuần và rát thượng vị ≥ 1 ngày/tuần, khởi phát ≥ 6 tháng, không bệnh thực tổn giải thích được (Rome V B1, B1a, B1b; VNAGE 2024 KC 5). Khó tiêu chức năng là chẩn đoán dương tính (Đồng thuận châu Á 2026 Statement 3)."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng",
+     "n": "Nội soi không loét, không trợt; H. pylori âm; đã bỏ NSAID."
+    },
+    {
+     "t": "Ung thư dạ dày",
+     "n": "Nội soi và mô học không u, không teo, không dị sản ruột; không báo động; 28 tuổi."
+    },
+    {
+     "t": "Tổn thương gan do thuốc còn tiếp diễn",
+     "n": "ALT 31, bilirubin, INR bình thường 6 tuần sau ngưng thuốc bắc: hồi phục (ACG 2017)."
+    },
+    {
+     "t": "Lao",
+     "n": "Ba lần sàng lọc không triệu chứng; không phải người tiếp xúc (QĐ 162/2024, Phần I mục 1.5)."
+    },
+    {
+     "t": "Bệnh dạ dày do NSAID hoặc H. pylori",
+     "n": "Không trợt; còn triệu chứng 11 tuần sau bỏ NSAID; UBT, urease, mô học âm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nội soi dạ dày – tá tràng (sinh thiết hang, thân vị, test urease) sau khi đã ngưng PPI ≥ 2 tuần",
+     "v": "c",
+     "n": "Không đáp ứng PPI 8 tuần, chưa nội soi: VNAGE 2024 KC 11; Rome V, Treatment. Test H. pylori khi nội soi: urease (VNAGE 2023 Statement 4), ngưng PPI ≥ 2 tuần (Statement 6)."
+    },
+    {
+     "t": "Giải thích: nội soi và gan bình thường, tên bệnh là khó tiêu chức năng, có thật, hay kéo dài, điều trị được; trả lời nỗi lo 'còn bệnh chưa tìm ra' và nỗi sợ lao bằng kết quả của chính anh",
+     "v": "c",
+     "n": "Khó tiêu chức năng là chẩn đoán dương tính (Đồng thuận châu Á 2026 Statement 3); giao tiếp tốt, tiếp cận toàn diện (Statement 20); trấn an từ đầu cải thiện tuân thủ (VNAGE 2024, Treatment)."
+    },
+    {
+     "t": "Thuốc vận động (itopride 50 mg × 3 lần/ngày) hoặc amitriptylin liều thấp (10 mg trước ngủ); chọn một",
+     "v": "c",
+     "n": "Thuốc vận động cho PDS (VNAGE 2024 KC 9, 10, Bảng 5; Rome V, Treatment); TCA bậc hai (VNAGE 2024 KC 11: khởi 10 mg, thường 20–30 mg, không quá 75 mg; BSG 2022: khởi 10 mg, tối đa 30–50 mg; ACG-CAG 2017 Statement 5, 6). Đánh giá lại sau 8 tuần (KC 11)."
+    },
+    {
+     "t": "Không dùng lại PPI, không dùng PPI liều cao dài hạn",
+     "v": "c",
+     "n": "Không đáp ứng 8 tuần thì ngưng (VNAGE 2024 KC 8); không tăng liều (KC 7)."
+    },
+    {
+     "t": "Ăn nhiều bữa nhỏ, không bỏ bữa sáng, giảm đồ chiên mỡ, giảm cà phê, bỏ thuốc lá, ngủ đủ",
+     "v": "c",
+     "n": "Rome V, Treatment; VNAGE 2024 KC 13; Đồng thuận châu Á 2026 Statement 21."
+    },
+    {
+     "t": "Không dùng lại thuốc bắc không rõ thành phần và NSAID; ghi vào hồ sơ nghi tổn thương gan do thuốc bắc; đau lưng chườm ấm, đai lưng, vận động",
+     "v": "c",
+     "n": "ACG 2017, khuyến cáo 11; VNAGE 2024 Bảng 3; QĐ 361/2014, mục 4.2.1, 5. Paracetamol tối đa 4.000 mg/ngày (QĐ 361/2014); liều an toàn ngay sau tổn thương gan: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 8 tuần: đánh giá đáp ứng thuốc; dặn dấu hiệu quay lại sớm (nôn máu, phân đen, sụt cân, nuốt nghẹn, nôn nhiều, vàng da)",
+     "v": "c",
+     "n": "Đánh giá 8 tuần: VNAGE 2024 KC 11; dấu báo động: KC 2. Mốc hẹn là lựa chọn của ca."
+    },
+    {
+     "t": "Không nội soi, vào thẳng thuốc vận động hoặc TCA",
+     "v": "a",
+     "n": "ACG-CAG 2017 Statement 2, 5, 6 (dưới 60 tuổi không nội soi, thêm thuốc vận động rồi TCA)."
+    },
+    {
+     "t": "Chụp X-quang phổi, Xpert hoặc IGRA 'cho chắc'",
+     "v": "w",
+     "n": "Không triệu chứng nghi lao (QĐ 162/2024, Phần II mục 1.1 Bảng 1)."
+    },
+    {
+     "t": "Cho phác đồ diệt H. pylori 'cho chắc' dù UBT và urease âm",
+     "v": "w",
+     "n": "Diệt khi đã xác định nhiễm (VNAGE 2024 KC 6)."
+    },
+    {
+     "t": "Cho uống lại thuốc bắc 'bổ' vì gan đã bình thường",
+     "v": "h",
+     "n": "Tác nhân nghi gây tổn thương gan chưa xác định thành phần, không có thông tin an toàn trong tài liệu đã tải (ACG 2017 khuyến cáo 11)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Khó tiêu chức năng thể chồng lấp PDS và EPS (Rome IV/V): đầy sau ăn, no sớm, rát thượng vị khoảng 10–11 tháng, nội soi và mô học bình thường",
+     "Đã loại trừ: loét, ung thư dạ dày (nội soi, mô học), bệnh dạ dày do H. pylori (UBT, urease, mô học), do NSAID (ngưng 11 tuần), lao",
+     "Tổn thương gan do thuốc bắc không rõ thành phần đã hồi phục (ALT 238 xuống 31 U/L), ghi vào hồ sơ; lo âu về sức khỏe, mất ngủ nhẹ"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là khó tiêu chức năng bây giờ: đã loại các nguyên nhân khả dĩ (NSAID ngưng 11 tuần, H. pylori âm hai lần, nội soi bình thường) mà triệu chứng không đổi; đầy sau ăn 4–5 ngày/tuần (≥ 2), rát thượng vị 2 ngày/tuần (≥ 1), khởi phát ≥ 6 tháng (Rome V B1, B1a, B1b; VNAGE 2024 KC 5). Thể chồng lấp PDS–EPS gặp thường (Đồng thuận châu Á 2026 Statement 1).",
+     "Vì sao nội soi bây giờ: không đáp ứng 8 tuần PPI, chưa nội soi (VNAGE 2024 KC 11; Rome V). Khác ACG-CAG 2017 Statement 5, 6 (dưới 60 tuổi thêm thuốc mà không cần nội soi): hai hướng đều hợp lệ vì khác vùng nguy cơ ung thư dạ dày; ghi cả hai.",
+     "Vì sao gan là biến chứng: ALT 28, 238, 31 U/L qua ba lượt, hồi phục sau ngưng thuốc bắc; virus A, B, C âm; đã bỏ NSAID. Hồi phục khi ngưng tác nhân làm tăng khả năng thuốc bắc là nguyên nhân, dù thành phần chưa xác định (ACG 2017, khuyến cáo 11). Không chụp phổi: ba lần sàng lọc âm (QĐ 162/2024, Phần II mục 1.1 Bảng 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Bậc kế tiếp sau PPI: thuốc vận động (VNAGE 2024 KC 9–11; Rome V) hoặc TCA liều thấp (BSG 2022; ACG-CAG 2017 Statement 6). Liều tối đa amitriptylin: VNAGE 2024 không quá 75 mg; BSG 2022 tối đa 30–50 mg, thận trọng hơn. Chọn thuốc vận động trước vì vừa hồi phục tổn thương gan; tương tác gan của itopride, amitriptylin: không có trong tài liệu đã tải.",
+     "Với người dễ sợ, nội soi bình thường là công cụ trấn an nhưng chỉ hiệu quả khi kèm kế hoạch bậc kế tiếp và mốc tái khám. Phòng tái diễn: ghi hồ sơ, ở mỗi lần khám hỏi thẳng về thuốc nam, bắc, thực phẩm chức năng và hỏi nỗi sợ đứng sau việc dùng thuốc."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Itopride",
+      "ham_luong": "50 mg",
+      "lieu": "50 mg × 3 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cách dùng so với bữa ăn: không có trong tài liệu đã tải",
+      "so_ngay": "8 tuần rồi tái khám đánh giá",
+      "ghi_chu": "VNAGE 2024 KC 9, 10, 11, Bảng 5; Rome V, Treatment. Chống chỉ định, tương tác: không có trong tài liệu đã tải. Thay thế: amitriptylin 10 mg trước ngủ (VNAGE 2024 KC 11; BSG 2022), không dùng cùng lúc."
+     }
+    ],
+    "dan_do": [
+     "Không dùng lại thuốc bắc không rõ thành phần, thuốc nam, thực phẩm chức năng, ibuprofen; hỏi bác sĩ trước khi dùng thuốc mới (ACG 2017 khuyến cáo 11).",
+     "Nội soi và gan bình thường; bệnh là khó tiêu chức năng, có thật, không phải lao hay ung thư; thuốc mới dùng đều 8 tuần mới đánh giá (VNAGE 2024 KC 11).",
+     "Ăn bữa nhỏ, không bỏ bữa sáng, hạn chế chiên mỡ, cà phê, thuốc lá, ngủ đủ (Rome V, Treatment; VNAGE 2024 KC 13). Đau lưng: chườm ấm, đai lưng, nghỉ giữa cuốc xe (QĐ 361/2014, mục 4.2.1, 5).",
+     "Quay lại sớm nếu nôn máu, phân đen, sụt cân, nuốt nghẹn, nôn nhiều, vàng da, ho kéo dài trên 2 tuần (VNAGE 2024 KC 2; QĐ 162/2024, Phần II mục 1.1 Bảng 1). Tái khám sau 8 tuần."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Biến chứng do bỏ sót; điểm gãy có bốn mắt xích. (1) Anh tự mua ibuprofen chữa đau lưng do nghề chạy xe, không ai hỏi tới khi khó tiêu bắt đầu. (2) Thầy lang cho thuốc bắc không công khai thành phần, anh không coi đó là 'thuốc'. (3) Lượt 1: lời dặn ngưng thuốc bắc không đi kèm việc gỡ nỗi sợ lao nên anh ngưng ibuprofen nhưng vẫn uống thuốc bắc và giấu vì sợ bị mắng; men gan nền bình thường có ý nghĩa nhờ đã được thử. (4) Lượt 2 hỏi thẳng, phát hiện tổn thương gan kiểu tế bào gan mức vừa (ALT 28 lên 238 U/L, INR 1,0), ngưng thuốc bắc trong ngày, chưa suy gan cấp. Sáu tuần sau ALT về 31 U/L; nội soi bình thường, urease và mô học không H. pylori. Chẩn đoán cuối vẫn là khó tiêu chức năng; tổn thương gan do thuốc bắc là biến chứng của việc bỏ sót thuốc không rõ thành phần.",
+ "nhieu": [
+  "Sợ hãi quá mức: nỗi sợ thật là lao (bạn cùng bến mất vì lao phổi), anh nói 'ung thư' trước, đòi chụp phổi và xét nghiệm 'đủ hết'. Không triệu chứng nghi lao nên không chụp phổi ở cả ba lượt (QĐ 162/2024, Phần II mục 1.1 Bảng 1; Phần I mục 1.5); trấn an có cấu trúc thay cho xét nghiệm chiều lòng.",
+  "Ibuprofen là yếu tố khởi phát, thuốc bắc không rõ thành phần là nguồn biến chứng; men gan tăng không phải do khó tiêu.",
+  "Nguồn lực đầy đủ nhưng CXR, Xpert, IGRA, CT bụng không chỉ định; nội soi chỉ vào lượt 3 (VNAGE 2024 KC 1, 2, 11)."
+ ],
+ "bai_hoc_bien": [
+  "Sợ hãi quá mức: hỏi nỗi sợ thật, trả lời bằng dữ kiện của chính người bệnh và kế hoạch có mốc, không bằng xét nghiệm không chỉ định. Nỗi sợ không được hỏi sẽ nuôi hành vi như tiếp tục uống thuốc bắc.",
+  "Biến chứng do bỏ sót: truy nguyên từng mắt xích. Hỏi thẳng, không phán xét, mọi thứ đang uống ở mỗi lần khám (thuốc Tây tự mua, thuốc nam/bắc, thực phẩm chức năng); thử men gan nền khi có thuốc không rõ thành phần (ACG 2017, khuyến cáo 11).",
+  "Dặn ngưng thuốc chưa đủ: người bệnh vẫn uống nếu niềm tin sau đó (sợ lao, thầy lang dặn) chưa được giải quyết; kiểm chứng ở lần khám sau.",
+  "Khó tiêu chức năng là chẩn đoán sau khi bỏ nguyên nhân thực tổn có thể: ngưng thuốc gây khó tiêu, xác định H. pylori, nội soi theo tuổi/báo động/thất bại điều trị; đủ tiêu chuẩn Rome thì gọi tên bệnh và điều trị bậc kế tiếp."
+ ],
+ "diem_nho": [
+  "Rome V B1: khó chịu sau ăn (≥ 2 ngày/tuần), đau hay rát thượng vị (≥ 1 ngày/tuần), khởi phát ≥ 6 tháng, không bệnh thực tổn giải thích được (Rome V 2026, B1, B1a, B1b).",
+  "Dấu báo động: xuất huyết tiêu hóa, thiếu máu, sụt cân > 10%, nôn dai dẳng, nuốt nghẹn, khối/hạch, tiền sử gia đình ung thư (VNAGE 2024 KC 2).",
+  "Mọi người khó tiêu cần xác định H. pylori; không nội soi thì UBT hoặc kháng nguyên phân, sau ngưng PPI ≥ 2 tuần, kháng sinh/bismuth ≥ 4 tuần (VNAGE 2024 KC 3; VNAGE 2023 Statement 5, 6).",
+  "Nội soi theo tuổi: VNAGE 2024 từ 40 (vùng nguy cơ cao) hoặc 50 (thấp); VNAGE 2023 nam ≥ 40; ACG-CAG 2017 từ 60; không nguồn nào dưới 40. Thất bại điều trị 8 tuần thì nội soi nếu chưa làm (VNAGE 2024 KC 11; Rome V).",
+  "Men gan tăng 5–15 lần ULN: ngưng thuốc độc gan và rượu, đánh giá suy gan cấp, tìm viêm gan A, B, C; chuyển ngay nếu PT kéo dài hoặc bệnh não gan (ACG 2017, khuyến cáo 17, 19)."
+ ],
+ "nguon": [
+  "VNAGE 2024 – khó tiêu chức năng – TL-0178 – Introduction, KC 1–14 (Bảng 1), Bảng 2–5, Hình 1–2",
+  "VNAGE 2023 – H. pylori – TL-0179 – Statement 3–6, Bảng 2",
+  "Rome V – Gastroduodenal Disorders 2026 – TL-0191 (tệp _ban_02) – B1, B1a, B1b, Clinical Evaluation, Treatment",
+  "Đồng thuận châu Á về khó tiêu chức năng 2026 – TL-0193 – Statement 1, 3, 6, 20, 21, 23, 29, 31",
+  "ACG-CAG 2017 – khó tiêu – TL-0232 – tóm tắt khuyến cáo (Statement 2–6); BSG 2022 – TL-0213 – điều trị bậc hai (amitriptylin khởi 10 mg)",
+  "Maastricht VI/Florence 2022 – TL-0215 (tệp _ban_02) – WG1 Statement 3, 4",
+  "ACG 2017 – Evaluation of Abnormal Liver Chemistries – TL-0231 – khuyến cáo 7–11, 16–19; phân độ men gan; công thức R; Hình 1, 2",
+  "BYT QĐ 162/QĐ-BYT 2024 – bệnh lao – TL-0123 – Phần I mục 1.5; Phần II mục 1.1 Bảng 1",
+  "BYT QĐ 361/QĐ-BYT 2014 – bệnh cơ xương khớp – TL-0286 – Hội chứng đau thắt lưng, mục 4.1, 4.2.1, 5",
+  "JSGE 2026 – loét dạ dày tá tràng – TL-0190 – Hình 7; ACG 2022 GERD – TL-0212 – KC 8 (thời điểm uống PPI)",
+  "Không có trong tài liệu đã tải: thành phần, độc tính của thuốc bắc; liều paracetamol an toàn khi men gan tăng; chống chỉ định, tương tác gan của itopride, amitriptylin; mốc hẹn 1, 4, 8 tuần; ngưỡng cà phê, bia, thuốc lá."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-19 (bản 1). Đọc: TL-0178 (toàn văn), TL-0179 (Statement 3–6, Bảng 2), TL-0191 ban_02 (B1, Clinical Evaluation, Treatment), TL-0193 (Statement 1–6, 20–32), TL-0232, TL-0213, TL-0215 ban_02 (WG1 Statement 3, 4), TL-0231 (khuyến cáo 7–19, phân độ, Hình 1, 2), TL-0123 (Phần I mục 1.5, Phần II mục 1.1), TL-0286 (Hội chứng đau thắt lưng). Sổ mâu thuẫn đã áp dụng: tuổi nội soi, xét nghiệm cơ bản (TH-0025), thời gian PPI, liều tối đa amitriptylin (TH-0083), giờ uống PPI (TH-0295).",
+  "Biến chứng 'do bỏ sót' = tổn thương gan do thuốc bắc không rõ thành phần ở lượt 2, hồi phục lượt 3, không đổi chẩn đoán đích. ULN ALT 40 U/L là giả định của phòng khám; ACG 2017 nói ULN từng phòng khác nhau (đề xuất 29–33 U/L cho nam), mức phân độ vẫn là 'vừa'.",
+  "UBT âm tính nên không có phác đồ diệt H. pylori trong ca (dương tính thì diệt: VNAGE 2024 KC 6). Lượt 3: nội soi (c) theo VNAGE 2024 KC 11 và Rome V; ACG-CAG 2017 không nội soi mà thêm thuốc (a): ghi cả hai, đề xuất mục mới trong _mau_thuan.md."
+ ]
+}
