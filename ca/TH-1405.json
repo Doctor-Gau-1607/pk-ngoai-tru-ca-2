@@ -1,0 +1,814 @@
+{
+ "ma_ca": "TH-1405",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_viem_tuy_cap",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Viêm tụy cấp",
+  "chan_doan_phai_loai_tru": [
+   "Thủng tạng rỗng",
+   "Nhồi máu cơ tim"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Công nhân cạo mủ cao su",
+  "yeu_to_khoi_phat": "Khởi phát sau tiếp xúc hóa chất (acid đánh đông mủ)",
+  "thuoc_dang_dung": "Vitamin và thực phẩm chức năng tự mua",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Văn Hưng",
+  "tuoi": 47,
+  "gioi": "Nam",
+  "nghe": "Công nhân cạo mủ cao su",
+  "can_nang": 78,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi ông là 'anh'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Ít nói, trả lời cộc, hay ngắt lời; sợ nghỉ làm mất công và tự cho mình là người khỏe. Tin chắc bệnh do 'thuốc' hoặc 'hóa chất ở vườn'. Hiểu biết y khoa ít.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: mua gói thuốc đau dạ dày ở hiệu thuốc, uống 5 ngày. Hỏi chung chung 'có uống thuốc gì không' thì chỉ kể vitamin, thực phẩm chức năng; chỉ khai thuốc dạ dày/giảm co thắt khi bác sĩ hỏi cụ thể đã mua thuốc gì chữa đau bụng, mấy ngày.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#a9714b",
+   "toc": "#2b2623",
+   "kieuToc": "ngan",
+   "ao": "#5b6f5a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đau bụng trên, nghi do thuốc đang uống",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Nguyễn Văn Hưng, 47 tuổi, công nhân cạo mủ cao su. Đến vì đau bụng trên rốn mấy ngày nay, muốn hỏi có phải do thuốc đang uống. Sinh hiệu: HA 128/82 mmHg, mạch 92 l/p, nhiệt độ 37,6 °C, nhịp thở 20 l/p, SpO₂ 97%.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Ông Hưng nôn, ăn không nổi, ure 8,4 mmol/L, Hct 0,47 và CRP 148 mg/L: cho về uống thuốc thì thiếu dịch nặng thêm vì không uống được. Triglycerid 14,8 mmol/L không hạ nếu không có insulin và nhịn ăn có kiểm soát, nên tụy tiếp tục viêm; hai ngày sau ông có thể khó thở, tiểu rất ít (suy tạng); thể nặng tử vong 20–50% (QĐ 1493/2015 mục 1; ACG 2024 Key concept 8–9, IAP 2025 khuyến cáo 64, 82). Ông làm thuê theo ngày, đến muộn nữa sẽ tốn nhiều hơn.",
+    "cap_cuu": "Gọi xe cấp cứu và đẩy ông vào khoa cấp cứu hồi sức khi ông chưa suy tạng (mạch 92, SpO₂ 97%, creatinin 98 µmol/L) là quá tay: IAP 2025 điểm thực hành 15 chỉ dùng ICU khi suy tạng từ độ 2 trở lên. Ông bị đưa vào đơn vị chi phí cao, nằm giữa bệnh nhân nặng, sợ hãi thêm, trong khi cần giường nội khoa theo dõi suy tạng và truyền dịch."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đau bụng trên mấy bữa nay. Tôi uống vitamin với thuốc bổ, không biết có phải do mấy thứ đó không.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "128/82",
+    "nhiet": "37,6",
+    "nhip_tho": 20,
+    "spo2": 97,
+    "canh_bao": [
+     "Nhiệt độ 37,6 °C",
+     "Nhịp thở 20 l/p"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau bụng trên rốn 5 ngày, nay đau tăng lại và nôn. Ông nghi do thuốc (vitamin, thực phẩm chức năng) hoặc hóa chất ở vườn cao su.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem_dau",
+     "noi_dung": "Đau liên tục vùng trên rốn lệch trái, lan lên hạ sườn trái và phía dưới ngực trái; mức 5–6/10, không lan ra lưng. Đau tăng sau ăn trưa nay, nằm co người đỡ hơn. Không liên quan gắng sức, không vã mồ hôi, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau: lệch chuẩn, dễ nhầm đau ngực/dạ dày"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Chiều thứ Bảy vừa rồi đi làm, pha và đổ acid đánh đông mủ, hít mùi hắc nhiều; tối đó bắt đầu đau, nôn 1 lần. Tối hôm ấy có ăn thịt quay và uống 2 lon bia.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau tiếp xúc hóa chất"
+    },
+    {
+     "id": "tu_dung_thuoc",
+     "noi_dung": "Từ hôm đau, ông ra hiệu thuốc mua gói thuốc 'đau dạ dày': omeprazol 20 mg 1 viên sáng và hyoscin butylbromid (Buscopan) 10 mg 1 viên ngày 3 lần, uống 5 ngày; thuốc làm đau giảm một nửa 2 ngày đầu, rồi tăng lại. Không uống thuốc giảm đau nhóm NSAID, không corticoid.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì ông chỉ kể vitamin và thực phẩm chức năng. Chỉ kể gói thuốc khi bác sĩ hỏi đã mua thuốc gì chữa đau bụng, uống mấy ngày.",
+     "k": 1,
+     "y": "Tự uống thuốc 5 ngày (làm mờ bệnh cảnh)"
+    },
+    {
+     "id": "vitamin_tpcn",
+     "noi_dung": "Đang uống vitamin tổng hợp B–C mỗi sáng và viên thực phẩm chức năng 'bổ gan, hạ mỡ' (chiết xuất cúc gai, actiso) mua qua mạng khoảng 6 tháng nay. Ông sợ chính các viên này gây đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: vitamin/thực phẩm chức năng"
+    },
+    {
+     "id": "mo_mau",
+     "noi_dung": "Hai năm trước khám sức khỏe công ty được báo 'mỡ máu cao', chưa bao giờ điều trị, không tái khám. Không biết có tiểu đường; mẹ bị tiểu đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mỡ máu cao chưa điều trị; yếu tố nguy cơ chuyển hóa"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Bia 2–3 lon vào cuối tuần, mỗi lần khoảng 2 lon, nhiều năm nay; không uống rượu mạnh hằng ngày. Hút 8 điếu thuốc lá mỗi ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rượu: chưa đạt mức rượu gây viêm tụy"
+    },
+    {
+     "id": "soi_mat",
+     "noi_dung": "Chưa từng đau quặn hạ sườn phải, không vàng da, không phân bạc màu, không sốt rét run.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc sỏi mật/đường mật"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Chưa từng đau ngực khi gắng sức, chưa từng nhồi máu; không tiền sử huyết áp cao. Cha mất vì nhồi máu cơ tim năm 62 tuổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử tim mạch; yếu tố nguy cơ"
+    },
+    {
+     "id": "dau_nhon",
+     "noi_dung": "Không đau đột ngột dữ dội kiểu 'dao đâm', bụng không cứng; không đi ngoài ra máu hay phân đen; trung tiện bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc thủng tạng rỗng/xuất huyết tiêu hóa"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Từ sáng nay ăn không nổi, nôn 2 lần sau bữa trưa, nôn ra thức ăn rồi dịch vàng. Uống ít nước, tiểu ít, nước tiểu sẫm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu thiếu dịch"
+    },
+    {
+     "id": "chi_phi",
+     "noi_dung": "Làm thuê theo ngày, nghỉ là mất tiền; có thẻ bảo hiểm y tế. Vợ ở nhà lo con học.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Đồng nghiệp ở vườn cao su vừa bị đau bụng cấp phải mổ. Ông lo mình dính 'độc' của hóa chất hoặc thuốc nên muốn biết thuốc nào gây đau để bỏ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông lo nhất điều gì, hoặc vì sao ông nghĩ do thuốc.",
+     "k": 1,
+     "y": "Động cơ thật: nghi tác dụng phụ của thuốc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, môi khô, niêm mạc hơi khô, không vàng da, không hạch.",
+     "k": 1,
+     "hien": "Tỉnh, môi khô."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 128/82 mmHg, mạch 92; đứng 3 phút 118/76, mạch 108, hơi choáng. Gợi ý thiếu dịch.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng chướng nhẹ, mềm; ấn đau thượng vị và hạ sườn trái, phản ứng thành bụng nhẹ vùng thượng vị, không co cứng, không dấu phúc mạc; nhu động giảm; Murphy âm; điểm sườn lưng trái đau (TL-0034 mục 3.1c); không vết bầm Cullen/Grey Turner; gan lách không to.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang giảm nhẹ đáy trái, không ran.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, nhịp thở 20 l/p, thở êm.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "da": {
+     "a": "Da khô; không ban, không u vàng, không vàng da, không vết bầm.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 90 l/p. Không ST chênh lên hay xuống, không sóng Q, không T âm.",
+     "n": "Đau thượng vị lan ngực là triệu chứng tương đương đau ngực, cha mất do NMCT, hút thuốc: ECG đọc trong 10 phút (ESC 2023 mục 3.1.1, 3.2); chẩn đoán phân biệt NMCT trong VTC (TL-0034 mục 4.2)."
+    },
+    "trop": {
+     "v": "e",
+     "r": "hs-TnT 5 ng/L (ngưỡng < 14)",
+     "n": "Đau 5 ngày nhưng hôm nay đau lại tăng: hs-TnT thấp cộng ECG bình thường loại trừ hội chứng vành cấp (ESC 2023 Hình 6; QĐ 2187/2019 Hình 3)."
+    },
+    "lipase": {
+     "v": "e",
+     "r": "Lipase 150 U/L (giới hạn trên phòng xét nghiệm 60 U/L): gấp 2,5 lần, chưa đủ 3 lần.",
+     "n": "Lipase ưu tiên hơn amylase; amylase có thể bình thường trong VTC do tăng triglycerid, và về bình thường sau 3–5 ngày (ACG 2024 mục Diagnosis). Dưới 3 lần giới hạn trên không loại trừ VTC (IAP 2025 khuyến cáo 1, chú giải)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 13,4 G/L · Neutrophil 82% · Hb 156 g/L · Hct 0,47 · TC 268 G/L",
+     "bang": {
+      "wbc": 13.4,
+      "neu_pct": 82.0,
+      "neu": 11.0,
+      "lym_pct": 12.0,
+      "lym": 1.6,
+      "mono_pct": 5.0,
+      "mono": 0.67,
+      "eos_pct": 0.5,
+      "eos": 0.07,
+      "baso_pct": 0.5,
+      "baso": 0.07,
+      "rbc": 5.4,
+      "hgb": 156,
+      "hct": 0.47,
+      "mcv": 87.0,
+      "mch": 28.9,
+      "mchc": 332,
+      "rdw": 13.0,
+      "plt": 268
+     },
+     "n": "Hct 0,47 > mục tiêu < 44% (IAP 2025 khuyến cáo 12): cô máu; Hct và BUN cao là yếu tố nguy cơ nặng (ACG 2024 Key concept 9)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Creatinin 98 µmol/L · Ure 8,4 mmol/L",
+     "n": "Ure 8,4 mmol/L (khoảng 50 mg/dL) > mục tiêu ure < 40 mg/dL (IAP 2025 khuyến cáo 12): thiếu dịch. Chưa suy thận."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 148 mg/L",
+     "n": "CRP cao kèm SIRS dự đoán nặng (IAP 2025 khuyến cáo 4); CRP cũng dùng khi xét xuất viện (khuyến cáo 82). Không dùng CRP để bắt đầu kháng sinh (khuyến cáo 18)."
+    },
+    "lipid": {
+     "v": "e",
+     "r": "Mẫu huyết thanh đục như sữa. Triglycerid 14,8 mmol/L (khoảng 1.310 mg/dL) · Cholesterol TP 9,6 mmol/L · HDL-C 0,8 mmol/L · LDL-C không tính được.",
+     "n": "TG > 1.000 mg/dL (11,3 mmol/L) mới được coi là nguyên nhân VTC (ACG 2024 Key concept 2, mục Etiology); huyết thanh đục sữa gặp tới 20% VTC (ACG 2024)."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 52 · ALT 58 U/L",
+     "n": "Xét nghiệm gan để tìm nguyên nhân sỏi mật (IAP 2025 điểm thực hành 2): AST/ALT chỉ tăng nhẹ, không gợi ý sỏi mật."
+    },
+    "chuc_nang_gan": {
+     "v": "u",
+     "r": "Bilirubin TP 14 µmol/L · ALP 88 · GGT 74 U/L",
+     "n": "Không ứ mật (IAP 2025 điểm thực hành 2)."
+    },
+    "canxi": {
+     "v": "e",
+     "r": "Canxi toàn phần 2,25 mmol/L",
+     "n": "Canxi máu là một nguyên nhân cần loại (IAP 2025 điểm thực hành 2; TL-0034 mục 2)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose 9,4 mmol/L",
+     "n": "Đái tháo đường cùng tăng TG: insulin là điều trị hạ TG ở người ĐTĐ (IAP 2025 khuyến cáo 64)."
+    },
+    "hba1c": {
+     "v": "u",
+     "r": "HbA1c 7,9%",
+     "n": "Chẩn đoán mới đái tháo đường, gợi ý mỡ máu cao có nền chuyển hóa."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Gan nhiễm mỡ độ 2. Túi mật không sỏi, không bùn; ống mật chủ 4 mm. Tụy khó quan sát do hơi ruột; ít dịch quanh tụy vùng đuôi.",
+     "n": "Siêu âm bụng cho mọi người VTC để tìm sỏi mật (ACG 2024 khuyến cáo 1; IAP 2025 điểm thực hành 2). Siêu âm thấy tụy phù hay dịch quanh tụy cũng là tiêu chuẩn hình ảnh (TL-0034 mục 3.2c)."
+    },
+    "ct_bung": {
+     "v": "u",
+     "r": "CT bụng có cản quang (ngày thứ 5): đuôi và thân tụy to, thâm nhiễm mỡ quanh tụy, một ổ dịch quanh tụy ở đuôi tụy kích thước 2 cm, tụy ngấm thuốc đều, không hoại tử. Không hơi tự do ổ bụng, không khí ngoài lòng ruột, không giãn quai ruột, không phình tách động mạch chủ. Gan nhiễm mỡ.",
+     "n": "Có chỉ định vì chẩn đoán chưa chắc (enzym < 3 lần) và đã quá 72–96 giờ kể từ khởi phát (IAP 2025 khuyến cáo 7; ACG 2024 Key concept 1). CT cũng loại thủng tạng rỗng (WSES 2020 tr. 4)."
+    },
+    "xq_bung": {
+     "v": "u",
+     "r": "X-quang bụng đứng: không liềm hơi dưới cơ hoành, vài quai ruột non giãn nhẹ vùng thượng vị.",
+     "n": "Có thể thay CT khi CT chưa sẵn (WSES 2020 tr. 4); khi đã làm CT thì không cần thêm."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "Phổi hai bên sáng, góc sườn hoành trái hơi tù. Không liềm hơi.",
+     "n": "Tràn dịch màng phổi nhỏ là dấu thường gặp trong VTC (TL-0034 mục 3.1a)."
+    },
+    "pct": {
+     "v": "a",
+     "r": "Procalcitonin 0,6 ng/mL",
+     "n": "Không cần: CRP, bạch cầu hay procalcitonin đơn độc không dùng để bắt đầu kháng sinh (IAP 2025 khuyến cáo 18)."
+    },
+    "echo": {
+     "n": "ECG và hs-TnT bình thường, đau không liên quan gắng sức: không cần."
+    },
+    "ct_mach_vanh": {
+     "n": "Không cần: ECG và hs-TnT đã loại hội chứng vành cấp."
+    },
+    "noi_soi": {
+     "n": "Không cần: không có xuất huyết tiêu hóa, chẩn đoán đã rõ bằng CT. Nội soi không giúp tìm nguyên nhân VTC do TG."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tụy cấp do tăng triglycerid máu nặng (TG 14,8 mmol/L) ở người mới phát hiện đái tháo đường, đến muộn sau 5 ngày tự uống thuốc; có ổ dịch quanh tụy; chưa suy tạng; cần nhập viện",
+     "ok": 1,
+     "n": "Hai trong ba tiêu chuẩn: đau bụng trên cấp và hình ảnh CT; lipase chỉ gấp 2,5 lần (IAP 2025 khuyến cáo 1). Nguyên nhân: TG > 1.000 mg/dL, không sỏi mật, rượu nhẹ (ACG 2024 Key concept 2)."
+    },
+    {
+     "t": "Thủng tạng rỗng",
+     "n": "Bụng mềm, không co cứng, không liềm hơi, CT không hơi tự do (WSES 2020 tr. 4; TL-0034 mục 4.2)."
+    },
+    {
+     "t": "Nhồi máu cơ tim (thành dưới)",
+     "n": "ECG không biến đổi ST–T, hs-TnT 5 ng/L, đau không theo gắng sức (ESC 2023 mục 3.1.1, Hình 6)."
+    },
+    {
+     "t": "Viêm tụy cấp do thuốc (vitamin, thực phẩm chức năng, omeprazol, hyoscin) hoặc do hóa chất tiếp xúc",
+     "n": "Thuốc là nguyên nhân hiếm và hay bị quy oan khi có nguyên nhân khác (ACG 2024 mục Etiology); TG > 1.000 mg/dL đã giải thích. Viêm tụy do hóa chất nghề nghiệp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm tụy cấp do sỏi mật hoặc do rượu",
+     "n": "Siêu âm và CT không sỏi, AST/ALT, bilirubin, ALP bình thường; bia nhẹ, không đạt mức nhiều năm trên 50 g/ngày (ACG 2024 mục Etiology)."
+    },
+    {
+     "t": "Viêm dạ dày – loét dạ dày",
+     "n": "Đau tăng khi dùng PPI, không nôn máu hay phân đen; lipase tăng và CT thấy tụy viêm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích đây là viêm tụy cấp chứ không phải thuốc gây đau hay đau dạ dày; cần nhập viện bệnh viện để theo dõi suy tạng, truyền dịch, giảm đau và hạ triglycerid; viết giấy nhập viện kèm kết quả",
+     "v": "c",
+     "n": "Chưa đạt tiêu chí xuất viện: đang nôn, chưa ăn được, còn cần giảm đau (IAP 2025 khuyến cáo 82); theo dõi sát suy tạng 48 giờ (ACG 2024 Key concept 8). Thể nặng cần hồi sức (QĐ 1493/2015 mục 5.1); tử vong thể nặng 20–50% (QĐ 1493/2015 mục 1)."
+    },
+    {
+     "t": "Bắt đầu bù dịch ngay tại phòng khám: Ringer lactat 1,5 mL/kg/giờ (khoảng 120 mL/giờ), có bolus nếu tụt huyết áp, hoặc muối đẳng trương 0,9% theo hướng dẫn BYT",
+     "v": "c",
+     "n": "Mâu thuẫn thật đã có trong sổ: IAP 2025 khuyến cáo 10–11 và ACG 2024 khuyến cáo 3–4: Ringer lactat vừa phải; QĐ 1493/2015 mục 5.2–5.3a: muối đẳng trương 250–300 mL/giờ cho thể nặng. 1,5 mL/kg/giờ thận trọng hơn."
+    },
+    {
+     "t": "Giảm đau: paracetamol 1 g truyền tĩnh mạch trong 15 phút hoặc NSAID/opioid",
+     "v": "c",
+     "n": "QĐ 1493/2015 mục 5.2 (paracetamol) hoặc IAP 2025 khuyến cáo 14 (opioid hoặc NSAID); liều NSAID/opioid không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh",
+     "v": "c",
+     "n": "Không có nhiễm trùng ngoài tụy hay hoại tử nhiễm trùng; không dùng dự phòng (IAP 2025 khuyến cáo 17–19; ACG 2024 khuyến cáo 8)."
+    },
+    {
+     "t": "Ghi rõ vào giấy nhập viện: TG 14,8 mmol/L, glucose 9,4 mmol/L, HbA1c 7,9%, đã tự dùng omeprazol và hyoscin 5 ngày",
+     "v": "c",
+     "n": "Người ĐTĐ có VTC do TG dùng insulin hạ TG (IAP 2025 khuyến cáo 64); thuốc tự dùng ảnh hưởng thời gian và triệu chứng."
+    },
+    {
+     "t": "Trả lời nỗi lo thuốc: vitamin, thực phẩm chức năng, omeprazol, hyoscin không phải thủ phạm; nguyên nhân là mỡ máu rất cao; ngưng hyoscin và thực phẩm chức năng, mang hết thuốc theo; bỏ bia rượu",
+     "v": "c",
+     "n": "Thuốc ít gây VTC, hay bị quy oan (ACG 2024 mục Etiology). Bỏ rượu là một phần phòng tái phát (IAP 2025 điểm thực hành 91). Hóa chất nghề: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn trong lúc đi nhập viện: thở nhanh, khó thở, lú lẫn, ngất, sốt rét run, tiểu rất ít thì báo ngay nhân viên y tế",
+     "v": "c",
+     "n": "Dấu hiệu suy tạng hoặc nhiễm trùng (TL-0034 mục 3.1b; IAP 2025 điểm thực hành 15)."
+    },
+    {
+     "t": "Gọi xe cấp cứu 115 chuyển ngay vì đau và nôn",
+     "v": "a",
+     "n": "Hợp lý nhưng không bắt buộc: huyết động ổn, chưa suy tạng; người nhà đưa đi bằng xe nhà vẫn an toàn."
+    },
+    {
+     "t": "Kê kháng sinh dự phòng ceftriaxone",
+     "v": "w",
+     "n": "Không dùng kháng sinh dự phòng (IAP 2025 khuyến cáo 19; ACG 2024 khuyến cáo 8)."
+    },
+    {
+     "t": "Ngay lập tức cho nhịn ăn uống và nuôi dưỡng tĩnh mạch kéo dài",
+     "v": "w",
+     "n": "Tránh nuôi tĩnh mạch trừ khi đường ruột không dùng được (ACG 2024 Key concept 19); VTC do TG chỉ nhịn 48 giờ đầu rồi ăn mềm ít mỡ (IAP 2025 khuyến cáo 66)."
+    },
+    {
+     "t": "Chuyển làm MRCP hoặc siêu âm nội soi để tìm nguyên nhân trước",
+     "v": "w",
+     "n": "Nguyên nhân đã rõ (TG); chỉ cần khi VTC vô căn (IAP 2025 khuyến cáo 3)."
+    },
+    {
+     "t": "Xem là viêm dạ dày: tăng liều omeprazol, thêm hyoscin, cho về",
+     "v": "w",
+     "n": "Đau không đỡ với PPI, lipase tăng và CT thấy tụy viêm."
+    },
+    {
+     "t": "Kết luận không phải viêm tụy vì lipase chưa gấp 3 lần, cho về kèm hẹn 1 tuần",
+     "v": "h",
+     "n": "Lipase < 3 lần không loại trừ VTC (IAP 2025 khuyến cáo 1); bỏ sót bệnh có nguy cơ suy tạng, trong 48 giờ đầu có thể nặng lên (ACG 2024 Key concept 8)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tụy cấp: đau bụng trên cấp + hình ảnh CT (tụy phù, thâm nhiễm mỡ, ổ dịch quanh tụy); lipase gấp 2,5 lần",
+     "Nguyên nhân: tăng triglycerid máu nặng (14,8 mmol/L), kèm đái tháo đường mới",
+     "Thể: chưa suy tạng, có SIRS nhẹ (mạch 92–108, BC 13,4), cô máu; cần theo dõi 48 giờ",
+     "Đã loại trừ thủng tạng rỗng và nhồi máu cơ tim",
+     "Chưa có bằng chứng thuốc hay hóa chất nghề là nguyên nhân"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: đau trên rốn lan hạ sườn trái và phía dưới ngực trái, không lan lưng, mức vừa vì đã dùng hyoscin 5 ngày (hỏi cụ thể mới khai). Đây là điểm không điển hình: ACG 2024 mô tả đau thường lan ra lưng; vị trí và cường độ không tương quan với độ nặng (ACG 2024 mục Diagnosis).",
+     "Chẩn đoán dựa 2/3 tiêu chuẩn (IAP 2025 khuyến cáo 1; ACG 2024 mục Diagnosis; Atlanta sửa đổi, QĐ 1493/2015 mục 4.1): đau bụng + CT. Lipase 150 U/L chỉ gấp 2,5 lần vì đến sau 5 ngày và vì VTC do TG (ACG 2024: amylase có thể bình thường trong tăng TG). Dưới 3 lần không loại trừ (IAP 2025).",
+     "Nguyên nhân: sỏi mật 40–70% và rượu 25–35% (ACG 2024); QĐ 1493/2015 mục 2 ghi rượu phổ biến ở Việt Nam, TG ngày càng hay gặp. Ca này không sỏi, rượu nhẹ; TG 14,8 mmol/L vượt 1.000 mg/dL (ACG 2024 Key concept 2). Vitamin, thực phẩm chức năng, omeprazol, hyoscin: không có trong tài liệu đã tải là nguyên nhân; thuốc là nguyên nhân hiếm, hay quy oan (ACG 2024).",
+     "Loại trừ nhồi máu cơ tim: đau thượng vị là triệu chứng tương đương đau ngực (ESC 2023 mục 3.1.1); ECG sớm (mục 3.2); hs-TnT 5 ng/L (ESC 2023 Hình 6).",
+     "Loại trừ thủng tạng rỗng: không có đau đột ngột dữ dội, bụng không cứng; X-quang bụng đứng hoặc CT không hơi tự do (WSES 2020 tr. 4; TL-0034 mục 4.2).",
+     "Không chỉ định: ECG gắng sức, CT mạch vành, nội soi, MRCP, theo dõi lipase lặp lại (không liên quan độ nặng hay quyết định ăn lại, ACG 2024 mục Diagnosis), procalcitonin (IAP 2025 khuyến cáo 18)."
+    ],
+    "phan_tich_xu_tri": [
+     "Vì sao nhập viện: chưa đạt tiêu chí xuất viện (IAP 2025 khuyến cáo 82); có ổ dịch quanh tụy, SIRS nhẹ, cô máu, TG rất cao cần hạ nhanh (khuyến cáo 64). Nguồn lực đầy đủ nên làm được đủ xét nghiệm tại chỗ, nhưng điều trị nội trú vẫn cần.",
+     "Dịch: Ringer lactat 1,5 mL/kg/giờ (IAP 2025 khuyến cáo 10–11; ACG 2024 khuyến cáo 3–4), thận trọng hơn mức muối đẳng trương 250–300 mL/giờ của QĐ 1493/2015 mục 5.3a (viết cho thể nặng). Đích: ure < 40 mg/dL, Hct < 44%, nước tiểu 0,5 mL/kg/giờ (IAP 2025 khuyến cáo 12; QĐ 1493/2015 mục 5.3a).",
+     "Giảm đau: paracetamol 1 g truyền tĩnh mạch (QĐ 1493/2015 mục 5.2) hoặc NSAID/opioid (IAP 2025 khuyến cáo 14); tránh morphin theo QĐ 1493/2015 mục 5.3a nhưng IAP không nêu hạn chế (hai ý khác nhau, không nguồn nào nói cách kia gây hại).",
+     "Hạ TG ở viện: insulin tiêm tĩnh mạch ở người ĐTĐ (IAP 2025 khuyến cáo 64); nhịn ăn 48 giờ rồi ăn mềm ít mỡ (khuyến cáo 66), khác với VTC nhẹ thông thường ăn sớm trong 24–48 giờ (ACG 2024 khuyến cáo 10–11; IAP khuyến cáo 22) vì khác nhóm bệnh, không phải mâu thuẫn.",
+     "Kháng sinh: không dùng dự phòng (IAP 2025 khuyến cáo 19; ACG 2024 khuyến cáo 8).",
+     "Cắt túi mật không đặt ra vì không có sỏi (ACG 2024 khuyến cáo 5, Key concept 21 chỉ áp dụng cho VTC do sỏi)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ringer lactat",
+      "ham_luong": "500 mL/chai",
+      "lieu": "1,5 mL/kg/giờ (khoảng 120 mL/giờ cho 78 kg), thêm bolus nếu tụt huyết áp hay thiếu dịch rõ",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Bắt đầu ngay tại phòng khám, tiếp tục ở viện",
+      "so_ngay": "Đánh giá lại mỗi 6 giờ trong 24–48 giờ đầu",
+      "ghi_chu": "IAP 2025 khuyến cáo 10–12; ACG 2024 khuyến cáo 3–4, Key concept 12. Hoặc NaCl 0,9% 250–300 mL/giờ trong 24 giờ đầu theo QĐ 1493/2015 mục 5.3a (thể nặng); cách thứ nhất thận trọng hơn."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "10 mg/mL, chai 100 mL",
+      "lieu": "1 g",
+      "duong": "Truyền tĩnh mạch trong 15 phút",
+      "thoi_diem": "Khi đau",
+      "so_ngay": "Theo diễn tiến đau",
+      "ghi_chu": "QĐ 1493/2015 mục 5.2. Hoặc NSAID/opioid (IAP 2025 khuyến cáo 14); liều không có trong tài liệu đã tải. Khoảng cách liều tối đa/ngày không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Insulin tiêm tĩnh mạch (tại bệnh viện)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có liều trong tài liệu đã tải",
+      "duong": "Tiêm/truyền tĩnh mạch",
+      "thoi_diem": "Trong 48 giờ đầu, theo dõi glucose",
+      "so_ngay": "Đến khi TG xuống dưới 5,7 mmol/L (500 mg/dL)",
+      "ghi_chu": "IAP 2025 khuyến cáo 64, 67. Bệnh viện thực hiện."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hyoscin, vitamin và thực phẩm chức năng tự mua cho tới khi bác sĩ cho phép; mang tất cả thuốc đã mua theo.",
+     "Từ nay không bia rượu (IAP 2025 điểm thực hành 91).",
+     "Chưa ăn uống thêm trong lúc chờ nhập viện; ở viện sẽ cho ăn lại khi bớt nôn và đỡ đau.",
+     "Báo ngay nếu thở nhanh, khó thở, lú lẫn, ngất, sốt rét run hoặc không tiểu."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Ông Nguyễn Văn Hưng, 47 tuổi, công nhân cạo mủ cao su, tái khám theo hẹn sau 3 tuần kể từ ngày ra viện, mang theo giấy ra viện. Ông cho biết đã hết đau. Sinh hiệu: HA 124/78 mmHg, mạch 78 l/p, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập lại ông Hưng khi ông đã hết đau, ăn đủ, CRP 2 mg/L, TG 3,9 mmol/L là không cần (IAP 2025 khuyến cáo 82, 67). Ông mất thêm tiền ngày công, nằm giữa bệnh viện và càng tin mình còn bệnh nặng; lo sợ thuốc càng tăng và dễ bỏ fenofibrat.",
+    "chuyen_tuyen": "Gửi ông đi MRCP hoặc siêu âm nội soi để tìm nguyên nhân khi nguyên nhân đã rõ (TG 14,8 mmol/L, không sỏi) là quá tay: các xét nghiệm đó dành cho VTC vô căn (IAP 2025 khuyến cáo 3). Ông tốn kém, nghỉ làm nhiều ngày, mà không thay đổi điều trị."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi hết đau rồi. Tôi muốn hỏi có uống lại vitamin với thuốc bổ được không, và bao giờ đi làm lại.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "124/78",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn sau 3 tuần kể từ khi ra viện. Hết đau, ăn uống bình thường. Muốn hỏi có uống lại vitamin, thực phẩm chức năng được không, và khi nào đi làm lại ở vườn cao su.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Hết đau bụng từ ngày thứ 4 sau ra viện. Ăn cơm bình thường, không nôn, không buồn nôn, không sốt, đi ngoài phân vàng thành khuôn, không phân nhờn nổi váng. Hơi mệt, chưa dám ăn thịt mỡ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chí hồi phục"
+    },
+    {
+     "id": "nam_vien",
+     "noi_dung": "Nằm bệnh viện 9 ngày, lâu hơn bác sĩ dự kiến vì triglycerid hạ chậm (ra viện còn 6,2 mmol/L) và lần ăn lại ngày thứ 3 bị buồn nôn, đau tăng nhẹ phải nhịn thêm một ngày. Truyền insulin, nghe nói chẩn đoán đái tháo đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến nội trú: khỏi chậm hơn dự kiến"
+    },
+    {
+     "id": "thuoc_hien_tai",
+     "noi_dung": "Ra viện được cho fenofibrat 1 viên sáng và metformin; uống đều, không quên, không đau cơ, không tiêu chảy. Đã bỏ hết vitamin và thực phẩm chức năng, bỏ bia, bỏ hyoscin, bỏ omeprazol từ khi nằm viện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc và bỏ rượu"
+    },
+    {
+     "id": "lo_thuoc",
+     "noi_dung": "Ông còn nghĩ chính viên 'bổ gan, hạ mỡ' làm mình đau, nên không dám uống bất cứ thuốc nào nữa và hỏi có nên bỏ cả fenofibrat, vì sợ 'thuốc lại làm đau'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông còn lo điều gì về thuốc, hoặc hỏi ông có định bỏ thuốc nào không.",
+     "k": 1,
+     "y": "Động cơ thật: nghi tác dụng phụ của thuốc"
+    },
+    {
+     "id": "giay_ra_vien",
+     "noi_dung": "Giấy ra viện: viêm tụy cấp do tăng triglycerid máu, đái tháo đường týp 2 mới; ổ dịch quanh tụy 2 cm; không sỏi mật. Ra viện ngày thứ 9; TG 6,2 mmol/L.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tóm tắt đợt nằm viện"
+    },
+    {
+     "id": "nguy_co_tai_phat",
+     "noi_dung": "Đau lại thì ông sẽ vào viện ngay; chưa từng sốt rét run hay vàng da; không sụt cân, không no sớm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc biến chứng muộn (nang giả tụy, nhiễm trùng)"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Muốn đi làm lại vì nghỉ là mất ngày công; sợ hóa chất đánh đông mủ làm bệnh tái lại, hỏi có phải đổi nghề.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Công việc và tiếp xúc hóa chất"
+    },
+    {
+     "id": "thuc_an",
+     "noi_dung": "Ăn cơm với rau, cá; hôm qua có ăn thử một miếng thịt kho không thấy đau. Chưa uống bia từ khi ra viện.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, không vàng da, ẩm; cân nặng 76 kg (giảm 2 kg).",
+     "k": 1,
+     "hien": "Tỉnh, niêm mạc hồng."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không đau khi ấn thượng vị, không phản ứng thành bụng, không sờ thấy khối, không đau điểm sườn lưng.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, thở êm.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "da": {
+     "a": "Da bình thường, không u vàng, không ban.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lipid": {
+     "v": "e",
+     "r": "Triglycerid lúc đói 3,9 mmol/L (khoảng 345 mg/dL) · Cholesterol TP 5,8 · HDL-C 0,9 mmol/L",
+     "n": "Kiểm TG lúc đói khoảng 1 tháng sau ra viện (ACG 2024 mục Etiology); mục tiêu duy trì dưới 500 mg/dL (5,7 mmol/L) để tránh tái phát (IAP 2025 khuyến cáo 67). Đã đạt."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 2 mg/L",
+     "n": "CRP về bình thường: dấu hiệu viêm hết (IAP 2025 khuyến cáo 82 dùng CRP khi xét xuất viện)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose lúc đói 6,3 mmol/L",
+     "n": "Theo dõi ĐTĐ mới sau đợt nằm viện (IAP 2025 khuyến cáo 88)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 28 · ALT 31 U/L",
+     "n": "Về bình thường; theo dõi men gan khi dùng fibrat và gan nhiễm mỡ (nguồn cụ thể cho fibrat: không có trong tài liệu đã tải)."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Tụy hiển thị được, kích thước bình thường, không còn ổ dịch quanh tụy; túi mật không sỏi; gan nhiễm mỡ độ 2.",
+     "n": "Xác nhận ổ dịch đã tiêu bằng siêu âm, không cần CT lặp (IAP 2025 điểm thực hành 8, khuyến cáo 3 cho VTC vô căn)."
+    },
+    "lipase": {
+     "v": "a",
+     "r": "Lipase 48 U/L (bình thường).",
+     "n": "Không cần: sau chẩn đoán, lipase không liên quan độ nặng, tiên lượng hay quyết định ăn lại/xuất viện (ACG 2024 mục Diagnosis)."
+    },
+    "hba1c": {
+     "v": "a",
+     "r": "HbA1c 7,3%",
+     "n": "Mới đo trong đợt nằm viện 3 tuần trước, chưa cần lặp; hẹn lại sau 3 tháng theo dõi đái tháo đường."
+    },
+    "ct_bung": {
+     "v": "a",
+     "r": "CT bụng: không còn ổ dịch, tụy bình thường.",
+     "n": "CT lặp chỉ khi dự định can thiệp hay xấu đi lâm sàng (IAP 2025 điểm thực hành 8); ca khỏi lâm sàng, siêu âm đã đủ. Thêm tia và chi phí 1.800.000 đồng."
+    },
+    "ctm": {
+     "n": "Không có dấu viêm hay thiếu máu: không cần."
+    },
+    "ecg": {
+     "n": "Không đau ngực, không triệu chứng tim: không cần."
+    },
+    "trop": {
+     "n": "Không đau ngực, ECG và hs-TnT lượt 1 đã loại: không cần."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tụy cấp do tăng triglycerid máu đã khỏi lâm sàng, đang ổn định sau điều trị; nằm viện kéo dài vì triglycerid hạ chậm; đái tháo đường týp 2 mới đang điều trị",
+     "ok": 1,
+     "n": "Hết đau, ăn đủ, không sốt, CRP bình thường, bụng mềm, ổ dịch đã tiêu trên siêu âm (IAP 2025 khuyến cáo 82); TG 3,9 mmol/L dưới 5,7 mmol/L (IAP khuyến cáo 67)."
+    },
+    {
+     "t": "Nang giả tụy hoặc ổ dịch quanh tụy tồn tại",
+     "n": "Không đau, không no sớm; siêu âm hết ổ dịch. Nang giả > 6 cm và kéo dài > 6 tuần mới xét can thiệp (QĐ 1493/2015 mục 5.3d)."
+    },
+    {
+     "t": "Tái phát viêm tụy cấp",
+     "n": "Không đau, TG dưới 500 mg/dL; nguy cơ tái phát khi TG > 500 mg/dL (IAP 2025 khuyến cáo 67; ACG 2024 mục Etiology: 20–29% tái phát sau đợt đầu)."
+    },
+    {
+     "t": "Suy tụy ngoại tiết hoặc ung thư tụy",
+     "n": "Phân vàng thành khuôn, không sụt cân đáng kể (giảm 2 kg do ăn kiêng/nằm viện); nguyên nhân đã rõ nên không đặt ra khối u (ACG 2024 Key concept 3 chỉ áp dụng khi chưa rõ nguyên nhân, > 40 tuổi). IAP 2025 khuyến cáo 89: thuốc men tụy khi có phân mỡ hay suy dinh dưỡng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi viêm tụy: hết đau, ăn uống bình thường, không sốt, CRP bình thường, bụng mềm; hỏi diễn tiến nội trú và giấy ra viện",
+     "v": "c",
+     "n": "Tiêu chí ổn định: dung nạp ăn, CRP/bạch cầu cải thiện, không sốt, không hoặc ít thuốc giảm đau (IAP 2025 khuyến cáo 82). Mốc 3 tuần là lịch hẹn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kiểm tra triglycerid lúc đói tại lượt này; duy trì dưới 500 mg/dL (5,7 mmol/L); giải thích hạ TG là cách phòng tái phát",
+     "v": "c",
+     "n": "IAP 2025 khuyến cáo 67; ACG 2024 mục Etiology (tái đánh giá TG lúc đói 1 tháng sau ra viện)."
+    },
+    {
+     "t": "Tiếp tục fenofibrat và thuốc đái tháo đường theo đơn bệnh viện; không tự bỏ vì sợ tác dụng phụ",
+     "v": "c",
+     "n": "Fenofibrat là lựa chọn đầu tay khi TG ≥ 500 mg/dL, giảm TG 30–50% (ACC/AHA 2026 dyslipidemia, mục 4.2.1.3). IAP 2025: fenofibrat dùng rộng nhưng chưa có thử nghiệm chứng minh phòng tái phát VTC. Liều fenofibrat không có trong tài liệu đã tải bản chữ."
+    },
+    {
+     "t": "Giải thích viên thực phẩm chức năng 'bổ gan, hạ mỡ': hiện không thể coi là nguyên nhân; chưa uống lại, nếu muốn dùng hỏi bác sĩ; vitamin tổng hợp không bị cấm nhưng cũng không cần",
+     "v": "c",
+     "n": "Thuốc là nguyên nhân hiếm, hay bị quy oan (ACG 2024 mục Etiology). Bằng chứng về thực phẩm chức năng gây hay phòng VTC: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ăn nhạt mỡ, nhiều rau, giữ không bia rượu, kiểm soát đường huyết; hẹn tái khám 3 tháng kèm lipid, HbA1c",
+     "v": "c",
+     "n": "Bỏ rượu giúp phòng tái phát (IAP 2025 điểm thực hành 91). Chế độ ăn cụ thể và mốc 3 tháng: không có trong tài liệu đã tải; theo dõi ĐTĐ sau VTC (IAP khuyến cáo 88) áp dụng cho người chưa ĐTĐ, ca này đã chẩn đoán ĐTĐ."
+    },
+    {
+     "t": "Cho đi làm lại, tránh việc nặng 1–2 tuần đầu; dùng đồ bảo hộ khi pha acid; giải thích hóa chất không phải nguyên nhân đã chứng minh",
+     "v": "c",
+     "n": "Bằng chứng VTC do hóa chất nghề nghiệp và đồ bảo hộ: không có trong tài liệu đã tải; nguyên nhân của ca là TG."
+    },
+    {
+     "t": "Dặn khi nào quay lại ngay: đau bụng trên tái lại, nôn, sốt, vàng da, no sớm sau ăn, sụt cân",
+     "v": "c",
+     "n": "Dấu hiệu tái phát hoặc biến chứng (nang giả; QĐ 1493/2015 mục 5.3d); IAP 2025 khuyến cáo 87: theo dõi định kỳ sau đợt VTC."
+    },
+    {
+     "t": "Siêu âm bụng kiểm tra tụy và ổ dịch",
+     "v": "a",
+     "n": "Hợp lý để xác nhận ổ dịch đã tiêu trước khi cho trở lại lao động."
+    },
+    {
+     "t": "Làm lại lipase và CT bụng cản quang cho chắc",
+     "v": "w",
+     "n": "Lipase không dùng theo dõi sau chẩn đoán (ACG 2024); CT lặp chỉ khi dự định can thiệp hay xấu đi (IAP 2025 điểm thực hành 8)."
+    },
+    {
+     "t": "Cho nhập viện lại hoặc chuyển tuyến MRCP/siêu âm nội soi để tìm nguyên nhân khác",
+     "v": "w",
+     "n": "Đã khỏi và nguyên nhân đã rõ; MRCP/EUS chỉ cho VTC vô căn (IAP 2025 khuyến cáo 3)."
+    },
+    {
+     "t": "Đồng ý để ông ngưng fenofibrat và chỉ ăn kiêng vì ông sợ tác dụng phụ",
+     "v": "h",
+     "n": "TG có thể tăng lại trên 500 mg/dL, nguy cơ tái phát VTC (IAP 2025 khuyến cáo 67; ACG 2024 mục Etiology: nguy cơ tăng khi TG cao)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tụy cấp do tăng triglycerid máu, đã khỏi lâm sàng; hồi phục chậm hơn dự kiến (nằm 9 ngày) do TG hạ chậm",
+     "Triglycerid 3,9 mmol/L, dưới mục tiêu 5,7 mmol/L",
+     "Đái tháo đường týp 2 mới, đang điều trị",
+     "Không còn ổ dịch quanh tụy, không biến chứng",
+     "Nỗi lo: thuốc/thực phẩm chức năng gây bệnh, không có bằng chứng"
+    ],
+    "phan_tich_chan_doan": [
+     "Quỹ đạo bình thường sau VTC thể nhẹ–vừa: hết đau, ăn lại bình thường, không sốt, CRP trở về bình thường, siêu âm hết ổ dịch (IAP 2025 khuyến cáo 82). Bệnh nhân chậm hơn dự kiến ở nội trú vì TG hạ chậm và lần ăn lại đầu phải nhịn thêm, nhưng nay hồi phục đủ nên không cần thăm dò thêm.",
+     "Dấu hiệu quỹ đạo bất thường cần lo: đau tái lại, sốt, nôn, no sớm, vàng da, khối thượng vị; ACG 2024 Key concept 1: CT hoặc MRI khi không cải thiện sau 48–72 giờ; nang giả > 6 cm kéo dài > 6 tuần mới cần can thiệp (QĐ 1493/2015 mục 5.3d).",
+     "Nguyên nhân tái phát cần xử trí: TG phải duy trì dưới 500 mg/dL (IAP 2025 khuyến cáo 67); bỏ rượu (khuyến cáo 91). Nguyên nhân sỏi mật đã loại nên không đặt ra cắt túi mật (ACG 2024 Key concept 21 chỉ áp dụng cho VTC do sỏi).",
+     "Vì sao không xét nghiệm thêm: lipase lặp, CT lặp, nội soi, MRCP, EUS đều không đổi xử trí khi bệnh nhân đã khỏi và nguyên nhân rõ (ACG 2024; IAP 2025 điểm thực hành 8, khuyến cáo 3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục thuốc hạ TG: fenofibrat là lựa chọn đầu tay khi TG ≥ 500 mg/dL (ACC/AHA 2026 mục 4.2.1.3); khuyến cáo hạ TG để phòng tái phát (IAP 2025 khuyến cáo 67). Liều không có trong tài liệu đã tải.",
+     "Đái tháo đường mới: tiếp tục metformin theo bệnh viện; liều không có trong tài liệu đã tải bản chữ của ca; theo dõi HbA1c theo ĐTĐ (ADA 2026), không nằm trong IAP khuyến cáo 88 vì ông đã ĐTĐ.",
+     "Tránh thực phẩm chức năng không rõ thành phần: không có bằng chứng thuốc gây bệnh nhưng cũng không có bằng chứng lợi ích (không có trong tài liệu đã tải).",
+     "Đi làm lại và hóa chất: không có trong tài liệu đã tải; nên cân nhắc với y tế lao động."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Fenofibrat",
+      "ham_luong": "Theo chế phẩm bệnh viện đã kê",
+      "lieu": "Liều theo đơn ra viện; không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, cùng bữa ăn",
+      "so_ngay": "Dài hạn; đánh giá lại TG lúc đói sau 3 tháng",
+      "ghi_chu": "ACC/AHA 2026 mục 4.2.1.3 (đầu tay khi TG ≥ 500 mg/dL, giảm TG 30–50%); IAP 2025 khuyến cáo 67. Hỏi đau cơ, men gan."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "Theo chế phẩm bệnh viện đã kê",
+      "lieu": "Theo đơn ra viện; không có trong tài liệu đã tải bản chữ",
+      "duong": "Uống",
+      "thoi_diem": "Trong bữa ăn",
+      "so_ngay": "Dài hạn, theo dõi HbA1c sau 3 tháng",
+      "ghi_chu": "Đơn từ bệnh viện (liều và nguồn: không có trong tài liệu đã tải); theo dõi ĐTĐ tiếp theo ADA 2026."
+     }
+    ],
+    "dan_do": [
+     "Uống fenofibrat và thuốc đái tháo đường đều mỗi ngày; không tự bỏ.",
+     "Không bia rượu; ăn ít mỡ, ít đồ ngọt.",
+     "Chưa uống lại thực phẩm chức năng 'bổ gan, hạ mỡ'; muốn dùng thì hỏi bác sĩ trước.",
+     "Đi làm lại nhẹ nhàng; dùng khẩu trang, găng khi pha acid (khuyến nghị chung, không có trong tài liệu đã tải).",
+     "Quay lại ngay nếu đau bụng trên tái lại, nôn, sốt, vàng da hoặc no sớm."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Hưng nhập bệnh viện ngay chiều hôm đó, được truyền Ringer lactat và insulin hạ triglycerid; ăn lại lần đầu ngày thứ 3 bị đau tăng nhẹ nên nhịn thêm, nằm 9 ngày thay vì khoảng 5 ngày như bác sĩ dự kiến. Ra viện với fenofibrat và thuốc đái tháo đường. Sau 3 tuần: hết đau, TG 3,9 mmol/L, hết ổ dịch quanh tụy; ông tiếp tục thuốc, bỏ bia, đi làm lại dần. Khỏi hoàn toàn nhưng chậm hơn dự kiến.",
+ "nhieu": [
+  "Tự uống omeprazol và hyoscin 5 ngày làm đau nhẹ đi, đến muộn: lipase chỉ gấp 2,5 lần nhưng CT có hình ảnh viêm tụy; không để lipase < 3 lần làm loại bỏ chẩn đoán.",
+  "Vitamin, thực phẩm chức năng, thuốc tự mua và hóa chất nghề (acid đánh đông mủ) bị bệnh nhân quy thủ phạm; nguyên nhân thật là TG rất cao. Viêm tụy do hóa chất nghề: không có trong tài liệu đã tải.",
+  "Đau thượng vị lan ngực trái gợi nhồi máu: ECG và hs-TnT loại trừ; hs-TnT thấp kết hợp ECG bình thường để loại trừ.",
+  "Nguồn lực đầy đủ: vẫn không cần ECG gắng sức, CT mạch vành, nội soi, MRCP, theo dõi lipase lặp, procalcitonin."
+ ],
+ "bai_hoc_bien": [
+  "Không điển hình: đau lệch trái, không lan lưng, enzym < 3 lần vì đến muộn và tăng TG, nhưng CT và đau đủ 2/3 tiêu chuẩn (IAP 2025 khuyến cáo 1).",
+  "Hỏi cụ thể thuốc đã mua chữa đau bụng, không chỉ 'đang uống thuốc gì'.",
+  "Với VTC không sỏi, hỏi mỡ máu cũ và xét nghiệm TG; TG > 1.000 mg/dL mới là nguyên nhân (ACG 2024).",
+  "Khỏi chậm: quỹ đạo bình thường là hết đau, ăn đủ, CRP bình thường; TG cần xuống dưới 500 mg/dL để phòng tái phát; nang giả > 6 cm sau > 6 tuần mới can thiệp."
+ ],
+ "diem_nho": [
+  "VTC: 2/3 tiêu chuẩn (đau, lipase/amylase > 3 lần, hình ảnh) – IAP 2025 khuyến cáo 1; ACG 2024.",
+  "Ringer lactat 1,5 mL/kg/giờ (IAP 2025) hoặc muối đẳng trương 250–300 mL/giờ cho thể nặng (QĐ 1493/2015).",
+  "Không kháng sinh dự phòng; không dùng lipase để theo dõi.",
+  "TG > 1.000 mg/dL (11,3 mmol/L) là nguyên nhân; insulin ở viện; sau xuất viện TG < 500 mg/dL."
+ ],
+ "nguon": [
+  "ACG 2024 – Management of acute pancreatitis (Am J Gastroenterol 2024;119:419-437) – TL-0060 – mục Diagnosis; Etiology (khuyến cáo 1; Key concept 1–4); Initial assessment (Key concept 5–9); Initial management (khuyến cáo 3–4; Key concept 10–12); khuyến cáo 8; Nutrition (khuyến cáo 10–11; Key concept 18–19); Key concept 21",
+  "IAP 2025 – Revised guidelines on acute pancreatitis (Pancreatology 2025;25:770-814) – TL-0199 – Bảng 1: khuyến cáo 1–5, 7–8, 10–12, 14, 15, 17–19, 22, 64–67, 82–89, 91",
+  "BYT QĐ 1493/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và xử trí hồi sức tích cực – TL-0034 – Viêm tụy cấp nặng mục 1, 2, 3.1–3.2, 4.1–4.2, 5.1–5.3",
+  "ESC 2023 – hội chứng vành cấp – TL-0069 – mục 3.1.1, 3.2, Hình 6; BYT QĐ 2187/2019 – TL-0033 – Hình 3",
+  "WSES 2020 – Perforated and bleeding peptic ulcer – TL-0088 – khuyến cáo hình ảnh (tr. 4)",
+  "ACC/AHA 2026 – Management of dyslipidemia (kho cũ tltk-10000-ca, 04 Bệnh mạn tính) – mục 4.2.1.3 TG-lowering medications",
+  "Không có trong tài liệu đã tải: liều fenofibrat, metformin, NSAID/opioid; viêm tụy do hóa chất nghề và thực phẩm chức năng; chế độ ăn cụ thể; lịch tái khám; đồ bảo hộ khi pha acid."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-23: viết bản 1. Tài liệu đã đọc: TL-0060 (Diagnosis, Etiology, bảng khuyến cáo), TL-0199 (Bảng 1), TL-0034 (VTC nặng), TL-0069, TL-0088, ACC/AHA 2026 dyslipidemia.",
+  "Mâu thuẫn dịch truyền và giảm đau theo mục sẵn có trong mau_thuan.md (TH-1398): ghi cả hai cách; nuôi ăn và cắt túi mật không phải mâu thuẫn thật.",
+  "Quy đổi ure–BUN và TG mmol/L–mg/dL do ca tự tính (ure 8,4 mmol/L ≈ 50 mg/dL; TG 14,8 mmol/L ≈ 1.310 mg/dL).",
+  "Ca không dùng ảnh da; không thêm mục danh mục mới."
+ ]
+}
