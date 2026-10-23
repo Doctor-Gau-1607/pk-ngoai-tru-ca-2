@@ -1,0 +1,818 @@
+{
+ "ma_ca": "TH-0758",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_ngo_doc_thuc_pham_nguoi_rat_cao_tuoi",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Ngộ độc thực phẩm",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Viêm ruột thừa",
+   "Nhiễm khuẩn huyết"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng",
+  "ly_do_that_su_den_kham": "Gia đình thúc ép đi khám",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu"
+ },
+ "benh_nhan": {
+  "ten": "Lê Văn Thạnh",
+  "tuoi": 82,
+  "gioi": "Nam",
+  "nghe": "Bán tạp hóa nhỏ ở đầu chợ",
+  "can_nang": 52,
+  "chieu_cao": 160,
+  "xung_ho": "Bác sĩ gọi ông là 'bác'. Ông xưng 'tôi' hoặc 'già', gọi bác sĩ là 'bác sĩ'. Con gái gọi ông là 'ba', xưng 'con', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Cứng đầu, tiết kiệm, coi tiêu chảy là chuyện vặt; nói ngắn, hay gạt 'thôi khỏi, uống thuốc rồi'. Ngại tốn tiền, lo đóng quầy. Hơi nặng tai bên trái, cần nói rõ và chậm. Nhớ chuyện cũ tốt nhưng quên tên thuốc. Sống với vợ 80 tuổi; con gái ở gần, bán hàng chung.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: mua ở hiệu thuốc đầu chợ, không nhớ tên, gọi là 'thuốc cầm' và 'thuốc kháng sinh'. Hỏi chung thì nói 'chưa uống gì'; chỉ khai khi được hỏi từng loại thuốc (cầm đi ngoài, kháng sinh, giảm đau) hoặc khi con gái đưa vỏ thuốc. Con gái thúc ép đi khám nên ông trả lời qua loa, hay quay sang nhờ con gái kể.",
+  "nguoi_nha": "Con gái",
+  "ten_nguoi_nha": "Chị Lê Thị Hạnh",
+  "ngoai_hinh": {
+   "da": "#c9996f",
+   "toc": "#d8d8d8",
+   "kieuToc": "ngan",
+   "ao": "#8a8f98",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9a982",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#7e9a86",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tiêu chảy nhiều ngày, mệt, ăn kém; con gái bắt đi khám",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám tuyến cơ sở chỉ làm được xét nghiệm cơ bản (công thức máu, đường huyết, ure – creatinin, điện giải đồ, CRP, tổng phân tích nước tiểu) và điện tim; không soi phân, cấy phân, cấy máu; không X-quang, siêu âm, CT, nội soi. Có dịch truyền (Ringer lactat, NaCl 0,9%), có thể đặt đường truyền, không có giường lưu bệnh qua đêm. Bệnh viện đa khoa huyện cách 18 km (30 phút xe), có siêu âm, CT, cấy máu, khoa Nội và xe cấp cứu."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Lê Văn Thạnh, 82 tuổi, bán tạp hóa nhỏ ở đầu chợ, tăng huyết áp nhiều năm đang dùng thuốc hạ áp. Con gái chở đến vì ông đi ngoài phân lỏng mấy ngày, ăn kém, mệt, đứng dậy hay choáng. Ông cho là chuyện vặt, nói do con gái bắt đi. Sinh hiệu: mạch 96 l/p, HA 108/62 mmHg, nhiệt độ 37,8 °C, nhịp thở 20 l/p, SpO₂ 96%. Phòng khám chỉ có xét nghiệm cơ bản.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập ông Thạnh vào bệnh viện huyện ngay hôm nay là quá tay: ông tỉnh, uống được, mất nước độ 1–2, huyết động chưa nguy cơ cao, mà QĐ 5642/2015 mục 4.2.3a cho bù oresol khi mất nước độ 1 uống được và IDSA 2017 khuyến cáo 39 xếp ORS là đầu tay cho mất nước nhẹ đến vừa. Ông nặng tai, ngại nơi lạ, bà vợ 80 tuổi ở nhà một mình, con gái mất ngày bán hàng ở quầy để vào viện; chi phí giường tăng mà xử trí chính (ORS, bỏ loperamid, tạm ngưng losartan) vẫn làm được tại nhà. Trải nghiệm này làm ông càng ngại đi khám lần sau.",
+    "chuyen_tuyen": "Gửi ông lên bệnh viện huyện hôm nay để cấy phân, siêu âm bụng khi chưa có tiêu chí nguy cơ cao (ông tỉnh, HA tâm thu trên 90 mmHg, nhịp thở 20, vẫn còn đi tiểu; NICE NG253 2025 Bảng 1) là chưa cần. Kết quả cấy phân trả sau vài ngày, không đổi được xử trí hôm nay; ông bị cuốn vào xe, chờ khám cả buổi khi mệt và chưa được bù dịch. Gánh nặng chi phí và công con gái cao hơn nhiều so với hẹn tái khám sớm tại phòng khám quen (NG253 mục 1.7.9)."
+   },
+   "loi_mo": "Tôi không có sao đâu bác sĩ. Đi ngoài mấy bữa nay thôi, uống thuốc rồi. Con gái nó cứ bắt tôi đi khám, bỏ quầy cả buổi.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "108/62",
+    "nhiet": "37,8",
+    "nhip_tho": 20,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi ngoài phân lỏng đã 5 ngày, mệt, ăn ít, đứng dậy hay choáng. Con gái ép đi khám; ông nói ở nhà uống thuốc rồi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "bua_an",
+     "noi_dung": "Trưa ngày đầu ăn cơm nguội với thịt kho và trứng chiên nấu từ sáng, để ở quầy không tủ lạnh; ông không nghĩ do đồ ăn vì 'ăn quen rồi', cũng không biết món nào. Chiều tối đau quặn bụng, nôn 2 lần, đi ngoài phân lỏng nước khoảng 8 lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau bữa ăn nghi ngờ"
+    },
+    {
+     "id": "nguoi_cung_an",
+     "noi_dung": "Bà vợ ăn cùng bữa trưa hôm đó, tối cũng nôn và đi ngoài, nhưng hết sau một ngày, không dùng thuốc. Con gái và cháu không ăn bữa đó, không bệnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người cùng ăn cùng bệnh (dịch tễ)"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Từ ngày thứ 2 đi ngoài 3–4 lần/ngày, phân lỏng sệt có ít nhầy trắng, không thấy máu; bụng chướng, đau quặn âm ỉ hai bên hạ vị, không dồn về một chỗ; chiều ớn lạnh, sốt nhẹ. Nôn đã hết từ ngày 2.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến, tính chất phân"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Ngày đầu ra hiệu thuốc đầu chợ mua: (a) viên cầm đi ngoài (loperamid 2 mg) uống 2 viên rồi 1 viên sau mỗi lần đi, khoảng 3–4 viên/ngày, đã 5 ngày, sáng nay còn uống 1 viên; (b) 'thuốc kháng sinh' (ciprofloxacin 500 mg) 2 viên/ngày trong 2 ngày rồi bỏ vì buồn nôn. Không uống thuốc giảm đau.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Tự dùng loperamid, ciprofloxacin",
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc gì không' ông đáp 'chưa uống gì'. Chỉ kể khi bác sĩ hỏi từng loại (thuốc cầm đi ngoài, kháng sinh, giảm đau) hoặc xem vỏ thuốc con gái mang theo."
+    },
+    {
+     "id": "thuoc_ha_ap",
+     "noi_dung": "Tăng huyết áp 15 năm: amlodipin 5 mg và losartan 50 mg mỗi sáng, vẫn uống đều kể cả những ngày đi ngoài. Huyết áp ở nhà thường 130–140/80. Không đái tháo đường, không bệnh tim, không dùng lợi tiểu hay giảm đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc hạ áp đang dùng, huyết áp nền"
+    },
+    {
+     "id": "uong_tieu",
+     "noi_dung": "Sợ đi ngoài thêm nên uống nước ít, ăn được vài thìa cháo. Nước tiểu ít, vàng sẫm, hôm qua chỉ 2 lần; hôm nay đã tiểu 1 lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng nước uống, nước tiểu"
+    },
+    {
+     "id": "so_cu",
+     "noi_dung": "Con gái mang sổ khám cũ: 6 tháng trước creatinin 92 µmol/L, HA 135/80, không đạm niệu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mốc creatinin và huyết áp nền"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Con gái kể 2 hôm nay ba ngủ nhiều, đi vệ sinh phải vịn tường, không trông quầy được; đó là lý do con gái ép đi khám. Ông vẫn tỉnh, nhận ra người nhà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Suy giảm chức năng mới (người cao tuổi)"
+    },
+    {
+     "id": "loai_tru",
+     "noi_dung": "Không đi ngoài ra máu đỏ, không phân đen, không phân trắng như nước vo gạo. Không đi xa, không ăn hải sản sống, tiết canh, mắm sống, không uống nước giếng lạ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Gợi ý loại trừ tả, tiêu chảy máu"
+    },
+    {
+     "id": "cham_soc",
+     "noi_dung": "Ở cùng vợ; nhà con gái cách 5 phút, có điện thoại, có xe máy. Ông muốn về ngay vì lo đóng quầy, đồng ý nếu con gái đưa lại khi cần.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Điều kiện chăm sóc tại nhà"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, trả lời đúng nhưng hơi chậm; gầy; môi và lưỡi khô; nếp véo da mu tay xẹp chậm; mắt hơi trũng; niêm mạc nhạt hồng; không vàng da, không phù.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 112/66 mmHg, mạch 90 l/p; đứng sau 1 phút 92/54 mmHg, mạch 108 l/p, chóng mặt, phải vịn giường.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng hơi chướng, mềm, ấn đau nhẹ lan tỏa hạ vị hai bên, không phản ứng thành bụng, không dội; điểm McBurney không đau hơn các vùng khác; nhu động ruột giảm nhẹ; không sờ khối, gan lách không to.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Cơ vòng tốt, ít phân sệt vàng nâu lẫn nhầy trắng, găng không máu, không khối phân cứng.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 96 l/p."
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, nhịp thở 20 l/p."
+    },
+    "nuoc_tieu_mau": {
+     "a": "Mẫu nước tiểu lấy lúc khám khoảng 30 ml, vàng sẫm, trong.",
+     "k": 0
+    },
+    "sang_loc_sang": {
+     "a": "4AT 0 điểm: tỉnh táo, nói đúng ngày tháng và nơi ở, đếm ngược các tháng đúng; hơi nặng tai bên trái.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 11,6 G/L · Neutrophil 79% · Hb 148 g/L · Hct 0,46 · TC 232 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 11.6,
+      "neu_pct": 79.0,
+      "neu": 9.2,
+      "lym_pct": 13.0,
+      "lym": 1.5,
+      "mono_pct": 7.0,
+      "mono": 0.81,
+      "eos_pct": 1.0,
+      "eos": 0.12,
+      "baso_pct": 0.0,
+      "baso": 0.0,
+      "rbc": 4.9,
+      "hgb": 148,
+      "hct": 0.46,
+      "mcv": 94,
+      "mch": 30.2,
+      "mchc": 322,
+      "rdw": 13.4,
+      "plt": 232
+     },
+     "n": "Hb, Hct cao hơn nền: cô đặc máu. Bạch cầu trung tính tăng nhẹ là một tiêu chí cân nhắc kháng sinh (QĐ 5642/2015 mục 4.2.1); IDSA 2017 khuyến cáo 22: không dùng bạch cầu để xác định căn nguyên."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 12,4 mmol/L · Creatinin 134 µmol/L · eGFR 46 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 12.4,
+      "creat": 134,
+      "egfr": 46
+     },
+     "n": "Creatinin tăng 46% so với 92 µmol/L cách 6 tháng (ngưỡng 30% của ADA 2026 KC 11.6d): tổn thương thận cấp trước thận do mất nước trên nền losartan. QĐ 5642 mục 3.3: sinh hóa có thể thấy rối loạn điện giải, suy thận."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 132 · K 3,4 · Cl 96 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 132,
+      "k": 3.4,
+      "cl": 96
+     },
+     "n": "Hạ natri nhẹ, kali thấp biên do mất qua phân (QĐ 5642 mục 5: biến chứng rối loạn điện giải). ORS dùng được cả khi hạ natri (IDSA 2017 Bảng 7, chú thích)."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 58 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 58
+     },
+     "n": "Gợi ý viêm do vi khuẩn nhưng chưa tới mức thường gặp trong nhiễm khuẩn huyết (CRP thường > 150 mg/L, QĐ 5642 Nhiễm khuẩn huyết mục 2.2). Ngưỡng CRP để quyết định kháng sinh: không có trong tài liệu đã tải."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose 6,1 mmol/L",
+     "bang": {
+      "glu": 6.1
+     }
+    },
+    "ua": {
+     "v": "u",
+     "r": "SG 1,028 · Ceton 1+ · Bạch cầu, nitrit, hồng cầu, protein, glucose âm tính",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.028,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "1+",
+      "u_bil": "Âm tính",
+      "u_ery": "Âm tính"
+     },
+     "n": "Nước tiểu cô đặc, ceton do đói; không gợi ý nhiễm khuẩn tiết niệu làm ổ nhiễm khác."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 96 l/p, QTc 436 ms, không thay đổi ST–T, không rối loạn nhịp.",
+     "n": "Chọn làm vì kali thấp biên và vừa dùng ciprofloxacin ở người cao tuổi; chỉ định này không có trong tài liệu đã tải."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "(Phòng khám không soi phân. Có thể lấy mẫu gửi bệnh viện huyện, trả kết quả trong ngày làm việc, không đổi xử trí hôm nay.)",
+     "n": "IDSA 2017 khuyến cáo 8: tìm Salmonella, Shigella, Campylobacter khi có sốt, phân nhầy, đau quặn; QĐ 5642 mục 3.3 (soi phân). IDSA khuyến cáo 20 và QĐ 5642 khác nhau về giá trị bạch cầu trong phân: xem sổ mâu thuẫn."
+    },
+    "cay_phan": {
+     "v": "u",
+     "r": "(Phòng khám không cấy phân. Phải gửi mẫu bệnh viện huyện, kết quả sau vài ngày. Ông đã uống ciprofloxacin 2 ngày và loperamid nên kết quả khó diễn giải.)",
+     "n": "Cấy phân là xét nghiệm xác định (QĐ 5642 mục 3.4). Ảnh hưởng của kháng sinh tự uống lên kết quả cấy: nhận định của biên tập, không có trong tài liệu đã tải."
+    },
+    "abdus": {
+     "n": "Phòng khám không có siêu âm; không có chỉ định bắt buộc hôm nay vì bụng mềm, không phản ứng, không khối. Nếu đau khu trú hố chậu phải: hình ảnh ở bệnh viện huyện (WSES 2025 KC 3.4: CT liều thấp ở người cao tuổi)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ngộ độc thực phẩm do vi khuẩn (viêm dạ dày – ruột nhiễm khuẩn) ngày thứ 5 ở người 82 tuổi: mất nước độ 1–2, tổn thương thận cấp trước thận trên nền losartan, hạ natri nhẹ; đã dùng loperamid và ciprofloxacin tự mua",
+     "ok": 1,
+     "n": "Bữa ăn nghi ngờ, người cùng ăn bệnh, nôn, quặn bụng, sốt nhẹ, phân lỏng có nhầy (QĐ 5642 mục 3.1–3.2, 3.4: dịch tễ + lâm sàng; cấy phân không làm được). Căn nguyên cụ thể: không xác định, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tả",
+     "n": "Không phân nước vo gạo, không đi vùng dịch, không ăn hải sản sống, ngày 5 chỉ còn 3–4 lần, có sốt và nhầy (QĐ 4178/2007 mục II.1a, II.1c; QĐ 5642 mục 3.2); vợ chỉ bệnh 1 ngày."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Đau lan tỏa hạ vị hai bên, không khu trú hố chậu phải, không phản ứng thành bụng; khởi phát bằng nôn và tiêu chảy nhiều. Người cao tuổi có thể không điển hình: chưa loại hẳn, hẹn đánh giá lại 24 giờ; nếu đau khu trú thì cần CT (WSES 2025 KC 1, 3.4)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "Chưa: tỉnh (4AT 0), nhịp thở 20, HA tâm thu 108 mmHg (thấp hơn nền ~30 mmHg), CRP 58 (< 150). Theo NICE NG253 2025 Bảng 1 chỉ có tiêu chí nguy cơ trung bình (mạch 91–130, suy giảm chức năng cấp), chưa có tiêu chí nguy cơ cao. Người cao tuổi có thể không sốt, mạch không nhanh (NG253 1.4.2, 1.4.4) nên phải tái khám sớm."
+    },
+    {
+     "t": "Tiêu chảy do Clostridioides difficile sau ciprofloxacin",
+     "n": "Tiêu chảy bắt đầu trước khi uống ciprofloxacin; xét nghiệm không làm được. Nghĩ lại nếu kéo dài sau kháng sinh (IDSA 2017 khuyến cáo 18)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng ngay loperamid (thuốc cầm tiêu chảy); mang vỏ thuốc theo khi đi khám",
+     "v": "c",
+     "n": "Còn sốt, phân nhầy, nghi tiêu chảy xâm nhập: tránh loperamid (IDSA 2017 khuyến cáo 47); QĐ 5642 mục 4.2.3b: không lạm dụng thuốc cầm tiêu chảy. Ông đã dùng 5 ngày, ~6–8 mg/ngày, vượt giới hạn 48 giờ, tối đa 8 mg/ngày của ACG 2016 (tr. 609–610). Dùng loperamid tiếp chấm w; xem sổ mâu thuẫn."
+    },
+    {
+     "t": "Bù dịch đường uống: oresol (hoặc dịch/súp muối) uống từng ngụm, bù tại phòng khám 2–4 L rồi bù tiếp lượng mất qua phân; chưa cần truyền tĩnh mạch vì uống được",
+     "v": "c",
+     "n": "ORS đầu tay cho mất nước nhẹ đến vừa (IDSA 2017 khuyến cáo 39, 43, Bảng 7: người lớn ≥ 30 kg 2–4 L, bù tiếp tối đa ~2 L/ngày); QĐ 5642 mục 4.2.3a: độ I uống được dùng oresol. ACG 2016 khuyến cáo 5: ORS cân bằng cho người già nặng, đa số người lớn bù đủ bằng dịch/súp muối. Thể tích ở ≥ 75 tuổi: không có trong tài liệu đã tải, theo dõi nước tiểu và HA tư thế."
+    },
+    {
+     "t": "Tạm ngưng losartan trong lúc tiêu chảy và mất nước; viết rõ khi nào dùng lại",
+     "v": "c",
+     "n": "Mất nước, creatinin tăng 46%, HA tụt khi đứng. KDIGO 2024 Practice Point 4.3.2 (tr. S250): quy tắc ngày ốm tạm ngưng ARB, ACEi, lợi tiểu, NSAID khi bệnh gây mất nước, phải có kế hoạch dùng lại (hay bị quên). ADA 2026 KC 11.6d chỉ khuyên tiếp tục khi KHÔNG có mất dịch ngoại bào. Hai nguồn viết cho người bệnh thận mạn/đái tháo đường; cho người không có hai bệnh này: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Amlodipin 5 mg: giữ nguyên hoặc tạm nghỉ trong lúc mất nước đều được; đo lại HA khi tái khám",
+     "v": "a",
+     "n": "Không có trong tài liệu đã tải: danh sách thuốc cần ngưng của KDIGO 2024 PP 4.3.2 không có chẹn kênh calci. HA 108/62 thấp hơn nền 135/80: diễn giải theo mức nền (NG253 1.4.5)."
+    },
+    {
+     "t": "Kháng sinh: chưa kê, đánh giá lại sau 24 giờ; hoặc azithromycin 500 mg/ngày × 3 ngày (ACG 2016) hoặc 5 ngày (QĐ 5642) vì sốt, cao tuổi, bạch cầu tăng, phân nhầy",
+     "v": "c",
+     "n": "Khác nhau thật: QĐ 5642 mục 4.2.1 cân nhắc kháng sinh khi người già, sốt, phân nhầy, bạch cầu tăng; mục 4.2.2a azithromycin 0,5 g/ngày × 5 ngày. IDSA 2017 khuyến cáo 30, 36 và ACG 2016 khuyến cáo 9–10: không kê thường quy, chỉ khi sốt ghi nhận kèm phân máu hoặc bệnh nặng; ACG Bảng 4 (tr. 611) azithromycin 500 mg × 3 ngày. Vì sao khác: xem sổ mâu thuẫn. Kê thêm ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày (QĐ 5642 mục 4.2.2a) chấm a; chỉnh liều theo eGFR 46: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục hoặc kê thêm loperamid để 'cho đỡ đi'",
+     "v": "w",
+     "n": "Sốt, phân nhầy: IDSA 2017 khuyến cáo 47 tránh ở mọi tuổi khi nghi tiêu chảy viêm hoặc có sốt (mạnh, chứng cứ thấp); QĐ 5642 mục 4.2.3b."
+    },
+    {
+     "t": "Smecta, spasmaverin, men vi sinh: không bắt buộc, dùng hay không đều được",
+     "v": "a",
+     "n": "QĐ 5642 mục 4.2.3b (smecta, spasmaverin; liều: không có trong tài liệu đã tải). Men vi sinh: IDSA 2017 khuyến cáo 49 cho phép, ACG 2016 khuyến cáo 6 không khuyến cáo (xem sổ mâu thuẫn)."
+    },
+    {
+     "t": "Truyền dịch đẳng trương tại phòng khám nếu uống không đủ",
+     "v": "a",
+     "n": "IDSA 2017 khuyến cáo 41: dịch đẳng trương tĩnh mạch khi mất nước nặng, sốc, thay đổi ý thức hoặc ORS thất bại; QĐ 5642 mục 4.2.3a: từ độ II không uống được. Ông uống được nên chưa bắt buộc."
+    },
+    {
+     "t": "Cho về nhà có con gái chăm, tái khám sau 24 giờ (xét nghiệm lại creatinin, điện giải); dặn dấu hiệu phải gọi xe ngay",
+     "v": "c",
+     "n": "Mức nguy cơ trung bình theo NICE NG253 2025 Bảng 1: cần chẩn đoán xác định và cân nhắc điều trị an toàn ngoài bệnh viện (mục 1.7.9), dặn thông tin an toàn (mục 1.7.10). IDSA 2017 khuyến cáo 29: đánh giá lại dịch và điện giải khi triệu chứng kéo dài. Điều kiện chấp nhận: tỉnh, uống được, có người chăm; quyết định của biên tập."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ngộ độc thực phẩm do vi khuẩn (viêm dạ dày – ruột nhiễm khuẩn), ngày thứ 5, sốt nhẹ, phân nhầy không máu",
+     "Mất nước độ 1–2 kèm hạ huyết áp tư thế; tổn thương thận cấp trước thận (creatinin 134 µmol/L, nền 92) trên nền losartan; Na 132, K 3,4",
+     "Yếu tố làm sai lệch: loperamid 5 ngày và ciprofloxacin 2 ngày tự mua",
+     "Chưa đạt tiêu chí nguy cơ cao của nhiễm khuẩn huyết; chưa loại hẳn viêm ruột thừa: đánh giá lại 24 giờ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do đến khám (con gái ép) → diễn tiến tiêu chảy, nôn, sốt, máu → bữa ăn 1–2 ngày trước và người cùng ăn → thuốc đã tự dùng, hỏi TỪNG nhóm (cầm đi ngoài, kháng sinh, giảm đau) vì hỏi chung ông đáp 'chưa uống gì' → thuốc đang dùng (hạ áp) → lượng nước uống, nước tiểu → chức năng sinh hoạt → sổ khám cũ. Khám: tổng trạng (dấu mất nước), huyết áp nằm – đứng, bụng, trực tràng, sàng lọc sảng. CLS: công thức máu, ure – creatinin, điện giải, CRP, nước tiểu, đường huyết, điện tim (QĐ 5642 mục 3.3).",
+     "Vì sao ngộ độc thực phẩm do vi khuẩn: cơm nguội thịt kho trứng để quầy không tủ lạnh, vợ cùng bữa bệnh 1 ngày, ông nôn, quặn bụng, sốt nhẹ, phân lỏng có nhầy (QĐ 5642 mục 3.1–3.2). Chẩn đoán xác định cần dịch tễ + lâm sàng + cấy phân (mục 3.4); phòng khám không cấy được nên chẩn đoán lâm sàng. Căn nguyên cụ thể: không xác định. Loperamid làm phân thưa đi, ông tưởng 'đỡ' trong khi bụng chướng và sốt vẫn còn.",
+     "Mức mất nước: bảng QĐ 5642 mục 3.1 xếp độ 1 khi mạch < 100, HA bình thường, nước tiểu ít; da khô là độ 2. Ở người tăng huyết áp, HA 108/62 thấp hơn nền ~30 mmHg và tụt còn 92/54 khi đứng, nên coi là mất nước có ý nghĩa (IDSA 2017 khuyến cáo 5: người cao tuổi nguy cơ cao). Creatinin 134 so với 92 cách 6 tháng (tăng 46%), ure 12,4: tổn thương thận cấp trước thận do mất nước cộng losartan.",
+     "Loại trừ: tả (QĐ 4178/2007 mục II.1a: phân nước vo gạo, ít sốt, thường ở vùng dịch); viêm ruột thừa chưa loại hẳn (người cao tuổi không điển hình; WSES 2025 KC 1, 3.4: CT liều thấp nếu nghi ngờ, phòng khám không có); nhiễm khuẩn huyết chưa đạt tiêu chí nguy cơ cao (NG253 Bảng 1, tr. 22–23).",
+     "Applicability ≥ 75 tuổi: IDSA 2017, ACG 2016, QĐ 5642 không có phần riêng cho nhóm này. NG253 nhắc người cao tuổi có thể không sốt (1.4.2), mạch không nhanh (1.4.4), biểu hiện bằng suy giảm chức năng cấp (1.4.9) và HA phải so với mức nền (1.4.5): vì vậy 'chỉ số gần bình thường' vẫn phải tái khám sớm."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng loperamid (IDSA 2017 khuyến cáo 47; QĐ 5642 mục 4.2.3b; ACG 2016 tr. 609–610: tối đa 8 mg/ngày, ≤ 48 giờ). Bù dịch bằng ORS từng ngụm tại phòng khám 2–4 L rồi bù lượng mất qua phân (IDSA khuyến cáo 39, 43, Bảng 7; QĐ 5642 mục 4.2.3a). Không dùng nước ngọt công nghiệp để bù (IDSA Bảng 7, chú thích).",
+     "Tạm ngưng losartan trong lúc mất dịch (KDIGO 2024 PP 4.3.2, tr. S250; ADA 2026 KC 11.6d); dùng lại khi ăn uống bình thường và creatinin về gần nền, ghi rõ vào giấy cho gia đình vì quên dùng lại là sai sót thường gặp (KDIGO PP 4.3.2). Amlodipin giữ hay nghỉ đều được: không có trong tài liệu đã tải.",
+     "Kháng sinh: có hai cách đều đúng, không kê ngay hoặc azithromycin 500 mg/ngày × 3 ngày (ACG) / × 5 ngày (QĐ 5642); lý do khác nhau ghi ở sổ mâu thuẫn (QĐ 5642 là văn bản chung 2015, IDSA/ACG dựa trên người miễn dịch bình thường). Ông đã uống ciprofloxacin 2 ngày không đủ liệu trình.",
+     "Về nhà vì tỉnh, uống được, có người chăm (quyết định của biên tập, NG253 1.7.9 yêu cầu cân nhắc), nhưng hẹn tái khám 24 giờ vì mức nguy cơ trung bình và người cao tuổi dễ xấu nhanh (QĐ 5642 mục 5: sốc giảm thể tích, suy thận cấp, nhiễm khuẩn huyết)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol (ORS áp lực thẩm thấu thấp)",
+      "ham_luong": "Gói pha 1 L (pha theo hướng dẫn trên gói: không có trong tài liệu đã tải)",
+      "lieu": "Bù mất nước 2–4 L cho người lớn, chia nhiều ngụm nhỏ; sau đó bù thêm lượng mất qua mỗi lần đi ngoài, tối đa khoảng 2 L/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Bắt đầu ngay tại phòng khám, tiếp tục cả ngày",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "IDSA 2017 khuyến cáo 39, 43, Bảng 7; QĐ 5642 mục 4.2.3a. Lượng riêng cho ≥ 75 tuổi: không có trong tài liệu đã tải; theo dõi nước tiểu."
+     },
+     {
+      "thuoc": "Losartan",
+      "ham_luong": "50 mg",
+      "lieu": "TẠM NGƯNG (đang uống 50 mg × 1 lần/ngày buổi sáng)",
+      "duong": "Uống",
+      "thoi_diem": "Từ sáng mai",
+      "so_ngay": "Đến khi bác sĩ cho dùng lại ở lần tái khám",
+      "ghi_chu": "KDIGO 2024 PP 4.3.2 (tr. S250); ADA 2026 KC 11.6d."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày (giữ nguyên) hoặc nghỉ tạm trong lúc mất nước",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Đo lại HA khi tái khám",
+      "ghi_chu": "Giữ hay nghỉ đều chấp nhận; không có trong tài liệu đã tải (KDIGO 2024 PP 4.3.2 không liệt kê chẹn kênh calci)."
+     },
+     {
+      "thuoc": "Azithromycin (chỉ khi chọn dùng kháng sinh)",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "3 ngày (ACG 2016 Bảng 4, tr. 611) hoặc 5 ngày (QĐ 5642 mục 4.2.2a)",
+      "ghi_chu": "Không kê ngay cũng đúng (IDSA 2017 khuyến cáo 36); nếu dùng ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày thì chỉnh liều theo eGFR 46: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống oresol từng ngụm nhỏ; nôn thì nghỉ vài phút rồi uống tiếp. Không dùng nước ngọt công nghiệp, nước thể thao để bù (IDSA 2017 Bảng 7).",
+     "Không tự mua thuốc cầm đi ngoài, kháng sinh hay thuốc giảm đau ở hiệu thuốc; mỗi lần đi khám mang theo vỉ, vỏ thuốc.",
+     "Ngưng losartan cho tới khi bác sĩ cho dùng lại; con gái ghi giấy, để hộp thuốc riêng. Thuốc huyết áp còn lại theo dặn.",
+     "Ăn lại sớm, cháo, cơm mềm chia nhiều bữa, không kiêng khem quá mức (IDSA 2017 khuyến cáo 45). Thức ăn thừa phải hâm kỹ hoặc để tủ lạnh; rửa tay trước ăn và sau đi vệ sinh (IDSA khuyến cáo 52, 54).",
+     "Gọi xe cấp cứu hoặc đưa đến ngay nếu: lơ mơ, nói lẫn, sốt cao rét run, phân có máu, đau bụng tăng, nôn không uống được, nhiều giờ không đi tiểu.",
+     "Tái khám sau 24 giờ (mai) để xét nghiệm lại creatinin, điện giải và quyết định về losartan (NG253 1.7.9; IDSA 2017 khuyến cáo 29); con gái ở cùng ba đêm nay."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 24 giờ",
+   "tiep_don": "Con gái gần như dìu ông Thạnh vào phòng khám sau 24 giờ. Gia đình làm đúng dặn hôm qua: cho uống oresol từng ngụm, bỏ viên cầm đi ngoài, ngưng losartan, chưa dùng kháng sinh. Từ sáng ông lơ mơ, sốt, đi ngoài trở lại, không muốn ăn uống. Sinh hiệu: mạch 114 l/p, HA 94/56 mmHg, nhiệt độ 38,6 °C, nhịp thở 24 l/p, SpO₂ 95%. Phòng khám chỉ có xét nghiệm cơ bản.",
+   "ket_luan": "cap_cuu",
+   "neu_sai": {
+    "ve_hen": "Cho ông Thạnh về nhà với oresol và hẹn lại ngày mai là bỏ sót tình trạng nguy cơ cao: lú lẫn cấp, HA tụt hơn 40 mmHg so với nền, gần 18 giờ chưa tiểu, creatinin 246 µmol/L, CRP 168 mg/L (NICE NG253 2025 Bảng 1, mục 1.7.1; QĐ 5642/2015 Nhiễm khuẩn huyết mục 2). Ở nhà không ai truyền dịch, cấy máu hay tiêm kháng sinh được; vợ 80 tuổi và con gái có thể chỉ nhận ra khi ông đã li bì hơn. Nhiễm khuẩn huyết có tỉ lệ tử vong 20–50% (QĐ 5642 Nhiễm khuẩn huyết, tr. 79) và mỗi giờ chậm làm thận tổn thương thêm.",
+    "chuyen_tuyen": "Chuyển viện bằng xe máy hoặc xe nhà của con gái, không truyền dịch và không báo trước, trong khi HA 94/56, lơ mơ, mạch 114: ông có thể tụt huyết áp, ngừng thở hoặc co giật trên đường 30 phút, nhân viên bệnh viện không được chuẩn bị sẵn. NG253 mục 1.7.1–1.7.2 yêu cầu phương tiện phù hợp (thường xe cấp cứu), có nhân viên đi kèm và báo trước cho tuyến trên; ở đây con gái còn phải vừa đỡ ba vừa lái xe."
+   },
+   "loi_mo": "Bác sĩ ơi, ba tôi từ sáng cứ ngủ li bì, gọi mới dậy, nói lung tung. Tối qua sốt rét run, đi ngoài lại mà còn có máu nữa.",
+   "sinh_hieu": {
+    "mach": 114,
+    "ha": "94/56",
+    "nhiet": "38,6",
+    "nhip_tho": 24,
+    "spo2": 95,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ông li bì từ sáng, gọi mới dậy, hỏi đang ở đâu thì trả lời nhầm, từ chối ăn uống. Con gái rất lo, nói 'ba không như mọi hôm'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: thay đổi ý thức"
+    },
+    {
+     "id": "lam_dung_dan",
+     "noi_dung": "Làm đúng dặn: từ chiều qua uống oresol được khoảng 1 L chia nhiều lần, sáng nay chỉ nhấp vài ngụm rồi từ chối. Bỏ viên cầm đi ngoài và losartan; sáng nay chưa uống thuốc huyết áp nào. Chưa dùng kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ hướng dẫn lượt 1"
+    },
+    {
+     "id": "di_ngoai",
+     "noi_dung": "Từ đêm qua đi ngoài trở lại 6–7 lần, phân lỏng nhầy lẫn vài vệt máu đỏ tươi; đau quặn hạ vị tăng, không nôn lại. Đêm qua sốt rét run, con gái đo 38,5 °C.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chảy xâm nhập, sốt, có máu"
+    },
+    {
+     "id": "nuoc_tieu",
+     "noi_dung": "Lần tiểu cuối khoảng 8 giờ tối qua, ít và sẫm; từ đó đến nay (gần 18 giờ) chưa tiểu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thiểu niệu, vô niệu"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Từ sáng ông không tự ngồi dậy được, không đứng nổi, nói chậm, tay run nhẹ. Hôm qua còn tự vào nhà vệ sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Suy giảm chức năng cấp"
+    },
+    {
+     "id": "khong_nhin",
+     "noi_dung": "Không đau ngực, không khó thở, không ho, không tiểu buốt, không đau khu trú hố chậu phải.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Ổ nhiễm khác"
+    },
+    {
+     "id": "so_cu",
+     "noi_dung": "Hôm qua xét nghiệm creatinin 134 µmol/L, Na 132, K 3,4 (so với 92 µmol/L 6 tháng trước).",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Mốc xét nghiệm lượt 1"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Lơ mơ, mở mắt khi gọi, trả lời chậm và sai ngày; lưỡi khô nứt, nếp véo da xẹp rất chậm, mắt trũng, chi lạnh ẩm; vẻ mặt nhiễm trùng – nhiễm độc; không vàng da, không ban.",
+     "k": 1
+    },
+    "sang_loc_sang": {
+     "a": "4AT 12/12: giảm tỉnh táo (4), AMT4 sai nhiều mục (2), đếm ngược các tháng sai (2), thay đổi cấp trong ngày (4). Từ 4 điểm trở lên nghĩ có thể mê sảng (Bellelli 2014).",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng chướng nhẹ, ấn đau lan tỏa hạ vị và hố chậu trái nhiều hơn lần trước, không đề kháng, không dội; hố chậu phải không đau hơn; nhu động ruột nghe được; không sờ khối.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Phân nhầy lẫn vệt máu đỏ tươi trên găng, không phân đen, không khối.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều nhanh 114 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 1,
+     "hien": "Tim đều, nhanh, tần số 114 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 24 l/p, thở nông hơi nhanh, rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Thở nông, nhịp thở 24 l/p."
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng không đau; không có cầu bàng quang khi gõ, ấn trên xương mu.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 17,8 G/L · Neutrophil 90% · Hb 154 g/L · TC 118 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 17.8,
+      "neu_pct": 90.0,
+      "neu": 16.0,
+      "lym_pct": 5.0,
+      "lym": 0.9,
+      "mono_pct": 4.0,
+      "mono": 0.71,
+      "eos_pct": 1.0,
+      "eos": 0.18,
+      "baso_pct": 0.0,
+      "baso": 0.0,
+      "rbc": 5.1,
+      "hgb": 154,
+      "hct": 0.47,
+      "mcv": 92,
+      "mch": 30.2,
+      "mchc": 328,
+      "rdw": 13.6,
+      "plt": 118
+     },
+     "n": "Bạch cầu > 12 G/L, tiểu cầu giảm nhưng chưa < 100 G/L (QĐ 5642 Nhiễm khuẩn huyết mục 2.2). Hb và Hct cao: cô đặc máu."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 21,6 mmol/L · Creatinin 246 µmol/L · eGFR 22 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 21.6,
+      "creat": 246,
+      "egfr": 22
+     },
+     "n": "Creatinin tăng thêm 112 µmol/L trong 24 giờ (> 44,2 µmol/L là một tiêu chí rối loạn chức năng cơ quan, QĐ 5642 Nhiễm khuẩn huyết mục 2.1); gấp 2,7 lần nền 92. Nặng lên dù đã bỏ losartan."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 129 · K 4,6 · Cl 93 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 129,
+      "k": 4.6,
+      "cl": 93
+     },
+     "n": "Hạ natri nặng hơn; kali tăng so với hôm qua (3,4) vì suy thận cấp. Chọn dịch đẳng trương, tránh glucose 5% đơn độc khi đã hạ natri (xem sổ mâu thuẫn, mục ESE 2014)."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 168 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 168
+     },
+     "n": "CRP thường > 150 mg/L trong nhiễm khuẩn huyết (QĐ 5642 Nhiễm khuẩn huyết mục 2.2); tăng gấp ~3 lần so với hôm qua (58)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose 5,0 mmol/L",
+     "bang": {
+      "glu": 5.0
+     }
+    },
+    "ua": {
+     "v": "u",
+     "r": "SG 1,026 · Protein 1+ · Ceton 1+ · Bạch cầu, nitrit, hồng cầu âm tính",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.026,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "1+",
+      "u_glu": "Âm tính",
+      "u_ket": "1+",
+      "u_bil": "Âm tính",
+      "u_ery": "Âm tính"
+     },
+     "n": "Không gợi ý nhiễm khuẩn tiết niệu làm ổ nhiễm; cô đặc."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang nhanh 112 l/p, QTc 448 ms, ST–T không đổi so với hôm qua.",
+     "n": "Không đổi hướng xử trí."
+    },
+    "cay": {
+     "v": "e",
+     "r": "(Phòng khám không cấy máu được. Cấy 2 mẫu ở hai vị trí phải làm tại bệnh viện huyện, TRƯỚC liều kháng sinh đầu.)",
+     "n": "Cấy máu ít nhất 2 mẫu ở hai vị trí, ≥ 10 mL; điều trị ngay sau khi đã cấy máu (QĐ 5642 Nhiễm khuẩn huyết mục 2.3, 3.1, tr. 81); IDSA 2017 khuyến cáo 9: cấy máu khi có dấu hiệu nhiễm khuẩn huyết. Nhiễm khuẩn huyết có thể cấy âm tính."
+    },
+    "cay_phan": {
+     "v": "e",
+     "r": "(Phòng khám không cấy phân; gửi mẫu cùng bệnh nhân khi chuyển viện.)",
+     "n": "IDSA 2017 khuyến cáo 8: làm xét nghiệm phân khi sốt, phân nhầy máu, đau quặn nhiều hoặc dấu hiệu nhiễm khuẩn huyết."
+    },
+    "abdus": {
+     "n": "Phòng khám không có siêu âm, CT; hình ảnh bụng làm ở bệnh viện huyện, không trì hoãn chuyển viện (IDSA 2017 khuyến cáo 25; WSES 2025 KC 3.4)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ngộ độc thực phẩm do vi khuẩn xâm nhập (tiêu chảy nhầy máu, sốt) không đáp ứng bù dịch uống, biến chứng mất nước nặng, tổn thương thận cấp và nghi nhiễm khuẩn huyết ở người 82 tuổi",
+     "ok": 1,
+     "n": "Tiêu chảy nhầy máu, sốt 38,6 °C sau khi bỏ loperamid: tiêu chảy xâm nhập (QĐ 5642 mục 3.1). Biến chứng sốc giảm thể tích, suy thận cấp, nhiễm khuẩn huyết (mục 5). Người cao tuổi nguy cơ cao (mục 1; IDSA 2017 khuyến cáo 5)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết / sốc nhiễm khuẩn tiềm ẩn từ ổ ruột",
+     "ok": 1,
+     "n": "Không loại trừ được tại phòng khám (không cấy máu). Thỏa tiêu chí nguy cơ cao của NG253 Bảng 1: trạng thái tâm thần mới (4AT 12/12), HA tâm thu 94 thấp hơn nền 135 trên 40 mmHg, gần 18 giờ chưa tiểu; thêm creatinin tăng 112 µmol/L, CRP 168, bạch cầu 17,8 (QĐ 5642 Nhiễm khuẩn huyết mục 2.1–2.2). Xử trí như nghi nhiễm khuẩn huyết."
+    },
+    {
+     "t": "Tả",
+     "n": "Phân nhầy máu, sốt, không phân nước vo gạo (QĐ 4178/2007 mục II.1a): không phải tả."
+    },
+    {
+     "t": "Viêm ruột thừa / biến chứng bụng ngoại khoa (giãn đại tràng, thủng)",
+     "n": "Đau hạ vị và hố chậu trái, không khu trú hố chậu phải, không đề kháng nên ít nghĩ; nhưng người cao tuổi không điển hình và đã dùng loperamid: cần CT bụng liều thấp ở bệnh viện (WSES 2025 KC 3.4; IDSA 2017 khuyến cáo 25: hình ảnh tìm giãn đại tràng độc, khí tự do ở người cao tuổi nhiễm Salmonella xâm lấn)."
+    },
+    {
+     "t": "Tiêu chảy do Clostridioides difficile sau ciprofloxacin",
+     "n": "Tiêu chảy có trước kháng sinh; xét nghiệm độc tố tại bệnh viện nếu không có căn nguyên khác (IDSA 2017 khuyến cáo 18)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Gọi xe cấp cứu chuyển ngay bệnh viện đa khoa huyện (18 km), gọi báo trước, nhân viên y tế đi kèm; không chờ xét nghiệm hay kết quả vi sinh",
+     "v": "c",
+     "n": "Đạt tiêu chí nguy cơ cao của nhiễm khuẩn huyết: chuyển cấp cứu bằng phương tiện phù hợp (thường xe cấp cứu) và báo trước (NICE NG253 2025 mục 1.7.1–1.7.2, Bảng 1). QĐ 5642 Nhiễm khuẩn huyết mục 2.1: sốc khi HA tâm thu giảm > 40 mmHg so với nền."
+    },
+    {
+     "t": "Đặt đường truyền ngay và truyền dịch đẳng trương (Ringer lactat hoặc NaCl 0,9%) từng bolus 250 ml, đánh giá lại HA, ý thức, hơi thở sau mỗi bolus, tối đa 1.000 ml; vừa truyền vừa chờ xe",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 41: dịch đẳng trương tĩnh mạch khi mất nước nặng, sốc hoặc thay đổi ý thức; QĐ 5642 mục 4.2.3a (Ringer lactat, NaCl 0,9%). Thể tích bolus 250 ml, đánh giá lại, tối đa 1.000 ml: NG253 mục 1.8.4–1.8.8 (viết cho bệnh viện; áp dụng tại phòng khám trong lúc chờ xe là suy luận của biên tập). Giới hạn thể tích riêng cho ≥ 75 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cấy máu và kháng sinh tĩnh mạch phổ rộng (cephalosporin thế hệ 3, ví dụ ceftriaxon) ngay tại bệnh viện sau khi cấy máu; không bắt buộc tiêm kháng sinh trước khi chuyển vì đi 30 phút",
+     "v": "c",
+     "n": "QĐ 5642 Nhiễm khuẩn huyết mục 3.1: điều trị ngay khi nghĩ đến nhiễm khuẩn huyết sau khi đã cấy máu; mục 3.2a: cephalosporin thế hệ 3, phối hợp quinolon hoặc aminoglycosid; mục 3.2 (nhiễm trùng ống tiêu hóa): cephalosporin thế hệ 3–4, carbapenem hoặc ciprofloxacin ± metronidazol. NG253 mục 1.7.7: kháng sinh trước chuyển chỉ nêu khi chuyển > 1 giờ. liều ceftriaxon theo QĐ 5642/2015 mục 4.2.2a: 50–100 mg/kg/ngày × 5 ngày."
+    },
+    {
+     "t": "Tiêm kháng sinh ngay tại phòng khám trước khi chuyển",
+     "v": "a",
+     "n": "Chấp nhận được nhưng không bắt buộc: QĐ 5642 mục 3.1 nói điều trị ngay (sau khi cấy máu) và ưu tiên tĩnh mạch; phòng khám không cấy máu được. NG253 mục 1.7.7 chỉ yêu cầu khi chuyển > 1 giờ."
+    },
+    {
+     "t": "Ngưng toàn bộ thuốc hạ áp (amlodipin, losartan), không dùng NSAID, loperamid; mang theo vỏ thuốc",
+     "v": "c",
+     "n": "HA tâm thu 94 mmHg, thấp hơn nền; KDIGO 2024 PP 4.3.2 (tr. S250) về tạm ngưng thuốc khi bệnh gây mất nước. IDSA 2017 khuyến cáo 47: tránh loperamid khi sốt, viêm."
+    },
+    {
+     "t": "Giấy chuyển viện: diễn biến, creatinin 92 → 134 → 246 µmol/L, Na, CRP, thuốc tự dùng (loperamid 5 ngày, ciprofloxacin 2 ngày); gửi kèm mẫu phân; đề nghị cấy máu, cấy phân, hình ảnh bụng",
+     "v": "c",
+     "n": "Xét nghiệm phân khi sốt, phân nhầy máu, dấu hiệu nhiễm khuẩn huyết (IDSA 2017 khuyến cáo 8, 9); hình ảnh khi nghi biến chứng bụng ở người cao tuổi (khuyến cáo 25; WSES 2025 KC 3.4)."
+    },
+    {
+     "t": "Cho về nhà, tiếp tục oresol và hẹn khám lại ngày mai",
+     "v": "w",
+     "n": "Bỏ sót tiêu chí nguy cơ cao (NG253 Bảng 1, mục 1.7.1); nhiễm khuẩn huyết tử vong 20–50% (QĐ 5642 Nhiễm khuẩn huyết, tr. 79)."
+    },
+    {
+     "t": "Giữ truyền dịch tại phòng khám nhiều giờ chờ đáp ứng rồi mới quyết định chuyển",
+     "v": "w",
+     "n": "Phòng khám không có giường lưu, không cấy máu, không kháng sinh tiêm sẵn; NG253 mục 1.7.1–1.7.2: chuyển ngay khi đạt tiêu chí nguy cơ cao."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ngộ độc thực phẩm do vi khuẩn xâm nhập, ngày thứ 6: tiêu chảy nhầy máu, sốt 38,6 °C, tái phát sau khi bỏ loperamid",
+     "Nghi nhiễm khuẩn huyết nguy cơ cao: lú lẫn cấp (4AT 12/12), HA 94/56 (thấp hơn nền 41 mmHg), mạch 114, nhịp thở 24, gần 18 giờ chưa tiểu, BC 17,8, CRP 168",
+     "Mất nước nặng, tổn thương thận cấp (creatinin 246 µmol/L, ure 21,6), hạ natri 129",
+     "Hướng xử trí: cấp cứu, truyền dịch, chuyển viện huyện bằng xe cấp cứu có báo trước"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: ý thức và chức năng từ sáng → nước tiểu lần cuối → tính chất phân, máu, sốt từ đêm qua → gia đình đã làm theo dặn lượt 1 chưa → thuốc huyết áp, kháng sinh. Khám: tổng trạng, 4AT, bụng, trực tràng, tim, hố thắt lưng – bàng quang. CLS: công thức máu, creatinin, điện giải, CRP, nước tiểu, cấy máu và cấy phân (gửi tuyến trên).",
+     "Vì sao xấu đi dù làm đúng: sau khi bỏ loperamid, tiêu chảy xâm nhập lộ ra (nhầy máu, sốt, quặn bụng); ông không uống đủ bù lượng mất. Người cao tuổi mất nước, suy thận cấp, nhiễm khuẩn huyết là các biến chứng được nêu (QĐ 5642 mục 1, 5). Tiến triển này không do sai sót của lượt 1.",
+     "Nguy cơ cao theo NG253 Bảng 1 (tr. 22–23): trạng thái tâm thần mới (4AT ≥ 4 là có thể mê sảng, Bellelli 2014), HA tâm thu thấp hơn nền hơn 40 mmHg (94 so với 135), chưa tiểu 18 giờ. Mạch 114 và nhịp thở 24 chỉ là tiêu chí nguy cơ trung bình. Theo QĐ 5642 Nhiễm khuẩn huyết mục 2.1, sốc khi HA tâm thu giảm > 40 mmHg so với nền; creatinin tăng > 44,2 µmol/L là rối loạn chức năng cơ quan.",
+     "Cận lâm sàng: BC 17,8 > 12 và CRP 168 > 150 (mục 2.2), tiểu cầu 118 chưa < 100. Cơ sở không cấy máu, không lactate, không hình ảnh: không thể loại trừ, nên xử trí như nghi nhiễm khuẩn huyết.",
+     "Loại trừ: tả (không nước vo gạo); biến chứng ngoại khoa do loperamid hoặc viêm ruột thừa cần CT ở bệnh viện (WSES 2025 KC 3.4; IDSA 2017 khuyến cáo 25); C. difficile sau ciprofloxacin (khuyến cáo 18). Applicability: nhóm ≥ 75 tuổi và người nhiều bệnh nền bị loại khỏi hầu hết thử nghiệm; NG253 1.4.2, 1.4.4, 1.4.5, 1.4.9 nhắc người già có thể không sốt, mạch không nhanh, HA phải so với nền, suy giảm chức năng là dấu hiệu sớm."
+    ],
+    "phan_tich_xu_tri": [
+     "Cấp cứu vì đạt tiêu chí nguy cơ cao: chuyển bằng xe cấp cứu, báo trước (NG253 1.7.1–1.7.2). Truyền dịch đẳng trương trong lúc chờ (IDSA 2017 khuyến cáo 41; QĐ 5642 mục 4.2.3a), bolus 250 ml và đánh giá lại (NG253 1.8.4–1.8.8, hướng dẫn cho bệnh viện). Không dùng glucose 5% đơn độc vì Na 129.",
+     "Kháng sinh tĩnh mạch sau cấy máu ở bệnh viện (QĐ 5642 Nhiễm khuẩn huyết mục 3.1–3.2); khoảng chuyển 30 phút nên không cần tiêm trước (NG253 1.7.7). liều ceftriaxon theo QĐ 5642/2015 mục 4.2.2a: 50–100 mg/kg/ngày × 5 ngày.",
+     "Ngưng thuốc hạ áp và loperamid (KDIGO 2024 PP 4.3.2; IDSA 2017 khuyến cáo 47). Giấy chuyển ghi đầy đủ thuốc tự dùng vì kháng sinh trước đó có thể ảnh hưởng kết quả cấy (nhận định của biên tập, không có trong tài liệu đã tải).",
+     "Không còn là bài toán ngoại trú: hai lựa chọn sai là về nhà (bỏ sót nguy cơ cao) và chuyển viện bằng xe nhà không báo trước, không truyền dịch."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ringer lactat hoặc NaCl 0,9%",
+      "ham_luong": "Chai 500 ml",
+      "lieu": "Bolus 250 ml, đánh giá lại HA, ý thức, nhịp thở sau mỗi bolus; tối đa 1.000 ml",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Ngay khi đặt đường truyền, trong lúc chờ xe",
+      "so_ngay": "Trong lúc chờ và trên đường chuyển; bệnh viện tiếp tục",
+      "ghi_chu": "IDSA 2017 khuyến cáo 41; QĐ 5642 mục 4.2.3a; NG253 1.8.4–1.8.8 (bệnh viện). Giới hạn thể tích riêng cho ≥ 75 tuổi: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kháng sinh tĩnh mạch phổ rộng (cephalosporin thế hệ 3, ví dụ ceftriaxon)",
+      "ham_luong": "Theo bệnh viện",
+      "lieu": "Ceftriaxon 50–100 mg/kg/ngày × 5 ngày (QĐ 5642/2015, Tiêu chảy nhiễm khuẩn mục 4.2.2a – liều chung trong mục áp dụng chủ yếu cho người lớn; ông 52 kg ≈ 2,6–5,2 g/ngày, tính biên tập); bệnh viện quyết định cuối cùng theo chức năng thận và cấy máu",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Sau khi cấy máu 2 mẫu, tại bệnh viện",
+      "so_ngay": "Đổi theo cấy máu và kháng sinh đồ",
+      "ghi_chu": "QĐ 5642 Nhiễm khuẩn huyết mục 3.1, 3.2 (tr. 81–83). Phòng khám không bắt buộc tiêm trước (NG253 1.7.7)."
+     },
+     {
+      "thuoc": "Amlodipin, losartan",
+      "ham_luong": "5 mg; 50 mg",
+      "lieu": "NGƯNG",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Bệnh viện quyết định dùng lại",
+      "ghi_chu": "KDIGO 2024 PP 4.3.2 (tr. S250); HA tâm thu 94 mmHg."
+     }
+    ],
+    "dan_do": [
+     "Gọi xe cấp cứu ngay; con gái đi cùng, mang vỏ thuốc loperamid, ciprofloxacin, sổ khám cũ và mẫu phân nếu lấy được.",
+     "Không ép ông ăn uống khi đang lơ mơ; để ông nằm nghiêng, không để ông tự đứng dậy.",
+     "Báo cho bà vợ ở nhà; gia đình rửa tay kỹ, không dùng chung đồ ăn thừa (IDSA 2017 khuyến cáo 52, 54).",
+     "Giải thích: bệnh đã nặng lên nhiễm trùng toàn thân và thận; đây không phải do gia đình làm sai, và có thể ông phải nằm viện nhiều ngày."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Xe cấp cứu đưa ông Thạnh đến bệnh viện huyện sau 35 phút; sau 750 ml dịch HA lên 104/62. Cấy máu hai mẫu mọc Salmonella không thương hàn, cấy phân cùng căn nguyên. CT bụng liều thấp: viêm đại tràng sigma – trực tràng, không thủng, không giãn đại tràng, ruột thừa bình thường. Ông dùng ceftriaxon tĩnh mạch; creatinin lên 288 µmol/L ngày thứ 2 nên được chuyển bệnh viện tỉnh, chạy thận nhân tạo 2 lần, sảng kéo dài 6 ngày. Sau 24 ngày nằm viện ông về nhà với creatinin 132 µmol/L (nền cũ 92), đi lại phải có người đỡ, không còn trông quầy được. Mọi quyết định ở phòng khám đều đúng hướng nhưng kết cục vẫn xấu: bệnh nhiễm khuẩn xâm nhập ở người 82 tuổi có thể diễn tiến nhanh dù xử trí chuẩn; không đánh giá một quyết định đúng qua kết cục xấu (outcome bias).",
+ "nhieu": [
+  "Tự uống thuốc 5 ngày: loperamid làm phân thưa đi nên ông tưởng 'đỡ' nhưng bụng chướng và sốt nhẹ vẫn còn; ciprofloxacin 2 ngày có thể làm kết quả cấy khó diễn giải (nhận định biên tập, không có trong tài liệu đã tải). Phải hỏi từng nhóm thuốc.",
+  "Gia đình thúc ép: ông gạt 'chuyện vặt', thông tin quan trọng (ngủ nhiều, vịn tường, vợ cùng bệnh, sổ khám cũ) đến từ con gái.",
+  "Thuốc hạ áp: HA 108/62 nghe 'bình thường' nhưng thấp hơn nền 135/80; losartan cộng mất nước gây tổn thương thận cấp.",
+  "Người rất cao tuổi biểu hiện không điển hình: sốt nhẹ, mạch 96; chỉ số gần bình thường che nguy cơ (NG253 1.4.2, 1.4.4, 1.4.5).",
+  "Không rõ yếu tố khởi phát: chỉ thấy khi hỏi bữa ăn và người cùng ăn.",
+  "Chỉ có xét nghiệm cơ bản: không soi, cấy phân, không cấy máu, siêu âm, CT; lượt 1 quyết định bằng lâm sàng + creatinin, điện giải; lượt 2 dùng tiêu chí lâm sàng NG253 để chuyển ngay không chờ xét nghiệm."
+ ],
+ "bai_hoc_bien": [
+  "Tiêu chảy ở người rất cao tuổi không phải chuyện vặt: đánh giá mất nước, thuốc hạ áp, chức năng sinh hoạt và creatinin ngay lượt đầu (IDSA 2017 khuyến cáo 5; QĐ 5642 mục 3.1, 5).",
+  "Hỏi từng nhóm thuốc tự mua: loperamid có thể che dấu tiêu chảy xâm nhập và kéo dài sốt (IDSA khuyến cáo 47).",
+  "Mất nước + thuốc hạ áp nhóm ARB: tạm ngưng và viết kế hoạch dùng lại (KDIGO 2024 PP 4.3.2).",
+  "Người già nhiễm trùng có thể không sốt, mạch không nhanh; so HA với mức nền và tìm thay đổi ý thức, chức năng (NG253 1.4.2–1.4.9).",
+  "Đạt bất kỳ tiêu chí nguy cơ cao ở cộng đồng: chuyển cấp cứu, báo trước, không chờ xét nghiệm (NG253 1.7.1–1.7.2).",
+  "Xử trí đúng vẫn có thể ra kết cục xấu; đánh giá quyết định theo thông tin lúc đó, không theo kết cục."
+ ],
+ "diem_nho": [
+  "Tiêu chảy do vi khuẩn xâm nhập: phân nhầy, đôi khi máu; sốt; biến chứng sốc giảm thể tích, suy thận cấp, nhiễm khuẩn huyết (QĐ 5642 mục 3.1, 5).",
+  "ORS đầu tay cho mất nước nhẹ – vừa; IV khi nặng, sốc, thay đổi ý thức (IDSA 2017 khuyến cáo 39, 41; Bảng 7).",
+  "Loperamid: tránh khi sốt, nghi tiêu chảy viêm; tối đa 8 mg/ngày, ≤ 48 giờ ở bệnh nhẹ (IDSA khuyến cáo 47; ACG 2016 tr. 609–610).",
+  "Kháng sinh kinh nghiệm: QĐ 5642 mục 4.2.1 so với IDSA khuyến cáo 36 – ghi cả hai (sổ mâu thuẫn).",
+  "NG253 Bảng 1: HA tâm thu ≤ 90 hoặc thấp hơn nền > 40 mmHg, trạng thái tâm thần mới, chưa tiểu 18 giờ là nguy cơ cao.",
+  "Nhiễm khuẩn huyết: cấy máu ≥ 2 mẫu rồi kháng sinh ngay (QĐ 5642 Nhiễm khuẩn huyết mục 2.3, 3.1); 4AT ≥ 4 là có thể mê sảng (Bellelli 2014)."
+ ],
+ "nguon": [
+  "BYT QĐ 5642/2015 – TL-0038 – Bệnh tiêu chảy do vi khuẩn mục 1–5 (tr. 73–77); Nhiễm khuẩn huyết mục 2.1–2.3, 3.1–3.2 (tr. 79–82)",
+  "IDSA 2017 – TL-0230 – khuyến cáo 5, 8, 9, 18, 20, 22, 25, 29, 30, 36, 39–43, 45, 47, 49, 52, 54; Bảng 7",
+  "ACG 2016 – TL-0233 – khuyến cáo 5, 6, 9–10; loperamid tr. 609–610; Bảng 4 (tr. 611)",
+  "NICE NG253 2025 – TL-0057 – mục 1.4.2–1.4.9, 1.7.1–1.7.2, 1.7.7, 1.7.9–1.7.10, 1.8.4–1.8.8; Bảng 1 (tr. 22–23)",
+  "KDIGO 2024 CKD – TL-0308 – Practice Point 4.3.2 (tr. S250), Hình 47; ADA 2026 – TL-0296 – mục 11, KC 11.6d",
+  "BYT QĐ 4178/2007 – TL-0176 – Bệnh tả mục II.1–II.2",
+  "WSES 2025 viêm ruột thừa (JAMA Surg 2026;161:283–295) – TL-0053 – KC 1, 3.4",
+  "Bellelli G et al. 2014, Validation of the 4AT, Age Ageing – TL-0597"
+ ],
+ "phien_ban_ca": "1 – soát nguồn với kho tài liệu (2026-10-23)",
+ "ghi_chu_bien_tap": [
+  "Bản 1 viết 2026-10-23. Tài liệu đã đọc: TL-0038 Tiêu chảy do vi khuẩn mục 1–5 và Nhiễm khuẩn huyết mục 2–3; TL-0230 khuyến cáo 3–54, Bảng 7; TL-0233 khuyến cáo 5–6, 9–10; TL-0057 NG253 mục 1.4–1.8; TL-0308 PP 4.3.2; TL-0296 KC 11.6d; TL-0176 mục II; TL-0053 KC 1, 3.4; TL-0597.",
+  "Thiếu tài liệu: liều smecta, spasmaverin; giới hạn thể tích dịch ở ≥ 75 tuổi; xử trí amlodipin khi mất nước; quy tắc ngày ốm cho người không mắc bệnh thận hoặc đái tháo đường; ảnh hưởng kháng sinh tự uống lên kết quả cấy.",
+  "Đã theo sổ mâu thuẫn: kháng sinh kinh nghiệm tiêu chảy có sốt (TH-0717), loperamid (TH-0717/TH-0624), men vi sinh, dạng dịch bù, thời gian azithromycin (TH-0601), bạch cầu trong phân, tạm ngưng RAS khi mất dịch (MT-0750 mục 1), dịch IV khi hạ natri (TK-0267).",
+  "Thiết kế: lượt 1 ve_hen (NG253 nguy cơ trung bình, uống được, có người chăm), lượt 2 cap_cuu (nguy cơ cao); khoa_cls giữ xquang, sieu_am (kéo theo CT, nội soi); ECG và dịch truyền có ở phòng khám."
+ ]
+}
