@@ -1,0 +1,837 @@
+{
+ "ma_ca": "TH-1196",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_soi_mat_con_dau_quan_mat_khang_dong",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Sỏi mật / cơn đau quặn mật",
+  "chan_doan_phai_loai_tru": [
+   "Viêm túi mật cấp",
+   "Viêm tụy cấp"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Thợ sơn",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Mỹ Dung",
+  "tuoi": 47,
+  "gioi": "Nữ",
+  "nghe": "Thợ sơn nhà",
+  "can_nang": 62,
+  "chieu_cao": 156,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói nhanh, dứt khoát, coi nhẹ bệnh, quen chịu đau để kịp công trình. Làm nghề sơn hai mươi năm, trụ cột kinh tế của nhà, hai con đang đi học. Rất sợ mất việc.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: ra hiệu thuốc mua ibuprofen uống ba viên mỗi ngày, coi là 'thuốc đau bụng' nên không nhắc tới. Hỏi chung về thuốc chỉ nói 'thuốc bao tử'; chỉ kể ibuprofen khi bác sĩ hỏi cụ thể thuốc giảm đau, kháng viêm hay thuốc tự mua, và chỉ kể thuốc chống đông khi bác sĩ hỏi về thuốc loãng máu hay tiền sử nhập viện.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a76",
+   "toc": "#2e2724",
+   "kieuToc": "bui",
+   "ao": "#6f7f93",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "binh"
+  }
+ },
+ "ly_do_kham": "Đau bụng trên từng cơn hai tuần, đã tự uống thuốc năm ngày",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT. Siêu âm bụng, xét nghiệm máu và điện tim làm được tại chỗ. Bệnh viện tỉnh (khoa ngoại, huyết học, tim mạch) cách 30 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Lê Thị Mỹ Dung, 47 tuổi, thợ sơn nhà. Đến vì đau bụng trên từng cơn khoảng hai tuần, tự mua thuốc uống năm ngày chưa hết hẳn. Chị nói vội, hỏi có khám nhanh được không vì còn phải đi làm. Sinh hiệu: HA 126/78 mmHg, mạch 76 l/p, nhiệt độ 36,7 °C, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Dung hết đau, không sốt, không vàng da, Murphy lâm sàng và siêu âm âm tính, thành túi mật 2,8 mm: cơn đau quặn mật không biến chứng, chưa có chỉ định nhập viện (EASL 2016 tr. 6–8; Tokyo Guidelines 2018 Table 1). Nhập viện làm chị mất ngày công mà việc cần làm là ngưng ibuprofen, đổi sang paracetamol và hẹn ngoại khoa (EASL 2016 tr. 8). Chị vốn ngại bệnh viện nên dễ bỏ về giữa chừng.",
+    "cap_cuu": "Chị Dung không đau liên tục, sốt, vàng da hay nôn nhiều; huyết động ổn, Hb 121 g/L, phân không đen nên không có chỉ định cấp cứu (EASL 2016 tr. 7, 16–17). Chuyển cấp cứu làm chị chờ lâu, tốn kém, có thể nhận kháng sinh không cần (EASL 2016 tr. 8). Điều chị cần là kế hoạch rõ: không NSAID khi đang dùng thuốc chống đông, giấy hẹn ngoại khoa, dấu hiệu quay lại."
+   },
+   "loi_mo": "Chào bác sĩ, tôi đau bụng trên mấy tuần nay, uống thuốc thì đỡ rồi lại đau. Bác sĩ khám nhanh giùm, chiều tôi còn phải đi làm.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "126/78",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau bụng vùng trên rốn và dưới sườn phải từng cơn khoảng hai tuần, tự mua thuốc uống năm ngày chưa hết hẳn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem_dau",
+     "noi_dung": "Đau ở thượng vị và dưới sườn phải, xuyên ra sau lưng bên phải, lên dưới xương bả vai phải. Đến đột ngột rồi tăng dần, chị chấm 7/10, phải ngồi gập người; tự hết sau khoảng 40 phút đến 2 giờ rưỡi, hết hẳn thì bình thường. Khoảng 5 cơn trong hai tuần, không cơn nào quá 3 giờ. Không đau khi gắng sức, không liên quan hít thở hay xoay người.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau quặn mật: vị trí, lan, thời gian, tự hết"
+    },
+    {
+     "id": "bua_an",
+     "noi_dung": "Cơn đầu tiên đến khoảng một giờ sau bữa tiệc cưới nhiều thịt mỡ, hai lần đau đánh thức chị lúc 1–2 giờ sáng. Cơn gần nhất cách đây hai ngày sau bữa cơm tối có thịt kho. Hôm nay chỉ còn ê hạ sườn phải. Trong cơn buồn nôn, nôn hai lần ra thức ăn, không có máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Liên quan bữa ăn nhiều mỡ, về đêm"
+    },
+    {
+     "id": "khong_sot_vang_da",
+     "noi_dung": "Không sốt, không ớn lạnh, không vàng da, không ngứa; nước tiểu vàng trong, phân vàng nâu bình thường. Chưa có cơn nào đau liên tục cả ngày hoặc đau xuyên lưng liên tục kèm nôn không dứt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc viêm túi mật, viêm tụy, sỏi ống mật chủ"
+    },
+    {
+     "id": "tien_su_pe",
+     "noi_dung": "Bảy tháng trước chị khó thở và đau ngực bên phải, nhập viện bệnh viện tỉnh 9 ngày, được chẩn đoán thuyên tắc phổi; bác sĩ nói chưa tìm ra nguyên nhân. Không phẫu thuật, không bất động lâu, không dùng nội tiết trước đó. Hiện không khó thở, không đau ngực kiểu đau khi hít sâu, chân không sưng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử thuyên tắc phổi; loại trừ tái phát"
+    },
+    {
+     "id": "khang_dong",
+     "noi_dung": "Chị đang uống rivaroxaban hằng ngày vào buổi sáng. Ba tuần trước bác sĩ ở bệnh viện tỉnh đổi từ viên 20 mg sang viên 10 mg (hộp khác, viên nhỏ hơn), nói là dùng kéo dài; chị chỉ nhớ 'thuốc loãng máu liều thấp'. Chị uống đều, không bỏ ngày nào.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chị nói 'không, chỉ thuốc bổ'. Chị chỉ kể khi bác sĩ hỏi về thuốc chống đông, thuốc loãng máu, bệnh tim phổi hoặc đã từng nhập viện, hoặc khi thấy vết bầm. Chị ngại nói vì sợ công ty biết chị có bệnh.",
+     "y": "Thuốc chống đông đang dùng, mới đổi liều"
+    },
+    {
+     "id": "tu_uong_thuoc",
+     "noi_dung": "Từ lúc đau chị ra hiệu thuốc mua ibuprofen 400 mg, uống 3 viên mỗi ngày trong 5 ngày (hết hôm kia), kèm gói thuốc kháng acid. Chị coi đó là 'thuốc đau bụng' chứ không phải thuốc cần nói với bác sĩ, vì thuốc loãng máu thì chị đã uống riêng.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung về thuốc thì chị chỉ nhắc 'thuốc bao tử'. Chỉ kể ibuprofen khi bác sĩ hỏi cụ thể thuốc giảm đau, thuốc kháng viêm, thuốc tự mua ở hiệu thuốc, hoặc hỏi trong hai tuần đau đã uống gì và bao nhiêu ngày.",
+     "y": "Tự uống NSAID 5 ngày trên nền thuốc chống đông"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Ba ngày nay chảy máu chân răng nhẹ khi đánh răng, thấy vết bầm ở cẳng tay phải 'không nhớ va vào đâu'. Không nôn ra máu, phân vàng, không đi phân đen, không chảy máu cam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc chảy máu do NSAID và thuốc chống đông"
+    },
+    {
+     "id": "nghe_nghiep",
+     "noi_dung": "Sơn nhà hai mươi năm bằng sơn dầu và dung môi. Hợp đồng sắp tới là sơn mặt ngoài nhà cao tầng trên giàn giáo 8–12 m. Cơn đau gần nhất xảy ra khi chị đứng trên thang, phải leo xuống ngồi nghỉ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghề thợ sơn, làm việc trên cao"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Công ty thầu xây dựng yêu cầu giấy chứng nhận sức khỏe trong ba ngày tới mới ký hợp đồng sơn mặt ngoài. Chị là lao động chính, hai con đang đi học. Chị sợ nếu bác sĩ ghi bệnh (thuyên tắc phổi, thuốc chống đông) thì mất việc, nên chỉ muốn 'bác sĩ khám qua rồi ký giấy khỏe'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao chị đi khám hôm nay, chị lo nhất điều gì, công việc có bị ảnh hưởng không, hoặc khi bác sĩ hỏi về giấy tờ, hợp đồng.",
+     "y": "Lý do thật: xin giấy chứng nhận sức khỏe đi làm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, BMI 25,5 kg/m². Củng mạc không vàng, niêm mạc hồng nhạt. Vết bầm tím nhạt 3×4 cm ở mặt ngoài cẳng tay phải và hai vết nhỏ ở cẳng chân; không chấm xuất huyết dưới da, không chảy máu chân răng đang rỉ.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm. Ấn sâu hạ sườn phải hơi khó chịu, không đau chói; dấu Murphy lâm sàng âm tính. Không sờ thấy túi mật to hay khối, không phản ứng thành bụng, gan lách không to, thượng vị không đau.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Hai chân không phù, hai bắp chân cân đối, không căng đau, không nóng đỏ, không giãn tĩnh mạch nổi.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Phân vàng nâu, không đen, không máu.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều, tần số 76 l/p, không âm thổi, không tiếng ngựa phi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran, không tiếng cọ màng phổi.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "abdus": {
+     "v": "e",
+     "r": "Gan bình thường. Túi mật căng vừa, nhiều viên sỏi echo dày bóng lưng kích thước 6–12 mm, di động theo tư thế. Thành túi mật 2,8 mm, không dịch quanh túi mật, dấu Murphy siêu âm âm tính. Ống mật chủ 4 mm, không sỏi. Đầu và thân tụy không to, đuôi tụy bị hơi ruột che. Hai thận không ứ nước.",
+     "n": "Siêu âm là chỉ định đầu tay khi có đau mật gần đây, chính xác trên 95% (EASL 2016 tr. 6: khuyến cáo mạnh); xét luôn tiêu chí viêm túi mật: thành dày trên 4 mm, dịch quanh túi, Murphy siêu âm (EASL 2016 tr. 7)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 7,2 G/L · Hb 121 g/L · TC 262 G/L",
+     "bang": {
+      "wbc": 7.2,
+      "neu_pct": 60.0,
+      "neu": 4.32,
+      "lym_pct": 31.0,
+      "lym": 2.23,
+      "mono_pct": 6.0,
+      "mono": 0.43,
+      "eos_pct": 2.5,
+      "eos": 0.18,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.15,
+      "hgb": 121,
+      "hct": 0.36,
+      "mcv": 87.0,
+      "mch": 29.2,
+      "mchc": 336,
+      "rdw": 13.4,
+      "plt": 262
+     },
+     "n": "Cần ở người dùng thuốc chống đông kéo dài kèm NSAID tự mua: đánh giá định kỳ dung nạp, chức năng gan thận, nguy cơ chảy máu (ESC 2019 bảng 8.4, tr. 577: loại I, mức C). Hb 121 g/L sát giới hạn dưới nữ, là mốc nền. Với sỏi không biến chứng, xét nghiệm thường bì"
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 3 mg/L (ngưỡng < 5)",
+     "n": "CRP tăng thuộc nhóm B của tiêu chuẩn viêm túi mật cấp (Tokyo Guidelines 2018 Table 1)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 22 · ALT 20 U/L · Bilirubin toàn phần 11 µmol/L · ALP 78 · GGT 30 U/L",
+     "n": "Men gan, bilirubin bình thường, ống mật chủ không giãn: khả năng sỏi ống mật chủ rất thấp (EASL 2016 tr. 16); xét chức năng gan trước khi dùng paracetamol (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1)."
+    },
+    "lipase": {
+     "v": "u",
+     "r": "Lipase 41 U/L (giới hạn trên của phòng xét nghiệm 60 U/L).",
+     "n": "Loại trừ viêm tụy cấp: 2 trong 3 tiêu chuẩn (Atlanta 2012; ACG 2024 mục Diagnosis)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,1 mmol/L · Creatinin 70 µmol/L · eGFR 92 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.1,
+      "creat": 70,
+      "egfr": 92
+     },
+     "n": "Xét chức năng thận khi chọn thuốc giảm đau (EASL 2016 tr. 8) và khi dùng thuốc chống đông kéo dài (ESC 2019 bảng 8.4, tr. 577)."
+    },
+    "inr": {
+     "v": "a",
+     "r": "INR 1,1",
+     "n": "Không đổi xử trí. Cách theo dõi rivaroxaban bằng xét nghiệm đông máu không có trong tài liệu đã tải."
+    },
+    "ct_bung": {
+     "n": "Không cần: CT ít hữu ích cho sỏi túi mật (EASL 2016 tr. 6–7). Phòng khám không có CT."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cơn đau quặn mật do sỏi túi mật (nhiều sỏi 6–12 mm) không biến chứng ở phụ nữ 47 tuổi thợ sơn, nhiều cơn trong hai tuần; đã loại trừ viêm túi mật cấp và viêm tụy cấp; có dùng NSAID tự mua 5 ngày trên nền rivaroxaban 10 mg (tiền sử thuyên tắc phổi), hiện chưa có chảy máu nặng, Hb 121 g/L",
+     "ok": 1,
+     "n": "Đau thượng vị và hạ sườn phải lan lưng phải, đột ngột, tự hết sau 40 phút đến 2,5 giờ, khởi phát khoảng một giờ sau bữa nhiều mỡ, thức giấc ban đêm (EASL 2016 tr. 6); siêu âm thấy sỏi, thành túi mật 2,8 mm, không dịch, Murphy siêu âm âm tính; không sốt, không vàng da."
+    },
+    {
+     "t": "Viêm túi mật cấp",
+     "n": "Murphy âm, không sốt, CRP và bạch cầu bình thường, siêu âm không đặc trưng: chưa đủ tiêu chuẩn (Tokyo Guidelines 2018 Table 1); cơn dài nhất dưới 3 giờ, đau trên 5 giờ mới gợi ý (EASL 2016 tr. 7)."
+    },
+    {
+     "t": "Viêm tụy cấp",
+     "n": "Đau quặn từng cơn tự hết, lipase 41 U/L, tụy không to (Atlanta 2012; ACG 2024 mục Diagnosis)."
+    },
+    {
+     "t": "Sỏi ống mật chủ, viêm đường mật cấp",
+     "n": "Không vàng da, không sốt, men gan và bilirubin bình thường, ống mật chủ 4 mm (EASL 2016 tr. 16)."
+    },
+    {
+     "t": "Chảy máu do NSAID cộng thuốc chống đông",
+     "n": "Không nôn máu, không phân đen, Hb 121 g/L; bầm da và chảy chân răng nhẹ cho thấy nguy cơ thật, cần ngưng NSAID (ESC 2019 mục 8.2, tr. 576)."
+    },
+    {
+     "t": "Thuyên tắc phổi tái phát",
+     "n": "Không khó thở, nhịp thở 16, SpO₂ 98%, chân không sưng, đau theo bữa ăn và tự hết kiểu mật."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi kỹ thuốc đang dùng gồm thuốc chống đông và mọi thuốc tự mua (tên, liều, số ngày); ngưng ibuprofen và mọi NSAID tự mua",
+     "v": "c",
+     "n": "NSAID là yếu tố nguy cơ chảy máu ở người dùng thuốc chống đông, nên tránh nếu có thể (ESC 2019 mục 8.2, tr. 576); chống chỉ định tuyệt đối khi có bệnh lý chảy máu không kiểm soát, nhóm nguy cơ thấp là người không dùng thuốc chống đông (QĐ 361/2014 Phụ lục NSAID mục 3.2, 3.3). EASL 2016 tr. 8 xếp NSAID là thuốc đầu tay nhưng yêu cầu cân nhắc chống chỉ định: ở chị, nguy cơ chảy máu quyết định."
+    },
+    {
+     "t": "Giảm đau bằng paracetamol 500 mg, 1–2 viên mỗi lần khi đau, cách 6–8 giờ, tổng dưới 3 g/ngày",
+     "v": "c",
+     "n": "Paracetamol có thể đủ ở một số bệnh nhân (EASL 2016 tr. 8); 500–1.000 mg mỗi lần, cách 6–8 giờ, tối đa 4 g/24 giờ, chống chỉ định khi suy tế bào gan (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1). Chọn mức thận trọng dưới 3 g/ngày theo sổ mâu thuẫn (liều paracetamol tối đa)."
+    },
+    {
+     "t": "Giữ nguyên rivaroxaban 10 mg mỗi sáng, không tự ngưng vì đau bụng",
+     "v": "c",
+     "n": "Thuyên tắc phổi đầu không rõ yếu tố thúc đẩy: nên cân nhắc thuốc chống đông kéo dài không thời hạn (IIa A); sau 6 tháng có thể giảm rivaroxaban 10 mg ngày một lần (IIa A) (ESC 2019 bảng 8.4, tr. 577). Cách ngưng quanh mổ không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Siêu âm bụng tại phòng khám để xác nhận sỏi và tìm dấu viêm túi mật, giãn ống mật chủ",
+     "v": "c",
+     "n": "EASL 2016 tr. 6: khuyến cáo mạnh, chứng cứ cao; Tokyo Guidelines 2018 Table 1."
+    },
+    {
+     "t": "Xét nghiệm máu: công thức máu, creatinin, men gan, bilirubin, lipase, CRP",
+     "v": "c",
+     "n": "Công thức máu, creatinin: nguy cơ chảy máu, chọn thuốc (ESC 2019 bảng 8.4, tr. 577); men gan, bilirubin khi nghi sỏi ống mật chủ (EASL 2016 tr. 16); lipase loại trừ viêm tụy cấp (Atlanta 2012)."
+    },
+    {
+     "t": "Giấy giới thiệu khoa ngoại để cắt túi mật nội soi chương trình, ghi rõ tiền sử thuyên tắc phổi và đang dùng rivaroxaban 10 mg",
+     "v": "c",
+     "n": "Cắt túi mật là ưu tiên cho sỏi có triệu chứng (EASL 2016 tr. 8: khuyến cáo mạnh); cơn không biến chứng nên mổ càng sớm càng tốt (EASL 2016 tr. 13: khuyến cáo yếu). Thời hạn hẹn và xử lý thuốc chống đông trước mổ không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tìm lý do thật của chuyến khám; nói rõ chưa ký giấy 'đủ sức khỏe' ngay hôm nay vì chị đang có bệnh chưa ổn, giấy khám sức khỏe phải khám đầy đủ theo mẫu và ghi trung thực",
+     "v": "c",
+     "n": "Khám sức khỏe phải đủ nội dung theo mẫu, khám để đi làm có cận lâm sàng theo mẫu 03 (TT 25/2026/TT-BYT, Điều 2 khoản 3 sửa Điều 36 khoản 3a, 6). Tiêu chuẩn làm việc trên giàn giáo không có trong tài liệu đã tải: đáp án chỉ dừng ở việc không ký khống."
+    },
+    {
+     "t": "Dặn dấu hiệu phải quay lại hoặc đi cấp cứu ngay: đau trên 5 giờ, sốt, vàng da, đau liên tục lan lưng kèm nôn; phân đen, nôn ra máu, chảy máu không cầm, khó thở, đau ngực",
+     "v": "c",
+     "n": "Đau trên 5 giờ, sốt: viêm túi mật cấp (EASL 2016 tr. 7); vàng da, sốt rét run: viêm đường mật (EASL 2016 tr. 16–17); đau liên tục lan lưng: viêm tụy cấp (Atlanta 2012). Dấu hiệu chảy máu, thuyên tắc phổi: lời dặn thực hành."
+    },
+    {
+     "t": "Thêm thuốc chống co thắt (butylscopolamin) cho cơn đau",
+     "v": "a",
+     "n": "EASL 2016 tr. 8: thuốc chống co thắt có thể dùng thêm, nhưng NSAID giảm đau hiệu quả hơn; liều không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục ibuprofen hoặc kê diclofenac (uống hay tiêm bắp) để cắt cơn như thường lệ",
+     "v": "w",
+     "n": "NSAID tránh ở người dùng thuốc chống đông (ESC 2019 mục 8.2, tr. 576; QĐ 361/2014 Phụ lục NSAID mục 3.2, 3.3), dù là thuốc đầu tay chung (EASL 2016 tr. 8)."
+    },
+    {
+     "t": "Ký giấy chứng nhận đủ sức khỏe làm việc trên cao ngay để chị khỏi mất việc",
+     "v": "w",
+     "n": "Không ký khống, phải khám đủ theo mẫu (TT 25/2026/TT-BYT Điều 36 khoản 6)."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển cấp cứu ngay",
+     "v": "w",
+     "n": "Không có dấu hiệu biến chứng, huyết động ổn; cắt túi mật theo chương trình, không phải cấp cứu (EASL 2016 tr. 8, 13)."
+    },
+    {
+     "t": "Hẹn tái khám sau 10 ngày hoặc ngay khi có cơn",
+     "v": "c",
+     "n": "Mốc 10 ngày là lựa chọn của ca (chờ lịch ngoại khoa, xem đáp ứng sau ngưng NSAID), không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh vì sợ nhiễm trùng trong bụng",
+     "v": "w",
+     "n": "Không sốt, siêu âm không viêm; kháng sinh không khuyến cáo (EASL 2016 tr. 8)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cơn đau quặn mật do sỏi túi mật (nhiều sỏi 6–12 mm, thành 2,8 mm), không biến chứng; nữ 47 tuổi, khoảng 5 cơn trong hai tuần.",
+     "Nền: thuyên tắc phổi không rõ yếu tố thúc đẩy 7 tháng trước, đang dùng rivaroxaban 10 mg/ngày (giảm từ 20 mg ba tuần trước), chưa tái phát.",
+     "Tự uống ibuprofen 400 mg × 3/ngày × 5 ngày trên nền thuốc chống đông: bầm da, chảy chân răng nhẹ, Hb 121 g/L, chưa chảy máu tiêu hóa.",
+     "Lý do thật: cần giấy chứng nhận sức khỏe để ký hợp đồng sơn ngoài nhà cao tầng."
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: đặc điểm đau, liên quan bữa mỡ, sốt, vàng da, đau liên tục; tiền sử và nhập viện; thuốc đang dùng gồm thuốc chống đông và thuốc tự mua; chảy máu; nghề nghiệp; cuối cùng lý do thật. Khám bụng (Murphy), củng mạc, bầm da, chân, tim phổi; siêu âm; xét nghiệm.",
+     "Loại trừ viêm túi mật cấp: cần dấu hiệu tại chỗ, toàn thân và hình ảnh (Tokyo Guidelines 2018 Table 1); chị không sốt, CRP 3 mg/L, thành túi mật dưới 4 mm, không dịch (EASL 2016 tr. 7). Loại trừ viêm tụy cấp: 2 trong 3 tiêu chuẩn (Atlanta 2012); đau quặn không phù hợp (ACG 2024).",
+     "Điểm mấu chốt: NSAID là thuốc đầu tay cho cơn đau quặn mật (EASL 2016 tr. 8) nhưng là yếu tố nguy cơ chảy máu cần tránh ở người dùng thuốc chống đông (ESC 2019 mục 8.2, tr. 576). Hai nguồn không mâu thuẫn: EASL nói chung và yêu cầu cân nhắc chống chỉ định, ESC nói riêng cho người dùng thuốc chống đông. Bầm da, chảy chân răng là cảnh báo thật.",
+     "Lý do thật: giấy phải khám đủ theo mẫu và ghi trung thực (TT 25/2026/TT-BYT Điều 36 khoản 6); cơn đau mật trên giàn giáo kèm thuốc chống đông là nguy hiểm. Tiêu chuẩn sức khỏe làm việc trên cao không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng ibuprofen, dùng paracetamol (EASL 2016 tr. 8; liều theo QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1), chọn dưới 3 g/ngày theo sổ mâu thuẫn. Butylscopolamin có thể thêm nhưng liều không có trong tài liệu đã tải.",
+     "Giữ rivaroxaban 10 mg/ngày (ESC 2019 bảng 8.4, tr. 577: IIa A); đánh giá định kỳ dung nạp, chức năng gan thận, nguy cơ chảy máu (loại I, mức C).",
+     "Căn nguyên: cắt túi mật nội soi (EASL 2016 tr. 8), càng sớm càng tốt khi không biến chứng (tr. 13); cách xử lý thuốc chống đông trước mổ không có trong tài liệu đã tải. Không tan sỏi bằng acid mật hay ESWL, không kháng sinh (EASL 2016 tr. 7–8). Lý do thật: nghe nỗi sợ mất việc, nói rõ không ký khống (TT 25/2026/TT-BYT Điều 36 khoản 6)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên mỗi lần khi đau, cách nhau 6–8 giờ; tổng dưới 3 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi bắt đầu cơn đau, sau ăn nhẹ",
+      "so_ngay": "Khi cần, ngắn ngày cho tới khi mổ",
+      "ghi_chu": "EASL 2016 tr. 8; QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1 (500–1.000 mg mỗi lần, cách 6–8 giờ, tối đa 4 g/24 giờ, không dùng khi suy tế bào gan). Chọn mức dưới 3 g/ngày"
+     },
+     {
+      "thuoc": "Rivaroxaban (đang dùng, không đổi)",
+      "ham_luong": "10 mg",
+      "lieu": "1 viên mỗi sáng",
+      "duong": "Uống",
+      "thoi_diem": "Như đang dùng",
+      "so_ngay": "Tiếp tục cho tới khi bác sĩ ngoại khoa và nơi kê đơn có kế hoạch",
+      "ghi_chu": "ESC 2019 bảng 8.4, tr. 577: kéo dài sau thuyên tắc phổi không rõ yếu tố thúc đẩy (IIa A), liều giảm 10 mg sau 6 tháng (IIa A). Không tự ngưng, không tự thêm thuốc."
+     },
+     {
+      "thuoc": "Ibuprofen và mọi NSAID tự mua (NGƯNG)",
+      "ham_luong": "400 mg",
+      "lieu": "Không dùng",
+      "duong": "Uống",
+      "thoi_diem": "Không",
+      "so_ngay": "Không dùng trong thời gian dùng thuốc chống đông, trừ khi bác sĩ chuyên khoa cho phép",
+      "ghi_chu": "ESC 2019 mục 8.2, tr. 576; QĐ 361/2014 Phụ lục NSAID mục 3.2, 3.3."
+     }
+    ],
+    "dan_do": [
+     "Ngưng ibuprofen và mọi thuốc kháng viêm, giảm đau tự mua; mua thuốc nào cũng nói 'tôi đang uống thuốc loãng máu'.",
+     "Khi lên cơn uống paracetamol 500 mg, 1–2 viên, không quá 6 viên mỗi ngày (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1).",
+     "Tiếp tục rivaroxaban 10 mg mỗi sáng, không tự ngưng; ngưng trước mổ do bác sĩ ngoại khoa và bác sĩ kê thuốc quyết (ESC 2019 bảng 8.4, tr. 577).",
+     "Mang giấy giới thiệu đến khoa ngoại bệnh viện tỉnh trong tuần này, kèm kết quả và hộp rivaroxaban (EASL 2016 tr. 8, 13).",
+     "Cấp cứu ngay nếu đau trên 5 giờ, sốt, vàng da, đau liên tục lan lưng, nôn nhiều (EASL 2016 tr. 7, 16–17); phân đen, nôn máu, chảy máu không cầm, khó thở, đau ngực (lời dặn thực hành).",
+     "Chưa nên lên giàn giáo khi còn lên cơn (lời khuyên an toàn của ca); giấy sức khỏe khám lại đúng mẫu sau khi ổn.",
+     "Tái khám sau 10 ngày hoặc ngay khi có cơn (mốc 10 ngày là lựa chọn của ca)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Chị Dung tái khám sau 10 ngày. Chị đã ngưng ibuprofen, dùng paracetamol khi đau, nói 'đỡ một nửa' vì còn hai cơn nhẹ. Khoa ngoại bệnh viện tỉnh đã khám và hẹn mổ nội soi sau khoảng 5 tuần. Sinh hiệu: HA 124/78 mmHg, mạch 74 l/p, nhiệt độ 36,6 °C, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Dung đỡ rõ (từ 5 cơn còn 2 cơn nhẹ, mỗi cơn dưới 2 giờ), không sốt, Murphy âm, Hb ổn: đây là diễn tiến chờ mổ bình thường. Cơn tự hết là đặc điểm của đau quặn mật (EASL 2016 tr. 6); đau trên 5 giờ, sốt hay đau ấn mới nghĩ viêm túi mật (tr. 7). Nhập viện không làm sỏi biến mất, chỉ làm chị mất ngày công và càng giấu bệnh với chủ thầu.",
+    "chuyen_tuyen": "Gửi chị lên bệnh viện tỉnh ngay trong ngày vì còn đau là quá tay: chị đã có hẹn khoa ngoại, không có dấu hiệu biến chứng, cơn nhẹ đáp ứng paracetamol (EASL 2016 tr. 6–8). Điều cần là liên hệ nơi kê rivaroxaban và ngoại khoa để lịch mổ không vướng.",
+    "cap_cuu": "Chuyển cấp cứu vì cơn nhẹ tự hết là không có cơ sở: không đau trên 5 giờ, không sốt, không vàng da, Hb ổn (EASL 2016 tr. 7, 16–17). Chị phải chờ lâu, làm lại xét nghiệm, có thể nhận kháng sinh không cần (EASL 2016 tr. 8)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi bỏ thuốc kia rồi, đỡ nhiều nhưng vẫn còn đau hai bữa. Ngoại khoa hẹn mổ hơn một tháng nữa, mà công ty giục giấy gấp lắm.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "124/78",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám sau 10 ngày; đỡ nhiều nhưng còn đau hai lần.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Hai cơn nhẹ trong 10 ngày: một cơn sau bữa cơm có thịt kho, đau khoảng 45 phút; một cơn đêm, kéo dài chừng 90 phút. Mỗi lần uống 2 viên paracetamol 500 mg rồi đỡ dần, không nôn, không sốt. Không cơn nào quá 2 giờ; giữa các cơn ăn uống bình thường. Không đau liên tục, không sốt, không vàng da, nước tiểu và phân bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đỡ một phần: số cơn, đáp ứng thuốc, dấu hiệu báo động"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Chị ngưng ibuprofen từ hôm khám, không mua thuốc nào khác. Rivaroxaban 10 mg vẫn uống đều mỗi sáng. Vết bầm ở cẳng tay đã mờ, hết chảy chân răng, phân vàng không đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ và theo dõi chảy máu"
+    },
+    {
+     "id": "ngoai_khoa",
+     "noi_dung": "Bác sĩ ngoại khoa bệnh viện tỉnh khám ba ngày trước, thấy nhiều sỏi, nên mổ nội soi, hẹn khoảng 5 tuần. Bác sĩ dặn phải hỏi ý kiến thầy thuốc đang kê thuốc loãng máu về việc ngưng thuốc trước mổ. Lịch hẹn tái khám nơi kê thuốc là hai tháng nữa, chị chưa biết xin sớm hơn thế nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lịch mổ và vướng mắc thuốc chống đông"
+    },
+    {
+     "id": "lam_viec",
+     "noi_dung": "Hai ngày nay chị đi làm sơn trong nhà, chưa lên giàn giáo; cơn đau đầu tiên trong 10 ngày xảy ra khi đang đứng trên thang thấp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Công việc và an toàn"
+    },
+    {
+     "id": "giay_ksk",
+     "noi_dung": "Công ty gia hạn đến cuối tháng. Chị thú nhận lần trước đến chủ yếu vì tờ giấy; chị sợ ghi thuyên tắc phổi và thuốc chống đông thì họ không nhận.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chuyện công việc, hợp đồng, giấy tờ, hoặc chị lo gì nhất lúc này.",
+     "y": "Lý do thật vẫn còn: giấy chứng nhận sức khỏe"
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng mềm, ấn hạ sườn phải không đau, Murphy lâm sàng âm tính, không phản ứng thành bụng, gan lách không to.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, củng mạc không vàng. Vết bầm ở cẳng tay phải đã nhạt, không bầm mới.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 7,0 G/L · Hb 124 g/L · TC 255 G/L · MCV 87 fL",
+     "n": "Theo dõi sau khi ngưng NSAID: Hb tăng từ 121 lên 124 g/L, không có chảy máu tiềm ẩn. Khuyến cáo đánh giá định kỳ dung nạp và nguy cơ chảy máu khi dùng thuốc chống đông kéo dài (ESC 2019 bảng 8.4, tr. 577)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sỏi túi mật có triệu chứng, cơn đau quặn mật còn tái diễn nhưng giảm (đỡ một phần), chưa biến chứng, đang chờ cắt túi mật nội soi; không còn dùng NSAID, Hb 124 g/L, tiếp tục rivaroxaban 10 mg; vướng mắc phối hợp thuốc chống đông trước mổ",
+     "ok": 1,
+     "n": "Còn hai cơn nhẹ tự hết dưới 2 giờ, đáp ứng paracetamol; Murphy âm, không sốt, Hb ổn. Sỏi vẫn còn nên cơn còn là bình thường (EASL 2016 tr. 8: khoảng một nửa số người đau lại)."
+    },
+    {
+     "t": "Thất bại điều trị sớm / viêm túi mật cấp",
+     "n": "Cơn dưới 2 giờ, không sốt, không đau ấn: chưa đủ tiêu chuẩn (Tokyo Guidelines 2018 Table 1); đau trên 5 giờ mới gợi ý (EASL 2016 tr. 7)."
+    },
+    {
+     "t": "Viêm tụy cấp, sỏi ống mật chủ",
+     "n": "Đau quặn tự hết, không vàng da, không sốt (ACG 2024 mục Diagnosis; EASL 2016 tr. 16)."
+    },
+    {
+     "t": "Chảy máu do NSAID trước đó",
+     "n": "Hb 121 lên 124 g/L, bầm mờ, hết chảy chân răng, phân không đen."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích 'đỡ một phần' là kết quả mong đợi: ngưng NSAID và dùng paracetamol giảm cơn nhưng sỏi vẫn còn nên cơn vẫn có thể tái diễn cho tới khi mổ",
+     "v": "c",
+     "n": "Khoảng một nửa số người đau lại sau cơn đầu; biến chứng 0,5–3%/năm; cắt túi mật là điều trị căn nguyên (EASL 2016 tr. 8). Không tan sỏi bằng acid mật hay ESWL (EASL 2016 tr. 7–8)."
+    },
+    {
+     "t": "Tiếp tục không dùng NSAID; paracetamol 500 mg, 1–2 viên mỗi lần khi đau, dưới 3 g/ngày",
+     "v": "c",
+     "n": "NSAID là yếu tố nguy cơ chảy máu khi dùng thuốc chống đông, nên tránh nếu có thể (ESC 2019 mục 8.2, tr. 576). Paracetamol: EASL 2016 tr. 8; QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1; mức dưới 3 g/ngày theo sổ mâu thuẫn."
+    },
+    {
+     "t": "Giữ rivaroxaban 10 mg mỗi sáng; chủ động liên hệ nơi kê rivaroxaban (viết thư, gọi điện) để xin hẹn sớm hơn và có ý kiến về ngưng thuốc trước mổ gửi lại khoa ngoại",
+     "v": "c",
+     "n": "Thuốc chống đông kéo dài (ESC 2019 bảng 8.4, tr. 577); mổ sớm khi các vấn đề gây mê, phẫu thuật được giải quyết (EASL 2016 tr. 13). Cách tạm ngưng quanh mổ không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kiểm tra lại công thức máu",
+     "v": "c",
+     "n": "Đánh giá định kỳ dung nạp, chức năng gan thận và nguy cơ chảy máu ở người dùng thuốc chống đông kéo dài (ESC 2019 bảng 8.4, tr. 577: loại I, mức C)."
+    },
+    {
+     "t": "Nói chuyện thẳng về giấy chứng nhận sức khỏe: khám đầy đủ theo mẫu và ghi trung thực; đề nghị chị trình bày với bên thầu là đang chờ mổ",
+     "v": "c",
+     "n": "Khám đủ nội dung, do bác sĩ thực hiện; khám theo yêu cầu chỉ kết luận từng chuyên khoa, không phân loại sức khỏe (TT 25/2026/TT-BYT, Điều 36 khoản 6, 7). Tiêu chuẩn làm việc trên cao không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dùng NSAID 'ngắn ngày, chỉ khi đau nhiều' cho nhanh đỡ",
+     "v": "w",
+     "n": "NSAID nên tránh ở người dùng thuốc chống đông (ESC 2019 mục 8.2, tr. 576); chị đã có bầm da và chảy máu chân răng sau 5 ngày ibuprofen."
+    },
+    {
+     "t": "Ngưng rivaroxaban cho tới ngày mổ",
+     "v": "w",
+     "n": "Thuyên tắc phổi đầu không rõ yếu tố thúc đẩy nên dùng thuốc chống đông kéo dài (ESC 2019 bảng 8.4, tr. 577); tạm ngưng quanh mổ do bác sĩ ngoại khoa và nơi kê đơn quyết."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại như lượt 1; nếu cơn dày hoặc dài hơn thì báo ngoại khoa xin mổ sớm",
+     "v": "c",
+     "n": "EASL 2016 tr. 7, 13, 16–17."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 tuần hoặc ngay khi có cơn kéo dài",
+     "v": "c",
+     "n": "Mốc 3 tuần là lựa chọn của ca, không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sỏi túi mật có triệu chứng, còn hai cơn đau quặn mật nhẹ trong 10 ngày (giảm từ năm cơn), không biến chứng.",
+     "Hồi phục chậm bình thường, không phải thất bại điều trị: cơn dưới 2 giờ, không sốt, Murphy âm, đáp ứng paracetamol.",
+     "Đã ngưng NSAID, Hb 121 lên 124 g/L, hết bầm và chảy máu chân răng; tiếp tục rivaroxaban 10 mg.",
+     "Vướng mắc: ngoại khoa cần ý kiến về thuốc chống đông nhưng nơi kê hẹn hai tháng nữa.",
+     "Lý do thật vẫn là giấy chứng nhận sức khỏe."
+    ],
+    "phan_tich_chan_doan": [
+     "Phân biệt hồi phục chậm bình thường với thất bại sớm: sỏi còn nên cơn còn, khoảng một nửa số người đau lại (EASL 2016 tr. 8). Thất bại hay biến chứng khi đau trên 5 giờ, sốt, đau ấn hạ sườn phải (EASL 2016 tr. 7; Tokyo Guidelines 2018 Table 1), vàng da hay đau liên tục lan lưng (EASL 2016 tr. 16–17). Chị không có dấu hiệu nào.",
+     "Vấn đề mới là quy trình: ngoại khoa cần ý kiến thuốc chống đông mà nơi kê hẹn quá xa; mổ nên sớm khi mọi vấn đề gây mê, phẫu thuật đã giải quyết (EASL 2016 tr. 13)."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ chiến lược lượt 1: paracetamol dưới 3 g/ngày (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1; sổ mâu thuẫn), không NSAID (ESC 2019 mục 8.2, tr. 576), giữ rivaroxaban 10 mg (bảng 8.4, tr. 577).",
+     "Nối ngoại khoa với nơi kê thuốc chống đông bằng thư và điện thoại; nội dung ngưng và dùng lại thuốc quanh mổ không có trong tài liệu đã tải nên phòng khám không tự ra y lệnh.",
+     "Giấy khám sức khỏe: không phân loại 'đủ sức khỏe' khi đang điều trị và chưa mổ (TT 25/2026/TT-BYT Điều 36 khoản 6, 7). Khuyên chị nói thật với bên thầu, xin gia hạn.",
+     "Tái khám 3 tuần hoặc sớm hơn nếu cơn dày hay dài hơn; khi đó đẩy nhanh ngoại khoa (EASL 2016 tr. 13)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên mỗi lần khi đau, cách nhau 6–8 giờ; tổng dưới 3 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi bắt đầu cơn đau, sau ăn nhẹ",
+      "so_ngay": "Khi cần, ngắn ngày cho tới khi mổ",
+      "ghi_chu": "EASL 2016 tr. 8; QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1 (500–1.000 mg mỗi lần, cách 6–8 giờ, tối đa 4 g/24 giờ, không dùng khi suy tế bào gan). Chọn mức dưới 3 g/ngày"
+     },
+     {
+      "thuoc": "Rivaroxaban (đang dùng, không đổi)",
+      "ham_luong": "10 mg",
+      "lieu": "1 viên mỗi sáng",
+      "duong": "Uống",
+      "thoi_diem": "Như đang dùng",
+      "so_ngay": "Tiếp tục cho tới khi bác sĩ ngoại khoa và nơi kê đơn có kế hoạch",
+      "ghi_chu": "ESC 2019 bảng 8.4, tr. 577: kéo dài sau thuyên tắc phổi không rõ yếu tố thúc đẩy (IIa A), liều giảm 10 mg sau 6 tháng (IIa A). Không tự ngưng, không tự thêm thuốc."
+     }
+    ],
+    "dan_do": [
+     "Không dùng ibuprofen hay thuốc kháng viêm tự mua; paracetamol khi đau, không quá 6 viên 500 mg mỗi ngày.",
+     "Không bỏ rivaroxaban. Mang thư phòng khám đến nơi kê thuốc xin hẹn sớm; hỏi lại khoa ngoại ngày mổ.",
+     "Cấp cứu ngay nếu đau trên 5 giờ, sốt, vàng da, đau liên tục lan lưng, phân đen, nôn máu, khó thở (EASL 2016 tr. 7, 16–17).",
+     "Chưa leo giàn giáo khi còn lên cơn; nói thật với bên thầu, xin gia hạn tới sau mổ (lời khuyên của ca).",
+     "Tái khám sau 3 tuần hoặc sớm hơn nếu cơn dày lên."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Chị Dung đến sau gần 4 tuần. Đêm qua chị lên cơn đau nặng khoảng 4 giờ, nôn hai lần, phải uống paracetamol hai đợt mới đỡ lúc rạng sáng; tuần qua đã ba cơn. Sáng nay chỉ còn ê hạ sườn phải. Chị cho biết lịch mổ bị hoãn vì chưa có ý kiến về thuốc chống đông. Sinh hiệu: HA 130/80 mmHg, mạch 84 l/p, nhiệt độ 36,9 °C, SpO₂ 98%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho chị Dung về, hẹn lại chờ lịch mổ là sai: đây là lần tái phát thứ ba trong khi lịch mổ bị treo vì thủ tục thuốc chống đông. Mỗi tuần chờ thêm là thêm cơn; biến chứng (viêm túi mật, viêm tụy, tắc mật, viêm đường mật) 0,5–3%/năm (EASL 2016 tr. 8, 13). Cơn 4 giờ đã gần ngưỡng 5 giờ của viêm túi mật cấp (EASL 2016 tr. 7); nếu lần sau thành viêm túi mật, chị phải mổ gấp, tỷ lệ chuyển mổ mở khoảng 20% (EASL 2016 tr. 13), và thuốc chống đông khó xử lý hơn nhiều.",
+    "nhap_vien": "Giữ chị Dung nhập viện gần nhà là không cần: cơn đã hết, không sốt, CRP và bạch cầu bình thường, thành túi mật 3,2 mm, không dịch (EASL 2016 tr. 7; Tokyo Guidelines 2018 Table 1). Chị cần đúng nơi có ngoại khoa và chuyên khoa kê thuốc chống đông để chốt lịch mổ, không phải nằm theo dõi.",
+    "cap_cuu": "Gọi xe cấp cứu đưa chị đi là quá tay: chị tỉnh, huyết động ổn, hết đau, không sốt, không vàng da, siêu âm không viêm túi mật (EASL 2016 tr. 7, 16–17). Chị sẽ xếp hàng ở cấp cứu, bị lặp lại xét nghiệm, có thể nhận kháng sinh không cần (EASL 2016 tr. 8). Cái chị cần là cuộc hẹn trực tiếp với ngoại khoa và nơi kê thuốc trong 1–2 ngày."
+   },
+   "loi_mo": "Bác sĩ ơi, đêm qua tôi đau dữ lắm, nôn nữa. Giờ hết rồi. Mổ thì bệnh viện hoãn, giấy công ty thì ngày mai là hết hạn.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "130/80",
+    "nhiet": "36,9",
+    "nhip_tho": 17,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Cơn đau bụng trên dữ dội đêm qua, nôn hai lần, sáng nay chỉ còn ê hạ sườn phải.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "con_dem_qua",
+     "noi_dung": "Cơn bắt đầu khoảng 1 giờ sau bữa tiệc sinh nhật chồng, đau lan lưng phải, chị chấm 8/10, kéo dài chừng 4 giờ, uống paracetamol 1.000 mg hai lần cách nhau 4 giờ mới đỡ dần lúc rạng sáng. Không sốt, không ớn lạnh, không vàng da. Tuần qua có thêm hai cơn nhẹ hơn, mỗi cơn dưới 90 phút. Hiện không sốt, không vàng da, nước tiểu và phân bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tái phát: cơn dài hơn, gần ngưỡng 5 giờ"
+    },
+    {
+     "id": "lich_mo",
+     "noi_dung": "Bệnh viện tỉnh đã xếp lịch mổ nhưng ba ngày trước hoãn vì 'chưa có giấy của bác sĩ bên huyết học hay tim mạch về thuốc loãng máu'. Nơi kê thuốc chỉ nhận khám sau hai tháng. Thư phòng khám chị chưa đưa vì chưa biết đưa cho ai. Chị không dùng ibuprofen từ lần trước, vẫn uống rivaroxaban 10 mg đều, không chảy máu mới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguyên nhân tái phát: sỏi chưa xử lý vì thủ tục thuốc chống đông; tuân thủ"
+    },
+    {
+     "id": "giay_ksk",
+     "noi_dung": "Chị xin giấy sức khỏe 'ghi khỏe' vì ngày mai công ty hết hạn; chị tính nhận việc vì đã đỡ. Nếu nghe 'chưa được', chị lo mất việc, hai con đang đi học.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chuyện công việc, hợp đồng, hạn giấy, hoặc chị tính làm gì sau khi hết đau.",
+     "y": "Lý do thật: giấy chứng nhận sức khỏe"
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng mềm. Ấn hạ sườn phải ê nhẹ, không đau chói; Murphy lâm sàng âm tính. Không phản ứng thành bụng, không sờ thấy túi mật to, thượng vị không đau.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt vì mất ngủ. Củng mạc không vàng, niêm mạc hồng. Không bầm mới.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "abdus": {
+     "v": "e",
+     "r": "Sỏi túi mật nhiều viên 6–12 mm, một viên mắc ở cổ túi mật khi nằm ngửa. Thành túi mật 3,2 mm, không dịch quanh túi mật, dấu Murphy siêu âm âm tính. Ống mật chủ 4 mm. Đầu và thân tụy không to.",
+     "n": "Thành dưới 4 mm, không dịch, Murphy siêu âm âm: không có hình ảnh viêm túi mật cấp (EASL 2016 tr. 7; Tokyo Guidelines 2018 Table 1). Sỏi mắc cổ túi mật giải thích cơn đau."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 8,9 G/L · Neutrophil 64% · Hb 123 g/L · TC 270 G/L",
+     "n": "Bạch cầu không tăng, Hb ổn: không viêm toàn thân hay chảy máu (Tokyo Guidelines 2018 Table 1; ESC 2019 bảng 8.4, tr. 577)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 4 mg/L (ngưỡng < 5)",
+     "n": "CRP bình thường, không có dấu hiệu viêm toàn thân (Tokyo Guidelines 2018 Table 1)."
+    },
+    "lipase": {
+     "v": "u",
+     "r": "Lipase 38 U/L (giới hạn trên 60 U/L).",
+     "n": "Không có tiêu chuẩn men tụy của viêm tụy cấp (Atlanta 2012)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 24 · ALT 21 U/L · Bilirubin toàn phần 12 µmol/L · ALP 80 · GGT 31 U/L",
+     "n": "Men gan bình thường sau cơn 4 giờ: sỏi ống mật chủ khả năng rất thấp khi ống mật chủ không giãn (EASL 2016 tr. 16)."
+    },
+    "ct_bung": {
+     "n": "Không cần: siêu âm đã đủ, CT chỉ đặt ra khi nghi mạnh viêm túi mật cấp mà siêu âm không rõ (EASL 2016 tr. 6–7). Phòng khám không có CT."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sỏi túi mật có triệu chứng, cơn đau quặn mật tái phát lần ba (cơn dài khoảng 4 giờ) trong thời gian chờ mổ vì lịch mổ bị hoãn do chưa có kế hoạch thuốc chống đông (rivaroxaban 10 mg sau thuyên tắc phổi); chưa biến chứng, không viêm túi mật cấp, không viêm tụy cấp",
+     "ok": 1,
+     "n": "Cơn đau điển hình sau bữa tiệc, kéo dài 4 giờ, nôn, tự đỡ; hiện Murphy âm, không sốt, thành túi mật 3,2 mm, không dịch, CRP 4, bạch cầu 8,9 G/L, lipase 38 U/L, men gan và bilirubin bình thường (EASL 2016 tr. 6–7, 16)."
+    },
+    {
+     "t": "Viêm túi mật cấp",
+     "n": "Murphy âm, không sốt, CRP và bạch cầu bình thường, siêu âm không đặc trưng (Tokyo Guidelines 2018 Table 1); cơn 4 giờ gần ngưỡng 5 giờ nên cần dặn kỹ (EASL 2016 tr. 7)."
+    },
+    {
+     "t": "Viêm tụy cấp, sỏi ống mật chủ",
+     "n": "Lipase 38 U/L, bilirubin và men gan bình thường, ống mật chủ 4 mm (Atlanta 2012; EASL 2016 tr. 16–17)."
+    },
+    {
+     "t": "Thất bại điều trị do không tuân thủ",
+     "n": "Chị ngưng NSAID, giữ rivaroxaban, dùng paracetamol. Tái phát do sỏi còn và mổ bị hoãn vì thủ tục."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển bệnh viện tỉnh, hẹn trực tiếp khoa ngoại và nơi kê rivaroxaban (huyết học hoặc tim mạch) trong 1–2 ngày để chốt kế hoạch thuốc chống đông và đẩy sớm lịch cắt túi mật nội soi; viết thư giới thiệu nêu rõ thuyên tắc phổi 7 tháng trước, rivaroxaban 10 mg, ba cơn tái phát, Hb 123 g/L",
+     "v": "c",
+     "n": "Cắt túi mật càng sớm càng tốt ở cơn không biến chứng; không có lý do y khoa để trì hoãn ở người gây mê được, trì hoãn khiến chịu rủi ro biến chứng (EASL 2016 tr. 13); biến chứng 0,5–3%/năm, khoảng một nửa đau lại (tr. 8). Kế hoạch ngưng thuốc chống đông quanh mổ: không có trong tài liệu đã tải; nguy cơ chảy máu và thời gian dùng thuốc cần chuyên khoa (ESC 2019 bảng 8.4, tr. 577)."
+    },
+    {
+     "t": "Giữ rivaroxaban 10 mg mỗi sáng và không dùng NSAID; paracetamol 500 mg, 1–2 viên mỗi lần, dưới 3 g/ngày khi đau",
+     "v": "c",
+     "n": "ESC 2019 mục 8.2, tr. 576 (tránh NSAID) và bảng 8.4, tr. 577 (thuốc chống đông kéo dài); EASL 2016 tr. 8 và QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1 cho paracetamol; mức dưới 3 g/ngày theo sổ mâu thuẫn."
+    },
+    {
+     "t": "Dặn dấu hiệu đến cấp cứu ngay thay vì chờ: đau trên 5 giờ, sốt, vàng da, đau liên tục lan lưng, phân đen, nôn máu, khó thở",
+     "v": "c",
+     "n": "EASL 2016 tr. 7, 16–17; Atlanta 2012; dấu hiệu chảy máu, thuyên tắc phổi là lời dặn thực hành, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Từ chối ký giấy 'đủ sức khỏe làm việc trên cao'; đề nghị chị xin gia hạn với bên thầu, phòng khám viết giấy xác nhận đang điều trị và chờ mổ",
+     "v": "c",
+     "n": "Khám để đi làm phải đủ nội dung theo mẫu; khám theo yêu cầu không phân loại sức khỏe (TT 25/2026/TT-BYT, Điều 36 khoản 3, 6, 7). Tiêu chuẩn làm việc trên cao không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thêm butylscopolamin cho cơn đau",
+     "v": "a",
+     "n": "EASL 2016 tr. 8; liều không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về, hẹn tái khám phòng khám và chờ lịch mổ cũ",
+     "v": "w",
+     "n": "Lịch mổ đang bị treo; trì hoãn khiến chị chịu thêm cơn và nguy cơ biến chứng (EASL 2016 tr. 8, 13)."
+    },
+    {
+     "t": "Ký giấy chứng nhận đủ sức khỏe để chị khỏi mất việc",
+     "v": "w",
+     "n": "Không ký khống, phải khám đủ theo mẫu (TT 25/2026/TT-BYT Điều 36 khoản 6)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sỏi túi mật có triệu chứng, cơn đau quặn mật tái phát lần ba (cơn đêm qua khoảng 4 giờ, sỏi mắc cổ túi mật), không biến chứng.",
+     "Đã loại trừ viêm túi mật cấp (Murphy âm, không sốt, CRP 4, bạch cầu 8,9 G/L, thành 3,2 mm, không dịch) và viêm tụy cấp (lipase 38 U/L); không có dấu hiệu sỏi ống mật chủ.",
+     "Nguyên nhân tái phát: nguyên nhân nền (sỏi) chưa xử lý vì lịch mổ bị hoãn do chưa phối hợp thuốc chống đông; chị tuân thủ đủ.",
+     "Nền: thuyên tắc phổi không rõ yếu tố thúc đẩy, rivaroxaban 10 mg/ngày; Hb 123 g/L, không chảy máu.",
+     "Lý do thật: giấy chứng nhận sức khỏe hết hạn ngày mai."
+    ],
+    "phan_tich_chan_doan": [
+     "Đau trên 5 giờ thường là viêm túi mật cấp (EASL 2016 tr. 7); cơn 4 giờ gần ngưỡng nên phải làm đủ. Kết quả không đủ tiêu chuẩn (Tokyo Guidelines 2018 Table 1).",
+     "Tái phát vì nguyên nhân nền chưa xử lý, không đổ cho thuốc hay tuân thủ. Biến chứng 0,5–3%/năm và hơn một nửa người có biến chứng từng có cơn báo trước (EASL 2016 tr. 6, 8).",
+     "Giấy chứng nhận sức khỏe: chưa thể ghi 'đủ sức khỏe' (TT 25/2026/TT-BYT Điều 36 khoản 6)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến không cấp cứu nhưng có hẹn trong 1–2 ngày để chốt cùng lúc ngoại khoa và nơi kê thuốc chống đông: cắt túi mật nên làm sớm nhất có thể ở người gây mê được (EASL 2016 tr. 13). Cách ngưng thuốc không có trong tài liệu đã tải; phòng khám làm được thư giới thiệu và cuộc gọi báo trước.",
+     "Trong lúc chờ: giữ rivaroxaban 10 mg (ESC 2019 bảng 8.4, tr. 577), không NSAID (mục 8.2, tr. 576), paracetamol dưới 3 g/ngày (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1; sổ mâu thuẫn); butylscopolamin có thể thêm (EASL 2016 tr. 8; liều không có trong tài liệu đã tải). Không kháng sinh (EASL 2016 tr. 8).",
+     "Giấy sức khỏe: không ký khống, đề nghị gia hạn, cấp giấy xác nhận đang điều trị chờ mổ."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên mỗi lần khi đau, cách nhau 6–8 giờ; tổng dưới 3 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi bắt đầu cơn đau, sau ăn nhẹ",
+      "so_ngay": "Khi cần, ngắn ngày cho tới khi mổ",
+      "ghi_chu": "EASL 2016 tr. 8; QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1 (500–1.000 mg mỗi lần, cách 6–8 giờ, tối đa 4 g/24 giờ, không dùng khi suy tế bào gan). Chọn mức dưới 3 g/ngày"
+     },
+     {
+      "thuoc": "Rivaroxaban (đang dùng, không đổi)",
+      "ham_luong": "10 mg",
+      "lieu": "1 viên mỗi sáng",
+      "duong": "Uống",
+      "thoi_diem": "Như đang dùng",
+      "so_ngay": "Tiếp tục cho tới khi bác sĩ ngoại khoa và nơi kê đơn có kế hoạch",
+      "ghi_chu": "ESC 2019 bảng 8.4, tr. 577: kéo dài sau thuyên tắc phổi không rõ yếu tố thúc đẩy (IIa A), liều giảm 10 mg sau 6 tháng (IIa A). Không tự ngưng, không tự thêm thuốc."
+     }
+    ],
+    "dan_do": [
+     "Đến khoa ngoại bệnh viện tỉnh theo hẹn đã gọi, mang thư giới thiệu, kết quả, hộp rivaroxaban và giấy ra viện thuyên tắc phổi.",
+     "Không tự ngưng rivaroxaban; chỉ ngưng khi ngoại khoa và bác sĩ kê thuốc hướng dẫn bằng văn bản.",
+     "Không ibuprofen hay thuốc kháng viêm tự mua; khi đau paracetamol 500 mg, 1–2 viên, không quá 6 viên mỗi ngày.",
+     "Cấp cứu ngay nếu đau trên 5 giờ, sốt, vàng da, đau liên tục lan lưng, phân đen, nôn máu, khó thở (EASL 2016 tr. 7, 16–17).",
+     "Chưa lên giàn giáo tới khi mổ xong và được khám lại (lời khuyên của ca); xin bên thầu gia hạn, phòng khám cấp giấy xác nhận đang điều trị."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Dung cầm thư giới thiệu, chồng chở lên bệnh viện tỉnh chiều hôm đó; phòng khám đã gọi báo trước nên ngoại khoa nhận khám ngay. Hội chẩn ngoại khoa với huyết học chốt kế hoạch thuốc chống đông (chi tiết ngưng và dùng lại rivaroxaban theo bệnh viện, không có trong tài liệu đã tải) và mổ nội soi cắt túi mật sau 9 ngày. Hậu phẫu ổn, không còn cơn đau, không chảy máu. Chị xin gia hạn hợp đồng bằng giấy xác nhận đang điều trị, làm việc sơn trong nhà sau mổ và chỉ lên giàn giáo sau khi khám sức khỏe đúng mẫu. Tái phát lần ba không do thuốc hay chị không tuân thủ, mà do sỏi chưa được xử lý vì thủ tục phối hợp thuốc chống đông; điều đúng là phòng khám chủ động nối ngoại khoa với nơi kê đơn.",
+ "nhieu": [
+  "Tự uống thuốc trước 5 ngày: ibuprofen 400 mg × 3/ngày × 5 ngày là NSAID trên nền rivaroxaban, gây bầm da, chảy chân răng, Hb 121 g/L; chỉ lộ khi hỏi cụ thể thuốc giảm đau và thuốc tự mua. Ngưng NSAID, không ngưng thuốc chống đông.",
+  "Thuốc chống đông bị giấu vì sợ mất việc; chỉ lộ khi hỏi thuốc loãng máu, bệnh tim phổi, nhập viện hoặc khi thấy vết bầm.",
+  "Lý do thật là giấy chứng nhận sức khỏe: lộ khi hỏi 'chị lo nhất điều gì', 'công việc có bị ảnh hưởng không'; xuất hiện lại cả ba lượt.",
+  "Không có CT: siêu âm bụng đủ, CT ít hữu ích cho sỏi túi mật (EASL 2016 tr. 6).",
+  "Đổi thuốc điều trị: rivaroxaban giảm từ 20 mg còn 10 mg sau 6 tháng (ESC 2019 bảng 8.4, tr. 577); không có liên hệ nhân quả với cơn đau mật (không có trong tài liệu đã tải), dễ bị chị quy là thuốc mới gây đau bao tử."
+ ],
+ "bai_hoc_bien": [
+  "Cơn đau quặn mật ở người dùng thuốc chống đông: NSAID là thuốc đầu tay chung (EASL 2016 tr. 8) nhưng nên tránh vì nguy cơ chảy máu (ESC 2019 mục 8.2, tr. 576); dùng paracetamol, giữ nguyên thuốc chống đông.",
+  "Hỏi thuốc từng nhóm: chống đông, giảm đau, kháng viêm, thuốc tự mua; 'đang uống thuốc gì' chỉ nhận được 'thuốc bao tử'.",
+  "Đỡ một phần không phải thất bại: sỏi còn nên cơn còn; thất bại hay biến chứng là đau trên 5 giờ, sốt, đau ấn hạ sườn phải, vàng da (EASL 2016 tr. 7, 16–17; Tokyo Guidelines 2018 Table 1).",
+  "Tái phát: tìm nguyên nhân nền chưa xử lý (mổ bị hoãn vì thiếu phối hợp thuốc chống đông); phòng khám làm cầu nối bằng thư, điện thoại, hẹn trực tiếp.",
+  "Lý do thật là tờ giấy: không ký khống (TT 25/2026/TT-BYT Điều 36 khoản 6); nói về an toàn trên giàn giáo và về việc giữ được việc."
+ ],
+ "diem_nho": [
+  "Cơn đau quặn mật: đau nặng thượng vị hoặc hạ sườn phải, lan lưng phải hoặc vai, sau ăn khoảng 1 giờ, về đêm, tự hết; đau trên 5 giờ gợi ý viêm túi mật cấp (EASL 2016 tr. 6–7).",
+  "Tokyo Guidelines 2018 Table 1: nghi ngờ = một dấu hiệu tại chỗ + một toàn thân; xác định = thêm hình ảnh đặc trưng. Viêm tụy cấp: 2 trong 3 tiêu chuẩn (Atlanta 2012).",
+  "Thuyên tắc phổi đầu không rõ yếu tố thúc đẩy: thuốc chống đông kéo dài, rivaroxaban 10 mg sau 6 tháng (ESC 2019 bảng 8.4, tr. 577); tránh NSAID (mục 8.2, tr. 576).",
+  "Cắt túi mật càng sớm càng tốt khi không biến chứng (EASL 2016 tr. 13); không tan sỏi bằng acid mật; không kháng sinh (EASL 2016 tr. 7–8)."
+ ],
+ "nguon": [
+  "EASL 2016 – Clinical Practice Guidelines on gallstones (J Hepatol 2016;65:146-181) – TL-0234 – tr. 6 (Biliary colic, Imaging), tr. 7 (Acute cholecystitis, Bile acid), tr. 8 (Therapy of biliary colic, Antibiotics, Symptomatic gallstones), tr. 13 (Timing), tr. 16–17 (bile duct stones)",
+  "Tokyo Guidelines 2018 – Diagnostic criteria and severity grading of acute cholecystitis (J Hepatobiliary Pancreat Sci 2018;25:41-54) – TL-0229 – Table 1",
+  "Atlanta 2012 – Classification of acute pancreatitis (Gut 2013;62:102-11) – TL-0104 – Definition of diagnosis; ACG 2024 – Management of acute pancreatitis – TL-0060 – mục Diagnosis",
+  "ESC 2019 – Acute pulmonary embolism (Eur Heart J 2020;41:543-603) – TL-0089 – mục 8.2 (tr. 576), bảng 8.4 (tr. 577)",
+  "BYT QĐ 361/2014 – bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID (mục 3.2, 3.3), Phụ lục thuốc giảm đau (mục 3.1)",
+  "BYT TT 25/2026/TT-BYT ngày 30/6/2026 (khám sức khỏe) – kho cũ tltk-10000-ca, thư mục 13 Tư vấn kết quả khám tổng quát – Điều 2 khoản 3 (sửa Điều 36 khoản 3, 6, 7); bản chữ không kèm phụ lục XXIV",
+  "Không có trong tài liệu đã tải: liều butylscopolamin; số ngày tối đa NSAID; thời hạn hẹn cắt túi mật; cách tạm ngưng và dùng lại rivaroxaban quanh mổ; xét nghiệm trước mổ; tiêu chuẩn sức khỏe làm việc trên cao; bằng chứng kiêng mỡ; Phụ lục XXIV (Mẫu 03) của TT 25/2026."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-24 (tác tử TH-1196, bản 1). Đã đọc: TL-0234 EASL 2016 (tr. 6–8, 13, 16–17), TL-0229 Tokyo 2018 Table 1, TL-0104 Atlanta 2012, TL-0060 ACG 2024, TL-0089 ESC 2019 (mục 8.2, bảng 8.4), TL-0286 QĐ 361/2014 (Phụ lục NSAID 3.2–3.3, thuốc giảm đau 3.1), TT 25/2026/TT-BYT (kho cũ).",
+  "Thiết kế: thuyên tắc phổi đầu không rõ yếu tố thúc đẩy 7 tháng trước; rivaroxaban giảm từ 20 mg còn 10 mg (đổi thuốc điều trị); ibuprofen tự mua 5 ngày gây bầm da, chảy chân răng, Hb 121 g/L. Không dùng ảnh da (bầm da ghi trong khám toàn thân, không phải khám then chốt). Hướng đúng: L1 về hẹn, L2 về hẹn, L3 chuyển tuyến không cấp cứu.",
+  "EASL 2016 tr. 8 (NSAID thuốc đầu tay) và ESC 2019 mục 8.2 (tránh NSAID khi dùng thuốc chống đông) khác đối tượng, không phải mâu thuẫn thật. Paracetamol dưới 3 g/ngày theo sổ mâu thuẫn đã có. Chỗ thiếu tài liệu: xem mục nguon cuối. Số liệu xét nghiệm, siêu âm, thời gian trong kết cục là số minh họa."
+ ]
+}
