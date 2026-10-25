@@ -1,0 +1,750 @@
+{
+ "ma_ca": "TH-1412",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 (2026-10-25)",
+ "benh": "TH_xhth_nhe_ngoai_tru",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Xuất huyết tiêu hóa (nhẹ/ngoại trú)",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư tiêu hóa",
+   "Vỡ giãn TM thực quản"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Thợ sơn",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị (từ paracetamol sang meloxicam)",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng (warfarin)",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Bích Hằng",
+  "tuoi": 52,
+  "gioi": "Nữ",
+  "nghe": "Thợ sơn nhà",
+  "can_nang": 56,
+  "chieu_cao": 155,
+  "xung_ho": "Bác sĩ gọi bà là 'chị'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhẹn, tháo vát, nói nhanh, hay xem nhẹ bệnh của mình vì lo mất việc; làm công trình theo ngày nên ngại nghỉ.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: bà tự mua omeprazol 20 mg uống 5 ngày vì nghĩ đau dạ dày, làm đau dịu bớt và test H. pylori sau này âm giả. Bà chỉ kể khi bác sĩ hỏi thuốc dạ dày, thuốc tự mua, mấy ngày.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c79a76",
+   "toc": "#3b3330",
+   "kieuToc": "buoc",
+   "ao": "#5b7a8c",
+   "aoKieu": "co_tron",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Xin giấy chứng nhận sức khỏe",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT. Siêu âm và xét nghiệm cơ bản có; nội soi tiêu hóa làm ở bệnh viện huyện."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Lê Thị Bích Hằng, 52 tuổi, thợ sơn nhà. Đến xin giấy chứng nhận sức khỏe để nhận công trình mới. Đang dùng warfarin. Sinh hiệu: HA 118/72 mmHg, mạch 92 l/p, nhiệt 36,8 °C, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Hằng có phân đen 3 ngày nhưng HA 118/72, mạch 92, Hb 124 g/L, urê 5,6 mmol/L, không ngất, không bệnh gan hay suy tim: Glasgow-Blatchford chỉ 1 điểm, nhóm rất ít nguy cơ chảy máu lại hoặc tử vong, xử trí ngoại trú có nội soi hẹn là đủ (ACG 2021, khuyến cáo 1; ESGE 2026, mục Patient risk stratification). Nhập viện làm bà mất nhiều ngày công, mất công trình đã nhận, tốn chi phí, trong khi điều cần làm là ngưng meloxicam, uống PPI, nội soi sớm và dặn dấu hiệu chảy máu.",
+    "chuyen_tuyen": "Chuyển cấp cứu lên tuyến trên cho bà Hằng là quá tay: bà ổn định huyết động, Hb 124 g/L, không dấu hiệu chảy máu đang tiếp diễn; GBS = 1 thì quản lý ngoại trú an toàn miễn là có hẹn nội soi, biết quay lại và hiểu kế hoạch theo dõi (ESGE 2026, mục Patient risk stratification; ACG 2021, khuyến cáo 1). Chuyến đi gấp tốn kém, bà phải xếp hàng cấp cứu với người chảy máu thật sự và vẫn được hẹn nội soi ngoại trú."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi làm thợ sơn, cần cái giấy khám sức khỏe để nhận công trình mới. Bác sĩ khám giùm cho nhanh, tôi còn đi làm.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "118/72",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đến xin giấy chứng nhận sức khỏe để nhận công trình sơn mới sau 3 ngày nữa. Bà coi mình khỏe, chỉ hơi mệt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám (xin giấy)"
+    },
+    {
+     "id": "phan_den",
+     "noi_dung": "Ba ngày nay đi cầu 1–2 lần/ngày, phân đen, sệt, bóng, mùi rất khai, khác phân thường. Bà tưởng do thuốc dạ dày tự mua. Không thấy máu đỏ tươi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân đen (melena)"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Chóng mặt nhẹ, hồi hộp khi leo thang hoặc đứng lên nhanh, mệt hơn bình thường. Không ngất, không nôn ra máu, không đau ngực, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng thiếu máu / huyết động"
+    },
+    {
+     "id": "dau_tv",
+     "noi_dung": "Đau âm ỉ vùng trên rốn khoảng 2 tuần, đói thì đau hơn, ăn vào dịu đi, thỉnh thoảng thức giấc ban đêm. Không đau dữ dội đột ngột.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau thượng vị kiểu loét; không gợi thủng"
+    },
+    {
+     "id": "doi_thuoc",
+     "noi_dung": "Hai tuần trước bà đau vai vì giơ tay sơn trần nhà nhiều, đi khám xương khớp được đổi paracetamol sang meloxicam 15 mg, 1 viên mỗi ngày sau ăn sáng, vẫn uống đến hôm nay.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Đổi sang NSAID (nguyên nhân)",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì bà chỉ kể warfarin. Chỉ kể meloxicam khi bác sĩ hỏi thuốc giảm đau, thuốc xương khớp hay thuốc mới đổi gần đây."
+    },
+    {
+     "id": "warfarin",
+     "noi_dung": "Uống warfarin 3 mg mỗi tối từ 5 tháng nay vì huyết khối tĩnh mạch sâu cẳng chân trái sau khi bó bột gãy mắt cá. Bác sĩ mạch máu dặn uống đủ 6 tháng, INR lần gần nhất cách đây 3 tuần là 2,5. Không dùng aspirin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc kháng đông (warfarin) và chỉ định"
+    },
+    {
+     "id": "tu_uong",
+     "noi_dung": "Năm ngày nay bà tự mua omeprazol 20 mg ở hiệu thuốc, uống 1 viên mỗi sáng khi nghĩ đau dạ dày; đau có dịu hơn nhưng phân vẫn đen. Không dùng kháng sinh, bismuth hay sắt.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Tự uống PPI 5 ngày (làm sai lệch xét nghiệm H. pylori)",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi đã tự uống thuốc gì, uống mấy ngày, thuốc dạ dày."
+    },
+    {
+     "id": "gan",
+     "noi_dung": "Không uống rượu nhiều (vài ly bia dịp lễ), chưa từng vàng da, không phù, bụng không to lên, chưa ai nói bị bệnh gan hay xơ gan, chưa từng nôn ra máu. Không biết mình có viêm gan B hay không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc bệnh gan / tăng áp cửa (loại trừ vỡ giãn TM thực quản)"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không sụt cân, không nuốt nghẹn, ăn uống bình thường, không nôn. Đã mãn kinh 2 năm, không ra huyết âm đạo. Gia đình không ai ung thư dạ dày hay đại tràng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động ung thư"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Sơn nhà bằng sơn nước, thỉnh thoảng sơn dầu; đeo khẩu trang giấy. Hiếm khi dính sơn cũ có chì.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nghề nghiệp (gây nhiễu: ngộ độc chì)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà sợ bác sĩ bắt nghỉ làm khi nghe nói phân đen nên chỉ nói là đến xin giấy. Nếu bác sĩ giải thích rõ và có hướng xử trí không phải nằm viện thì bà chịu hợp tác.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: giấy sức khỏe",
+     "dieu_kien_lo": "Chỉ nói rõ nỗi lo mất việc khi bác sĩ hỏi vì sao đi làm gấp hoặc hỏi về công việc/công trình."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt. Niêm mạc mắt hồng nhạt, không vàng da, không sao mạch, không lòng bàn tay son, không phù. Vài vết bầm nhỏ ở cẳng tay.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 118/72, mạch 92. Đứng 3 phút: HA 110/68, mạch 102, hơi choáng. Thay đổi nhẹ, chưa sốc.",
+     "k": 1,
+     "hien": "Đo nằm rồi đứng: huyết áp giảm nhẹ, mạch tăng, bà thấy hơi choáng."
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ thượng vị, không phản ứng thành bụng, không cứng như gỗ, không báng, gan lách không sờ thấy, không tuần hoàn bàng hệ.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Hậu môn bình thường. Phân trên găng đen, sệt, bóng, mùi đặc trưng; không máu đỏ tươi.",
+     "k": 1,
+     "hien": "Có phân dính găng sau thăm khám trực tràng."
+    },
+    "tim": {
+     "a": "Tim đều, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 92 l/p."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên."
+    },
+    "chi_duoi": {
+     "a": "Cẳng chân trái to hơn phải khoảng 1 cm, không nóng đỏ, không đau chỗ ấn, mạch chân bắt rõ (huyết khối cũ đang điều trị).",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 124 g/L · MCV 86 fL · TC 255 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 8.1,
+      "rbc": 4.3,
+      "hgb": 124,
+      "hct": 0.38,
+      "mcv": 86,
+      "mch": 28.8,
+      "mchc": 326,
+      "rdw": 14.0,
+      "plt": 255
+     },
+     "n": "Hb là một thành phần của điểm Glasgow-Blatchford: nữ Hb ≥ 120 g/L tính 0 điểm, 100–<120 g/L tính 1 điểm (ACG 2021, Bảng 2). Hb chưa phản ánh hết mất máu trong những giờ đầu, nên cần kiểm lại. Ngưỡng truyền máu Hb < 80 g/L khi không bệnh tim mạch (Ann Intern Med 2019, A4; ACG 2021, khuyến cáo 2: 7 g/dL)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 5,6 mmol/L · Creatinin 70 µmol/L · eGFR 90 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.6,
+      "creat": 70,
+      "egfr": 90
+     },
+     "n": "Urê máu (BUN) dưới 18,2 mg/dL tính 0 điểm Glasgow-Blatchford (ACG 2021, Bảng 2). Ure 5,6 mmol/L tương đương BUN khoảng 15,7 mg/dL (quy đổi chuẩn; bảng đổi đơn vị không có trong tài liệu đã tải). Ure không tăng gợi ý lượng máu mất tiêu hóa không lớn."
+    },
+    "inr": {
+     "v": "e",
+     "r": "INR 2,4",
+     "ab": 1,
+     "n": "Người dùng kháng đông bị XHTH: đo INR. ESGE khuyến cáo ngưng thuốc kháng vitamin K khi XHTH (ESGE 2021/2026); ACG-ICG 2019 A6: không trì hoãn nội soi vì kháng đông. INR 2,4 nằm trong đích điều trị: không có chỉ định vitamin K hay PCC khi huyết động ổn (chỉ dùng khi huyết động không ổn: ESGE 2026, mục Antithrombotic medications)."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Lịch nội soi hôm nay đã kín. Xếp lịch sáng mai tại phòng nội soi bệnh viện huyện, nhận người dùng kháng đông.)",
+     "n": "Cần nội soi: XHTH là dấu báo động (VNAGE 2024 KC 2); GBS ≤ 1 thì nội soi ngoại trú (ESGE 2026, mục Patient risk stratification). Mốc giờ chính xác cho nội soi ngoại trú không có trong tài liệu đã tải; ca chọn 24–48 giờ."
+    },
+    "chuc_nang_gan": {
+     "v": "u",
+     "r": "Bilirubin TP 11 · ALP 78 · GGT 20 U/L · Albumin 41 g/L · INR 2,4 (đang dùng warfarin)",
+     "n": "Không gợi ý bệnh gan mạn: albumin bình thường, bilirubin bình thường; INR cao do thuốc. Giúp loại trừ giãn TM thực quản (Baveno VIII 2026, khuyến cáo 1.3 nói về LSM < 10 kPa loại trừ cACLD)."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Gan bờ đều, nhu mô đồng nhất, không nốt; lách không to; tĩnh mạch cửa bình thường; không dịch ổ bụng.",
+     "n": "Không có dấu tăng áp cửa hay gan mạn: loại trừ vỡ giãn TM thực quản."
+    },
+    "nhom_mau": {
+     "v": "u",
+     "r": "Nhóm O, Rh dương",
+     "n": "Chuẩn bị nếu chảy máu tiếp diễn; chưa cần truyền (Hb 124 g/L)."
+    },
+    "hp_ubt": {
+     "v": "u",
+     "r": "Âm tính",
+     "n": "Âm tính giả có thể xảy ra: bà đã uống omeprazol 5 ngày và đang chảy máu. Phải ngưng PPI ≥ 2 tuần, kháng sinh/bismuth ≥ 4 tuần trước khi thử (VNAGE 2023 Statement 6); trong XHTH cấp, urease nhanh và mô bệnh có thể âm giả (VNAGE 2023, chú thích thuật toán); xét nghiệm âm trong bệnh cảnh cấp phải làm lại (ACG-ICG 2019 D6; ESGE 2026)."
+    },
+    "ecg": {
+     "n": "Không đau ngực, không khó thở: không cần ở lượt này."
+    },
+    "ct_bung": {
+     "n": "Phòng khám không có CT. Không có dấu thủng (bụng mềm, đau không đột ngột), CT không cần; loét thủng cần hình ảnh tìm hơi tự do (WSES 2020)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Xuất huyết tiêu hóa trên mức nhẹ (phân đen), nghi loét dạ dày – tá tràng do meloxicam trên nền dùng warfarin; Glasgow-Blatchford 1 điểm, huyết động ổn, xử trí ngoại trú được",
+     "ok": 1,
+     "n": "Phân đen 3 ngày sau 2 tuần meloxicam; đau thượng vị kiểu loét; Glasgow-Blatchford: melena 1 điểm, Hb 124 g/L 0, ure 5,6 mmol/L 0, HA tâm thu 118 0, mạch 92 0, không ngất, không bệnh gan, không suy tim = 1 (ACG 2021, Bảng 2). GBS ≤ 1 nguy cơ rất thấp (ACG 2021, khuyến cáo 1; Ann Intern Med 2019, A2a)."
+    },
+    {
+     "t": "Vỡ giãn tĩnh mạch thực quản",
+     "n": "Không bệnh gan, không rượu nặng, không vàng da, báng, lách to, tuần hoàn bàng hệ; tiểu cầu 255 G/L, albumin 41 g/L, siêu âm gan bình thường, không nôn máu. Xuất huyết do giãn vỡ thường ồ ạt, cần xử trí khác (Baveno VIII 2026; AASLD 2024). Nội soi sẽ xác nhận."
+    },
+    {
+     "t": "Ung thư dạ dày – tá tràng",
+     "n": "Không sụt cân, không nuốt nghẹn, không nôn, không thiếu máu mạn, không khối bụng, đau theo nhịp ăn đói. Nhưng XHTH là chỉ định nội soi (VNAGE 2024 KC 2), nên nội soi sẽ loại trừ chắc chắn."
+    },
+    {
+     "t": "Thủng ổ loét",
+     "n": "Không đau dữ dội đột ngột, bụng mềm, không cứng như gỗ, không phản ứng thành bụng (WSES 2020)."
+    },
+    {
+     "t": "Xuất huyết tiêu hóa dưới (trĩ, đại tràng)",
+     "n": "Phân đen sệt mùi khai là melena (nguồn trên); không máu đỏ tươi; thăm trực tràng không thấy tổn thương hậu môn."
+    },
+    {
+     "t": "Phân đen do thuốc (sắt, bismuth, than)",
+     "n": "Bà không dùng sắt, bismuth hay than hoạt; kèm triệu chứng thiếu máu nhẹ và ure bình thường nên không giải thích được bằng thuốc."
+    },
+    {
+     "t": "Nhiễm chì do sơn (nghề thợ sơn)",
+     "n": "Tiếp xúc sơn nước, hiếm sơn cũ; không đau quặn bụng kiểu chì, không thiếu máu hồng cầu nhỏ (MCV 86). Đây là nhiễu từ nghề nghiệp; tài liệu đã tải không có tiêu chuẩn chẩn đoán nhiễm chì."
+    },
+    {
+     "t": "INR quá cao do warfarin",
+     "n": "INR 2,4 trong đích điều trị cho huyết khối tĩnh mạch sâu; chảy máu xảy ra do ổ loét do NSAID, không do quá liều."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng meloxicam và mọi NSAID tự mua; đau vai dùng paracetamol, tránh giơ tay sơn trần liên tục",
+     "v": "c",
+     "n": "Bỏ nguyên nhân (JSGE 2026, Hình 7; JSGE 2026, CQ-15: NSAID kèm thuốc kháng huyết khối tăng nguy cơ XHTH trên). Paracetamol thay thế: QĐ 361/2014 (Phụ lục thuốc giảm đau, mục 3.1)."
+    },
+    {
+     "t": "Tạm ngưng warfarin trong lúc đánh giá chảy máu, hẹn tái khám INR và quyết định dùng lại ngay sau nội soi dựa trên nguy cơ huyết khối",
+     "v": "c",
+     "n": "ESGE khuyến cáo ngưng thuốc kháng vitamin K khi XHTH (ESGE 2021; ESGE 2026, mục Antithrombotic medications). Dùng lại 'ngay khi có chỉ định lâm sàng, theo nguy cơ huyết khối' (ESGE 2026, mục 3.4). Ngày cụ thể không có trong tài liệu đã tải. ACG-ICG 2019 A6 nói không trì hoãn nội soi vì kháng đông: không mâu thuẫn, đây là hai câu hỏi khác nhau (ngưng thuốc và thời điểm nội soi)."
+    },
+    {
+     "t": "Thuốc ức chế bơm proton đường uống ngay (omeprazol 20 mg × 2 lần/ngày) cho đến khi nội soi",
+     "v": "c",
+     "n": "PPI trước nội soi có thể cân nhắc nhưng không trì hoãn nội soi (Ann Intern Med 2019, nhóm khuyến cáo trước nội soi). Liều PPI cho XHTH ngoại trú trước nội soi không có trong tài liệu đã tải: ca chọn gấp đôi liều chuẩn (VNAGE 2024 Bảng 4: chuẩn omeprazol 20 mg)."
+    },
+    {
+     "t": "Đặt lịch nội soi dạ dày – tá tràng ngoại trú sáng mai, nói rõ đang dùng warfarin và PPI; xin sinh thiết/test H. pylori khi nội soi",
+     "v": "c",
+     "n": "Bệnh nhân có GBS ≤ 1 xử trí ngoại trú kèm nội soi ngoại trú (ESGE 2026, mục Patient risk stratification, khuyến cáo mạnh, chứng cứ trung bình). Thử H. pylori ngay lần nội soi đầu (ESGE 2026, mục Helicobacter pylori; ACG-ICG 2019 D5)."
+    },
+    {
+     "t": "Dặn dấu hiệu nguy hiểm (nôn máu, phân đen nhiều hơn, choáng, ngất, tim đập nhanh): đến ngay cấp cứu; giải thích kế hoạch theo dõi, có số điện thoại",
+     "v": "c",
+     "n": "Điều kiện xử trí ngoại trú an toàn: hẹn nội soi nhanh, có khả năng quay lại cấp cứu, được dặn dấu hiệu chảy máu lại và hiểu kế hoạch; thang điểm không thay thế phán đoán lâm sàng (ESGE 2026, phần diễn giải khuyến cáo GBS)."
+    },
+    {
+     "t": "Hẹn tái khám sau nội soi (khoảng 5 ngày), kiểm Hb, INR; chưa cấp giấy chứng nhận 'đủ sức khỏe', dặn không leo thang cao, không làm việc nặng cho đến khi ổn",
+     "v": "c",
+     "n": "Lịch tái khám và việc cấp giấy là lựa chọn của ca, không có trong tài liệu đã tải. Giấy chứng nhận chỉ cấp khi có kết luận; đang có XHTH nên không an toàn leo giàn giáo."
+    },
+    {
+     "t": "Làm test thở urê/ kháng nguyên phân H. pylori ngay hôm nay",
+     "v": "a",
+     "n": "Chấp nhận về ý (tìm H. pylori ở loét) nhưng kết quả dễ âm giả vì PPI 5 ngày và đang chảy máu (VNAGE 2023 Statement 6); phải làm lại (ACG-ICG 2019 D6)."
+    },
+    {
+     "t": "Siêu âm bụng",
+     "v": "a",
+     "n": "Giúp loại trừ bệnh gan mạn, nhưng khám lâm sàng, tiểu cầu và albumin đã gợi ý không có tăng áp cửa."
+    },
+    {
+     "t": "Tiếp tục meloxicam kèm omeprazol, hoặc đổi sang celecoxib",
+     "v": "w",
+     "n": "Còn dùng NSAID khi đang XHTH. Chẹn COX-2 + PPI chỉ đặt ra cho người từng chảy máu loét BUỘC phải dùng NSAID (ACG-ICG 2019 E1, E2); ở đây có paracetamol thay thế."
+    },
+    {
+     "t": "Tiếp tục warfarin liều cũ, không đổi gì",
+     "v": "w",
+     "n": "ESGE khuyến cáo ngưng thuốc kháng vitamin K khi XHTH (ESGE 2021; ESGE 2026)."
+    },
+    {
+     "t": "Tiêm vitamin K và truyền huyết tương/PCC để đưa INR về bình thường",
+     "v": "w",
+     "n": "Huyết động ổn, INR 2,4 trong đích: PCC + vitamin K chỉ dành cho huyết động không ổn (ESGE 2026, mục Antithrombotic medications); ngưng thuốc là đủ."
+    },
+    {
+     "t": "Truyền máu",
+     "v": "w",
+     "n": "Hb 124 g/L, ngưỡng truyền < 80 g/L khi không bệnh tim mạch (Ann Intern Med 2019, A4); ACG 2021, khuyến cáo 2: 7 g/dL."
+    },
+    {
+     "t": "Tiêm tranexamic acid",
+     "v": "h",
+     "n": "ESGE không khuyến cáo tranexamic acid trong XHTH không do giãn TM (ESGE 2026, mục Antithrombotic medications); bà đang có huyết khối tĩnh mạch sâu mới điều trị."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Xuất huyết tiêu hóa trên mức nhẹ (melena), nghi loét dạ dày – tá tràng do NSAID (meloxicam) đổi thuốc 2 tuần",
+     "Glasgow-Blatchford 1 điểm: nguy cơ rất thấp, xử trí ngoại trú kèm nội soi ngoại trú",
+     "Đang dùng kháng đông warfarin vì huyết khối tĩnh mạch sâu 5 tháng, INR 2,4",
+     "Đã loại trừ giãn vỡ TM thực quản, thủng ổ loét; ung thư chờ nội soi loại trừ",
+     "Tự uống omeprazol 5 ngày (làm sai lệch thử H. pylori)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: bà đến để xin giấy, phân đen là chi tiết giấu; hỏi riêng phân màu, thuốc mới đổi, thuốc tự mua. Thứ tự đúng: hỏi bệnh → sinh hiệu/ đứng nằm → thăm trực tràng → xét nghiệm Hb, ure, INR → tính điểm.",
+     "Điểm Glasgow-Blatchford (ACG 2021, Bảng 2): melena 1; còn lại 0 (Hb 124 g/L nữ ≥ 120 g/L; BUN ≈ 15,7 mg/dL < 18,2; HA tâm thu 118; mạch 92; không ngất, gan, suy tim) = 1 điểm. GBS 0–1 nguy cơ rất thấp, có thể xuất viện theo dõi ngoại trú (ACG 2021, khuyến cáo 1; ESGE 2026; Ann Intern Med 2019 A2a). Thang điểm không thay thế phán đoán lâm sàng (ESGE 2026).",
+     "Vì sao nghĩ do NSAID: đau thượng vị kiểu loét, phân đen sau 2 tuần meloxicam; warfarin làm chảy máu dễ hơn nhưng INR trong đích. Meloxicam là NSAID; bà chỉ kể warfarin khi hỏi chung (JSGE 2026, CQ-15: NSAID kèm thuốc kháng huyết khối tăng nguy cơ XHTH trên).",
+     "Loại giãn vỡ TM thực quản: không có tiền sử gan, báng, lách to, vàng da; tiểu cầu 255 G/L, albumin 41 g/L; siêu âm gan bình thường (Baveno VIII 2026, khuyến cáo 1.3 chỉ nêu LSM < 10 kPa loại trừ cACLD; phòng khám không đo LSM nhưng nhiều dấu hiệu khác đều âm).",
+     "Loại ung thư: không dấu báo động, nhưng XHTH là chỉ định nội soi (VNAGE 2024 KC 2).",
+     "Điểm khác lượt: điểm GBS thấp nhưng kháng đông: ESGE vẫn khuyến cáo ngưng kháng vitamin K khi XHTH (ESGE 2021; ESGE 2026)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng NSAID, PPI uống, nội soi ngoại trú sớm, dặn dấu hiệu, tái khám sau nội soi.",
+     "Warfarin: tạm ngưng; dùng lại theo nguy cơ huyết khối (ESGE 2026, mục 3.4); đây là quyết định chung với bác sĩ theo dõi huyết khối. Thời điểm dùng lại cụ thể không có trong tài liệu đã tải.",
+     "Không truyền máu (Hb 124 g/L, ngưỡng < 80 g/L: Ann Intern Med 2019 A4), không PCC/vitamin K khi huyết động ổn, không tranexamic acid (ESGE 2026, mục Antithrombotic medications).",
+     "Không cấp giấy sức khỏe ngay: vừa có XHTH đang chờ nội soi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng và ăn tối",
+      "so_ngay": "Đến khi nội soi (khoảng 2 ngày), sau đó theo kết quả",
+      "ghi_chu": "Liều PPI trước nội soi ngoại trú không có trong tài liệu đã tải; liều chuẩn omeprazol 20 mg (VNAGE 2024 Bảng 4); thời điểm uống (ACG 2022 GERD KC 8). PPI trước nội soi có thể cân nhắc nhưng không trì hoãn nội soi (Ann Intern Med 2019)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên mỗi lần, cách 6–8 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau vai",
+      "so_ngay": "Khi cần; tổng dưới 3 g/ngày",
+      "ghi_chu": "Thay meloxicam. QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1 (liều mỗi lần); tổng liều theo QĐ 361/2014 Phụ lục NSAID mục 3.3."
+     },
+     {
+      "thuoc": "Warfarin",
+      "ham_luong": "3 mg",
+      "lieu": "TẠM NGƯNG",
+      "duong": "Uống",
+      "thoi_diem": "Không uống tối nay",
+      "so_ngay": "Đến khi có kết quả nội soi và INR",
+      "ghi_chu": "ESGE 2021/2026: ngưng kháng vitamin K khi XHTH; dùng lại khi có chỉ định theo nguy cơ huyết khối (ESGE 2026 mục 3.4). Ngày dùng lại không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Ngưng meloxicam và mọi thuốc giảm đau xương khớp tự mua; mang tất cả vỉ thuốc đi nội soi.",
+     "Tạm không uống warfarin; không tự uống lại khi chưa hỏi bác sĩ.",
+     "Đến nội soi sáng mai theo lịch, nhịn ăn theo hướng dẫn.",
+     "Đến ngay cấp cứu nếu nôn ra máu, phân đen nhiều hoặc nhiều lần hơn, choáng, ngất, tim đập nhanh, khó thở (ESGE 2026).",
+     "Chưa leo thang cao, không làm việc nặng cho đến tái khám; giấy sức khỏe cấp sau khi có kết quả."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau nội soi, 5 ngày",
+   "tiep_don": "Bà Hằng tái khám sau 5 ngày, mang phiếu nội soi. Phân bớt đen nhưng còn sẫm, còn mệt và đau thượng vị nhẹ hơn trước. Warfarin đã ngưng 5 ngày. Sinh hiệu: HA 116/70 mmHg, mạch 84 l/p, nhiệt 36,7 °C, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Hằng đỡ một phần, huyết động ổn, Hb 114 g/L giảm 10 g/L so với trước, chưa đủ 20 g/L và phân đang sáng dần, không có dấu tái chảy máu (ESGE 2026, mục Recurrent bleeding). Loét đáy sạch (nguy cơ thấp) thì không cần nội viện (ACG-ICG 2019 B4, A8). Nhập viện làm mất thêm ngày công và tốn chi phí; bà lại trì hoãn việc dùng lại warfarin dù huyết khối tĩnh mạch sâu mới 5 tháng.",
+    "chuyen_tuyen": "Chuyển bà Hằng lên tuyến trên nội soi lại là không cần: nội soi mới làm 5 ngày trước, ổ loét đáy sạch, không thấy mạch máu hay cục máu đông; nội soi lặp chỉ dành cho chảy máu tái phát sau cầm máu nội soi (ACG 2021, khuyến cáo 15). Bà tốn chi phí, mất công việc, trong khi điều cần làm là tiếp tục PPI, dùng lại warfarin, bổ sung sắt và thử lại H. pylori đúng thời điểm.",
+    "theo_doi": "Cho bà Hằng ở nhà không hẹn lại, chỉ uống thuốc dạ dày, là bỏ sót việc then chốt: dùng lại warfarin khi huyết khối tĩnh mạch sâu mới 5 tháng (ESGE 2026, mục 3.4), thiếu sắt cần bù (ESGE 2026, mục Iron therapy) và chưa tìm H. pylori ở ổ loét (ESGE 2026; ACG-ICG 2019 D5). Bà có thể lại tự mua giảm đau NSAID khi đau vai, chảy máu tái phát khi cả warfarin lẫn NSAID."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đi nội soi rồi, đỡ nhiều nhưng phân còn sẫm sẫm, vẫn mệt. Bác sĩ coi cho tôi uống thuốc huyết khối lại được chưa.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "116/70",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "do_mot_phan",
+     "noi_dung": "Sau 5 ngày: phân từ đen sệt chuyển nâu sẫm, đi 1 lần/ngày, không bóng, ít mùi khai. Đau thượng vị còn nhẹ, đỡ nhiều khi uống omeprazol. Vẫn mệt, leo cầu thang còn hồi hộp nhưng không ngất.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần: quỹ đạo hồi phục"
+    },
+    {
+     "id": "noi_soi",
+     "noi_dung": "Phiếu nội soi: loét hành tá tràng thành trước 8 mm, đáy phẳng có giả mạc trắng sạch, không có mạch máu lộ, không cục máu đông (nguy cơ thấp). Dạ dày niêm mạc đỏ nhẹ vùng hang, không khối u, không giãn tĩnh mạch thực quản hay tâm vị. Test urease nhanh âm tính (bà đang dùng omeprazol).",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Kết quả nội soi: loại ung thư và giãn TM"
+    },
+    {
+     "id": "khong_tai_chay",
+     "noi_dung": "Không nôn ra máu, không có máu đỏ tươi, màu phân đang sáng dần, không choáng, không ngất. Chưa uống thêm thuốc giảm đau nào; đau vai còn nhẹ, uống paracetamol.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu chảy máu lại; ngưng NSAID"
+    },
+    {
+     "id": "warfarin",
+     "noi_dung": "Đã nhịn warfarin 5 ngày, không đau chân, chân không sưng thêm. Còn khoảng 1 tháng nữa là đủ 6 tháng theo bác sĩ mạch máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cần quyết định dùng lại kháng đông"
+    },
+    {
+     "id": "ppi",
+     "noi_dung": "Vẫn uống omeprazol 20 mg ×2 lần/ngày như dặn; thuốc dạ dày chưa dùng gì khác.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tuân thủ PPI"
+    },
+    {
+     "id": "lam_viec",
+     "noi_dung": "Đang nghỉ làm, công trình mới đã hoãn 1 tuần. Bà vẫn mong có giấy sức khỏe để nhận việc lại, nói thẳng là sợ mất mối.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do thật (giấy sức khỏe) quay lại"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Niêm mạc mắt hồng nhạt hơn trước một chút; không vàng da; không phù.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 116/70, mạch 84; đứng 3 phút 112/68, mạch 90, không choáng.",
+     "k": 1,
+     "hien": "Đo nằm đứng: huyết áp và mạch thay đổi rất ít, không choáng."
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau rất nhẹ thượng vị, không phản ứng, không khối, gan lách không to.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Phân trên găng màu nâu sẫm, không đen, không bóng.",
+     "k": 1,
+     "hien": "Phân dính găng màu nâu sẫm."
+    },
+    "chi_duoi": {
+     "a": "Cẳng chân trái to hơn phải khoảng 1 cm như trước, không nóng đỏ, không đau chỗ ấn.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 114 g/L · MCV 82 fL · TC 270 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 7.4,
+      "rbc": 4.1,
+      "hgb": 114,
+      "hct": 0.35,
+      "mcv": 82,
+      "mch": 27.8,
+      "mchc": 325,
+      "rdw": 15.5,
+      "plt": 270
+     },
+     "n": "Hb giảm 10 g/L so với lượt 1 (124 → 114 g/L), chưa đủ 20 g/L; kèm phân sáng dần và sinh hiệu ổn nên không phải chảy máu lại. Chảy máu lại được định nghĩa khi nôn máu, hồi hộp/hạ huyết áp sau khi ổn, phân đen/máu trở lại sau khi phân đã bình thường, hoặc Hb tụt ≥ 2 g/dL sau khi đã ổn (ESGE 2026, mục Recurrent bleeding). Hb thấp một phần do đang pha loãng và mất máu những ngày đầu."
+    },
+    "ferritin_sat": {
+     "v": "e",
+     "r": "Ferritin 18 ng/mL · sắt huyết thanh 7 µmol/L · bão hòa transferrin 12%",
+     "ab": 1,
+     "n": "Thiếu sắt (mất máu rỉ rả trước đó cộng đợt này). ESGE 2026 đề nghị bắt đầu bổ sung sắt khi có thiếu sắt hoặc thiếu máu (ESGE 2026, mục Iron therapy). Ngưỡng ferritin không có trong tài liệu đã tải."
+    },
+    "inr": {
+     "v": "e",
+     "r": "INR 1,2",
+     "n": "Warfarin đã ngưng 5 ngày. Làm nền trước khi dùng lại, theo dõi sau dùng lại để đưa vào khoảng điều trị."
+    },
+    "hp_ubt": {
+     "v": "u",
+     "r": "Âm tính",
+     "n": "Âm tính giả vì đang uống PPI liều cao và mới chảy máu. Phải ngưng PPI ≥ 2 tuần mới thử lại (VNAGE 2023 Statement 6); thử lại khi âm tính lần đầu (ACG-ICG 2019 D5, D6; ESGE 2026). Hẹn thử lại, không kết luận âm tính."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,6 · Creatinin 68 µmol/L · eGFR 92 mL/ph/1,73m²",
+     "n": "Ure bình thường: không có dấu tái chảy máu."
+    },
+    "ct_bung": {
+     "n": "Phòng khám không có CT. Không cần: không dấu thủng, nội soi đã xác định ổ loét."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Loét hành tá tràng nguy cơ thấp (đáy sạch) do NSAID, đã ngừng chảy máu; hồi phục từng phần (đỡ một phần), Hb 114 g/L, thiếu sắt; chưa loại trừ H. pylori",
+     "ok": 1,
+     "n": "Nội soi: loét 8 mm đáy sạch (nguy cơ thấp: không cần cầm máu nội soi, ACG-ICG 2019 B4). Phân nâu sẫm dần, mạch 84, Hb tụt 10 g/L < 20 g/L (ESGE 2026, mục Recurrent bleeding), ferritin 18 ng/mL."
+    },
+    {
+     "t": "Chảy máu lại",
+     "n": "Không nôn máu, không choáng, phân đang sáng dần (chưa bình thường nên màu sẫm là hồi phục, không phải tái phát), Hb giảm dưới 20 g/L (ESGE 2026, mục Recurrent bleeding)."
+    },
+    {
+     "t": "Ung thư dạ dày – tá tràng",
+     "n": "Nội soi: không khối u, ổ loét bờ đều, đáy sạch. Loét tá tràng ác tính hiếm; tiêu chuẩn sinh thiết loét không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giãn vỡ tĩnh mạch thực quản",
+     "n": "Nội soi: không giãn tĩnh mạch thực quản, tâm vị; không bệnh gan nền."
+    },
+    {
+     "t": "Nhiễm H. pylori",
+     "n": "Chưa biết: test urease âm tính trong bối cảnh PPI + chảy máu cấp là kết quả âm giả có thể xảy ra (VNAGE 2023 Statement 6; ACG-ICG 2019 D6); cần thử lại."
+    },
+    {
+     "t": "Huyết khối tĩnh mạch sâu chưa điều trị đủ",
+     "n": "Đã ngưng warfarin 5 ngày; chân không thêm sưng đau; còn 1 tháng thuốc: cần dùng lại kháng đông (ESGE 2026, mục 3.4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tiếp tục PPI uống, omeprazol 20 mg × 1 lần/ngày (hạ từ 2 lần/ngày vì loét nguy cơ thấp), đủ ít nhất 4–8 tuần; kéo dài cùng thời gian dùng warfarin",
+     "v": "c",
+     "n": "Thời gian PPI 'tùy theo nguyên nhân bệnh' (ACG-ICG 2019 C5); PPI dự phòng loét ở người cần kháng đông sau XHTH (ACG-ICG 2019 E5; ESGE 2026, mục Restarting antithrombotic medications). Số tuần cho loét tá tràng do NSAID không đưa nguyên văn trong tài liệu đã tải; mốc 4–8 tuần theo VNAGE 2024 KC 7 cho khó tiêu, đây là mốc của ca."
+    },
+    {
+     "t": "Dùng lại warfarin 3 mg tối nay, kiểm INR sau 3–5 ngày để đưa về đích; báo bác sĩ mạch máu",
+     "v": "c",
+     "n": "Dùng lại kháng đông ngay khi có chỉ định lâm sàng theo nguy cơ huyết khối (ESGE 2026, mục 3.4, khuyến cáo mạnh, chứng cứ thấp). Ổ loét nguy cơ thấp đã ngừng chảy máu 5 ngày. Số ngày chờ cụ thể và cách bắc cầu heparin không có trong tài liệu đã tải; ca không bắc cầu."
+    },
+    {
+     "t": "Bổ sung sắt uống vì thiếu sắt (ferritin 18 ng/mL, Hb 114 g/L)",
+     "v": "c",
+     "n": "Cân nhắc bổ sung sắt khi thiếu sắt hoặc thiếu máu (ESGE 2026, mục Iron therapy). Liều sắt sulfat 325 mg × 2 lần/ngày × 6 tuần là phác đồ trong nghiên cứu được ESGE 2026 trích; khuyến cáo không quy định liều. Dặn: sắt làm phân đen, đừng nhầm với chảy máu: phân bóng, sệt, mùi khai mới là melena."
+    },
+    {
+     "t": "Hẹn thử lại H. pylori (test thở urê hoặc kháng nguyên phân) sau khi ngưng PPI ≥ 2 tuần, điều trị diệt khi dương tính",
+     "v": "c",
+     "n": "Thử lại H. pylori nếu âm tính ở lần nội soi đầu (ESGE 2026; ACG-ICG 2019 D5, D6); ngưng PPI ≥ 2 tuần, kháng sinh/bismuth ≥ 4 tuần trước khi thử (VNAGE 2023 Statement 6). Phác đồ nếu dương: bismuth bốn thuốc 14 ngày (PTMB, VNAGE 2023 Statement 14; ACG 2024, bismuth quadruple 14 ngày). Còn dùng warfarin nên có lý do giữ PPI (ESGE 2026, mục Restarting antithrombotic medications): cách thử H. pylori khi không ngưng PPI được không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tuyệt đối tránh NSAID; đau vai dùng paracetamol, chỉnh tư thế khi sơn trần",
+     "v": "c",
+     "n": "JSGE 2026 Hình 7, CQ-15; QĐ 361/2014. Nếu thật sự phải dùng NSAID sau này: PPI + chẹn COX-2 (ACG-ICG 2019 E1, E2); ca này có paracetamol."
+    },
+    {
+     "t": "Dặn phân biệt hồi phục với chảy máu lại; tái khám sau 2 tuần (INR, Hb, ferritin), đủ ngưng PPI để thử H. pylori theo hẹn",
+     "v": "c",
+     "n": "Chảy máu lại: nôn máu, phân đen trở lại sau khi đã bình thường, choáng, Hb tụt ≥ 20 g/L (ESGE 2026, mục Recurrent bleeding). Mốc 2 tuần là lựa chọn của ca."
+    },
+    {
+     "t": "Cấp giấy chứng nhận sức khỏe có điều kiện: tạm hạn chế việc leo cao, nặng trong 1–2 tuần, đánh giá lại sau tái khám",
+     "v": "c",
+     "n": "Lựa chọn của ca, không có trong tài liệu đã tải; Hb đang hồi phục và còn tạm ngưng kháng đông."
+    },
+    {
+     "t": "Hẹn nội soi lại để xem lành loét ở 6–8 tuần",
+     "v": "a",
+     "n": "Chấp nhận nếu loét dạ dày; ổ loét hành tá tràng nguy cơ thấp thường không bắt buộc (sinh thiết/nội soi kiểm tra lành loét không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Kéo dài ngưng warfarin thêm 1–2 tuần để chắc không chảy máu",
+     "v": "w",
+     "n": "Huyết khối tĩnh mạch sâu mới 5 tháng cần kháng đông; ổ loét nguy cơ thấp đã ngừng chảy máu. ESGE 2026 mục 3.4 khuyến cáo dùng lại sớm."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến nội soi lại",
+     "v": "w",
+     "n": "Không chảy máu lại, Hb tụt < 20 g/L, nội soi 5 ngày trước đã đủ (ESGE 2026, mục Recurrent bleeding)."
+    },
+    {
+     "t": "Truyền máu",
+     "v": "w",
+     "n": "Hb 114 g/L, ngưỡng truyền < 80 g/L khi không bệnh tim mạch (Ann Intern Med 2019, A4)."
+    },
+    {
+     "t": "Đổi sang NSAID khác (celecoxib) hay dùng lại meloxicam kèm PPI",
+     "v": "w",
+     "n": "Còn nguy cơ chảy máu lại khi dùng với warfarin (ACG-ICG 2019 E1; JSGE 2026 CQ-15)."
+    },
+    {
+     "t": "Tin kết quả urease âm tính nên kết luận không nhiễm H. pylori",
+     "v": "w",
+     "n": "Âm giả vì PPI + XHTH (VNAGE 2023 Statement 6); xét nghiệm âm trong bối cảnh cấp phải làm lại (ACG-ICG 2019 D6)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Loét hành tá tràng nguy cơ thấp do NSAID (meloxicam), đã ngừng chảy máu, hồi phục từng phần",
+     "Hb 114 g/L, thiếu sắt (ferritin 18 ng/mL); không chảy máu lại",
+     "Chưa rõ tình trạng H. pylori (test âm giả do PPI + chảy máu)",
+     "Huyết khối tĩnh mạch sâu cẳng chân trái 5 tháng, cần dùng lại warfarin",
+     "Đã loại trừ ung thư, giãn TM thực quản qua nội soi"
+    ],
+    "phan_tich_chan_doan": [
+     "Đỡ một phần: phân từ đen sang nâu sẫm, sinh hiệu ổn, Hb giảm 10 g/L (< 20 g/L), ure bình thường: hồi phục chậm, không phải thất bại. Chảy máu lại cần nôn máu, mạch nhanh/tụt HA, phân đen trở lại sau khi bình thường, hoặc Hb tụt ≥ 20 g/L sau khi đã ổn (ESGE 2026, mục Recurrent bleeding).",
+     "Nội soi loét hành tá tràng đáy sạch = nguy cơ thấp: không cần cầm máu nội soi (ACG-ICG 2019 B4).",
+     "Test urease âm tính lúc này không loại trừ H. pylori (VNAGE 2023 Statement 6 và chú thích thuật toán; ACG-ICG 2019 D6; ESGE 2026).",
+     "Thiếu sắt cần bù (ESGE 2026, mục Iron therapy)."
+    ],
+    "phan_tich_xu_tri": [
+     "PPI tiếp tục và duy trì khi dùng kháng đông (ACG-ICG 2019 E5; ESGE 2026).",
+     "Dùng lại warfarin sớm theo nguy cơ huyết khối (ESGE 2026, mục 3.4); kiểm INR.",
+     "Bổ sung sắt, dặn phân biệt phân đen do sắt với melena.",
+     "Thử lại H. pylori sau ngưng PPI ≥ 2 tuần; điều trị nếu dương (ESGE 2026; ACG-ICG 2019 D5).",
+     "Tránh NSAID vĩnh viễn trong vai trò đau vai; dùng paracetamol."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng",
+      "so_ngay": "4–8 tuần rồi đánh giá; tiếp tục khi còn dùng warfarin",
+      "ghi_chu": "ACG-ICG 2019 C5 (đơn liều, thời gian theo nguyên nhân); VNAGE 2024 KC 7, Bảng 4 (liều chuẩn); ACG 2022 GERD KC 8 (thời điểm); ACG-ICG 2019 E5 (PPI cho người cần kháng đông)."
+     },
+     {
+      "thuoc": "Warfarin",
+      "ham_luong": "3 mg",
+      "lieu": "3 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Dùng lại từ tối nay, cho đến khi bác sĩ mạch máu quyết (còn khoảng 1 tháng)",
+      "ghi_chu": "ESGE 2026 mục 3.4 (dùng lại theo nguy cơ huyết khối). Kiểm INR sau 3–5 ngày: số ngày không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Sắt sulfat",
+      "ham_luong": "325 mg",
+      "lieu": "325 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "6 tuần, kiểm Hb, ferritin",
+      "ghi_chu": "ESGE 2026 mục Iron therapy (nghiên cứu sắt sulfat 325 mg × 2 lần/ngày trong 6 tuần); khuyến cáo chỉ nêu cân nhắc bổ sung sắt."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên mỗi lần, cách 6–8 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau vai",
+      "so_ngay": "Khi cần; tổng dưới 3 g/ngày",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1, Phụ lục NSAID mục 3.3."
+     }
+    ],
+    "dan_do": [
+     "Tuyệt đối không uống meloxicam, ibuprofen, diclofenac hay thuốc giảm đau xương khớp tự mua; mua thuốc phải nói đang dùng warfarin.",
+     "Uống warfarin tối nay (ESGE 2026, mục 3.4); đi thử INR sau 3–5 ngày (mốc của ca, không có trong tài liệu đã tải).",
+     "Uống sắt sẽ làm phân đen; phân bóng, sệt, mùi khai, kèm choáng hoặc nôn máu là chảy máu lại: đến cấp cứu ngay.",
+     "Tái khám sau 2 tuần (mốc của ca); thử H. pylori sau khi ngưng PPI ≥ 2 tuần (VNAGE 2023 Statement 6).",
+     "Khi sơn trần: nghỉ giữa giờ, chỉnh tư thế; giấy sức khỏe có điều kiện, đánh giá lại sau tái khám."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Hằng dùng lại warfarin từ tối lượt 2, INR về 2,3 sau 5 ngày. Phân trở lại màu vàng sau khoảng 10 ngày kể từ lượt 2, đau thượng vị hết sau 2 tuần, Hb tăng lên 121 g/L sau 4 tuần uống sắt. Test thở urê làm sau 2 tuần ngưng PPI dương tính nên bà được diệt H. pylori bằng bismuth bốn thuốc 14 ngày. Bà hồi phục chậm hơn dự kiến (mệt kéo dài gần 3 tuần do thiếu sắt) nhưng không chảy máu lại, cầm giấy sức khỏe có điều kiện quay lại làm việc sau 3 tuần.",
+ "nhieu": [
+  "Tự uống omeprazol 5 ngày: làm đau dịu bớt, che bệnh cảnh và làm urease/UBT âm giả; không dùng kết quả âm lúc này để loại H. pylori (VNAGE 2023 Statement 6; ACG-ICG 2019 D6).",
+  "Không có CT: không ảnh hưởng ca này; thủng ổ loét cần hình ảnh nhưng lâm sàng không gợi ý (WSES 2020); xử trí dựa vào thang điểm GBS và nội soi.",
+  "Nghề thợ sơn gợi ý nhiễm chì: MCV bình thường, không đau quặn; tài liệu đã tải không có tiêu chuẩn chẩn đoán nhiễm chì.",
+  "Lý do đến khám là xin giấy sức khỏe, không phải phân đen; phân đen là chi tiết giấu."
+ ],
+ "bai_hoc_bien": [
+  "Người đến xin giấy sức khỏe có thể mang bệnh cấp: hỏi riêng phân màu và thuốc mới đổi.",
+  "Đổi thuốc từ paracetamol sang NSAID 2 tuần trước + warfarin = nguy cơ XHTH (JSGE 2026 CQ-15).",
+  "Glasgow-Blatchford ≤ 1: xử trí ngoại trú kèm nội soi sớm; thang điểm không thay thế phán đoán (ESGE 2026).",
+  "Kháng đông + XHTH: ngưng kháng vitamin K, dùng lại sớm theo nguy cơ huyết khối (ESGE 2026 mục 3.4).",
+  "Đỡ một phần: phân từ đen sang nâu sẫm, Hb tụt < 20 g/L, sinh hiệu ổn là hồi phục chậm; chảy máu lại có tiêu chuẩn riêng (ESGE 2026).",
+  "Test H. pylori âm trong bối cảnh PPI + chảy máu phải làm lại sau ngưng PPI ≥ 2 tuần."
+ ],
+ "diem_nho": [
+  "GBS (ACG 2021 Bảng 2): nữ Hb ≥ 120 g/L tính 0, 100–<120 tính 1; BUN < 18,2 mg/dL tính 0; melena 1; GBS 0–1 có thể xử trí ngoại trú (ACG 2021 khuyến cáo 1).",
+  "Truyền máu khi Hb < 70–80 g/L nếu không bệnh tim mạch (ACG 2021 khuyến cáo 2; Ann Intern Med 2019 A4).",
+  "ESGE: ngưng kháng vitamin K khi XHTH; chỉ vitamin K + PCC khi huyết động không ổn (ESGE 2026).",
+  "Chảy máu lại sau cầm máu: nôn máu, nhịp nhanh/hạ HA, phân đen sau khi đã bình thường, Hb tụt ≥ 2 g/dL (ESGE 2026).",
+  "Thử H. pylori: ngưng PPI ≥ 2 tuần, kháng sinh/bismuth ≥ 4 tuần (VNAGE 2023 Statement 6); bismuth 4 thuốc 14 ngày (ACG 2024; VNAGE 2023 Statement 14)."
+ ],
+ "nguon": [
+  "ACG 2021 – XHTH trên và loét chảy máu – TL-0076 – khuyến cáo 1–2, 5, Bảng 2",
+  "Ann Intern Med 2019 – Đồng thuận quốc tế XHTH trên không do giãn TM – TL-0226 – A2a, A4, A6, B4, C5, D5–D6, E1–E5",
+  "ESGE 2026 – XHTH do loét – TL-0189 – GBS ngoại trú, kháng vitamin K, mục 3.3, 3.4, PPI, sắt, H. pylori",
+  "WSES 2020 – loét thủng/chảy máu – TL-0088",
+  "Baveno VIII 2026 – TL-0186 – khuyến cáo 1.3",
+  "VNAGE 2023 H. pylori – TL-0179 – Statement 6, 14; VNAGE 2024 – TL-0178 – KC 2, KC 7, Bảng 4",
+  "ACG 2024 – điều trị H. pylori – TL-0203",
+  "JSGE 2026 – loét dạ dày – TL-0190 – Hình 7, CQ-15",
+  "ACG 2022 GERD – TL-0212 – KC 8; QĐ 361/2014 (Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1)"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25: viết TH-1412. Tài liệu đã đọc: TL-0076 (khuyến cáo 1–2, Bảng 2), TL-0226 (A2a–A6, B3–B4, C4–C5, D5–D6, E1–E5), TL-0189 (mục GBS ngoại trú, Antithrombotic, mục 3.3–3.4, Helicobacter pylori, Iron therapy), TL-0179 (Statement 6, 14), TL-0203 (BQT 14 ngày), TL-0186 (1.3), TL-0088.",
+  "Thiếu tài liệu đã tải: số tuần PPI riêng cho loét tá tràng do NSAID; ngày dùng lại warfarin sau XHTH; mốc giờ nội soi ngoại trú; liều PPI trước nội soi ngoại trú; tiêu chuẩn nhiễm chì; ngưỡng ferritin.",
+  "Quy đổi urê mmol/L → BUN mg/dL (×2,8) là quy đổi chuẩn, không có trong tài liệu đã tải.",
+  "Không dùng media."
+ ]
+}
