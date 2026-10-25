@@ -1,0 +1,804 @@
+{
+ "ma_ca": "TH-0353",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soát nguồn với kho tài liệu (2026-10-25)",
+ "benh": "TH_gerd_dung_dabigatran",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trào ngược dạ dày thực quản (GERD)",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh mạch vành",
+   "Loét thực quản"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Hướng dẫn viên du lịch",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Thị Kim Oanh",
+  "tuoi": 52,
+  "gioi": "Nữ",
+  "nghe": "Hướng dẫn viên du lịch",
+  "can_nang": 68,
+  "chieu_cao": 160,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị tự xưng 'tôi', thân mật hơn thì 'chị', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói nhanh, vui vẻ, quen nói trước đám đông, nhưng khi lo thì hay nói vòng. Hay hỏi về cách phòng cho gia đình, ít khi nghĩ cho bản thân. Hiểu biết y khoa trung bình, tự đọc báo mạng.",
+  "kieu_nhieu": "Ở xa, khó tái khám: nhà cách phòng khám 45 km, đi tour 4–6 ngày mỗi 10 ngày. Chị khó hẹn đúng ngày, chỉ nói rõ khi bác sĩ hỏi về lịch đi tour, ai đưa đi, có gọi điện được không.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9a984",
+   "toc": "#2b2623",
+   "kieuToc": "dai_buoc",
+   "ao": "#3f7a9c",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Nóng rát sau xương ức, ợ chua",
+ "khoa_cls": {
+  "nhom": [
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám huyện không có máy CT và không có nội soi tiêu hóa; nội soi làm ở bệnh viện tỉnh, cách 60 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Đặng Thị Kim Oanh, 52 tuổi, hướng dẫn viên du lịch, rung nhĩ kịch phát đang dùng thuốc kháng đông, tăng huyết áp. Đến vì nóng rát sau xương ức và ợ chua khoảng 4 tuần, chị nhờ bác sĩ xem có phải bệnh dạ dày không. Sinh hiệu: HA 132/80 mmHg, mạch 76 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện chị Oanh để theo dõi tim là quá tay: nóng rát sau ăn, không liên quan gắng sức, ECG và hs-TnT bình thường, không nôn máu hay phân đen, huyết động ổn (ESC 2023 mục 3.2, 3.3.1). Ca triệu chứng điển hình không dấu báo động được thử PPI 8 tuần ngoại trú (ACG 2022 chẩn đoán KC 1). Chị phải bỏ cả tuần tour, mất thu nhập, nằm viện không thêm được gì, và lần sau chị có thể ngại đi khám khi nóng rát.",
+    "chuyen_tuyen": "Gửi chị Oanh đi nội soi ngay ở bệnh viện tỉnh là sớm: chị chưa có dấu báo động (nuốt nghẹn, nuốt đau, sụt cân, xuất huyết, thiếu máu), chỉ có một yếu tố nguy cơ Barrett là tuổi trên 50, nên thử PPI trước (ACG 2022 chẩn đoán KC 1, KC 6; VNAGE 2026 KC 3). Nhà chị cách bệnh viện tỉnh 60 km, chị mất trọn một ngày đi và về, chi phí nội soi mà kết quả có thể bình thường vì chưa thử thuốc."
+   },
+   "loi_mo": "Chào bác sĩ. Gần một tháng nay tôi hay nóng rát sau xương ức, ợ chua nữa. Tôi đi tour suốt nên nhờ bác sĩ xem giùm xem có phải bệnh dạ dày không.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "132/80",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nóng rát sau xương ức và ợ chua khoảng 4 tuần, nhờ bác sĩ xem có phải bệnh dạ dày không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Nóng rát từ sau xương ức lên cổ, xảy ra 4–5 ngày mỗi tuần, nặng hơn sau bữa tối muộn và khi nằm hoặc cúi người. Ợ chua vài lần mỗi tuần. Uống viên antacid thì bớt sau 15–30 phút. Không đánh thức chị khỏi giấc ngủ. Không liên quan gắng sức: dắt đoàn đi bộ, leo dốc, leo cầu thang không nặng hơn. Không lan tay hay hàm, không vã mồ hôi, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm: ợ nóng, trớ, theo tư thế, không theo gắng sức"
+    },
+    {
+     "id": "doi_thuoc",
+     "noi_dung": "Chị rung nhĩ kịch phát 3 năm, uống warfarin do bác sĩ tim mạch ở tỉnh. Vì đi tour liên tục không đi thử INR đều được, 5 tuần trước bác sĩ đổi sang dabigatran 150 mg ngày 2 lần. Khoảng 1 tuần sau đổi thuốc thì bắt đầu nóng rát; trước đó chưa từng ợ nóng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau đổi thuốc kháng đông"
+    },
+    {
+     "id": "bo_lieu",
+     "noi_dung": "Có 3 lần chị quên uống dabigatran buổi tối, và một lần cố ý bỏ liều vì tưởng thuốc làm rát ngực. Chưa hỏi bác sĩ tim mạch.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc đều không' thì chị nói 'đều'. Chỉ kể khi bác sĩ hỏi cụ thể có quên hay bỏ liều dabigatran không, hoặc có định ngưng thuốc vì nóng rát không.",
+     "k": 1,
+     "y": "Nguy cơ tự bỏ thuốc kháng đông"
+    },
+    {
+     "id": "tha",
+     "noi_dung": "Tăng huyết áp, uống losartan 50 mg mỗi sáng. Không đái tháo đường, mỡ máu bình thường, không hút thuốc, uống cà phê 3 ly mỗi ngày.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc và yếu tố nguy cơ"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Chưa từng đau ngực khi gắng sức, chưa nhồi máu. Rung nhĩ gần đây không có cơn hồi hộp. Mẹ chị bị tăng huyết áp, không ai trong nhà mắc bệnh tim sớm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử tim mạch"
+    },
+    {
+     "id": "xhth_am",
+     "noi_dung": "Không nôn ra máu, phân vàng, không đi cầu phân đen, không chảy máu răng hay bầm da bất thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc xuất huyết khi đang dùng kháng đông"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không nuốt nghẹn, không đau khi nuốt, không sụt cân, không nôn, ăn uống bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "nsaid_am",
+     "noi_dung": "Không uống aspirin hay thuốc giảm đau chống viêm; thỉnh thoảng đau đầu thì uống paracetamol. Không dùng thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dùng NSAID"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Cao 160 cm, nặng 68 kg. Đi tour thì ăn tối cùng đoàn 21–22 giờ rồi nằm nghỉ ngay hoặc ngủ trên xe, ăn cay, nước chua, uống cà phê. Ở nhà ăn tối 19 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thói quen ăn uống, giờ ăn, cân nặng"
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Nhà ở xã cách phòng khám 45 km, bệnh viện tỉnh cách 60 km. Cứ 10 ngày chị đi tour 4–6 ngày, ở nhà 2–3 ngày giữa các tour. Khó quay lại đúng hẹn, nhưng gọi điện được và con gái ở nhà có thể đưa đi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng tái khám (ở xa)"
+    },
+    {
+     "id": "tien_su_tieu_hoa",
+     "noi_dung": "Chưa nội soi, chưa thử vi khuẩn HP, chưa từng loét dạ dày.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Đồng nghiệp trong công ty vừa được chẩn đoán nhiễm vi khuẩn HP và nói bệnh này lây qua ăn chung. Chị ở cùng mẹ 80 tuổi, con gái và cháu 3 tuổi; chị hay thổi cơm cho cháu bằng muỗng của mình. Chị sợ mình bị 'bệnh dạ dày lây' và đã lây cho cả nhà.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chị lo nhất điều gì, hoặc hỏi ở nhà ai ăn chung, hay vì sao chị đi khám đúng lúc này.",
+     "k": 1,
+     "y": "Lý do thật: sợ lây bệnh cho người thân"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, BMI 26,6 kg/m², niêm mạc hồng, không vàng da, không bầm tím hay chấm xuất huyết.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không phản ứng thành bụng, không khối, gan lách không to.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, không âm thổi, không T3, T4.",
+     "k": 1,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Không phù, bắp chân mềm, không đau.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, không khối, không hạch cổ.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 76 l/p. Không ST chênh, không sóng Q, không biến đổi ST–T. Không có rung nhĩ lúc ghi.",
+     "n": "Đau sau xương ức ở nữ 52 tuổi: ECG trong 10 phút (ESC 2023 mục 3.2); triệu chứng thượng vị là triệu chứng tương đương đau ngực (ESC 2023 mục 3.1.1)."
+    },
+    "trop": {
+     "v": "e",
+     "r": "hs-TnT 4 ng/L (ngưỡng < 14)",
+     "n": "Cơn nóng rát gần nhất cách > 3 giờ; < 5 ng/L loại trừ ở 0 giờ (QĐ 2187/2019 Hình 3; ESC 2023 mục 3.3.1, Hình 6)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 131 g/L · MCV 90 fL · TC 270 G/L",
+     "bang": {
+      "wbc": 7.2,
+      "neu_pct": 62.0,
+      "neu": 4.46,
+      "lym_pct": 29.0,
+      "lym": 2.09,
+      "mono_pct": 6.0,
+      "mono": 0.43,
+      "eos_pct": 2.5,
+      "eos": 0.18,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.45,
+      "hgb": 131,
+      "hct": 0.4,
+      "mcv": 89.9,
+      "mch": 29.4,
+      "mchc": 328,
+      "rdw": 13.2,
+      "plt": 270
+     },
+     "n": "Mốc nền khi đang dùng kháng đông; thiếu máu là dấu báo động (ACG 2022 Nội soi; VNAGE 2026 KC 3)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,8 mmol/L · Creatinin 74 µmol/L · eGFR 85 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.8,
+      "creat": 74,
+      "egfr": 85
+     },
+     "n": "Liều dabigatran xét theo chức năng thận (ESC AF 2024 Bảng 11, tr. 3345)."
+    },
+    "hp_ubt": {
+     "v": "n",
+     "n": "Chưa có chỉ định: xét nghiệm H. pylori chỉ khi dự định diệt (VNAGE 2023 Statement 1); GERD dùng PPI duy trì dài hạn mới là chỉ định có điều kiện (Statement 2). Nếu người bệnh muốn thì làm trước khi uống PPI (Statement 6: chưa dùng PPI 2 tuần)."
+    },
+    "inr": {
+     "v": "n",
+     "n": "Đã chuyển dabigatran, không theo dõi INR; chưa đủ bằng chứng xét nghiệm nồng độ DOAC thường quy (ESC AF 2024, tr. 3345)."
+    },
+    "xq_thuc_quan": {
+     "v": "n",
+     "n": "Không chụp barium chỉ để chẩn đoán GERD (ACG 2022 chẩn đoán KC 5)."
+    },
+    "noi_soi": {
+     "v": "a",
+     "r": "(Phòng khám không có nội soi.)",
+     "n": "Chưa cần ngay: triệu chứng điển hình, không dấu báo động (ACG 2022 chẩn đoán KC 1); khi nặng hơn hoặc không đáp ứng PPI thì nội soi (ACG 2022 KC 3; VNAGE 2026 KC 3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày thực quản (GERD) thể triệu chứng điển hình (ợ nóng, trớ), chưa có dấu báo động; đã loại trừ bệnh mạch vành; đang dùng dabigatran",
+     "ok": 1,
+     "n": "Nóng rát sau xương ức, ợ chua, nặng sau bữa tối muộn và khi nằm, bớt khi dùng antacid, không theo gắng sức, thừa cân, khởi phát sau đổi thuốc kháng đông. Ợ nóng, trớ là triệu chứng điển hình (ACG 2022; VNAGE 2026 KC 1)."
+    },
+    {
+     "t": "Bệnh mạch vành / hội chứng vành cấp",
+     "n": "ECG không biến đổi, hs-TnT < 5 ng/L khi đã qua cơn đau > 3 giờ, đau không theo gắng sức (ESC 2023 mục 3.2, 3.3.1; QĐ 2187/2019 Hình 3)."
+    },
+    {
+     "t": "Loét thực quản",
+     "n": "Không nuốt đau, không nuốt nghẹn, không xuất huyết, không thiếu máu; loét thực quản hiếm ở Việt Nam (VNAGE 2026 KC 4). Chỉ nội soi mới khẳng định, hẹn khi không đáp ứng PPI."
+    },
+    {
+     "t": "Bệnh dạ dày – tá tràng, nhiễm H. pylori",
+     "n": "Triệu chứng chủ yếu sau xương ức, không đau thượng vị; chưa có chỉ định test H. pylori (VNAGE 2023 Statement 1, 2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích chẩn đoán trào ngược, dặn đổi lối sống: tránh ăn trong 2–3 giờ trước khi nằm, giảm cân, kê cao đầu giường, tránh thức ăn gây trào ngược",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 1–5 (giảm cân; tránh ăn 2–3 giờ trước ngủ; kê cao đầu giường); VNAGE 2026 KC 12. Ca đi tour: nêu cách làm được (ăn nhẹ sớm, ăn tối trước ngủ ≥ 3 giờ khi có thể)."
+    },
+    {
+     "t": "Thử PPI liều chuẩn 1 lần/ngày (omeprazol 20 mg) 30–60 phút trước ăn sáng, 4–8 tuần",
+     "v": "c",
+     "n": "Triệu chứng điển hình không dấu báo động: thử PPI 8 tuần (ACG 2022 chẩn đoán KC 1); NERD 4–8 tuần (VNAGE 2026 KC 15); liều omeprazol 20 mg (VNAGE 2024 Bảng 4). Giờ uống: ACG 2022 điều trị KC 8; QĐ 361/2014 ghi uống tối, đã có mục trong sổ mâu thuẫn, uống tối chấm chấp nhận. Thử PPI không đủ để khẳng định chẩn đoán (VNAGE 2026 KC 2)."
+    },
+    {
+     "t": "Không tự ngưng hay bỏ liều dabigatran; báo bác sĩ tim mạch về triệu chứng mới sau đổi thuốc để xét lại liều hay thuốc",
+     "v": "c",
+     "n": "Ở người viêm thực quản hoặc GERD, cân nhắc giảm dabigatran 110 mg ×2 theo từng người (ESC AF 2024 Bảng 11, tr. 3345); người bệnh cùng tham gia quyết định để tăng tuân thủ (tr. 3345). Quyết định đổi liều thuộc bác sĩ tim mạch."
+    },
+    {
+     "t": "Giải thích điện tim, men tim bình thường, hiện không phải bệnh tim; dặn kiểu đau cần gọi cấp cứu",
+     "v": "c",
+     "n": "Gọi cấp cứu khi đau ngực kéo dài > 15 phút hoặc tái lại trong 1 giờ (ESC 2023 mục 3.1.1). Trả lời cả nỗi lo bệnh tim."
+    },
+    {
+     "t": "Dặn bằng văn bản dấu hiệu cần đến ngay: nôn máu, phân đen, nuốt đau, nuốt nghẹn, sụt cân; ghi số điện thoại phòng khám",
+     "v": "c",
+     "n": "Dấu báo động cần nội soi (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3); đang dùng kháng đông nên xuất huyết nguy hiểm hơn. Nhà ở xa nên dặn bằng văn bản."
+    },
+    {
+     "t": "Giải đáp nỗi lo lây: trào ngược không phải bệnh nhiễm khuẩn; vi khuẩn H. pylori mới có thể lây trong gia đình, chưa biết chị có hay không; thôi thổi cơm, mớm cơm cho cháu",
+     "v": "c",
+     "n": "H. pylori lây từ người sang người, nhất là trong gia đình (VNAGE 2023 Statement 22); mớm cơm làm tăng nguy cơ, đũa mang vi khuẩn rất hiếm (VNAGE 2023, phần bàn Statement 22). GERD không lây: không có câu riêng trong tài liệu đã tải; cơ chế GERD là hàng rào chống trào ngược kém (ACG 2022 Pathophysiology)."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần (gọi điện nếu nặng hơn thì đến sớm)",
+     "v": "c",
+     "n": "Mốc 4 tuần là lựa chọn của ca (đánh giá đáp ứng, ở xa), không có trong tài liệu đã tải; ACG 2022 đánh giá sau thử 8 tuần."
+    },
+    {
+     "t": "Xét nghiệm H. pylori (test hơi thở) trước khi uống PPI nếu chị muốn",
+     "v": "a",
+     "n": "Test chỉ khi dự định diệt (VNAGE 2023 Statement 1, 2); chưa dùng PPI 2 tuần (Statement 6)."
+    },
+    {
+     "t": "Alginat khi nóng rát",
+     "v": "a",
+     "n": "VNAGE 2026 KC 14: lối sống rồi alginat cho GERD nhẹ – vừa."
+    },
+    {
+     "t": "Nội soi dạ dày – thực quản ngay lúc này",
+     "v": "a",
+     "n": "Triệu chứng điển hình không dấu báo động: thử PPI trước (ACG 2022 chẩn đoán KC 1); cũng không sai vì tuổi trên 50 (VNAGE 2026 KC 3)."
+    },
+    {
+     "t": "Cho metoclopramid hoặc thuốc vận động dạ dày",
+     "v": "w",
+     "n": "Không dùng thuốc kích thích nhu động cho GERD nếu không có bằng chứng liệt dạ dày (ACG 2022 điều trị KC 14)."
+    },
+    {
+     "t": "Thay PPI bằng sucralfat",
+     "v": "w",
+     "n": "Không khuyến cáo sucralfat cho GERD trừ khi có thai (ACG 2022 điều trị KC 15); PPI hơn thuốc kháng H2 (KC 6)."
+    },
+    {
+     "t": "Cho thêm aspirin hoặc NSAID vì sợ bệnh tim hay giảm đau",
+     "v": "h",
+     "n": "Không thêm kháng tiểu cầu vào kháng đông để phòng biến cố; tránh NSAID, dùng thuốc giảm đau khác (ESC AF 2024 Hình 10, tr. 3348–3349)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trào ngược dạ dày thực quản thể triệu chứng điển hình (ợ nóng, trớ), chưa nội soi, chưa có dấu báo động",
+     "Đã loại trừ bệnh mạch vành (ECG, hs-TnT bình thường, đau không theo gắng sức)",
+     "Khởi phát sau đổi warfarin sang dabigatran, có thừa cân, ăn tối muộn khi đi tour",
+     "Bệnh kèm: rung nhĩ kịch phát dùng dabigatran 150 mg × 2, tăng huyết áp dùng losartan"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: nóng rát sau xương ức, ợ chua, nặng khi nằm, sau ăn muộn, bớt với antacid: ợ nóng và trớ là triệu chứng điển hình (ACG 2022 Symptoms; VNAGE 2026 KC 1). Nhớ hỏi khởi phát: cách đổi thuốc 5 tuần; hỏi riêng về quên hay bỏ liều dabigatran vì chị không tự kể.",
+     "Khám: bụng mềm, không thiếu máu, không bầm tím; BMI 26,6. Khám tim phổi bình thường.",
+     "Loại trừ tim: đau thượng vị, sau xương ức là triệu chứng tương đương đau ngực (ESC 2023 mục 3.1.1); ECG trong 10 phút (mục 3.2) bình thường; hs-TnT 4 ng/L khi cơn đau cách > 3 giờ, dưới ngưỡng loại trừ 0 giờ 5 ng/L (QĐ 2187/2019 Hình 3; ESC 2023 Hình 6). Không cần CT mạch vành: phòng khám không có CT, và đã đủ cơ sở loại trừ bằng ECG, men tim, tính chất đau.",
+     "Dấu báo động: không nuốt nghẹn, nuốt đau, sụt cân, xuất huyết, thiếu máu, nôn; ACG 2022 chẩn đoán KC 6 nội soi trước nếu có báo động hoặc nhiều yếu tố nguy cơ Barrett. Chị chỉ có tuổi trên 50 (VNAGE 2026 KC 3), nên thử PPI 8 tuần trước (ACG 2022 chẩn đoán KC 1). Lyon 2.0 2024 coi LA A chưa đủ khẳng định GERD; thử PPI không đủ chẩn đoán, nội soi và đo pH chọn lọc (VNAGE 2026 KC 2, 5, 6).",
+     "Khởi phát sau đổi thuốc: tài liệu đã tải không nói dabigatran gây khó tiêu hay trào ngược; chỉ nói liều thấp 110 mg được cân nhắc ở người GERD, viêm thực quản (ESC AF 2024 Bảng 11) và nguy cơ chảy máu tiêu hóa cao hơn warfarin ở liều 150 mg (ACC/AHA 2023 AF, bảng so sánh DOAC). Ca để bác sĩ tim mạch quyết, không tự ngưng.",
+     "Nỗi lo thật: sợ lây cho nhà (VNAGE 2023 Statement 22 về H. pylori). Phân biệt trào ngược (không lây) với H. pylori (chưa thử)."
+    ],
+    "phan_tich_xu_tri": [
+     "Thay đổi lối sống và thử PPI 4–8 tuần (ACG 2022 chẩn đoán KC 1, điều trị KC 1–5, 8; VNAGE 2026 KC 12, 15). Thời điểm: QĐ 361/2014 ghi uống tối; ACG 2022 điều trị KC 8 khuyên 30–60 phút trước ăn: đáp án theo ACG vì mới hơn, uống tối chấp nhận (sổ mâu thuẫn, mục 'Thời điểm uống PPI').",
+     "Không có mâu thuẫn mới ở đây về thời gian PPI giữa ACG 2022 (8 tuần) và VNAGE 2026 (4–8 tuần): khác thể bệnh (ACG nói triệu chứng điển hình, VNAGE nói NERD), cả hai đúng.",
+     "Dabigatran: không ngưng, không giảm liều tự ý; ghi thư gửi bác sĩ tim mạch (ESC AF 2024 Bảng 11, tr. 3345). Không thêm aspirin, NSAID (Hình 10). Liều dabigatran và PPI cùng lúc: tương tác không có trong tài liệu đã tải.",
+     "Nhà ở xa, hay đi tour: dặn bằng văn bản, cho số điện thoại, hẹn 4 tuần, cho phép gọi điện (mốc hẹn không có trong tài liệu đã tải).",
+     "Những việc sai: sucralfat, thuốc vận động dạ dày, thêm aspirin, nhập viện, nội soi cấp cứu."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng",
+      "so_ngay": "4–8 tuần; đánh giá lại khi tái khám",
+      "ghi_chu": "VNAGE 2024 Bảng 4 (liều chuẩn); VNAGE 2026 KC 15 (4–8 tuần); ACG 2022 chẩn đoán KC 1 (8 tuần), điều trị KC 8 (thời điểm)."
+     },
+     {
+      "thuoc": "Dabigatran (đang dùng)",
+      "ham_luong": "150 mg",
+      "lieu": "150 mg × 2 lần/ngày như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối như bác sĩ tim mạch dặn",
+      "so_ngay": "Dùng tiếp, không tự ngưng",
+      "ghi_chu": "Không đổi ở phòng khám; gửi thư bác sĩ tim mạch về triệu chứng mới (ESC AF 2024 Bảng 11: giảm xuống 110 mg × 2 chỉ cân nhắc theo từng người)."
+     },
+     {
+      "thuoc": "Losartan (đang dùng)",
+      "ham_luong": "50 mg",
+      "lieu": "1 viên/ngày như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Không đổi ở lượt này."
+     },
+     {
+      "thuoc": "Paracetamol (khi đau đầu)",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần khi cần",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "Thay cho NSAID khi đang dùng kháng đông (ESC AF 2024 Hình 10: đề nghị giảm đau thay thế). Liều không có trong tài liệu đã tải cho ca này, giữ liều chị đang dùng."
+     }
+    ],
+    "dan_do": [
+     "Uống omeprazol mỗi sáng 30–60 phút trước ăn; uống đều, kể cả khi đi tour (ACG 2022 điều trị KC 8).",
+     "Không tự ngưng hay bỏ dabigatran vì sợ nóng rát; nếu quên thì hỏi bác sĩ tim mạch hoặc gọi phòng khám; mang thư của phòng khám đến bác sĩ tim mạch.",
+     "Ăn tối sớm, cách giờ nằm ít nhất 2–3 giờ; khi đi tour, ăn ít bữa tối hoặc chọn món nhạt, tránh nằm ngay sau ăn (ACG 2022 điều trị KC 2); kê cao đầu giường khi nóng rát về đêm; giảm cân nếu thừa cân (KC 1).",
+     "Không thổi cơm, mớm cơm cho cháu; dùng muỗng riêng. H. pylori chưa biết có hay không; trào ngược thì không lây.",
+     "Đến ngay trạm y tế hoặc bệnh viện nếu nôn máu, phân đen, nuốt đau hoặc nuốt nghẹn, sụt cân, choáng; gọi cấp cứu nếu đau ngực kéo dài trên 15 phút hoặc tái lại trong 1 giờ, kèm vã mồ hôi, khó thở (ESC 2023 mục 3.1.1).",
+     "Tái khám sau 4 tuần (mốc hẹn không có trong tài liệu đã tải); gọi số phòng khám nếu nặng hơn, thức giấc vì nóng rát hay khàn tiếng."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần",
+   "tiep_don": "Chị Oanh tái khám sau 4 tuần, con gái đưa đến, vừa về từ chuyến tour 6 ngày. Nóng rát nặng hơn trước, đã thức giấc vì nóng rát về đêm. Sinh hiệu: HA 130/80 mmHg, mạch 78 l/p, SpO₂ 98%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Chị Oanh đã dùng PPI 4 tuần mà nóng rát nặng hơn và đã có triệu chứng về đêm, nay 52 tuổi: tăng PPI hay đổi thuốc rồi hẹn thêm vài tuần mà không nội soi là bỏ lỡ cơ hội nhìn niêm mạc (VNAGE 2026 KC 3; ACG 2022 chẩn đoán KC 3, KC 6). Chị có thể có viêm thực quản trợt, loét hay Barrett mà không ai biết, trong lúc đang dùng dabigatran làm tăng nguy cơ chảy máu nếu niêm mạc tổn thương. Chị ở xa, đi tour liên miên, hẹn xa nghĩa là rất khó có lần nội soi sau.",
+    "cap_cuu": "Gọi xe cấp cứu đưa chị Oanh vào viện ngay là quá mức: chị không nôn máu, phân vàng, Hb 129 g/L ổn định, không nuốt nghẹn hay nuốt đau, huyết động ổn, nên chỉ cần nội soi theo hẹn (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Chị tốn chi phí xe, bị xếp vào khoa cấp cứu chờ lâu mà không ai nội soi ngay, và dễ mất lòng tin khi đi khám lần sau."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi uống thuốc dạ dày mà nóng rát còn nhiều hơn trước, đêm nay tỉnh dậy vì rát. Giọng tôi sáng nào cũng khàn nữa.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "130/80",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "nang_hon",
+     "noi_dung": "Nóng rát và ợ chua gần như mỗi ngày, thức giấc vì rát 2–3 đêm mỗi tuần, ợ chua lên miệng khi nằm. Sáng nào cũng khàn giọng nhẹ và ho khan, nhất là sau tour.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Nặng hơn sau 4 tuần PPI, có triệu chứng ban đêm và ngoài thực quản"
+    },
+    {
+     "id": "ppi",
+     "noi_dung": "Uống omeprazol 20 mg mỗi sáng đều, bỏ một hôm trong tour. Uống khi vừa ngủ dậy, 10–15 phút sau thì ăn sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ và giờ uống PPI"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Trong tour vẫn ăn tối 21–22 giờ cùng đoàn rồi nằm nghỉ trên xe; cân nặng 68 kg, chưa giảm. Ở nhà cố ăn tối sớm và kê thêm gối, đỡ phần nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lối sống chưa thay đổi được"
+    },
+    {
+     "id": "dabigatran",
+     "noi_dung": "Từ lần khám trước, chị uống đủ dabigatran 2 lần mỗi ngày, không bỏ liều nào. Chưa gặp bác sĩ tim mạch vì chưa đến lịch tái khám, nhưng đã cầm thư của phòng khám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dabigatran vẫn dùng đủ liều"
+    },
+    {
+     "id": "xhth_am2",
+     "noi_dung": "Không nôn ra máu, phân vàng, không đi cầu phân đen, không bầm tím, không choáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc xuất huyết"
+    },
+    {
+     "id": "bao_dong_am2",
+     "noi_dung": "Không nuốt nghẹn, không đau khi nuốt, không sụt cân, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "tim_mach2",
+     "noi_dung": "Nóng rát vẫn theo bữa ăn và tư thế nằm, không liên quan gắng sức, không lan tay, không khó thở, không hồi hộp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất đau không đổi, không giống đau tim"
+    },
+    {
+     "id": "nguoi_than",
+     "noi_dung": "Chị chưa đi thử vi khuẩn HP. Ở nhà đã thôi mớm cơm cho cháu nhưng vẫn ăn riêng, đeo khẩu trang khi nấu cho mẹ, mệt mỏi vì lo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi lo lây vẫn còn"
+    },
+    {
+     "id": "xe_di",
+     "noi_dung": "Hôm nay con gái nghỉ làm đưa chị đến; nếu cần lên bệnh viện tỉnh nội soi thì đi được trong tuần này, nhờ con gái đưa. Chị không có tour đến hết tuần sau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Có thể đi tuyến tỉnh trong tuần"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, cân nặng 68 kg, niêm mạc hồng, không bầm tím.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không khối, gan lách không to.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, không âm thổi, không T3, T4.",
+     "k": 1,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ nhẹ, không khối, không hạch cổ.",
+     "k": 0
+    },
+    "quan_sat_nuot": {
+     "a": "Uống nước và ăn bánh mì mềm trôi tốt, không sặc, không vướng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "Hb 129 g/L (lần trước 131) · MCV 90 fL · TC 265 G/L",
+     "bang": {
+      "wbc": 7.0,
+      "neu_pct": 62.0,
+      "neu": 4.34,
+      "lym_pct": 29.0,
+      "lym": 2.03,
+      "mono_pct": 6.0,
+      "mono": 0.42,
+      "eos_pct": 2.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.38,
+      "hgb": 129,
+      "hct": 0.395,
+      "mcv": 90.2,
+      "mch": 29.5,
+      "mchc": 327,
+      "rdw": 13.2,
+      "plt": 270
+     },
+     "n": "Hb ổn định, không có bằng chứng mất máu khi đang dùng dabigatran."
+    },
+    "ecg": {
+     "v": "n",
+     "n": "Không làm lại: tính chất đau không đổi, không liên quan gắng sức, ECG và hs-TnT lượt 1 bình thường."
+    },
+    "trop": {
+     "v": "n",
+     "n": "Không cần: không có đau ngực mới."
+    },
+    "creat": {
+     "v": "n",
+     "n": "Đã làm lượt 1, eGFR 85."
+    },
+    "hp_ubt": {
+     "v": "n",
+     "n": "Đang dùng PPI: phải ngưng PPI 2 tuần trước test hơi thở (VNAGE 2023 Statement 6), kết quả lúc này có thể âm tính giả. H. pylori sẽ thử bằng urease nhanh qua sinh thiết khi nội soi (Statement 4)."
+    },
+    "xq_thuc_quan": {
+     "v": "n",
+     "n": "Không dùng barium chỉ để chẩn đoán GERD (ACG 2022 chẩn đoán KC 5)."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi.)",
+     "n": "Chỉ định: triệu chứng điển hình nặng hơn dù đã dùng PPI, có triệu chứng đêm, tuổi trên 50 (ACG 2022 chẩn đoán KC 3, KC 6; VNAGE 2026 KC 3). Không cấp cứu."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày thực quản (GERD) nặng hơn dù thử PPI 4 tuần, có triệu chứng ban đêm và ngoài thực quản (khàn giọng, ho khan); cần nội soi để tìm viêm thực quản, loại trừ loét thực quản; đang dùng dabigatran",
+     "ok": 1,
+     "n": "Nóng rát, ợ chua nặng hơn, thức giấc vì rát, khàn giọng buổi sáng kèm triệu chứng điển hình (VNAGE 2026 KC 16); tuân thủ có nhưng giờ uống PPI chưa đúng và lối sống chưa đổi được."
+    },
+    {
+     "t": "Loét thực quản / viêm thực quản trợt nặng",
+     "n": "Không nuốt đau, nuốt nghẹn, xuất huyết, thiếu máu; chỉ loại trừ hẳn bằng nội soi (ACG 2022 chẩn đoán KC 3, 6; VNAGE 2026 KC 3, 4)."
+    },
+    {
+     "t": "Bệnh mạch vành",
+     "n": "Không đau theo gắng sức, ECG và hs-TnT lượt 1 bình thường (ESC 2023 mục 3.2, 3.3.1); đau không đổi tính chất."
+    },
+    {
+     "t": "Thực quản Barrett, ung thư thực quản",
+     "n": "Chưa có dấu báo động; nhưng tuổi trên 50 cộng trào ngược về đêm là hai yếu tố nguy cơ Barrett, nên cần nội soi (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3)."
+    },
+    {
+     "t": "Nhiễm H. pylori",
+     "n": "Chưa biết; thử khi nội soi bằng urease nhanh (VNAGE 2023 Statement 4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Viết giấy giới thiệu nội soi dạ dày – thực quản ở bệnh viện tỉnh theo hẹn (không cấp cứu), sinh thiết urease nhanh tìm H. pylori; ghi rõ đang dùng dabigatran và PPI",
+     "v": "c",
+     "n": "ACG 2022 chẩn đoán KC 3 (không đáp ứng PPI), KC 6 (nhiều yếu tố nguy cơ Barrett); VNAGE 2026 KC 3; VNAGE 2023 Statement 4. Ngưng PPI 2–4 tuần trước nội soi là mong muốn của ACG 2022 (KC 3) và VNAGE 2026 (nội soi khi ngưng PPI), nơi nội soi sẽ quyết có ngưng khi chị triệu chứng nặng đang dùng kháng đông. Thời hạn nội soi theo hẹn không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chỉnh cách dùng PPI: omeprazol 20 mg 1 lần/ngày uống đúng 30–60 phút trước ăn sáng, hoặc tăng lên omeprazol 20 mg 2 lần/ngày (trước ăn sáng và trước ăn tối)",
+     "v": "c",
+     "n": "Kiểm tra tuân thủ trước khi tăng liều (VNAGE 2026 KC 17): chị đã tuân thủ nhưng giờ uống sai. A: giờ uống đúng (ACG 2022 điều trị KC 8); B: 2 lần/ngày hiệu quả hơn cho triệu chứng đêm, mục tăng liều cân nhắc kinh tế (VNAGE 2026 KC 17 và phần bàn KC 13); ACG 2022 điều trị KC 11 không khuyên thêm thuốc thường quy cho người không đáp ứng. Khác ở bằng chứng và bối cảnh, không cách nào được nói là gây hại."
+    },
+    {
+     "t": "Củng cố lối sống phù hợp đi tour: ăn tối trước khi nằm ít nhất 2–3 giờ, tránh nằm ngay trên xe, giảm cân, kê cao đầu giường 20 cm",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 1, 2, 5; VNAGE 2026 KC 12 (kê cao đầu giường 20 cm giảm acid thực quản)."
+    },
+    {
+     "t": "Không tự ngưng dabigatran; gửi kết quả nội soi cho bác sĩ tim mạch để xét liều (cân nhắc 110 mg × 2 nếu viêm thực quản)",
+     "v": "c",
+     "n": "ESC AF 2024 Bảng 11, tr. 3345. Dùng PPI bảo vệ khi nguy cơ chảy máu tiêu hóa cao, nhưng bằng chứng hạn chế, cần cá thể hóa (ESC AF 2024 Hình 10, tr. 3348–3349)."
+    },
+    {
+     "t": "Giải thích nỗi lo lây; chờ nội soi sinh thiết mới biết H. pylori; hướng dẫn tạm dùng muỗng riêng cho cháu, không cần ăn riêng hay đeo khẩu trang khi nấu",
+     "v": "c",
+     "n": "Lây qua miệng – miệng, phân – miệng, trong gia đình (VNAGE 2023 Statement 22); đũa mang vi khuẩn rất hiếm (phần bàn Statement 22). Bằng chứng cụ thể về ăn riêng, khẩu trang không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn bằng văn bản dấu hiệu cần đi ngay (nôn máu, phân đen, nuốt đau, nuốt nghẹn, sụt cân), ghi số điện thoại; dặn khi nào gọi cấp cứu",
+     "v": "c",
+     "n": "ACG 2022 chẩn đoán KC 6; ESC 2023 mục 3.1.1. Nhà ở xa."
+    },
+    {
+     "t": "Thêm alginat khi nóng rát hoặc thuốc kháng H2 buổi tối trong lúc chờ nội soi",
+     "v": "a",
+     "n": "Alginat cho GERD vừa hoặc phối hợp PPI khi đáp ứng một phần; kháng H2 cho nóng rát đêm (VNAGE 2026 KC 14, 17). Tương tác với dabigatran không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đổi sang P-CAB (vonoprazan, tegoprazan)",
+     "v": "a",
+     "n": "VNAGE 2026 KC 18; liều và tương tác với dabigatran không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thêm baclofen hoặc thuốc vận động dạ dày",
+     "v": "w",
+     "n": "Không dùng baclofen khi chưa có bằng chứng khách quan về GERD (ACG 2022 điều trị KC 13); không dùng thuốc vận động nếu không có liệt dạ dày (KC 14)."
+    },
+    {
+     "t": "Làm test hơi thở H. pylori ngay hôm nay",
+     "v": "w",
+     "n": "Đang dùng PPI: cần ngưng 2 tuần trước test (VNAGE 2023 Statement 6), âm tính giả gây yên tâm sai."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "GERD nặng hơn, chưa đáp ứng PPI 4 tuần, có triệu chứng đêm và ngoài thực quản (khàn giọng, ho khan)",
+     "Cần nội soi: tuổi trên 50, trào ngược về đêm, không đáp ứng, loại trừ viêm thực quản trợt, loét thực quản, Barrett",
+     "Chưa có dấu báo động, chưa mất máu (Hb 129 g/L)",
+     "Đang dùng dabigatran 150 mg × 2, tăng huyết áp dùng losartan"
+    ],
+    "phan_tich_chan_doan": [
+     "Nặng hơn sau 4 tuần: kiểm tra tuân thủ, giờ uống PPI, lối sống trước khi nghĩ đến thất bại điều trị (VNAGE 2026 KC 17). Chị uống đều nhưng ăn sáng chỉ 10–15 phút sau, ăn tối muộn trong tour: có đóng góp, nhưng không đủ để bỏ qua nội soi vì thêm triệu chứng đêm và tuổi trên 50.",
+     "Khàn giọng, ho khan buổi sáng cùng triệu chứng điển hình: PPI được khuyến cáo (VNAGE 2026 KC 16), không chẩn đoán trào ngược họng chỉ dựa vào triệu chứng họng (ACG 2022 ngoài thực quản KC 1, 5). Chưa cần soi thanh quản ở lượt này; nếu khàn kéo dài sau điều trị thì đánh giá thêm.",
+     "Loại trừ loét thực quản: không nuốt đau, không nuốt nghẹn, không xuất huyết, Hb ổn định; hiếm ở Việt Nam (VNAGE 2026 KC 4) nhưng chỉ nội soi loại trừ hẳn. Khẳng định GERD khi có viêm thực quản LA B trở lên hoặc đo pH (VNAGE 2026 KC 6; Lyon 2.0 2024).",
+     "Không cần CT ngực hay CT mạch vành: phòng khám không có CT, và không có chỉ định (đau không theo gắng sức, ECG và hs-TnT bình thường). Thay bằng chiến lược lâm sàng và nội soi."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển nội soi theo hẹn, không cấp cứu (ACG 2022 chẩn đoán KC 3, KC 6; VNAGE 2026 KC 3). Viết sẵn giấy giới thiệu, chị đi được trong tuần này nhờ con gái; hỏi trước ngày đi để tránh tour.",
+     "Chỉnh PPI: hai cách đều đúng (giờ uống đúng 1 lần/ngày theo ACG 2022 hoặc 2 lần/ngày sau kiểm tra tuân thủ theo VNAGE 2026 KC 17). ACG 2022 muốn ngưng PPI 2–4 tuần trước nội soi; VNAGE 2026 cũng khuyên nội soi khi ngưng PPI. Việc ngưng để nơi nội soi quyết, vì chị đang nặng và dùng kháng đông (thời hạn không có trong tài liệu đã tải).",
+     "Dabigatran: giữ liều, gửi kết quả cho bác sĩ tim mạch (ESC AF 2024 Bảng 11).",
+     "Nỗi lo lây: giải thích trào ngược không lây, H. pylori sẽ biết sau nội soi (VNAGE 2023 Statement 4, 22).",
+     "Những việc sai: thêm baclofen, thuốc vận động, test hơi thở ngay lúc đang uống PPI, cấp cứu, tiếp tục hẹn vài tuần không nội soi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày đúng giờ, hoặc 20 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng (và trước ăn tối nếu uống 2 lần)",
+      "so_ngay": "Đến ngày nội soi; sau đó theo kết quả (viêm thực quản trợt: 8 tuần)",
+      "ghi_chu": "VNAGE 2024 Bảng 4 (liều chuẩn); ACG 2022 điều trị KC 8; VNAGE 2026 KC 13, 17. Nơi nội soi quyết có ngưng PPI trước nội soi không."
+     },
+     {
+      "thuoc": "Alginat (dạng gói, thuốc nhà thuốc)",
+      "ham_luong": "Theo hàm lượng sản phẩm",
+      "lieu": "Theo hướng dẫn nhà sản xuất",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn và khi nóng rát",
+      "so_ngay": "Khi cần, trong lúc chờ nội soi",
+      "ghi_chu": "VNAGE 2026 KC 14. Liều cụ thể không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Dabigatran (đang dùng)",
+      "ham_luong": "150 mg",
+      "lieu": "150 mg × 2 lần/ngày như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Không đổi; bác sĩ tim mạch xét liều sau nội soi (ESC AF 2024 Bảng 11, tr. 3345)."
+     },
+     {
+      "thuoc": "Losartan (đang dùng)",
+      "ham_luong": "50 mg",
+      "lieu": "1 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Không đổi."
+     }
+    ],
+    "dan_do": [
+     "Uống omeprazol đúng giờ: dậy uống, đợi ít nhất 30 phút rồi mới ăn sáng (ACG 2022 điều trị KC 8).",
+     "Cầm giấy giới thiệu lên bệnh viện tỉnh nội soi trong tuần này, con gái đưa đi; báo nơi nội soi là đang dùng dabigatran và omeprazol, hỏi họ có cần ngưng thuốc dạ dày trước ngày nội soi không. Không tự ngưng dabigatran.",
+     "Ăn tối cách giờ nằm ít nhất 2–3 giờ, kê cao đầu giường khoảng 20 cm, giảm cân dần (VNAGE 2026 KC 12; ACG 2022 điều trị KC 1, 2, 5).",
+     "Trào ngược không lây. Vi khuẩn H. pylori sẽ được thử khi nội soi; trong lúc chờ không mớm cơm cho cháu, nhưng không cần ăn riêng hay đeo khẩu trang.",
+     "Đến ngay trạm y tế hoặc bệnh viện nếu nôn máu, phân đen, nuốt đau, nuốt nghẹn, sụt cân, choáng; gọi cấp cứu nếu đau ngực kéo dài > 15 phút kèm vã mồ hôi, khó thở (ESC 2023 mục 3.1.1). Gọi số phòng khám khi cần.",
+     "Gửi kết quả nội soi cho phòng khám và bác sĩ tim mạch; tái khám sau khi có kết quả."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai tuần sau, con gái đưa chị Oanh lên bệnh viện tỉnh. Nội soi: viêm thực quản trợt LA B, không có Barrett, không có loét, không có tổn thương nghi ác tính; urease nhanh âm tính. Chị được dùng omeprazol 8 tuần theo viêm thực quản trợt, nóng rát hết hẳn sau khoảng 3 tuần, giọng hết khàn. Kết quả nội soi được gửi bác sĩ tim mạch để xét lại liều dabigatran; chị không còn ăn riêng, thôi lo lây cho nhà.",
+ "nhieu": [
+  "Ở xa, khó tái khám: dặn bằng văn bản, ghi số điện thoại, giấy giới thiệu viết sẵn, hỏi lịch tour và người đưa đi; hẹn sau 4 tuần có thể gọi điện sớm hơn.",
+  "Không có CT: không ảnh hưởng ca này; CT ngực hay CT mạch vành không có chỉ định, loại trừ tim bằng ECG, hs-TnT và tính chất đau (ESC 2023 mục 3.2, 3.3.1). Nội soi cũng ở tuyến trên nên là chuyển tuyến có lý do ở lượt 2.",
+  "Bệnh mạch vành là chẩn đoán phải loại trừ: nữ 52 tuổi nóng rát sau xương ức; ECG, hs-TnT và đau không theo gắng sức đủ để loại trừ ở lượt 1, không cần làm lại ở lượt 2."
+ ],
+ "bai_hoc_bien": [
+  "Khởi phát sau đổi thuốc: hỏi mọi thuốc mới đổi trong vài tuần trước. Chị đổi warfarin sang dabigatran 5 tuần trước; tài liệu đã tải không nêu dabigatran gây trào ngược, nhưng liều giảm được cân nhắc ở GERD (ESC AF 2024 Bảng 11).",
+  "Hỏi riêng việc quên hoặc tự bỏ liều thuốc kháng đông khi có tác dụng phụ; người bệnh thường nói 'đều' khi hỏi chung. Không tự ngưng, báo bác sĩ tim mạch.",
+  "Lý do thật là sợ lây cho nhà: hỏi 'chị lo nhất điều gì' và 'ở nhà ai ăn chung'. Trào ngược không lây; H. pylori mới lây trong gia đình (VNAGE 2023 Statement 22).",
+  "Thử PPI 4–8 tuần chưa khẳng định GERD (VNAGE 2026 KC 2); không đáp ứng hoặc nặng hơn, triệu chứng đêm, tuổi trên 50 thì nội soi (ACG 2022 chẩn đoán KC 3, 6; VNAGE 2026 KC 3).",
+  "Không đáp ứng PPI thì kiểm tra tuân thủ và giờ uống trước khi tăng liều (VNAGE 2026 KC 17).",
+  "Đang dùng kháng đông thì tránh aspirin, NSAID và không thêm kháng tiểu cầu (ESC AF 2024 Hình 10)."
+ ],
+ "diem_nho": [
+  "Ợ nóng, trớ là triệu chứng điển hình; thử PPI 8 tuần cho triệu chứng điển hình không dấu báo động (ACG 2022 chẩn đoán KC 1).",
+  "PPI uống 30–60 phút trước ăn, không uống lúc đi ngủ (ACG 2022 điều trị KC 8).",
+  "Nội soi khi dấu báo động, không đáp ứng PPI 8 tuần, hoặc nhiều yếu tố nguy cơ Barrett (ACG 2022 chẩn đoán KC 3, 6; VNAGE 2026 KC 3).",
+  "Viêm thực quản LA B trở lên, Barrett hoặc AET > 6% mới là GERD chắc chắn (VNAGE 2026 KC 6; Lyon 2.0 2024).",
+  "Test H. pylori phải ngưng PPI 2 tuần (VNAGE 2023 Statement 6); không test khi không dự định diệt (Statement 1).",
+  "Dabigatran: cân nhắc 110 mg × 2 ở người viêm thực quản hoặc GERD (ESC AF 2024 Bảng 11, tr. 3345)."
+ ],
+ "nguon": [
+  "ACG 2022 – GERD – TL-0212 – chẩn đoán KC 1–8; điều trị KC 1–16; ngoài thực quản KC 1, 5",
+  "VNAGE 2026 – GERD (Front Med 2026;13:1890726) – TL-0177 – KC 1–6, 12–18",
+  "Lyon Consensus 2.0 2024 – TL-0206 – Bảng 2 (triệu chứng điển hình, LA A chưa đủ)",
+  "VNAGE 2024 – khó tiêu chức năng – TL-0178 – Bảng 4 (liều PPI chuẩn)",
+  "VNAGE 2023 – H. pylori – TL-0179 – Statement 1–6, 22",
+  "ESC AF 2024 (Eur Heart J 2024;45:3314) – kho cũ tltk-10000-ca (Quốc tế) – Bảng 11 (tr. 3345), Hình 10 (tr. 3348–3349)",
+  "ACC/AHA/ACCP/HRS 2023 – rung nhĩ – kho cũ tltk-10000-ca – bảng so sánh DOAC (chảy máu tiêu hóa)",
+  "ESC 2023 hội chứng vành cấp – TL-0069 – mục 3.1.1, 3.2, 3.3.1, Hình 6; BYT QĐ 2187/2019 – TL-0033 – Hình 3",
+  "BYT QĐ 361/2014 – TL-0286 – Phụ lục NSAID mục 3.3 (thời điểm uống PPI, đã có mục trong sổ mâu thuẫn)",
+  "Không có trong tài liệu đã tải: dabigatran gây khó tiêu hay trào ngược; tương tác dabigatran với PPI, alginat, P-CAB; thời hạn nội soi theo hẹn; mốc tái khám 4 tuần; GERD không lây (không có câu riêng); bằng chứng ăn riêng, đeo khẩu trang."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25: viết ca bản 1. Tài liệu đã đọc: ACG 2022 (chẩn đoán KC 1–8, điều trị KC 1–16), VNAGE 2026 (KC 1–18), Lyon 2.0 2024 (Bảng 2), VNAGE 2024 Bảng 4, VNAGE 2023 Statement 1–6 và 22, ESC AF 2024 Bảng 11 và Hình 10, ACC/AHA 2023 AF, ESC 2023 mục 3.1.1.",
+  "Thiết kế: yếu tố khởi phát là đổi warfarin sang dabigatran (gắn với ở xa, đi tour, khó đi thử INR); ràng buộc 'không có CT' thêm nội soi vào khoa_cls để lượt 2 chuyển tuyến có lý do (như TH-0295); lý do thật 'sợ lây' dựa vào VNAGE 2023 Statement 22; lượt 2 nặng hơn vì giờ uống PPI chưa đúng, lối sống chưa đổi, tuổi trên 50 và trào ngược đêm (hai yếu tố Barrett).",
+  "Mâu thuẫn: PPI 1 hay 2 lần/ngày khi nặng hơn gộp thành một mục c 'A hoặc B' theo quy tắc 12/10/2026; thời điểm uống PPI theo mục sẵn có trong sổ.",
+  "Chỗ thiếu tài liệu: dabigatran và trào ngược, tương tác dabigatran – PPI/alginat/P-CAB, thời hạn nội soi, mốc tái khám."
+ ]
+}
