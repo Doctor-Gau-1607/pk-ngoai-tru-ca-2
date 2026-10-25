@@ -1,0 +1,771 @@
+{
+ "ma_ca": "TH-0367",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới (2026-10-25)",
+ "benh": "TH_gerd_nguoi_rat_cao_tuoi",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trào ngược dạ dày thực quản (GERD)",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh mạch vành",
+   "Loét thực quản"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Hưu trí",
+  "yeu_to_khoi_phat": "Sau ăn quá nhiều đạm",
+  "thuoc_dang_dung": "Paracetamol liều thông thường",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Hoàng Thị Mận",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Kế toán hợp tác xã hưu trí",
+  "can_nang": 49,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'bà', gọi bác sĩ là 'cháu'. Con gái gọi bà là 'mẹ', xưng 'em' với bác sĩ.",
+  "tinh_cach": "Nhỏ người, nói nhanh, cẩn thận từng con số vì cả đời làm sổ sách nên tin chữ trên giấy. Còn tự đi chợ, nấu ăn, đi bộ buổi sáng, ở cùng con gái. Hay hỏi lại một câu nhiều lần, dễ rơm rớm nước mắt khi nghe chữ 'khối u'. Đọc tin sức khỏe trên điện thoại của con gái.",
+  "kieu_nhieu": "Sợ hãi quá mức: từ khi chồng người bạn thân mất vì ung thư thực quản (mở đầu cũng 'rát ngực, ợ chua'), mỗi cơn nóng rát là bà tin mình cũng bị. Hỏi dồn 'có phải ung thư không', xin chụp CT, nội soi 'làm hết cho yên tâm'; bác sĩ trấn an một câu là bà hỏi lại câu khác, nói được vài câu lại rơm rớm nước mắt. Vì sợ nên giấu chuyện thật: chuyến đi Đức và tờ giấy chứng nhận sức khỏe.",
+  "nguoi_nha": "Con gái Lê Thu Hà, 49 tuổi, công chức, đi cùng mẹ. Lo, hay nói chen vì sợ mẹ 'giấu bệnh'. Chị biết mẹ rát ngực, ợ chua, ăn kém, ngủ kém và biết con trai ở Đức muốn đón mẹ sang chăm cháu. Chị KHÔNG biết bà đang sợ khám ra bệnh thì bị hoãn chuyến đi, và KHÔNG biết chuyện tờ giấy chứng nhận sức khỏe (bà dặn đừng nói).",
+  "ten_nguoi_nha": "Lê Thu Hà (con gái)",
+  "ngoai_hinh": {
+   "da": "#e5bd9c",
+   "toc": "#cfcac4",
+   "kieuToc": "bup",
+   "ao": "#8a6f7a",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "so",
+   "nguoiNha": {
+    "da": "#e2b08a",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#5d7f9b",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Nóng rát sau xương ức, ợ chua, sợ ung thư",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không có máy siêu âm (nên cũng không làm được CT và nội soi tiêu hóa); nội soi làm ở bệnh viện tỉnh, cách 38 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Hoàng Thị Mận, 79 tuổi, kế toán hợp tác xã hưu trí, ở cùng con gái. Đến vì nóng rát sau xương ức và ợ chua khoảng 3 tuần, con gái Thu Hà đưa đi. Bà rất sợ mình bị ung thư thực quản. Sinh hiệu: HA 136/78 mmHg, mạch 72 l/p, SpO₂ 97%. Nặng 49 kg, cao 150 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bà Mận nhập viện theo dõi vì tuổi 79 và vì bà sợ ung thư là không cần: cơn rát dịu khi ngồi dậy, ECG bình thường, hs-TnT 4 ng/L, không dấu báo động (ESC 2023 mục 3.2, 3.3.1; ACG 2022 Chẩn đoán KC 6). Bà xa nhà, mất ngủ, nằm viện lại càng tin mình bệnh nặng, trong khi cần PPI đúng giờ, đổi bữa tối và hẹn nội soi không khẩn.",
+    "chuyen_tuyen": "Chuyển bà Mận lên bệnh viện tỉnh chụp CT và nội soi gấp hôm nay là quá tay: không có dấu báo động (nuốt nghẹn, sụt cân, xuất huyết tiêu hóa, thiếu máu) nên chưa cần soi 'càng sớm càng tốt' (ACG 2022 Chẩn đoán KC 6, mục Endoscopy); CT không có chỉ định trong tài liệu đã tải. Bà đi 38 km, chờ cả ngày, thêm chi phí, trong khi thứ tự đúng là thử PPI rồi hẹn soi không khẩn (ACG 2022 Chẩn đoán KC 1, 3)."
+   },
+   "loi_mo": "Cháu ơi, bà rát trong ngực ba tuần nay, ợ chua lên tận cổ. Bà nghe người ta nói rát ngực là ung thư thực quản. Bà có bị không cháu?",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "136/78",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nóng rát sau xương ức và ợ chua khoảng 3 tuần. Rất sợ bị ung thư thực quản.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Nóng rát bắt đầu ở vùng thượng vị rồi dâng lên sau xương ức, có khi lên tận cổ họng, kèm vị chua trong miệng. Nặng nhất sau bữa tối và khi nằm; ngồi dậy hoặc uống ngụm nước ấm thì dịu sau vài phút. Mỗi cơn 20–30 phút, hầu như ngày nào cũng có.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ợ nóng và trào chua (triệu chứng điển hình)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ba tuần trước nhà có giỗ, bà ăn nhiều thịt (chân giò, giò thủ, thịt đông) thêm bát cơm đầy, no căng rồi nằm nghỉ ngay. Từ đêm đó bắt đầu rát; sau đó ăn nhẹ lại vẫn còn rát.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau bữa nhiều thịt, nhiều mỡ"
+    },
+    {
+     "id": "ban_dem",
+     "noi_dung": "Mỗi đêm thức 1–2 lần vì rát, phải ngồi dậy. Gối một chiếc, quen nằm nghiêng phải.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Trào ngược ban đêm (yếu tố nguy cơ Barrett)"
+    },
+    {
+     "id": "an_toi",
+     "noi_dung": "Bữa tối ăn lúc 20 giờ 30 vì chờ con gái tan làm, xem ti vi rồi đi nằm lúc 21 giờ. Hay uống trà đặc sau bữa tối.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'ăn uống thế nào' thì nói 'bà ăn nhẹ thôi cháu'. Chỉ kể khi bác sĩ hỏi giờ ăn tối, giờ đi nằm, uống gì sau ăn.",
+     "k": 1,
+     "y": "Ăn tối sát giờ nằm (yếu tố duy trì trào ngược)"
+    },
+    {
+     "id": "gang_suc",
+     "noi_dung": "Đi chợ, lên cầu thang hai tầng không đau ngực, không khó thở, không vã mồ hôi. Không lan lên hàm hay xuống tay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ đau thắt ngực gắng sức"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không nuốt nghẹn, không nuốt đau, cơm cháo đều trôi. Không nôn, phân vàng, không đen. Cân nặng 49 kg nhiều năm nay, không sụt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Đau hai gối nhiều năm, uống paracetamol 500 mg ngày 2–3 viên, thường sau ăn. Không dùng thuốc kháng viêm (diclofenac, ibuprofen), không aspirin, không thuốc loãng xương, không viên sắt hay kali. Không thuốc huyết áp hay tiểu đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (paracetamol); không NSAID, không thuốc gây viêm thực quản"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không tiểu đường; huyết áp đo ở trạm lần nào cũng khoảng 130/80; không hút thuốc, không rượu. Chưa từng nội soi dạ dày. Chưa bị bệnh tim.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ tim mạch, tiền sử tiêu hóa"
+    },
+    {
+     "id": "nguoi_ban",
+     "noi_dung": "Ông Tư, chồng người bạn thân của bà, mất cách đây 2 năm vì ung thư thực quản; lúc đầu ông cũng 'rát ngực, ợ chua'. Bà ở bên suốt mấy tháng cuối. Từ đó mỗi lần rát ngực bà tưởng mình cũng bị.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi vì sao bà nghĩ là ung thư, hoặc bà lo nhất điều gì. Kể xong thì rơm rớm nước mắt, rồi hỏi lại 'vậy bà có bị không cháu'.",
+     "k": 1,
+     "y": "Nỗi sợ hãi: người quen chết vì ung thư thực quản"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Con trai bà ở Đức, vợ sắp sinh, muốn đón bà sang chăm cháu 3 tháng; vé bay sau khoảng 6 tuần. Bảo hiểm du lịch của con yêu cầu giấy chứng nhận sức khỏe. Bà sợ khám ra bệnh thì bị hoãn chuyến đi nên dặn con gái đừng nói chuyện tờ giấy.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Ban đầu chỉ nói 'bà đi khám cho yên tâm'. Chỉ kể khi bác sĩ hỏi hôm nay bà còn muốn nhờ việc gì khác, bà sắp có việc quan trọng gì, hoặc hỏi nhẹ nhàng vì sao bà lo đến thế; kể xong thì ngập ngừng lấy tờ mẫu trong túi.",
+     "k": 1,
+     "y": "Lý do thật: xin giấy chứng nhận sức khỏe cho chuyến đi Đức"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Tự đi chợ, nấu ăn, đi bộ 20–30 phút mỗi sáng, chưa từng té ngã, không dùng gậy.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, thể trạng gầy nhỏ, BMI 21,8 kg/m². Niêm mạc hồng, không vàng da, môi lưỡi ẩm.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, ấn đau nhẹ thượng vị, Murphy âm tính, không điểm đau hạ sườn phải, không khối, gan lách không sờ thấy.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 72 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 72 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Hai gối lục cục khi gập duỗi, không sưng nóng đỏ, không tràn dịch.",
+     "k": 0
+    },
+    "quan_sat_nuot": {
+     "a": "Uống nước từng ngụm và nuốt bánh mì mềm trôi liền, không sặc, không đau, không vướng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 72 l/p, trục trung gian. Không ST chênh, không sóng Q bệnh lý, không biến đổi ST–T.",
+     "n": "Đau sau xương ức ở nữ 79 tuổi: ECG ngay, đọc trong 10 phút (ESC 2023 mục 3.2; mục 3.1.1)."
+    },
+    "trop": {
+     "v": "u",
+     "r": "hs-TnT 4 ng/L (ngưỡng < 14)",
+     "n": "hs-troponin là bước kế tiếp sau ECG khi nghi hội chứng vành cấp (ESC 2023 mục 3.3.1). Cơn gần nhất đã hết hơn 12 giờ, không gắng sức: hữu ích ở tuổi 79, không bắt buộc. Ngưỡng loại trừ theo từng loại xét nghiệm (mục 3.3.4.1), bảng ngưỡng không có trong bản chữ."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 128 g/L · MCV 90 fL · TC 245 G/L",
+     "n": "Thiếu máu là dấu báo động cần nội soi (ACG 2022 Chẩn đoán, mục Endoscopy; KC 6). Hb 128 g/L: không thiếu máu.",
+     "bang": {
+      "wbc": 7.2,
+      "neu_pct": 64.0,
+      "neu": 4.61,
+      "lym_pct": 28.0,
+      "lym": 2.02,
+      "mono_pct": 6.0,
+      "mono": 0.43,
+      "eos_pct": 1.5,
+      "eos": 0.11,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.3,
+      "hgb": 128,
+      "hct": 0.385,
+      "mcv": 89.5,
+      "mch": 29.8,
+      "mchc": 333,
+      "rdw": 13.4,
+      "plt": 245
+     }
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 5,6 mmol/L · Creatinin 80 µmol/L · eGFR 65 mL/ph/1,73m²",
+     "n": "Mốc nền ở người 79 tuổi; người dùng PPI không có nguy cơ bệnh thận thì không cần theo dõi creatinin thường quy (ACG 2022 Long-term PPI Issues 5).",
+     "bang": {
+      "ure": 5.6,
+      "creat": 80,
+      "egfr": 65
+     }
+    },
+    "abdus": {
+     "v": "n",
+     "n": "Cơ sở không có siêu âm; siêu âm không nằm trong khuyến cáo chẩn đoán GERD đã tải. Sỏi mật được loại bằng lâm sàng (Murphy âm, không đau hạ sườn phải, cơn rát thay đổi theo tư thế)."
+    },
+    "ct_nguc": {
+     "v": "n",
+     "n": "Cơ sở không có CT; không có chỉ định trong tài liệu đã tải cho nóng rát sau xương ức kèm trào chua, không dấu báo động."
+    },
+    "noi_soi": {
+     "v": "u",
+     "r": "(Phòng khám không có nội soi; làm ở bệnh viện tỉnh cách 38 km.)",
+     "n": "Chưa có dấu báo động nên không làm ngay: hẹn không khẩn (ACG 2022 Chẩn đoán KC 1, 3; VNAGE 2026 KC 3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày thực quản (GERD) triệu chứng điển hình, chưa nội soi, chưa có dấu báo động, khởi phát sau bữa nhiều thịt mỡ rồi nằm ngay; người rất cao tuổi",
+     "ok": 1,
+     "n": "Ợ nóng và trào chua nặng sau bữa no và khi nằm, dịu khi ngồi dậy; không dấu báo động (ACG 2022 Chẩn đoán KC 1, 6)."
+    },
+    {
+     "t": "Bệnh mạch vành / hội chứng vành cấp",
+     "n": "ECG bình thường, hs-TnT 4 ng/L, không đau khi gắng sức; đau sau xương ức ở nữ rất cao tuổi vẫn phải loại bằng ECG (ESC 2023 mục 3.1.1, 3.2)."
+    },
+    {
+     "t": "Loét thực quản (kể cả do thuốc)",
+     "n": "Không nuốt đau, không nuốt nghẹn, nuốt thử bình thường; thuốc duy nhất là paracetamol. Chỉ nội soi mới khẳng định hay loại hẳn (ACG 2022 mục Endoscopy)."
+    },
+    {
+     "t": "Ung thư thực quản / dạ dày",
+     "n": "Không nuốt nghẹn, sụt cân, thiếu máu, xuất huyết (ACG 2022 Chẩn đoán KC 6). Nội soi hẹn không khẩn sẽ trả lời."
+    },
+    {
+     "t": "Sỏi mật, viêm túi mật hoặc viêm tụy sau bữa nhiều mỡ",
+     "n": "Không đau hạ sườn phải hay xuyên lưng, Murphy âm tính, bụng mềm; không có siêu âm nên dựa vào lâm sàng."
+    },
+    {
+     "t": "Khó tiêu chức năng / viêm loét dạ dày",
+     "n": "Triệu chứng chủ đạo là ợ nóng và trào chua, không phải đau hay đầy thượng vị sau ăn; chưa dùng NSAID."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích điện tim và men tim bình thường nên hiện không phải nhồi máu; dặn gọi cấp cứu khi đau ngực kéo dài hơn 15 phút hoặc tái lại trong 1 giờ",
+     "v": "c",
+     "n": "Đau ngực kéo dài > 15 phút hoặc tái phát trong 1 giờ là dấu hiệu phải tìm trợ giúp khẩn (ESC 2023 mục 3.1.1). Ở nữ 79 tuổi, đau thượng vị hay sau xương ức có thể là tương đương đau ngực nên vừa giải thích vừa dặn."
+    },
+    {
+     "t": "Trấn an có cấu trúc: nói điều đã loại trừ được (không nuốt nghẹn, không sụt cân, không thiếu máu, không đi cầu phân đen), nói điều chưa loại hết (cần nội soi theo hẹn), nói khi nào soi; không chụp CT hay làm thêm xét nghiệm cho yên lòng",
+     "v": "c",
+     "n": "Dấu báo động: nuốt nghẹn, nuốt đau, nôn kéo dài, sụt cân, xuất huyết tiêu hóa, thiếu máu (ACG 2022 Chẩn đoán KC 6; VNAGE 2026 KC 3 thảo luận). Biến chứng nặng tương đối ít gặp ở Việt Nam (VNAGE 2026 KC 4). Không có chỉ định CT trong tài liệu đã tải."
+    },
+    {
+     "t": "Omeprazol 20 mg uống 1 lần/ngày, 30–60 phút trước bữa sáng, trong 8 tuần (hoặc 4–8 tuần)",
+     "v": "c",
+     "n": "Thử PPI 8 tuần, 1 lần/ngày trước bữa ăn khi triệu chứng điển hình, không dấu báo động (ACG 2022 Chẩn đoán KC 1); 4–8 tuần cho GERD không viêm thực quản (VNAGE 2026 KC 15). Liều chuẩn omeprazol 20 mg (VNAGE 2024 Bảng 4). Uống 30–60 phút trước bữa ăn, không uống lúc đi ngủ (ACG 2022 Điều trị KC 8). Hai mốc khác nhau vì ACG tính chung triệu chứng điển hình, VNAGE tách thể không viêm thực quản."
+    },
+    {
+     "t": "Đổi thói quen: ăn tối sớm, bữa nhỏ, ít mỡ, bỏ trà đặc sau ăn; không nằm trong 2–3 giờ sau ăn; kê cao đầu giường; nằm nghiêng trái, tránh nằm nghiêng phải",
+     "v": "c",
+     "n": "Tránh ăn trong 2–3 giờ trước khi nằm (ACG 2022 Điều trị KC 2); kê cao đầu giường khi rát ban đêm (KC 5; VNAGE 2026 KC 12); bữa nhỏ, tránh bữa nhiều mỡ, nằm nghiêng trái (ACG 2022 Bảng 3). Không khuyên giảm cân vì BMI 21,8 (giảm cân dành cho người thừa cân, ACG Điều trị KC 1)."
+    },
+    {
+     "t": "Giấy giới thiệu nội soi dạ dày ở bệnh viện tỉnh, không khẩn: thử PPI 8 tuần trước rồi soi khi không đáp ứng hoặc tái phát, HOẶC hẹn soi không khẩn sớm vì nữ rất cao tuổi có ≥ 2 yếu tố nguy cơ Barrett; tốt nhất soi sau ngưng PPI 2–4 tuần",
+     "v": "c",
+     "n": "Cách A: ACG 2022 Chẩn đoán KC 1, 3 (thử PPI 8 tuần; soi khi không đáp ứng hoặc tái phát khi ngưng, ngưng PPI 2–4 tuần trước soi). Cách B: VNAGE 2026 KC 3 thảo luận (nội soi cho người có yếu tố nguy cơ Barrett: tuổi > 50, trào ngược ban đêm...; dẫn VNAGE 2023: nữ > 35 tuổi) và ACG 2022 Chẩn đoán KC 6 (soi cho 'nhiều yếu tố nguy cơ Barrett', tài liệu không nêu số cụ thể). Khác nhau do thời điểm: ACG soi sau thử thuốc, VNAGE soi sớm hơn. Soi ngay chấm a."
+    },
+    {
+     "t": "Tiếp tục paracetamol khi đau gối, tổng dưới 3 g/ngày (hiện 1–1,5 g/ngày); không tự mua thuốc kháng viêm",
+     "v": "c",
+     "n": "Người cao tuổi, gầy yếu: acetaminophen < 3 g/ngày, tránh NSAID nếu có thể (QĐ 361/2014 Phụ lục NSAID mục 3.3). Người lớn nói chung 500–1.000 mg/lần, không quá 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1). Hai con số cùng một văn bản, khác nhóm nguy cơ; ghi cả hai và lấy < 3 g/ngày thận trọng hơn."
+    },
+    {
+     "t": "Hỏi thêm bà còn muốn nhờ việc gì; khi biết bà cần giấy chứng nhận sức khỏe: nói rõ giấy ghi đúng tình trạng sau khi đánh giá xong, bệnh trào ngược điều trị được, không từ chối khám",
+     "v": "c",
+     "n": "Quy định cấp giấy chứng nhận sức khỏe và yêu cầu của bảo hiểm du lịch không có trong tài liệu đã tải. Đây là lựa chọn của ca: trả lời đúng nỗi lo thật và không ghi 'khỏe' khi chưa đánh giá xong."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần (kiểm tra tuân thủ, đáp ứng); đến sớm nếu nuốt nghẹn, nôn, phân đen, sụt cân, đau ngực kéo dài",
+     "v": "c",
+     "n": "Đánh giá đáp ứng ở 8 tuần (ACG 2022 Chẩn đoán KC 1–3); các dấu hiệu quay lại sớm là dấu báo động (ACG 2022 Chẩn đoán KC 6). Mốc 2 tuần là lựa chọn của ca (rất cao tuổi, sợ hãi), không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thêm alginat khi có cơn rát",
+     "v": "a",
+     "n": "GERD nhẹ–vừa: lối sống rồi alginat; còn triệu chứng thì PPI hoặc PPI phối hợp alginat (VNAGE 2026 KC 14). ACG 2022 Điều trị KC 11 khuyên không thêm thuốc thường quy ở người không đáp ứng PPI (khác bối cảnh). Liều alginat không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Uống omeprazol buổi tối trước khi ngủ",
+     "v": "a",
+     "n": "Ưu tiên 30–60 phút trước bữa ăn, không uống lúc đi ngủ (ACG 2022 Điều trị KC 8); QĐ 361/2014 Phụ lục NSAID mục 3.3 ghi uống tối (bối cảnh NSAID). Cùng thuốc, cùng liều nên chấp nhận."
+    },
+    {
+     "t": "Chuyển bệnh viện tỉnh chụp CT hoặc nội soi gấp trong ngày, hoặc nhập viện theo dõi",
+     "v": "w",
+     "n": "Không dấu báo động; ECG, hs-TnT bình thường (ESC 2023 mục 3.2, 3.3.1). CT không có chỉ định trong tài liệu đã tải; cơ sở không có CT."
+    },
+    {
+     "t": "Thêm metoclopramid, thuốc vận động dạ dày hoặc baclofen",
+     "v": "w",
+     "n": "Không dùng thuốc vận động khi chưa có bằng chứng liệt dạ dày (ACG 2022 Điều trị KC 14); không dùng baclofen khi chưa có bằng chứng khách quan (KC 13). Metoclopramid: tránh ở người cao tuổi trừ liệt dạ dày (AGS Beers 2023 Bảng 2, mục tiêu hóa)."
+    },
+    {
+     "t": "Kê thuốc kháng viêm (diclofenac, meloxicam) cho đau gối",
+     "v": "w",
+     "n": "Người cao tuổi, gầy yếu: tránh NSAID nếu có thể (QĐ 361/2014 Phụ lục NSAID mục 3.3); tránh dùng NSAID kéo dài ở nhóm nguy cơ cao (AGS Beers 2023 Bảng 2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trào ngược dạ dày thực quản (GERD) với triệu chứng điển hình (ợ nóng, trào chua), chưa nội soi, chưa có dấu báo động",
+     "Yếu tố khởi phát và duy trì: bữa nhiều thịt mỡ rồi nằm ngay; ăn tối 20 giờ 30, nằm 21 giờ; nằm nghiêng phải; trà đặc sau ăn",
+     "Đã loại trừ bệnh mạch vành tại thời điểm khám (ECG, hs-TnT bình thường, không đau gắng sức); loét thực quản chưa loại hẳn (cần nội soi) nhưng không có đặc điểm gợi ý",
+     "Có 2 yếu tố nguy cơ Barrett: tuổi > 50 và trào ngược ban đêm, nên cần nội soi không khẩn",
+     "Bệnh kèm: thoái hóa khớp gối, dùng paracetamol thường xuyên; rất cao tuổi (79), gầy nhỏ, vẫn sống độc lập",
+     "Lo âu sợ ung thư; lý do thật: xin giấy chứng nhận sức khỏe cho chuyến đi Đức"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao nghĩ GERD: ợ nóng và trào chua là hai triệu chứng điển hình (ACG 2022 mục Symptoms; Lyon 2.0 Bảng 2), nặng sau bữa no và khi nằm, dịu khi ngồi dậy. Thử PPI đơn thuần không đủ để xác định chẩn đoán (VNAGE 2026 KC 2), nhưng triệu chứng điển hình đơn độc đủ để bắt đầu thử thuốc khi không có dấu báo động (Lyon 2.0 Bảng 2; ACG 2022 Chẩn đoán KC 1).",
+     "Loại trừ bệnh mạch vành: ECG trong 10 phút (ESC 2023 mục 3.2), hs-troponin (mục 3.3.1), đau không liên quan gắng sức. Phải cẩn thận hơn vì tuổi và giới: đau thượng vị và đau sau xương ức đều có thể là tương đương đau ngực (mục 3.1.1).",
+     "Loại trừ loét thực quản: không nuốt đau, nuốt nghẹn; nuốt thử bình thường; không dùng NSAID hay viên gây viêm thực quản. Chỉ nội soi khẳng định hoặc loại hẳn (ACG 2022 mục Endoscopy). Biến chứng nặng tương đối ít gặp ở Việt Nam (VNAGE 2026 KC 4).",
+     "Vì sao hẹn nội soi: bà không có dấu báo động (ACG 2022 Chẩn đoán KC 6) nên thử PPI trước là đúng (Cách A). Bà có 2 yếu tố nguy cơ Barrett (tuổi > 50, trào ngược ban đêm) trong danh sách của VNAGE 2026 KC 3 thảo luận nên hẹn soi không khẩn sớm cũng đúng (Cách B). Không nguồn nào nói cách còn lại gây hại.",
+     "Applicability note (≥ 75 tuổi): ACG 2022, VNAGE 2026, Lyon 2.0 đã tải không có đoạn hay liều riêng cho người ≥ 75 tuổi (đã rà bản chữ). Khuyến cáo xây trên dân số chung; ở bà dùng liều chuẩn thấp nhất, mốc đánh giá sớm và rà thuốc theo AGS Beers 2023."
+    ],
+    "phan_tich_xu_tri": [
+     "PPI: omeprazol 20 mg 1 lần/ngày, 30–60 phút trước bữa sáng (ACG 2022 Điều trị KC 8; liều chuẩn VNAGE 2024 Bảng 4). Thời gian 8 tuần (ACG 2022 Chẩn đoán KC 1) hoặc 4–8 tuần (VNAGE 2026 KC 15). Sau đó thử ngưng nếu hết triệu chứng (ACG 2022 Chẩn đoán KC 2). AGS Beers 2023 Bảng 2 khuyên tránh PPI cố định > 8 tuần trừ viêm thực quản trợt, Barrett hoặc cần duy trì đã chứng minh: sẽ quyết sau nội soi.",
+     "Lối sống: ăn tối sớm, không nằm 2–3 giờ sau ăn, kê cao đầu giường, nằm nghiêng trái (ACG 2022 Điều trị KC 2, 5, Bảng 3; VNAGE 2026 KC 12). Giảm cân không áp dụng vì BMI 21,8.",
+     "Nội soi không khẩn, viết sẵn giấy; soi tốt nhất sau ngưng PPI 2–4 tuần (ACG 2022 Chẩn đoán KC 3) vì soi lúc đang dùng PPI có thể bỏ sót viêm thực quản. Không soi hoặc chụp CT cấp cứu vì không có dấu báo động.",
+     "Paracetamol: QĐ 361/2014 Phụ lục NSAID mục 3.3 ghi < 3 g/ngày cho người cao tuổi, gầy yếu; Phụ lục thuốc giảm đau mục 3.1 ghi không quá 4 g/24 giờ. Chọn bên thận trọng: < 3 g/ngày; bà chỉ cần 1–1,5 g/ngày."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước bữa sáng",
+      "so_ngay": "8 tuần (ACG 2022) hoặc 4–8 tuần (VNAGE 2026); đánh giá lại khi tái khám",
+      "ghi_chu": "Liều: VNAGE 2024 Bảng 4. Thời gian: ACG 2022 Chẩn đoán KC 1; VNAGE 2026 KC 15. Thời điểm: ACG 2022 Điều trị KC 8."
+     },
+     {
+      "thuoc": "Paracetamol (đang dùng)",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần, cách 6–8 giờ, tối đa 3 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau gối, sau ăn",
+      "so_ngay": "Khi cần; tổng dưới 3 g/ngày",
+      "ghi_chu": "QĐ 361/2014 Phụ lục NSAID mục 3.3 (< 3 g/ngày); Phụ lục thuốc giảm đau mục 3.1 (500–1.000 mg/lần, không quá 4 g/24 giờ); lấy bên thận trọng."
+     }
+    ],
+    "dan_do": [
+     "Mỗi sáng uống omeprazol 30–60 phút trước ăn sáng; không tự ngưng, không uống thêm thuốc dạ dày khác (ACG 2022 Điều trị KC 8).",
+     "Ăn tối trước 18–19 giờ, bữa nhỏ, ít mỡ; sau ăn ngồi hoặc đi lại nhẹ, chờ 2–3 giờ mới nằm; bỏ trà đặc sau ăn, kê cao đầu giường, nằm nghiêng trái (ACG 2022 Điều trị KC 2, Bảng 3).",
+     "Đau gối: paracetamol 1 viên 500 mg mỗi lần, tổng dưới 3 g/ngày; không tự mua thuốc kháng viêm (QĐ 361/2014).",
+     "Đến sớm nếu nuốt nghẹn, nuốt đau, nôn, đi cầu phân đen, sụt cân (ACG 2022 Chẩn đoán KC 6). Gọi cấp cứu 115 nếu đau ngực kéo dài hơn 15 phút hoặc tái lại trong 1 giờ, kèm vã mồ hôi, khó thở (ESC 2023 mục 3.1.1).",
+     "Cầm giấy giới thiệu nội soi ở bệnh viện tỉnh; báo nơi soi là đang uống omeprazol để họ hướng dẫn ngưng 2–4 tuần trước soi (ACG 2022 Chẩn đoán KC 3).",
+     "Tái khám sau 2 tuần (mốc của ca) cùng con gái, mang theo tờ mẫu giấy; giấy sẽ ghi đúng tình trạng sau khi đánh giá xong."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Bà Mận tái khám sau 2 tuần, con gái Thu Hà đưa đến. Rát ngực đỡ khoảng một nửa nhưng 5 ngày nay bà đi cầu phân lỏng và rất lo 'ung thư lan xuống ruột'. Sinh hiệu: HA 128/72 mmHg, mạch 82 l/p, nhiệt 36,8°C, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bà Mận nhập viện truyền dịch vì tuổi 79 và vì tiêu chảy là quá tay: bà tỉnh, uống được, không sốt, phân không máu, huyết áp đứng không tụt đáng kể, ure và creatinin chỉ tăng nhẹ; truyền tĩnh mạch dành cho mất nước nặng, sốc hoặc thất bại với oresol (IDSA 2017 KN 41, 39). Nằm viện làm bà mất ngủ, tốn kém, nỗi sợ bệnh nặng càng tăng, trong khi cần oresol, ăn uống bình thường và theo dõi.",
+    "chuyen_tuyen": "Chuyển bà Mận lên bệnh viện tỉnh nội soi đại tràng, cấy phân hoặc làm bộ xét nghiệm tiêu chảy ngay là chưa cần: mới 5 ngày, không sốt, không máu hay nhầy, không đau quặn nhiều, không dùng kháng sinh hay nằm viện gần đây; xét nghiệm phân khi có sốt, phân máu hoặc nhầy, đau quặn nhiều, dấu nhiễm trùng huyết (IDSA 2017 KN 8), còn C. difficile khi có tiền sử kháng sinh hoặc tiêu chảy liên quan chăm sóc y tế (KN 18). Bà đi 38 km, chờ cả ngày, và nỗi sợ ung thư đại tràng chỉ nặng thêm khi bị chỉ định soi ruột không cần."
+   },
+   "loi_mo": "Cháu ơi, rát ngực bà đỡ được nửa rồi, nhưng mấy hôm nay bà đi cầu lỏng hoài. Cháu coi có phải ung thư lan xuống ruột không? Bà mang tờ giấy này, cháu ký giùm bà luôn cho kịp.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "128/72",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Rát ngực đỡ khoảng một nửa sau 2 tuần uống thuốc. Đi cầu phân lỏng 5 ngày nay. Lo ung thư lan xuống ruột.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám"
+    },
+    {
+     "id": "dap_ung",
+     "noi_dung": "Uống omeprazol 20 mg đều mỗi sáng, khoảng 30 phút trước ăn sáng, không bỏ ngày nào. Rát giảm từ ngày nào cũng có xuống còn 3–4 ngày/tuần; còn thức đêm vì rát 1–2 đêm/tuần. Ợ chua vẫn còn khi ăn no.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng một phần, tuân thủ thuốc tốt"
+    },
+    {
+     "id": "an_toi",
+     "noi_dung": "Vẫn ăn tối lúc 20 giờ vì chờ con gái tan làm, nằm lúc 21 giờ. Những đêm còn rát đều là đêm ăn tối muộn hoặc ăn nhiều thịt. Đã đổi nằm nghiêng trái và kê thêm gối thứ hai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có làm theo lời dặn không' thì nói 'bà làm hết rồi cháu'. Chỉ kể khi bác sĩ hỏi lại giờ ăn tối, giờ đi nằm, các đêm còn rát khác gì các đêm êm.",
+     "k": 1,
+     "y": "Chưa chỉnh được giờ ăn tối (vì sao khỏi chậm)"
+    },
+    {
+     "id": "tieu_chay",
+     "noi_dung": "Từ ngày thứ 8 uống thuốc, đi cầu phân lỏng sệt 3–4 lần/ngày, màu vàng nâu, không máu, không nhầy, không phải dậy ban đêm. Đau âm ỉ quanh rốn nhẹ trước khi đi, không quặn dữ dội. Không sốt, không nôn. Đến nay là ngày thứ 5.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chảy mới: đặc điểm, không dấu hiệu nặng"
+    },
+    {
+     "id": "khong_nhiem",
+     "noi_dung": "Con gái và cháu ăn cùng mâm, không ai tiêu chảy. Không ăn đồ lạ hay ăn ngoài, không uống nước chưa đun. Ba tháng nay không dùng kháng sinh, không nằm viện, không dùng thuốc nhuận tràng, thuốc bổ hay thuốc Đông y mới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ nhiễm trùng và C. difficile"
+    },
+    {
+     "id": "nuoc",
+     "noi_dung": "Từ khi tiêu chảy bà uống ít nước, chỉ vài ly nhỏ mỗi ngày vì sợ phải chạy vào nhà vệ sinh; nước tiểu hơi sẫm, ngày 2–3 lần. Hơi lâng lâng thoáng qua khi đứng dậy nhanh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống nước đủ không' thì nói 'có'. Chỉ nói thật khi hỏi cụ thể mỗi ngày uống bao nhiêu ly, màu nước tiểu, chóng mặt khi đứng dậy.",
+     "k": 1,
+     "y": "Uống ít nước: nguy cơ mất nước ở người cao tuổi"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không phân đen hay có máu, không sụt cân (vẫn 49 kg), không nuốt nghẹn, không nuốt đau, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động của thực quản và đại tràng"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Thuốc đang dùng: omeprazol buổi sáng; paracetamol 500 mg ngày 1–2 viên (đỡ đau gối vì trời ấm). Không thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rà thuốc: tác dụng phụ của thuốc mới kê"
+    },
+    {
+     "id": "noi_so",
+     "noi_dung": "Nghe người ta nói 'đi cầu lỏng lâu là ung thư ruột', hai đêm nay không ngủ được, ăn cơm ít vì sợ lại phải đi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi sợ ung thư đại tràng"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Bà lấy ra tờ mẫu giấy chứng nhận sức khỏe (bảo hiểm du lịch của con trai), nhờ ký ngay trong tuần vì còn 4 tuần nữa bay. Thu Hà lúc này mới biết chuyện tờ giấy, ngạc nhiên.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Yêu cầu giấy chứng nhận sức khỏe"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nét mặt lo lắng. Môi hơi khô, lưỡi ẩm vừa, mắt không trũng, da véo lên trở lại hơi chậm (tuổi cao). Niêm mạc hồng.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 128/72 mmHg, mạch 82 l/p; đứng 1 phút 122/70 mmHg, mạch 88 l/p. Tụt nhẹ, bà thấy lâng lâng thoáng qua.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, nhu động ruột tăng nhẹ, ấn quanh rốn không đau, thượng vị chỉ đau rất nhẹ. Không khối, không phản ứng thành bụng.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Cơ thắt bình thường, không khối, găng dính phân vàng nâu sệt, không máu.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "u",
+     "r": "Ure 7,3 mmol/L · Creatinin 88 µmol/L (lần trước 80) · eGFR 58 mL/ph/1,73m²",
+     "n": "Tiêu chảy ở người 79 tuổi phải đánh giá mất nước (IDSA 2017 KN 5). Tăng nhẹ so với lần trước, hợp với giảm thể tích nhẹ; kiểm lại sau khi bù nước nếu còn nghi.",
+     "bang": {
+      "ure": 7.3,
+      "creat": 88,
+      "egfr": 58
+     }
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 138 · K 3,6 · Cl 102 mmol/L",
+     "n": "Kiểm điện giải khi tiêu chảy ở người cao tuổi (IDSA 2017 KN 5); bình thường.",
+     "bang": {
+      "na": 138,
+      "k": 3.6,
+      "cl": 102
+     }
+    },
+    "ctm": {
+     "v": "n",
+     "n": "Đã làm lượt 1 (Hb 128 g/L); tiêu chảy 5 ngày không máu, không cần lặp."
+    },
+    "cdiff": {
+     "v": "n",
+     "n": "Không kháng sinh, không nằm viện, tiêu chảy chưa tới 7 ngày: chưa có chỉ định (IDSA 2017 KN 18). Xét nếu tiêu chảy kéo dài ≥ 14 ngày không rõ nguyên nhân hoặc có sốt, đau bụng nhiều (KN 8, 18)."
+    },
+    "soi_phan": {
+     "v": "n",
+     "n": "Không sốt, phân không máu hay nhầy: xét nghiệm phân không thường quy (IDSA 2017 KN 8; tiêu chảy cấp ở người khỏe mạnh thường ngắn, tự khỏi, thường không cần xét nghiệm)."
+    },
+    "ecg": {
+     "v": "n",
+     "n": "Rát ngực đỡ, không đau ngực mới, không gắng sức; ECG và hs-TnT lượt 1 bình thường."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "GERD đáp ứng một phần sau 2 tuần PPI (quỹ đạo bình thường), kèm tiêu chảy cấp nhẹ mới nhiều khả năng do tác dụng phụ của omeprazol, mất nước nhẹ, chưa có dấu báo động",
+     "ok": 1,
+     "n": "Rát giảm một nửa, tiêu chảy bắt đầu ngày thứ 8 sau khi uống thuốc mới, không sốt, không máu, cả nhà không ai bị; tiêu chảy nằm trong các tác dụng phụ nhẹ được ghi nhận của PPI (ACG 2022 Long-term PPI Issues 2)."
+    },
+    {
+     "t": "Tiêu chảy nhiễm trùng (virus, vi khuẩn)",
+     "n": "Không sốt, phân không máu hay nhầy, ăn chung mâm không ai bị. Không loại hẳn nhưng thường tự giới hạn, không cần xét nghiệm (IDSA 2017 KN 8)."
+    },
+    {
+     "t": "Tiêu chảy do C. difficile",
+     "n": "Không kháng sinh gần đây, không nằm viện (IDSA 2017 KN 18). PPI làm tăng nguy cơ nhiễm trùng ruột (ACG 2022 Long-term PPI Issues; AGS Beers 2023 Bảng 2), nên nếu dai dẳng hoặc nặng thêm thì xét test."
+    },
+    {
+     "t": "Bệnh đại tràng, ung thư đại tràng",
+     "n": "Tiêu chảy mới 5 ngày, bắt đầu sau khi dùng thuốc mới, không máu, không sụt cân, Hb 128 g/L ở lượt 1. Tiêu chảy kéo dài ≥ 14 ngày thì mới tìm sâu hơn (IDSA 2017 KN 18, 36)."
+    },
+    {
+     "t": "GERD kháng trị",
+     "n": "Mới 2 tuần và đang đỡ; kháng trị chỉ xét khi còn triệu chứng dù điều trị tối ưu và có bằng chứng khách quan (VNAGE 2026 KC 10, 17)."
+    },
+    {
+     "t": "Bệnh mạch vành",
+     "n": "Không đau ngực mới, rát giảm dần; ECG và hs-TnT lượt 1 bình thường (ESC 2023 mục 3.2, 3.3.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích quỹ đạo đáp ứng bình thường: sau 2 tuần đỡ một nửa là đúng đường, chưa cần tăng liều hay đổi thuốc vì GERD; hoàn tất đủ thời gian PPI rồi đánh giá",
+     "v": "c",
+     "n": "Triệu chứng và lành tổn thương không tuyến tính, đỉnh ở 8–12 tuần (ACG 2022 mục Proton Pump Inhibitors); thể không viêm thực quản đáp ứng chậm hơn: sau 4 tuần 37% so với 56% ở viêm thực quản (VNAGE 2026 KC 15 thảo luận). Tối ưu lối sống và tuân thủ trước khi tăng liều hay đổi thuốc (VNAGE 2026 KC 17)."
+    },
+    {
+     "t": "Chỉnh yếu tố duy trì: ăn tối cách giờ nằm ít nhất 2–3 giờ, bữa nhỏ, bớt thịt mỡ; hỏi rõ các đêm còn rát khác gì các đêm êm",
+     "v": "c",
+     "n": "Khoảng cách ăn–nằm < 3 giờ làm triệu chứng và nhu cầu thuốc tăng (ACG 2022 Điều trị KC 2 và mục Diet and Lifestyle Changes); tránh bữa nhiều mỡ, bữa nhỏ (Bảng 3)."
+    },
+    {
+     "t": "Tiêu chảy nhẹ 5 ngày: đánh giá mất nước, không xét nghiệm phân thường quy, uống oresol và đủ nước, ăn lại bình thường; tiếp tục omeprazol theo dõi vài ngày HOẶC đổi sang PPI khác (esomeprazol 20 mg buổi sáng) nếu còn khó chịu",
+     "v": "c",
+     "n": "Đổi PPI có thể cân nhắc khi tác dụng phụ nhẹ như tiêu chảy; chỉ một lần đổi (ACG 2022 Long-term PPI Issues 2, Key Concept 1); các tác dụng phụ nhẹ này ít xảy ra và hết khi ngưng thuốc (ACG 2022 mục Proton Pump Inhibitors, đoạn Side effects). Oresol là đầu tay cho mất nước nhẹ–vừa (IDSA 2017 KN 39), ăn lại chế độ bình thường (KN 45). Esomeprazol 20–40 mg là liều chuẩn (VNAGE 2024 Bảng 4). Lượng oresol cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trấn an nỗi sợ ung thư đại tràng bằng số liệu bà có: tiêu chảy mới 5 ngày, bắt đầu sau thuốc mới, không máu, không sụt cân; nêu mốc phải tìm sâu hơn (còn tiêu chảy sau tuần nữa, sốt, phân máu hoặc đen, sụt cân)",
+     "v": "c",
+     "n": "Tác dụng phụ nhẹ của PPI hết khi ngưng thuốc (ACG 2022 Long-term PPI Issues); xét nghiệm phân khi sốt, phân máu hoặc nhầy, đau quặn nhiều (IDSA 2017 KN 8); tiêu chảy ≥ 14 ngày là tiêu chảy dai dẳng (IDSA 2017, mục Disease burden). Mốc 'còn sau tuần nữa' là lựa chọn của ca."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay: sốt, phân máu hoặc đen, đau bụng quặn dữ dội, chóng mặt nặng hoặc ngất, nước tiểu rất ít, không uống được",
+     "v": "c",
+     "n": "Người cao tuổi nguy cơ mất nước nặng (IDSA 2017 KN 5); sốt, phân máu hoặc nhầy, đau quặn nhiều là chỉ định xét nghiệm (KN 8). Danh sách cụ thể là của ca."
+    },
+    {
+     "t": "Giữ kế hoạch nội soi không khẩn từ lượt 1 (không nâng thành khẩn vì tiêu chảy); nói rõ có thể sắp xếp sau chuyến đi nếu bà đáp ứng và không có dấu báo động",
+     "v": "c",
+     "n": "Cách A: nội soi khi không đáp ứng sau 8 tuần PPI hoặc tái phát khi ngưng, soi sau ngưng PPI 2–4 tuần (ACG 2022 Chẩn đoán KC 1, 3). Cách B: soi không khẩn sớm vì yếu tố nguy cơ Barrett (VNAGE 2026 KC 3 thảo luận). Không nguồn nào đòi soi trước một chuyến đi. Thời hạn soi theo hẹn không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giấy chứng nhận sức khỏe: không ký 'sức khỏe bình thường' khi đang điều trị và chưa hoàn tất đánh giá; viết thư tóm tắt bệnh, thuốc, kế hoạch soi để bà mang theo; hẹn khám cập nhật khi hết tiêu chảy và đủ đợt thuốc",
+     "v": "c",
+     "n": "Quy định cấp giấy và yêu cầu của bảo hiểm du lịch không có trong tài liệu đã tải. Lựa chọn của ca: trả lời đúng nỗi lo thật, ghi đúng sự thật, không cản trở chuyến đi vô cớ (GERD điều trị được, không dấu báo động)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2–4 tuần (đủ 8 tuần PPI thì đánh giá), sớm hơn nếu có dấu hiệu ở trên",
+     "v": "c",
+     "n": "Đánh giá đáp ứng ở 8 tuần (ACG 2022 Chẩn đoán KC 1–3). Mốc 2–4 tuần là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Loperamid ngắn ngày sau khi đã uống đủ nước",
+     "v": "a",
+     "n": "Có thể cho người lớn miễn dịch bình thường bị tiêu chảy nước cấp, tránh khi sốt hoặc phân máu, không thay bù dịch (IDSA 2017 KN 46, 47). Liều không có trong tài liệu đã tải; bà tiêu chảy nhẹ nên không cần."
+    },
+    {
+     "t": "Tăng omeprazol lên 2 lần/ngày hoặc chuyển P-CAB vì sợ khỏi chậm",
+     "v": "a",
+     "n": "Có thể tăng liều, đổi PPI hoặc dùng P-CAB sau khi kiểm tuân thủ và lối sống (VNAGE 2026 KC 17, 18), nhưng bà mới dùng 2 tuần, đang đỡ, tiêu chảy có thể nặng thêm; ACG 2022 Điều trị KC 11 khuyên không thêm thường quy. Liều P-CAB không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch hoặc nhập viện vì tuổi cao",
+     "v": "w",
+     "n": "Truyền tĩnh mạch khi mất nước nặng, sốc, thay đổi tri giác hoặc thất bại với oresol (IDSA 2017 KN 41); bà uống được, không sốt, huyết áp đứng không tụt đáng kể."
+    },
+    {
+     "t": "Kháng sinh theo kinh nghiệm (ciprofloxacin, azithromycin)",
+     "v": "w",
+     "n": "Không khuyến cáo ở đa số tiêu chảy nước cấp (IDSA 2017 KN 36); người đang dùng PPI đã kèm nguy cơ C. difficile (AGS Beers 2023 Bảng 2), còn kháng sinh là một yếu tố trong tiêu chí xét nghiệm C. difficile (KN 18)."
+    },
+    {
+     "t": "Ký giấy xác nhận sức khỏe bình thường ngay cho kịp chuyến bay",
+     "v": "w",
+     "n": "Đang điều trị GERD, đang tiêu chảy, chưa hoàn tất đánh giá; ghi sai tình trạng bệnh. Quy định cấp giấy không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "GERD (chưa nội soi) đáp ứng một phần sau 2 tuần PPI: rát đỡ khoảng một nửa, còn ợ chua khi ăn no; quỹ đạo bình thường",
+     "Triệu chứng mới: tiêu chảy cấp nhẹ 5 ngày, bắt đầu ngày thứ 8 uống omeprazol; nhiều khả năng là tác dụng phụ của PPI; chưa có dấu hiệu nhiễm trùng hay dấu báo động",
+     "Mất nước nhẹ ở người 79 tuổi (uống ít, môi khô, ure 7,3, creatinin 88 tăng nhẹ so với 80); chưa tụt huyết áp tư thế đáng kể",
+     "Yếu tố duy trì còn lại: ăn tối 20 giờ, nằm 21 giờ",
+     "Đã loại trừ bệnh mạch vành (ECG, hs-TnT lượt 1 bình thường, không đau ngực mới); loét thực quản chưa loại hẳn, chờ nội soi",
+     "Lo âu sợ ung thư (thực quản và nay là đại tràng); yêu cầu giấy chứng nhận sức khỏe"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao đáp ứng một phần vẫn là bình thường: lành tổn thương và hết triệu chứng không tuyến tính, đỉnh ở 8–12 tuần; thể không viêm thực quản đáp ứng chậm hơn (ACG 2022 mục Proton Pump Inhibitors; VNAGE 2026 KC 15 thảo luận, 4 tuần: 37% so với 56%). Thêm vào đó bà vẫn ăn tối muộn nên các đêm rát còn lại là đêm ăn muộn.",
+     "Vì sao tiêu chảy nhiều khả năng do omeprazol: bắt đầu sau khi dùng thuốc mới, không sốt, không máu hay nhầy, ăn chung mâm không ai bị, không kháng sinh hay nằm viện. Tiêu chảy nằm trong các tác dụng phụ nhẹ của PPI, ít xảy ra và hết khi ngưng thuốc (ACG 2022 Long-term PPI Issues 2). Đây là suy luận loại trừ; xét nghiệm không cần khi chưa có dấu hiệu xét (IDSA 2017 KN 8, 18).",
+     "Vì sao phải đánh giá mất nước: người cao tuổi tiêu chảy có nguy cơ mất nước đe dọa tính mạng (IDSA 2017 KN 5); bà uống ít vì sợ đi vệ sinh nên môi khô, ure tăng nhẹ. Hỏi cụ thể lượng nước, màu nước tiểu, chóng mặt mới biết.",
+     "Vì sao không phải ung thư đại tràng: tiêu chảy mới 5 ngày, có mốc khởi phát sau thuốc, không máu, không sụt cân, không thiếu máu. Tiêu chảy kéo dài ≥ 14 ngày mới là tiêu chảy dai dẳng cần tìm sâu hơn (IDSA 2017, mục Disease burden; KN 18, 36).",
+     "Applicability note (≥ 75 tuổi): tài liệu GERD đã tải không có dữ liệu riêng cho nhóm này; IDSA 2017 chỉ nêu người cao tuổi dễ mất nước nặng, không có liều bù dịch riêng. Mốc theo dõi sớm hơn dân số chung là lựa chọn của ca."
+    ],
+    "phan_tich_xu_tri": [
+     "Không đổi hướng điều trị GERD: tiếp tục PPI đủ 8 tuần (ACG 2022 Chẩn đoán KC 1; VNAGE 2026 KC 15), chỉnh bữa tối. Chưa tăng liều: chỉ xét sau khi kiểm tuân thủ và lối sống (VNAGE 2026 KC 17).",
+     "Tiêu chảy: oresol từng ngụm, uống đủ nước, ăn lại bình thường (IDSA 2017 KN 39, 45). Tiếp tục omeprazol theo dõi vài ngày, hoặc đổi một lần sang PPI khác nếu còn khó chịu (ACG 2022 Long-term PPI Issues 2, Key Concept 1). Hai cách cùng nằm trong khuyến cáo; không cách nào gây hại.",
+     "Không kháng sinh, không xét nghiệm phân, không truyền dịch: không đủ chỉ định (IDSA 2017 KN 8, 36, 41).",
+     "Nội soi: giữ như lượt 1 (A: sau 8 tuần và ngưng PPI 2–4 tuần nếu không đáp ứng hoặc tái phát; B: hẹn không khẩn sớm). Có thể sắp xếp sau chuyến đi nếu bà đáp ứng và không có dấu báo động; thời hạn soi theo hẹn không có trong tài liệu đã tải.",
+     "Giấy chứng nhận sức khỏe: ghi đúng sự thật sau khi đánh giá; thư tóm tắt kèm thuốc và kế hoạch soi để bà mang theo; không ký 'bình thường' khi đang điều trị.",
+     "Trấn an bằng dữ kiện (không sốt, không máu, không sụt cân) và mốc cụ thể phải quay lại; nói với cả Thu Hà để chị giám sát giờ ăn tối."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol (hoặc esomeprazol nếu đổi PPI)",
+      "ham_luong": "20 mg",
+      "lieu": "Cách A: omeprazol 20 mg × 1 lần/ngày. Cách B: đổi sang esomeprazol 20 mg × 1 lần/ngày nếu còn tiêu chảy khó chịu",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước bữa sáng",
+      "so_ngay": "Đủ 8 tuần PPI tính từ lượt 1 (ACG 2022) hoặc 4–8 tuần (VNAGE 2026); đánh giá lại sau đó",
+      "ghi_chu": "Omeprazol 20 mg, esomeprazol 20–40 mg là liều chuẩn (VNAGE 2024 Bảng 4). Đổi PPI khi tác dụng phụ nhẹ, chỉ một lần (ACG 2022 Long-term PPI Issues 2, Key Concept 1). Thời điểm: ACG 2022 Điều trị KC 8."
+     },
+     {
+      "thuoc": "Oresol (muối bù nước, thẩm thấu thấp)",
+      "ham_luong": "Gói pha sẵn",
+      "lieu": "Pha theo hướng dẫn trên gói, uống từng ngụm nhỏ sau mỗi lần đi cầu lỏng",
+      "duong": "Uống",
+      "thoi_diem": "Sau mỗi lần đi cầu lỏng; kèm uống nước",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "ORS thẩm thấu thấp là đầu tay cho mất nước nhẹ–vừa ở người lớn (IDSA 2017 KN 39). Thể tích cụ thể không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (đang dùng)",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần, cách 6–8 giờ, tối đa 3 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau gối, sau ăn",
+      "so_ngay": "Khi cần; tổng dưới 3 g/ngày",
+      "ghi_chu": "Không đổi: QĐ 361/2014 Phụ lục NSAID mục 3.3 (< 3 g/ngày); Phụ lục thuốc giảm đau mục 3.1 (không quá 4 g/24 giờ); lấy bên thận trọng."
+     }
+    ],
+    "dan_do": [
+     "Uống oresol từng ngụm sau mỗi lần đi cầu lỏng, uống nước đủ (nước tiểu vàng nhạt); không nhịn nước vì sợ đi vệ sinh (IDSA 2017 KN 39).",
+     "Ăn lại cơm cháo bình thường, không kiêng khem quá mức (IDSA 2017 KN 45).",
+     "Omeprazol vẫn uống mỗi sáng trước ăn 30–60 phút (ACG 2022 Điều trị KC 8); nếu tiêu chảy còn sau vài ngày hoặc khó chịu, quay lại để đổi sang thuốc dạ dày khác.",
+     "Ăn tối trước 18–19 giờ, chờ 2–3 giờ mới nằm; kê cao đầu giường, nằm nghiêng trái (ACG 2022 Điều trị KC 2, 5, Bảng 3). Nhờ Thu Hà nhắc giờ ăn tối.",
+     "Quay lại ngay hoặc đến cơ sở y tế gần nhất nếu sốt, phân có máu hoặc đen, đau bụng quặn dữ dội, chóng mặt nặng hoặc ngất, nước tiểu rất ít, không uống được (IDSA 2017 KN 5, 8).",
+     "Đau gối: paracetamol 1 viên 500 mg mỗi lần, tổng dưới 3 g/ngày (QĐ 361/2014).",
+     "Bác sĩ viết thư tóm tắt bệnh và thuốc để mang theo; giấy chứng nhận sức khỏe làm khi đã đánh giá xong và hết tiêu chảy. Tái khám sau 2–4 tuần (mốc của ca); giấy giới thiệu nội soi vẫn còn giá trị."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Thu Hà nhắc mẹ ăn tối lúc 18 giờ rưỡi. Bà Mận uống oresol, ăn lại cơm cháo; vẫn giữ omeprazol vì sợ 'đổi thuốc rồi lại rát', tiêu chảy giảm sau 3 ngày và hết sau 5 ngày. Rát ngực hết từ từ: tuần 4 còn 1–2 đêm/tuần, đến gần tuần 10 mới hết hẳn, chậm hơn mốc 8 tuần vì bà mất gần một tháng mới tập được thói quen ăn tối sớm và không nằm ngay. Thấy bà vẫn sợ, bác sĩ hẹn nội soi ở bệnh viện tỉnh sau khi ngưng omeprazol 3 tuần: không loét, không Barrett, chỉ một vết trợt nhỏ ở đầu dưới thực quản (LA A), chưa đủ để khẳng định GERD một mình nhưng hợp bệnh cảnh và đáp ứng thuốc (Lyon 2.0; ACG 2022 Chẩn đoán). Bà chọn hoãn chuyến bay 3 tuần để có kết quả, nhận giấy sau đợt đánh giá rồi đi Đức, mang theo thư tóm tắt; sau nội soi dùng omeprazol khi cần (ACG 2022 Điều trị KC 9, 16).",
+ "nhieu": [
+  "Sợ hãi quá mức: bà hỏi dồn, xin CT và nội soi cho yên tâm. Xử trí: nói điều đã loại trừ được (ECG, men tim, Hb, nuốt thử), điều chưa loại (loét thực quản, Barrett: cần nội soi theo hẹn) và mốc quay lại; không chiều lòng bằng xét nghiệm không có chỉ định.",
+  "Không có siêu âm (kéo theo không có CT và nội soi): sỏi mật và viêm tụy sau bữa nhiều mỡ được loại bằng lâm sàng (Murphy âm, đau không xuyên lưng); nội soi chuyển tuyến theo hẹn, không cấp cứu vì không có dấu báo động.",
+  "Đỡ một nửa sau 2 tuần là quỹ đạo bình thường; điều cần lo ở lượt 2 là triệu chứng mới (tiêu chảy, có thể do thuốc vừa kê) và mất nước ở người 79 tuổi."
+ ],
+ "bai_hoc_bien": [
+  "Khởi phát sau bữa nhiều đạm, nhiều mỡ rồi nằm ngay: khai thác giờ ăn tối, giờ đi nằm, tư thế ngủ; đây là yếu tố duy trì và là lý do bà khỏi chậm.",
+  "Nữ 79 tuổi đau sau xương ức: ECG trước, hs-troponin khi cần, rồi mới trấn an. Đau thượng vị và đau sau xương ức đều có thể là tương đương đau ngực (ESC 2023 mục 3.1.1).",
+  "Sợ hãi quá mức: trả lời bằng dữ kiện cụ thể của chính người bệnh, hỏi 'bà còn muốn nhờ việc gì' để lộ lý do thật (giấy chứng nhận sức khỏe), rồi ghi giấy đúng sự thật.",
+  "Triệu chứng mới ở lượt 2 sau khi vừa kê thuốc: nghĩ trước hết đến tác dụng phụ, nhưng phải loại nhiễm trùng và đánh giá mất nước, nhất là ở người cao tuổi (IDSA 2017 KN 5, 8, 18).",
+  "Đáp ứng một phần sau 2 tuần không phải thất bại: chưa tăng liều, kiểm tuân thủ và lối sống trước (VNAGE 2026 KC 17); thể không viêm thực quản đáp ứng chậm hơn (VNAGE 2026 KC 15)."
+ ],
+ "diem_nho": [
+  "GERD điển hình, không dấu báo động: thử PPI 1 lần/ngày, 30–60 phút trước bữa ăn, 8 tuần (ACG 2022 Chẩn đoán KC 1, Điều trị KC 8) hoặc 4–8 tuần (VNAGE 2026 KC 15).",
+  "Nội soi khi dấu báo động, không đáp ứng sau 8 tuần PPI, hoặc nhiều yếu tố nguy cơ Barrett (ACG 2022 Chẩn đoán KC 3, 6; VNAGE 2026 KC 3); tốt nhất sau ngưng PPI 2–4 tuần.",
+  "Lối sống: tránh ăn trong 2–3 giờ trước khi nằm, kê cao đầu giường, nằm nghiêng trái, tránh bữa nhiều mỡ (ACG 2022 Điều trị KC 2, 5, Bảng 3).",
+  "Tác dụng phụ nhẹ của PPI (tiêu chảy, đau đầu, buồn nôn...): đổi PPI một lần là hợp lý (ACG 2022 Long-term PPI Issues 2).",
+  "Tiêu chảy cấp ở người cao tuổi: đánh giá mất nước, ORS thẩm thấu thấp, không kháng sinh theo kinh nghiệm, xét nghiệm phân khi sốt, phân máu hoặc nhầy, đau quặn nhiều (IDSA 2017 KN 5, 8, 36, 39)."
+ ],
+ "nguon": [
+  "VNAGE 2026 – GERD – TL-0177 – KC 1–4, 10, 12, 14, 15, 17, 18 (Front Med 2026;13:1890726)",
+  "ACG 2022 – GERD – TL-0212 – Chẩn đoán KC 1–3, 6; Điều trị KC 1, 2, 5, 8, 9, 11, 13, 14, 16; Bảng 3; mục Proton Pump Inhibitors, Long-term PPI Issues 2, Key Concept 1",
+  "Lyon Consensus 2.0 2024 – TL-0206 – Bảng 2 (triệu chứng điển hình, thử thuốc), mục LA grade A",
+  "VNAGE 2024 – khó tiêu chức năng – TL-0178 – Bảng 4 (liều chuẩn PPI)",
+  "AGS Beers 2023 – TL-0022 – Bảng 2, mục tiêu hóa (PPI > 8 tuần, metoclopramid), NSAID",
+  "ESC 2023 hội chứng vành cấp – TL-0069 – mục 3.1.1, 3.2, 3.3.1, 3.3.4.1",
+  "BYT QĐ 361/2014 – bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1",
+  "IDSA 2017 – tiêu chảy nhiễm trùng – TL-0230 – KN 5, 8, 18, 36, 39, 41, 45–47; mục Disease burden",
+  "Không có trong tài liệu đã tải: liều alginat, liều P-CAB, thể tích oresol cho người lớn, thời hạn nội soi theo hẹn, mốc tái khám 2 tuần và 2–4 tuần, quy định cấp giấy chứng nhận sức khỏe, ngưỡng hs-troponin theo từng loại xét nghiệm, liều PPI và thời gian PPI riêng cho người ≥ 75 tuổi."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25 (bản 1): viết mới. Đã tra sổ mâu thuẫn và áp dụng: giờ uống PPI (TH-0295), nội soi GERD theo tuổi 'A hoặc B' (TH-0364, TH-0425), alginat (TH-0372), PPI tăng liều/2 lần/ngày chấm a (TH-0353), paracetamol < 3 g/ngày và 4 g/24 giờ (TH-0295), PPI > 8 tuần ở ≥ 65 tuổi (TH-0162).",
+  "Tài liệu đã đọc: TL-0177 (KC 1–4, 10, 12–18), TL-0212 (Chẩn đoán, Điều trị, Long-term PPI), TL-0206 (Bảng 2), TL-0178 (Bảng 4), TL-0022 (Bảng 2 tiêu hóa), TL-0069 (mục 3.1.1–3.3), TL-0286 (Phụ lục NSAID, thuốc giảm đau), TL-0230 (KN 5–47).",
+  "Chỗ thiếu tài liệu: xem dòng 'Không có trong tài liệu đã tải' ở nguon.",
+  "Cùng chủ đề GERD: TH-0353 (nữ 52 tuổi, dabigatran, chuyển nội soi), TH-0364, TH-0295. Ca này khác: nữ 79 tuổi, đáp ứng một phần rồi tiêu chảy mới, kết luận cả hai lượt ve_hen, không chuyển tuyến cấp."
+ ]
+}
