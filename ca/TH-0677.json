@@ -1,0 +1,788 @@
+{
+ "ma_ca": "TH-0677",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới (2026-10-25)",
+ "benh": "TH_tieu_chay_cap_nhiem_trung",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Tiêu chảy cấp nhiễm trùng",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lỵ trực trùng",
+   "Viêm ruột thừa"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Buôn bán nhỏ (bán tạp hóa)",
+  "yeu_to_khoi_phat": "Sau sinh (ở nhà cháu ngoại chăm cháu mới sinh ba tuần; ăn thức ăn thừa để qua đêm)",
+  "thuoc_dang_dung": "Thuốc giảm đau khớp tự mua (meloxicam 7,5 mg)",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Sáu",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Bán tạp hóa nhỏ",
+  "can_nang": 45,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà. Bà tự xưng 'bà', gọi bác sĩ là 'bác sĩ', gọi con gái là 'con Hạnh'.",
+  "tinh_cach": "Thật thà, nói chậm, hay quên ngày tháng, hợp tác khi được giải thích rõ. Sợ kim tiêm và sợ tốn tiền. Mấy tuần nay ở nhà cháu ngoại chăm cháu mới sinh, thiếu ngủ, lo cho cháu. Ngại nói chuyện xin thuốc ngủ vì sợ con cháu mắng.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: trả lời đủ ý, nghe lời dặn, nhưng chỉ kể chi tiết bị hỏi trúng (thuốc giảm đau còn uống, chuyện thiếu ngủ). Từ chối lấy máu và lấy phân bằng giọng nhẹ nhàng, không cáu.",
+  "nguoi_nha": "Con gái, chị Hạnh, 52 tuổi, đưa bà đến bằng xe máy, ngồi cùng trong phòng. Biết mẹ đi ngoài và mệt; không biết mẹ tự mua thuốc giảm đau khớp mỗi ngày và không biết mẹ muốn xin thuốc ngủ. Muốn mẹ làm xét nghiệm nhưng không ép.",
+  "ten_nguoi_nha": "Con gái (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#d3a37c",
+   "toc": "#c9c4be",
+   "kieuToc": "bui",
+   "ao": "#8c6f8f",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#cf9a72",
+    "toc": "#2a211b",
+    "kieuToc": "dai",
+    "ao": "#5d7c8f",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đi ngoài phân lỏng hai ngày, mệt, choáng khi đứng",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Trần Thị Sáu, 78 tuổi, bán tạp hóa nhỏ, con gái Hạnh đưa đến. Đi ngoài phân lỏng hai ngày, mệt lả, đứng lên thì choáng. Gầy, ước 45 kg. Sinh hiệu ngồi: HA 112/70 mmHg, mạch 96 l/p, nhiệt 37,8 °C, SpO₂ 97%.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "ve_hen": "Cho bà Sáu về ngay với vài gói Oresol, hẹn hai ngày sau, không cho uống thử tại phòng khám: bà đang ở ranh giới mất nước độ 1–2 (khát vừa, da khô, mạch nằm 92 lên 108 khi đứng, tiểu hai lần/ngày – QĐ 5642/2015 mục 3.1) và sợ 'uống vào là chạy ra' nên về nhà nhiều khả năng uống không đủ. Bà từ chối lấy máu nên không có creatinin làm lưới an toàn, lại đang uống meloxicam; mất nước kéo dài dễ dẫn tới suy thận cấp (QĐ 5642/2015 mục 5), và người cao tuổi chiếm hơn 80% ca tử vong do tiêu chảy ở Hoa Kỳ (ACG 2016 tr. 607).",
+    "nhap_vien": "Nhập viện truyền dịch cho bà Sáu hôm nay là quá tay: bà tỉnh, uống được, HA nằm 118/72, không sốc nên chưa có chỉ định truyền tĩnh mạch (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 KC 39, 41). Bà sợ kim, đã từ chối lấy máu, nằm viện dễ xin về giữa chừng và mất lòng tin; con gái phải bỏ tiệm trong khi cháu mới sinh cần người.",
+    "cap_cuu": "Gọi xe cấp cứu chuyển bà Sáu là quá mức: không sốc, không lơ mơ, HA tâm thu trên 90 mmHg (QĐ 5642/2015 mục 3.1). Bà 78 tuổi phải chờ ở khoa cấp cứu, tốn tiền xe, vẫn từ chối lấy máu nên tuyến trên cũng không có thêm dữ liệu."
+   },
+   "loi_mo": "Chào bác sĩ. Bà đi ngoài lỏng hai bữa rồi, người rã rời, đứng lên thì choáng. Con gái bắt bà đi khám chứ bà định ở nhà.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "112/70",
+    "nhiet": "37,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": [
+     "Tuổi ≥ 75, gầy yếu: nhóm nguy cơ mất nước nặng",
+     "Huyết áp tụt khi đứng"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi ngoài phân lỏng đã hai ngày, người mệt lả, đứng lên thì choáng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Hôm kia 3–4 lần, hôm qua khoảng 8 lần, đêm qua dậy 4 lần. Phân lỏng vàng như nước, không máu, không nhầy, không mót rặn, không giống nước vo gạo. Đi xong thì bụng bớt quặn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số lần, tính chất phân"
+    },
+    {
+     "id": "sot_bung",
+     "noi_dung": "Hôm qua ớn lạnh, đo ở nhà 37,8 °C. Đau quặn từng cơn quanh rốn, không đau cố định ở bụng dưới bên phải. Buồn nôn, nôn một lần hôm qua, hôm nay không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, đau bụng, nôn"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Khát, miệng khô, hôm nay tiểu hai lần, nước tiểu vàng sậm. Sợ 'uống vào là chạy ra' nên chỉ nhấp vài ngụm nước ấm, chưa uống gói bột nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu mất nước"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Hai tuần nay ở nhà cháu ngoại để chăm cháu mới sinh ba tuần. Trưa ba hôm trước ăn phần canh chân giò hầm còn thừa, để ngoài bếp qua đêm rồi hâm lại qua loa; sáng hôm kia bắt đầu đi ngoài. Cháu rể cũng ăn món đó, đi ngoài hai lần hôm qua rồi hết. Nước uống đun sôi, không ăn hải sản sống, không đi xa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguồn lây, người cùng ăn"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Đau gối phải nhiều năm; ba tuần nay mua ở tiệm thuốc tây vỉ giảm đau khớp (meloxicam 7,5 mg), uống 1–2 viên mỗi ngày, hôm qua và hôm nay vẫn uống. Không dùng kháng sinh trong ba tháng qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc giảm đau khớp tự mua (NSAID)"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Thoái hóa khớp gối. Không tăng huyết áp, tiểu đường, bệnh tim, bệnh thận; không sụt cân gần đây; trước đó chưa từng bị tiêu chảy kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Bệnh nền"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Khi được đề nghị thử máu, thử phân: bà không đồng ý lấy máu (sợ kim, lần trước bị bầm cả tuần) và ngại lấy phân (sợ tốn tiền); đồng ý thử nước tiểu. Bà nói rõ: 'Bác sĩ cứ khám, cho thuốc, bà không thử máu đâu.' Con gái Hạnh muốn bà làm nhưng không ép.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm"
+    },
+    {
+     "id": "mat_ngu",
+     "noi_dung": "Từ khi lên nhà cháu, mỗi đêm bà ngủ chưa tới 3 tiếng: bé khóc, lo cho cháu mới sinh, đau gối, mấy đêm nay lại phải dậy đi ngoài. Bà đến khám chủ yếu để xin ít viên thuốc ngủ, sợ nói ra bị con cháu mắng 'già rồi còn uống thuốc ngủ'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi về giấc ngủ, ban đêm, hoặc hỏi bà còn muốn nhờ gì khác hôm nay. Hỏi 'có mệt không' thì bà chỉ nói mệt vì đi ngoài.",
+     "k": 1,
+     "y": "Lý do thật: xin thuốc ngủ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gầy. Môi khô, lưỡi khô; mắt không trũng; nếp véo da mu tay trở lại chậm. Không vàng da.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 118/72 mmHg, mạch 92 l/p; đứng 1 phút 100/62 mmHg, mạch 108 l/p, bà nói choáng và phải vịn thành giường.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi chướng, nhu động ruột tăng. Ấn đau nhẹ quanh rốn, không đau khu trú hố chậu phải, không phản ứng thành bụng, không sờ thấy khối.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Ống hậu môn không đau, găng dính phân vàng lỏng, không máu, không nhầy.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 96 l/p."
+    },
+    "co_xuong_khop": {
+     "a": "Gối phải biến dạng nhẹ, ấn đau khe khớp trong, không nóng đỏ, không tràn dịch.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "que_nt": {
+     "v": "u",
+     "r": "Tỷ trọng 1,025 · ceton vết · không bạch cầu, nitrit, protein, glucose, hồng cầu.",
+     "n": "Bà đồng ý vì không đau: nước tiểu cô đặc, hợp mất nước (QĐ 5642/2015 mục 3.1: nước tiểu ít). Là một phần của phương án B khi bà từ chối lấy máu.",
+     "bang": {
+      "u_sg": 1.025,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Dương tính (+)",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     }
+    },
+    "creat": {
+     "v": "u",
+     "r": "Bà không đồng ý lấy máu hôm nay (sợ kim, từng bầm tím cả tuần). Điều dưỡng Linh đã ghi nhận từ chối vào hồ sơ; không có kết quả.",
+     "n": "Ure, creatinin là xét nghiệm nên làm vì có thể có rối loạn điện giải, suy thận kèm theo (QĐ 5642/2015 mục 3.3), nhất là khi đang dùng NSAID. Quyết định hôm nay không phụ thuộc kết quả: tôn trọng từ chối, dùng lâm sàng thay thế."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Bà không đồng ý lấy máu hôm nay. Điều dưỡng Linh đã ghi nhận từ chối vào hồ sơ; không có kết quả.",
+     "n": "Điện giải đồ giúp tìm rối loạn điện giải (QĐ 5642/2015 mục 3.3); không thay được bằng khám lâm sàng nhưng không bắt buộc để bù dịch đường uống."
+    },
+    "cay_phan": {
+     "v": "u",
+     "r": "Bà không đồng ý lấy phân (ngại, sợ tốn tiền). Điều dưỡng Linh đã ghi nhận từ chối; không có kết quả.",
+     "n": "Cấy phân là chẩn đoán xác định (QĐ 5642/2015 mục 3.4). IDSA 2017 KC 8 chỉ định thử phân khi sốt, phân máu/nhầy, đau quặn nặng hoặc nhiễm trùng huyết; ca này chỉ sốt 37,8 °C, không máu, xử trí hôm nay không đổi."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Quai ruột chứa dịch, tăng nhu động; không dịch tự do, không thấy ổ viêm hố chậu phải; ruột thừa không quan sát rõ.",
+     "n": "Không bắt buộc: bụng mềm, không đau khu trú. Nếu sau này đau khu trú ở người cao tuổi thì ưu tiên CT liều thấp (WSES 2025, khuyến cáo 3.4)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng (nghi nhiễm khuẩn qua thức ăn để qua đêm), kèm mất nước độ 1 ranh giới độ 2 ở người 78 tuổi gầy yếu đang dùng NSAID, nguy cơ suy thận cấp",
+     "ok": 1,
+     "n": "Phân lỏng nước 8 lần/ngày, không máu, sốt nhẹ 37,8 °C, đau quặn quanh rốn, người cùng ăn cũng bị, ủ bệnh khoảng một ngày (QĐ 5642/2015 mục 3.2, 3.4). Mất nước: khát vừa, da khô, mạch nằm 92 lên 108 khi đứng, tiểu ít (mục 3.1 bảng). Chưa xác định tác nhân vì bà từ chối lấy phân."
+    },
+    {
+     "t": "Tả",
+     "n": "Tả: tiêu chảy dữ dội 20–50 lần/ngày, phân như nước vo gạo, không sốt (QĐ 5642/2015 mục 3.2; QĐ 4178/2007 mục II.1.a). Bà đi 8 lần, phân vàng, có sốt nhẹ, không ở vùng dịch, người cùng ăn nhẹ hơn."
+    },
+    {
+     "t": "Lỵ trực trùng",
+     "n": "Hội chứng lỵ: sốt cao, đau quặn, mót rặn, phân nhầy máu (QĐ 5642/2015 mục 3.2; bài Lỵ trực khuẩn mục 3.1c). Bà sốt nhẹ, không mót rặn, phân không nhầy máu, thăm trực tràng không máu."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Người cao tuổi có thể không điển hình và tiêu chảy có thể đi kèm, nhưng bà đau quanh rốn từng cơn đỡ sau khi đi ngoài, bụng mềm, không đau khu trú hố chậu phải. Thang điểm Alvarado không đủ tin cậy ở người già (WSES 2020, tuyên bố 1.3); đau khu trú hoặc tăng dần thì chụp CT (WSES 2025, khuyến cáo 3.4)."
+    },
+    {
+     "t": "Ngộ độc thực phẩm do độc tố (tụ cầu...)",
+     "n": "Độc tố tụ cầu ủ 1–6 giờ, nôn nhiều, không sốt (QĐ 5642/2015 mục 3.2). Bà ủ khoảng một ngày, nôn một lần, có sốt nhẹ: nghiêng về nhiễm trùng hơn."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá mất nước bằng lâm sàng (nếp véo da, huyết áp và mạch nằm – đứng, nước tiểu) vì không có xét nghiệm; cho bà uống Oresol ngay tại phòng khám từng ngụm nhỏ và giữ theo dõi 3–4 giờ, đo lại huyết áp mạch nằm – đứng và hỏi tiểu trước khi về",
+     "v": "c",
+     "n": "Mất nước độ 1, uống được: bù bằng Oresol (QĐ 5642/2015 mục 4.2.3a); ORS giảm thẩm thấu là đầu tay cho mất nước nhẹ – vừa, bù đến khi hết mất nước lâm sàng (IDSA 2017 KC 39, 42); người già nặng nên dùng ORS cân bằng điện giải (ACG 2016 KC 5, tr. 607). Thể tích cho người lớn, thời gian theo dõi 3–4 giờ: không có trong tài liệu đã tải, là lựa chọn của ca."
+    },
+    {
+     "t": "Bù dịch bằng Oresol hoặc nước cháo muối, súp; bù thêm sau mỗi lần phân lỏng cho đến khi hết tiêu chảy",
+     "v": "c",
+     "n": "Bù lượng mất qua phân bằng ORS đến khi hết tiêu chảy (IDSA 2017 KC 43; QĐ 5642/2015 mục 4.2.3a); đa số người lớn bù được bằng nước, súp, bánh mặn (ACG 2016 KC 5). Hai nguồn đều đúng, không mâu thuẫn thật."
+    },
+    {
+     "t": "Tôn trọng việc bà từ chối lấy máu và phân: giải thích lợi ích bằng lời đơn giản (xem thận và điện giải), hỏi lại một lần, ghi hồ sơ lý do và việc đã giải thích; dùng phương án B (khám, que nước tiểu, theo dõi, hẹn lại sớm, xin lại xét nghiệm khi cần)",
+     "v": "c",
+     "n": "Quyền tự quyết của người bệnh. Xét nghiệm máu có ích để tìm suy thận, rối loạn điện giải (QĐ 5642/2015 mục 3.3), thử phân khi sốt, máu, nhầy (IDSA 2017 KC 8) nhưng không đổi xử trí hôm nay. Mẫu hồ sơ từ chối: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng meloxicam và thuốc giảm đau khớp tự mua trong lúc tiêu chảy; đau gối dùng paracetamol liều thấp",
+     "v": "c",
+     "n": "Người cao tuổi, gầy yếu: nhóm nguy cơ cao, tránh NSAID nếu có thể, dùng acetaminophen dưới 3 g/ngày, theo dõi creatinin và điện giải (QĐ 361/2014, Phụ lục NSAID mục 3.3). Beers 2023 Bảng 6: NSAID có thể tăng nguy cơ tổn thương thận cấp khi CrCl dưới 30 mL/ph. Nguồn trực tiếp về NSAID cộng mất nước không có trong tài liệu đã tải; suy luận của ca. Paracetamol tối đa 3 g/ngày (Phụ lục NSAID) hoặc 4 g/ngày (Phụ lục thuốc giảm đau mục 3.1): ca chọn mức thận trọng hơn."
+    },
+    {
+     "t": "Không kê thuốc ngủ hôm nay: hỏi nguyên nhân mất ngủ (con cháu, đau gối, đi ngoài đêm), giải thích rủi ro, hướng dẫn vệ sinh giấc ngủ và nhờ người nhà chia ca đêm",
+     "v": "c",
+     "n": "Beers 2023 Bảng 2: tránh benzodiazepin và nhóm Z ở người ≥ 65 tuổi (sảng, ngã, gãy xương; chứng cứ vừa, khuyến cáo mạnh); ESRS 2023 mục 4.2.1: dung nạp, lú lẫn đêm, ngã. QĐ 2058/2020 Bài 27 mục 4.3 có liệt kê thuốc nhưng chẩn đoán mất ngủ không thực tổn cần ≥ 3 lần/tuần trong ≥ 1 tháng và không có bệnh nội khoa (mục 3.1.1): hai nguồn khác đối tượng, xem sổ mâu thuẫn. Vệ sinh giấc ngủ: QĐ 2058/2020 mục 4.3."
+    },
+    {
+     "t": "Dặn quay lại ngay: phân có máu hoặc nhầy, sốt ≥ 38,3 °C hoặc ớn lạnh, lú lẫn, ngất, nôn nhiều không uống được, ít hoặc không tiểu, đau bụng khu trú bên phải hoặc tăng dần",
+     "v": "c",
+     "n": "Sốt hoặc phân máu cần tìm tác nhân (IDSA 2017 KC 3, 8; sốt ≥ 38,3 °C là ngưỡng của ACG 2016 Hình 1); mất nước độ 2–3: mạch 100–120, HA dưới 90, thiểu niệu (QĐ 5642/2015 mục 3.1); biến chứng sốc, suy thận cấp (mục 5); đau khu trú ở người già: WSES 2025 khuyến cáo 3.4."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 ngày (hoặc sớm hơn khi có dấu hiệu cảnh báo); con gái đi cùng; dặn ăn lại cháo, cơm mềm sớm, ăn chín, uống nước đun sôi, bỏ thức ăn thừa để qua đêm, rửa tay trước khi bế bé",
+     "v": "c",
+     "n": "Ăn lại bình thường sớm trong hoặc ngay sau bù dịch (IDSA 2017 KC 45); ăn chín, uống nước đun sôi, rửa tay (QĐ 5642/2015 mục 6; IDSA 2017 KC 52). Mốc 2 ngày là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không dùng kháng sinh lúc này",
+     "v": "a",
+     "n": "Phần lớn tiêu chảy nước cấp không cần kháng sinh (IDSA 2017 KC 36; ACG 2016 KC 9, 10). Mâu thuẫn với QĐ 5642/2015 mục 4.2.1 (cân nhắc kháng sinh khi người già, có sốt): xem sổ mâu thuẫn 'Ngưỡng dùng kháng sinh theo kinh nghiệm', cả hai cách đều đúng."
+    },
+    {
+     "t": "Ciprofloxacin 0,5 g uống × 2 lần/ngày × 5 ngày theo kinh nghiệm vì tuổi cao và có sốt",
+     "v": "a",
+     "n": "QĐ 5642/2015 mục 4.2.1 (người già, sốt) và 4.2.2a (ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày). Fluoroquinolon có nguy cơ nhiễm C. difficile, bệnh gân khớp (ACG 2016 tr. 610). Chỉnh liều theo thận ở người 78 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Loperamid cắt cơn đi ngoài ngay hôm nay",
+     "v": "w",
+     "n": "Chưa bù đủ dịch, đang có sốt nhẹ và đau quặn: IDSA 2017 KC 46 chỉ cân nhắc sau khi đã bù dịch, KC 47 tránh khi tiêu chảy có sốt; QĐ 5642/2015 mục 4.2.3b không lạm dụng thuốc cầm tiêu chảy. Người 78 tuổi nên càng thận trọng (suy luận của ca)."
+    },
+    {
+     "t": "Kê thuốc ngủ (zolpidem, diazepam...) cho bà dùng mỗi tối",
+     "v": "w",
+     "n": "Bà đang mất nước, đứng lên choáng: thuốc an thần tăng nguy cơ ngã, lú lẫn (Beers 2023 Bảng 2; ESRS 2023 mục 4.2.1); nguyên nhân mất ngủ chưa xử trí."
+    },
+    {
+     "t": "Truyền Ringer lactat tĩnh mạch ngay hoặc nhập viện vì bà 78 tuổi",
+     "v": "w",
+     "n": "Bà uống được, không sốc, tỉnh: ORS là đầu tay (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 KC 39); dịch tĩnh mạch khi mất nước nặng, sốc, rối loạn ý thức và ORS thất bại (KC 41)."
+    },
+    {
+     "t": "Cho về ngay, dặn 'uống nước nhiều', vẫn dùng tiếp meloxicam và không hẹn tái khám",
+     "v": "w",
+     "n": "Bỏ qua mất nước ranh giới độ 2, nguy cơ thận và nhóm tuổi nguy cơ (QĐ 5642/2015 mục 3.1, 5; QĐ 361/2014 Phụ lục NSAID mục 3.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng, khả năng cao do thức ăn nấu để qua đêm; tác nhân chưa xác định vì bà từ chối lấy phân",
+     "Mất nước độ 1 ranh giới độ 2, uống được, chưa sốc",
+     "Yếu tố nguy cơ nặng: 78 tuổi, gầy 45 kg, đang dùng meloxicam tự mua (nguy cơ tổn thương thận cấp)",
+     "Đã loại trừ tả, lỵ trực trùng, viêm ruột thừa bằng lâm sàng; mất ngủ nhiều đêm kèm nhu cầu xin thuốc ngủ là lý do thật đến khám"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: số lần và tính chất phân (nước, không máu nhầy, không nước vo gạo), sốt, nôn, đau quặn, khởi phát sau bữa ăn để qua đêm và người cùng ăn cũng bị (QĐ 5642/2015 mục 3.1, 3.2, 3.4); hỏi thuốc đang dùng, kháng sinh gần đây, giấc ngủ (lộ lý do thật).",
+     "Khám: nếp véo da, môi lưỡi, huyết áp mạch nằm – đứng, bụng, thăm trực tràng. Mất nước theo bảng mục 3.1: khát vừa và da khô (cột độ 2) nhưng mạch dưới 100, HA trên 90, uống được (cột độ 1): ranh giới độ 1–2.",
+     "Cận lâm sàng: bà từ chối máu và phân nên chỉ có que nước tiểu (cô đặc) và siêu âm bụng; không làm đổi xử trí hôm nay (IDSA 2017 KC 8: thử phân khi sốt cao, máu, nhầy, đau quặn nặng).",
+     "Loại trừ tả (20–50 lần/ngày, nước vo gạo, không sốt – QĐ 5642/2015 mục 3.2), lỵ (mót rặn, nhầy máu, sốt cao – mục 3.2), viêm ruột thừa (không đau khu trú; Alvarado không đáng tin ở người già – WSES 2020 tuyên bố 1.3). Không phải ngộ độc độc tố thuần túy: ủ khoảng một ngày, có sốt nhẹ (tụ cầu ủ 1–6 giờ, không sốt – mục 3.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch đường uống tại chỗ rồi đánh giá lại là cốt lõi: mất nước độ 1, uống được → ORS (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 KC 39, 42, 43). Giữ theo dõi 3–4 giờ vì tuổi, gầy, không có xét nghiệm làm lưới an toàn; thời gian là lựa chọn của ca.",
+     "Ngưng NSAID tự mua; dùng paracetamol thấp liều (QĐ 361/2014 Phụ lục NSAID mục 3.3; Beers 2023 Bảng 6).",
+     "Kháng sinh: không dùng thường quy (IDSA 2017 KC 36; ACG 2016 KC 9, 10) hoặc cân nhắc ciprofloxacin vì tuổi và sốt (QĐ 5642/2015 mục 4.2.1, 4.2.2a); hai cách đều đúng, giải thích ở sổ mâu thuẫn. Loperamid chưa dùng vì còn sốt và chưa bù đủ dịch.",
+     "Thuốc ngủ: không kê (Beers 2023 Bảng 2; ESRS 2023 mục 4.2.1); xử trí nguyên nhân và vệ sinh giấc ngủ (QĐ 2058/2020 Bài 27 mục 4.3).",
+     "Từ chối xét nghiệm: tôn trọng, ghi hồ sơ, phương án B và hẹn lại 2 ngày; dặn cờ đỏ rõ vì bà ở nhóm nguy cơ cao (ACG 2016 tr. 607; IDSA 2017 KC 5)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol (ORS giảm thẩm thấu)",
+      "ham_luong": "Gói pha theo nhãn",
+      "lieu": "Uống từng ngụm nhỏ ngay tại phòng khám; về nhà uống thêm sau mỗi lần đi ngoài lỏng",
+      "duong": "Uống",
+      "thoi_diem": "Suốt ngày, nhấp từng ngụm",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 5642/2015 mục 4.2.3a; IDSA 2017 KC 39, 42, 43. Thể tích cụ thể cho người lớn không có trong tài liệu đã tải; tiêu chí đủ dịch: hết khát, tiểu đều, hết choáng khi đứng."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 1 viên khi đau gối, cách nhau ít nhất 6 giờ, tối đa 3 viên (1,5 g)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Khi đau, tối đa vài ngày",
+      "ghi_chu": "Thay NSAID. Trần 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3) hoặc 4 g/ngày (Phụ lục thuốc giảm đau mục 3.1); ca chọn 1,5 g vì gầy 45 kg, ăn kém. Liều theo cân nặng người lớn không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Ngưng viên giảm đau khớp meloxicam; đau gối chỉ dùng paracetamol theo đơn, chườm ấm. Mang vỉ thuốc đang dùng khi tái khám.",
+     "Uống Oresol hoặc nước cháo muối từng ngụm nhỏ, đều suốt ngày, kể cả khi sợ 'uống vào là chạy ra'; ăn lại cháo, cơm mềm sớm.",
+     "Quay lại ngay hoặc gọi con gái đưa đi khi: phân có máu hoặc nhầy, sốt cao, lú lẫn, ngất, nôn nhiều không uống được, ít hoặc không tiểu, đau bụng một chỗ bên phải hoặc tăng dần. (IDSA 2017 KC 3, 8)",
+     "Không dùng thuốc ngủ lúc này; tối nay tắt đèn sớm, nhờ cháu rể hoặc con gái trông bé giúp một đêm để bà ngủ liền.",
+     "Hẹn tái khám sau 2 ngày với con gái (mốc của ca); nếu đồng ý, lần sau thử máu xem thận. Ăn chín, bỏ thức ăn thừa qua đêm, rửa tay trước khi bế bé (QĐ 5642/2015 mục 6)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 ngày",
+   "tiep_don": "Bà Sáu tái khám đúng hẹn, con gái Hạnh đưa đến. Hai ngày trước bà uống Oresol tại phòng khám, hết choáng khi đứng, đi tiểu một lần rồi về; được dặn ngưng thuốc giảm đau khớp tự mua. Sinh hiệu: HA 120/74 mmHg, mạch 84 l/p, nhiệt 36,9 °C, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Giữ bà Sáu nằm viện truyền dịch sau hai ngày đỡ dần là quá tay: đi ngoài giảm từ 8 xuống 3–4 lần, hết sốt, uống được, tiểu 4–5 lần/ngày, huyết áp mạch nằm – đứng gần như không đổi nên không còn tiêu chuẩn mất nước (QĐ 5642/2015 mục 3.1, 5; IDSA 2017 KC 39, 41). Bà sợ kim, nằm viện lạ làm mất ngủ thêm, dễ lú lẫn ở tuổi 78, trong khi việc còn lại là thuốc giảm đau và giấc ngủ, xử trí được ngoại trú.",
+    "chuyen_tuyen": "Gửi bà Sáu lên tuyến trên nội soi hoặc cấy phân ngay hôm nay vì 'đi ngoài chưa hết' là chưa cần: mới ngày thứ 4, đang giảm dần; ACG 2016 KC 2 chỉ dùng xét nghiệm phân khi triệu chứng trên 7 ngày, lỵ hoặc bệnh vừa – nặng, và KC 12 không khuyến cáo nội soi khi triệu chứng 14–30 ngày mà cấy phân âm. Bà ở nhà cháu tạm, con gái phải bỏ tiệm đưa đi, tốn kém và bà càng ngại tái khám."
+   },
+   "loi_mo": "Bác sĩ ơi, bà đỡ nhiều rồi mà vẫn còn đi ngoài lỏng, người còn rã rời. Đêm nào cũng không ngủ được.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "120/74",
+    "nhiet": "36,9",
+    "nhip_tho": 16,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Hôm nay còn 3–4 lần/ngày, phân sệt đến lỏng, không máu, không nhầy. Hết ớn lạnh, hết sốt từ hôm kia; đau quặn thưa dần. Ăn được cháo, bánh mì nhưng chán ăn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần"
+    },
+    {
+     "id": "bu_dich",
+     "noi_dung": "Uống Oresol khoảng 3 gói mỗi ngày và nước cháo muối; tiểu 4–5 lần/ngày, nước tiểu vàng nhạt; đứng dậy còn hơi choáng vài giây rồi hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bù dịch, nước tiểu"
+    },
+    {
+     "id": "van_meloxicam",
+     "noi_dung": "Gối đau về đêm nên hai đêm qua vẫn uống 1 viên meloxicam trước khi ngủ, nghĩ 'một viên thôi, uống sau ăn tối thì không sao'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc đều không' bà chỉ nói về Oresol. Chỉ kể khi bác sĩ hỏi cụ thể còn uống thuốc giảm đau khớp, thuốc tự mua, thuốc cho gối không.",
+     "k": 1,
+     "y": "Vẫn dùng NSAID"
+    },
+    {
+     "id": "xin_thuoc_ngu",
+     "noi_dung": "Hai đêm qua chỉ ngủ khoảng 3–4 tiếng: gối đau, bé khóc, lo cho cháu. Bà nói: 'Bác sĩ cho bà vài viên thuốc ngủ, loại nào cũng được, bà mệt vì thiếu ngủ chứ không phải vì đi ngoài.' Không uống rượu, chưa từng dùng thuốc ngủ, không buồn chán, không có ý nghĩ tự hại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất ngủ, xin thuốc ngủ"
+    },
+    {
+     "id": "canh_bao",
+     "noi_dung": "Không nôn, không đau bụng một chỗ, không phân đen hay máu, không khó thở, không lú lẫn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dấu hiệu cảnh báo"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt. Môi lưỡi ẩm, nếp véo da trở lại bình thường. Không vàng da.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 122/74 mmHg, mạch 80 l/p; đứng 1 phút 114/70 mmHg, mạch 90 l/p, hơi choáng thoáng qua.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, nhu động ruột tăng nhẹ, ấn đau nhẹ quanh rốn, không đau khu trú, không phản ứng thành bụng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "que_nt": {
+     "v": "u",
+     "r": "Tỷ trọng 1,015 · ceton âm · không bạch cầu, nitrit, protein, glucose, hồng cầu.",
+     "n": "Nước tiểu hết cô đặc: mất nước đã được bù. Bà vẫn đồng ý thử nước tiểu.",
+     "bang": {
+      "u_sg": 1.015,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     }
+    },
+    "creat": {
+     "v": "u",
+     "r": "Bà vẫn không đồng ý lấy máu ('đỡ rồi, khỏi thử'). Điều dưỡng Linh đã ghi nhận từ chối lần hai vào hồ sơ; không có kết quả.",
+     "n": "Vì hai đêm qua bà còn dùng meloxicam lúc đang mất nước, xét nghiệm creatinin có giá trị (QĐ 361/2014 Phụ lục NSAID mục 3.3: theo dõi creatinin, điện giải). Giải thích lại một lần, không ép; lâm sàng và nước tiểu đủ để quyết định hôm nay."
+    },
+    "cay_phan": {
+     "v": "n",
+     "r": "Chưa chỉ định ở lượt này.",
+     "n": "Mới ngày thứ 4, đang giảm, không máu, không sốt. ACG 2016 KC 2: xét nghiệm phân khi trên 7 ngày hoặc lỵ/bệnh vừa – nặng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng đang hồi phục chậm bình thường (ngày thứ 4), mất nước đã bù; không thất bại điều trị. Mất ngủ do hoàn cảnh (chăm cháu, đau gối, đi ngoài đêm), còn dùng NSAID giấu",
+     "ok": 1,
+     "n": "Số lần đi ngoài giảm 8 → 3–4, hết sốt, tiểu đều, nước tiểu hết cô đặc, huyết áp mạch tư thế gần bình thường (QĐ 5642/2015 mục 5: bệnh cải thiện nhanh nếu bù dịch kịp thời). Không có dấu hiệu thất bại điều trị: sốt trở lại, máu, đau khu trú, không uống được."
+    },
+    {
+     "t": "Tiêu chảy kéo dài hoặc thất bại điều trị",
+     "n": "Mới ngày thứ 4. Tiêu chảy kéo dài tính từ 14 ngày (IDSA 2017 KC 36); xét nghiệm phân khi trên 7 ngày (ACG 2016 KC 2)."
+    },
+    {
+     "t": "Tổn thương thận cấp trước thận (mất nước cộng NSAID)",
+     "n": "Chưa có bằng chứng: tiểu nhiều lên, nước tiểu nhạt, huyết áp ổn, nhưng chưa loại trừ vì chưa có creatinin do bà từ chối (QĐ 5642/2015 mục 5)."
+    },
+    {
+     "t": "Mất ngủ không thực tổn mạn tính",
+     "n": "Mới vài đêm, có nguyên nhân thực tổn (đau gối, đi ngoài đêm, thay đổi chỗ ngủ). Chẩn đoán cần ≥ 3 lần/tuần trong ≥ 1 tháng và không có bệnh nội khoa hoặc thuốc (QĐ 2058/2020 Bài 27 mục 3.1.1, 3.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận định hồi phục chậm bình thường, chưa phải thất bại điều trị: nêu tiêu chí (số lần giảm, hết sốt, không máu, uống được, tiểu đều, huyết áp tư thế ổn) và tiêu chí chuyển sang nghĩ thất bại (sốt trở lại, phân máu, đau khu trú, không uống được, ít tiểu)",
+     "v": "c",
+     "n": "Bệnh cải thiện nhanh nếu điều trị kịp thời; biến chứng sốc, suy thận cấp nếu không (QĐ 5642/2015 mục 5). Chỉ dẫn xét nghiệm phân: sốt, máu, đau quặn nặng (IDSA 2017 KC 8) hoặc trên 7 ngày (ACG 2016 KC 2). Tiêu chí cụ thể là của ca."
+    },
+    {
+     "t": "Hỏi cụ thể còn thuốc giảm đau khớp tự mua không; phát hiện còn uống meloxicam, ngưng hẳn, đổi paracetamol; không trách, ghi nhận bà đã nói thật",
+     "v": "c",
+     "n": "Người cao tuổi, gầy yếu: tránh NSAID nếu có thể, acetaminophen dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3); Beers 2023 Bảng 2: tránh dùng NSAID kéo dài. Bà đã bù dịch được nhưng chưa có creatinin."
+    },
+    {
+     "t": "Tiếp tục Oresol hoặc nước cháo muối, bù thêm sau mỗi lần phân lỏng đến khi hết tiêu chảy; ăn dần cơm mềm",
+     "v": "c",
+     "n": "Bù lượng mất qua phân bằng ORS đến khi hết tiêu chảy (IDSA 2017 KC 43), ăn lại bình thường sớm (KC 45); đa số người lớn bù được bằng nước, súp, bánh mặn (ACG 2016 KC 5)."
+    },
+    {
+     "t": "Không kê thuốc ngủ; xử trí nguyên nhân mất ngủ: paracetamol buổi tối cho đau gối, chườm ấm, nhờ con cháu chia ca đêm, giờ ngủ đều, tránh trà cà phê buổi chiều; hẹn xem lại nếu còn mất ngủ khi con cháu ổn",
+     "v": "c",
+     "n": "Beers 2023 Bảng 2: tránh benzodiazepin, nhóm Z ở người ≥ 65 tuổi; ESRS 2023 mục 4.2.1: ngã, lú lẫn đêm, dung nạp; vệ sinh giấc ngủ (QĐ 2058/2020 Bài 27 mục 4.3). Mất ngủ ngắn ngày do bệnh nội khoa: tài liệu đã tải không có khuyến cáo riêng cho người ≥ 75 tuổi."
+    },
+    {
+     "t": "Không kê kháng sinh vì đã hết sốt, không phân máu nhầy, đang đỡ",
+     "v": "c",
+     "n": "IDSA 2017 KC 36; ACG 2016 KC 9, 10. QĐ 5642/2015 mục 4.2.1 nêu người già, sốt, phân nhầy máu, bạch cầu tăng là các trường hợp cân nhắc kháng sinh; hôm nay hết sốt, không nhầy máu, đang đỡ nên không có tiêu chí nào còn lại ngoài tuổi."
+    },
+    {
+     "t": "Không dùng thuốc cầm tiêu, hoặc loperamid ngắn ngày (4 mg rồi 2 mg sau mỗi lần phân lỏng, tối đa 8 mg/ngày, không quá 48 giờ) vì đã hết sốt, không máu, đã bù dịch",
+     "v": "c",
+     "n": "Hai cách đều đúng: QĐ 5642/2015 mục 4.2.3b không lạm dụng thuốc cầm tiêu chảy; ACG 2016 tr. 609–610 và IDSA 2017 KC 46, 47 cho phép ở người lớn tiêu chảy nước, không sốt, sau bù dịch. Con số thận trọng hơn: 8 mg/ngày. Dùng ở người ≥ 75 tuổi: không có trong tài liệu đã tải, nên thận trọng."
+    },
+    {
+     "t": "Dặn cờ đỏ quay lại ngay; hẹn tái khám sau 3 ngày hoặc sớm hơn; nếu còn tiêu chảy quá 7 ngày thì xét nghiệm phân; xin lại xét nghiệm creatinin nếu bà đồng ý",
+     "v": "c",
+     "n": "Tiêu chí quay lại như lượt 1 (IDSA 2017 KC 3, 8; QĐ 5642/2015 mục 3.1, 5). Mốc 7 ngày: ACG 2016 KC 2; kéo dài 14 ngày: tránh kháng sinh theo kinh nghiệm (IDSA 2017 KC 36). Mốc tái khám 3 ngày là lựa chọn của ca."
+    },
+    {
+     "t": "Kê thuốc ngủ (zolpidem, diazepam...) vì bà nói mệt do thiếu ngủ",
+     "v": "w",
+     "n": "Beers 2023 Bảng 2; ESRS 2023 mục 4.2.1: ngã, lú lẫn đêm. Nguyên nhân mất ngủ còn nguyên (đau gối, hoàn cảnh)."
+    },
+    {
+     "t": "Cho tiếp meloxicam hoặc đổi sang NSAID khác (diclofenac, ibuprofen) để gối hết đau, ngủ được",
+     "v": "w",
+     "n": "QĐ 361/2014 Phụ lục NSAID mục 3.3: người cao tuổi, gầy yếu thuộc nhóm nguy cơ cao, tránh NSAID nếu có thể, theo dõi creatinin – bà chưa có kết quả nào. Paracetamol thay được."
+    },
+    {
+     "t": "Kê ciprofloxacin vì 'đi ngoài chưa hết', bà đã 78 tuổi",
+     "v": "w",
+     "n": "Không còn sốt, không nhầy máu, đang đỡ: kháng sinh không rút ngắn bệnh cộng đồng (ACG 2016 KC 10); fluoroquinolon có nguy cơ nhiễm C. difficile, bệnh gân khớp (ACG 2016 tr. 610). Tuổi là điều kiện 'cân nhắc' của QĐ 5642/2015 mục 4.2.1, không phải chỉ định bắt buộc."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng ngày thứ 4, đáp ứng một phần, đang hồi phục chậm bình thường; mất nước đã bù",
+     "Còn dùng NSAID (meloxicam 1 viên mỗi đêm) tuy được dặn ngưng; nguy cơ thận chưa đánh giá được vì không có creatinin",
+     "Mất ngủ do hoàn cảnh: đau gối về đêm, chăm cháu sơ sinh, đi ngoài đêm; bà xin thuốc ngủ"
+    ],
+    "phan_tich_chan_doan": [
+     "Phân biệt hồi phục chậm bình thường với thất bại điều trị bằng xu hướng: số lần giảm 8 → 3–4, hết sốt, không máu, tỷ trọng nước tiểu 1,015, huyết áp mạch tư thế gần bình thường. Tiêu chí thất bại: sốt trở lại, phân máu, đau khu trú, không uống được (IDSA 2017 KC 3, 8).",
+     "Hỏi chung 'uống thuốc đều không' chỉ ra Oresol; hỏi cụ thể thuốc giảm đau khớp mới phát hiện meloxicam, chỗ hay bỏ sót ở người cao tuổi (QĐ 361/2014 Phụ lục NSAID mục 3.3). Mất ngủ có nguyên nhân thực tổn nên chưa thể chẩn đoán mất ngủ không thực tổn (QĐ 2058/2020 Bài 27 mục 3.1.1, 3.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch theo lượng mất đến khi hết tiêu chảy (IDSA 2017 KC 43); không kháng sinh vì đang đỡ, hết sốt, không nhầy máu (IDSA 2017 KC 36; ACG 2016 KC 9, 10).",
+     "Thuốc cầm tiêu: không dùng hoặc loperamid ngắn ngày đều đúng (QĐ 5642/2015 mục 4.2.3b; ACG 2016 tr. 609–610; IDSA 2017 KC 47); trần 8 mg/ngày thận trọng hơn.",
+     "Ngưng NSAID hẳn, thay paracetamol: gối đau về đêm là gốc của cả thói quen uống thuốc lẫn mất ngủ (QĐ 361/2014 Phụ lục NSAID mục 3.3). Không thuốc ngủ (Beers 2023 Bảng 2; ESRS 2023 mục 4.2.1). Hẹn 3 ngày, xin lại creatinin; tôn trọng nếu bà từ chối."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol (ORS giảm thẩm thấu)",
+      "ham_luong": "Gói pha theo nhãn",
+      "lieu": "Uống bù sau mỗi lần đi ngoài lỏng",
+      "duong": "Uống",
+      "thoi_diem": "Suốt ngày",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "IDSA 2017 KC 43. Thể tích người lớn không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 1 viên khi đau gối, buổi tối trước ngủ 1 viên; tối đa 3 viên (1,5 g)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn; 1 viên 30–60 phút trước ngủ nếu đau gối",
+      "so_ngay": "Khi đau, vài ngày đến khi tái khám",
+      "ghi_chu": "Thay NSAID. QĐ 361/2014 Phụ lục NSAID mục 3.3 (dưới 3 g/ngày) hoặc Phụ lục thuốc giảm đau mục 3.1 (không quá 4 g/ngày); ca chọn 1,5 g vì gầy. Thời điểm 30–60 phút trước ngủ là lựa chọn của ca."
+     }
+    ],
+    "dan_do": [
+     "Bỏ hẳn vỉ meloxicam, đưa cho con gái giữ hoặc hủy; chỉ dùng paracetamol theo đơn khi đau gối, chườm ấm buổi tối.",
+     "Tiếp tục Oresol sau mỗi lần đi ngoài, ăn cháo, cơm mềm; bỏ thức ăn thừa qua đêm, rửa tay trước khi bế bé.",
+     "Không dùng thuốc ngủ: nhờ con gái hoặc cháu rể trông bé một hai đêm, giờ đi ngủ đều, không uống trà buổi chiều.",
+     "Quay lại ngay khi: phân máu hoặc nhầy, sốt, ít tiểu, choáng ngất, nôn nhiều, đau bụng một chỗ bên phải (IDSA 2017 KC 3, 8). Tái khám sau 3 ngày; còn đi ngoài quá 7 ngày thì thử phân (ACG 2016 KC 2)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 3 ngày nữa",
+   "tiep_don": "Bà Sáu tái khám lần ba, tự bước vào cùng con gái Hạnh, đã hơn một tuần kể từ lúc bắt đầu đi ngoài. Sinh hiệu: HA 126/76 mmHg, mạch 76 l/p, nhiệt 36,6 °C, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Gửi bà Sáu đi nội soi đại tràng hoặc khám chuyên khoa tiêu hóa 'cho chắc' là quá tay: bà đã hết tiêu chảy hơn hai ngày, ăn uống bình thường, khám bụng bình thường. ACG 2016 KC 11, 12 không khuyến cáo xét nghiệm huyết thanh hay nội soi ngay cả khi tiêu chảy kéo dài 14–30 ngày mà cấy phân âm; bà chưa tới mức đó. Bà 78 tuổi, ngại thủ thuật, đã từ chối lấy máu hai lần, dễ bỏ cuộc và mất niềm tin.",
+    "nhap_vien": "Giữ bà Sáu lại nằm viện theo dõi thêm khi bà đã khỏi là không cần: không còn tiêu chuẩn mất nước, huyết áp mạch tư thế ổn, creatinin bình thường (QĐ 5642/2015 mục 3.1, 5). Con gái phải tiếp tục bỏ tiệm, bà càng xa chỗ ở quen thuộc và nhà cháu mới sinh, trong khi việc cần làm là dặn dò thuốc giảm đau, giấc ngủ và an toàn thực phẩm."
+   },
+   "loi_mo": "Bác sĩ ơi, bà hết đi ngoài rồi, ăn cơm được. Bà đến cho bác sĩ coi lần cuối, với lại con gái nói thử máu coi thận có sao không, bà thử cũng được.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "126/76",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "hoi_phuc",
+     "noi_dung": "Hai ngày nay mỗi sáng đi ngoài một lần, phân thành khuôn, không đau bụng, hết choáng, ăn cơm bình thường, tiểu đều.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Khỏi tiêu chảy"
+    },
+    {
+     "id": "ngu",
+     "noi_dung": "Mấy đêm nay ngủ được 5–6 tiếng nhờ hết đi ngoài, uống paracetamol tối và chườm ấm đầu gối, bé ngoan hơn. Không còn đòi thuốc ngủ nhưng 'có thì bà vẫn thích'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giấc ngủ"
+    },
+    {
+     "id": "meloxicam_con",
+     "noi_dung": "Còn nửa vỉ meloxicam ở nhà, bà định để dành uống khi gối 'ê ẩm' lại; cô bán thuốc từng bảo 'thuốc đó an toàn'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi thuốc giảm đau còn lại ở nhà hoặc bà định làm gì khi đau gối lại.",
+     "k": 1,
+     "y": "Nguy cơ dùng lại NSAID"
+    },
+    {
+     "id": "ban_hang",
+     "noi_dung": "Bà muốn mai về nhà mở tiệm lại. Tiệm bán cả bánh, trứng cút luộc nên bà hỏi có phải nghỉ thêm không.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nghề buôn bán nhỏ, quay lại làm việc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hồng hào hơn, môi ẩm, nếp véo da bình thường. Cân nặng 46 kg.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 126/76 mmHg, mạch 76 l/p; đứng 1 phút 124/76 mmHg, mạch 80 l/p, không choáng.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, nhu động bình thường, không sờ thấy khối.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Gối phải đau nhẹ khi gấp hết tầm, không nóng đỏ, không tràn dịch.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "a",
+     "r": "Ure 5,4 mmol/L · Creatinin 84 µmol/L · eGFR 61 mL/ph/1,73m²",
+     "n": "Bà đồng ý lấy máu hôm nay. Phù hợp tuổi, không có bằng chứng tổn thương thận sau mất nước và hai đêm dùng NSAID. Làm không sai nhưng không bắt buộc: không có trong tài liệu đã tải yêu cầu kiểm tra khi đã khỏi; hợp lý vì NSAID kèm mất nước (QĐ 361/2014 Phụ lục NSAID mục 3.3: theo dõi creatinin).",
+     "bang": {
+      "ure": 5.4,
+      "creat": 84,
+      "egfr": 61
+     }
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 140 · K 4,1 · Cl 103 mmol/L",
+     "n": "Bình thường. Điện giải đồ giúp tìm rối loạn điện giải sau tiêu chảy (QĐ 5642/2015 mục 3.3, 5); đã khỏi nên không bắt buộc.",
+     "bang": {
+      "na": 140,
+      "k": 4.1,
+      "cl": 103
+     }
+    },
+    "cay_phan": {
+     "v": "n",
+     "r": "Chưa chỉ định ở lượt này.",
+     "n": "Đã khỏi, không cần cấy phân (ACG 2016 KC 2, 11)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng đã khỏi (tác nhân không xác định); chức năng thận bình thường theo tuổi; đau gối do thoái hóa cần giảm đau không dùng NSAID; mất ngủ đã cải thiện khi nguyên nhân được xử trí",
+     "ok": 1,
+     "n": "Đi ngoài 1 lần/ngày phân thành khuôn, ăn uống, tiểu bình thường, huyết áp mạch tư thế ổn (QĐ 5642/2015 mục 5: bệnh cải thiện nhanh khi điều trị kịp thời). Creatinin 84 µmol/L, eGFR 61."
+    },
+    {
+     "t": "Tiêu chảy kéo dài hoặc bệnh đại tràng mạn tính, ung thư đại tràng",
+     "n": "Chẩn đoán phân biệt của tiêu chảy do vi khuẩn gồm viêm đại tràng mạn, ung thư đại tràng (QĐ 5642/2015 mục 3.5); bà khỏi trong một tuần, không máu, không sụt cân: chưa đặt ra. Tái khám nếu tái phát hoặc kéo dài (ACG 2016 KC 2, 11, 12)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi bằng tiêu chí (phân thành khuôn, ăn uống, tiểu bình thường, huyết áp tư thế ổn), ngưng Oresol; không cần cấy phân, nội soi hay xét nghiệm lặp",
+     "v": "c",
+     "n": "Bệnh cải thiện nhanh khi bù dịch kịp thời (QĐ 5642/2015 mục 5). Không có tài liệu đã tải yêu cầu kiểm tra khi đã khỏi; xét nghiệm phân/nội soi chỉ khi kéo dài (ACG 2016 KC 2, 11, 12). Tiêu chí cụ thể là của ca."
+    },
+    {
+     "t": "Đọc kết quả creatinin 84, eGFR 61 cho bà nghe để yên tâm; nói rõ dù thận ổn, bà gầy yếu và 78 tuổi nên vẫn tránh NSAID tự mua; hỏi và thu lại nửa vỉ meloxicam còn ở nhà",
+     "v": "c",
+     "n": "Người cao tuổi, gầy yếu thuộc nhóm nguy cơ cao: tránh NSAID nếu có thể, acetaminophen dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3); Beers 2023 Bảng 2: tránh NSAID dùng kéo dài. eGFR dưới 30 mới là ngưỡng tránh của Beers Bảng 6, nhưng QĐ 361/2014 nghiêm hơn: chọn bên thận trọng."
+    },
+    {
+     "t": "Giảm đau gối không NSAID: paracetamol khi cần (tối đa 3 viên 500 mg/ngày), chườm ấm; nếu đau nhiều hoặc không đáp ứng thì tái khám cơ xương khớp, không tự mua thuốc",
+     "v": "c",
+     "n": "QĐ 361/2014 Phụ lục NSAID mục 3.3 và Phụ lục thuốc giảm đau mục 3.1. Điều trị thoái hóa khớp gối chi tiết: không phải trọng tâm ca, không đọc thêm."
+    },
+    {
+     "t": "Giấc ngủ: tiếp tục giờ ngủ đều, không thuốc ngủ; nếu sau khi con cháu ổn vẫn mất ngủ ≥ 3 lần/tuần kéo dài ≥ 1 tháng thì quay lại khám đánh giá mất ngủ",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 3.1.1 (mốc 1 tháng), mục 4.3 (vệ sinh giấc ngủ); Beers 2023 Bảng 2; ESRS 2023 mục 4.2.1."
+    },
+    {
+     "t": "Về tiệm được khi đã hết tiêu chảy; rửa tay xà phòng trước khi xử lý đồ ăn và sau vệ sinh; bảo quản đồ ăn lạnh, hâm chín kỹ, bỏ thức ăn thừa qua đêm",
+     "v": "c",
+     "n": "Ăn chín, nước đun sôi, rửa tay trước ăn và sau vệ sinh (QĐ 5642/2015 mục 6; IDSA 2017 KC 52). Thời gian nghỉ bán đồ ăn sau tiêu chảy: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn tái khám khi: tiêu chảy tái phát, phân máu, sốt, kéo dài quá 7 ngày (thử phân) hoặc 14 ngày, sụt cân; không cần hẹn định kỳ",
+     "v": "c",
+     "n": "Xét nghiệm phân khi trên 7 ngày, tiêu chảy kéo dài 14–30 ngày cần cấy phân (ACG 2016 KC 2, Hình 1); tránh kháng sinh theo kinh nghiệm khi trên 14 ngày (IDSA 2017 KC 36)."
+    },
+    {
+     "t": "Cấy phân, nội soi đại tràng hoặc kháng sinh phòng tái phát cho yên tâm",
+     "v": "w",
+     "n": "Đã khỏi: ACG 2016 KC 12 không khuyến cáo nội soi khi triệu chứng 14–30 ngày và cấy âm; không dùng kháng sinh thường quy (ACG 2016 KC 9, 10; IDSA 2017 KC 36)."
+    },
+    {
+     "t": "Cho phép bà giữ meloxicam, uống khi đau gối vì thận ổn",
+     "v": "w",
+     "n": "Bà gầy yếu, 78 tuổi: nhóm nguy cơ cao, tránh NSAID nếu có thể (QĐ 361/2014 Phụ lục NSAID mục 3.3); Beers 2023 Bảng 2. Tự mua không có PPI hay theo dõi."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng đã khỏi sau khoảng một tuần, tác nhân không xác định",
+     "Chức năng thận bình thường theo tuổi sau mất nước và hai đêm dùng NSAID (creatinin 84 µmol/L, eGFR 61)",
+     "Thoái hóa khớp gối cần giảm đau không dùng NSAID; mất ngủ đã cải thiện"
+    ],
+    "phan_tich_chan_doan": [
+     "Xác nhận khỏi bằng tiêu chí lâm sàng chứ không bằng xét nghiệm lặp: phân thành khuôn 1 lần/ngày, hết choáng, huyết áp mạch tư thế ổn, ăn uống bình thường (QĐ 5642/2015 mục 5).",
+     "Bà tự đồng ý thử máu sau hai lần từ chối: việc tôn trọng quyết định của bà ở hai lượt trước giữ được lòng tin; kết quả bình thường làm bà yên tâm."
+    ],
+    "phan_tich_xu_tri": [
+     "Không cần xét nghiệm phân hay nội soi khi đã khỏi (ACG 2016 KC 2, 11, 12); hẹn lại chỉ khi tái phát, máu, sốt, kéo dài.",
+     "Giải quyết gốc: đau gối được giảm bằng paracetamol, thay vì NSAID tự mua (QĐ 361/2014 Phụ lục NSAID mục 3.3); cùng một giải pháp xử trí mất ngủ và đau.",
+     "Phòng bệnh trong gia đình có trẻ sơ sinh và nghề bán đồ ăn: rửa tay, bảo quản, hâm chín (QĐ 5642/2015 mục 6; IDSA 2017 KC 52)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 1 viên khi đau gối, tối đa 3 viên (1,5 g)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn; 1 viên trước ngủ nếu đau gối về đêm",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 361/2014 Phụ lục NSAID mục 3.3 (dưới 3 g/ngày) và Phụ lục thuốc giảm đau mục 3.1 (không quá 4 g/ngày); ca chọn 1,5 g vì gầy. Thời gian dùng dài ngày cho thoái hóa khớp: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Không dùng meloxicam hay thuốc giảm đau khớp tự mua nữa; đưa nửa vỉ còn lại cho con gái hủy. Đau gối: paracetamol, chườm ấm, đi lại nhẹ nhàng.",
+     "Về tiệm được từ mai nếu không đi ngoài lỏng; rửa tay xà phòng trước khi bán đồ ăn và sau vệ sinh; hâm chín kỹ, cất đồ ăn thừa tủ lạnh (QĐ 5642/2015 mục 6).",
+     "Giờ ngủ đều, không dùng thuốc ngủ; nếu thấy mất ngủ nhiều đêm trở lại kéo dài thì tới khám.",
+     "Quay lại khi: tiêu chảy tái phát, phân máu hoặc nhầy, sốt, đi ngoài quá 7 ngày (ACG 2016 KC 2), sụt cân, đau bụng bất thường."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai tuần sau, chị Hạnh gọi báo: bà Sáu không đi ngoài lại, đã mở tiệm trở lại và rửa tay mỗi lần xử lý đồ ăn. Nửa vỉ meloxicam được hủy; đau gối dùng paracetamol buổi tối và chườm ấm, bà ngủ 6 tiếng mỗi đêm. Tác nhân tiêu chảy không xác định vì bà không lấy phân. Nhờ bù dịch đường uống sớm có theo dõi, bỏ NSAID và không dùng thuốc ngủ, bà tránh được suy thận cấp, ngã và nhập viện.",
+ "nhieu": [
+  "Thuốc giảm đau khớp tự mua (meloxicam): vừa là yếu tố nguy cơ (mất nước ở người 78 tuổi gầy 45 kg dùng NSAID) vừa là chi tiết bà không tự kể ở lượt 2; phải hỏi cụ thể từng thuốc.",
+  "Sốt nhẹ, đau quặn quanh rốn ở người rất cao tuổi dễ gợi viêm ruột thừa; nhưng đau đỡ sau khi đi ngoài, không đau khu trú, bụng mềm (WSES 2020 tuyên bố 1.3; WSES 2025 khuyến cáo 3.4).",
+  "Từ chối lấy máu và phân: mất lưới an toàn thận và điện giải; bù bằng khám tư thế, que nước tiểu, hẹn lại sớm, dặn cờ đỏ rõ.",
+  "Lý do thật là xin thuốc ngủ: chỉ lộ khi hỏi về giấc ngủ; câu trả lời đúng là không kê thuốc ngủ mà xử trí nguyên nhân, nói với bà không mắng, không từ chối thẳng."
+ ],
+ "bai_hoc_bien": [
+  "Rất cao tuổi (≥ 75): mất nước nhanh và nguy hiểm hơn (ACG 2016 tr. 607; IDSA 2017 KC 5). Ghi chú áp dụng: IDSA 2017 và ACG 2016 chủ yếu dành cho người lớn khỏe và người đi du lịch, người ≥ 75 tuổi rất ít được nghiên cứu; bảng mất nước QĐ 5642/2015 mục 3.1 không điều chỉnh theo tuổi nên ca dùng thêm huyết áp mạch nằm – đứng và giữ theo dõi.",
+  "Từ chối xét nghiệm: giải thích, hỏi lại một lần, ghi hồ sơ, dùng phương án B (lâm sàng, que nước tiểu, hẹn lại), không ép; ở lượt 3 bà tự đồng ý.",
+  "Đỡ một phần ở lượt 2: phân biệt hồi phục chậm bình thường (số lần giảm, hết sốt, không máu, uống được) với thất bại (sốt trở lại, máu, đau khu trú); hỏi lại thuốc tự mua.",
+  "Yếu tố khởi phát 'sau sinh' ở bà ngoại: thức ăn hầm bồi bổ cho sản phụ để qua đêm là nguồn lây; hỏi người cùng ăn.",
+  "Xin thuốc ngủ ở người cao tuổi đang ốm: không kê benzodiazepin, nhóm Z (Beers 2023 Bảng 2); tìm nguyên nhân (đau gối, đi ngoài đêm, chăm cháu)."
+ ],
+ "diem_nho": [
+  "Mất nước độ 1 uống được: Oresol đầu tay (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 KC 39); bù lượng mất qua phân đến khi hết tiêu chảy (KC 43).",
+  "Tiêu chảy nước cấp: không kháng sinh thường quy (IDSA 2017 KC 36; ACG 2016 KC 9, 10); QĐ 5642/2015 mục 4.2.1 cân nhắc kháng sinh với người già, sốt: ghi cả hai.",
+  "Người cao tuổi, gầy yếu: tránh NSAID nếu có thể, acetaminophen dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3); NSAID tránh khi CrCl dưới 30 (Beers 2023 Bảng 6).",
+  "Không thuốc ngủ benzodiazepin hoặc nhóm Z cho người ≥ 65 tuổi (Beers 2023 Bảng 2); vệ sinh giấc ngủ (QĐ 2058/2020 Bài 27 mục 4.3).",
+  "Xét nghiệm phân khi sốt, máu, nhầy, đau quặn nặng (IDSA 2017 KC 8) hoặc trên 7 ngày (ACG 2016 KC 2); không nội soi khi 14–30 ngày và cấy âm (KC 12)."
+ ],
+ "nguon": [
+  "BYT QĐ 5642/2015 – TL-0038 – Bệnh tiêu chảy do vi khuẩn mục 3.1–3.5, 4.2.1, 4.2.2a, 4.2.3a–b, 5, 6; bài Bệnh lỵ trực khuẩn mục 3.1c",
+  "BYT QĐ 4178/2007 – TL-0176 – Bệnh tả mục II.1.a (Bảng 1), II.2",
+  "IDSA 2017 – TL-0230 – KC 3, 5, 8, 20, 36, 39, 41, 42, 43, 45, 46, 47, 49, 52",
+  "ACG 2016 – TL-0233 – KC 2, 5, 6, 9, 10, 11, 12; tr. 607, 609–610; Hình 1",
+  "WSES 2020 – TL-0263 – tuyên bố 1.3; WSES 2025 – TL-0053 – khuyến cáo 3.4",
+  "BYT QĐ 361/2014 – TL-0286 – Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1",
+  "AGS Beers 2023 – TL-0022 – Bảng 2 (benzodiazepin, nhóm Z, NSAID), Bảng 6",
+  "BYT QĐ 2058/2020 – TL-0443 – Bài 27 Mất ngủ không thực tổn, mục 3.1.1, 3.2, 4.1, 4.3",
+  "European Insomnia Guideline 2023 (ESRS) – TL-0464 – mục 4.2.1"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25: viết bản 1. Đã đọc TL-0038 mục 3–6 và bài Lỵ trực khuẩn; TL-0176 mục II; TL-0230 KC 3–52; TL-0233 KC 1–12; TL-0263 tuyên bố 1.2–1.3; TL-0053 khuyến cáo 3.4; TL-0286 Phụ lục NSAID, thuốc giảm đau; TL-0022 Bảng 2, 6; TL-0443 Bài 27; TL-0464 mục 4.2.1.",
+  "Không có trong tài liệu đã tải: thể tích Oresol người lớn; thời gian giữ theo dõi 3–4 giờ; mốc tái khám 2–3 ngày; liều smecta, loperamid và chỉnh liều ciprofloxacin ở người ≥ 75 tuổi; tác dụng NSAID cộng mất nước lên thận (chỉ có Beers Bảng 6 với CrCl dưới 30); NSAID gây tiêu chảy; mẫu hồ sơ từ chối xét nghiệm; thời gian nghỉ bán đồ ăn sau tiêu chảy; khuyến cáo mất ngủ cấp ở người ≥ 75 tuổi.",
+  "Mâu thuẫn đã có trong sổ, ca áp dụng: kháng sinh kinh nghiệm tiêu chảy nước (TH-0624), loperamid, dạng dịch bù (TH-0624), thuốc ngủ ở người ≥ 65 tuổi (TT-0161, HH-1388), bạch cầu trong phân (TH-0601), paracetamol tối đa ở người cao tuổi (TH-0295). Không có mâu thuẫn mới.",
+  "Thiết kế: 'sau sinh' diễn giải là bà ngoại ở nhà cháu chăm cháu mới sinh, ăn thức ăn thừa hầm cho sản phụ; khoa_cls để null, từ chối xét nghiệm thể hiện bằng r trong cls như NT-0098; không dùng ảnh hay âm thanh."
+ ]
+}
