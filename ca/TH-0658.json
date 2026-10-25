@@ -1,0 +1,755 @@
+{
+ "ma_ca": "TH-0658",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_tieu_chay_cap_nhiem_trung",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Tiêu chảy cấp nhiễm trùng",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lỵ trực trùng",
+   "Viêm ruột thừa"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau ăn thức ăn đường phố",
+  "thuoc_dang_dung": "Corticoid tự mua",
+  "ly_do_that_su_den_kham": "Muốn được truyền dịch",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu"
+ },
+ "benh_nhan": {
+  "ten": "Đỗ Minh Khôi",
+  "tuoi": 0.83,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 8.9,
+  "chieu_cao": 73,
+  "xung_ho": "Bé trai 10 tháng, chưa nói được, quấy khóc khi bị khám. Mẹ kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em', gọi bé là 'con' hoặc 'bé Khôi'.",
+  "tinh_cach": "Mẹ tên Lan, 29 tuổi, kế toán, thứ Hai phải chốt sổ cuối tháng. Nói nhanh, hay lo xa, hay tra mạng; tự trách vì cả nhà ăn bún vỉa hè tối thứ Sáu. Chồng đi công tác, nhắn tin hỏi liên tục.",
+  "kieu_nhieu": "Đòi truyền dịch: vừa vào đã nói 'bác sĩ truyền nước cho con em đi, cho uống là nó nôn hết', kể con hàng xóm 'truyền một chai là hết liền'. Bị từ chối mà không giải thích thì cau mày, nói 'em đọc trên mạng ai cũng cho truyền', dọa 'để em đưa con đi bệnh viện khác'. Được giải thích cụ thể (vì sao uống tốt hơn, mốc 4 giờ, khi nào sẽ truyền) và tự tay đút thì dịu lại nhưng vẫn hỏi 'chắc không bác sĩ?'. Khi bé xấu đi thì giận, nói 'em đã bảo truyền từ đầu', rồi quay sang trách mình.",
+  "nguoi_nha": "Mẹ bé, chị Lan, 29 tuổi, đi cùng. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ khóc quấy.",
+  "ten_nguoi_nha": "Mẹ bé (chị Lan)",
+  "ngoai_hinh": {
+   "da": "#f0c8a0",
+   "toc": "#2a1d16",
+   "kieuToc": "tre",
+   "ao": "#9ec9e8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e2b48a",
+    "toc": "#1c1411",
+    "kieuToc": "dai",
+    "ao": "#d98fa0",
+    "aoKieu": "blouse",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé đi ngoài lỏng, nôn từ tối qua, bú ít",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am"
+  ],
+  "loi_bao": "Tối thứ Bảy, kỹ thuật viên đã về: phòng khám không làm được xét nghiệm máu, phân, nước tiểu, khí máu và không siêu âm; mẫu gửi xe labo (nếu có) chỉ có kết quả sáng thứ Hai. Còn dùng được: ống nghe, nhiệt kế, cân, máy đo SpO₂, máy đo đường huyết mao mạch, tủ thuốc cấp cứu, kim luồn và dịch truyền (NaCl 0,9%, Ringer lactat), ORS."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Tối thứ Bảy 18 giờ 40, bé trai 10 tháng, 8,9 kg (Linh vừa cân), mẹ bế đến vì đi ngoài phân lỏng và nôn từ tối qua, bú ít. Nhiệt độ 37,8 °C, mạch 138 l/p, nhịp thở 40 l/p, SpO₂ 98%. Bé quấy khóc. Linh báo: ngoài giờ, kỹ thuật viên đã về, phòng khám không làm được xét nghiệm hay siêu âm. Mẹ vừa vào đã hỏi có truyền nước cho con được không.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "ve_hen": "Bé Khôi đã mất nước vừa: sụt khoảng 6% cân nặng (9,5 xuống 8,9 kg), mắt trũng, uống háo hức, nếp véo chậm, nôn 4 lần. Cho về với vài gói ORS là bỏ bước cốt lõi của Phác đồ B: ORS 75 ml/kg trong 4 giờ ngay tại cơ sở y tế, vừa theo dõi vừa dạy mẹ làm (QĐ 3312/2015, mục 4.1; WHO 2013, mục 5.2.2). Chiều nay mẹ đã cho uống một hơi cả bình rồi sợ vì bé nôn; tối thứ Bảy không còn phòng khám nào mở nên không ai thấy bé nặng lên trong đêm (QĐ 3312, mục 5.1).",
+    "nhap_vien": "Nhập viện ngay chưa cần: bé còn tỉnh, uống háo hức, chưa nôn mật, chưa có dấu sốc nên chưa thuộc tiêu chí nhập viện chắc chắn (QĐ 3312/2015, mục 5.1); mất nước vừa điều trị bằng ORS, truyền dành cho mất nước nặng hoặc thất bại ORS (mục 4.1). Bù đường ruột ít biến cố nặng, nằm viện ngắn hơn truyền (ESPGHAN/ESPID 2014, mục 8.3). Đi viện lúc 19 giờ tối thứ Bảy là thêm viện phí, ngày công và đường đi, trong khi 4 giờ ORS có theo dõi đủ để biết bé có đáp ứng không.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi khi mới mất nước vừa, còn uống được, chưa sốc, chưa thất bại ORS là quá tay (QĐ 3312/2015, mục 4.1, 5.1). Mẹ phải thuê xe lúc tối khuya, bé bị bế đi xa và chờ ở cấp cứu, trong khi phòng khám làm được ngay việc cần làm là 4 giờ ORS có theo dõi. Chuyển tuyến chỉ đặt ra nếu sau đó bé nặng lên hoặc không uống được (QĐ 3312, mục 4.1)."
+   },
+   "loi_mo": "Dạ chào bác sĩ. Con em đi ngoài lỏng với nôn từ tối qua tới giờ, bú không nổi. Bác sĩ truyền nước cho con giùm em, cho uống là nó nôn hết.",
+   "sinh_hieu": {
+    "mach": 138,
+    "ha": "Không đo",
+    "nhiet": "37,8",
+    "nhip_tho": 40,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé đi ngoài lỏng và nôn từ tối qua, bú ít. Mẹ muốn bác sĩ truyền nước cho con.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Tối thứ Sáu cả nhà ăn bún bò ở quán vỉa hè; bé ăn vài thìa bún nghiền và nước dùng. Khoảng 23 giờ bé nôn, sáng thứ Bảy bắt đầu đi ngoài lỏng. Sáng nay bố bé cũng đi ngoài lỏng 2 lần rồi hết; mẹ không sao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau ăn đường phố; người nhà cũng có triệu chứng nhẹ"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Từ sáng đến giờ đi ngoài khoảng 9 lần, phân lỏng như nước, vàng xanh, có bọt. Không máu, không nhầy, không giống nước vo gạo. Bé không rặn, không khóc từng cơn rồi tái đi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân: loại trừ lỵ, tả, lồng ruột"
+    },
+    {
+     "id": "non",
+     "noi_dung": "Nôn 4 lần từ tối qua: ra sữa và bột, không xanh vàng, không nôn vọt. Nôn xong vẫn đòi bú.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn: không nôn mật, không nôn vọt"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Từ sáng bé chỉ ướt tã 2 lần, nước tiểu vàng sậm. Khóc ít nước mắt. Bú ngắn rồi bỏ; đưa thìa nước thì vồ lấy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng nước tiểu; bú uống, khát"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Sờ thấy bé hơi nóng từ chiều nay, nhà không có nhiệt kế. Không ho, không chảy mủ tai, nước tiểu không hôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt nhẹ, không ổ nhiễm khuẩn ngoài ruột"
+    },
+    {
+     "id": "can_truoc",
+     "noi_dung": "Lần tiêm chủng 5 ngày trước bé cân 9,5 kg (sổ tiêm chủng).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cân nặng trước bệnh: tính % mất nước"
+    },
+    {
+     "id": "ors_nha",
+     "noi_dung": "Chiều nay mẹ pha 1 gói oresol theo hướng dẫn trên gói, đổ vào bình sữa cho bé uống một hơi khoảng 100 ml thì bé nôn. Mẹ sợ nên không cho nữa, cho bú mẹ thay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã thử ORS nhưng cho sai cách"
+    },
+    {
+     "id": "thuoc_corticoid",
+     "noi_dung": "Thứ Tư bé sổ mũi, khò khè nhẹ. Mẹ mua viên prednisolon 5 mg ở tiệm thuốc theo lời người bán, bẻ 1/4 viên cho bé uống ngày 2 lần, đủ 3 ngày (thứ Tư đến thứ Sáu) rồi ngưng. Mẹ ngại nói vì sợ bị trách cho trẻ nhỏ uống 'thuốc kích thích tố'. Vỉ thuốc còn trong túi mẹ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'bé uống thuốc gì chưa' thì mẹ nói 'dạ chưa, chỉ cho uống nước'. Chỉ kể khi bác sĩ hỏi cụ thể: gần đây bé có ho, sổ mũi, khò khè không; có tự mua thuốc ở tiệm không.",
+     "k": 1,
+     "y": "Thuốc đang dùng: corticoid tự mua"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Nhà dùng nước máy đun sôi pha sữa. Không đi xa, không nghe có dịch tả. Bé chưa uống vắc-xin rotavirus.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ: không nghĩ tả; chưa tiêm rotavirus"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ muốn bé được truyền dịch cho 'khỏi nhanh': thứ Hai chị phải chốt sổ cuối tháng, không nghỉ được. Con hàng xóm tiêu chảy tháng trước được truyền một chai là hôm sau hết. Đêm qua thấy con lả đi chị hoảng. Chồng nhắn tin dặn 'đòi bác sĩ truyền'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi nhẹ nhàng, không gạt đi: chị đang lo điều gì nhất, chị mong con được điều trị thế nào, tuần này chị có việc gì gấp không.",
+     "k": 1,
+     "y": "Lý do thật: muốn được truyền dịch"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 8,9 kg (trước bệnh 9,5 kg: giảm 0,6 kg, khoảng 6%). Bé quấy khóc, kích thích, ôm vào thì bớt, không li bì. Đưa thìa nước: giật lấy uống háo hức. Môi khô, khóc ít nước mắt.",
+     "k": 1,
+     "hien": "Cân 8,9 kg. Quấy khóc, kích thích, dỗ không nín. Đưa thìa nước thì uống háo hức."
+    },
+    "dau_mat_co": {
+     "a": "Mắt trũng nhẹ (mẹ nói mắt bé 'sâu hơn thường ngày'), thóp trước hơi lõm, môi khô. Cổ mềm.",
+     "k": 1,
+     "hien": "Mắt trũng nhẹ, thóp trước hơi lõm, môi khô."
+    },
+    "da": {
+     "a": "Nếp véo da ở bụng trở lại chậm (dưới 2 giây). Không ban, không chấm xuất huyết, không vàng da.",
+     "k": 1,
+     "hien": "Nếp véo da ở bụng: trở lại chậm."
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay bắt được, nhanh, rõ. Đầu chi hơi mát, mao mạch hồi sắc trong 2 giây. Chưa có dấu sốc.",
+     "k": 1,
+     "hien": "Mạch quay rõ, nhanh. Đầu chi hơi mát, mao mạch hồi sắc nhanh."
+    },
+    "tim": {
+     "a": "Tim nhanh đều 138 l/p, T1 T2 rõ, không âm thổi. Nhịp nhanh do mất nước và sốt nhẹ.",
+     "k": 0,
+     "hien": "Tim đều, tần số 138 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 40 l/p, thở êm, không co lõm lồng ngực. Rì rào phế nang rõ hai bên, không ran (đợt khò khè hôm thứ Tư đã hết).",
+     "k": 0,
+     "hien": "Nhịp thở 40 l/p, không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi lõm, không chướng, không co cứng, không đau khu trú hố chậu phải, không khối. Nhu động ruột tăng. Gan lách không to.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng. Sờ bụng bé không khóc thêm."
+    },
+    "truc_trang": {
+     "a": "Hăm đỏ quanh hậu môn, không nứt, không sa trực tràng. Găng sạch. Phân trong tã: lỏng như nước, vàng xanh, có bọt, không máu, không nhầy.",
+     "k": 1,
+     "hien": "Hăm đỏ quanh hậu môn. Găng sạch, không máu."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "n",
+     "r": "Glucose mao mạch 5,1 mmol/L.",
+     "n": "Bỏ được: WHO 2013 (mục 5.2.2, tr. 133) chỉ kiểm tra đường huyết hoặc điện giải ở trẻ vật vã kèm co giật; bé không co giật, vẫn bú và uống."
+    },
+    "soi_phan": {
+     "v": "n",
+     "n": "Bỏ được: soi và cấy phân không làm thường quy khi phân không máu (WHO 2013, mục 5.1, tr. 126; QĐ 3312/2015, mục 3.2; ESPGHAN/ESPID 2014, mục 7.1). Ngoài giờ cũng không làm được."
+    },
+    "abdus": {
+     "n": "Ngoài giờ, phòng khám không có siêu âm. Bụng mềm, không đau khu trú, không khối nên chưa có chỉ định; nếu có dấu ngoại khoa thì chuyển tuyến siêu âm, vì siêu âm là hình ảnh đầu tay ở trẻ em nghi viêm ruột thừa (WSES 2025, Recommendation 3.2)."
+    },
+    "ctm": {
+     "v": "n",
+     "n": "Bỏ được và ngoài giờ không làm được: công thức máu, CRP, điện giải chỉ khi nghi nhiễm khuẩn kèm theo hoặc mất nước nặng (QĐ 3312/2015, mục 3.2; ESPGHAN/ESPID 2014, mục 7.2, 7.4); bé mất nước vừa."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng (nghĩ do virus, rotavirus thường gặp nhất ở tuổi này; không loại được vi khuẩn sau ăn đường phố), ngày thứ 2, phân nước không máu; kèm mất nước vừa, sụt khoảng 6% cân nặng, ở nhũ nhi nam 10 tháng",
+     "ok": 1,
+     "n": "Đi ngoài ≥ 3 lần/24 giờ, phân nước, không máu, dưới 14 ngày (QĐ 3312/2015, mục 1). Có ≥ 2 dấu: vật vã kích thích, mắt trũng, khát uống háo hức, nếp véo chậm (mục 3.1c; WHO 2013, Bảng 12); sụt 5–10% cân là mất nước vừa và nhẹ (mục 3.1b). Rotavirus là tác nhân chính ở trẻ dưới 2 tuổi, 6–18 tháng cao nhất (mục 2.1). Không cần xác định tác nhân vì không đổi xử trí (ESPGHAN/ESPID 2014, mục 7)."
+    },
+    {
+     "t": "Mất nước nặng",
+     "n": "Chỉ có 1 dấu nhóm nặng (mắt trũng), chưa li bì, còn uống háo hức, nếp véo chưa quá 2 giây: không đủ 2 dấu (QĐ 3312/2015, mục 3.1c; WHO 2013, Bảng 12)."
+    },
+    {
+     "t": "Tả",
+     "n": "Không dịch tễ, phân có bọt chứ không phải nước vo gạo (TL-0176, QĐ 4178/2007, mục II.1a, II.1c); tả ở trẻ nhỏ có thể nhẹ như tiêu chảy thường (mục II.3e) nên dịch tễ là then chốt."
+    },
+    {
+     "t": "Lỵ trực trùng",
+     "n": "Không phân nhầy máu, không mót rặn, không đau quặn, sốt nhẹ 37,8 °C chứ không sốt cao 39–40 °C (QĐ 5642/2015, Bệnh lỵ trực khuẩn, mục 3.1b–c, 3.3a); phân không máu nên không kháng sinh (WHO 2024, khuyến cáo 1a, 2)."
+    },
+    {
+     "t": "Viêm ruột thừa, lồng ruột",
+     "n": "Bụng mềm, không đề kháng, không đau khu trú, không khối, không nôn mật, không cơn khóc từng cơn kèm tái nhợt (WHO 2013, Bảng 11, tr. 127). Hiếm ở nhũ nhi nhưng bệnh ngoại khoa có thể biểu hiện bằng tiêu chảy (QĐ 3312/2015, mục 2.1); không có siêu âm nên theo dõi và dặn quay lại (WSES 2025, Recommendation 3.2)."
+    },
+    {
+     "t": "Tiêu chảy do thuốc (corticoid mẹ tự mua)",
+     "n": "Tiêu chảy bắt đầu sau khi ngưng prednisolon, bố cũng bị. QĐ 3312/2015 (mục 2.1) nêu tiêu chảy do kháng sinh, nhuận tràng, không nêu corticoid; ảnh hưởng của corticoid ngắn ngày ở nhũ nhi: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Bù dịch Phác đồ B ngay tại phòng khám: ORS áp lực thẩm thấu thấp 75 ml/kg trong 4 giờ, khoảng 670 ml (8,9 kg × 75), từng thìa nhỏ mỗi 1–2 phút, mẹ ngồi cạnh được dạy làm; nôn thì ngừng 10 phút rồi cho chậm hơn; không làm xét nghiệm tối nay, quyết định bằng cân, dấu mất nước và đáp ứng ORS",
+     "v": "c",
+     "n": "75 ml/kg trong 4 giờ (QĐ 3312/2015, mục 4.1; WHO 2013, Chart 14, tr. 135: 4 đến 12 tháng, 6 đến dưới 10 kg: 400–700 ml). ORS áp lực thẩm thấu thấp là đầu tiên (WHO 2024, khuyến cáo 5); QĐ 4068 mục 1.2 chấp nhận oresol thường. Phần lớn trẻ tiêu chảy cấp không cần xét nghiệm (QĐ 3312/2015, mục 3.2)."
+    },
+    {
+     "t": "Trong 4 giờ bù dịch chỉ cho bú mẹ, chưa cho sữa công thức và ăn dặm",
+     "v": "c",
+     "n": "Trong 4 giờ đầu không cho ăn gì ngoài sữa mẹ (WHO 2013, mục 5.2.2, tr. 134)."
+    },
+    {
+     "t": "Cân lại và đánh giá lại mất nước sau 4 giờ, sớm hơn nếu bé không uống hoặc nặng lên, rồi chọn Phác đồ A, B hay C",
+     "v": "c",
+     "n": "Hết mất nước chuyển A, còn thì tiếp B, nặng lên thì C (QĐ 3312/2015, mục 4.1); đánh giá lại trước 4 giờ nếu không uống ORS hoặc nặng hơn (WHO 2013, tr. 133)."
+    },
+    {
+     "t": "Trả lời mẹ đòi truyền: ORS từng thìa là cách bù nước chính và an toàn hơn; truyền chỉ khi mất nước nặng hoặc ORS thất bại; hẹn mốc cụ thể sau 4 giờ hoặc ngay khi bé xấu đi sẽ truyền hoặc chuyển viện; mời mẹ tự đút để thấy bé uống được",
+     "v": "c",
+     "n": "ORS là điều trị đầu tay, hiệu quả tương đương truyền kể cả khi mất nước nặng (ESPGHAN/ESPID 2014, mục 8.4), bù đường ruột ít biến cố nặng hơn, nằm viện ngắn hơn (mục 8.3). Truyền khi mất nước nặng hoặc thất bại ORS (QĐ 3312/2015, mục 4.1, 5.1). Câu nói với mẹ là giao tiếp."
+    },
+    {
+     "t": "Kê kẽm đường uống, bắt đầu khi bé hết nôn: 5 mg/ngày hoặc 20 mg/ngày (bé 10 tháng), 1 lần/ngày, 10–14 ngày",
+     "v": "c",
+     "n": "5 mg/ngày (WHO 2024, khuyến cáo 3a, 3c) hoặc 20 mg/ngày cho trẻ từ 6 tháng (QĐ 3312/2015, mục 4.3; WHO 2013, tr. 136). Khác nhau vì WHO 2024 mới hơn, thấy 20 mg nôn nhiều hơn (RR 2,20) mà hiệu quả không kém; 5 mg thận trọng hơn khi bé nôn. Bắt đầu khi hết nôn (WHO 2013, tr. 130). Chế phẩm ở Việt Nam không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không dùng kháng sinh",
+     "v": "c",
+     "n": "Tiêu chảy phân nước không dùng kháng sinh (WHO 2024, khuyến cáo 1a; QĐ 3312/2015, mục 4.2)."
+    },
+    {
+     "t": "Hỏi thuốc đã cho kể cả tự mua, xem vỉ thuốc, bảo mẹ không cho prednisolon nữa; không dùng thuốc cầm nôn, cầm tiêu thường quy",
+     "v": "c",
+     "n": "Hỏi thuốc đã dùng là một phần hỏi bệnh (QĐ 3312/2015, mục 3.1a); không cầm nôn, cầm đi ngoài (mục 4.5). Corticoid không có chỉ định trong tiêu chảy cấp ở tài liệu đã tải; tác động của đợt 3 ngày đã ngưng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nếu sau 4 giờ hết mất nước: Phác đồ A (ORS 50–100 ml sau mỗi lần đi ngoài, khoảng 500 ml/ngày), mang về 2 gói ORS, dặn dấu hiệu quay lại ngay (không bú hoặc uống được, nôn tất cả, đi ngoài nhiều hơn, khát nhiều, sốt, phân nhầy máu, li bì)",
+     "v": "c",
+     "n": "Dưới 24 tháng: 50–100 ml sau mỗi lần đi ngoài, 500 ml/ngày (QĐ 3312/2015, mục 4.1); 2 gói ORS về nhà (WHO 2013, Chart 15, tr. 138); tái khám ngay khi có dấu hiệu nặng (QĐ 3312, mục 5.1, 5.2)."
+    },
+    {
+     "t": "Truyền tĩnh mạch ngay lúc này",
+     "v": "a",
+     "n": "Không bắt buộc: bé còn uống háo hức, chưa thất bại ORS (QĐ 3312/2015, mục 4.1; WHO 2013, mục 5.2.2). QĐ 4068 (mục 1.2) chấp nhận truyền khi mất nước kèm nôn khiến uống không đủ, điều chưa chứng minh được vì mẹ mới cho uống sai cách."
+    },
+    {
+     "t": "Men vi sinh, diosmectit hoặc racecadotril kèm bù dịch",
+     "v": "a",
+     "n": "Không bắt buộc. WHO 2024 (khuyến cáo 4a) đề nghị không dùng probiotic; QĐ 3312/2015 (mục 4.5), ESPGHAN 2023, ESPGHAN/ESPID 2014 (mục 9.3.3) cho dùng chọn lọc; QĐ 4068 (ô [7B]): không phối hợp diosmectit với racecadotril."
+    },
+    {
+     "t": "Loperamid hoặc thuốc cầm đi ngoài",
+     "v": "w",
+     "n": "Không nên cho trẻ nhỏ: không ngăn mất nước, có thể gây tác dụng phụ nguy hiểm, có khi tử vong (WHO 2013, tr. 125–126; QĐ 3312/2015, mục 4.5; ESPGHAN/ESPID 2014, mục 9.3.2)."
+    },
+    {
+     "t": "Cho kháng sinh 'phòng nhiễm trùng' vì ăn đường phố",
+     "v": "w",
+     "n": "Phân nước không máu, không nghi tả: không kháng sinh (WHO 2024, khuyến cáo 1a; QĐ 3312/2015, mục 4.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng, nghĩ do virus (rotavirus), ngày thứ 2, phân nước không máu, sau ăn thức ăn đường phố",
+     "Mất nước vừa (có mất nước): sụt khoảng 6% cân nặng (9,5 xuống 8,9 kg), mắt trũng, quấy khóc, uống háo hức, nếp véo da chậm, tiểu ít",
+     "Chưa mất nước nặng, chưa sốc, còn uống được; chưa có tiêu chí nhập viện",
+     "Đã loại trừ: tả, lỵ trực trùng, viêm ruột thừa (và lồng ruột)",
+     "Yếu tố liên quan: ăn bún vỉa hè; mẹ cho ORS sai cách; tự cho prednisolon 3 ngày (ngưng chiều thứ Sáu)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh bằng câu hỏi chức năng (đếm tã phân và tã ướt, bú uống, thuốc đã cho kể cả tự mua, cân nặng trước bệnh, ai cùng ăn bị gì); khám cân, mắt, thóp, môi, nếp véo da, mạch, bụng, hậu môn; cận lâm sàng chỉ khi cần; phân loại mất nước; chọn phác đồ (QĐ 3312/2015, mục 3.1a–c).",
+     "Phân loại (QĐ 3312 mục 3.1c; WHO 2013, Bảng 12): bé có cả bốn dấu nhóm 'có mất nước' (vật vã, mắt trũng, khát háo hức, nếp véo chậm), chỉ có mắt trũng ở nhóm nặng: mất nước vừa; sụt 5–10% cân cũng khớp (mục 3.1b).",
+     "Nhiễm trùng, nghĩ virus: rotavirus là tác nhân chính ở trẻ dưới 2 tuổi (QĐ 3312, mục 2.1). Bố cũng bị nhẹ sau cùng bữa ăn gợi nguồn thức ăn chung, nhưng phân nước không máu thì virus hay vi khuẩn cũng không đổi xử trí: không cấy, không kháng sinh (ESPGHAN/ESPID 2014, mục 7; WHO 2024, khuyến cáo 1a).",
+     "Loại trừ tả: không dịch tễ, phân không như nước vo gạo (TL-0176, QĐ 4178/2007, mục II.1a, II.1c). Loại trừ lỵ: không phân nhầy máu, không mót rặn (QĐ 5642/2015, Bệnh lỵ trực khuẩn, mục 3.1b–c). Loại trừ viêm ruột thừa, lồng ruột: bụng mềm, không khối, không cơn khóc từng cơn tái nhợt (WHO 2013, Bảng 11); không có siêu âm nên theo dõi lâm sàng (WSES 2025, Recommendation 3.2).",
+     "Bẫy nhỏ: mẹ không kể prednisolon nếu hỏi chung chung; lý do thật là muốn truyền cho nhanh khỏi. Hỏi cụ thể về ho, sổ mũi, thuốc tiệm mới lộ thuốc; hỏi nhẹ nhàng mẹ lo gì mới lộ lý do thật."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch là điều trị chính: Phác đồ B, ORS áp lực thẩm thấu thấp 75 ml/kg trong 4 giờ (khoảng 670 ml), từng thìa nhỏ; nôn thì nghỉ 10 phút rồi cho chậm hơn (QĐ 3312 mục 4.1; WHO 2013, Chart 14; WHO 2024, khuyến cáo 5). Cách mẹ cho ở nhà (một hơi cả bình) làm bé nôn.",
+     "Trả lời đòi truyền bằng lợi hại cụ thể: ORS tương đương truyền, ít biến cố nặng hơn, nằm viện ngắn hơn (ESPGHAN/ESPID 2014, mục 8.3, 8.4); truyền phải đặt kim, chọn sai dịch (glucose 5%) nguy cơ hạ natri máu (WHO 2013, mục 5.2.1, tr. 129); chỉ truyền khi mất nước nặng hoặc ORS thất bại (QĐ 3312, mục 4.1, 5.1). Câu thay thế: 'Chị cho con uống từng thìa ngay trước mặt tôi là cách chữa chính, hiệu quả ngang truyền mà nhẹ nhàng hơn. Tôi hẹn mốc 4 giờ: nếu con không uống được hoặc nặng hơn, tôi truyền hoặc chuyển viện ngay.'",
+     "Kẽm 5 mg/ngày (WHO 2024) hoặc 20 mg/ngày (QĐ 3312, WHO 2013), 10–14 ngày, bắt đầu khi hết nôn; 5 mg thận trọng hơn khi bé đang nôn (WHO 2013, tr. 130, 136). Không kháng sinh (WHO 2024, khuyến cáo 1a; QĐ 3312, mục 4.2); không cầm nôn, cầm tiêu (mục 4.5); không xét nghiệm (mục 3.2).",
+     "Sau 4 giờ: hết mất nước thì Phác đồ A; còn thì lặp B; nặng lên thì Phác đồ C và nhập viện (QĐ 3312, mục 4.1, 5.1). Hẹn tái khám 1–2 ngày (QĐ 4068, ô [8]; không ghi năm) hoặc sau 5 ngày nếu không đỡ (WHO 2013, Bảng 12): hai mốc từ hai bối cảnh."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol áp lực thẩm thấu thấp (ORS)",
+      "ham_luong": "Gói bột pha theo hướng dẫn nhà sản xuất",
+      "lieu": "Tại phòng khám: 75 ml/kg × 8,9 kg ≈ 670 ml trong 4 giờ. Nếu hết mất nước: 50–100 ml sau mỗi lần đi ngoài (khoảng 500 ml/ngày)",
+      "duong": "Uống từng thìa nhỏ, 1–2 phút một thìa",
+      "thoi_diem": "Ngay lúc khám; nôn thì nghỉ 10 phút rồi cho chậm",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 3312/2015, mục 4.1 (Phác đồ B, A); WHO 2013, Chart 14, 15 (cho 2 gói về nhà); WHO 2024, khuyến cáo 5. Thời gian giữ dung dịch đã pha không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kẽm đường uống (kẽm gluconat)",
+      "ham_luong": "Theo chế phẩm; quy ra kẽm nguyên tố",
+      "lieu": "5 mg × 1 lần/ngày (WHO 2024) hoặc 20 mg × 1 lần/ngày (QĐ 3312, WHO 2013)",
+      "duong": "Uống, hòa vào ít nước, sữa vắt hoặc ORS",
+      "thoi_diem": "Mỗi ngày một lần, cùng giờ, bắt đầu khi bé hết nôn",
+      "so_ngay": "10–14 ngày, uống đủ dù đã hết tiêu chảy",
+      "ghi_chu": "WHO 2024, khuyến cáo 3a, 3c, Remarks; QĐ 3312/2015, mục 4.3; WHO 2013, tr. 130, 136. 5 mg thận trọng hơn khi bé còn nôn. Chế phẩm cụ thể ở Việt Nam không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Cho bé uống ORS từng thìa nhỏ, ở lại phòng khám 4 giờ, mẹ tự đút dưới sự quan sát; không đổ cả bình cho uống một hơi (QĐ 3312/2015, mục 4.1).",
+     "Cho bú mẹ theo nhu cầu, không nhịn bú; sữa công thức pha đúng, không pha loãng; ăn dặm lại sau khi bù nước xong 4–6 giờ (QĐ 3312, mục 4.4).",
+     "Quay lại ngay nếu không bú hoặc không uống được, nôn tất cả, đi ngoài nhiều hơn, khát nhiều, li bì, sốt cao, phân nhầy máu (QĐ 3312, mục 5.1, 5.2). Tối thứ Bảy: ghi số điện thoại trực và nơi cấp cứu gần nhất.",
+     "Nói với mẹ: bé mất nước vừa, cách chữa chính là ORS đúng cách và bác sĩ theo dõi sát; nếu không đáp ứng sẽ truyền hoặc chuyển viện ngay, không chờ đến sáng."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 giờ 40 phút ORS",
+   "tiep_don": "Tối thứ Bảy 22 giờ 30. Linh gọi bác sĩ: bé Khôi đã ở lại phòng khám 3 giờ 40 phút theo Phác đồ B nhưng không đỡ, nôn thêm, đi ngoài nhiều, lịm dần, thở nhanh. Cân 8,7 kg (lúc vào 8,9 kg). Nhiệt độ 37,6 °C, mạch 158 l/p, nhịp thở 50 l/p, SpO₂ 97%. Mẹ nói to: 'em đã bảo truyền mà'. Ngoài giờ, kỹ thuật viên vẫn chưa có.",
+   "ket_luan": "cap_cuu",
+   "neu_sai": {
+    "ve_hen": "Bé Khôi đã mất nước nặng và thất bại bù dịch đường uống: li bì, mắt trũng sâu, uống kém, nếp véo rất chậm (QĐ 3312/2015, mục 3.1c, 5.1). Cho về là bỏ bé giữa lúc sát ngưỡng sốc, ở nhà không ai đặt được đường truyền, tối thứ Bảy không còn phòng khám nào mở. Mất nước nặng không được bù dẫn tới suy thận cấp, rối loạn điện giải, toan chuyển hóa (mục 3.1d); bé có thể co giật hoặc sốc ngay trong đêm.",
+    "theo_doi": "Cho bé uống ORS thêm 4 giờ theo Phác đồ B là hạ bậc quá thấp: bé có ≥ 2 dấu mất nước nặng nên phải bù tĩnh mạch ngay (WHO 2013, Bảng 12, Chart 13; QĐ 3312/2015, mục 4.1 Phác đồ C; ESPGHAN/ESPID 2014, mục 8.4). Mỗi giờ chờ thêm là thêm phân nước mất đi, mạch quay vốn đã nhẹ có thể không còn bắt được.",
+    "nhap_vien": "Nhập viện thường, đi bằng xe nhà khi chưa có đường truyền và không có người theo dõi là chưa đủ: bé sát ngưỡng sốc, cần bù dịch từ phút này (WHO 2013, mục 1.1, tr. 2: mất nước nặng ở trẻ tiêu chảy là dấu hiệu cấp cứu; Chart 13: truyền ngay, đánh giá lại mỗi 15–30 phút). Nếu bé xấu đi giữa đường thì mẹ không thể xử trí."
+   },
+   "loi_mo": "Bác sĩ ơi con em nôn nữa rồi, đi ngoài thêm mấy lần, nó lả đi không chịu bú. Em đã nói truyền nước từ đầu rồi mà... bây giờ sao hả bác sĩ?",
+   "sinh_hieu": {
+    "mach": 158,
+    "ha": "Không đo",
+    "nhiet": "37,6",
+    "nhip_tho": 50,
+    "spo2": 97,
+    "canh_bao": [
+     "Li bì",
+     "Mạch 158 l/p",
+     "Nhịp thở 50 l/p"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé không đỡ sau gần 4 giờ ORS: nôn thêm, đi ngoài nhiều, lịm dần, không chịu bú.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: thất bại điều trị"
+    },
+    {
+     "id": "ors_da_uong",
+     "noi_dung": "Theo sổ của Linh: trong 3 giờ 40 phút bé uống được khoảng 330 ml ORS trên 670 ml cần, từng thìa mỗi 1–2 phút, mẹ đút đúng cách. Nôn 3 lần (lúc 20 phút, 1 giờ 10 và 2 giờ 30), mỗi lần nghỉ 10 phút rồi cho chậm lại. Hai giờ cuối bé ngậm thìa rồi nhả, uống kém dần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng ORS uống được và nôn: thất bại bù dịch đường uống"
+    },
+    {
+     "id": "phan_tieu",
+     "noi_dung": "Cùng thời gian đó bé đi ngoài 6 lần, mỗi lần phân nước ướt cả tã (Linh cân tã tổng khoảng 450 g), không máu, không nhầy. Chưa tiểu lần nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng phân mất lớn hơn lượng uống vào; vô niệu"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Linh pha ORS đúng gói. Mẹ không cho bé uống thêm thứ gì, không sữa công thức, không thuốc nào khác từ lúc vào. Vỉ prednisolon mẹ đã đưa Linh chụp ảnh, thuốc ngưng từ chiều thứ Sáu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ không tuân thủ và sai thuốc"
+    },
+    {
+     "id": "non_bung",
+     "noi_dung": "Nôn ra nước và sữa, không xanh vàng, không nôn vọt. Bé không khóc từng cơn, bụng không chướng thêm, phân không máu. Không co giật, không rùng mình; mẹ thấy thóp lõm hơn lúc nãy. Bé lịm đi dần chứ không lên cơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không gợi bệnh ngoại khoa hay viêm màng não"
+    },
+    {
+     "id": "cam_xuc",
+     "noi_dung": "Mẹ giận và sợ, nhắc 'em nói truyền từ đầu'. Nếu bác sĩ nói theo dõi 4 giờ là cách làm đúng và mẹ không có lỗi, mẹ dịu lại và hợp tác.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Cảm xúc của mẹ; chống outcome bias"
+    },
+    {
+     "id": "ly_do_that_2",
+     "noi_dung": "Chồng đang trên đường từ tỉnh khác về; mẹ lo mất việc thứ Hai nếu bé nằm viện nhưng sẵn sàng đi nếu bác sĩ bảo cần.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chị có điều gì khiến chị ngại đưa con đi viện, hoặc ai sẽ đi cùng.",
+     "k": 0,
+     "y": "Rào cản đi viện"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 8,7 kg (lúc vào 8,9 kg, trước bệnh 9,5 kg). Bé li bì, gọi và lay mới mở mắt rồi lại lịm, khóc yếu, ít nước mắt. Đưa thìa nước: ngậm lười, uống rất kém. Môi khô nứt.",
+     "k": 1,
+     "hien": "Cân 8,7 kg. Li bì, gọi mới mở mắt. Đưa thìa nước thì ngậm lười, uống kém."
+    },
+    "dau_mat_co": {
+     "a": "Mắt trũng sâu rõ, thóp trước lõm rõ, không phồng. Cổ mềm, không cứng gáy, không hạch.",
+     "k": 1,
+     "hien": "Mắt trũng sâu, thóp lõm rõ. Cổ mềm."
+    },
+    "da": {
+     "a": "Nếp véo da ở bụng trở lại rất chậm (khoảng 3 giây). Da khô, không ban, không chấm xuất huyết, không nổi vân tím.",
+     "k": 1,
+     "hien": "Nếp véo da ở bụng: trở lại rất chậm."
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay nhanh, nhẹ nhưng còn bắt được. Đầu chi mát. Mao mạch hồi sắc khoảng 3 giây (chưa dài hơn 3 giây). Chưa đủ dấu sốc nhưng sát ngưỡng.",
+     "k": 1,
+     "hien": "Mạch quay nhanh, nhẹ, còn bắt được. Đầu chi mát. Mao mạch hồi sắc khoảng 3 giây."
+    },
+    "tim": {
+     "a": "Tim nhanh đều 158 l/p, T1 T2 rõ, không âm thổi. Nhịp nhanh do mất nước nặng.",
+     "k": 0,
+     "hien": "Tim đều, tần số 158 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 50 l/p, thở nhanh và sâu, không co lõm lồng ngực. Rì rào phế nang rõ hai bên, không ran. Thở nhanh sâu gợi toan chuyển hóa (QĐ 3312/2015, mục 3.1b).",
+     "k": 0,
+     "hien": "Nhịp thở 50 l/p, thở nhanh và sâu, không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi chướng nhẹ, không co cứng, không đề kháng, không đau khu trú, không khối. Nhu động ruột còn nghe được.",
+     "k": 1,
+     "hien": "Bụng mềm, hơi chướng nhẹ. Sờ bụng bé không khóc thêm."
+    },
+    "than_kinh": {
+     "a": "Li bì nhưng tỉnh khi kích thích, khóc yếu, trương lực cơ giảm nhẹ, không co giật, không cứng gáy, thóp không phồng.",
+     "k": 1,
+     "hien": "Li bì, tỉnh khi kích thích. Không co giật, thóp không phồng, cổ mềm."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "Glucose mao mạch 4,6 mmol/L (không hạ đường huyết).",
+     "n": "Cần làm ngay vì bé li bì, làm được ngoài giờ: hạ đường huyết khi < 2,5 mmol/L, xử trí glucose 10% 5 ml/kg tiêm tĩnh mạch (WHO 2013, Chart 10, tr. 16); QĐ 4068 ô [6]: đường huyết nhanh khi rối loạn tri giác hoặc co giật."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 133 · K 3,1 · Cl 104 mmol/L",
+     "bang": {
+      "na": 133,
+      "k": 3.1,
+      "cl": 104
+     },
+     "n": "Có chỉ định nhưng phòng khám không làm được tối thứ Bảy: điện giải đồ khi mất nước nặng (QĐ 3312/2015, mục 3.2), ở mọi trẻ bắt đầu truyền (ESPGHAN/ESPID 2014, mục 7.4). Không chờ kết quả."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 9,6 mmol/L · Creatinin 52 µmol/L",
+     "bang": {
+      "ure": 9.6,
+      "creat": 52
+     },
+     "n": "Làm ở bệnh viện: suy thận cấp là biến chứng của mất nước nặng (QĐ 3312/2015, mục 3.1d). Khoảng tham chiếu nhũ nhi không có trong tài liệu đã tải."
+    },
+    "abg": {
+     "v": "u",
+     "r": "pH 7,18 · pCO₂ 25 mmHg · HCO₃⁻ 9 mmol/L · BE −17",
+     "bang": {
+      "fio2": 21,
+      "ph": 7.18,
+      "paco2": 25,
+      "pao2": 92,
+      "hco3": 9,
+      "be": -17,
+      "sao2": 97
+     },
+     "n": "Thở nhanh sâu nên cần khí máu (QĐ 4068, ô [6]); toan chuyển hóa khi pH < 7,2, HCO₃⁻ < 15 mmol/L (QĐ 3312/2015, mục 3.1d). Làm ở bệnh viện."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 12,6 G/L · Neutrophil 45% · Lymphocyte 46% · Hb 132 g/L · CRP 14 mg/L",
+     "n": "Công thức máu, CRP khi mất nước nặng (QĐ 3312/2015, mục 3.2); làm ở bệnh viện, không chờ."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng (nghĩ do virus), ngày thứ 2, phân nước không máu; mất nước nặng do thất bại bù dịch đường uống (Phác đồ B 3 giờ 40 phút), nghi toan chuyển hóa, chưa sốc nhưng sát ngưỡng, ở nhũ nhi nam 10 tháng",
+     "ok": 1,
+     "n": "≥ 2 dấu mất nước nặng: li bì, mắt trũng, uống kém, nếp véo rất chậm (QĐ 3312/2015, mục 3.1c; WHO 2013, Bảng 12). Thất bại bù dịch uống, li bì là tiêu chí nhập viện (mục 5.1). Cân sụt tiếp 8,9 xuống 8,7 kg dù đã uống khoảng 330 ml: mất lớn hơn nhập."
+    },
+    {
+     "t": "Sốc do mất nước",
+     "n": "Chưa: mạch quay còn bắt được, mao mạch hồi sắc khoảng 3 giây chứ chưa dài hơn 3 giây (dấu sốc: tay lạnh, mao mạch > 3 giây, mạch nhanh yếu, huyết áp thấp; WHO 2013, mục 1.1, tr. 2 và tr. 4). Sát ngưỡng nên đánh giá lại mỗi 15 phút."
+    },
+    {
+     "t": "Hạ đường huyết gây li bì",
+     "n": "Đường huyết mao mạch 4,6 mmol/L, trên ngưỡng 2,5 mmol/L (WHO 2013, Chart 10, tr. 16)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết, viêm màng não, tăng natri máu gây li bì",
+     "n": "Sốt nhẹ 37,6 °C, thóp lõm chứ không phồng, không cứng gáy, không co giật; bé li bì chứ không kích thích (mất nước ưu trương gợi kích thích, rất khát, co giật; QĐ 3312/2015, mục 3.1d). Li bì giải thích bằng mất nước nặng. Cấy máu, natri chỉ đo được ở bệnh viện (QĐ 3312, mục 3.1b; QĐ 4068, ô [1]; ESPGHAN/ESPID 2014, mục 7.4)."
+    },
+    {
+     "t": "Tả (thể tối cấp)",
+     "n": "Không dịch tễ, phân không như nước vo gạo (TL-0176, QĐ 4178/2007, mục II.1a, II.1c); thể tối cấp mất nước rất nhanh (mục II.3d) nên dịch tễ là then chốt. WHO 2013 (mục 5.2.1) chỉ nghĩ tả ở trẻ > 2 tuổi khi có dịch."
+    },
+    {
+     "t": "Bệnh ngoại khoa (lồng ruột, viêm ruột thừa)",
+     "n": "Nôn không mật, không cơn khóc từng cơn, bụng mềm hơi chướng nhẹ không đau khu trú, phân không máu (WHO 2013, Bảng 11, tr. 127); bệnh viện có siêu âm sẽ xem lại nếu không đáp ứng (WSES 2025, Recommendation 3.2)."
+    },
+    {
+     "t": "Thất bại do mẹ không làm đúng hoặc sai thuốc",
+     "n": "Loại trừ: Linh pha ORS đúng, mẹ đút từng thìa, không cho gì thêm, không thuốc nào. Hợp lý nhất là tốc độ thải phân cao: QĐ 3312/2015 (Tiêu chảy kéo dài, mục 6.1) nêu tốc độ thải phân cao (> 10 ml/kg/giờ) kèm nôn là lý do bù tĩnh mạch; WHO 2013 (mục 5.2.1) nói mất nước dai dẳng thường gặp ở trẻ đi phân nước nhiều lần."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đặt kim luồn và bắt đầu Phác đồ C ngay tại phòng khám: NaCl 0,9% hoặc Ringer lactat, 30 ml/kg trong 1 giờ (khoảng 260 ml cho 8,7 kg) rồi 70 ml/kg trong 5 giờ (khoảng 610 ml), hoặc NaCl 0,9% 20 ml/kg/giờ (khoảng 174 ml/giờ) trong 2–4 giờ; không dùng dịch glucose 5%",
+     "v": "c",
+     "n": "Dưới 12 tháng: 100 ml/kg, 30 ml/kg trong 1 giờ rồi 70 ml/kg trong 5 giờ (QĐ 3312/2015, mục 4.1; WHO 2013, Chart 13, Bảng 13) hoặc NaCl 0,9% 20 ml/kg/giờ trong 2–4 giờ, không truyền nhanh hơn (ESPGHAN/ESPID 2014, mục 8.5.1). Khác nhau vì WHO/QĐ 3312 viết cho cơ sở nguồn lực hạn chế, ESPGHAN cho bệnh viện châu Âu và ưu tiên NaCl 0,9% (mục 8.5.2); QĐ 4068 mục 1.2 chấp nhận NaCl thay Ringer. Cả hai đúng, chọn theo dịch sẵn có."
+    },
+    {
+     "t": "Gọi xe cấp cứu chuyển ngay bệnh viện nhi, vừa truyền vừa đi, có nhân viên y tế đi cùng, đánh giá lại mạch, tri giác, mao mạch mỗi 15–30 phút; viết thư chuyển",
+     "v": "c",
+     "n": "Mất nước nặng là dấu hiệu cấp cứu (WHO 2013, mục 1.1, tr. 2); QĐ 4068 (ô [2]): nhập cấp cứu, Phác đồ C. Thất bại bù dịch uống, li bì là tiêu chí nhập viện (QĐ 3312/2015, mục 5.1). Phòng khám ngoài giờ không có điện giải, khí máu, người theo dõi 6 giờ (ESPGHAN/ESPID 2014, mục 7.4). Đánh giá lại mỗi 15–30 phút (WHO 2013, Chart 13)."
+    },
+    {
+     "t": "Đo đường huyết mao mạch ngay vì bé li bì",
+     "v": "c",
+     "n": "Hạ đường huyết < 2,5 mmol/L thì tiêm glucose 10% 5 ml/kg (WHO 2013, Chart 10, tr. 16); QĐ 4068 ô [6]."
+    },
+    {
+     "t": "Nếu mạch quay yếu hơn, tay chân lạnh hoặc mao mạch hồi sắc > 3 giây: bù nhanh NaCl 0,9% hoặc Ringer lactat 20 ml/kg (khoảng 174 ml), lặp lại tối đa 3 lần",
+     "v": "c",
+     "n": "Bolus 20 ml/kg, lặp 1–2 lần nếu chưa cải thiện (ESPGHAN/ESPID 2014, mục 8.5; QĐ 4068 ô [1]: LR 20 ml/kg trong 15 phút, tối đa 3 lần)."
+    },
+    {
+     "t": "Trong khi đặt kim và truyền, cho ORS từng ngụm nhỏ nếu còn nuốt được (khoảng 5 ml/kg/giờ, 44 ml/giờ), cho bú khi tỉnh",
+     "v": "c",
+     "n": "ORS khi uống được trong lúc đặt đường truyền, rồi 5 ml/kg/giờ (WHO 2013, Chart 13, tr. 131; QĐ 3312/2015, mục 4.1)."
+    },
+    {
+     "t": "Không chờ xét nghiệm: điện giải đồ, ure creatinin, khí máu, công thức máu, CRP làm ở bệnh viện",
+     "v": "c",
+     "n": "Công thức máu, CRP, điện giải đồ khi mất nước nặng tại bệnh viện (QĐ 3312/2015, mục 3.2); khí máu khi thở nhanh (QĐ 4068, ô [6])."
+    },
+    {
+     "t": "Không dùng kháng sinh, không cầm tiêu, cầm nôn thường quy",
+     "v": "c",
+     "n": "Phân nước, không nghi tả (WHO 2024, khuyến cáo 1a; QĐ 3312/2015, mục 4.2, 4.5)."
+    },
+    {
+     "t": "Nói với mẹ: bé đang mất nước nặng, theo dõi 4 giờ ORS lúc đầu là đúng và đổi sang truyền lúc này cũng là đúng; mẹ không có lỗi; mời mẹ đi cùng xe và hỏi ai ở nhà thay",
+     "v": "c",
+     "n": "Giao tiếp, không cần nguồn. ORS tương đương truyền, IV dành cho thất bại hoặc rối loạn tri giác (ESPGHAN/ESPID 2014, mục 8.4): kết quả xấu không chứng minh quyết định đầu sai."
+    },
+    {
+     "t": "Đặt sonde dạ dày cho ORS 20 ml/kg/giờ nếu không đặt được đường truyền",
+     "v": "a",
+     "n": "Không truyền được thì chuyển tuyến hoặc ORS qua sonde 20 ml/kg/giờ, tổng 120 ml/kg (QĐ 3312/2015, mục 4.1; WHO 2013, Chart 13); ESPGHAN/ESPID 2014 mục 8.4 vẫn nêu rối loạn tri giác là chỉ định truyền. Bé đặt được kim nên truyền là chính."
+    },
+    {
+     "t": "Ondansetron nếu bé còn nôn",
+     "v": "a",
+     "n": "ESPGHAN/ESPID 2014 (mục 9.3.1) cho ondansetron ở trẻ nôn khi ORS thất bại; QĐ 3312/2015 (mục 4.5) không dùng cầm nôn; bé li bì đã truyền thì chưa cần."
+    },
+    {
+     "t": "Tiếp tục ORS Phác đồ B thêm 4 giờ tại phòng khám",
+     "v": "w",
+     "n": "Bé có ≥ 2 dấu mất nước nặng và thất bại ORS: Phác đồ C, không lặp B (QĐ 3312/2015, mục 4.1; WHO 2013, Bảng 12; ESPGHAN/ESPID 2014, mục 8.4)."
+    },
+    {
+     "t": "Cho về nhà với ORS và hẹn ngày mai",
+     "v": "w",
+     "n": "Mất nước nặng, thất bại ORS là tiêu chí nhập viện (QĐ 3312/2015, mục 5.1; QĐ 4068, ô [8])."
+    },
+    {
+     "t": "Truyền glucose 5% hoặc glucose 5% pha NaCl 0,18% để bù nước",
+     "v": "h",
+     "n": "Không dùng vì tăng nguy cơ hạ natri máu, có thể gây phù não (WHO 2013, mục 5.2.1, tr. 129; ESPGHAN/ESPID 2014, mục 8.5.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng, nghĩ do virus (rotavirus), ngày thứ 2, phân nước không máu",
+     "Mất nước nặng sau thất bại bù dịch đường uống (Phác đồ B 3 giờ 40 phút): li bì, mắt trũng sâu, uống kém, nếp véo rất chậm; cân 8,9 xuống 8,7 kg",
+     "Nghi toan chuyển hóa (thở nhanh sâu), vô niệu; chưa sốc nhưng sát ngưỡng",
+     "Đã loại ở bên giường: hạ đường huyết, bệnh ngoại khoa, tả; chưa loại được nhiễm khuẩn huyết, viêm màng não, rối loạn natri (bệnh viện làm tiếp)",
+     "Không phải thất bại do không tuân thủ hay sai thuốc"
+    ],
+    "phan_tich_chan_doan": [
+     "Quy trình khi điều trị không đỡ: (1) Có làm đúng không? ORS pha đúng, mẹ đút từng thìa, không cho gì thêm. (2) Sai thuốc không? Không kháng sinh, không cầm tiêu, prednisolon đã ngưng. (3) Sai chẩn đoán không? Bụng mềm, không cơn khóc, phân không máu, đường huyết bình thường, thóp không phồng. (4) Biến chứng? Có: mất nước nặng, nghi toan chuyển hóa, vô niệu. (5) Đề kháng: không áp dụng.",
+     "Dừng chẩn đoán 1 phút: dữ kiện nào không giải thích bằng mất nước? Li bì phải kiểm đường huyết (4,6 mmol/L; WHO 2013, Chart 10) và nghĩ viêm màng não, nhiễm khuẩn huyết, tăng natri; natri và cấy máu chỉ có ở bệnh viện.",
+     "Phân loại: ≥ 2 dấu trong li bì, mắt trũng, uống kém, nếp véo rất chậm là mất nước nặng (QĐ 3312/2015, mục 3.1c; WHO 2013, Bảng 12); thất bại bù dịch uống, li bì là tiêu chí nhập viện (mục 5.1). Cân chỉ là chỉ dấu phụ: 8,7 kg so với 9,5 kg trước bệnh là sụt khoảng 8%, dưới ngưỡng 10% (mục 3.1b), nhưng dấu hiệu lâm sàng quyết định.",
+     "Vì sao Phác đồ B thất bại: phân nước rất nhiều (6 lần, tã nặng khoảng 450 g trong 3 giờ 40 phút), nôn 3 lần nên uống chỉ được nửa lượng cần. QĐ 3312 (Tiêu chảy kéo dài, mục 6.1) nêu tốc độ thải phân cao kèm nôn là lý do bù tĩnh mạch; WHO 2013 (mục 5.2.1) nói mất nước dai dẳng xảy ra ở trẻ đi phân nước nhiều lần. Tỉ lệ thất bại ORS ở nhũ nhi: không có trong tài liệu đã tải.",
+     "Chống outcome bias: ORS Phác đồ B ở lượt 1 là đúng (QĐ 3312 mục 4.1; WHO 2013 mục 5.2.2) và mốc đánh giá lại giúp phát hiện sớm; kết quả xấu không chứng minh quyết định sai. Truyền ngay từ đầu có tránh được không: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Phác đồ C ngay: kim luồn, NaCl 0,9% hoặc Ringer lactat 100 ml/kg (30 ml/kg trong 1 giờ rồi 70 ml/kg trong 5 giờ; QĐ 3312 mục 4.1; WHO 2013, Chart 13) hoặc NaCl 0,9% 20 ml/kg/giờ trong 2–4 giờ (ESPGHAN 2014, mục 8.5.1); cả hai đúng. Không dùng glucose 5% (WHO 2013, mục 5.2.1). Truyền trước khi đi.",
+     "Chuyển cấp cứu vì cần theo dõi 6 giờ, điện giải, khí máu, cấy máu mà phòng khám ngoài giờ không có, và bé sát ngưỡng sốc (WHO 2013, Chart 13; ESPGHAN 2014, mục 7.4). Nếu mạch yếu, tay lạnh, mao mạch > 3 giây: bù nhanh 20 ml/kg, tối đa 3 lần (QĐ 4068 ô [1]; ESPGHAN 2014, mục 8.5).",
+     "Nói với mẹ không đổ lỗi: lúc đầu chọn ORS vì bé còn uống được và ORS tương đương truyền (ESPGHAN 2014, mục 8.4); mốc 4 giờ có để đổi hướng. Câu gợi ý: 'Chị đã làm đúng mọi thứ tôi dặn. Con chưa uống đủ nên giờ tôi truyền cho con và đưa vào bệnh viện nhi ngay, tôi đi cùng.'",
+     "Không kháng sinh, không cầm nôn cầm tiêu (WHO 2024, khuyến cáo 1a; QĐ 3312, mục 4.2, 4.5). Ondansetron, sonde dạ dày là lựa chọn phụ chấm a. Kẽm bắt đầu khi hết nôn và đã bù nước, ghi vào thư chuyển viện (WHO 2013, tr. 130, 132; liều xem lượt 1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% truyền tĩnh mạch (hoặc Ringer lactat)",
+      "ham_luong": "Chai 0,9% (hoặc Ringer lactat), dung dịch đẳng trương",
+      "lieu": "Theo QĐ 3312/WHO: 30 ml/kg ≈ 260 ml trong 1 giờ, rồi 70 ml/kg ≈ 610 ml trong 5 giờ. Hoặc theo ESPGHAN: 20 ml/kg/giờ ≈ 174 ml/giờ trong 2–4 giờ. Nếu sốc: 20 ml/kg ≈ 174 ml bolus, lặp tối đa 3 lần",
+      "duong": "Truyền tĩnh mạch qua kim luồn",
+      "thoi_diem": "Bắt đầu ngay, tiếp tục trên xe cấp cứu và tại bệnh viện nhi",
+      "so_ngay": "Khoảng 6 giờ, đánh giá lại mỗi 15–30 phút",
+      "ghi_chu": "QĐ 3312/2015, mục 4.1 Phác đồ C; WHO 2013, Chart 13, Bảng 13; ESPGHAN/ESPID 2014, mục 8.5.1, 8.5.2; QĐ 4068 ô [1]. Không dùng glucose 5% (WHO 2013, mục 5.2.1). Dịch duy trì và bù kali sau khi có điện giải: do bệnh viện."
+     },
+     {
+      "thuoc": "Oresol áp lực thẩm thấu thấp (ORS)",
+      "ham_luong": "Gói bột pha theo hướng dẫn nhà sản xuất",
+      "lieu": "5 ml/kg/giờ ≈ 44 ml/giờ",
+      "duong": "Uống từng thìa nhỏ",
+      "thoi_diem": "Ngay khi bé uống được, song song với truyền",
+      "so_ngay": "Đến khi hết mất nước và tiêu chảy",
+      "ghi_chu": "WHO 2013, Chart 13; QĐ 3312/2015, mục 4.1 Phác đồ C."
+     }
+    ],
+    "dan_do": [
+     "Giải thích cho mẹ bằng câu ngắn: bé mất nước nặng, cần truyền ngay và vào bệnh viện nhi, mẹ đi cùng xe.",
+     "Thư chuyển viện (SBAR, mẫu do ca đặt, không có trong nguồn): cân 9,5 → 8,9 → 8,7 kg; ORS uống 330/670 ml; nôn 3, phân 6 lần; mạch 158, thở 50, SpO₂ 97%, đường huyết 4,6; dịch đã truyền và giờ bắt đầu; prednisolon 3 ngày đã ngưng; chưa có xét nghiệm.",
+     "Trên xe: tiếp tục truyền, đánh giá mạch, tri giác, mao mạch mỗi 15–30 phút, giữ ấm, ORS ngụm nhỏ khi tỉnh (WHO 2013, Chart 13). Báo bệnh viện trước; mang vỉ prednisolon, sổ tiêm chủng.",
+     "Khi bệnh viện cho về: kẽm đủ 10–14 ngày, ORS dự phòng, bú mẹ, ăn dặm lại, vắc-xin rotavirus sau khi khỏi (QĐ 3312/2015, mục 4.3, 4.4, 6). Không tự mua thuốc cầm tiêu, kháng sinh, corticoid."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Lượt 1: bé ở lại phòng khám, mẹ đút ORS từng thìa dưới hướng dẫn của Linh; mẹ nửa tin nửa ngờ nhưng làm theo vì được hẹn mốc 4 giờ. Lượt 2: sau 3 giờ 40 phút bé chỉ uống được khoảng 330 ml, nôn 3 lần, phân nước 6 lần, li bì, mất nước nặng sát ngưỡng sốc, cân 8,9 xuống 8,7 kg. Linh đặt kim luồn, truyền NaCl 0,9% ngay, đường huyết 4,6 mmol/L, gọi xe cấp cứu chuyển bệnh viện nhi, mẹ đi cùng. Ở bệnh viện (do ca đặt, không từ tài liệu đã tải): Na 133, K 3,1, pH 7,18; truyền khoảng 6 giờ, bù kali, rồi uống ORS được; rotavirus dương tính; nằm viện 3 ngày rồi ra viện. Mẹ mất ba ngày công nhưng hiểu quyết định ban đầu không phải nguyên nhân bé xấu đi, và nhờ mốc 4 giờ bé được truyền kịp. Bài học: xử trí đúng vẫn có thể ra diễn tiến xấu.",
+ "nhieu": [
+  "Đòi truyền dịch: mẹ vào là đòi truyền, kể con hàng xóm; cần lập luận lợi hại cụ thể, hẹn mốc 4 giờ, mời mẹ tự đút ORS; tránh gạt đi.",
+  "Lý do thật đến khám: muốn được truyền để khỏi nhanh vì thứ Hai phải chốt sổ; chỉ lộ khi hỏi nhẹ nhàng mẹ lo điều gì nhất.",
+  "Corticoid tự mua: prednisolon 3 ngày cho khò khè, mẹ không kể nếu hỏi chung chung; tác động lên tiêu chảy không có trong tài liệu đã tải.",
+  "Ngoài giờ, không có kỹ thuật viên: quyết định bằng cân, dấu mất nước, đáp ứng ORS, đường huyết mao mạch; lượt 2 truyền và chuyển trước khi có điện giải.",
+  "Khởi phát sau ăn bún vỉa hè, bố cũng đi ngoài nhẹ: gợi nguồn thức ăn chung nhưng không đổi xử trí vì phân nước không máu."
+ ],
+ "bai_hoc_bien": [
+  "Cặp tương phản: TH-0665 (nhũ nhi nữ, ORS thành công) và ca này (nhũ nhi nam, mẹ đòi truyền, ORS thất bại sau 4 giờ): cùng Phác đồ B, khác kết cục; chuẩn nằm ở mốc đánh giá lại và dám đổi hướng.",
+  "Đòi truyền dịch: không gạt đi; nói rõ lợi hại, hẹn mốc cụ thể, mời mẹ tham gia (QĐ 3312 mục 4.1, 5.1; ESPGHAN 2014 mục 8.3, 8.4).",
+  "Điều trị không đỡ: hỏi lần lượt có làm đúng không, sai thuốc không, sai chẩn đoán không, có biến chứng không; ở đây đều sạch, nguyên nhân là lượng phân mất lớn hơn lượng uống vào.",
+  "Mất nước nặng: bù Phác đồ C ngay trước khi chuyển; không dùng glucose 5% (WHO 2013 mục 5.2.1).",
+  "Chống outcome bias: quyết định đúng ở lượt 1 vẫn có thể ra diễn tiến xấu; nói với mẹ không đổ lỗi.",
+  "Mâu thuẫn nguồn ghi cả hai cách: kẽm 5 mg hoặc 20 mg; men vi sinh; ondansetron; truyền 100 ml/kg trong 6 giờ hoặc 20 ml/kg/giờ trong 2–4 giờ."
+ ],
+ "diem_nho": [
+  "Phân loại mất nước (2 tháng–5 tuổi): nặng = ≥ 2 trong li bì, mắt trũng, uống kém, nếp véo rất chậm; có mất nước = ≥ 2 trong vật vã, mắt trũng, khát háo hức, nếp véo chậm (QĐ 3312 mục 3.1c; WHO 2013 Bảng 12).",
+  "Phác đồ B: ORS 4 giờ = cân nặng × 75 ml, từng thìa mỗi 1–2 phút; đánh giá lại trước 4 giờ nếu không uống hoặc nặng lên (QĐ 3312 mục 4.1; WHO 2013 tr. 132–133).",
+  "Phác đồ C dưới 12 tháng: 100 ml/kg, 30 ml/kg trong 1 giờ rồi 70 ml/kg trong 5 giờ; dịch đẳng trương, không glucose 5% (QĐ 3312 mục 4.1; WHO 2013 Chart 13).",
+  "Kẽm 10–14 ngày, bắt đầu khi hết nôn: 5 mg/ngày (WHO 2024 khuyến cáo 3c) hoặc 20 mg/ngày cho ≥ 6 tháng (QĐ 3312 mục 4.3)."
+ ],
+ "nguon": [
+  "QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Tiêu chảy cấp (mục 1, 2.1, 3.1a–d, 3.2, 4.1 Phác đồ A/B/C, 4.2–4.5, 5.1, 5.2, 6) và Tiêu chảy kéo dài (mục 6.1)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 1.1 (tr. 2), tr. 4, Chart 10 (tr. 16), mục 5.1, Bảng 11–13 (tr. 126–130), Chart 13 (tr. 131), mục 5.2.2 (tr. 132–134), Chart 14 (tr. 135), tr. 136, Chart 15 (tr. 138)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years of age – TL-0245 – ĐÃ ĐỌC: Table 2 (khuyến cáo 1a, 2, 3a, 3c, 4a, 5), Remarks khuyến cáo 3",
+  "ESPGHAN/ESPID 2014 – Guarino A, et al. J Pediatr Gastroenterol Nutr. 2014;59(1):132-52 – TL-0268 – ĐÃ ĐỌC: mục 7.1, 7.2, 7.4, 8.1, 8.3, 8.4, 8.5.1–8.5.3, 9.3.1–9.3.3",
+  "ESPGHAN 2023 – Probiotics for the management of pediatric gastrointestinal disorders – TL-0258 – ĐÃ ĐỌC: Summary of recommendations (viêm dạ dày ruột cấp)",
+  "QĐ 4068/QĐ-BYT, Quy trình chuyên môn tiêu chảy cấp ở trẻ em (kho cũ tltk-10000-ca, 03 Nhi ngoại trú/BYT, năm chưa xác định) – ĐÃ ĐỌC: ô [1], [2], [6], [7B], [8], mục 1.2",
+  "QĐ 5642/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh truyền nhiễm – TL-0038 – ĐÃ ĐỌC: Bệnh lỵ trực khuẩn (mục 3.1b–c, 3.3a)",
+  "QĐ 4178/QĐ-BYT 2007, Hướng dẫn chẩn đoán và điều trị bệnh tả – TL-0176 – ĐÃ ĐỌC: mục II.1a, II.1c, II.3d–e",
+  "WSES 2025 – Diagnosis and Treatment of Acute Appendicitis, JAMA Surg. 2026;161(3):283-295 – TL-0053 – ĐÃ ĐỌC: Recommendation 3.2",
+  "Không có trong tài liệu đã tải (không dùng nguồn web): ảnh hưởng của prednisolon ngắn ngày lên tiêu chảy cấp ở nhũ nhi; chế phẩm kẽm tại Việt Nam; thời gian giữ ORS đã pha; tỉ lệ thất bại ORS ở nhũ nhi; khoảng tham chiếu công thức máu, ure, creatinin nhũ nhi; lịch tiêm rotavirus; mốc 15 phút và thư chuyển SBAR (do ca đặt)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Ngày viết: 2026-10-25. Bản 1 (tác tử soạn TH-0658).",
+  "Tài liệu đã đọc: TL-0037 (Tiêu chảy cấp; Tiêu chảy kéo dài mục 6.1), TL-0250 (mục 1.1, chương 5), TL-0245 (Table 2, Remarks 3), TL-0268 (mục 7, 8, 9), TL-0258 (Summary), QĐ 4068 (kho cũ), TL-0038 (Lỵ), TL-0176 (mục II), TL-0053 (Rec 3.2).",
+  "Thiết kế tự quyết (n): bé trai 10 tháng, 8,9 kg, trước bệnh 9,5 kg; lượt 1 Phác đồ B 4 giờ tại phòng khám (theo_doi); lượt 2 đánh giá lại sau 3 giờ 40 phút: không đỡ, mất nước nặng, truyền rồi chuyển cấp cứu (cap_cuu). Ngoài giờ nên chỉ có đường huyết mao mạch.",
+  "Mâu thuẫn ghi cả hai cách (xem TH-0658_mau_thuan.md). Không thêm danh mục mới, không ảnh da. Âm thanh: AT-TIM-NHANH-01 (tần số ghi bằng chữ theo sinh hiệu), AT-PHOI-BT-NL-01. Chỗ thiếu tài liệu: xem mục cuối của nguon."
+ ]
+}
