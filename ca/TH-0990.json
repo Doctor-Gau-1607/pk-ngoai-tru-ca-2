@@ -1,0 +1,514 @@
+{
+ "ma_ca": "TH-0990",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_tri_noi_do_iii_thieu_mau",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trĩ",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư trực tràng",
+   "Nứt hậu môn"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Biến chứng do bỏ sót",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Tiểu thương chợ",
+  "yeu_to_khoi_phat": "Sau đi du lịch vùng dịch",
+  "thuoc_dang_dung": "Thuốc ho long đờm",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Bảy",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Tiểu thương chợ (bán rau củ ở chợ phường, ngồi ghế nhựa thấp cả ngày)",
+  "can_nang": 49,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tui', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhảu, hay cười, quen coi nhẹ bệnh ('già rồi ai chẳng vậy', 'tui khỏe'). Sợ tốn tiền, sợ làm phiền con cái, sợ nghỉ bán mất khách. Thương bà bạn mới mất trong chuyến đi nên bí mật sợ chết đột ngột.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: bà giảm nhẹ ('chút xíu thôi', 'tại nắng'), trả lời 'không sao' với câu hỏi chung. Chỉ kể đúng khi bác sĩ hỏi bằng việc cụ thể (lau mấy tờ giấy, bồn cầu có đỏ không, leo cầu thang có phải nghỉ không, đứng lên có tối mắt không) hoặc hỏi bà lo điều gì nhất.",
+  "nguoi_nha": "Con gái",
+  "ten_nguoi_nha": "Chị Phượng (con gái, 50 tuổi, chở bà bằng xe máy, ngồi cạnh bà)",
+  "ngoai_hinh": {
+   "da": "#c99a74",
+   "toc": "#d9d9d6",
+   "kieuToc": "bui",
+   "ao": "#8a7f9c",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d3a883",
+    "toc": "#2b221d",
+    "kieuToc": "dai",
+    "ao": "#a8566b",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đi cầu ra máu từ sau chuyến đi chơi, xin thuốc trĩ",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không có máy siêu âm (nên cũng không có CT, nội soi tiêu hóa). Nội soi dạ dày và đại tràng làm ở bệnh viện tỉnh cách khoảng 28 km, hẹn khoảng 3 tuần. Xét nghiệm máu và phân làm được, có kết quả trong ngày."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Lê Thị Bảy, 78 tuổi, bán rau củ ở chợ phường, con gái đưa đến vì mẹ 'đi cầu ra máu từ sau chuyến đi chơi về'. Sinh hiệu: HA 132/78 mmHg, mạch 84 l/p, nhiệt 36,7 °C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 49 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Bảy 78 tuổi, Hb 98 g/L, HA 132/78, mạch 84, không đau ngực, không ngất, máu ra từng ít một: nhập viện hôm nay là quá tay. Tài liệu đã tải chỉ nêu truyền hồng cầu 'đôi khi' cho thiếu máu thiếu sắt có triệu chứng (BSG 2021 khuyến cáo 19) và không đặt tiêu chí nhập viện cho ca ổn định này. Bà mất nhiều ngày bán hàng, con gái bỏ việc ở lại chăm, bà càng sợ bệnh nặng, trong khi việc cần làm là uống sắt, làm mềm phân và hẹn nội soi hai đầu.",
+    "chuyen_tuyen": "Chuyển bà lên bệnh viện tỉnh nội soi cấp cứu ngay hôm nay là quá tay: bà không choáng, không chảy máu ồ ạt, Hb 98 g/L; nội soi hai đầu ở nữ mãn kinh thiếu máu thiếu sắt là thăm dò theo hẹn (BSG 2021 khuyến cáo 11), không phải cấp cứu. Nhà ở xa, bà bị đẩy vào đường đi gấp, tốn tiền xe và nghỉ bán, rồi lại phải chuẩn bị ruột trong lúc chưa sẵn sàng, dễ bỏ dở. Cần giấy giới thiệu có hẹn và con gái đi cùng."
+   },
+   "loi_mo": "Chào bác sĩ. Con gái nó bắt tui đi khám chứ tui thấy cũng không sao. Mấy bữa nay đi cầu có chút máu dính giấy, chắc là trĩ cũ, bác sĩ cho tui mấy viên thuốc trĩ là được.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "132/78",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi cầu ra máu dính giấy, khoảng mười ngày nay, từ sau chuyến đi chơi về. Bà nói 'chút xíu thôi, chắc trĩ cũ, cho tui thuốc trĩ là được'. Con gái bắt đi khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (bà giảm nhẹ)"
+    },
+    {
+     "id": "chuyen_di",
+     "noi_dung": "Đi du lịch 5 ngày theo hội người cao tuổi, đến một tỉnh miền Trung đang có dịch sốt xuất huyết. Ngồi xe nhiều giờ, ngại nhà vệ sinh ở trạm dừng nên nhịn đi cầu, uống ít nước. Bốn ngày liền không đi cầu, về nhà rặn mạnh, phân khô cứng, từ đó máu ra rõ hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: chuyến đi, táo bón, nhịn đi cầu"
+    },
+    {
+     "id": "tien_su_tri",
+     "noi_dung": "Biết mình có 'búi trĩ' cả chục năm, thỉnh thoảng dính vệt máu nên không để ý. Khoảng bốn tháng nay vệt máu thường hơn; sau chuyến đi thì nhiều hơn hẳn. Có mua thuốc trĩ ở hiệu thuốc bốn lần, nói với người bán 'ra chút máu', không ai khám hay dặn thử máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến 4 tháng và các lần mua thuốc"
+    },
+    {
+     "id": "muc_do_mau",
+     "noi_dung": "Hỏi bằng việc cụ thể thì kể: máu đỏ tươi ra sau khi phân đã ra, hoặc nhỏ giọt vào bồn cầu làm nước hồng cả bồn; mỗi lần lau 4–5 tờ giấy vẫn đỏ; 3–4 lần mỗi tuần; vài lần dính quần lót. Máu không trộn trong phân, không ra cục, không có phân đen, không ra máu lúc không đi cầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức chảy máu thật qua câu hỏi chức năng"
+    },
+    {
+     "id": "cuc_thoi_khong_dau",
+     "noi_dung": "Khi rặn có cục thòi ra ở hậu môn, vài tháng nay phải lót giấy lấy tay đẩy vô mới vô. Không đau khi đi cầu, không đau sau đi cầu, không đau nhói; chỉ ẩm và ngứa quanh hậu môn. Không són phân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cục sa phải đẩy vào, không đau: ngược nứt hậu môn"
+    },
+    {
+     "id": "tao_bon",
+     "noi_dung": "Táo bón lâu năm, 2–3 ngày mới đi một lần, phân khô cứng, phải rặn. Bán rau ở chợ nhưng ăn ít rau vì răng yếu, chủ yếu cháo và cơm. Ngồi ghế nhựa thấp cả ngày; nhà vệ sinh chợ dơ nên nhịn đi cầu, uống ít nước (dưới 1 lít/ngày) để đỡ đi tiểu. Ngồi bô mỗi lần cả chục phút.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Táo bón, nhịn đi cầu, ít xơ, ít nước (nghề tiểu thương)"
+    },
+    {
+     "id": "chuc_nang_thieu_mau",
+     "noi_dung": "Ba tháng nay leo cầu thang hai tầng nhà con gái phải nghỉ giữa chừng (năm ngoái không phải nghỉ); ngồi xổm đứng lên thì tối sầm mắt; gánh hàng thấy hụt hơi, buổi trưa phải nằm nghỉ, trước kia không vậy. Bà nói 'già rồi ai chẳng vậy'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có mệt không, có thiếu máu không' thì bà đáp 'tui khỏe, không sao'. Chỉ kể khi bác sĩ hỏi bằng việc cụ thể: leo cầu thang, gánh hàng, đứng lên từ ghế thấp có tối mắt không, so với năm ngoái.",
+     "k": 1,
+     "y": "Triệu chứng thiếu máu bị phủ nhận"
+    },
+    {
+     "id": "lo_nhoi_mau",
+     "noi_dung": "Lý do thật khiến bà chịu đi khám: trong chuyến đi, bà Tư cùng đoàn (72 tuổi) bất ngờ ngã ở nhà vệ sinh trạm dừng rồi mất, người ta nói 'nhồi máu cơ tim, tại rặn'. Từ đó mỗi lần đi cầu bà sợ chết, mà đi cầu lại phải rặn; cộng thêm hồi hộp khi leo cầu thang nên càng sợ tim.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà lo điều gì nhất, vì sao lúc này mới đi khám, hoặc hỏi về chuyến đi và người cùng đoàn. Hỏi về bệnh trĩ thì bà không nhắc.",
+     "k": 1,
+     "y": "Lý do thật: sợ nhồi máu cơ tim"
+    },
+    {
+     "id": "khong_dau_nguc",
+     "noi_dung": "Không đau ngực, không đau thắt, không khó thở khi nằm, không phù chân, chưa từng ngất. Hồi hộp nhẹ và hụt hơi chỉ khi leo cầu thang hoặc gánh nặng, nghỉ vài phút thì hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng gợi hội chứng vành cấp"
+    },
+    {
+     "id": "khong_bao_dong",
+     "noi_dung": "Không sụt cân rõ (49 kg, cân ổn), không đau bụng, không nôn máu, không phân đen, phân không nhỏ lại, không có cảm giác mót rặn không hết. Không ai trong nhà bị ung thư đại tràng. Chưa từng nội soi đại tràng, chưa từng thử phân tìm máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa từng nội soi; không dấu hiệu ruột khác"
+    },
+    {
+     "id": "sot_tieu_chay",
+     "noi_dung": "Không sốt, không đau đầu, không đau cơ khớp, không chảy máu chân răng hay mũi, không bầm da, không phát ban. Không tiêu chảy, không đau quặn, không nhầy mủ trong phân trong và sau chuyến đi; cả đoàn không ai bị bệnh bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ sốt xuất huyết và nhiễm trùng ruột sau du lịch"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Hai tuần nay ho khan nhẹ, ít đờm từ khi ngồi xe máy lạnh, mua siro ho long đờm uống ngày 3 lần. Không sốt, không khó thở, không ho ra máu. Không uống thuốc giảm đau xương khớp, không aspirin, không thuốc loãng máu, không thuốc sắt, không thuốc huyết áp hay tiểu đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng; không NSAID, không chống đông"
+    },
+    {
+     "id": "san_phu",
+     "noi_dung": "Sinh 5 con thường, mãn kinh năm 50 tuổi, không ra huyết âm đạo từ đó. Không tăng huyết áp, không tiểu đường, không bệnh tim đã biết.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử sản phụ khoa, bệnh nền"
+    },
+    {
+     "id": "con_gai",
+     "noi_dung": "Chị Phượng (con gái) kể: mẹ xanh xao hai ba tháng nay, ăn ít đi, buổi trưa hay nằm, hỏi thì mẹ nói 'tại nắng'. Chị thấy bồn cầu đỏ mấy lần khi mẹ đi xong.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thông tin từ người nhà"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gầy. Da xanh, kết mạc mắt và lòng bàn tay nhợt. Không vàng da, không phù, không hạch thượng đòn. Cân nặng 49 kg, cao 150 cm.",
+     "k": 1,
+     "hien": "Tỉnh, gầy. Da xanh, lòng bàn tay nhợt."
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 134/78 mmHg. Đứng sau 1 phút: 126/74 mmHg, bà nói hơi choáng, mạch 96 l/p.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau, không sờ thấy khối, gan lách không sờ thấy.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Nằm nghiêng trái: có hai nếp da thừa nhỏ ở 7 giờ, hậu môn không nứt kẽ, không lỗ rò, không cục đau. Thăm trực tràng: trương lực cơ thắt bình thường, không đau, không khối cứng, loét hay hẹp ở đoạn với tới, thành trực tràng mềm. Khi bà rặn có búi niêm mạc đỏ sa ra, nếp xuyên tâm, phải đẩy bằng tay mới vào. Găng dính máu đỏ tươi, phân vàng cứng.",
+     "k": 1,
+     "hien": "Không vết nứt, không cục đau, không sờ thấy khối. Găng có máu đỏ tươi. Khi rặn có búi sa, phải đẩy vào."
+    },
+    "soi_hau_mon": {
+     "a": "Ống soi nhựa dùng một lần: ba búi trĩ nội ở 3, 7 và 11 giờ, sung huyết, mọng, niêm mạc dễ rớm máu; búi 7 giờ có điểm rỉ máu đỏ tươi. Búi sa dưới đường lược khi rặn và không tự co (Goligher độ III). Nếp xuyên tâm với mạch máu căng, không có nếp tròn như sa trực tràng. Đường lược không có vết nứt. Niêm mạc trực tràng thấp trong tầm nhìn hồng, không loét, không khối, không polyp.",
+     "k": 1,
+     "hien": "Ba búi sung huyết, một điểm rỉ máu tươi. Không vết nứt. Không thấy khối ở trực tràng thấp."
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1 T2 rõ, không âm thổi, không tiếng ngựa phi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 18.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Không phù chân, bắp chân mềm, không đau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 98 g/L · MCV 72 fL · BC 7,6 G/L · TC 428 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 7.6,
+      "neu_pct": 62.0,
+      "neu": 4.71,
+      "lym_pct": 28.0,
+      "lym": 2.13,
+      "mono_pct": 6.0,
+      "mono": 0.46,
+      "eos_pct": 3.0,
+      "eos": 0.23,
+      "baso_pct": 1.0,
+      "baso": 0.08,
+      "rbc": 4.31,
+      "hgb": 98,
+      "hct": 0.31,
+      "mcv": 72.0,
+      "mch": 22.7,
+      "mchc": 316,
+      "rdw": 17.2,
+      "plt": 428
+     },
+     "n": "Hb 98 g/L dưới 120 g/L ở nữ không mang thai (BSG 2021 mục Definitions); hồng cầu nhỏ, RDW cao gợi thiếu sắt. Thiếu máu làm đổi mức thăm dò (xem chẩn đoán). Tiểu cầu không giảm, bạch cầu bình thường: không gợi sốt xuất huyết."
+    },
+    "ferritin_sat": {
+     "v": "e",
+     "r": "Ferritin 7 ng/mL · sắt huyết thanh 4 µmol/L · bão hòa transferrin 6%",
+     "ab": 1,
+     "n": "Xác nhận thiếu sắt trước khi thăm dò (BSG 2021 khuyến cáo 4). Ferritin dưới 15 µg/L là hết dự trữ sắt (BSG 2021 mục Definitions); QĐ 1832/2022 mục 4.1 dùng ngưỡng ferritin dưới 30 ng/mL và/hoặc bão hòa transferrin dưới 30%: ca này thỏa cả hai nên không có mâu thuẫn ở đây."
+    },
+    "fit": {
+     "v": "a",
+     "r": "FIT định lượng 86 µg Hb/g phân (ngưỡng 10 µg Hb/g)",
+     "ab": 1,
+     "n": "Không bắt buộc, ghi cả hai nguồn: ACPGBI/BSG 2022 khuyến cáo 12 gợi ý FIT ở thiếu máu thiếu sắt để định mức khẩn; BSG 2021 khuyến cáo 10 cho rằng chưa đủ cơ sở. Ở người đã thấy máu ra, ACPGBI/BSG 2022 (mục Rectal bleeding) nêu độ nhạy 96,6% nhưng độ đặc hiệu 71,7% ở ngưỡng 10 µg/g: FIT dương không phân biệt trĩ với u, và không dùng FIT đơn độc để loại khỏi chuyển khám (khuyến cáo 3). Kết quả không đổi xử trí: bà vẫn cần nội soi hai đầu."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 6,4 mmol/L · Creatinin 74 µmol/L · eGFR 71 mL/ph/1,73m²",
+     "n": "Không bắt buộc. Thận ổn, không hạn chế PEG; AGA-ACG 2023 khuyến cáo 3 nêu tránh magie oxid khi suy thận."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 84 l/p, trục bình thường, không ST chênh hay chìm, không sóng Q, không block.",
+     "n": "Không bắt buộc: bà không đau ngực hay khó thở khi nghỉ; ECG trong 10 phút dành cho người nghi hội chứng vành cấp (ESC 2023 mục 3.1.1, 3.2). Làm để loại trừ và trấn an nỗi sợ nhồi máu là chấp nhận được. Mối liên quan giữa rặn khi đi cầu và nhồi máu cơ tim: không có trong tài liệu đã tải."
+    },
+    "trop": {
+     "n": "Không cần: không đau ngực hay triệu chứng tương đương đau ngực; hs-troponin dành cho nghi hội chứng vành cấp (ESC 2023 mục 3.3.1)."
+    },
+    "ns1": {
+     "n": "Không cần: không sốt, không đau cơ khớp, tiểu cầu 428 G/L; đến vùng có dịch không phải chỉ định xét nghiệm."
+    },
+    "noi_soi_dt": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi đại tràng; làm ở bệnh viện tỉnh cách 28 km, hẹn khoảng 3 tuần.)",
+     "thay_the": "fit",
+     "n": "Có chỉ định, ghi ba mức nguồn (sổ mâu thuẫn TH-0970): ASCRS 2024 khuyến cáo 2 nội soi đại tràng ở bệnh nhân chọn lọc; AGA 2026 BPA 1 nên cân nhắc nội soi toàn bộ khi chảy máu trực tràng; BSG 2021 khuyến cáo 11 nữ mãn kinh thiếu máu thiếu sắt mới chẩn đoán thì soi dạ dày và đại tràng đầu tay. Khác mức mạnh vì khác đối tượng, nhưng ca này thỏa cả ba (78 tuổi, thiếu máu thiếu sắt, chưa từng nội soi). Trĩ nhìn thấy không loại được tổn thương khác (ASCRS 2024 khuyến cáo 2). Không phải cấp cứu."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi dạ dày; làm cùng buổi nội soi đại tràng ở bệnh viện tỉnh.)",
+     "n": "Thiếu máu thiếu sắt sau mãn kinh: soi dạ dày và đại tràng đầu tay (BSG 2021 khuyến cáo 11); làm cùng buổi là cách hiệu quả hơn (BSG 2021 mục How to investigate)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trĩ nội độ III (Goligher) đang chảy máu, kèm thiếu máu thiếu sắt (Hb 98 g/L) do mất máu mạn, táo bón; chưa loại trừ tổn thương khác ở đại tràng nên cần nội soi",
+     "ok": 1,
+     "n": "Máu đỏ tươi không đau, búi sa phải đẩy vào, thấy búi chảy máu qua ống soi (ASCRS 2024 khuyến cáo 1; AGA 2026 Bảng 1, BPA 4). Thiếu máu thiếu sắt là hệ quả của mất máu mạn, không phải bệnh riêng."
+    },
+    {
+     "t": "Ung thư trực tràng / đại tràng",
+     "n": "Không sờ thấy khối, không thấy khối ở trực tràng thấp, nhưng thăm trực tràng và ống soi chỉ thấy đoạn thấp. Chảy máu gán cho trĩ là cơ hội bỏ sót ung thư hay gặp nhất (ASCRS 2024 khuyến cáo 2); 78 tuổi, thiếu máu thiếu sắt, chưa nội soi: cần nội soi đại tràng (BSG 2021 khuyến cáo 11)."
+    },
+    {
+     "t": "Nứt hậu môn",
+     "n": "Không đau nhói khi đi cầu, không đau khi thăm trực tràng, đường lược không có vết nứt: ngược nứt hậu môn (AGA 2026 BPA 1). Hai bệnh có thể cùng tồn tại đến 20% (AGA 2026 mục BPA 1) nhưng ca này không thấy vết nứt."
+    },
+    {
+     "t": "Sa trực tràng",
+     "n": "Bà sinh 5 con, có búi sa: phải phân biệt. Búi có nếp xuyên tâm và mạch máu căng, không có nếp tròn niêm mạc hồng (AGA 2026 mục BPA 1)."
+    },
+    {
+     "t": "Nhiễm trùng ruột sau du lịch hoặc sốt xuất huyết",
+     "n": "Không sốt, không tiêu chảy, không nhầy mủ, không chảy máu nơi khác, tiểu cầu 428 G/L. Đi qua vùng dịch không đủ để nghĩ."
+    },
+    {
+     "t": "Nhồi máu cơ tim / bệnh mạch vành",
+     "n": "Không đau ngực, không khó thở khi nghỉ, ECG bình thường. Hụt hơi và tối sầm mắt khi gắng sức giải thích được bằng thiếu máu (QĐ 1832/2022 mục 3.1: mệt mỏi, mức nặng có thể choáng, ngất; triệu chứng hụt hơi cụ thể: không có trong tài liệu đã tải)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: máu ra từ trĩ nội độ III thấy qua ống soi, nhưng chưa kết luận chỉ do trĩ vì bà 78 tuổi, đã thiếu máu thiếu sắt và chưa từng nội soi đại tràng",
+     "v": "c",
+     "n": "Chảy máu hậu môn không tự quy cho trĩ (ASCRS 2024 khuyến cáo 2); thiếu máu thiếu sắt phải tìm nguyên nhân (BSG 2021 khuyến cáo 11; QĐ 1832/2022 mục 5.3)."
+    },
+    {
+     "t": "Viết giấy giới thiệu nội soi dạ dày và đại tràng cùng buổi ở bệnh viện tỉnh theo hẹn (không cấp cứu); ghi Hb 98 g/L, ferritin 7, FIT dương (nếu đã làm), đã soi hậu môn; hoặc chụp CT đại tràng nếu nơi nội soi thấy bà không hợp nội soi",
+     "v": "c",
+     "n": "Ba mức nguồn (ASCRS 2024 khuyến cáo 2; AGA 2026 BPA 1; BSG 2021 khuyến cáo 11). BSG 2021 khuyến cáo 29: cân nhắc lợi hại ở người nhiều bệnh nền hoặc thể trạng yếu; bà còn gánh hàng đi chợ, không bệnh nền: nên nội soi. CT đại tràng là lựa chọn thay thế khi không hợp nội soi (BSG 2021 khuyến cáo 11). Cách chuẩn bị ruột ở người ≥ 75 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Sắt uống: sắt sulfat 200 mg (65 mg sắt nguyên tố) 1 viên/ngày, hoặc cách ngày nếu không dung nạp (BSG 2021); hoặc 2 mg sắt/kg/ngày (QĐ 1832/2022). Bắt đầu ngay vì lịch nội soi trên 2 tuần",
+     "v": "c",
+     "n": "Mâu thuẫn nguồn mới (xem TH-0990_mau_thuan.md): BSG 2021 khuyến cáo 17, 18, 20; mục Oral IRT. QĐ 1832/2022 mục 5.2a (≈ 100 mg/ngày cho 49 kg, chưa nêu đối tượng). Liều BSG thận trọng hơn và đủ ở người cao tuổi (liều 15 mg sắt nguyên tố cũng có đáp ứng và ít tác dụng phụ). Nếu hẹn nội soi trong 2 tuần thì hoãn sắt đến sau nội soi (BSG 2021 mục Oral IRT)."
+    },
+    {
+     "t": "Chất xơ 20–30 g/ngày, uống nước đều, không nhịn đi cầu, không rặn, ngồi bô không quá 3 phút; thuốc làm mềm phân macrogol (PEG) 17 g/ngày (hoặc psyllium, hoặc lactulose 15 g/ngày)",
+     "v": "c",
+     "n": "Chế độ ăn và sinh hoạt là điều trị đầu tay (ASCRS 2024 khuyến cáo 3, mạnh; AGA 2026 BPA 2: 20–30 g chất xơ, 3 phút). PEG mạnh, lactulose khi OTC thất bại, psyllium có điều kiện (AGA-ACG 2023 khuyến cáo 1, 2, 4; Bảng 4). Cần thêm vì sắt gây táo bón (BSG 2021 mục Oral IRT). Lượng nước cụ thể/ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trấn an nỗi sợ nhồi máu: hỏi bà lo gì, nói rõ ECG/khám tim bình thường, hụt hơi và tối sầm mắt do thiếu máu; dặn dấu hiệu tim cần đến ngay",
+     "v": "c",
+     "n": "Triệu chứng thiếu máu: mệt mỏi, choáng (QĐ 1832/2022 mục 3.1); đau ngực hoặc triệu chứng tương đương là chỉ điểm hội chứng vành cấp (ESC 2023 mục 3.1.1). Không khẳng định rặn không bao giờ gây nhồi máu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay bằng văn bản cho bà và con gái; hẹn tái khám 4 tuần kèm công thức máu, mang kết quả nội soi",
+     "v": "c",
+     "n": "Lưới an toàn (ACPGBI/BSG 2022 khuyến cáo 8, 10); kiểm Hb trong 4 tuần đầu dùng sắt (BSG 2021 khuyến cáo 20); cục cứng đau ở hậu môn là trĩ ngoại tắc mạch (ASCRS 2024 khuyến cáo 1)."
+    },
+    {
+     "t": "Thuốc phlebotonic uống (diosmin–hesperidin), ngâm hậu môn nước ấm, thuốc bôi/đặt làm dịu (corticoid không quá 2 tuần)",
+     "v": "a",
+     "n": "Không bắt buộc: phlebotonic giảm chảy máu trong tổng quan Cochrane (ASCRS 2024 khuyến cáo 4); ngâm nước ấm dữ liệu hạn chế (AGA 2026 BPA 2); thuốc bôi ít bằng chứng, corticoid không quá 2 tuần (AGA 2026 BPA 3). Diosmin có trong danh mục BHYT (TT 20/2022/TT-BYT mục 17.6). Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Vitamin C hoặc nước cam kèm sắt",
+     "v": "a",
+     "n": "QĐ 1832/2022 mục 5.2a khuyên bổ sung; BSG 2021 (mục Oral IRT) không khuyến cáo vì RCT lớn cho thấy không tăng đáp ứng, không giảm tác dụng phụ. Không có nguồn nói gây hại: chấp nhận."
+    },
+    {
+     "t": "Magie oxid làm thuốc nhuận tràng",
+     "v": "a",
+     "n": "AGA-ACG 2023 khuyến cáo 3 (có điều kiện, chứng cứ rất thấp), tránh khi suy thận; sổ mâu thuẫn TH-0870: người ≥ 75 tuổi ưu tiên PEG, magie chấm a kèm theo dõi."
+    },
+    {
+     "t": "Hẹn thủ thuật thắt vòng hoặc đông hồng ngoại tại phòng khám chuyên khoa sau khi có kết quả nội soi, nếu còn triệu chứng sau bảo tồn",
+     "v": "a",
+     "n": "Thủ thuật cho trĩ độ I–II, chọn lọc độ III khi bảo tồn thất bại (ASCRS 2024 khuyến cáo 5; AGA 2026 BPA 5); độ III thất bại thắt thì hội chẩn ngoại khoa (AGA 2026 BPA 10)."
+    },
+    {
+     "t": "Giữ siro ho long đờm đang dùng, không đổi",
+     "v": "a",
+     "n": "Ho khan nhẹ, phổi sạch, không liên quan chảy máu; thuốc ho: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thắt vòng, chích xơ hoặc đông hồng ngoại ngay hôm nay",
+     "v": "w",
+     "n": "Chưa loại trừ nguyên nhân khác của chảy máu và thiếu máu (ASCRS 2024 khuyến cáo 2; BSG 2021 khuyến cáo 11); thủ thuật dành cho trĩ còn triệu chứng sau bảo tồn (ASCRS 2024 khuyến cáo 5)."
+    },
+    {
+     "t": "Chỉ cho thuốc trĩ rồi về, không xét nghiệm máu, không nội soi, không dặn gì thêm",
+     "v": "w",
+     "n": "Đúng điểm gãy của ca: chảy máu gán cho trĩ là cơ hội bỏ sót ung thư hay gặp nhất (ASCRS 2024 khuyến cáo 2); thiếu máu thiếu sắt sau mãn kinh phải soi hai đầu (BSG 2021 khuyến cáo 11)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trĩ nội độ III (Goligher), đang chảy máu mạn, sa búi phải đẩy vào; không có vết nứt hậu môn",
+     "Thiếu máu thiếu sắt do mất máu mạn (Hb 98 g/L, MCV 72 fL, ferritin 7 ng/mL), có triệu chứng gắng sức bị bà phủ nhận",
+     "Táo bón do ít xơ, ít nước, nhịn đi cầu và ngồi lâu (yếu tố làm trĩ nặng lên sau chuyến đi)",
+     "Chưa loại trừ ung thư đại trực tràng và tổn thương dạ dày–đại tràng khác: có chỉ định nội soi hai đầu theo hẹn",
+     "Nỗi sợ nhồi máu cơ tim (lý do thật đến khám); chưa thấy bằng chứng bệnh tim"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: bà nói 'chút xíu thôi'. Hỏi bằng việc cụ thể (nước bồn cầu, số tờ giấy lau, leo cầu thang, đứng lên có tối mắt) mới thấy chảy máu thật và thiếu máu. Không đau nhói, cục sa phải đẩy vào là trĩ chứ không phải nứt hậu môn (AGA 2026 BPA 1; ASCRS 2024 khuyến cáo 1). Hỏi 'bà lo điều gì nhất' mới lộ nỗi sợ nhồi máu. Phải hỏi riêng thuốc giảm đau, chống đông (không có), chuyến đi và tiêu chảy, sốt.",
+     "Khám: da niêm nhợt; thăm trực tràng và soi hậu môn cho mọi bệnh nhân mới nghi trĩ nếu có thể (AGA 2026 BPA 4). Thấy ba búi nội sung huyết, rỉ máu, sa độ III (Bảng 1), nếp xuyên tâm nên không phải sa trực tràng (AGA 2026 mục BPA 1). Không vết nứt, không khối ở đoạn với tới. Không có siêu âm không ảnh hưởng: khám bụng đủ, chẩn đoán không cần siêu âm.",
+     "Cận lâm sàng: công thức máu và ferritin xác nhận thiếu sắt trước khi thăm dò (BSG 2021 khuyến cáo 4). FIT (nếu làm) dương không đổi xử trí (ACPGBI/BSG 2022 khuyến cáo 12 so với BSG 2021 khuyến cáo 10, ghi cả hai). ECG không bắt buộc, để trấn an (ESC 2023 mục 3.2). Không cần NS1, troponin.",
+     "Chẩn đoán: trĩ là nguồn máu nhìn thấy, nhưng thiếu máu thiếu sắt ở nữ mãn kinh chưa từng nội soi buộc phải soi dạ dày và đại tràng (BSG 2021 khuyến cáo 11). Chảy máu gán cho trĩ là cơ hội bỏ sót ung thư hay gặp nhất (ASCRS 2024 khuyến cáo 2). Hai bệnh cùng tồn tại là có thể.",
+     "Ghi chú áp dụng (≥ 75 tuổi): AGA 2026 và ASCRS 2024 không có phần riêng cho người rất cao tuổi; BSG 2021 khuyến cáo 28–29 cho thiếu sắt ở người cao tuổi: cân nhắc lợi hại nội soi theo bệnh nền và thể trạng. Bà khỏe, còn đi chợ nên vẫn nội soi. Thang Oakland (ACG 2023) cho chảy máu tiêu hóa dưới cấp nội trú, tài liệu không bàn chảy máu từ trĩ: không dùng cho ca này. Tiêu chuẩn nhập viện cho thiếu máu thiếu sắt mạn Hb 98 g/L ổn định: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị nguyên nhân gây thiếu sắt song song với bù sắt (QĐ 1832/2022 mục 5.3; BSG 2021 khuyến cáo 17: không hoãn sắt trừ khi nội soi sắp tới, tức trong 2 tuần).",
+     "Nội soi dạ dày và đại tràng theo hẹn, cùng buổi (BSG 2021 mục How to investigate); không cấp cứu. Ghi cả ba mức nguồn về nội soi đại tràng ở người chảy máu hậu môn (sổ mâu thuẫn TH-0970).",
+     "Sắt: BSG 2021 1 viên/ngày (65 mg sắt nguyên tố) hoặc cách ngày; QĐ 1832/2022 2 mg/kg/ngày và nên kèm vitamin C; BSG 2021 không khuyến cáo vitamin C. Thận trọng hơn là liều BSG (ít táo bón, hợp bà hay táo bón và có trĩ). Thời gian: cả hai nguồn đều dùng thêm khoảng 3 tháng sau khi Hb bình thường.",
+     "Trĩ: chất xơ 20–30 g/ngày, không rặn, không ngồi bô quá 3 phút (AGA 2026 BPA 2); PEG 17 g/ngày vì táo bón và vì sắt (AGA-ACG 2023 khuyến cáo 2). Phlebotonic, thuốc bôi, ngâm nước ấm: chấp nhận, bằng chứng yếu (AGA 2026 BPA 2, 3; ASCRS 2024 khuyến cáo 4).",
+     "Không thủ thuật thắt trĩ ngay: chưa loại trừ nguyên nhân khác; sau nội soi mà còn triệu chứng mới xét thắt vòng hoặc đông hồng ngoại (ASCRS 2024 khuyến cáo 5; AGA 2026 BPA 5, 10).",
+     "Tránh quá tay: nhập viện hay chuyển cấp cứu không có chỉ định ở người huyết động ổn, không đau ngực (xem neu_sai).",
+     "Tái khám: Hb sau 4 tuần sắt (BSG 2021 khuyến cáo 20); theo dõi định kỳ sau khi Hb về bình thường, ban đầu mỗi khoảng 6 tháng (BSG 2021 khuyến cáo 23)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sắt sulfat",
+      "ham_luong": "200 mg (65 mg sắt nguyên tố)",
+      "lieu": "1 viên mỗi ngày (BSG 2021); hoặc cách ngày nếu táo bón hay đau bụng, không dung nạp; hoặc 2 mg sắt/kg/ngày ≈ 100 mg sắt nguyên tố mỗi ngày (QĐ 1832/2022). Ở người cao tuổi có thể chọn liều thấp hơn (BSG 2021 mục Oral IRT)",
+      "duong": "Uống",
+      "thoi_diem": "Lúc đói buổi sáng hoặc giữa các bữa, cách trà ít nhất 1 giờ; bắt đầu ngay vì nội soi hẹn khoảng 3 tuần (hoãn đến sau nội soi nếu hẹn trong 2 tuần)",
+      "so_ngay": "Kiểm Hb sau 4 tuần; dùng tiếp khoảng 3 tháng sau khi Hb về bình thường (BSG 2021 khuyến cáo 20; QĐ 1832/2022 mục 5.1). QĐ 1832/2022 mục 5.2a nêu tổng 6–12 tháng",
+      "ghi_chu": "BSG 2021 khuyến cáo 17, 18, 20, mục Oral IRT, Bảng 3; QĐ 1832/2022 mục 5.1, 5.2a. Hai nguồn khác nhau, ghi cả hai (sổ mâu thuẫn TH-0990). Phân sẫm màu do sắt; sắt dễ gây táo bón nên dùng cùng PEG."
+     },
+     {
+      "thuoc": "Macrogol (PEG) dạng gói",
+      "ham_luong": "Theo chế phẩm ở Việt Nam (không có trong tài liệu đã tải)",
+      "lieu": "17 g mỗi ngày (hoặc lactulose 15 g/ngày, hoặc psyllium)",
+      "duong": "Uống, pha đủ nước",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng đều đến lúc tái khám; chỉnh theo độ mềm của phân",
+      "ghi_chu": "AGA-ACG 2023 khuyến cáo 2 (mạnh), khuyến cáo 4, Bảng 4. Người ≥ 75 tuổi ưu tiên PEG hơn magie oxid (sổ mâu thuẫn TH-0870)."
+     },
+     {
+      "thuoc": "Siro ho long đờm (đang dùng)",
+      "ham_luong": "Theo chế phẩm bà đang dùng (không có trong tài liệu đã tải)",
+      "lieu": "Giữ nguyên, 3 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Như cũ",
+      "so_ngay": "Đến khi hết ho",
+      "ghi_chu": "Giữ nguyên thuốc đang dùng; không liên quan chảy máu hay thiếu máu."
+     }
+    ],
+    "dan_do": [
+     "Giải thích: 'Máu ra từ búi trĩ tôi thấy tận mắt. Nhưng bà đã thiếu máu và chưa từng soi ruột, nên tôi chưa dám nói chỉ là trĩ. Bà cần soi dạ dày và ruột già ở bệnh viện tỉnh, theo hẹn, không phải cấp cứu' (BSG 2021 khuyến cáo 11).",
+     "Trấn an: 'Khám tim (và điện tim nếu đã làm) không có gì bất thường. Hồi hộp, hụt hơi, tối sầm mắt là do thiếu máu; uống sắt thì đỡ.' Đau ngực, khó thở khi nghỉ, ngất: đi cấp cứu ngay.",
+     "Ăn uống, đi cầu: ăn thêm rau mềm nấu nhừ, chuối, đu đủ, yến mạch (chất xơ 20–30 g/ngày); mang chai nước ra chợ, uống đều; đi vệ sinh khi buồn, không nhịn; ngồi bô không quá 3 phút, không rặn; pha gói macrogol mỗi sáng (AGA 2026 BPA 2; AGA-ACG 2023).",
+     "Sắt: uống lúc đói buổi sáng, cách trà ít nhất 1 giờ; phân sẫm màu do sắt, không phải máu, nhưng nếu phân đen dính kèm chóng mặt thì quay lại; dễ táo bón nên uống cùng macrogol. Uống thêm nước cam được, không bắt buộc (QĐ 1832/2022 mục 5.2a; BSG 2021 mục Oral IRT).",
+     "Giấy giới thiệu nội soi: nhờ con gái đưa đi; ghi rõ thiếu máu, FIT dương. Bà đừng tự mua thuốc trĩ nữa; muốn dùng thuốc gì hỏi tôi trước.",
+     "Quay lại ngay hoặc đi cấp cứu nếu: máu thành dòng hay ra cục, chóng mặt, ngất, mệt hụt hơi tăng, đau ngực, đau bụng mới, cục cứng đau ở hậu môn, không đi cầu được, sụt cân (ACPGBI/BSG 2022 khuyến cáo 8, 10). Tái khám sau 4 tuần, thử máu lại, mang kết quả nội soi."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ba tuần sau, con gái chở bà lên bệnh viện tỉnh nội soi dạ dày và đại tràng cùng buổi: không u, không polyp, không viêm đại tràng; trực tràng thấp có ba búi trĩ nội sung huyết, một búi rỉ máu; dạ dày–tá tràng bình thường. Bà uống sắt, macrogol và ăn thêm rau mềm: sau 4 tuần Hb 111 g/L, hết ra máu, leo cầu thang hai tầng không phải nghỉ; ba tháng sau Hb 126 g/L, ferritin 38 ng/mL. Đây là ca 'biến chứng do bỏ sót': bốn tháng trước đó, bà bốn lần mua thuốc trĩ chỉ nói 'ra chút máu', không ai khám hậu môn, thử máu hay hỏi chuyện mệt; thiếu máu thiếu sắt nặng dần trong im lặng. Điểm gãy trong chuỗi quyết định: nghe 'chút máu' mà không hỏi bằng việc cụ thể, gán máu cho trĩ không khám và không thử máu, và không hỏi vì sao lúc này bà mới đi khám. Nhờ khám hậu môn, thử máu, hỏi nỗi sợ và hẹn nội soi, thiếu máu được chữa và u (nếu có) không bị bỏ sót.",
+ "nhieu": [
+  "Đi qua vùng có dịch sốt xuất huyết: không sốt, không đau cơ khớp, tiểu cầu 428 G/L; không cần NS1. Chuyến đi chỉ là yếu tố khởi phát (ngồi xe lâu, nhịn đi cầu, uống ít nước làm táo bón, trĩ nặng lên).",
+  "Ho khan nhẹ và siro ho long đờm: phổi sạch, không liên quan chảy máu; chỉ có vai trò nhắc hỏi thuốc đang dùng (không NSAID, không chống đông).",
+  "Nỗi sợ nhồi máu: không đau ngực, ECG bình thường; hụt hơi và tối sầm mắt do thiếu máu. Bà chỉ nói ra khi được hỏi lo điều gì nhất.",
+  "Không có siêu âm: không ảnh hưởng chẩn đoán; app tự khóa CT và nội soi, nên nội soi đại tràng và dạ dày phải qua giấy giới thiệu.",
+  "Búi trĩ nhìn thấy rõ dễ khiến dừng lại ('đã có nguồn máu'): thiếu máu thiếu sắt và tuổi 78 mới là lý do không dừng."
+ ],
+ "bai_hoc_bien": [
+  "Phủ nhận triệu chứng nặng: dùng câu hỏi chức năng thay câu hỏi cảm giác ('lau mấy tờ giấy, bồn cầu có đỏ không, leo cầu thang có phải nghỉ không, đứng lên có tối mắt không so với năm ngoái') thay vì 'có mệt không'.",
+  "Rất cao tuổi: triệu chứng thiếu máu lẫn vào 'già rồi ai chẳng vậy'; hỏi người nhà. Hướng dẫn trĩ không có phần riêng cho người ≥ 75 tuổi, nên ngoại suy và cân nhắc lợi hại nội soi theo thể trạng (BSG 2021 khuyến cáo 29).",
+  "Nghề tiểu thương chợ: ngồi ghế thấp, nhịn đi cầu vì không có nhà vệ sinh sạch, uống ít nước. Sửa nguyên nhân sinh hoạt mới giữ được kết quả.",
+  "Yếu tố khởi phát sau du lịch vùng dịch: hỏi sốt, tiêu chảy, chảy máu nơi khác để loại trừ; đừng để vùng dịch kéo sang hướng khác.",
+  "Lý do thật (sợ nhồi máu): hỏi 'bà lo điều gì nhất'. Trấn an bằng khám tim, ECG và giải thích hụt hơi do thiếu máu; không hứa hẹn điều tài liệu không nói.",
+  "Biến chứng do bỏ sót: chảy máu gán cho trĩ là cơ hội bỏ sót ung thư hay gặp nhất (ASCRS 2024 khuyến cáo 2). Thiếu máu thiếu sắt phải soi hai đầu (BSG 2021 khuyến cáo 11)."
+ ],
+ "diem_nho": [
+  "Trĩ chỉ đau đáng kể khi tắc mạch; đau nhói khi đi cầu nghĩ nứt hậu môn; soi hậu môn cho mọi bệnh nhân mới nếu có thể (AGA 2026 BPA 1, 4).",
+  "Goligher III: sa dưới đường lược và phải đẩy bằng tay (AGA 2026 Bảng 1). Nếp xuyên tâm là trĩ, nếp tròn là sa trực tràng.",
+  "Hb dưới 120 g/L ở nữ; ferritin dưới 15 µg/L là hết dự trữ sắt; nữ mãn kinh thiếu máu thiếu sắt thì soi dạ dày và đại tràng (BSG 2021 khuyến cáo 4, 11).",
+  "Sắt: 1 viên sắt sulfat 200 mg/ngày hoặc cách ngày, kiểm Hb sau 4 tuần, dùng tiếp khoảng 3 tháng sau khi Hb bình thường (BSG 2021 khuyến cáo 18, 20); QĐ 1832/2022 nêu liều và thời gian khác, ghi cả hai.",
+  "Chất xơ 20–30 g/ngày, không rặn, không ngồi quá 3 phút (AGA 2026 BPA 2); PEG 17 g/ngày (AGA-ACG 2023 khuyến cáo 2).",
+  "Không thủ thuật trĩ khi chưa loại trừ nguyên nhân khác của chảy máu (ASCRS 2024 khuyến cáo 2, 5)."
+ ],
+ "nguon": [
+  "AGA 2026 – Clinical Practice Update on Diagnosis and Treatment of Hemorrhoids – TL-0183 (Clin Gastroenterol Hepatol 2026;24:1773–1781) – BPA 1–5, 10, Bảng 1",
+  "ASCRS 2024 – Management of Hemorrhoids – TL-0205 (Dis Colon Rectum 2024;67:614–623) – khuyến cáo 1–5, Bảng 2",
+  "ACPGBI/BSG 2022 – FIT ở bệnh nhân có triệu chứng nghi ung thư đại trực tràng – TL-0214 (Gut 2022;71:1939–1962) – khuyến cáo 3, 8, 10–13; mục Rectal bleeding",
+  "BSG 2021 – Iron deficiency anaemia in adults – TL-0219 (Gut 2021, doi:10.1136/gutjnl-2021-325210) – khuyến cáo 4, 10, 11, 17–20, 23, 28, 29; mục Definitions, How to investigate, Oral IRT, Bảng 3",
+  "AGA-ACG 2023 – Pharmacological management of chronic idiopathic constipation – TL-0208 (Gastroenterology 2023;164:1086–1106) – khuyến cáo 1–4, Bảng 4",
+  "BYT QĐ 1832/QĐ-BYT 2022 – Bệnh lý huyết học (tltk-10000-ca) – bài Thiếu máu thiếu sắt, mục 3.1, 4.1, 5.1–5.3",
+  "ESC 2023 – Hội chứng vành cấp – TL-0069 – mục 3.1.1, 3.2, 3.3.1",
+  "ACG 2023 – Acute lower GI bleeding – TL-0209 (Am J Gastroenterol 2023;118:208–231) – Bảng 3 (Oakland), ghi chú không bàn trĩ",
+  "BYT TT 20/2022/TT-BYT – Danh mục thuốc thanh toán BHYT (TL-0010) – mục 17.6 thuốc điều trị trĩ",
+  "Không có trong tài liệu đã tải: liều diosmin–hesperidin; lượng nước/ngày; chuẩn bị ruột ở người ≥ 75 tuổi; tiêu chuẩn nhập viện cho thiếu máu thiếu sắt mạn ổn định; tiêu chuẩn Hb phân độ nặng; mối liên quan giữa rặn và nhồi máu; chế phẩm macrogol và siro ho ở Việt Nam; thời hạn nội soi 'theo hẹn'."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25 (bản 1): viết ca mới. Đã đọc TL-0183 (BPA 1–5, 10, Bảng 1), TL-0205 (khuyến cáo 1–5), TL-0214 (khuyến cáo 3, 8, 10–13, mục Rectal bleeding), TL-0219 (khuyến cáo 4, 5, 10, 11, 17–20, 28, 29, Oral IRT), TL-0208 (khuyến cáo 1–4, bảng liều), QĐ 1832/2022 (Thiếu máu thiếu sắt mục 3–5), TL-0209 (Bảng 3), TL-0010 (mục 17.6), ESC 2023 (mục 3.1.1–3.3.1 theo cách dẫn của TH-0295).",
+  "Mâu thuẫn đã có trong sổ và áp dụng: nội soi đại tràng ở chảy máu hậu môn (TH-0970, ghi ba mức); FIT ở thiếu máu thiếu sắt (TH-0936, ghi cả hai); magie oxid/PEG ở ≥ 75 tuổi (TH-0870). Mâu thuẫn mới: sắt uống ở người lớn (liều, thời gian, vitamin C) giữa BSG 2021 và QĐ 1832/2022: xem TH-0990_mau_thuan.md.",
+  "Thiết kế: sổ cái có 'Biến chứng do bỏ sót' nên ca dựng thiếu máu thiếu sắt (Hb 98 g/L) là hệ quả bị bỏ sót qua 4 lần mua thuốc trĩ. Ket_luan ve_hen có giấy giới thiệu nội soi hai đầu theo hẹn, theo tiền lệ TH-0936, TH-0295. Thang Oakland tính cho bà được 19 điểm (tuổi > 70: 2, khám trực tràng có máu: 1, mạch 70–89: 1, HA tâm thu 130–159: 2, Hb 9,0–10,9 g/dL: 13) vượt ngưỡng 8, nhưng thang dành cho chảy máu cấp nội trú nên ca không dùng; đã nói rõ trong phan_tich_chan_doan.",
+  "Các giả định thiết kế (không có nguồn): khoảng cách 28 km đến bệnh viện tỉnh, lịch nội soi khoảng 3 tuần; kết quả nội soi, Hb sau 4 tuần và 3 tháng ở ket_cuc; FIT 86 µg/g; tên nhân vật. Các số liệu CTM đã kiểm tính nhất quán (MCH = Hb/RBC, MCHC = Hb/Hct, Hct = RBC × MCV)."
+ ]
+}
