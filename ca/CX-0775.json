@@ -1,0 +1,825 @@
+{
+ "ma_ca": "CX-0775",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "CX_dau_xo_co_rat_cao_tuoi",
+ "so_cai": {
+  "chuyen_khoa": "Cơ xương khớp - đau",
+  "chan_doan_dich": "Đau xơ cơ (fibromyalgia)",
+  "chan_doan_phai_loai_tru": [
+   "Suy giáp",
+   "Trầm cảm",
+   "Đa cơ do thấp"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Tiểu thương chợ",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Huỳnh Thị Mười",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Bán đồ khô, bánh kẹo ở sạp chợ",
+  "can_nang": 46,
+  "chieu_cao": 149,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Con gái út gọi bà là 'mẹ', xưng 'con' với bác sĩ.",
+  "tinh_cach": "Bán chợ gần năm mươi năm, nói nhanh, tính từng đồng, tự lo tiền khám không xin con. Ngại làm phiền, sợ thành gánh nặng cho con. Tỉnh táo, nghe rõ, hơi đãng trí. Coi thuốc nhỏ mũi là 'thuốc cho dễ thở' chứ không phải thuốc. Ít hiểu biết y khoa, gọi dạ dày là 'bao tử'.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: bà mang theo 300.000 đồng bán chợ. Hỏi giá từng xét nghiệm, nếu tổng vượt quá 300.000 đồng thì từ chối bớt, xin 'cái nào cần nhất thì làm, còn lại để lần sau'; ngại để con gái biết chuyện tiền. Hỏi chung 'bà đang dùng thuốc gì' thì chỉ kể thuốc uống; thuốc nhỏ mũi chỉ kể khi bác sĩ hỏi thuốc nhỏ, xịt, thuốc tự mua, hỏi ngạt mũi hoặc hỏi đêm ngủ ra sao.",
+  "nguoi_nha": "Con gái út, chị Lan, 47 tuổi, chạy xe ôm công nghệ, chở mẹ đi và ngồi cạnh. Thương mẹ, nói nhỏ nhẹ, hay lo mẹ ngã. Chị biết mẹ đau mỏi, ngủ kém, hay nhỏ mũi, nhưng không biết mẹ tính toán tiền xét nghiệm. Chị chỉ trả lời khi bác sĩ hỏi chị hoặc bà ngập ngừng (nguoi_noi = nguoi_nha); còn lại bà tự trả lời.",
+  "ten_nguoi_nha": "Chị Lan (con gái út)",
+  "ngoai_hinh": {
+   "da": "#d3a07c",
+   "toc": "#d2cdc7",
+   "kieuToc": "bui",
+   "ao": "#9a6b78",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#dcae8b",
+    "toc": "#2a1d18",
+    "kieuToc": "dai",
+    "ao": "#5e8c8c",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tái khám theo hẹn, đau mỏi khắp người",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không có máy siêu âm (siêu âm khớp, vùng cổ, bụng đều không làm được; CT và nội soi kéo theo). Có xét nghiệm cơ bản và X-quang thường quy."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · tái khám theo hẹn",
+   "tiep_don": "Nữ 79 tuổi, tiểu thương chợ, đến tái khám theo giấy hẹn của bác sĩ trực hôm trước vì đau mỏi khắp người nhiều tháng, mang theo toa thuốc cũ. Con gái út chở đi. Sinh hiệu: HA 136/80 mmHg, mạch 76 l/p, nhiệt 36,7 °C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 46 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Bà Mười bị gửi lên bệnh viện tuyến trên khám thấp khớp, làm MRI, ANA, RF/anti-CCP vì 'đau chưa rõ nguyên nhân'. Đau xơ cơ là chẩn đoán lâm sàng sau khi loại bệnh giống bằng khai thác, khám và xét nghiệm cơ bản (ACR 2016, Clinical diagnosis), không loại trừ bệnh khác kèm theo (Bảng 3). Bà mất một ngày bán, tốn xe và xét nghiệm vượt xa 300.000 đồng, về vẫn chưa được giải thích bệnh hay hướng dẫn vận động, dễ bỏ luôn điều trị.",
+    "nhap_vien": "Bà Mười nhập viện truyền thuốc giảm đau và dùng corticoid 'cho đỡ nhanh'. EULAR 2016 (phần Evaluation of pharmacological medicines) xếp corticoid và opioid mạnh 'strong against' trong đau xơ cơ; AGS Beers 2023 Bảng 2 cảnh báo NSAID và thuốc tác động thần kinh trung ương ở người trên 75 tuổi. Bà tốn viện phí, bỏ sạp nhiều ngày, đau và mất ngủ không được giải quyết, vận động và bỏ thuốc nhỏ mũi bị bỏ qua."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đến theo giấy hẹn đây. Người tôi ê ẩm hoài, uống thuốc hôm trước cũng chẳng bớt. Bác sĩ làm giùm cái nào cần nhất thôi nha, tôi mang có chút tiền.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "136/80",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi tái khám theo giấy hẹn của bác sĩ trực hôm trước. Đau mỏi khắp người đã chín tháng, thuốc cũ không bớt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và giấy hẹn"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thật ra bà đi vì tờ giấy hẹn, lỡ hẹn thấy có lỗi với bác sĩ. Điều bà sợ nhất là có ngày nằm một chỗ thành gánh nặng cho con, và bà chỉ mong ngủ được.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều bà lo nhất, vì sao hôm nay đến khám, hoặc bà mong gì ở lần khám này.",
+     "k": 1,
+     "y": "Động cơ thật: theo giấy hẹn, sợ thành gánh nặng, muốn ngủ được"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Chín tháng trước đi xe khách về quê cúng giỗ, ngồi gập gối khoảng 11 tiếng. Hôm sau ê ẩm cổ, vai, lưng, đùi. Tưởng 'ê xe' vài bữa hết, nhưng không hết mà lan dần, từ đó không có ngày nào hết đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau chuyến xe dài, thời gian chín tháng"
+    },
+    {
+     "id": "vung_dau",
+     "noi_dung": "Nhức mỏi cả hai bên: cổ, hai vai, hai bắp tay, lưng trên, thắt lưng, hai mông, hai đùi, hai bắp chân. Cẳng tay, bàn tay không đau; hàm, ngực, bụng không đau. Đau âm ỉ, không chỗ nào sưng nóng đỏ, không đau riêng một bên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân bố đau lan tỏa (đếm vùng đau)"
+    },
+    {
+     "id": "cung_sang",
+     "noi_dung": "Sáng dậy cứng người khoảng 15–20 phút rồi nới ra. Cuối ngày mỏi nặng hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cứng buổi sáng ngắn (phân biệt đa cơ do thấp)"
+    },
+    {
+     "id": "ngu_met",
+     "noi_dung": "Ngủ 4–5 tiếng, thức 3–4 lần, dậy vẫn mệt như chưa ngủ. Mệt cả ngày, ngồi sạp hay thiếp đi. Hay đãng trí: quên để tiền ở đâu, tính tiền chậm hơn trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mệt, ngủ không hồi phục, triệu chứng nhận thức (thang SSS)"
+    },
+    {
+     "id": "dau_dau",
+     "noi_dung": "Nửa năm nay thỉnh thoảng nhức đầu âm ỉ vùng gáy, nằm nghỉ thì hết. Không đau bụng dưới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng kèm 6 tháng (đau đầu, đau bụng dưới)"
+    },
+    {
+     "id": "gca_am",
+     "noi_dung": "Không đau đầu thái dương mới, không nhai mỏi hàm, không nhìn mờ hay nhìn đôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc viêm động mạch tế bào khổng lồ"
+    },
+    {
+     "id": "yeu_co_am",
+     "noi_dung": "Không yếu: tự đứng dậy khỏi ghế thấp, leo thang lên gác được dù chậm vì đau, giơ tay chải tóc được. Không sốt, không sụt cân (46 kg mấy năm nay), không ra mồ hôi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không yếu cơ gốc chi, không triệu chứng toàn thân"
+    },
+    {
+     "id": "giap_am",
+     "noi_dung": "Không sợ lạnh hơn người khác, không táo bón, da không khô, tiếng nói không khàn, cân nặng ổn định.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc suy giáp"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Buồn vì đau nhưng vẫn thích xem tivi, vui khi có cháu về, ăn được. Không chán sống, không ý nghĩ làm hại mình.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc trầm cảm và ý nghĩ tự hại (PHQ-9 câu 9)"
+    },
+    {
+     "id": "thuoc_cu",
+     "noi_dung": "Hôm trước được cho meloxicam 7,5 mg, vitamin B, canxi (bác sĩ nói bà 'thoái hóa cột sống, loãng xương', chưa chụp hay đo gì). Uống meloxicam 5 ngày thì nóng rát bao tử nên bỏ; vitamin B còn uống. Thỉnh thoảng tự uống 1 viên paracetamol 500 mg, không bớt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng, tác dụng phụ NSAID"
+    },
+    {
+     "id": "nho_mui",
+     "noi_dung": "Hơn một năm nay ngày nhỏ mũi 3–4 lần, đêm nào cũng nhỏ, bằng chai thuốc nhỏ mũi xylometazolin mua ở tiệm thuốc đầu chợ, hết chai này mua chai khác. Không nhỏ thì ngạt, không ngủ được. Bà thấy đó đâu phải thuốc uống nên không kể.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'bà đang dùng thuốc gì' thì chỉ kể thuốc uống. Chỉ nói khi bác sĩ hỏi thuốc nhỏ hoặc xịt mũi, thuốc tự mua, hỏi ngạt mũi, hoặc hỏi đêm ngủ ra sao.",
+     "k": 1,
+     "y": "Thuốc nhỏ mũi co mạch dùng kéo dài (thuốc đang dùng bị bỏ sót)"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Tiền khám bà tự lo, không xin con: mang theo 300.000 đồng tiền bán chợ. Xét nghiệm nào đắt thì để lần sau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giới hạn tiền: phải xếp ưu tiên xét nghiệm"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Bán đồ khô, bánh kẹo ở sạp, ngồi ghế thấp khoảng 10 tiếng, 6 ngày/tuần, họp chợ từ 5 giờ sáng. Đi bộ từ nhà ra chợ khoảng 500 m. Chưa té lần nào, đi không cần gậy. Không cao huyết áp hay tiểu đường theo bà biết; mãn kinh từ 50 tuổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghề, tư thế ngồi lâu, vận động, tiền sử té"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói rõ, dáng gầy nhỏ, 46 kg, cao 149 cm (BMI 20,7). Da niêm hồng, không phù, da không khô sần, không ban.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân. Không hạch cổ. Động mạch thái dương hai bên sờ rõ, không đau, không cứng; da đầu không đau khi chạm.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi hai bên đỏ sẫm, bóng, phù nề, cuốn mũi dưới to, không polyp, không mủ. Họng bình thường.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Cổ xoay đủ biên độ. Vai dang chủ động tới 150° hai bên, đau nhẹ cuối tầm, thụ động đủ biên độ. Háng xoay trong, xoay ngoài đủ, không đau. Khớp tay, gối, cổ chân không sưng nóng đỏ; bóp bàn tay không đau. Cột sống thắt lưng gập duỗi được, gõ dọc không đau. Ấn nhẹ cơ cổ – vai, hai bên cột sống lưng, mông, mặt ngoài đùi, bắp chân đều đau lan tỏa (bà nhăn mặt, rụt lại); không điểm đau khu trú, không nhân cứng.",
+     "k": 1
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi (dang vai, gập hông) 5/5 hai bên, gập cổ chống lực tốt. Tự đứng dậy khỏi ghế thấp không cần vịn (chậm vì đau), giơ tay chải đầu được. Không teo cơ.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói nhanh, hơi cáu khi nhắc chuyện đau. Khí sắc bình thường đến hơi trầm, còn đáp ứng cảm xúc (cười khi nhắc cháu). PHQ-9 trả lời qua hỏi đáp: ngủ 2, mệt 2, ít hứng thú 1, khó tập trung 1, các câu khác 0 (kể cả câu 9): tổng 6. Nhớ lại 3 từ sau 5 phút được 2/3.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "tsh": {
+     "v": "e",
+     "r": "TSH 2,2 mUI/L · FT4 14 pmol/L (trong giới hạn bình thường)",
+     "n": "Mệt, đau cơ gặp cả trong suy giáp (QĐ 3879/2014, Suy giáp ở người lớn mục IV.1.4, IV.3); TL-0389 nguyên tắc B xếp TSH vào xét nghiệm bổ sung cần cân nhắc. Đắt nhất (180.000 đồng) nhưng đổi quyết định (levothyroxin hay không)."
+    },
+    "mau_lang": {
+     "v": "e",
+     "r": "Tốc độ máu lắng 14 mm/giờ",
+     "n": "Đa cơ do thấp cần CRP và/hoặc máu lắng tăng (Dasgupta 2012, nguồn bổ sung tự tìm; TL-0389 nguyên tắc B). Máu lắng 30.000 đồng, rẻ hơn CRP 80.000 đồng."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,4 G/L · Hb 124 g/L · TC 240 G/L (bình thường)",
+     "bang": {
+      "wbc": 6.4,
+      "neu_pct": 60.0,
+      "neu": 3.84,
+      "lym_pct": 30.0,
+      "lym": 1.92,
+      "mono_pct": 6.5,
+      "mono": 0.42,
+      "eos_pct": 3.0,
+      "eos": 0.19,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.2,
+      "hgb": 124,
+      "hct": 0.378,
+      "mcv": 90.0,
+      "mch": 29.5,
+      "mchc": 328,
+      "rdw": 13.5,
+      "plt": 240
+     },
+     "n": "Nằm trong bộ xét nghiệm cơ bản (TL-0389 nguyên tắc B)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose đói 5,7 mmol/L",
+     "n": "Loại đái tháo đường (TL-0389 nguyên tắc B). 25.000 đồng."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 3 mg/L",
+     "n": "TL-0389 nguyên tắc B: 'CRP và/hoặc máu lắng'; đã có máu lắng thì CRP chấp nhận được nhưng đắt hơn."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 6,8 mmol/L · Creatinin 88 µmol/L · eGFR 57 mL/ph/1,73m²",
+     "ab": 1,
+     "n": "Chưa kê thuốc thải qua thận nên chưa đổi quyết định; cần trước khi kê pregabalin, duloxetin (Beers 2023 Bảng 6)."
+    },
+    "sa_khop": {
+     "v": "a",
+     "r": "Không dày bao hoạt dịch dưới mỏm cùng vai và quanh háng hai bên, không tràn dịch khớp.",
+     "thay_the": "mau_lang",
+     "n": "Phòng khám không có siêu âm; tiêu chí lâm sàng và máu lắng thay thế (Dasgupta 2012 tính điểm có hoặc không có siêu âm). Siêu âm không cần cho chẩn đoán đau xơ cơ (ACR 2016 Bảng 3)."
+    },
+    "ck": {
+     "n": "Không yếu cơ gốc chi nên CK không đổi quyết định (TL-0381: nghi viêm cơ khi yếu cơ thật; TL-0389 nguyên tắc B chỉ nêu CK là xét nghiệm bổ sung)."
+    },
+    "ana": {
+     "n": "Không ban, loét miệng, sốt, viêm khớp: ANA, RF/anti-CCP chỉ làm khi lâm sàng gợi ý (TL-0389 nguyên tắc B); mỗi loại 250.000 đồng vượt ngân sách."
+    },
+    "xq_cot_song": {
+     "n": "Thoái hóa cột sống tuổi 79 thường gặp, không giải thích đau cả bắp chân; đau xơ cơ vẫn là chẩn đoán dù có bệnh khác (ACR 2016 Bảng 3). 150.000 đồng là nửa ngân sách."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau xơ cơ (fibromyalgia), khởi phát muộn ở người rất cao tuổi",
+     "ok": 1,
+     "n": "Chỉ số đau lan tỏa (WPI) 13 (≥ 7), thang triệu chứng (SSS) 7 (≥ 5), đau ở 5/5 vùng, ≥ 3 tháng (9 tháng): đủ tiêu chuẩn ACR 2016 Bảng 3, chẩn đoán đúng dù có bệnh khác kèm. Đã loại các bệnh giống bằng máu lắng, TSH, công thức máu, glucose."
+    },
+    {
+     "t": "Viêm mũi do thuốc nhỏ mũi co mạch dùng kéo dài (chẩn đoán kèm theo)",
+     "ok": 1,
+     "n": "Nhỏ xylometazolin hơn một năm, niêm mạc mũi đỏ sẫm, phù nề. QĐ 5643/2015 mục 4.2.1: xịt kéo dài làm bệnh nặng hơn; ARIA-EAACI 2024–2025: không dùng quá 5 ngày."
+    },
+    {
+     "t": "Đa cơ do thấp",
+     "n": "Tuổi ≥ 50, đau vai – háng hai bên dễ gợi ý, nhưng cứng sáng 15–20 phút (tiêu chí > 45 phút), máu lắng 14 mm/giờ không tăng (bắt buộc phải tăng), đau lan cả bắp chân, lưng, cổ (Dasgupta 2012, nguồn bổ sung tự tìm). Thử prednison sẽ sai: corticoid 'strong against' trong đau xơ cơ (EULAR 2016)."
+    },
+    {
+     "t": "Suy giáp",
+     "n": "Không sợ lạnh, táo bón, khàn tiếng, da khô; TSH 2,2 mUI/L, FT4 bình thường (QĐ 3879/2014, Suy giáp ở người lớn mục IV.1, IV.3, IV.5)."
+    },
+    {
+     "t": "Trầm cảm",
+     "n": "PHQ-9 tổng 6 (mức nhẹ 5–9), chỉ 2 triệu chứng đạt 'hơn nửa số ngày' (ngủ, mệt), không khí sắc trầm hay mất hứng thú rõ; ngưỡng ≥ 10: nhạy 88%, đặc hiệu 88% (Kroenke 2001 Bảng 3). Ngủ, mệt trùng với đau xơ cơ. Câu 9 bằng 0."
+    },
+    {
+     "t": "Viêm cơ tự miễn hoặc viêm động mạch tế bào khổng lồ",
+     "n": "Sức cơ gốc chi 5/5, không ban (TL-0381: yếu cơ gốc chi đối xứng là tiêu chí chính); không đau đầu thái dương mới, không nhai mỏi hàm, không nhìn mờ, động mạch thái dương bình thường, máu lắng 14 (TL-0389 nguyên tắc A, C)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích chẩn đoán đau xơ cơ: đau thật, không phải ung thư hay viêm khớp, không gây liệt; đưa tờ hướng dẫn bằng chữ",
+     "v": "c",
+     "n": "EULAR 2016 Bảng 3 (nguyên tắc chung): chẩn đoán sớm, thông tin bằng tài liệu viết, đánh giá đau – chức năng – tâm lý. Trả lời nỗi sợ thành gánh nặng."
+    },
+    {
+     "t": "Vận động tăng dần: đi bộ quanh xóm, bắt đầu lượng nhỏ, mỗi lần tối thiểu 10 phút, thêm bài sức cơ nhẹ",
+     "v": "c",
+     "n": "EULAR 2016 Bảng 3: aerobic và sức cơ là khuyến cáo 'strong for' duy nhất; Bảng 2: aerobic ≥ 20 phút (hoặc 2 lần ≥ 10 phút), 2–3 ngày/tuần; sức cơ ≥ 8 lần lặp, 2–3 lần/tuần. ICOPE 2025 mục 6.1: người cao tuổi bắt đầu từ lượng nhỏ, tăng dần; mỗi lần ít nhất 10 phút. Mức khởi đầu cho người 79 tuổi gầy yếu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng thuốc nhỏ mũi co mạch, thay bằng nước muối sinh lý 0,9%; ngạt nhiều thì khám tai mũi họng",
+     "v": "c",
+     "n": "QĐ 5643/2015 mục 4.2.1 (nước muối; xịt co mạch ngắn ngày, kéo dài làm bệnh nặng hơn); ARIA-EAACI 2024–2025 (không quá 5 ngày, người cao tuổi nên tránh); AHA/ACC 2025 Bảng 11. Cách ngưng (dừng ngay hay giảm dần): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cải thiện giấc ngủ không dùng thuốc ngủ: giờ ngủ cố định, bớt ngủ gật ban ngày; CBT-I khi có điều kiện",
+     "v": "c",
+     "n": "ESRS 2023 (TL-0464): CBT-I đầu tay cho mất ngủ mạn ở người trưởng thành mọi tuổi (A). Thuốc ngủ: sổ mâu thuẫn mục thuốc ngủ ≥ 65 tuổi (TT-0161)."
+    },
+    {
+     "t": "Không dùng tiếp NSAID (meloxicam)",
+     "v": "c",
+     "n": "EULAR 2016 Bảng 1: NSAID 'weak against'; QĐ 361/2014 phụ lục NSAID mục 3.3: người cao tuổi, gầy yếu thuộc nhóm nguy cơ cao, tránh NSAID nếu có thể. Bà đã nóng rát bao tử."
+    },
+    {
+     "t": "Hẹn tái khám sau 6 tuần, mang sổ đi bộ và giờ ngủ; yếu cơ, sốt, sụt cân, đau đầu thái dương thì đến sớm",
+     "v": "c",
+     "n": "Lịch tái khám đau xơ cơ: không có trong tài liệu đã tải; 6 tuần do người soạn chọn (chương trình vận động trong thử nghiệm kéo dài 2,5–24 tuần, EULAR 2016 Bảng 2). Dấu hiệu cần đánh giá lại: TL-0389 nguyên tắc C."
+    },
+    {
+     "t": "Paracetamol 500 mg khi đau, dưới 3 g/ngày",
+     "v": "a",
+     "n": "QĐ 361/2014 phụ lục NSAID mục 3.3: người cao tuổi gầy yếu dùng acetaminophen < 3 g/ngày. EULAR 2016 không đánh giá riêng paracetamol."
+    },
+    {
+     "t": "Amitriptylin liều thấp buổi tối (khởi 12,5 mg)",
+     "v": "a",
+     "n": "EULAR 2016 Bảng 3 'weak for'; QĐ 361/2014 mục 3.3: khởi 12,5 mg, liều 25–75 mg. Beers 2023 Bảng 2: tránh ở ≥ 65 tuổi. Bà chưa té nên chấp nhận được, không ưu tiên (sổ mâu thuẫn CX-0778, MT-1087)."
+    },
+    {
+     "t": "Pregabalin hoặc duloxetin khi chưa có creatinin",
+     "v": "a",
+     "n": "EULAR 2016 Bảng 3: 'weak for' khi đau nặng hoặc rối loạn giấc ngủ. Beers 2023 Bảng 6: giảm liều pregabalin khi CrCl < 60, tránh duloxetin khi CrCl < 30. Chưa biết độ lọc và đau chưa nặng sau lần khám đầu."
+    },
+    {
+     "t": "Meloxicam hoặc NSAID khác dùng tiếp, hoặc đổi sang NSAID khác",
+     "v": "w",
+     "n": "EULAR 2016: NSAID 'weak against'; Beers 2023 Bảng 2: tránh dùng kéo dài, đặc biệt > 75 tuổi; bà đã nóng rát bao tử."
+    },
+    {
+     "t": "Benzodiazepin hoặc thuốc ngủ nhóm Z mỗi đêm",
+     "v": "w",
+     "n": "Beers 2023 Bảng 2: tránh ở ≥ 65 tuổi; nguyên nhân mất ngủ (nhỏ mũi, đau) chưa xử lý (TT-0161)."
+    },
+    {
+     "t": "Thử prednisolon liều thấp 'như đa cơ do thấp'",
+     "v": "h",
+     "n": "EULAR 2016 phần Evaluation, Discussion: corticoid 'strong against' trong đau xơ cơ; QĐ 361/2014 phụ lục glucocorticoid mục 1: chỉ khi có chẩn đoán chính xác. TL-0389 chỉ cho đa cơ do thấp, bà không đủ tiêu chuẩn."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau xơ cơ (fibromyalgia): WPI 13, SSS 7, đau 5/5 vùng, 9 tháng, FS = 20 (ACR 2016 Bảng 3), khởi phát muộn ở người 79 tuổi sau chuyến xe 11 tiếng",
+     "Yếu tố làm nặng: ngủ không hồi phục, ngạt mũi do thuốc nhỏ mũi co mạch kéo dài (viêm mũi do thuốc), ngồi ghế thấp 10 tiếng, ít vận động",
+     "Đã loại: đa cơ do thấp, suy giáp, trầm cảm, viêm cơ, viêm động mạch tế bào khổng lồ",
+     "Bệnh kèm có thể có: thoái hóa cột sống theo lời bác sĩ trước (chưa chụp), không loại trừ đau xơ cơ"
+    ],
+    "phan_tich_chan_doan": [
+     "Tiêu chuẩn: WPI ≥ 7 và SSS ≥ 5 (hoặc WPI 4–6 và SSS ≥ 9), đau ≥ 4/5 vùng (không tính hàm, ngực, bụng), ≥ 3 tháng (ACR 2016 Bảng 3). Bà có 13 vùng đau (cổ, 2 vai, 2 bắp tay, lưng trên, thắt lưng, 2 mông, 2 đùi, 2 bắp chân); SSS = mệt 2 + ngủ không hồi phục 3 + nhận thức 1 + đau đầu 1 = 7.",
+     "Không điển hình: khởi phát lúc 78 tuổi, đau tập trung vai – háng – đùi hai bên dễ nhầm đa cơ do thấp; điểm phân biệt là cứng sáng chỉ 15–20 phút (tiêu chí PMR > 45 phút), máu lắng 14 mm/giờ, đau cả bắp chân, lưng, cổ, không yếu cơ (Dasgupta 2012, nguồn bổ sung tự tìm).",
+     "ACR 2016 mục Clinical diagnosis: cần khai thác, khám, xét nghiệm cần thiết trước khi kết luận; chẩn đoán không loại trừ bệnh khác kèm (Bảng 3). Với 300.000 đồng: TSH + máu lắng + công thức máu + glucose = 285.000 đồng; CRP, ANA, RF/anti-CCP, CK, X-quang không đổi quyết định.",
+     "Suy giáp: TSH, FT4 bình thường (QĐ 3879/2014 mục IV.3); người cao tuổi dễ có triệu chứng giống suy giáp nhưng TSH bình thường (mục IV.5). Trầm cảm: PHQ-9 = 6, câu 9 = 0; PHQ-9 trong tài liệu đã tải được kiểm ở người tuổi trung bình 46 ở chăm sóc ban đầu, độ chính xác ở ≥ 75 tuổi: không có trong tài liệu đã tải.",
+     "Ứng dụng ở người ≥ 75 tuổi: ACR 2016 và EULAR 2016 không nêu số liệu riêng cho nhóm này (không có trong tài liệu đã tải), nên liều thuốc và mức vận động dựa Beers 2023, ICOPE 2025 và từng người.",
+     "Thuốc đang dùng bị bỏ sót: xylometazolin hơn một năm, niêm mạc mũi đỏ sẫm, phù nề; thuốc co mạch không quá 5 ngày, người cao tuổi nên tránh (ARIA-EAACI 2024–2025), kéo dài làm bệnh nặng hơn (QĐ 5643/2015 mục 4.2.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Theo EULAR 2016: giải thích, không dùng thuốc trước; vận động là khuyến cáo duy nhất 'strong for', CBT, đa thành phần, châm cứu, thủy trị liệu 'weak for' (Bảng 3). Thuốc chỉ khi đau nặng hoặc rối loạn giấc ngủ mà biện pháp trên chưa đủ.",
+     "Vận động: aerobic ≥ 20 phút/lần (hoặc 2 lần ≥ 10 phút), 2–3 ngày/tuần, sức cơ 2–3 lần/tuần (EULAR 2016 Bảng 2); người cao tuổi bắt đầu từ lượng nhỏ, tăng dần (ICOPE 2025 mục 6.1). Mức cụ thể cho bà 79 tuổi: không có trong tài liệu đã tải.",
+     "Ngưng xylometazolin, thay nước muối; corticoid xịt mũi, kháng histamin là lựa chọn thay thế (AHA/ACC 2025 Bảng 11); thuốc này cũng làm tăng huyết áp (ESH 2023 Bảng 20). Liều corticoid xịt mũi, số lần rửa mũi: không có trong tài liệu đã tải.",
+     "Không NSAID (EULAR 2016 'weak against', Beers 2023 Bảng 2, QĐ 361/2014), không corticoid, opioid mạnh (EULAR 2016 'strong against').",
+     "Chưa kê thuốc đặc hiệu: chưa có creatinin; Beers 2023 Bảng 6 giảm liều pregabalin khi CrCl < 60, tránh duloxetin khi CrCl < 30; amitriptylin thuộc nhóm tránh (Bảng 2).",
+     "Trả lời nỗi lo thật: bệnh không gây liệt hay nằm một chỗ, vận động chính là điều trị."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa hoặc nhỏ mũi khi ngạt, thay hẳn xylometazolin",
+      "duong": "Nhỏ/rửa mũi",
+      "thoi_diem": "Khi ngạt, kể cả lúc nằm",
+      "so_ngay": "Dùng đến khi hết ngạt; hết xylometazolin ngay",
+      "ghi_chu": "QĐ 5643/2015 mục 4.2.1; AHA/ACC 2025 Bảng 11. Số lần mỗi ngày và cách ngưng thuốc co mạch (dừng ngay hay giảm dần): không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần khi đau, cách nhau ít nhất 6 giờ, tối đa 5 viên (2,5 g)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn khi đau",
+      "so_ngay": "Khi cần; không dùng hằng ngày kéo dài",
+      "ghi_chu": "QĐ 361/2014 phụ lục NSAID mục 3.3: người cao tuổi gầy yếu dùng acetaminophen < 3 g/ngày. Khoảng cách tối thiểu giữa hai liều: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Đau xơ cơ là bệnh thật, không gây liệt, không làm hỏng khớp; điều trị chính là vận động đều và ngủ tốt (EULAR 2016 Bảng 3).",
+     "Đi bộ quanh xóm sáng chiều, bắt đầu 5–10 phút, tăng dần; mỗi lần tối thiểu 10 phút mới tính vào mục tiêu (ICOPE 2025 mục 6.1). Mới tập đau tăng nhẹ là thường gặp, giảm bớt chứ đừng bỏ hẳn.",
+     "Ngồi sạp lâu: cứ một lúc lại đứng dậy đi lại (ICOPE 2025 mục 6.1); khoảng cách bao nhiêu phút: không có trong tài liệu đã tải.",
+     "Bỏ chai thuốc nhỏ mũi, không mua lại; dùng nước muối. Ngạt nhiều không ngủ được thì quay lại sớm (QĐ 5643/2015 mục 4.2.1).",
+     "Không uống lại meloxicam hay thuốc giảm đau 'nhóm viêm', thuốc ngủ tự mua.",
+     "Đến khám sớm nếu yếu tay chân, sốt, sụt cân, đau đầu thái dương, nhìn mờ, ngã (dấu hiệu gợi ý bệnh khác, TL-0389 nguyên tắc C).",
+     "Tái khám sau 6 tuần (mốc người soạn chọn, EULAR 2016 Bảng 2), mang sổ đi bộ và giờ ngủ; chuẩn bị tiền cho creatinin nếu cần thuốc."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 6 tuần",
+   "tiep_don": "Tái khám sau 6 tuần theo giấy hẹn. Bà nói đã làm theo lời dặn nhưng vẫn đau như cũ, chưa thấy bớt. Con gái út chở đi. Sinh hiệu lúc tiếp đón: HA 140/82 mmHg, mạch 74 l/p, nhiệt 36,6 °C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 45,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Bà Mười bị chuyển lên tuyến trên vì 'điều trị 6 tuần không đỡ' để làm MRI, ANA, khám thấp khớp. Máu lắng, TSH bình thường, không yếu cơ, không dấu hiệu mới nên chưa có lý do nghĩ sang bệnh khác; lý do chuyển cần dấu hiệu không điển hình hoặc toàn thân (TL-0389 nguyên tắc C, nói cho đa cơ do thấp). Bà nghỉ sạp một ngày, tốn xe và xét nghiệm, trong khi bỏ thuốc nhỏ mũi, chia nhỏ việc tập và chọn thuốc theo độ lọc cầu thận vẫn chưa ai làm.",
+    "nhap_vien": "Bà Mười nhập viện để truyền thuốc giảm đau, tiêm corticoid 'cho khỏi đau'. EULAR 2016 xếp corticoid và opioid mạnh 'strong against' trong đau xơ cơ; AGS Beers 2023 Bảng 5 khuyên tránh opioid dùng cùng pregabalin vì nguy cơ an thần nặng. Bà nằm viện không được dạy gì về vận động và giấc ngủ, ra viện đau vẫn như cũ, thêm tốn viện phí và ngày nghỉ bán.",
+    "theo_doi": "Bà Mười chỉ được dặn 'cố gắng tập thêm' và hẹn lại, không hỏi vì sao tập bỏ dở, thuốc nhỏ mũi, giấc ngủ. Đau xơ cơ đáp ứng khiêm tốn với từng biện pháp (EULAR 2016 Summary), nên nguyên nhân duy trì không được chỉnh thì đau và mất ngủ kéo dài, bà dần chán, bỏ tái khám, tự mua lại thuốc nhỏ mũi và thuốc giảm đau."
+   },
+   "loi_mo": "Bác sĩ ơi, sáu tuần rồi mà tôi vẫn ê ẩm y như cũ. Tôi có làm theo lời dặn đó, mà chẳng bớt. Hôm nay tôi mang ít tiền thôi, bác sĩ làm cái nào cần nhất giùm tôi.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "140/82",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi tái khám sau 6 tuần theo giấy hẹn. Đau vẫn như cũ, mức khoảng 6–7 trên 10, ngủ vẫn tệ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám, không đỡ sau 6 tuần"
+    },
+    {
+     "id": "tap_luyen",
+     "noi_dung": "Tuần đầu đi bộ quanh xóm 10 phút buổi sáng. Tuần thứ ba đau chân hơn nên giảm còn 5 phút, rồi bỏ hẳn ba tuần nay vì phải ra sạp từ 5 giờ sáng và sợ té.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức tuân thủ vận động: tập ngắn rồi bỏ"
+    },
+    {
+     "id": "nho_mui",
+     "noi_dung": "Mười ngày đầu bà dùng nước muối, nhưng đêm ngạt quá không ngủ được nên tuần thứ hai mua lại chai xylometazolin, ngày nhỏ 3 lần, đêm nào cũng nhỏ. Không kể vì sợ bị trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có làm theo lời dặn không' thì nói 'có làm'. Chỉ thừa nhận khi bác sĩ hỏi cụ thể thuốc nhỏ mũi, đếm chai thuốc, hoặc hỏi đêm ngạt mũi và ngủ ra sao.",
+     "k": 1,
+     "y": "Tái dùng thuốc nhỏ mũi co mạch (không tuân thủ)"
+    },
+    {
+     "id": "ngu",
+     "noi_dung": "Vẫn ngủ 4–5 tiếng, thức 3–4 lần vì ngạt và đau, dậy mệt như chưa ngủ. Không dùng thuốc ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giấc ngủ không cải thiện"
+    },
+    {
+     "id": "dac_diem_dau",
+     "noi_dung": "Đau đúng những chỗ cũ, cùng mức, không thêm chỗ mới. Sáng cứng người 15–20 phút. Không chỗ nào sưng nóng đỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau không đổi, không dấu hiệu viêm"
+    },
+    {
+     "id": "dau_hieu_moi_am",
+     "noi_dung": "Không sốt, không sụt cân, không yếu tay chân, không đau đầu thái dương, không nhai mỏi hàm, không nhìn mờ, không tê bì. Chưa té lần nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu cảnh báo mới (đổi chẩn đoán?)"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Buồn hơn trước vì uống thuốc, tập mà không bớt, sợ thành gánh nặng cho con. Vẫn ăn được, thích xem tivi. Không chán sống, không ý nghĩ làm hại bản thân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tâm trạng, PHQ-9 và ý nghĩ tự hại"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Không uống thuốc đau nào khác, không thuốc ngủ; thỉnh thoảng 1 viên paracetamol 500 mg. Chưa té lần nào nhưng từ khi đau chân hơn thì sợ té, bớt đi lại; đứng dậy nhanh không chóng mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng, sợ té (an toàn khi kê thuốc)"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Dạo này bán chậm, hôm nay mang theo 150.000 đồng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giới hạn tiền: chỉ làm xét nghiệm đổi quyết định"
+    },
+    {
+     "id": "mong_muon",
+     "noi_dung": "Bà mong có viên thuốc uống vào là hết đau, và sợ bác sĩ chỉ bảo 'cứ tập đi' mà không cho thuốc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà mong muốn gì hoặc bà lo điều gì ở lần khám này.",
+     "k": 1,
+     "y": "Kỳ vọng của người bệnh, thương lượng thuốc"
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi hai bên đỏ sẫm, phù nề, cuốn mũi dưới to, không polyp, không mủ.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Giống lượt trước: không khớp nào sưng nóng đỏ, vai và háng vận động đủ biên độ, cột sống không đau khi gõ. Ấn nhẹ cổ – vai, lưng, mông, đùi, bắp chân hai bên vẫn đau lan tỏa, không điểm đau khu trú, không nhân cứng.",
+     "k": 1
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi 5/5 hai bên. Ngồi – đứng 5 lần liên tiếp khỏi ghế thấp không vịn, chậm vì đau. Không teo cơ.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 138/80 mmHg, mạch 74. Đứng 1 phút 130/78, mạch 80; đứng 3 phút 128/76. Không chóng mặt.",
+     "k": 1
+    },
+    "dang_di_thang_bang": {
+     "a": "Đi vững, bước đều, xoay người không loạng choạng, đứng dậy khỏi ghế không cần tay vịn. Không dùng gậy.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói chậm hơn lần trước, hơi buồn khi nhắc chuyện không đỡ. PHQ-9 qua hỏi đáp: ngủ 3, mệt 2, ít hứng thú 1, khí sắc buồn 1, tự trách là gánh nặng 1, khó tập trung 1, các câu khác 0 (kể cả câu 9): tổng 9. Chỉ 2 triệu chứng (ngủ, mệt) đạt 'hơn nửa số ngày'.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 6,8 mmol/L · Creatinin 88 µmol/L · eGFR 57 mL/ph/1,73m²",
+     "ab": 1,
+     "n": "Cần trước khi kê pregabalin: Beers 2023 Bảng 6 giảm liều pregabalin khi CrCl < 60, tránh duloxetin khi CrCl < 30. Creatinin 88 µmol/L trông 'bình thường' nhưng bà 79 tuổi, 46 kg nên độ lọc thực thấp (Cockcroft–Gault ước chừng 33 mL/phút, công thức không có trong tài liệu đã tải)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 137 · K 4,2 · Cl 102 mmol/L",
+     "n": "AGS Beers 2023 Bảng 4: TCA, SNRI có thể gây hạ natri máu (SIADH) ở người cao tuổi, theo dõi Na khi bắt đầu hoặc đổi liều. Làm nền nếu chọn amitriptylin hoặc duloxetin."
+    },
+    "tsh": {
+     "n": "Đã có TSH bình thường 6 tuần trước (lượt 1), không dấu hiệu mới; lặp lại không đổi quyết định."
+    },
+    "mau_lang": {
+     "n": "Máu lắng 14 mm/giờ cách đây 6 tuần, không dấu hiệu viêm mới; không cần lặp lại."
+    },
+    "ctm": {
+     "n": "Công thức máu bình thường 6 tuần trước, không có dấu hiệu mới."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau xơ cơ chưa đáp ứng sau 6 tuần điều trị không dùng thuốc, do tuân thủ vận động kém và thuốc nhỏ mũi co mạch dùng lại",
+     "ok": 1,
+     "n": "WPI 13, SSS 7 không đổi (ACR 2016 Bảng 3). Chưa phải kháng trị: bà mới tập 3 tuần rồi bỏ, tái dùng xylometazolin, giấc ngủ chưa sửa; chưa dùng thuốc. EULAR 2016 Bảng 3: không đáp ứng với biện pháp không dùng thuốc thì cá thể hóa, có thể thêm thuốc khi đau nặng hoặc rối loạn giấc ngủ."
+    },
+    {
+     "t": "Viêm mũi do thuốc nhỏ mũi co mạch (tái sử dụng sau ngưng 10 ngày)",
+     "ok": 1,
+     "n": "Niêm mạc mũi đỏ sẫm, phù nề, ngạt khi ngưng thuốc; QĐ 5643/2015 mục 4.2.1: xịt kéo dài làm bệnh nặng hơn; ARIA-EAACI 2024–2025: không dùng quá 5 ngày."
+    },
+    {
+     "t": "Độ lọc cầu thận giảm (eGFR 57, CrCl ước chừng 33 mL/phút), cần chỉnh liều thuốc",
+     "ok": 1,
+     "n": "Chưa gọi là bệnh thận mạn vì cần kéo dài trên 3 tháng (QĐ 3931/2015, Bệnh thận mạn mục 1.1); cần lặp lại. Đủ để chỉnh liều pregabalin (Beers 2023 Bảng 6)."
+    },
+    {
+     "t": "Bệnh khác bị bỏ sót (đa cơ do thấp, suy giáp, viêm cơ, viêm động mạch tế bào khổng lồ)",
+     "n": "Máu lắng 14, TSH 2,2 mUI/L 6 tuần trước; không yếu cơ, không đau thái dương, không triệu chứng toàn thân. TL-0389 nguyên tắc C: nghĩ tới bệnh khác nếu có biểu hiện không điển hình hoặc dấu hiệu mới; chưa có."
+    },
+    {
+     "t": "Trầm cảm",
+     "n": "PHQ-9 tăng 6 lên 9, gần ngưỡng 10 (≥ 9: nhạy 95%, đặc hiệu 84%; ≥ 10: 88%/88% – Kroenke 2001 Bảng 3) nhưng chỉ 2 triệu chứng đạt 'hơn nửa số ngày', thuật toán cần ≥ 5 kèm khí sắc trầm hoặc mất hứng thú; câu 9 bằng 0. Chưa đủ trầm cảm; đánh giá lại khi tái khám."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: 6 tuần chưa đủ để gọi là thất bại; tìm yếu tố giữ bệnh (tập bỏ dở, thuốc nhỏ mũi, ngủ kém) trước khi thêm xét nghiệm hay chuyển tuyến",
+     "v": "c",
+     "n": "EULAR 2016 Bảng 3, Summary: mỗi biện pháp đáp ứng khiêm tốn, điều trị theo bậc, không đáp ứng thì cá thể hóa. Chuyển chuyên khoa cho đau xơ cơ không đáp ứng: không có trong tài liệu đã tải (TL-0389 nguyên tắc C chỉ dành cho đa cơ do thấp)."
+    },
+    {
+     "t": "Ngưng lại xylometazolin; ngạt về đêm xử lý bằng nước muối và nâng đầu cao; khám tai mũi họng hoặc dùng corticoid xịt mũi nếu vẫn ngạt",
+     "v": "c",
+     "n": "QĐ 5643/2015 mục 4.2.1; ARIA-EAACI 2024–2025; AHA/ACC 2025 Bảng 11. Cách ngưng, liều corticoid xịt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm lại kế hoạch vận động nhỏ và cụ thể: nhiều lần ngắn, có con gái đi cùng, tập sức cơ chân khi ngồi, mỗi lần tối thiểu 10 phút",
+     "v": "c",
+     "n": "EULAR 2016 Bảng 2, 3 (vận động 'strong for'); ICOPE 2025 mục 6.1: bắt đầu từ lượng nhỏ, tăng dần, mỗi lần ≥ 10 phút, thêm thăng bằng ≥ 3 ngày/tuần. Ý 'có người đi cùng' là biện pháp thực hành của người soạn."
+    },
+    {
+     "t": "Pregabalin liều thấp theo độ lọc cầu thận (25 mg buổi tối, tối đa 50 mg/lần × 3 lần/ngày), hoặc duloxetin; tránh phối hợp thêm thuốc an thần",
+     "v": "c",
+     "n": "EULAR 2016 Bảng 3: pregabalin, duloxetin 'weak for' cho đau nặng; pregabalin còn cho rối loạn giấc ngủ. QĐ 361/2014 mục 3.3: pregabalin viên 75 mg, 150–300 mg/ngày chia 2 lần (độ lọc bình thường). QĐ 3510/2025 mục 3.3.3.1: độ lọc 30–60 mL/phút khởi 25 mg, tối đa 50 mg/lần × 3 lần/ngày (thận trọng hơn, áp dụng suy rộng); Beers 2023 Bảng 6 giảm liều khi CrCl < 60. Liều duloxetin khởi đầu cho người cao tuổi: không có trong tài liệu đã tải (sổ TK-0512, TK-0422)."
+    },
+    {
+     "t": "Hẹn tái khám sau 4–6 tuần để đánh giá dung nạp (chóng mặt, buồn ngủ, phù) và đáp ứng; PHQ-9 lặp lại",
+     "v": "c",
+     "n": "Lịch tái khám sau khởi thuốc: không có trong tài liệu đã tải; EULAR 2016 Bảng 1: thử nghiệm pregabalin 8–14 tuần. QĐ 3510/2025 mục 3.3.3.1: tác dụng phụ thường gặp của pregabalin."
+    },
+    {
+     "t": "Amitriptylin liều thấp buổi tối (khởi 12,5 mg) thay cho pregabalin",
+     "v": "a",
+     "n": "EULAR 2016 Bảng 3 'weak for'; QĐ 361/2014 mục 3.3: khởi 12,5 mg, 25–75 mg. Beers 2023 Bảng 2: tránh ở ≥ 65 tuổi; đã té thật thì Bảng 3 tránh TCA (MT-1087, CX-0778)."
+    },
+    {
+     "t": "Tư vấn hành vi nhận thức ngắn về nỗi sợ té và sợ đau khi vận động; CBT nếu có điều kiện",
+     "v": "a",
+     "n": "EULAR 2016 Bảng 3: liệu pháp tâm lý 'weak for' cho người có rối loạn khí sắc hoặc cách đối phó chưa tốt. Khả năng tiếp cận CBT tại phòng khám: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thêm tramadol (hoặc paracetamol – tramadol) cùng lúc với pregabalin",
+     "v": "w",
+     "n": "Beers 2023 Bảng 5: tránh opioid cùng pregabalin, tránh ≥ 3 thuốc tác động thần kinh trung ương. EULAR 2016 Bảng 3: tramadol đơn độc 'weak for'."
+    },
+    {
+     "t": "Pregabalin theo liều QĐ 361 (75 mg × 2 lần/ngày) không chỉnh theo độ lọc cầu thận",
+     "v": "w",
+     "n": "Beers 2023 Bảng 6: giảm liều pregabalin khi CrCl < 60 (mạnh); QĐ 3510/2025 mục 3.3.3.1: tối đa 50 mg/lần ở độ lọc 30–60."
+    },
+    {
+     "t": "Cho dùng tiếp xylometazolin 'khi ngạt', hoặc kê thuốc ngủ benzodiazepin, nhóm Z",
+     "v": "w",
+     "n": "QĐ 5643/2015 mục 4.2.1; ARIA-EAACI 2024–2025; Beers 2023 Bảng 2 (tránh thuốc ngủ ≥ 65 tuổi), TT-0161."
+    },
+    {
+     "t": "Quay lại NSAID uống 'cho nhanh đỡ'",
+     "v": "w",
+     "n": "EULAR 2016 'weak against'; Beers 2023 Bảng 2; bà đã nóng rát bao tử."
+    },
+    {
+     "t": "Corticoid uống hoặc tiêm; opioid mạnh",
+     "v": "h",
+     "n": "EULAR 2016 phần Evaluation, Discussion: corticoid và opioid mạnh 'strong against'."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau xơ cơ ở người 79 tuổi (WPI 13, SSS 7), chưa đáp ứng sau 6 tuần điều trị không dùng thuốc",
+     "Yếu tố duy trì: bỏ tập sau 3 tuần vì đau chân và sợ té, tái dùng xylometazolin (viêm mũi do thuốc) nên ngạt và mất ngủ, ngồi sạp 10 tiếng",
+     "Độ lọc cầu thận giảm (eGFR 57, CrCl ước chừng 33 mL/phút), chưa đủ 3 tháng để gọi bệnh thận mạn",
+     "Chưa đủ trầm cảm (PHQ-9 = 9, 2 triệu chứng đạt ngưỡng); không dấu hiệu gợi ý đa cơ do thấp, suy giáp, viêm cơ"
+    ],
+    "phan_tich_chan_doan": [
+     "Quy trình khi không đỡ: (1) sai chẩn đoán? Không: không dấu hiệu mới, máu lắng 14, TSH bình thường 6 tuần trước, sức cơ 5/5, không đau thái dương, đau lan tỏa cùng vị trí; không lặp lại xét nghiệm đã bình thường. (2) Sai thuốc? Chưa dùng thuốc đặc hiệu. (3) Không tuân thủ? Có: tập 3 tuần rồi bỏ, dùng lại thuốc nhỏ mũi. (4) Biến chứng, bệnh kèm mới? Độ lọc cầu thận giảm, PHQ-9 sát ngưỡng. (5) Đề kháng? Chưa nói được khi chưa thử thuốc (EULAR 2016 Bảng 3).",
+     "ACR 2016 Bảng 3: chẩn đoán hợp lệ dù có bệnh khác; WPI 13 và SSS 7 không đổi qua hai lượt (FS = 20).",
+     "Chuyển chuyên khoa: không có trong tài liệu đã tải; TL-0389 nguyên tắc C (dành cho đa cơ do thấp) nêu biểu hiện không điển hình, triệu chứng toàn thân, kháng trị, tái phát là lý do cân nhắc. Bà mới 6 tuần, chưa làm đúng liệu pháp nên chưa chuyển.",
+     "Creatinin 88 µmol/L ở người 79 tuổi, 46 kg tương ứng eGFR 57, CrCl ước chừng 33 mL/phút (công thức Cockcroft–Gault không có trong tài liệu đã tải). Với 150.000 đồng chỉ làm creatinin (50.000) và điện giải (60.000).",
+     "PHQ-9 tăng 6 lên 9; thuật toán chẩn đoán cần ≥ 5 triệu chứng đạt 'hơn nửa số ngày', gồm khí sắc trầm hoặc mất hứng thú (Kroenke 2001); bà có 2. Chưa dùng thuốc chống trầm cảm vì lý do này; theo dõi."
+    ],
+    "phan_tich_xu_tri": [
+     "Không đỡ sau 6 tuần là lúc rà yếu tố giữ bệnh, không phải lúc thêm xét nghiệm hay chuyển tuyến (EULAR 2016: không dùng thuốc trước, đáp ứng khiêm tốn).",
+     "Ngưng xylometazolin, thay nước muối, xử trí ngạt đêm bằng corticoid xịt mũi hoặc kháng histamin (AHA/ACC 2025 Bảng 11); khám tai mũi họng nếu vẫn ngạt (QĐ 5643/2015 mục 4.2.1).",
+     "Vận động: lần 10 phút, có người đi cùng, thêm bài thăng bằng (ICOPE 2025 mục 6.1); sợ té là rào cản, CBT 'weak for' nếu cách đối phó chưa tốt (EULAR 2016).",
+     "Thuốc: EULAR 2016 Bảng 3 cho pregabalin hoặc duloxetin khi đau nặng, pregabalin hoặc amitriptylin khi rối loạn giấc ngủ; chọn pregabalin liều thấp theo độ lọc (khởi 25 mg, tối đa 50 mg/lần × 3 lần/ngày – QĐ 3510/2025 mục 3.3.3.1) vì Beers 2023 Bảng 2 tránh amitriptylin. QĐ 361/2014 nêu 150–300 mg/ngày cho độ lọc bình thường; con số QĐ 3510 thận trọng hơn nên dùng cho bà.",
+     "An toàn: pregabalin gây chóng mặt, ngủ gà, mất điều vận, phù (QĐ 3510/2025); Beers 2023 Bảng 3 tránh thuốc chống động kinh khi tiền sử té (bà chưa té); Bảng 5 không dùng cùng opioid hoặc ≥ 3 thuốc tác động thần kinh trung ương.",
+     "Không NSAID, corticoid, opioid mạnh (EULAR 2016). Lặp lại creatinin sau 3 tháng để biết có bệnh thận mạn (QĐ 3931/2015 mục 1.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Pregabalin",
+      "ham_luong": "25 mg (QĐ 361 chỉ nêu viên 75 mg; hàm lượng viên 25 mg tại Việt Nam không có trong tài liệu đã tải)",
+      "lieu": "25 mg × 1 lần buổi tối; sau ít nhất 1 tuần nếu dung nạp có thể thêm 25 mg buổi trưa; tối đa 50 mg/lần × 3 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối trước ngủ; buổi trưa nếu tăng",
+      "so_ngay": "Đến lần tái khám sau 4–6 tuần, rồi quyết định tiếp",
+      "ghi_chu": "QĐ 3510/2025 mục 3.3.3.1 (độ lọc 30–60: khởi 25 mg, tối đa 50 mg/lần × 3 lần/ngày); QĐ 361/2014 mục 3.3: uống trưa và tối, tăng dần; Beers 2023 Bảng 6 giảm liều khi CrCl < 60. Bước tăng liều chi tiết: không có trong tài liệu đã tải. Không ngừng đột ngột, giảm trong ít nhất 1 tuần (QĐ 3510/2025). Dặn chóng mặt, ngủ gà, phù chân."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "0,9%",
+      "lieu": "Nhỏ hoặc rửa mũi khi ngạt, thay hẳn xylometazolin",
+      "duong": "Nhỏ/rửa mũi",
+      "thoi_diem": "Khi ngạt, trước ngủ",
+      "so_ngay": "Đến khi hết ngạt",
+      "ghi_chu": "QĐ 5643/2015 mục 4.2.1; AHA/ACC 2025 Bảng 11. Số lần/ngày và liều corticoid xịt mũi nếu cần: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên khi đau, tối đa 5 viên (2,5 g)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 361/2014 phụ lục NSAID mục 3.3: người cao tuổi gầy yếu dùng acetaminophen < 3 g/ngày."
+     }
+    ],
+    "dan_do": [
+     "Chưa đỡ sau 6 tuần không có nghĩa bệnh nặng hơn hay chẩn đoán sai; còn ba việc cần chỉnh: thuốc nhỏ mũi, tập đều, giấc ngủ (EULAR 2016 Bảng 3).",
+     "Bỏ chai xylometazolin, mang vỏ chai đến khi tái khám. Đêm ngạt: nước muối, kê cao đầu; không ngủ được thì quay lại sớm, đừng tự mua thuốc nhỏ mũi (QĐ 5643/2015 mục 4.2.1).",
+     "Đi bộ 10 phút sáng và chiều với con gái, tăng dần; thêm bài thăng bằng như đứng vịn ghế, ít nhất 3 ngày/tuần (ICOPE 2025 mục 6.1).",
+     "Pregabalin uống buổi tối, có thể chóng mặt, buồn ngủ, phù chân; đứng dậy từ từ, không tự ngưng đột ngột, không uống cùng thuốc ngủ hay thuốc giảm đau gây nghiện (Beers 2023 Bảng 5; QĐ 3510/2025). Té hoặc lú lẫn thì ngưng và đến khám ngay.",
+     "Không dùng meloxicam, thuốc giảm đau 'nhóm viêm', thuốc ngủ tự mua (EULAR 2016; Beers 2023 Bảng 2).",
+     "Chuẩn bị khoảng 150.000 đồng cho lần tái khám để lặp lại creatinin.",
+     "Đến khám sớm nếu yếu tay chân, sốt, sụt cân, đau đầu thái dương, nhìn mờ, buồn bã nhiều hoặc không muốn sống (TL-0389 nguyên tắc C; PHQ-9 câu 9)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Mười ngưng xylometazolin lần hai nhờ nước muối và khám tai mũi họng, uống pregabalin 25 mg buổi tối, ngủ được 6 tiếng, đi bộ 15 phút mỗi buổi cùng con gái; sau tám tuần đau còn khoảng 4/10. Ba tháng sau, dịp bán hàng cuối năm, bà ngồi sạp 12 tiếng, bỏ tập, hết thuốc không mua lại vì tiền, mua lại thuốc nhỏ mũi; đau trở lại mức cũ. Các quyết định đều đúng; đau xơ cơ dễ tái phát khi vận động, giấc ngủ, thuốc bị bỏ, và tái phát không có nghĩa chẩn đoán sai.",
+ "nhieu": [
+  "Thuốc nhỏ mũi xylometazolin: bà coi không phải thuốc nên không kể, chỉ lộ ra khi hỏi thuốc nhỏ mũi, ngạt mũi hoặc giấc ngủ; làm ngủ kém, giữ bệnh (QĐ 5643/2015 mục 4.2.1; ARIA-EAACI 2024–2025).",
+  "Không đủ tiền: 300.000 đồng lượt 1 (TSH + máu lắng + công thức máu + glucose = 285.000), 150.000 đồng lượt 2 (creatinin + điện giải = 110.000).",
+  "Lời bác sĩ trước 'thoái hóa cột sống, loãng xương' chưa chụp, chưa đo: có thể đúng nhưng không giải thích đau lan tỏa; đau xơ cơ không loại trừ bệnh khác kèm theo (ACR 2016 Bảng 3).",
+  "Meloxicam đã thử và bỏ vì nóng rát bao tử: NSAID không có vai trò trong đau xơ cơ (EULAR 2016), nên tránh ở người cao tuổi (Beers 2023 Bảng 2)."
+ ],
+ "bai_hoc_bien": [
+  "Rất cao tuổi (≥ 75): đau vai – háng – đùi khiến nghĩ ngay đa cơ do thấp; phân biệt bằng cứng sáng ngắn, máu lắng bình thường, đau lan cả bắp chân và lưng (Dasgupta 2012). ACR 2016, EULAR 2016, PHQ-9 không có số liệu riêng cho ≥ 75 tuổi: nói rõ khi áp dụng.",
+  "Không điển hình: đúng bệnh nhưng khởi phát muộn, vị trí đau lệch; hỏi sáng dậy cứng bao lâu, đau có xuống bắp chân, lên cổ không.",
+  "Không đủ tiền: chọn xét nghiệm đổi quyết định (TSH, máu lắng); bỏ ANA, RF/anti-CCP, CK, X-quang. Creatinin để lượt 2 vì cần chỉnh liều.",
+  "Không siêu âm: dựa tiêu chí lâm sàng (WPI, SSS, cứng sáng, sức cơ) và máu lắng; siêu âm không cần cho đau xơ cơ (ACR 2016 Bảng 3).",
+  "Không đỡ: chạy quy trình thất bại điều trị (sai chẩn đoán, sai thuốc, không tuân thủ, biến chứng, đề kháng) trước khi chuyển tuyến; hỏi từng dạng thuốc vì bà không kể thuốc nhỏ mũi.",
+  "Tái phát: giữ vận động, giấc ngủ, ngưng thuốc co mạch mũi; kế hoạch tính tới mùa bán hàng và tiền thuốc."
+ ],
+ "diem_nho": [
+  "Đau xơ cơ: WPI ≥ 7 và SSS ≥ 5 (hoặc WPI 4–6 và SSS ≥ 9), đau ≥ 4/5 vùng, ≥ 3 tháng (ACR 2016 Bảng 3).",
+  "Điều trị theo bậc: giải thích và vận động trước ('strong for'); thuốc liều thấp khi đau nặng hoặc rối loạn giấc ngủ ('weak for'); không NSAID, corticoid, opioid mạnh (EULAR 2016 Bảng 3).",
+  "Người ≥ 75 tuổi: giảm liều pregabalin khi CrCl < 60, tránh amitriptylin, tránh opioid cùng pregabalin hoặc ≥ 3 thuốc tác động thần kinh trung ương (Beers 2023 Bảng 2, 5, 6). Creatinin 'bình thường' ở người gầy, già có thể là độ lọc thấp.",
+  "Thuốc nhỏ mũi co mạch không quá 5 ngày, người cao tuổi nên tránh; hỏi theo từng dạng thuốc (ARIA-EAACI 2024–2025)."
+ ],
+ "nguon": [
+  "ACR – Wolfe F, et al. 2016 Revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis Rheum 2016;46(3):319–329 – TL-0385 – Bảng 3 (tr. 326), phần Clinical diagnosis (tr. 327–328).",
+  "EULAR – Macfarlane GJ, et al. EULAR revised recommendations for the management of fibromyalgia. Ann Rheum Dis 2017;76:318–328 (EULAR 2016) – TL-0387 – Bảng 1–3, phần Evaluation of pharmacological medicines, Summary.",
+  "EULAR/ACR – Dejaco C, et al. 2015 Recommendations for the management of polymyalgia rheumatica. Arthritis Rheumatol 2015;67(10):2569–2580 – TL-0389 – Box 1, nguyên tắc A, B, C.",
+  "Nguồn bổ sung tự tìm: Dasgupta B, et al. 2012 provisional classification criteria for polymyalgia rheumatica. Ann Rheum Dis 2012;71:484–492 – https://pubmed.ncbi.nlm.nih.gov/22388996/ (tuổi ≥ 50, đau vai hai bên, CRP/máu lắng tăng; cứng sáng > 45 phút, đau háng, RF/ACPA âm tính, không đau khớp ngoại biên).",
+  "EULAR/ACR – Lundberg IE, et al. 2017 classification criteria for idiopathic inflammatory myopathies. Ann Rheum Dis 2017;76:1955–1964 – TL-0381.",
+  "BYT – QĐ 361/QĐ-BYT 2014, Bệnh cơ xương khớp – TL-0286 – Hướng dẫn sử dụng NSAID (bảng nguy cơ cao, mục 3.3); Hướng dẫn sử dụng thuốc giảm đau mục 3.3 (tr. 202–203); Hướng dẫn sử dụng glucocorticoid mục 1.",
+  "BYT – QĐ 3879/QĐ-BYT 2014, Bệnh nội tiết – chuyển hóa – TL-0039 – Suy giáp ở người lớn mục IV.1.4, IV.3, IV.5.",
+  "Kroenke K, et al. The PHQ-9. J Gen Intern Med 2001;16(9):606–613 – TL-0600 – Bảng 3.",
+  "AGS Beers Criteria 2023. J Am Geriatr Soc 2023;71(7):2052–2081 – TL-0022 – Bảng 2, 3, 4, 5, 6.",
+  "BYT – QĐ 3510/QĐ-BYT 2025, Bệnh thần kinh đái tháo đường – TL-0279 – mục 3.3.3.1 (pregabalin theo độ lọc); áp dụng suy rộng.",
+  "BYT – QĐ 3931/QĐ-BYT 2015, Bệnh thận – tiết niệu – TL-0285 – Bệnh thận mạn mục 1.1.",
+  "BYT – QĐ 5643/QĐ-BYT 2015, Tai mũi họng – TL-0130 – Viêm mũi xoang cấp tính mục 4.2.1. ARIA-EAACI 2024–2025 – TL-0546 – khuyến cáo thuốc co mạch mũi.",
+  "AHA/ACC 2025 High blood pressure – TL-0297 – Bảng 11. ESH 2023 – TL-0312 – Bảng 20.",
+  "ESRS 2023 – Riemann D, et al. European Insomnia Guideline. J Sleep Res 2023;32:e14035 – TL-0464 – tóm tắt khuyến cáo. WHO 2025 ICOPE – TL-0016 – mục 6.1."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-10-25): viết theo sổ cái CX-0775. Đã đọc TL-0385, 0387, 0389, 0381, 0286, 0039, 0600, 0022, 0279, 0285, 0130, 0546, 0297, 0312, 0464, 0016 (mục và bảng nêu trong từng nguồn).",
+  "Không có trong tài liệu đã tải: tiêu chuẩn phân loại đa cơ do thấp EULAR/ACR 2012 (lấy từ PubMed 22388996, nguồn bổ sung tự tìm); liều khởi đầu và mức vận động cho người ≥ 75 tuổi; lịch tái khám đau xơ cơ; pregabalin 25 mg và bước tăng liều; liều duloxetin cho người cao tuổi; cách ngưng thuốc co mạch mũi, liều corticoid xịt mũi; công thức Cockcroft–Gault; độ chính xác PHQ-9 ở ≥ 75 tuổi; khả năng tiếp cận CBT.",
+  "Mâu thuẫn đã có trong sổ và đã áp dụng: liều amitriptylin trong đau xơ cơ (CX-0778); amitriptylin ở người cao tuổi (MT-1087, TK-0422); pregabalin theo độ lọc (TK-0512 mục 2); thuốc ngủ ≥ 65 tuổi (TT-0161); thuốc nhỏ mũi co mạch (TQ-0088). Không có mâu thuẫn mới."
+ ]
+}
