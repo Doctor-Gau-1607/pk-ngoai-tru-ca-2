@@ -1,0 +1,658 @@
+{
+ "ma_ca": "TH-0339",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1",
+ "benh": "Trào ngược dạ dày thực quản (GERD)",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trào ngược dạ dày thực quản (GERD)",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh mạch vành",
+   "Loét thực quản"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "nghe_nghiep": "Hưu trí (giáo viên mầm non hưu trí)",
+  "yeu_to_khoi_phat": "Sau sinh (con gái mới sinh, bà sang ở chăm cháu)",
+  "thuoc_dang_dung": "Thuốc giảm đau khớp tự mua",
+  "ly_do_that_su_den_kham": "Lo lắng về khả năng sinh sản (của con gái, nếu bệnh của bà là ung thư hay di truyền)",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Mận",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Giáo viên mầm non hưu trí",
+  "can_nang": 46,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà xưng 'tôi', gọi bác sĩ là 'cháu' hoặc 'bác sĩ'.",
+  "tinh_cach": "Nói nhỏ, chậm, kỹ tính, nhớ rõ từng chi tiết nhưng hay chuyển sang kể chuyện nhà. Hơi nghễnh ngãng tai trái. Rất thương con cháu, hay nghĩ mình là gánh nặng. Tin lời bạn bè hơn sách vở. Không gọi triệu chứng là 'ợ nóng' mà nói 'nóng ran, tức ở cổ, ở giữa ngực'.",
+  "kieu_nhieu": "Đòi kháng sinh: nghe bạn kể 'đau dạ dày là do con vi khuẩn, uống kháng sinh mới sạch', nên xin thuốc diệt vi khuẩn cho yên tâm, kẻo lây sang cháu bé. Nếu bác sĩ từ chối thì nói 'thế cháu không dám kê hả, vậy tôi ra hiệu thuốc mua'. Dịu lại khi bác sĩ nghe hết nỗi lo và nói rõ khi nào mới cần kháng sinh.",
+  "nguoi_nha": "Con gái, chị Thảo, 38 tuổi, mới sinh bé thứ hai cách đây 5 tuần, đưa mẹ đi khám, ẵm bé ngồi ngoài sảnh, vào phòng khi bác sĩ mời. Lo, nói nhanh, hay nhắc 'mẹ cứ giấu con'. Chị biết mẹ ho, khàn, uống thuốc khớp; chị KHÔNG biết mẹ sợ ung thư vì dì ruột.",
+  "ten_nguoi_nha": "Chị Thảo (con gái)",
+  "ngoai_hinh": {
+   "da": "#e3c09c",
+   "toc": "#d4d2cd",
+   "kieuToc": "ngan",
+   "ao": "#8a6f9e",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e8c4a0",
+    "toc": "#2b1e17",
+    "kieuToc": "bui",
+    "ao": "#c9a3b5",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "met"
+   }
+  }
+ },
+ "ly_do_kham": "Ho đêm, khàn tiếng, nóng ran ở cổ và ngực",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Lê Thị Mận, 78 tuổi, giáo viên mầm non hưu trí, cao 150 cm, nặng 46 kg, do con gái đưa đến. Ho khan về đêm, khàn tiếng 5 tuần, thêm cảm giác nóng ran ở cổ và giữa ngực. Sinh hiệu: HA 138/80 mmHg, mạch 76 l/p, nhiệt 36,7 độ C, SpO₂ 96%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bà Mận ngay vì tức ngực ở tuổi 78 là quá tay: cơn tức không liên quan gắng sức, ECG bình thường, không nuốt nghẹn, không sụt cân, không nôn hay đi ngoài phân đen, nên không có dấu báo động (ACG 2022, Khuyến cáo 6 và mục Upper endoscopy). Bà vốn sợ ống nội soi và rút máu, vào viện sẽ bị ép làm nhiều thủ thuật, ngủ không được, còn con gái vừa sinh phải vừa ẵm bé vừa túc trực. Nỗi lo 'bệnh nặng' của bà tăng thêm, trong khi điều cần làm là ngưng thuốc khớp, dùng PPI đúng giờ và có giấy hẹn.",
+    "chuyen_tuyen": "Gửi bà đi tuyến trên ngay trong ngày để nội soi là chưa cần: bà có nhiều yếu tố nguy cơ Barrett nên nội soi là chỉ định (ACG 2022, Khuyến cáo 6) nhưng không có dấu báo động nên không phải làm khẩn, và bà đang từ chối chính thủ thuật này. Ép đi gấp dễ làm bà mất lòng tin, bỏ đơn rồi không quay lại; cách tốt hơn là ghi nhận từ chối, bắt đầu PPI và để bà tự quyết sau khi hiểu rõ lý do. Bà cũng sẽ mất cả ngày đi lại ở tuổi 78, con gái còn bé sơ sinh ở nhà."
+   },
+   "loi_mo": "Chào cháu. Bà ho đêm, khàn tiếng cả tháng nay rồi, lại nóng nóng ở cổ với giữa ngực. Con gái bảo đi khám cho yên tâm.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/80",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho khan về đêm và khàn tiếng 5 tuần, thêm cảm giác nóng ran, tức ở cổ và giữa ngực. Bà sợ mình bị bệnh nặng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Tức nóng sau xương ức, thường 20–40 phút sau bữa ăn và khi nằm ngửa; ngồi dậy, uống nước ấm hoặc sữa thì bớt. Khoảng 4–5 đêm mỗi tuần có nước chua hoặc đắng ngược lên cổ, bà không gọi đó là ợ nóng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm triệu chứng: ợ nóng/trào ngược dưới tên gọi khác"
+    },
+    {
+     "id": "ngoai_thuc_quan",
+     "noi_dung": "Ho khan khi nằm, nhất là nửa đêm, không đờm, không sốt. Khàn tiếng nhất lúc mới ngủ dậy, nói lâu thì đỡ. Không khò khè.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng ngoài thực quản"
+    },
+    {
+     "id": "gang_suc",
+     "noi_dung": "Đi chợ gần nhà, leo hai tầng gác sang phòng cháu không đau ngực, không hụt hơi, không vã mồ hôi. Cơn tức không lan tay, hàm hay lưng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt với đau thắt ngực: không liên quan gắng sức"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Nuốt cơm, thịt, nước đều bình thường, không nghẹn, không đau khi nuốt. Không nôn, không sụt cân (46 kg như tháng trước), phân vàng, không đen. Ăn kém hơn một chút vì ngại ăn no rồi bị tức.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Từ khi con gái sinh bé, bà sang ở nhà con chăm cháu: ngủ chập chờn khoảng 5 giờ/đêm, ăn tối muộn lúc 21–22 giờ rồi nằm ngủ cạnh nôi, ban ngày cúi bế, tắm bé nhiều lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: chăm cháu sau sinh (ăn muộn, nằm ngay sau ăn)"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Thoái hóa khớp gối nhiều năm. Hai tháng nay bà mua diclofenac 50 mg ở hiệu thuốc, uống 2–3 viên mỗi ngày, hay uống lúc bụng đói vì quên ăn. Bà không kể thuốc này vì nghĩ 'thuốc khớp thì không liên quan dạ dày'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì bà nói không có. Chỉ kể khi bác sĩ hỏi thuốc giảm đau, thuốc xương khớp, hoặc 'đau gối bà làm gì'.",
+     "y": "Thuốc giảm đau khớp tự mua"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không tiểu đường, không bệnh tim, chưa bị nhồi máu. Chưa từng nội soi. Không rượu, không hút thuốc. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Chị gái ruột mất vì ung thư thực quản sáu năm trước, lúc 70 tuổi, sau ít tháng nuốt nghẹn rồi sụt cân. Bà nhớ rõ chị cũng 'bắt đầu bằng nóng rát ở ngực'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi tiền sử gia đình có ung thư không, hoặc bà lo nhất điều gì.",
+     "y": "Tiền sử gia đình ung thư thực quản (yếu tố nguy cơ Barrett)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Chị Thảo mất bảy năm mới có con nhờ thụ tinh ống nghiệm và đang tính có thêm bé nữa. Bà sợ bệnh của mình là ung thư, nếu có thì sợ di truyền hoặc lây sang cháu và làm con gái hoảng, không dám sinh thêm; bà cũng nghe 'vi khuẩn dạ dày lây qua ăn chung' nên xin thuốc diệt vi khuẩn.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà lo điều gì nhất, hay vì sao bà muốn thuốc kháng sinh, hoặc khi được nói rằng bà lo là có lý và được nghe hết.",
+     "y": "Động cơ thật: lo cho khả năng sinh sản của con gái"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Bạn đánh bài kể 'dạ dày là do con vi khuẩn HP, uống kháng sinh mới sạch'. Bà xin kháng sinh và nói sẵn: 'Hồi trước cứ đau họng là tôi uống amoxicillin, khỏi liền.'",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yêu cầu kháng sinh"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Khi bác sĩ đề nghị lấy máu: bà từ chối, nói 'máu tôi ít, rút ra là mệt'. Khi đề nghị nội soi: bà từ chối, nói 'đưa ống vào cổ, bà bạn tôi bị thủng'. Chịu làm điện tim và thử phân. Nếu bác sĩ giải thích bình tĩnh, bà vẫn giữ từ chối nhưng đồng ý nghe và ký giấy ghi nhận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm: tôn trọng, ghi nhận, phương án B"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, gầy nhẹ (BMI 20,4), niêm mạc hồng, không vàng da, không hạch thượng đòn.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ thượng vị, không phản ứng thành bụng, không sờ thấy khối, gan lách không to.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ lan tỏa, không mủ, không hạch cổ; giọng khàn nhẹ.",
+     "k": 1,
+     "hien": "Họng hơi đỏ, giọng nói khàn nhẹ."
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, không âm thổi, không tiếng ngựa phi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Hai gối lục cục khi gập duỗi, ấn đau khe khớp trong, không sưng nóng đỏ.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 74 l/p. Không ST chênh, không sóng Q, không biến đổi ST–T.",
+     "n": "Cần thiết: tức ngực ở người 78 tuổi phải loại trừ tim trước khi quy cho dạ dày. Đau không liên quan gắng sức nên không phải đau thắt ngực điển hình (ESC 2024, mục Diagnostic work-up: 3 đặc điểm đau thắt ngực điển hình là đau sau xương ức, khởi phát do gắng sức hoặc xúc động, giảm khi nghỉ hoặc nitroglycerin; TL-0304)."
+    },
+    "trop": {
+     "v": "e",
+     "r": "Bà từ chối lấy máu.",
+     "n": "Từ chối được ghi nhận. Triệu chứng kéo dài 5 tuần theo bữa ăn và tư thế, không có cơn đau mới trong 24 giờ qua, ECG bình thường nên troponin không phải xét nghiệm quyết định hôm nay; nếu có đau ngực khi gắng sức hay đau mới dữ dội thì đi cấp cứu."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Bà từ chối lấy máu.",
+     "n": "Thiếu máu là dấu báo động cần nội soi (ACG 2022, mục Upper endoscopy). Không có công thức máu: dựa vào niêm mạc hồng, không phân đen, không mệt nhiều; ghi rõ giới hạn này vào hồ sơ."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi.) Bà từ chối đi nội soi ở bệnh viện tỉnh.",
+     "n": "Có chỉ định: tuổi > 50 và tiền sử gia đình ung thư thực quản là hai yếu tố nguy cơ Barrett (VNAGE 2026 KC 3; ACG 2022 KC 6). Bà từ chối nên ghi nhận, giải thích, phương án B (xem phần xử trí)."
+    },
+    "hp_phan": {
+     "v": "u",
+     "r": "Kháng nguyên H. pylori trong phân: âm tính (chưa dùng PPI, chưa dùng kháng sinh).",
+     "n": "Không phải xét nghiệm bắt buộc cho GERD. Âm tính nên không có cơ sở dùng kháng sinh diệt HP (VNAGE 2023 Statement 2). Nếu làm khi đã dùng PPI thì phải ngưng PPI 2 tuần (Statement 6)."
+    },
+    "xq_thuc_quan": {
+     "n": "Không khuyến cáo: chụp thực quản cản quang không dùng để chẩn đoán GERD (ACG 2022 KC 5)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày thực quản (GERD) có triệu chứng ngoài thực quản (ho đêm, khàn tiếng) ở người rất cao tuổi; chưa loại trừ viêm thực quản trợt, cần nội soi; đã đủ điều kiện thử PPI",
+     "ok": 1,
+     "n": "Tức nóng sau xương ức sau ăn và khi nằm, nước chua lên cổ 4–5 đêm/tuần: triệu chứng điển hình gồm ợ nóng, đau ngực thực quản và trào ngược (Lyon 2.0, Bảng 2). Ho đêm và khàn tiếng đi kèm triệu chứng điển hình nên được thử PPI (VNAGE 2026 KC 16; ACG 2022). Thuốc khớp lúc đói và ăn muộn rồi nằm là yếu tố thúc đẩy."
+    },
+    {
+     "t": "Bệnh mạch vành",
+     "n": "Không liên quan gắng sức, không lan, giảm khi ngồi dậy hay uống sữa, ECG bình thường (ESC 2024: đặc điểm vị trí, yếu tố khởi phát, giảm đau). Không loại trừ tuyệt đối vì không có troponin; dặn quay lại nếu đau khi gắng sức."
+    },
+    {
+     "t": "Loét thực quản",
+     "n": "Chỉ nội soi mới khẳng định hay loại trừ. Nghĩ đến vì uống diclofenac lúc đói và bà là người cao tuổi; không nuốt đau, không nuốt nghẹn, không nôn máu. Bà từ chối nội soi nên ghi 'chưa loại trừ' và giữ chỉ định (ACG 2022 KC 6)."
+    },
+    {
+     "t": "Ung thư thực quản",
+     "n": "Không nuốt nghẹn, không sụt cân, không thiếu máu trên lâm sàng; nhưng chị ruột mất vì ung thư thực quản và bà > 50 tuổi nên vẫn cần nội soi (ACG 2022 KC 6)."
+    },
+    {
+     "t": "Nhiễm H. pylori cần điều trị kháng sinh",
+     "n": "Xét nghiệm phân âm tính; đây không phải nguyên nhân của ho đêm, khàn tiếng và tức ngực sau ăn."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng diclofenac; đau gối dùng paracetamol, chườm ấm, vận động gối",
+     "v": "c",
+     "n": "Người cao tuổi: chọn paracetamol dưới 3 g/ngày thay NSAID (QĐ 361/2014, Phụ lục NSAID mục 3.3). Paracetamol 1–2 g/ngày cho thoái hóa khớp (QĐ 361/2014, Thoái hóa khớp mục 4.2.2). Không có trong tài liệu GERD đã tải việc NSAID gây hay làm nặng trào ngược; lý do ngưng là nguy cơ tổn thương niêm mạc (loét) và tuổi."
+    },
+    {
+     "t": "Omeprazol 20 mg uống 1 lần/ngày, 30–60 phút trước bữa sáng, đủ 8 tuần",
+     "v": "c",
+     "n": "Thử PPI 1 lần/ngày trước bữa ăn 8 tuần (ACG 2022 KC 1, 8). Liều chuẩn 20 mg (VNAGE 2024 Bảng 4, TL-0178; VNAGE 2026 KC 13, 15 chỉ ghi 'standard-dose'). Uống buổi tối hay 2 lần/ngày chấm a."
+    },
+    {
+     "t": "Đổi thói quen: ăn tối trước 19 giờ hoặc để cách giờ nằm 2–3 giờ, kê cao đầu giường khi ngủ (nằm riêng, không cạnh nôi thấp)",
+     "v": "c",
+     "n": "Tránh ăn trong 2–3 giờ trước khi ngủ, kê cao đầu giường khi có triệu chứng ban đêm (ACG 2022 Bảng 3, KC 2, 5; VNAGE 2026 KC 12). Tránh thức ăn gây khởi phát (ACG KC 4)."
+    },
+    {
+     "t": "Ghi vào hồ sơ: bà đã được giải thích rồi từ chối lấy máu và nội soi, nguy cơ nếu không làm, có ký xác nhận; đưa giấy giới thiệu nội soi (không khẩn) để bà dùng khi đổi ý",
+     "v": "c",
+     "n": "Nội soi là xét nghiệm đầu tiên khi có nhiều yếu tố nguy cơ Barrett: tuổi > 50, tiền sử gia đình ung thư thực quản (ACG 2022 KC 6; VNAGE 2026 KC 3). Không nội soi được thì phương án B là PPI thử, theo dõi sát, ngưỡng đổi ý. Cách ghi hồ sơ từ chối: không có trong tài liệu đã tải, theo thông lệ."
+    },
+    {
+     "t": "Không kê kháng sinh; nghe lo lắng của bà, giải thích xét nghiệm phân âm tính; chỉ điều trị HP khi có bằng chứng nhiễm và chỉ định",
+     "v": "c",
+     "n": "Chỉ định thử và điều trị HP (VNAGE 2023 Statement 2; ACG 2024 Bảng 4). GERD chỉ là chỉ định có điều kiện khi cần PPI duy trì lâu dài (Statement 2). Việc kê kháng sinh khi chưa có chẩn đoán nhiễm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần (sớm hơn nếu nặng lên); dặn dấu hiệu báo động: nuốt nghẹn, nuốt đau, nôn, sụt cân, phân đen, đau ngực khi gắng sức hay vã mồ hôi",
+     "v": "c",
+     "n": "Dấu báo động: khó nuốt, đau khi nuốt, nôn kéo dài, sụt cân, xuất huyết tiêu hóa, thiếu máu (VNAGE 2026, Lời bàn KC 3; ACG 2022). Mốc 4 tuần: không có trong tài liệu đã tải; chọn ở giữa đợt PPI 8 tuần (ACG KC 1)."
+    },
+    {
+     "t": "Kê kháng sinh amoxicillin hay phác đồ diệt HP ngay để bà yên tâm",
+     "v": "w",
+     "n": "Chưa có chẩn đoán nhiễm HP, xét nghiệm phân âm tính, không có chỉ định trong tài liệu; làm mất cơ hội giải thích nguyên nhân thật."
+    },
+    {
+     "t": "Cho metoclopramid hoặc thuốc kích thích nhu động",
+     "v": "w",
+     "n": "Không dùng thuốc kích thích nhu động cho GERD nếu không có bằng chứng liệt dạ dày (ACG 2022 mục Khuyến cáo thuốc; Strong)."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện ngay",
+     "v": "w",
+     "n": "Không có dấu báo động, ECG bình thường, không đau thắt ngực điển hình."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trào ngược dạ dày thực quản có triệu chứng điển hình (tức nóng sau xương ức, nước chua lên cổ) và ngoài thực quản (ho đêm, khàn tiếng)",
+     "Yếu tố thúc đẩy: ăn muộn rồi nằm ngay, thiếu ngủ, diclofenac uống lúc đói",
+     "Đã loại trừ lâm sàng bệnh mạch vành (ECG bình thường, không liên quan gắng sức); chưa loại trừ loét thực quản, viêm thực quản trợt, Barrett",
+     "Có chỉ định nội soi (tuổi > 50, tiền sử gia đình ung thư thực quản), bà từ chối nên dùng phương án B"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: triệu chứng theo bữa ăn và tư thế, nước chua lên cổ, ho đêm khàn sáng; hỏi riêng thuốc giảm đau khớp mới ra diclofenac; hỏi dấu báo động và tiền sử gia đình ung thư mới ra chị ruột mất vì ung thư thực quản (VNAGE 2026 KC 3; ACG 2022 KC 6).",
+     "Khám: không thiếu máu, không khối; ECG bình thường. Ở 78 tuổi, triệu chứng có thể không điển hình nên không được quy cho dạ dày trước khi xem tim; đau không liên quan gắng sức và giảm khi ngồi dậy chống lại đau thắt ngực (ESC 2024).",
+     "Lyon 2.0: ợ nóng, đau ngực thực quản, trào ngược là triệu chứng điển hình, đủ để thử PPI; ho, khàn tiếng đơn độc ít khả năng liên quan trào ngược (Bảng 2). Vì bà có cả hai nhóm nên thử PPI hợp lý (VNAGE 2026 KC 16). Thử PPI không đủ để chẩn đoán xác định (VNAGE 2026 KC 2); Lyon 2.0 cũng đề nghị khẳng định bằng nội soi hoặc đo pH trước khi dùng lâu dài.",
+     "Nội soi: nhiều yếu tố nguy cơ Barrett là chỉ định (ACG 2022 KC 6); VNAGE 2026 lưu ý biến chứng nặng ít gặp ở Việt Nam (KC 4) nhưng không bỏ chỉ định này. Bà từ chối: tôn trọng, ghi nhận, giải thích, giữ cánh cửa mở.",
+     "Hai cách đều đúng (ACG 2022 KC 1, 3, 6): đáp án chính là thử PPI 8 tuần kèm giấy giới thiệu nội soi không khẩn (làm sau ngưng PPI 2–4 tuần: ACG 2022 KC 3; Lyon 2.0 Bảng 2); nếu bà đồng ý thì nội soi ngay cũng chấp nhận (chấm a)."
+    ],
+    "phan_tich_xu_tri": [
+     "PPI 1 lần/ngày 30–60 phút trước ăn (ACG KC 1, 8). Uống 2 lần/ngày 8–12 tuần khi có cả triệu chứng ngoài thực quản (ACG ngoài thực quản KC 3) chấm a; VNAGE 2026 KC 15, 16 cho tăng lên 2 lần/ngày nếu cần. Ca chọn 1 lần/ngày vì chưa thử.",
+     "Ngưng diclofenac; paracetamol dưới 3 g/ngày (QĐ 361/2014).",
+     "Không kê kháng sinh: không phải cách nói 'không' mà là giải thích nguyên nhân thật, mời bà cho phép xét nghiệm phân (đã âm tính), hẹn xem lại; điều trị HP khi có chỉ định (VNAGE 2023 Statement 2).",
+     "Từ chối xét nghiệm: nghe lý do (sợ thủng, sợ mệt), nói rõ lợi ích và rủi ro của từ chối, ghi vào hồ sơ có chữ ký, đưa phương án B và giấy giới thiệu; không dọa, không bỏ mặc."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước bữa sáng",
+      "so_ngay": "8 tuần, đánh giá lại ở tuần 4",
+      "ghi_chu": "ACG 2022 KC 1, 8 (thời gian, thời điểm); liều VNAGE 2024 Bảng 4. Không uống lúc đi ngủ."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên mỗi lần, cách ít nhất 6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau gối, sau ăn",
+      "so_ngay": "Khi cần; tổng dưới 3 g/ngày",
+      "ghi_chu": "Thay diclofenac. QĐ 361/2014 Phụ lục NSAID mục 3.3; Thoái hóa khớp mục 4.2.2."
+     }
+    ],
+    "dan_do": [
+     "Lời thoại mẫu khi bà xin kháng sinh: 'Bà lo con vi khuẩn lây sang cháu nên muốn uống thuốc cho sạch, cháu hiểu. Cháu đã thử phân của bà, không thấy con vi khuẩn đó. Kháng sinh lúc này không chữa được ho đêm với tức ngực, mà có thể làm bà đau bụng, tiêu chảy. Khi nào tìm thấy vi khuẩn thì cháu sẽ kê, cháu hứa.'",
+     "Bà không muốn lấy máu và nội soi: cháu ghi lại là bà đã được giải thích và quyết định chưa làm; bà đổi ý bất cứ lúc nào cứ cầm giấy này đến. Chuyện rút máu ít thôi, người nhà đi cùng, ngồi nghỉ sau đó.",
+     "Không nằm trong 2–3 giờ sau ăn, kê cao đầu giường (ACG 2022 Bảng 3); ăn tối sớm, nằm giường riêng khi ngủ.",
+     "Uống omeprazol đúng giờ trước bữa sáng, ghi vào lịch dán tủ lạnh.",
+     "Nuốt nghẹn, đau khi nuốt, nôn, sụt cân, phân đen (ACG 2022 mục Upper endoscopy), đau ngực khi gắng sức hoặc vã mồ hôi (ESC 2024): đến ngay, không chờ hẹn. Tái khám sau 4 tuần (mốc này không có trong tài liệu đã tải).",
+     "Nỗi lo thật: hỏi mở 'bà lo nhất điều gì' rồi nói thật những gì đã biết; việc GERD có di truyền hay lây sang cháu không có trong tài liệu đã tải nên không hứa điều đó."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần",
+   "tiep_don": "Tái khám sau 4 tuần, chị Thảo đi cùng. Đã ngưng diclofenac và uống omeprazol 20 mg mỗi ngày. Bà đỡ một phần: tức ngực giảm nhiều, ho đêm và khàn tiếng còn. Sinh hiệu: HA 136/80 mmHg, mạch 74 l/p, SpO₂ 97%, cân nặng 46 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Hẹn bà về uống tiếp PPI thêm 4 tuần là bỏ lỡ lúc bà đã đồng ý nội soi: nhiều yếu tố nguy cơ Barrett là chỉ định nội soi (ACG 2022 KC 6) và chưa hết triệu chứng sau liệu trình (ACG KC 3). Bà dễ đổi ý lại khi chị Thảo bận con nhỏ và việc làm, cơ hội thuyết phục khó có lần nữa. Trong lúc đó nỗi lo ung thư vẫn đè lên bà, và PPI uống sai giờ vẫn không được sửa.",
+    "cap_cuu": "Gọi xe cấp cứu đưa bà đi ngay hôm nay là quá mức: không nuốt nghẹn, không nôn máu, không phân đen, sinh hiệu ổn, bà đã đỡ một phần. Nội soi cần chuẩn bị, bà nên ngưng PPI 2–4 tuần trước khi soi (ACG KC 3) và có người nhà đi cùng, không phải việc của cấp cứu. Bà sẽ bị đẩy qua khoa cấp cứu đông người, mệt, sợ hơn, dễ đổi ý không soi nữa."
+   },
+   "loi_mo": "Cháu ơi, bà uống thuốc cả tháng, tức ngực đỡ rồi mà ho với khàn vẫn còn. Con Thảo bảo bà đi soi. Bà muốn kháng sinh nữa cho chắc.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "136/80",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sau 4 tuần uống thuốc, ợ và tức ngực giảm khoảng một nửa nhưng ho đêm và khàn tiếng vẫn còn. Bà xin thuốc kháng sinh, 'uống thuốc dạ dày mãi mà chưa hết'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần sau 4 tuần"
+    },
+    {
+     "id": "ppi",
+     "noi_dung": "Bà uống omeprazol mỗi ngày nhưng đổi sang uống sau bữa tối, lúc đi ngủ vì sợ sáng quên khi bế cháu. Ăn tối vẫn khoảng 20–21 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cách dùng PPI: sai giờ uống"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Nước chua lên cổ còn 1–2 đêm/tuần (trước 4–5). Tức ngực giảm rõ. Ho khan đêm còn gần như cũ, khàn tiếng buổi sáng còn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức đáp ứng: đỡ một phần"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Vẫn không nuốt nghẹn, không đau nuốt, không nôn, cân nặng 46 kg, phân vàng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động lại"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Đã bỏ diclofenac, đau gối dùng paracetamol 500 mg 1 viên 2 lần/ngày và chườm ấm; chịu được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ ngưng NSAID"
+    },
+    {
+     "id": "ten_doi",
+     "noi_dung": "Chị Thảo thuyết phục: 'Mẹ đi nội soi đi, nhỡ giống dì thì sao.' Bà đã bớt sợ vì lần trước bác sĩ không ép, nay đồng ý đi nội soi nhưng vẫn không muốn rút máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thay đổi quyết định: đồng ý nội soi, vẫn từ chối lấy máu"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Bà hỏi lại 'có nên uống kháng sinh cho chắc không', vì chị bạn nói bị HP phải uống 14 ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đòi kháng sinh lần hai"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Bà nói ra: sợ mình giống chị ruột, sợ chị Thảo vừa sinh xong còn muốn có thêm con sẽ lo hay phải trông mẹ, sợ 'bệnh' lây sang cháu.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Khi bác sĩ nhắc lại nỗi lo lần trước hoặc hỏi nhẹ bà đang nghĩ gì.",
+     "y": "Lý do thật"
+    },
+    {
+     "id": "xa_gia_dinh",
+     "noi_dung": "Chị Thảo đã đi làm lại bán thời gian, bà vẫn ở nhà con, đi nội soi cần người chở và nhờ người trông bé.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, không vàng da, không hạch thượng đòn, cân nặng 46 kg như lần trước.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không khối.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hết đỏ, giọng còn khàn nhẹ.",
+     "k": 1,
+     "hien": "Giọng khàn nhẹ."
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Bà vẫn từ chối lấy máu.",
+     "n": "Từ chối lần hai được ghi nhận; vẫn không có công thức máu để loại thiếu máu, ghi giới hạn vào giấy chuyển."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi.) Bà đồng ý đi nội soi ở bệnh viện tỉnh.",
+     "n": "Chỉ định rõ: nhiều yếu tố nguy cơ Barrett (ACG 2022 KC 6) và đáp ứng một phần với PPI (ACG KC 3; VNAGE 2026 KC 3). Nội soi lý tưởng sau ngưng PPI 2–4 tuần (ACG KC 3; Lyon 2.0 Bảng 2)."
+    },
+    "hp_phan": {
+     "v": "e",
+     "r": "Kháng nguyên H. pylori trong phân: âm tính, nhưng bà đang uống PPI.",
+     "n": "Đang dùng PPI có thể âm tính giả; cần ngưng PPI 2 tuần (VNAGE 2023 Statement 6). Rapid urease qua sinh thiết khi nội soi là xét nghiệm chọn lọc (Statement 3, 4)."
+    },
+    "ecg": {
+     "n": "Không cần làm lại: không có đau ngực mới, ECG lượt 1 bình thường."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày thực quản đáp ứng một phần sau 4 tuần PPI, uống sai giờ; chưa phải thất bại điều trị; còn chỉ định nội soi vì nhiều yếu tố nguy cơ Barrett, bà đồng ý",
+     "ok": 1,
+     "n": "Tức ngực, nước chua đã giảm nhiều (4–5 xuống 1–2 đêm/tuần), ho đêm khàn vẫn còn; PPI uống lúc đi ngủ trái khuyến cáo (ACG KC 8). Triệu chứng ngoài thực quản thường đáp ứng chậm; liệu trình 8 tuần chưa xong (ACG KC 1)."
+    },
+    {
+     "t": "Loét thực quản / viêm thực quản trợt nặng / Barrett",
+     "n": "Chưa loại trừ: nội soi quyết định (ACG KC 6). Lyon 2.0: LA B, C, D, Barrett có sinh thiết, hẹp do trào ngược là bằng chứng chắc chắn của GERD."
+    },
+    {
+     "t": "Bệnh mạch vành",
+     "n": "Tức ngực giảm theo PPI, không đau khi gắng sức, tim đều; không cần làm lại ECG."
+    },
+    {
+     "t": "Ung thư thực quản",
+     "n": "Không nuốt nghẹn, không sụt cân; nội soi sinh thiết trả lời."
+    },
+    {
+     "t": "Nhiễm H. pylori cần kháng sinh",
+     "n": "Chưa có bằng chứng nhiễm; xét nghiệm lúc đang dùng PPI không tin cậy; chờ nội soi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến nội soi tiêu hóa trên theo hẹn trong vài tuần (không cấp cứu); giấy chuyển ghi tuổi, đã dùng omeprazol từ ngày nào, ngưng diclofenac, tiền sử gia đình ung thư thực quản, bà từ chối lấy máu",
+     "v": "c",
+     "n": "Nội soi là xét nghiệm đầu tiên khi có nhiều yếu tố nguy cơ Barrett (ACG 2022 KC 6); khi triệu chứng không đáp ứng đủ (ACG KC 3; VNAGE 2026 KC 3, Strong). Thời hạn: không có trong tài liệu đã tải; theo mục 3 của mâu thuẫn TH-0364 (không khẩn)."
+    },
+    {
+     "t": "Sửa cách uống: omeprazol 20 mg 30–60 phút trước ăn sáng; tiếp tục đến khi có lịch soi, ngưng 2–4 tuần trước ngày soi theo hướng dẫn của nơi soi",
+     "v": "c",
+     "n": "PPI trước bữa ăn thay vì lúc đi ngủ (ACG KC 8); tối ưu hóa PPI là bước đầu khi chưa đáp ứng (ACG mục 'refractory GERD' KC 1). Ngưng 2–4 tuần trước soi (ACG KC 3; Lyon 2.0 Bảng 2). Tăng 2 lần/ngày chấm a (ACG ngoài thực quản KC 3; VNAGE 2026 KC 16)."
+    },
+    {
+     "t": "Không kê kháng sinh; nói rõ sẽ thử HP qua sinh thiết khi nội soi, dương tính mới điều trị",
+     "v": "c",
+     "n": "Thử HP qua sinh thiết khi nội soi, rapid urease (VNAGE 2023 Statement 3, 4); điều trị nhiễm HP khi có chỉ định (Statement 2). Kê kháng sinh trước khi có chẩn đoán: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ các biện pháp: ăn tối sớm, kê cao đầu giường; ngưng NSAID, tiếp tục paracetamol dưới 3 g/ngày",
+     "v": "c",
+     "n": "ACG 2022 Bảng 3, KC 2, 5; VNAGE 2026 KC 12; QĐ 361/2014 Phụ lục NSAID mục 3.3."
+    },
+    {
+     "t": "Dặn bà đang có chị Thảo bận con nhỏ: sắp xếp người đi cùng và người trông bé; chuẩn bị sau soi nếu có dùng thuốc an thần",
+     "v": "c",
+     "n": "Người cao tuổi dễ gặp biến cố sau thủ thuật: không có trong tài liệu đã tải, là lời dặn thực hành."
+    },
+    {
+     "t": "Tăng omeprazol lên 40 mg × 2 lần/ngày và hẹn 8 tuần nữa không nội soi",
+     "v": "w",
+     "n": "Bà đã đồng ý nội soi và có chỉ định rõ (ACG KC 6); tối ưu PPI là bước đầu trước khi tăng liều (ACG 2022 GERD kháng trị KC 1), và tăng liều không thay thế nội soi."
+    },
+    {
+     "t": "Kháng sinh diệt HP theo yêu cầu",
+     "v": "w",
+     "n": "Chưa có chẩn đoán nhiễm HP."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trào ngược dạ dày thực quản đáp ứng một phần, PPI uống sai giờ",
+     "Còn chỉ định nội soi (nhiều yếu tố nguy cơ Barrett, chưa hết triệu chứng) và bà đã đồng ý",
+     "Chưa loại trừ viêm thực quản trợt, loét thực quản, Barrett; không có dấu báo động",
+     "Lượt trước đã loại trừ lâm sàng bệnh mạch vành, hiện không đổi"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: đếm số đêm trào ngược (4–5 xuống 1–2), ho khàn còn, hỏi giờ uống PPI mới ra uống lúc đi ngủ; hỏi dấu báo động lại và NSAID.",
+     "Phân biệt hồi phục chậm bình thường với thất bại: 4 tuần mới nửa liệu trình 8 tuần (ACG 2022 KC 1), triệu chứng ngoài thực quản thường chậm, giờ uống sai nên chưa kết luận thất bại (ACG KC 1, 8). Có đáp ứng một phần là bằng chứng ủng hộ GERD nhưng không thay nội soi.",
+     "Chỉ định nội soi nay có thêm bà đồng ý: không chờ nữa (ACG KC 6; VNAGE 2026 KC 3). Kết quả LA B trở lên hay Barrett có sinh thiết là chắc chắn GERD (Lyon 2.0 Bảng 2).",
+     "Đòi kháng sinh lần hai: lúc này không thể thử HP chính xác vì đang dùng PPI (VNAGE 2023 Statement 6); khi nội soi sẽ thử qua sinh thiết (Statement 3, 4)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến nội soi theo hẹn, không phải cấp cứu: không có dấu báo động, sinh hiệu ổn. Giấy chuyển đủ thông tin để nơi soi quyết định ngưng PPI (ACG KC 3).",
+     "Sửa giờ uống PPI, tiếp tục các biện pháp lối sống.",
+     "Không kháng sinh; giữ lời hứa đã nói ở lượt 1.",
+     "Bà vẫn từ chối lấy máu: ghi lại lần hai, không bắt buộc, giới hạn đã nêu trong giấy chuyển."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước bữa sáng",
+      "so_ngay": "Đến khi có lịch nội soi; ngưng 2–4 tuần trước soi theo hướng dẫn nơi soi",
+      "ghi_chu": "ACG 2022 KC 8; KC 3 (ngưng trước soi). Liều: VNAGE 2024 Bảng 4."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên mỗi lần, cách ít nhất 6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau gối",
+      "so_ngay": "Khi cần; dưới 3 g/ngày",
+      "ghi_chu": "QĐ 361/2014 Phụ lục NSAID mục 3.3."
+     }
+    ],
+    "dan_do": [
+     "Ngày nội soi: có người đi cùng; nhờ người trông bé; mang giấy chuyển.",
+     "Khi bà hỏi kháng sinh lần hai: 'Cháu nhớ bà lo con vi khuẩn lây cho cháu. Giờ bà đang uống thuốc dạ dày nên thử phân chưa chính xác. Hôm soi, bác sĩ lấy một mẩu nhỏ thử ngay, có thì cháu cho thuốc đúng bài.'",
+     "Nuốt nghẹn, nôn, sụt cân, phân đen, đau ngực khi gắng sức: đến ngay, không chờ lịch soi.",
+     "Uống PPI trước ăn sáng, đặt thuốc cạnh bàn chải đánh răng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Mận đi nội soi tuyến tỉnh sau khi ngưng omeprazol hai tuần: viêm thực quản trợt LA-C, kèm đoạn Barrett ngắn khoảng 2 cm; sinh thiết chuyển sản ruột, không loạn sản; rapid urease âm tính. Bác sĩ tuyến tỉnh cho PPI duy trì lâu dài (ACG 2022 KC 'LA C hoặc D: PPI duy trì không thời hạn hay phẫu thuật chống trào ngược'). Tối hôm sau soi, vì còn lơ mơ do thuốc an thần, bà đi vệ sinh đêm bị ngã, gãy xương cổ tay phải, bó bột sáu tuần và không bế cháu được. Con gái trách: 'Biết thế đừng soi.' Quyết định chuyển nội soi vẫn đúng: nhờ soi mới biết Barrett cần theo dõi, không phải do chị ruột mà do chính mức độ viêm. Kết cục xấu là biến cố của thủ thuật ở người rất cao tuổi, không chứng minh được quyết định sai (không có trong tài liệu đã tải mức nguy cơ ngã sau an thần).",
+ "nhieu": [
+  "Đòi kháng sinh: bà nghe bạn nói HP phải uống kháng sinh, dọa ra hiệu thuốc mua. Lời thoại từ chối nằm trong dap_an.dan_do ở cả hai lượt; xét nghiệm phân và lời hứa 'có vi khuẩn thì kê' giữ được lòng tin.",
+  "Từ chối xét nghiệm: bà từ chối lấy máu và nội soi; ca dạy nghe lý do, ghi nhận có ký, phương án B (PPI, giấy giới thiệu, hẹn 4 tuần), không dọa.",
+  "Đau ngực ở người 78 tuổi: ECG bình thường và đặc điểm không phải đau thắt ngực điển hình đủ để dùng PPI nhưng giới hạn (không troponin) phải ghi rõ."
+ ],
+ "bai_hoc_bien": [
+  "Người rất cao tuổi nói 'nóng ran ở cổ', không nói 'ợ nóng': hỏi theo cách bà hiểu, hỏi giờ ăn, tư thế, nước chua lên cổ.",
+  "Thuốc giảm đau khớp tự mua không được bà kể nếu chỉ hỏi chung: luôn hỏi riêng thuốc xương khớp.",
+  "Tiền sử gia đình ung thư thực quản đổi hẳn chỉ định nội soi: phải hỏi.",
+  "Từ chối xét nghiệm không phải thất bại: ghi nhận, giải thích, phương án B, giữ cánh cửa mở; lần hai bà đồng ý.",
+  "Đỡ một phần sau 4 tuần chưa phải thất bại PPI; kiểm giờ uống trước khi tăng liều hay đổi thuốc.",
+  "Xử trí đúng vẫn có kết cục xấu: đừng đánh giá quyết định qua kết cục (outcome bias)."
+ ],
+ "diem_nho": [
+  "Triệu chứng điển hình: ợ nóng, đau ngực thực quản, trào ngược (Lyon 2.0 Bảng 2); thử PPI 8 tuần 1 lần/ngày trước ăn (ACG 2022 KC 1, 8).",
+  "Thử PPI không đủ để chẩn đoán xác định (VNAGE 2026 KC 2); LA B trở lên, Barrett, hẹp là chắc chắn GERD (Lyon 2.0).",
+  "Nội soi là xét nghiệm đầu tiên khi có nhiều yếu tố nguy cơ Barrett hoặc dấu báo động; ngưng PPI 2–4 tuần trước soi (ACG KC 3, 6).",
+  "HP: chỉ điều trị khi có chỉ định và bằng chứng nhiễm; ngưng PPI 2 tuần trước test (VNAGE 2023 Statement 2, 3, 4, 6).",
+  "Người cao tuổi: paracetamol dưới 3 g/ngày thay NSAID (QĐ 361/2014 Phụ lục NSAID mục 3.3)."
+ ],
+ "nguon": [
+  "VNAGE 2026 – GERD – TL-0177 – Statement 1–16 (KC 2, 3, 4, 12, 13, 15, 16), Lời bàn KC 3",
+  "ACG 2022 – GERD – TL-0212 – Chẩn đoán KC 1, 3, 4, 5, 6; Điều trị KC 1–10, Bảng 3; Ngoài thực quản KC 3; GERD kháng trị KC 1",
+  "Lyon Consensus 2.0 2024 – TL-0206 – Bảng 2",
+  "ESC 2024 hội chứng vành mạn – TL-0304 – mục Diagnostic work-up bước 2 (3 đặc điểm đau thắt ngực điển hình)",
+  "VNAGE 2023 H. pylori – TL-0179 – Statement 2, 3, 4, 6; ACG 2024 H. pylori – TL-0203 – Bảng 4",
+  "BYT QĐ 361/2014 – TL-0286 – Phụ lục NSAID mục 3.3, Thoái hóa khớp mục 4.2.2",
+  "VNAGE 2024 khó tiêu – TL-0178 – Bảng 4 (liều PPI)",
+  "Không có trong tài liệu đã tải: cách ghi hồ sơ từ chối; mốc hẹn tái khám 4 tuần; thời hạn nội soi theo hẹn; kê kháng sinh khi chưa xác định nhiễm HP; nguy cơ ngã sau an thần; GERD và di truyền/lây."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25: viết mới. Tài liệu đã đọc: TL-0177 Statement 1–16; TL-0212 khuyến cáo chẩn đoán/điều trị/ngoài thực quản; TL-0206 Bảng 2; TL-0179 Statement 2–4; TL-0203 Bảng 4; TL-0304 bước chẩn đoán; TL-0286 phụ lục NSAID.",
+  "Biến sổ cái: 'sau sinh' đặt vào con gái mới sinh, bà sang chăm cháu; 'lo khả năng sinh sản' hiểu là lo cho con gái hiếm muộn, sợ bệnh ung thư/lây ảnh hưởng.",
+  "Giả định: cơ sở không có nội soi, bà từ chối; không khai khoa_cls.",
+  "Cần mục mới trong danh mục: không. Đối chiếu mâu thuẫn: dùng mục 1–3 của TH-0364 (PPI trước ăn sáng; nội soi không khẩn)."
+ ]
+}
