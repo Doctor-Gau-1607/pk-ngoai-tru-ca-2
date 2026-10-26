@@ -1,0 +1,838 @@
+{
+ "ma_ca": "TH-1476",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới (2026-10-26)",
+ "benh": "TH_nut_ke_hau_mon",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Nứt kẽ hậu môn",
+  "chan_doan_phai_loai_tru": [
+   "Trĩ",
+   "Ung thư ống hậu môn"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Thợ sơn",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Thị Quyên",
+  "tuoi": 51,
+  "gioi": "Nữ",
+  "nghe": "Thợ sơn nhà (nhận công trình, làm trên giàn giáo)",
+  "can_nang": 54,
+  "chieu_cao": 157,
+  "xung_ho": "Chị tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Bác sĩ gọi chị là 'chị'.",
+  "tinh_cach": "Nhanh nhẹn, nói to và nhanh, bận rộn, quen tự lo và tự mua thuốc ở tiệm quen. Ngại nói chuyện 'chỗ kín', sợ bị ghi bệnh vào giấy làm mất việc. Hiểu biết y khoa trung bình, biết mình có rung nhĩ và uống warfarin.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: chị đã tự mua ibuprofen và kem trĩ chứa corticoid rồi uống bôi 5 ngày, không nhắc nếu không được hỏi. Hỏi 'đang uống thuốc gì' thì chị chỉ kể thuốc tim. Chỉ khai khi bác sĩ hỏi thẳng thuốc tự mua, thuốc giảm đau, kem bôi, hoặc xem vỏ thuốc.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a76",
+   "toc": "#2b2420",
+   "kieuToc": "buoc",
+   "ao": "#c9b36a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "binh"
+  }
+ },
+ "ly_do_kham": "Xin giấy chứng nhận sức khỏe",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT; nếu cần CT bụng chậu phải đến bệnh viện tỉnh."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Đặng Thị Quyên, 51 tuổi, thợ sơn nhà, đến xin giấy chứng nhận sức khỏe để nhận công trình mới. Chị đi một mình, mang theo sổ theo dõi warfarin. Sinh hiệu: mạch 78 l/p, HA 128/78 mmHg, nhiệt độ 36,7 độ C, nhịp thở 16 l/p, SpO₂ 98%. Cân nặng 54 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển chị Quyên lên bệnh viện tỉnh ngay để soi, gây tê hay mổ là quá tay: vết nứt mới khoảng 3 tuần, chưa điều trị gì đúng cách, không có áp xe hay dấu hiệu nặng; điều trị không phẫu thuật là bước đầu cho nứt cấp (ASCRS 2023, khuyến cáo 1). Chị đang dùng warfarin nên mọi thủ thuật còn kéo theo chuyện tạm ngưng và theo dõi INR, trong khi chị mất ngày công, dễ bỏ giữa chừng và vẫn chưa ai gỡ táo bón cho chị.",
+    "nhap_vien": "Nhập viện theo dõi chị Quyên là không cần: sinh hiệu ổn, INR trong mục tiêu, máu chỉ dính giấy, không đau bụng hay phân đen; xử trí ngoại trú bằng làm mềm phân, ngâm nước ấm, giảm đau (ASCRS 2023, khuyến cáo 1; ACPGBI 2023, khuyến cáo 2–3). Chị mất nhiều ngày công và có thể mất luôn công trình đang chờ, còn nguyên nhân thật (phân cứng, uống ít nước, ibuprofen tự mua) vẫn không ai chỉnh."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi xin cái giấy sức khỏe để đi làm, mốt là nhận công trình rồi. Bác sĩ khám giùm cho nhanh nha, tôi bận lắm.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "128/78",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Công ty xây dựng đòi giấy chứng nhận sức khỏe trước khi nhận công trình mốt. Chị nói mình khỏe, 'chỉ hơi khó chịu chỗ kín' rồi gạt đi, muốn khám cho nhanh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (xin giấy sức khỏe)"
+    },
+    {
+     "id": "dau",
+     "noi_dung": "Khoảng 3 tuần nay, mỗi lần đi cầu hậu môn rát như dao cắt, sau đó đau âm ỉ 30–60 phút; ngồi xổm hay ngồi lâu trên giàn giáo thì nhói. Vì sợ đau nên chị nhịn, 2–3 ngày mới đi một lần. Chị nghĩ 'nóng trong'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi về đi cầu, hậu môn, đau khi đi cầu hoặc hỏi nhẹ nhàng 'có chuyện nào chị ngại nói không'. Hỏi chung 'có đau chỗ nào không' thì chị đáp 'không, khỏe'.",
+     "y": "Đau khi đi cầu kéo dài sau đi cầu (triệu chứng chính)"
+    },
+    {
+     "id": "mau",
+     "noi_dung": "Máu đỏ tươi dính giấy và vài giọt ở bồn cầu mỗi lần đi, không lẫn trong phân. Năm ngày nay nhiều hơn một chút (vài giọt, nước bồn cầu hồng nhạt); chị lo 'trĩ nặng thêm'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi có máu khi chùi, trên giấy, màu máu, lượng máu, có thay đổi gần đây không.",
+     "y": "Máu đỏ tươi khi chùi (đang dùng warfarin)"
+    },
+    {
+     "id": "tao_bon",
+     "noi_dung": "Trước đây mỗi ngày một lần. Bốn tuần nay 2–3 ngày một lần, phân to cứng, phải rặn. Uống nước ít vì ở công trình không tiện đi vệ sinh, ăn cơm hộp ít rau. Không són, không buồn đi mà không ra.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Táo bón, uống ít nước (yếu tố gây nứt)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Bốn tuần trước tái khám rung nhĩ ở bệnh viện huyện, bác sĩ đổi bisoprolol sang verapamil 120 mg uống 1 viên sáng để kiểm soát nhịp tim (chị chụp đơn). Từ sau đổi thuốc chị đi cầu thưa, phân cứng dần; chị không nghĩ có liên quan.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: đổi thuốc điều trị"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Rung nhĩ phát hiện cách đây 2 năm. Warfarin 3 mg uống tối, đo INR mỗi 4 tuần, lần gần nhất 4 tuần trước là 2,4 (ghi trong sổ). Verapamil 120 mg sáng. Không aspirin, không bệnh gan thận, không tăng huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: warfarin (kháng đông) và verapamil"
+    },
+    {
+     "id": "tu_mua",
+     "noi_dung": "Năm ngày trước chị ra tiệm thuốc mua ibuprofen 400 mg (uống sáng 1 viên, tối 1 viên, đã 5 ngày) và một tuýp kem 'trĩ' bôi hậu môn 2 lần/ngày (nhãn có hydrocortison). Chị không nói với tiệm là đang uống warfarin. Đau bớt chút nhưng máu lại nhiều hơn.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi đã tự mua hay tự dùng thuốc gì (giảm đau, kháng viêm, kem bôi, thuốc trĩ) hoặc yêu cầu xem vỏ thuốc, tuýp kem. Hỏi 'đang uống thuốc gì' thì chị chỉ kể thuốc tim.",
+     "y": "Tự dùng ibuprofen và kem corticoid 5 ngày trước khám"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không đau bụng, không sốt, không phân đen hay nhầy máu, không sụt cân, không chóng mặt. Không chảy mủ, không cục ở hậu môn, không quan hệ qua hậu môn, không tiền sử viêm ruột, lao, HIV. Chưa nội soi đại tràng lần nào. Kinh nguyệt còn, đều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động, nguồn chảy máu khác"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Chị sợ bác sĩ 'ghi bệnh' vào giấy làm mất việc, và sợ phải nghỉ mất ngày công, nên không muốn kể chuyện hậu môn.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Lộ khi bác sĩ hỏi nhẹ nhàng vì sao chị ngại, hoặc trấn an rằng giấy và bệnh là hai việc riêng.",
+     "y": "Động cơ thật (xin giấy, ngại nói chuyện hậu môn)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nhanh nhẹn, 54 kg, cao 1,57 m. Da niêm hồng, không vàng da, không bầm máu hay chấm xuất huyết ở da. Khi ngồi ghế chị ngồi nghiêng một bên.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim loạn nhịp hoàn toàn, khoảng 78 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim không đều, khoảng 78 l/p."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau, không khối, gan lách không sờ thấy. Hố chậu trái sờ thấy khúc ruột chắc như cục phân, không đau.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Nằm nghiêng trái, banh nhẹ hai mông: một vết nứt dọc ở đường giữa sau (6 giờ), nông, đáy hồng, rỉ ít máu tươi; chưa thấy sợi cơ trắng ở đáy, chưa có mẩu da thừa. Da quanh hậu môn đỏ, hơi dày và bóng ở chỗ bôi kem. Không áp xe, không lỗ rò, không búi trĩ ngoài căng tím, không khối. Khi chạm bờ hậu môn chị đau dữ dội, cơ thắt co khít, chị gạt tay; bác sĩ dừng, không đưa ngón vào.",
+     "k": 1,
+     "hien": "Có một vết nứt dọc ở đường giữa sau, rỉ ít máu tươi. Không áp xe, không rò. Thăm trực tràng không làm được vì đau."
+    },
+    "soi_hau_mon": {
+     "a": "Không thực hiện: đau, cơ thắt co thắt mạnh nên ống soi không đưa vào được; ngừng và không ép (ACPGBI 2023, mục Diagnosis: khám hậu môn đang đau rất khó). Soi hậu môn ghi hẹn lượt sau nếu làm được.",
+     "k": 0,
+     "hien": "Chưa soi được vì đau."
+    }
+   },
+   "cls": {
+    "inr": {
+     "v": "u",
+     "r": "INR 2,6.",
+     "n": "Không cần để chẩn đoán nứt. Hữu ích vì đang dùng warfarin, máu hậu môn nhiều hơn và vừa uống ibuprofen 5 ngày: đánh giá chảy máu ở người dùng kháng đông cần ghi thuốc kèm theo (NSAID) và kết quả INR (ESC 2024 rung nhĩ, mục 6.7.2). Người dùng kháng vitamin K: INR 2,0–3,0 và TTR > 70% (ESC 2024 rung nhĩ, Hình 10). Mức INR mục tiêu riêng của chị: theo nơi kê đơn (không có trong tài liệu đã tải)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 7,2 G/L · Neutrophil 62% · Hb 128 g/L · TC 262 G/L",
+     "bang": {
+      "wbc": 7.2,
+      "neu_pct": 62.0,
+      "neu": 4.46,
+      "lym_pct": 28.0,
+      "lym": 2.02,
+      "mono_pct": 6.0,
+      "mono": 0.43,
+      "eos_pct": 3.0,
+      "eos": 0.22,
+      "baso_pct": 1.0,
+      "baso": 0.07,
+      "rbc": 4.35,
+      "hgb": 128,
+      "hct": 0.39,
+      "mcv": 89.7,
+      "mch": 29.4,
+      "mchc": 328,
+      "rdw": 13.1,
+      "plt": 262
+     },
+     "n": "Hữu ích để biết đã mất máu chưa (chảy máu hậu môn không mặc định do trĩ: ASCRS 2024 khuyến cáo 2). Hb 128 g/L, bình thường, tiểu cầu bình thường. Không phải xét nghiệm bắt buộc để chẩn đoán nứt (ACPGBI 2023, khuyến cáo 1)."
+    },
+    "ct_bung": {
+     "n": "Cơ sở không có CT và cũng không có chỉ định: nứt kẽ chẩn đoán bằng nhìn trực tiếp (ACPGBI 2023, khuyến cáo 1); không có áp xe, khối hay dấu hiệu nặng. Thay bằng khám trực tiếp, thang thời gian (cấp/mạn) và hẹn khám lại."
+    },
+    "noi_soi_dt": {
+     "n": "Chưa cần ngay: nguồn máu đã nhìn thấy (vết nứt), không thiếu máu, không đổi thói quen đi cầu ngoài táo bón mới. Cân nhắc nếu máu dai dẳng, nứt không lành (ASCRS 2024 khuyến cáo 2; BSG 2022 khuyến cáo 13). Xem thêm lượt 3 về sàng lọc theo tuổi."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nứt kẽ hậu môn cấp (khoảng 3 tuần, đường giữa sau) do táo bón mới nặng thêm sau khi đổi thuốc tim, ở người rung nhĩ dùng warfarin; đã tự dùng ibuprofen và kem corticoid 5 ngày; chưa thăm trực tràng và soi hậu môn được vì đau",
+     "n": "Đau rát khi đi cầu, đau kéo dài sau đó, máu đỏ tươi khi chùi, vết nứt thấy ở đường giữa sau (ACPGBI 2023, khuyến cáo 1; ASCRS 2023, mục Statement of the Problem). Dưới 6 tuần là cấp (ACPGBI 2023, mục Definitions).",
+     "ok": 1
+    },
+    {
+     "t": "Trĩ",
+     "n": "Trĩ chỉ đau nhiều khi tắc mạch; đau nhói khi đi cầu là nứt (AGA 2026, BPA 1). Không có búi tím căng. Trĩ nội chưa loại hẳn vì chưa soi được, không đổi xử trí lượt này."
+    },
+    {
+     "t": "Ung thư ống hậu môn",
+     "n": "Không khối, không loét cứng, nứt ở vị trí điển hình, không lệch bên hay nhiều chỗ (ASCRS 2023; ACPGBI 2023, mục Diagnosis). Chưa loại hẳn vì chưa soi: hẹn lại, khám dưới gây tê và sinh thiết nếu không lành (ACPGBI 2023, khuyến cáo 6)."
+    },
+    {
+     "t": "Áp xe hoặc rò hậu môn đi kèm",
+     "n": "Da quanh hậu môn không sưng nóng, không lỗ rò, không sốt (ACPGBI 2023, khuyến cáo 20)."
+    },
+    {
+     "t": "Bệnh Crohn, lao, giang mai, HIV gây loét hậu môn",
+     "n": "Một vết ở vị trí điển hình, không đau bụng, tiêu chảy, sốt, quan hệ hậu môn (ASCRS 2023, Statement of the Problem)."
+    },
+    {
+     "t": "Chảy máu do quá liều warfarin hoặc xuất huyết tiêu hóa do ibuprofen",
+     "n": "INR 2,6 trong khoảng 2,0–3,0 (ESC 2024 rung nhĩ, Hình 10), máu đỏ tươi chỉ dính giấy, không phân đen, Hb 128 g/L, bụng không đau."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi theo chức năng, hỏi đã tự mua thuốc gì; giải thích đây là vết rách hậu môn do phân cứng, thường chữa không cần mổ",
+     "v": "c",
+     "n": "Điều trị không phẫu thuật là bước đầu cho nứt cấp (ASCRS 2023, khuyến cáo 1, 1B); gần một nửa nứt cấp khỏi với biện pháp này (ASCRS 2023)."
+    },
+    {
+     "t": "Dừng ibuprofen; không tự mua NSAID khi đang uống warfarin",
+     "v": "c",
+     "n": "Người dùng kháng đông: tránh NSAID, cho giảm đau khác (ESC 2024 rung nhĩ, Hình 10 và Hình 9: tránh NSAID khi có thể). QĐ 361/2014, Phụ lục NSAID mục 2: nhóm nguy cơ thấp là nhóm không kết hợp thuốc chống đông."
+    },
+    {
+     "t": "Giảm đau paracetamol 500 mg khi đau, cách 6–8 giờ; tổng không quá 4 g/ngày (QĐ 361/2014) hoặc dưới 3 g/ngày (thận trọng hơn)",
+     "v": "c",
+     "n": "Thuốc giảm đau không opioid như paracetamol (ACPGBI 2023, khuyến cáo 3). Liều: QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1 (≤ 4 g/24 giờ) và bậc 1 bảng WHO (500–3.000 mg/24 giờ); chị dùng thưa nên chọn mức dưới 3 g/ngày. Tương tác paracetamol–warfarin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm mềm phân: macrogol (PEG) 17 g mỗi sáng, chỉnh theo đáp ứng; tránh tiêu chảy",
+     "v": "c",
+     "n": "Phân mềm, không rặn, tránh tiêu chảy (ACPGBI 2023, khuyến cáo 2). PEG khuyến cáo mạnh, 17 g/ngày (AGA-ACG 2023, khuyến cáo 2, Bảng 4)."
+    },
+    {
+     "t": "Tăng chất xơ và uống đủ nước",
+     "v": "c",
+     "n": "Chất xơ ít nhất 30 g/ngày (ACPGBI 2023, khuyến cáo 2) hoặc tổng 20–30 g/ngày (AGA-ACG 2023, Bảng 4); khuyến cáo nước theo mL: không có trong tài liệu đã tải. Chất xơ + ngâm hậu môn giảm đau hơn thuốc tê hay hydrocortisone bôi (91% so với 60% và 68%; ASCRS 2023, khuyến cáo 1)."
+    },
+    {
+     "t": "Ngâm hậu môn nước ấm sau mỗi lần đi cầu",
+     "v": "c",
+     "n": "ACPGBI 2023, khuyến cáo 3: an toàn, tăng hài lòng, bằng chứng giảm đau/lành chưa thống nhất. Nhiệt độ và thời gian ngâm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn thói quen đi cầu: đi khi buồn, không nhịn, không rặn, không ngồi lâu, giữ sạch khô, tránh khăn ướt",
+     "v": "c",
+     "n": "ACPGBI 2023, khuyến cáo 4 (ý kiến chuyên gia); AGA 2026, BPA 2."
+    },
+    {
+     "t": "Giữ nguyên warfarin, không tự ngưng; tiếp tục xử trí tại chỗ, báo nơi theo dõi INR về đợt chảy máu và việc đã uống ibuprofen (hoặc hỏi nơi đó về hoãn liều nếu máu tiếp tục); hỏi lại nơi kê verapamil về táo bón, không tự đổi",
+     "v": "c",
+     "n": "ESC 2024 rung nhĩ, mục 6.7.1: yếu tố nguy cơ chảy máu hiếm khi là lý do rút kháng đông, xử trí yếu tố sửa được (NSAID, tương tác); HOẶC mục 6.7.2, Hình 11: chảy máu nhẹ có thể tạm ngưng kháng đông trong khi xử trí nguyên nhân, mức giảm tác dụng phụ thuộc INR. Verapamil gây táo bón: không có trong tài liệu đã tải (xem mau_thuan.md, HH-0692 mục 2)."
+    },
+    {
+     "t": "Hẹn khám lại sau 3 tuần; dặn dấu hiệu quay lại sớm: máu nhiều, phân đen, chóng mặt, sốt, hậu môn sưng nóng, 5 ngày không đi cầu",
+     "v": "c",
+     "n": "Mốc 3 tuần và ngưỡng 5 ngày là lựa chọn của ca (không có trong tài liệu đã tải). Cần mở lại hồ sơ nếu không lành (ACPGBI 2023, khuyến cáo 6)."
+    },
+    {
+     "t": "Ghi nhận mục đích xin giấy sức khỏe; hoàn tất giấy khi điều trị ổn",
+     "v": "a",
+     "n": "Mẫu giấy và tiêu chuẩn sức khỏe cho thợ sơn làm trên cao: không có trong tài liệu đã tải. Trấn an giúp chị kể chuyện hậu môn."
+    },
+    {
+     "t": "Bôi lidocaine tại chỗ trước khi đi cầu khi đau nhói",
+     "v": "a",
+     "n": "ACPGBI 2023, khuyến cáo 3; kém hơn chất xơ + ngâm (ASCRS 2023, khuyến cáo 1). Nồng độ, số lần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đảo ngược tác dụng kháng đông (vitamin K, huyết tương) vì máu hậu môn",
+     "v": "w",
+     "n": "INR 2,6 trong mục tiêu, máu ít; huyết tương và phức hợp prothrombin dành cho chảy máu nặng ở người dùng kháng vitamin K (ESC 2024 rung nhĩ, mục 6.7.2)."
+    },
+    {
+     "t": "Chuyển bệnh viện tỉnh hay nhập viện ngay hôm nay",
+     "v": "w",
+     "n": "Không có chỉ định: nứt cấp, sinh hiệu ổn, INR trong mục tiêu (ASCRS 2023, khuyến cáo 1)."
+    },
+    {
+     "t": "Nong hậu môn bằng tay cho dễ đi cầu",
+     "v": "h",
+     "n": "Nong bằng tay không kiểm soát có nguy cơ không tự chủ cao hơn cắt cơ thắt trong (OR 4,03; ASCRS 2023, khuyến cáo 6)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nứt kẽ hậu môn cấp (khoảng 3 tuần), đường giữa sau",
+     "Yếu tố thúc đẩy: táo bón mới nặng thêm sau đổi thuốc tim, uống ít nước, ăn ít xơ, nhịn đi cầu ở công trình",
+     "Yếu tố làm nhiễu: tự dùng ibuprofen và kem corticoid 5 ngày khi đang uống warfarin (máu nhiều hơn, da quanh hậu môn đỏ)",
+     "Rung nhĩ dùng warfarin, INR 2,6; không có bằng chứng quá liều kháng đông hay thiếu máu",
+     "Chưa thăm trực tràng, soi hậu môn đầy đủ được vì đau; đã loại trừ trên lâm sàng trĩ có triệu chứng, áp xe/rò; chưa loại hẳn ung thư ống hậu môn"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: chị xin giấy và gạt chuyện hậu môn. Hỏi theo chức năng (đau sau đi cầu bao lâu, có nhịn đi cầu không, máu trên giấy) và hỏi chủ động về thuốc tự mua mới ra ibuprofen và kem corticoid. Máu đỏ tươi khi chùi kèm đau khi đi cầu gợi nứt hậu môn (ACPGBI 2023, khuyến cáo 1).",
+     "Khám: chẩn đoán bằng nhìn trực tiếp (ACPGBI 2023, khuyến cáo 1): vết nứt đường giữa sau, nơi gặp ở 73% (ASCRS 2023). Khám hậu môn đang đau rất khó: không đưa ngón, không soi. AGA 2026 (BPA 4) soi hậu môn nếu có thể; ASCRS 2024 (khuyến cáo 1) chỉ 'có thể cân nhắc': cả hai đều là 'nếu làm được' (xem mau_thuan.md, soi hậu môn).",
+     "Loại trừ: trĩ chỉ đau khi tắc mạch (AGA 2026, BPA 1). Ung thư ống hậu môn: vị trí điển hình, không khối loét; vẫn hẹn lại và khám kỹ nếu không lành (ACPGBI 2023, khuyến cáo 6). Chảy máu không mặc định do trĩ (ASCRS 2024, khuyến cáo 2).",
+     "Kháng đông: INR 2,6, Hb 128 g/L giúp loại quá liều warfarin và mất máu đáng kể; NSAID cộng với warfarin làm tăng nguy cơ chảy máu nên phải dừng (ESC 2024 rung nhĩ, Hình 9, 10)."
+    ],
+    "phan_tich_xu_tri": [
+     "Nứt cấp: điều trị không phẫu thuật là bước đầu (ASCRS 2023, khuyến cáo 1): chất xơ, nước, ngâm hậu môn, giảm đau; ACPGBI 2023 (khuyến cáo 2–4) thêm thói quen đi cầu.",
+     "PEG 17 g/ngày (AGA-ACG 2023, khuyến cáo 2, Bảng 4). Chất xơ ≥ 30 g/ngày (ACPGBI 2023) hoặc 20–30 g/ngày (AGA-ACG 2023): cả hai đều được, tăng dần (xem mau_thuan.md, chất xơ).",
+     "Giảm đau chỉ paracetamol, tránh NSAID vì đang dùng warfarin (ESC 2024 rung nhĩ, Hình 9, 10). Liều paracetamol: ≤ 4 g/ngày (QĐ 361/2014, mục 3.1) hoặc dưới 3 g/ngày; chị dùng thưa.",
+     "Warfarin: giữ, báo nơi theo dõi INR; ESC 2024 mục 6.7.1 (tiếp tục, xử trí yếu tố sửa được) và mục 6.7.2 (chảy máu nhẹ có thể tạm ngưng trong khi xử trí nguyên nhân): ca ghi cả hai (xem mau_thuan.md, HH-0692).",
+     "Vì sao chưa kê thuốc bôi giãn cơ thắt: thuốc ghi cho nứt mạn (ASCRS 2023, khuyến cáo 2–3; ACPGBI 2023, khuyến cáo 5). Hẹn 3 tuần (mốc của ca) để xem đã lành chưa; lúc đó đã ≥ 6 tuần."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Macrogol 3350 (PEG) gói bột pha uống",
+      "ham_luong": "Tương đương 17 g PEG/gói (quy đổi theo nhãn trong nước: không có trong tài liệu đã tải)",
+      "lieu": "17 g × 1 lần/ngày, pha một cốc nước; chỉnh theo đáp ứng, giảm nếu phân lỏng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng đều, đánh giá lại sau 3 tuần",
+      "ghi_chu": "AGA-ACG 2023, khuyến cáo 2, Bảng 4 (17 g/ngày, không có liều tối đa rõ); ACPGBI 2023, khuyến cáo 2. Tác dụng phụ: chướng bụng, phân lỏng."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần khi đau, cách 6–8 giờ; tổng dưới 3 g/ngày (tối đa 4 g/ngày theo QĐ 361/2014)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Khi cần, dùng thưa",
+      "ghi_chu": "ACPGBI 2023, khuyến cáo 3; QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1. Thay ibuprofen vì đang dùng warfarin (ESC 2024 rung nhĩ, Hình 10)."
+     },
+     {
+      "thuoc": "Warfarin (đang dùng)",
+      "ham_luong": "3 mg (theo sổ của chị)",
+      "lieu": "Giữ nguyên 1 viên mỗi tối, đo INR theo lịch của nơi theo dõi",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Đang dùng, giữ nguyên; ESC 2024 rung nhĩ, mục 6.7.1. Chỉnh liều hay tạm ngưng do nơi theo dõi quyết định."
+     },
+     {
+      "thuoc": "Verapamil (đang dùng, theo đơn bệnh viện huyện)",
+      "ham_luong": "120 mg",
+      "lieu": "Giữ nguyên 1 viên mỗi sáng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Đang dùng, không tự ngưng hay đổi; hỏi nơi kê đơn về táo bón (liên quan táo bón: không có trong tài liệu đã tải)."
+     },
+     {
+      "thuoc": "Ibuprofen 400 mg và kem hậu môn chứa hydrocortison (chị tự mua)",
+      "ham_luong": "400 mg; kem theo nhãn",
+      "lieu": "Dừng ibuprofen; dừng kem (nếu còn dùng thì tổng không quá 2 tuần)",
+      "duong": "Uống; bôi ngoài",
+      "thoi_diem": "Không dùng tiếp",
+      "so_ngay": "Ngưng",
+      "ghi_chu": "ESC 2024 rung nhĩ, Hình 9, 10 (NSAID với kháng đông); AGA 2026, BPA 3 (corticoid bôi không quá 2 tuần)."
+     }
+    ],
+    "dan_do": [
+     "Đi cầu khi buồn, không nhịn, không rặn hay ngồi lâu; lau nhẹ, giữ sạch khô, tránh khăn ướt (ACPGBI 2023, khuyến cáo 4).",
+     "Uống nước đều trong ngày, mang chai nước lên công trình; ăn thêm rau, trái cây (mục tiêu tổng 20–30 g xơ/ngày theo AGA-ACG 2023, Bảng 4, hoặc ≥ 30 g theo ACPGBI 2023, khuyến cáo 2).",
+     "Ngâm hậu môn nước ấm sau mỗi lần đi cầu khi ở nhà (ACPGBI 2023, khuyến cáo 3).",
+     "Không mua ibuprofen, diclofenac, aspirin; khi mua thuốc nói với dược sĩ đang uống warfarin (ESC 2024 rung nhĩ, Hình 9, 10).",
+     "Quay lại sớm nếu máu nhiều hơn hay nhỏ giọt, phân đen, chóng mặt, sốt, hậu môn sưng nóng, 5 ngày không đi cầu (ngưỡng 5 ngày: lựa chọn của ca, không có trong tài liệu đã tải).",
+     "Hẹn tái khám sau 3 tuần (mốc của ca, không có trong tài liệu đã tải), mang theo sổ INR và đơn thuốc."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Chị Quyên tái khám theo hẹn sau 3 tuần, đã dừng ibuprofen và kem. Chị làm theo một phần: uống macrogol đều, nhưng ở công trình không ngâm nước ấm được và uống nước ít. Sinh hiệu: mạch 76 l/p (không đều), HA 126/76 mmHg, nhiệt độ 36,6 độ C, nhịp thở 16 l/p, SpO₂ 98%. Cân nặng 54 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Gửi chị Quyên lên bệnh viện tỉnh để mổ cắt cơ thắt hay tiêm botulinum ngay khi chưa thử thuốc bôi là quá sớm: ACPGBI 2023 (khuyến cáo 5) xếp thuốc bôi 2 tháng là điều trị đầu tay cho nứt mạn, và ở phụ nữ nguy cơ không tự chủ sau cắt cơ thắt lớn hơn (ACPGBI 2023, khuyến cáo 8; ASCRS 2023, khuyến cáo 5: không tự chủ 8–30%). Chị đang dùng warfarin nên còn phải tính chuyện tạm ngưng thuốc cho thủ thuật (không có trong tài liệu đã tải), trong khi vết nứt có thể liền với thuốc bôi.",
+    "nhap_vien": "Nhập viện cho chị Quyên là không cần: chị đã đỡ một phần, sinh hiệu ổn, máu chỉ dính giấy, không áp xe hay thiếu máu; điều trị ngoại trú theo khuyến cáo (ACPGBI 2023, khuyến cáo 5, 6). Chị mất nhiều ngày công ngay lúc đang làm công trình mới và có thể bỏ điều trị vì sợ mất việc."
+   },
+   "loi_mo": "Chào bác sĩ. Đỡ hơn nhiều rồi mà vẫn còn đau, còn thấy dính máu giấy. Bác sĩ cho tôi cái giấy sức khỏe luôn được không?",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "126/76",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Đau còn khoảng 20–30 phút sau đi cầu (trước 30–60 phút), mức 4/10 (trước 7/10). Máu còn dính giấy 2–3 lần/tuần, không nhỏ giọt. Đi cầu 1–2 ngày/lần, phân mềm hơn nhưng thỉnh thoảng còn cứng. Tính từ lúc khởi phát đã khoảng 6–7 tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đỡ một phần; thời gian bệnh ≥ 6 tuần"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Macrogol 17 g mỗi sáng làm đều. Ngâm nước ấm chỉ được tối 3–4 lần/tuần vì ban ngày ở công trình. Nước khoảng 1 lít/ngày. Chất xơ: vài bữa rau luộc, chuối mỗi tuần. Đã bỏ ibuprofen và kem; không uống thuốc lạ nào.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể đủ khi bác sĩ hỏi cụ thể từng việc mỗi ngày (macrogol, ngâm, uống nước bao nhiêu, ăn rau) và hỏi lại có dùng thuốc nào khác không. Hỏi chung 'có làm theo không' thì chị đáp 'làm hết rồi'.",
+     "y": "Tuân thủ từng điểm (ngâm, nước, xơ) và thuốc tự mua"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Warfarin 3 mg tối, INR hai tuần trước là 2,5 (sổ). Verapamil 120 mg sáng. Chị hay đau nửa đầu mỗi tháng 1–2 lần, uống paracetamol là đỡ. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng; tiền sử đau đầu (chọn thuốc bôi)"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không phân đen, không sụt cân, không đau bụng, không chóng mặt, không són phân, không đổi khuôn phân. Chưa nội soi đại tràng lần nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động và tiền sử nội soi"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, 54 kg, niêm mạc hồng, không bầm máu da.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không điểm đau, không khối; không còn khối phân ở hố chậu trái.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Nhìn: vết nứt dọc đường giữa sau dài khoảng 1 cm, bờ dày lên, có một mẩu da thừa nhỏ (sentinel) ở rìa ngoài, đáy thấy sợi trắng của cơ thắt trong, rỉ ít máu. Da quanh hậu môn hết đỏ. Thăm trực tràng bằng ngón có gel: chị đau vừa, trương lực cơ thắt tăng, không khối, găng dính ít máu tươi.",
+     "k": 1,
+     "hien": "Vết nứt ở đường giữa sau, bờ dày, có mẩu da thừa nhỏ; thăm trực tràng đau vừa, không khối."
+    },
+    "soi_hau_mon": {
+     "a": "Soi bằng ống nhỏ có bôi trơn, chị chịu được: ống hậu môn không búi trĩ nội, không khối, không loét lạ; niêm mạc trực tràng thấp hồng.",
+     "k": 1,
+     "hien": "Không búi trĩ, không khối, không loét khác."
+    }
+   },
+   "cls": {
+    "noi_soi_dt": {
+     "n": "Chưa bắt buộc: nguồn máu đã nhìn thấy, đã soi hậu môn, không thiếu máu. Nhưng 6–7 tuần còn máu ở người 51 tuổi nên cân nhắc nội soi theo hẹn, hoặc điều trị nứt trước rồi nội soi nếu máu dai dẳng (ASCRS 2024 khuyến cáo 2; AGA 2026, BPA 1 phần bàn luận; BSG 2022 khuyến cáo 13)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nứt kẽ hậu môn mạn (từ 6 tuần trở lên, đường giữa sau), mới đáp ứng một phần với điều trị bảo tồn do tuân thủ chưa đủ (ngâm nước ấm, uống nước); rung nhĩ dùng warfarin",
+     "n": "Quá 6 tuần là mạn, bờ dày, sentinel, thấy sợi cơ thắt (ACPGBI 2023, Definitions và Diagnosis). Đáp ứng một phần, chưa phải thất bại: chưa dùng thuốc bôi và còn thiếu tuân thủ (ACPGBI 2023, khuyến cáo 6).",
+     "ok": 1
+    },
+    {
+     "t": "Trĩ nội",
+     "n": "Đã soi hậu môn: không búi trĩ; trĩ chỉ đau khi tắc mạch (AGA 2026, BPA 1, BPA 4)."
+    },
+    {
+     "t": "Ung thư ống hậu môn",
+     "n": "Không khối, không loét, vị trí điển hình, đã đáp ứng một phần với điều trị. Chưa cần sinh thiết lúc này; khám dưới gây tê và sinh thiết nếu không lành sau đủ thuốc (ACPGBI 2023, khuyến cáo 1, 6)."
+    },
+    {
+     "t": "Chảy máu do kháng đông hay tổn thương ruột khác",
+     "n": "Máu ít, chỉ dính giấy, INR 2,5 trong mục tiêu, không thiếu máu; nguồn máu thấy được (ASCRS 2024, khuyến cáo 2; ESC 2024 rung nhĩ, Hình 10)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác định đáp ứng một phần và hỏi tuân thủ từng điểm; nứt đã mạn nên thêm thuốc bôi",
+     "v": "c",
+     "n": "Nứt mạn khi ≥ 6 tuần (ACPGBI 2023, Definitions). Tỉ lệ lành bằng điều trị không phẫu thuật giảm khi bệnh kéo dài (ASCRS 2023). Cần kiểm tra tuân thủ, thói quen đi cầu, thời gian điều trị trước khi coi là thất bại (ACPGBI 2023, khuyến cáo 6)."
+    },
+    {
+     "t": "Thuốc bôi giãn cơ thắt: diltiazem 2% hoặc GTN 0,4% trong 2 tháng (chị hay đau đầu nên diltiazem ít đau đầu hơn)",
+     "v": "c",
+     "n": "ASCRS 2023, khuyến cáo 2–3 (1B): nitrat bôi dùng được, đau đầu hạn chế hiệu quả; chẹn kênh canxi bôi tương đương, ít tác dụng phụ hơn. ACPGBI 2023, khuyến cáo 5: GTN 0,4% hoặc diltiazem 2% trong 2 tháng, chọn theo từng người; lành ở tuần 8: 63,6% (nitrat), 52,3% (diltiazem); GTN có cấp phép cho đau hậu môn, diltiazem không (xem mau_thuan.md, TH-1478 mục 1). Tần suất và lượng mỗi lần bôi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục macrogol, chất xơ và nước, ngâm hậu môn (ở nhà sau mỗi lần đi cầu; ở công trình đi cầu êm, lau nhẹ), thói quen đi cầu",
+     "v": "c",
+     "n": "ACPGBI 2023, khuyến cáo 2–4; AGA-ACG 2023, khuyến cáo 2, Bảng 4. Chỉ đổi thói quen ăn khó đủ cho nứt mạn đã sẹo (ACPGBI 2023, khuyến cáo 2)."
+    },
+    {
+     "t": "Soi hậu môn trong buổi khám (đã làm được)",
+     "v": "c",
+     "n": "AGA 2026, BPA 4; ASCRS 2024, khuyến cáo 1 (xem mau_thuan.md, soi hậu môn)."
+    },
+    {
+     "t": "Nội soi đại tràng theo hẹn HOẶC điều trị nứt đủ thời gian rồi nội soi nếu còn máu dai dẳng hay tái phát",
+     "v": "c",
+     "n": "ASCRS 2024, khuyến cáo 2: nội soi đại tràng ở người chọn lọc (có điều kiện, bằng chứng thấp); AGA 2026, BPA 1 (bàn luận): cân nhắc khi chảy máu trực tràng; BSG 2022, khuyến cáo 13. Hiểu theo mục TH-0970 trong sổ mâu thuẫn."
+    },
+    {
+     "t": "Giữ warfarin theo nơi theo dõi, đo INR đúng lịch; tiếp tục tránh NSAID, đau đầu dùng paracetamol",
+     "v": "c",
+     "n": "ESC 2024 rung nhĩ, mục 6.7.1, Hình 9, 10 (INR 2,0–3,0, TTR > 70%; tránh NSAID)."
+    },
+    {
+     "t": "Hẹn khám lại sau 8 tuần (đủ 2 tháng thuốc bôi); quay lại sớm khi máu nhiều, đau tăng, sưng nóng, sốt",
+     "v": "c",
+     "n": "ACPGBI 2023, khuyến cáo 5 (2 tháng; hầu hết thầy thuốc dùng 8 tuần, tối thiểu hơn 4 tuần). Quay lại sớm: lựa chọn của ca."
+    },
+    {
+     "t": "Chuyển chuyên khoa sớm tư vấn cắt cơ thắt hay botulinum ngay, chưa dùng thuốc bôi",
+     "v": "a",
+     "n": "ASCRS 2023, khuyến cáo 5 (1A): cắt cơ thắt trong bên có thể đề nghị ở người chọn lọc chưa dùng thuốc, lành 88–100%, không tự chủ 8–30%. ACPGBI 2023, khuyến cáo 5, 8: thuốc bôi trước; ở nữ nguy cơ không tự chủ lớn hơn. Chưa cần ở chị vì mới đáp ứng một phần."
+    },
+    {
+     "t": "Nong hậu môn bằng tay",
+     "v": "h",
+     "n": "Nguy cơ không tự chủ cao hơn cắt cơ thắt trong (OR 4,03; ASCRS 2023, khuyến cáo 6)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nứt kẽ hậu môn mạn (từ 6 tuần), đường giữa sau, đáp ứng một phần",
+     "Nguyên nhân chưa lành: tuân thủ chưa đủ (ngâm nước ấm 3–4 lần/tuần, uống nước khoảng 1 lít), chưa dùng thuốc bôi",
+     "Đã soi hậu môn: không búi trĩ, không khối, không loét; chưa cần sinh thiết",
+     "Rung nhĩ dùng warfarin, INR 2,5 trong mục tiêu"
+    ],
+    "phan_tich_chan_doan": [
+     "Phân biệt hồi phục chậm bình thường với thất bại điều trị sớm: chị đã đỡ (đau 7 xuống 4/10, máu thưa), nhưng đã ≥ 6 tuần nên là nứt mạn, và chưa dùng thuốc bôi, tuân thủ còn thiếu; đây là đáp ứng một phần, chưa phải thất bại (ACPGBI 2023, Definitions và khuyến cáo 6).",
+     "Khám: bờ dày, sentinel, thấy sợi cơ thắt là dấu của nứt mạn (ACPGBI 2023, Diagnosis; ASCRS 2023). Đã soi hậu môn được vì đỡ đau (AGA 2026, BPA 4).",
+     "Loại trừ ung thư ống hậu môn: vị trí điển hình, không khối, đáp ứng điều trị; chưa sinh thiết, chỉ làm khi không lành sau đủ thuốc (ACPGBI 2023, khuyến cáo 6)."
+    ],
+    "phan_tich_xu_tri": [
+     "Thêm thuốc bôi giãn cơ thắt vì nứt mạn (ASCRS 2023, khuyến cáo 2–3; ACPGBI 2023, khuyến cáo 5). Hai thuốc cùng được: GTN gây đau đầu ở ít nhất 30% (ASCRS 2023, khuyến cáo 2), diltiazem ít đau đầu hơn (RR 0,15; ACPGBI 2023, khuyến cáo 5); chị hay đau nửa đầu nên nghiêng về diltiazem, nhưng GTN vẫn đúng.",
+     "Tiếp tục mềm phân, xơ, nước, ngâm; tăng tuân thủ là phần quan trọng nhất (ACPGBI 2023, khuyến cáo 6).",
+     "Cắt cơ thắt hay botulinum dành cho khi thuốc bôi đủ 2 tháng không lành (ASCRS 2023, khuyến cáo 4–5; ACPGBI 2023, khuyến cáo 7–8), và ở nữ phải cân nhắc không tự chủ.",
+     "Warfarin: giữ, không NSAID (ESC 2024 rung nhĩ, Hình 9, 10)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Diltiazem 2% bôi hậu môn (một trong hai thuốc bôi)",
+      "ham_luong": "2% (chế phẩm trong nước: không có trong tài liệu đã tải)",
+      "lieu": "Một lớp mỏng quanh bờ và trong ống hậu môn; số lần/ngày và lượng: không có trong tài liệu đã tải",
+      "duong": "Bôi ngoài/hậu môn",
+      "thoi_diem": "Theo hướng dẫn nơi kê; thường sau đi cầu",
+      "so_ngay": "2 tháng (8 tuần)",
+      "ghi_chu": "ACPGBI 2023, khuyến cáo 5; ASCRS 2023, khuyến cáo 3. Ít đau đầu hơn GTN (RR 0,15)."
+     },
+     {
+      "thuoc": "Glyceryl trinitrate (GTN) 0,4% bôi hậu môn (thay cho diltiazem)",
+      "ham_luong": "0,4%",
+      "lieu": "Một lớp mỏng quanh hậu môn; số lần/ngày và lượng: không có trong tài liệu đã tải",
+      "duong": "Bôi ngoài/hậu môn",
+      "thoi_diem": "Theo hướng dẫn nơi kê",
+      "so_ngay": "2 tháng (8 tuần)",
+      "ghi_chu": "ACPGBI 2023, khuyến cáo 5; ASCRS 2023, khuyến cáo 2: đau đầu ở ít nhất 30%, ngưng thuốc ở tới 20%."
+     },
+     {
+      "thuoc": "Macrogol 3350 (PEG)",
+      "ham_luong": "17 g/gói",
+      "lieu": "17 g × 1 lần/ngày, chỉnh theo phân",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp đến khi hết đau và phân mềm đều",
+      "ghi_chu": "AGA-ACG 2023, khuyến cáo 2, Bảng 4."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên khi đau, cách 6–8 giờ; tổng dưới 3 g/ngày (tối đa 4 g/ngày theo QĐ 361/2014)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "ACPGBI 2023, khuyến cáo 3; QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1."
+     },
+     {
+      "thuoc": "Warfarin 3 mg và verapamil 120 mg (đang dùng)",
+      "ham_luong": "3 mg; 120 mg",
+      "lieu": "Giữ nguyên như cũ; INR theo lịch",
+      "duong": "Uống",
+      "thoi_diem": "Tối; sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Đang dùng, giữ nguyên; ESC 2024 rung nhĩ, mục 6.7.1."
+     }
+    ],
+    "dan_do": [
+     "Bôi thuốc đủ 2 tháng dù đã bớt đau (ACPGBI 2023, khuyến cáo 5, 6); báo nếu đau đầu nặng.",
+     "Ngâm hậu môn nước ấm mỗi tối; ở công trình, đi cầu ngay khi buồn, không nhịn, lau nhẹ (ACPGBI 2023, khuyến cáo 3, 4).",
+     "Uống nước đều, mục tiêu xơ 20–30 g/ngày (AGA-ACG 2023, Bảng 4) hoặc ≥ 30 g (ACPGBI 2023, khuyến cáo 2).",
+     "Không mua NSAID khi đang dùng warfarin (ESC 2024 rung nhĩ, Hình 9, 10).",
+     "Quay lại sớm nếu máu nhiều, đau tăng, sưng nóng, sốt, phân đen. Hẹn khám sau 8 tuần (ACPGBI 2023, khuyến cáo 5)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Chị Quyên tái khám sau 8 tuần bôi thuốc theo đơn, mang theo ống thuốc và sổ INR. Chị đã nhận công trình mới và làm lại bình thường. Sinh hiệu: mạch 74 l/p (không đều), HA 124/76 mmHg, nhiệt độ 36,6 độ C, nhịp thở 16 l/p, SpO₂ 98%. Cân nặng 55 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Gửi chị Quyên lên bệnh viện tỉnh để cắt cơ thắt hay tiêm botulinum khi vết nứt đã liền và hết đau là quá tay: các thủ thuật dành cho nứt mạn không lành với thuốc bôi (ASCRS 2023, khuyến cáo 4–5); cắt cơ thắt có không tự chủ 8–30% (ASCRS 2023, khuyến cáo 5), botulinum có không tự chủ thoáng qua khoảng 5% (ACPGBI 2023, khuyến cáo 7). Chị còn phải tạm ngưng warfarin và nghỉ việc đúng lúc công trình đang chạy, để đổi lấy rủi ro không cần.",
+    "nhap_vien": "Nhập viện theo dõi chị Quyên là không cần: đã khỏi triệu chứng, sinh hiệu ổn, INR trong mục tiêu (ACPGBI 2023, Definitions: lành lâm sàng khi hết triệu chứng). Chị mất ngày công vô ích và có thể ngại quay lại khám khi tái phát."
+   },
+   "loi_mo": "Chào bác sĩ. Giờ hết đau rồi, không thấy máu nữa. Bác sĩ cho tôi giấy sức khỏe để nộp, tôi làm xong việc này rồi, nghen.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "124/76",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ket_qua",
+     "noi_dung": "Bôi thuốc đủ 8 tuần theo đơn, không đau đầu. Ba tuần nay hết đau khi đi cầu, không còn máu trên giấy. Đi cầu mỗi ngày một lần, phân mềm, không rặn, không són.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng điều trị: hết đau, hết máu, phân mềm"
+    },
+    {
+     "id": "duy_tri",
+     "noi_dung": "Vẫn uống macrogol 17 g khoảng 3 buổi sáng/tuần khi thấy phân cứng, uống nước gần 1,5 lít, mang chai nước lên công trình. Ngâm nước ấm khi ở nhà. Verapamil và warfarin vẫn dùng như cũ, INR gần nhất 2,5.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Duy trì phòng tái phát; thuốc đang dùng"
+    },
+    {
+     "id": "dau_vai",
+     "noi_dung": "Dạo này đau vai vì sơn trần, chị định ra tiệm mua ibuprofen như lần trước, chưa mua.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi có đau chỗ nào khác, có dùng thuốc giảm đau gì, hay có kế hoạch mua thuốc không.",
+     "y": "Nhu cầu giảm đau mới (đau vai): tránh NSAID khi dùng warfarin"
+    },
+    {
+     "id": "nghe_giay",
+     "noi_dung": "Công trình mới có làm trên giàn giáo cao 5–6 m. Chị cần giấy nộp ngay ngày mai và lo bác sĩ ghi 'đang uống thuốc chống đông'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do thật (giấy sức khỏe), nghề làm trên cao khi dùng kháng đông"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, 55 kg, niêm mạc hồng, không bầm máu da.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Vết nứt đã liền thành một nếp sẹo nhỏ ở đường giữa sau, còn một mẩu da thừa nhỏ (sentinel), không máu. Thăm trực tràng bằng ngón có gel: không đau, trương lực cơ thắt bình thường, không khối, găng không dính máu.",
+     "k": 1,
+     "hien": "Không còn vết nứt, chỉ còn sẹo nhỏ và mẩu da thừa. Thăm trực tràng không đau, không khối, găng sạch."
+    }
+   },
+   "cls": {
+    "noi_soi_dt": {
+     "n": "Không bắt buộc vì máu đã hết và nguồn máu đã rõ (ASCRS 2024 khuyến cáo 2). Sàng lọc ung thư đại trực tràng theo tuổi là việc riêng: USPSTF 2021 từ 45 tuổi, Asia-Pacific 2022 từ 50 tuổi (Statement 6); chị 51 tuổi nên nên được tư vấn (xem mau_thuan.md, TH-0859). Tài liệu đã tải không ghi phương thức sàng lọc ưu tiên ở Việt Nam."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nứt kẽ hậu môn mạn đã lành lâm sàng sau thuốc bôi 8 tuần (hết đau, hết máu, vết nứt liền); nguy cơ tái phát khi táo bón; rung nhĩ dùng warfarin",
+     "n": "Lành lâm sàng: hết triệu chứng, có hoặc không còn thấy vết nứt (ACPGBI 2023, Definitions); tuần 8 lành 52,3–63,6% với thuốc bôi (ACPGBI 2023, khuyến cáo 5). Chị lành hoàn toàn.",
+     "ok": 1
+    },
+    {
+     "t": "Trĩ",
+     "n": "Đã soi hậu môn lượt 2 không búi trĩ; nay hết đau và hết máu (AGA 2026, BPA 1)."
+    },
+    {
+     "t": "Ung thư ống hậu môn",
+     "n": "Vết nứt lành hoàn toàn với điều trị, không khối; không cần sinh thiết (ACPGBI 2023, khuyến cáo 6: khám dưới gây tê và sinh thiết khi không lành)."
+    },
+    {
+     "t": "Tái phát hoặc chưa lành thật",
+     "n": "Không đau, không máu, thăm trực tràng không đau. Tái phát: hết triệu chứng rồi xuất hiện lại (ACPGBI 2023, Definitions); chất xơ duy trì giảm tái phát 16% so với 60% (ASCRS 2023, khuyến cáo 1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận lành lâm sàng và ngừng thuốc bôi sau đủ 2 tháng",
+     "v": "c",
+     "n": "ACPGBI 2023, khuyến cáo 5 (2 tháng) và Definitions (lành lâm sàng). Cách giảm dần hay duy trì sau khi lành: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Duy trì chất xơ, nước, thói quen đi cầu để phòng tái phát; macrogol khi phân cứng",
+     "v": "c",
+     "n": "Chất xơ duy trì giảm tái phát 16% so với 60% (ASCRS 2023, khuyến cáo 1). Mục tiêu xơ ≥ 30 g/ngày (ACPGBI 2023, khuyến cáo 2) hoặc 20–30 g/ngày (AGA-ACG 2023, Bảng 4); PEG 17 g/ngày, đáp ứng bền tới 6 tháng (AGA-ACG 2023, Bảng 4)."
+    },
+    {
+     "t": "Đau vai: dùng paracetamol, không mua ibuprofen hay NSAID khác khi đang uống warfarin",
+     "v": "c",
+     "n": "ESC 2024 rung nhĩ, Hình 10 (NSAID: cho giảm đau khác) và Hình 9 (tránh NSAID). Paracetamol dưới 3 g/ngày (thận trọng) hoặc ≤ 4 g/ngày (QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1)."
+    },
+    {
+     "t": "Giữ warfarin và verapamil theo nơi theo dõi, đo INR đúng lịch",
+     "v": "c",
+     "n": "ESC 2024 rung nhĩ, mục 6.7.1, Hình 10 (INR 2,0–3,0, TTR > 70%)."
+    },
+    {
+     "t": "Tư vấn nghề: làm trên giàn giáo cao khi đang dùng kháng đông có nguy cơ ngã và chảy máu; cân nhắc hạn chế việc nguy hiểm, trao đổi với nơi kê đơn",
+     "v": "a",
+     "n": "ESC 2024 rung nhĩ, Hình 10, mục Other factors: khuyên hạn chế sở thích/nghề nghiệp nguy hiểm. Tiêu chuẩn sức khỏe làm việc trên cao: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hoàn tất giấy chứng nhận sức khỏe theo kết quả khám (ghi trung thực tình trạng dùng kháng đông)",
+     "v": "a",
+     "n": "Mẫu giấy và quy định ghi bệnh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn tái khám khi đau hay máu trở lại; nếu tái phát, điều trị lại như trước, không lành sau đủ thuốc thì chuyên khoa",
+     "v": "c",
+     "n": "ACPGBI 2023, khuyến cáo 6 (đợt thuốc tiếp theo, xét tuân thủ, chẩn đoán khác; khám dưới gây tê và sinh thiết nếu không lành); ASCRS 2023, khuyến cáo 4–5."
+    },
+    {
+     "t": "Tư vấn sàng lọc ung thư đại trực tràng theo tuổi (51 tuổi, chưa làm)",
+     "v": "a",
+     "n": "USPSTF 2021 từ 45 tuổi; Asia-Pacific 2022, Statement 6 từ 50 tuổi (theo mục TH-0859 trong sổ mâu thuẫn)."
+    },
+    {
+     "t": "Chuyển bệnh viện tỉnh cắt cơ thắt hay tiêm botulinum cho vết nứt đã liền",
+     "v": "w",
+     "n": "Chỉ cho nứt mạn không lành với thuốc bôi (ASCRS 2023, khuyến cáo 4–5; ACPGBI 2023, khuyến cáo 7–8); không tự chủ 8–30% sau cắt cơ thắt (ASCRS 2023, khuyến cáo 5)."
+    },
+    {
+     "t": "Dùng thêm thuốc bôi kéo dài 'cho chắc' dù đã lành",
+     "v": "a",
+     "n": "Không có trong tài liệu đã tải về thời gian dùng sau khi lành; liệu trình ghi là 2 tháng (ACPGBI 2023, khuyến cáo 5)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nứt kẽ hậu môn mạn đã lành lâm sàng sau 8 tuần thuốc bôi",
+     "Yếu tố nguy cơ tái phát: táo bón, uống ít nước ở công trình; verapamil có thể góp phần (không có trong tài liệu đã tải)",
+     "Rung nhĩ dùng warfarin, INR 2,5 trong mục tiêu; nhu cầu giảm đau mới (đau vai) cần tránh NSAID",
+     "Đã loại trừ trĩ có triệu chứng và ung thư ống hậu môn trên lâm sàng"
+    ],
+    "phan_tich_chan_doan": [
+     "Hồi phục: hết đau, hết máu 3 tuần, vết nứt liền, thăm trực tràng không đau: lành lâm sàng (ACPGBI 2023, Definitions). Lành 52,3–63,6% ở tuần 8 (ACPGBI 2023, khuyến cáo 5); chị thuộc nhóm lành.",
+     "Không còn lý do nghi ung thư hay bệnh khác: nứt liền với điều trị (ACPGBI 2023, khuyến cáo 6).",
+     "Câu hỏi quan trọng ở lượt này: hỏi 'đau chỗ nào khác' để phát hiện kế hoạch mua ibuprofen; hỏi công việc làm trên cao khi dùng kháng đông (ESC 2024 rung nhĩ, Hình 10)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngừng thuốc bôi sau đủ 2 tháng (ACPGBI 2023, khuyến cáo 5). Duy trì xơ và nước: giảm tái phát từ 60% xuống 16% (ASCRS 2023, khuyến cáo 1).",
+     "Giảm đau vai bằng paracetamol, tránh NSAID vì warfarin (ESC 2024 rung nhĩ, Hình 9, 10).",
+     "Cắt cơ thắt, botulinum chỉ khi không lành: ASCRS 2023, khuyến cáo 4–5; ACPGBI 2023, khuyến cáo 7–8; không có chỉ định ở chị.",
+     "Giấy sức khỏe: chị khỏe về nứt kẽ; việc cấp giấy theo mẫu của nơi cấp (không có trong tài liệu đã tải); không giấu việc dùng kháng đông."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Thuốc bôi giãn cơ thắt (diltiazem 2% hoặc GTN 0,4%)",
+      "ham_luong": "Như đã kê",
+      "lieu": "Ngừng sau khi đủ 2 tháng và đã lành",
+      "duong": "Bôi ngoài/hậu môn",
+      "thoi_diem": "Không dùng tiếp",
+      "so_ngay": "Ngừng",
+      "ghi_chu": "ACPGBI 2023, khuyến cáo 5. Cách ngừng dần: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Macrogol 3350 (PEG)",
+      "ham_luong": "17 g/gói",
+      "lieu": "17 g khi phân cứng hoặc 2 ngày chưa đi cầu; dùng đều nếu cần, chỉnh theo phân",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Theo nhu cầu để giữ phân mềm",
+      "ghi_chu": "AGA-ACG 2023, khuyến cáo 2, Bảng 4 (17 g/ngày; đáp ứng bền tới 6 tháng)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên khi đau vai, cách 6–8 giờ; tổng dưới 3 g/ngày (tối đa 4 g/ngày theo QĐ 361/2014)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1; thay NSAID vì warfarin (ESC 2024 rung nhĩ, Hình 9, 10)."
+     },
+     {
+      "thuoc": "Warfarin 3 mg và verapamil 120 mg (đang dùng)",
+      "ham_luong": "3 mg; 120 mg",
+      "lieu": "Giữ nguyên; INR theo lịch",
+      "duong": "Uống",
+      "thoi_diem": "Tối; sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Đang dùng, giữ nguyên; ESC 2024 rung nhĩ, mục 6.7.1."
+     }
+    ],
+    "dan_do": [
+     "Giữ phân mềm mỗi ngày: nước, rau, trái cây, đi cầu khi buồn (ACPGBI 2023, khuyến cáo 2, 4); chất xơ duy trì giảm tái phát (ASCRS 2023, khuyến cáo 1).",
+     "Không mua ibuprofen hay NSAID; đau vai dùng paracetamol (ESC 2024 rung nhĩ, Hình 9, 10).",
+     "Mang theo sổ INR, nói với bất kỳ nơi bán hay kê thuốc nào rằng đang uống warfarin.",
+     "Làm trên cao cần cẩn thận, trao đổi với nơi theo dõi warfarin (ESC 2024 rung nhĩ, Hình 10).",
+     "Quay lại nếu đau hay máu trở lại; nếu có, đừng tự mua thuốc trĩ hay giảm đau. Nên bàn sàng lọc ung thư đại trực tràng theo tuổi."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Quyên làm theo kế hoạch ở lượt 2: bôi thuốc đủ 8 tuần, ngâm nước ấm khi ở nhà, uống macrogol và nước đều, tránh NSAID. Đau hết, máu hết, vết nứt liền (tuần 8 lành 52,3–63,6% với thuốc bôi; ACPGBI 2023, khuyến cáo 5). Chị đã bỏ ý định mua ibuprofen cho cái vai, nhận giấy sức khỏe và quay lại làm việc; INR vẫn 2,5. Đây là kết cục tốt của quy trình chặt chẽ: không mổ, không nhập viện, không đổi warfarin.",
+ "nhieu": [
+  "Tự dùng ibuprofen và kem trĩ 5 ngày: làm máu nhiều hơn, da quanh hậu môn đỏ và che bớt đau; dễ đánh lạc hướng sang trĩ nặng hay quá liều warfarin. INR bình thường và Hb 128 g/L cho thấy không phải; phải hỏi chủ động thuốc tự mua.",
+  "Warfarin làm bác sĩ nghĩ máu là do thuốc và tính ngưng thuốc; thực ra nguồn máu là vết nứt nhìn thấy, ngưng hay không do nơi theo dõi quyết định (ESC 2024 rung nhĩ, mục 6.7.1 và 6.7.2).",
+  "Xin giấy sức khỏe: dễ làm bác sĩ chỉ khám tổng quát cho xong; chị chỉ kể chuyện hậu môn khi được hỏi và trấn an.",
+  "Cơ sở không có CT: không ảnh hưởng, nứt kẽ chẩn đoán bằng nhìn trực tiếp (ACPGBI 2023, khuyến cáo 1)."
+ ],
+ "bai_hoc_bien": [
+  "Người xin giấy sức khỏe có thể có bệnh chưa kể: hỏi chức năng đi cầu và hỏi nhẹ nhàng vì sao ngại.",
+  "Luôn hỏi thuốc tự mua (giảm đau, kháng viêm, kem trĩ) nhất là ở người dùng kháng đông; NSAID phải dừng (ESC 2024 rung nhĩ, Hình 9, 10).",
+  "Đổi thuốc điều trị gần đây là manh mối cho yếu tố khởi phát (táo bón); không tự ngưng mà hỏi nơi kê đơn.",
+  "Đáp ứng một phần ở nứt: kiểm tra tuân thủ và thời gian (≥ 6 tuần là mạn) rồi thêm thuốc bôi 2 tháng, chưa vội chuyển phẫu thuật (ACPGBI 2023, khuyến cáo 5, 6).",
+  "Chống outcome bias: quy trình chặt chẽ cho kết cục tốt không cần can thiệp; không biến thành chuyển tuyến vì lo."
+ ],
+ "diem_nho": [
+  "Nứt cấp < 6 tuần, mạn ≥ 6 tuần (ACPGBI 2023, Definitions). Giữa sau chiếm 73% (ASCRS 2023).",
+  "Nứt cấp: chất xơ + ngâm + giảm đau (ASCRS 2023, khuyến cáo 1; ACPGBI 2023, khuyến cáo 2–4). Nứt mạn: diltiazem 2% hoặc GTN 0,4% 2 tháng (ACPGBI 2023, khuyến cáo 5; ASCRS 2023, khuyến cáo 2–3).",
+  "Cắt cơ thắt trong bên lành 88–100%, không tự chủ 8–30%; botulinum không tự chủ thoáng qua khoảng 5% (ASCRS 2023, khuyến cáo 4–5).",
+  "Warfarin: INR 2,0–3,0, TTR > 70%; tránh NSAID (ESC 2024 rung nhĩ, Hình 9, 10).",
+  "Trĩ chỉ đau khi tắc mạch; đau nhói khi đi cầu là nứt (AGA 2026, BPA 1). Chảy máu hậu môn không mặc định do trĩ (ASCRS 2024, khuyến cáo 2)."
+ ],
+ "nguon": [
+  "ASCRS 2023 – Clinical Practice Guidelines for the Management of Anal Fissures (Dis Colon Rectum 2023;66:190–199) – TL-0210 – Statement of the Problem, khuyến cáo 1–6",
+  "ACPGBI 2023 – Guideline on the management of anal fissure (Colorectal Dis 2023;25:2423–2457) – TL-0211 – Definitions, Diagnosis, khuyến cáo 1–8, 20 (trang 2427–2429)",
+  "AGA 2026 – Clinical Practice Update on Hemorrhoids – TL-0183 – BPA 1–4",
+  "ASCRS 2024 – Clinical Practice Guidelines for the Management of Hemorrhoids – TL-0205 – khuyến cáo 1, 2, 4",
+  "ESC 2024 – Guidelines for the management of atrial fibrillation – TL-0303 – mục 6.7.1, 6.7.2, Hình 9, 10, 11",
+  "BSG 2022 – FIT ở người nghi ung thư đại trực tràng – TL-0214 – khuyến cáo 13 (theo sổ mâu thuẫn, TH-0970)",
+  "AGA-ACG 2023 – Pharmacological management of chronic idiopathic constipation – TL-0208 – khuyến cáo 2 và Bảng 4",
+  "BYT QĐ 361/2014 – bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1",
+  "USPSTF 2021 và Asia-Pacific 2022 (Statement 6) về tuổi sàng lọc ung thư đại trực tràng – theo mục TH-0859 trong sổ mâu thuẫn (không mở lại bản gốc trong ca này)",
+  "Không có trong tài liệu đã tải: tần suất, lượng thuốc bôi diltiazem/GTN/lidocaine; chế phẩm diltiazem bôi trong nước; nhiệt độ, thời gian ngâm hậu môn; mức nước mL/ngày; verapamil gây táo bón; tương tác paracetamol–warfarin; cách ngừng thuốc bôi; tiêu chuẩn sức khỏe làm việc trên cao và mẫu giấy chứng nhận; tạm ngưng warfarin cho thủ thuật hậu môn."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 26/10/2026. Tài liệu đã đọc: TL-0210 (ASCRS 2023, đoạn khuyến cáo 1–6), TL-0211 (ACPGBI 2023, Definitions, khuyến cáo 1–8), TL-0183 (BPA 1–4), TL-0205 (khuyến cáo 1–4), TL-0303 (6.7.1, 6.7.2, Hình 9–10), TL-0208 (Bảng 4), TL-0286 (Phụ lục NSAID, giảm đau).",
+  "Mâu thuẫn dùng lại từ sổ: thuốc bôi (diltiazem hay GTN), chất xơ, soi hậu môn và nội soi đại tràng, paracetamol tối đa, chảy máu ở người dùng kháng đông (HH-0692). Không có mâu thuẫn mới.",
+  "Cùng bệnh với TH-1478 nhưng khác hoàn toàn ngữ cảnh: 51 tuổi, dùng warfarin, tự mua NSAID, 3 lượt, đỡ một phần, khỏi bệnh."
+ ]
+}
