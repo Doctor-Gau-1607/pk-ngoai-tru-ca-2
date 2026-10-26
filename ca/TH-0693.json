@@ -1,0 +1,858 @@
+{
+ "ma_ca": "TH-0693",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_ngo_doc_thuc_pham",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Ngộ độc thực phẩm",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Viêm ruột thừa",
+   "Nhiễm khuẩn huyết"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị (ba tuần trước đổi warfarin sang rivaroxaban)",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng (rivaroxaban 20 mg mỗi tối)",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Nhàn",
+  "tuoi": 67,
+  "gioi": "Nữ",
+  "nghe": "Nông dân (làm lúa, nuôi vịt)",
+  "can_nang": 52,
+  "chieu_cao": 152,
+  "xung_ho": "Bà tự xưng 'tui', gọi bác sĩ là 'bác sĩ'. Bác sĩ gọi bà là 'bà'. Con gái gọi mẹ, xưng 'con' với bác sĩ.",
+  "tinh_cach": "Hiền, hay cười, nói nhỏ nhẹ, quen chịu đựng, hay nói 'khỏe re, không sao đâu'. Tin thuốc tiệm, ngại phiền con cháu, sợ nói bệnh ra thì không được cấp giấy đi nước ngoài. Chữ nghĩa ít, hay dùng từ địa phương.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: ciprofloxacin và loperamid mua ở tiệm, không nhớ tên. Hỏi chung 'đang uống thuốc gì' bà chỉ kể thuốc huyết áp và thuốc loãng máu; phải hỏi cụ thể thuốc tiêu chảy, kháng sinh, thuốc mua ở tiệm, hoặc xin xem vỏ thuốc thì con gái mới lấy vỉ rỗng ra. Bà cũng tự bỏ liều rivaroxaban vì tưởng thuốc gây tiêu chảy.",
+  "nguoi_nha": "Con gái chị Hồng, 40 tuổi, đi cùng. Chị nói nhanh, lo hồ sơ giấy sức khỏe hạn 30/10, bổ sung thông tin khi mẹ nói nhẹ đi (nguoi_noi = nguoi_nha khi bác sĩ hỏi chị). Bác sĩ gọi chị là 'chị', chị xưng 'con' hoặc 'em'.",
+  "ten_nguoi_nha": "Con gái (chị Hồng)",
+  "ngoai_hinh": {
+   "da": "#c99a76",
+   "toc": "#d8d4cf",
+   "kieuToc": "bui",
+   "ao": "#8aa07a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d4a782",
+    "toc": "#2a1f19",
+    "kieuToc": "dai",
+    "ao": "#e1e1e1",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Xin giấy chứng nhận sức khỏe",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT; bệnh viện tỉnh cách 30 km mới có CT. Có công thức máu, sinh hóa cơ bản, soi phân, siêu âm bụng; cấy phân và cấy máu gửi ra ngoài, hẹn 48–72 giờ."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · thứ Hai 26/10/2026",
+   "tiep_don": "Bà Trần Thị Nhàn, 67 tuổi, nông dân, con gái đi cùng. Bà đến xin giấy chứng nhận sức khỏe để con gái làm hồ sơ cho bà sang Hàn Quốc chăm cháu. Tiền sử: rung nhĩ không bệnh van tim, tăng huyết áp; ba tuần trước bệnh viện tỉnh đổi warfarin sang rivaroxaban. Sinh hiệu: HA 118/72 mmHg, mạch 96 l/p, nhiệt độ 37,6 °C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 52 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bà Nhàn nhập viện truyền dịch ngay hôm nay là quá tay: bà uống được, mạch 96 l/p, HA 118/72 mmHg, creatinin 78 µmol/L, phân không máu, chỉ mất nước độ 1; truyền tĩnh mạch dành cho mất nước từ độ 2 hoặc không uống được (QĐ 5642/2015 mục 3.1, 4.2.3a; IDSA 2017 khuyến cáo 41). Bà phải nằm viện xa nhà, tốn chi phí, trong khi uống ORS tại nhà có con gái theo dõi là đủ, và việc bà tự bỏ rivaroxaban vẫn chưa ai hỏi ra.",
+    "chuyen_tuyen": "Chuyển bà Nhàn lên bệnh viện tỉnh chụp CT bụng là không cần: đau lan tỏa quanh rốn, không điểm đau khu trú hố chậu phải, không phản ứng thành bụng, điểm lâm sàng nguy cơ thấp đã loại viêm ruột thừa (WSES 2020 khuyến cáo 1.2.1). Đi 30 km làm bà mệt thêm, tốn tiền, mà việc cần làm là bù ORS, ngưng thuốc tự mua và uống lại rivaroxaban."
+   },
+   "loi_mo": "Chào bác sĩ. Con gái tui dắt tui đi xin cái giấy sức khỏe, để nó làm giấy tờ cho tui qua bên Hàn coi cháu. Tui khỏe re à, bác sĩ khám sơ sơ rồi cấp giấy giùm tui, hạn nộp gần tới rồi.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "118/72",
+    "nhiet": "37,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đến xin giấy chứng nhận sức khỏe để làm hồ sơ sang Hàn Quốc chăm cháu ngoại. Hạn nộp hồ sơ là thứ Sáu 30/10. Bà nói mình khỏe, chỉ hơi mệt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám thật: xin giấy sức khỏe"
+    },
+    {
+     "id": "tieu_chay",
+     "noi_dung": "Từ sáng thứ Tư 21/10 nôn 3–4 lần rồi đi cầu lỏng, ngày đầu 8–10 lần, quặn quanh rốn. Hai ngày nay còn 5–6 lần/ngày, phân lỏng sệt có nhầy; hết nôn từ thứ Sáu. Bà nghĩ chắc tại thuốc loãng máu mới nên 'đi cầu hơi lỏng', không coi là bệnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chảy, nôn, đau quặn: triệu chứng bà tự giảm nhẹ"
+    },
+    {
+     "id": "bua_an",
+     "noi_dung": "Tối thứ Ba 20/10 ăn giỗ nhà hàng xóm lúc 19 giờ: gỏi gà trộn rau, nem chua tự làm, trứng vịt lộn luộc để nguội từ trưa. Bà ăn đủ các món.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thức ăn nghi ngờ, thời gian ủ bệnh khoảng 11 giờ"
+    },
+    {
+     "id": "chum_ca",
+     "noi_dung": "Bữa giỗ có 12 người ăn, 7 người đi cầu lỏng và đau bụng, 2 người phải truyền dịch ở trạm y tế xã. Người nhà chủ giỗ chưa báo cho ai. Bà không nhắc vì 'ai cũng bị, chắc ráng chịu'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chùm ca cùng bữa ăn"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Hai ngày đầu sốt, rét run (không đo), từ thứ Sáu hết sốt. Sáng nay thấy hơi ấm người.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt"
+    },
+    {
+     "id": "mau_phan",
+     "noi_dung": "Phân có nhầy, hơi mót rặn. Không thấy máu tươi, không đi cầu phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc phân máu, chảy máu tiêu hóa (đang dùng kháng đông)"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Khát vừa, uống nước được, tiểu ít hơn thường và nước tiểu vàng sậm. Chưa choáng khi đứng dậy. Ăn được cháo loãng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất nước, khả năng uống"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Đau quặn từng cơn quanh rốn, giờ còn đau âm ỉ. Không đau cố định ở bụng dưới bên phải, không đau tăng khi ho hay đi lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vị trí đau bụng (phân biệt viêm ruột thừa)"
+    },
+    {
+     "id": "khong_nuoc_vo_gao",
+     "noi_dung": "Không đi cầu ào ạt hàng chục lần, phân không như nước vo gạo. Không đi xa, uống nước giếng đun sôi, không ăn hải sản sống.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ tả"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Chiều thứ Tư 21/10 ra tiệm thuốc đầu xóm mua 'thuốc đau bụng đi cầu'. Uống ciprofloxacin 500 mg ngày 2 viên, đủ 5 ngày (10 viên), viên cuối sáng nay; kèm loperamid 2 mg khoảng 8 viên cả đợt, mỗi lần đi nhiều uống 1–2 viên. Con gái giữ vỉ thuốc rỗng trong túi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì bà chỉ kể thuốc huyết áp và thuốc loãng máu. Chỉ kể khi bác sĩ hỏi cụ thể thuốc tiêu chảy, thuốc kháng sinh, thuốc mua ở tiệm, hoặc xin xem vỏ thuốc; con gái sẽ lấy vỉ ra.",
+     "k": 1,
+     "y": "Tự dùng kháng sinh và thuốc cầm tiêu chảy 5 ngày"
+    },
+    {
+     "id": "thuoc_nen",
+     "noi_dung": "Rung nhĩ phát hiện 2 năm, tăng huyết áp. Ba tuần trước bệnh viện tỉnh đổi warfarin (INR lên xuống nhiều) sang rivaroxaban 20 mg, uống 1 viên mỗi tối sau ăn. Amlodipin 5 mg mỗi sáng, huyết áp ở nhà 120–130/70–80 mmHg. Không bệnh thận, không đái tháo đường, không dùng thuốc giảm đau xương khớp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc nền, thuốc kháng đông mới đổi"
+    },
+    {
+     "id": "bo_thuoc",
+     "noi_dung": "Bà tưởng thuốc mới làm đi cầu lỏng nên tự bỏ liều rivaroxaban tối 24/10 và 25/10, chưa nói ai. Tối nay định bỏ tiếp cho 'khỏi tiêu chảy'. Vẫn uống amlodipin đều.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi thuốc mới uống đều không, có bỏ liều nào không, hoặc hỏi bà nghĩ vì sao mình bị tiêu chảy.",
+     "k": 1,
+     "y": "Tự bỏ thuốc kháng đông vì cho là gây tiêu chảy"
+    },
+    {
+     "id": "han_ho_so",
+     "noi_dung": "Con gái chị Hồng sốt ruột vì hồ sơ nộp trước thứ Sáu 30/10. Bà sợ nói bệnh ra thì không được cấp giấy nên nói 'khỏe re'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Động cơ che giấu triệu chứng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi mệt. Môi khô nhẹ, nếp véo da hồi phục nhanh, mắt không trũng. Niêm mạc hồng nhạt, không vàng da, không bầm tím. Cân nặng 52 kg.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 118/72 mmHg, mạch 96 l/p. Đứng 3 phút: HA 112/70 mmHg, mạch 102 l/p, không chóng mặt.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim loạn nhịp hoàn toàn, tần số khoảng 96 l/p, T1 thay đổi cường độ, không âm thổi.",
+     "k": 1,
+     "hien": "Tim không đều, tần số khoảng 96 l/p."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran. Nhịp thở 18 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, nhịp thở 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, nhu động ruột tăng. Ấn đau nhẹ lan tỏa quanh rốn và hai hố chậu, không có điểm đau khu trú. Không phản ứng thành bụng, không phản ứng dội; dấu Mac Burney, Rovsing, cơ thắt lưng chậu âm tính. Gan lách không to.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Phân vàng sệt lẫn nhầy trong, găng không dính máu, không phân đen. Không khối.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không ban, không bầm tím, không chấm xuất huyết.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 11,6 G/L · Neutrophil 78% · Hb 124 g/L · TC 226 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 11.6,
+      "neu_pct": 78.0,
+      "neu": 9.05,
+      "lym_pct": 14.0,
+      "lym": 1.62,
+      "mono_pct": 6.0,
+      "mono": 0.7,
+      "eos_pct": 1.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.06,
+      "rbc": 4.3,
+      "hgb": 124,
+      "hct": 0.38,
+      "mcv": 88.4,
+      "mch": 28.8,
+      "mchc": 326,
+      "rdw": 13.6,
+      "plt": 226
+     },
+     "n": "Bạch cầu và bạch cầu trung tính tăng gợi ý nhiễm khuẩn xâm nhập (QĐ 5642/2015 mục 3.3, 4.2.1). Không dùng công thức máu để xác định căn nguyên (IDSA 2017 khuyến cáo 22), nhưng có ích về lâm sàng."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 7,9 mmol/L · Creatinin 78 µmol/L · eGFR 72 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 7.9,
+      "creat": 78,
+      "egfr": 72
+     },
+     "n": "Cần: người cao tuổi tiêu chảy, đang dùng rivaroxaban. Độ thanh thải creatinin (Cockcroft–Gault) khoảng (140 − 67) × 52 × 1,04 / 78 ≈ 51 mL/ph, sát ngưỡng 15–49 mL/ph để giảm liều rivaroxaban xuống 15 mg (ESC AF 2024 Bảng 11). Công thức Cockcroft–Gault không có trong tài liệu đã tải; ESC chỉ nêu 'creatinine clearance'. Ure tăng nhẹ gợi ý mất nước."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 136 · K 3,4 · Cl 100 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 136,
+      "k": 3.4,
+      "cl": 100
+     },
+     "n": "Tiêu chảy có thể rối loạn điện giải (QĐ 5642/2015 mục 3.3, 5). Kali 3,4 hơi thấp ở người rung nhĩ: bù qua ăn uống và ORS (có KCl: QĐ 4178/2007 mục III.2a)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 46 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 46
+     },
+     "n": "Không đổi xử trí."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "Bạch cầu 15–20/vi trường, hồng cầu 2–3/vi trường, nhầy; không thấy trứng, ký sinh trùng",
+     "ab": 1,
+     "n": "Soi phân có hồng cầu, bạch cầu gợi ý tiêu chảy xâm nhập (QĐ 5642/2015 mục 3.3, 4.2.1). Bạch cầu phân không dùng để xác định căn nguyên (IDSA 2017 khuyến cáo 20)."
+    },
+    "cay_phan": {
+     "v": "u",
+     "r": "Đã lấy mẫu phân gửi cấy, hẹn trả kết quả sau 48–72 giờ. (Mẫu lấy sau 5 ngày ciprofloxacin.)",
+     "n": "Có chỉ định: tiêu chảy kèm sốt, phân nhầy và chùm ca (IDSA 2017 khuyến cáo 8, 16; ACG 2016 khuyến cáo 1, 2). Đã dùng kháng sinh 5 ngày nên một kết quả âm tính không loại trừ nhiễm khuẩn; tài liệu đã tải không nêu tỉ lệ âm tính giả."
+    },
+    "cdiff": {
+     "v": "n",
+     "r": "Âm tính (độc tố và gen độc tố)",
+     "n": "Không cần: tiêu chảy khởi phát trước khi dùng kháng sinh, xét nghiệm C. difficile dành cho tiêu chảy xảy ra sau kháng sinh (IDSA 2017 khuyến cáo 18)."
+    },
+    "inr": {
+     "v": "n",
+     "n": "Không dùng để chỉnh liều rivaroxaban; INR dùng theo dõi thuốc kháng vitamin K (ESC AF 2024 mục 6.2.2). Ảnh hưởng của rivaroxaban lên PT/INR: không có trong tài liệu đã tải."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Quai ruột chứa dịch, thành đại tràng phải dày nhẹ, không dịch tự do ổ bụng, không thấy cấu trúc ruột thừa viêm.",
+     "n": "Điểm lâm sàng nguy cơ thấp đã đủ loại viêm ruột thừa (WSES 2020 khuyến cáo 1.2.1); siêu âm khi nguy cơ trung gian (WSES 2025 khuyến cáo 3.1)."
+    },
+    "ct_bung": {
+     "n": "Phòng khám không có CT, và hôm nay cũng không có chỉ định: đau lan tỏa, bụng mềm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ngộ độc thực phẩm: viêm dạ dày–ruột cấp nhiễm khuẩn xâm nhập (nghi Salmonella không thương hàn), chùm ca 7/12 người sau bữa giỗ, ngày thứ 6, mất nước độ 1, đã tự dùng ciprofloxacin và loperamid; kèm rung nhĩ đang dùng rivaroxaban",
+     "ok": 1,
+     "n": "Khởi phát khoảng 11 giờ sau bữa ăn chung, nhiều người mắc (IDSA 2017 khuyến cáo 11); sốt, nôn, đau bụng, tiêu chảy nhầy, bạch cầu phân (QĐ 5642/2015 mục 3.1, 3.2); mất nước độ 1 (mục 3.1). Căn nguyên chưa biết."
+    },
+    {
+     "t": "Tả",
+     "n": "Tiêu chảy 5–6 lần/ngày, có sốt, đau quặn, phân nhầy; tả khởi phát trong 24 giờ, 20–50 lần/ngày, phân nước vo gạo, không sốt, không đau quặn (QĐ 5642/2015 mục 3.2). Không ăn hải sản sống, không đi vùng dịch (IDSA 2017 khuyến cáo 10b)."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Đau lan tỏa quanh rốn, không điểm đau khu trú hố chậu phải, không phản ứng thành bụng, Mac Burney và Rovsing âm tính: điểm lâm sàng loại trừ (WSES 2020 khuyến cáo 1.2.1; WSES 2025 khuyến cáo 1, 2). Alvarado kém tin cậy ở người cao tuổi (WSES 2020 Statement 1.3) nên cần dặn quay lại nếu đau khu trú."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "qSOFA 0 (Sepsis-3 2016 Box 4); qSOFA không dùng đơn độc (SSC 2026), nên vẫn dặn dấu hiệu nặng."
+    },
+    {
+     "t": "Tiêu chảy do tác dụng phụ của rivaroxaban",
+     "n": "Tiêu chảy bắt đầu sau bữa giỗ, nhiều người cùng bữa cũng mắc. Rivaroxaban gây tiêu chảy: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiêu chảy do Clostridioides difficile sau kháng sinh",
+     "n": "Tiêu chảy có trước kháng sinh; C. difficile được xét khi tiêu chảy xảy ra sau kháng sinh (IDSA 2017 khuyến cáo 18)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Bù dịch đường uống bằng Oresol pha đúng hướng dẫn: uống theo nhu cầu, từng ngụm nhỏ nếu nôn, uống thêm sau mỗi lần đi ngoài lỏng; chưa cần truyền tĩnh mạch",
+     "v": "c",
+     "n": "Mất nước độ 1, uống được: Oresol (QĐ 5642/2015 mục 4.2.3a; QĐ 4178/2007 mục III.2a); ORS giảm áp lực thẩm thấu là đầu tay (IDSA 2017 khuyến cáo 39, 43). Lượng mL/ngày cho người lớn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng loperamid và mọi thuốc đau bụng, kháng sinh tự mua ở tiệm; giải thích vì sao",
+     "v": "c",
+     "n": "Có sốt nhẹ, phân nhầy và bạch cầu phân: tránh thuốc chống nhu động (IDSA 2017 khuyến cáo 47); không lạm dụng thuốc cầm tiêu chảy như loperamide (QĐ 5642/2015 mục 4.2.3b; QĐ 4178/2007 mục III.2 chú ý). Kháng sinh đã đủ liệu trình, không uống thêm."
+    },
+    {
+     "t": "Không kê thêm kháng sinh: bà đã dùng đủ 5 ngày ciprofloxacin 500 mg × 2 lần/ngày; hẹn tái khám sát, quay lại ngay nếu sốt cao, phân có máu hoặc không uống được",
+     "v": "c",
+     "n": "Liệu trình tự mua trùng QĐ 5642/2015 mục 4.2.2a (ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày). Sốt đã hết, huyết động ổn: tiêu chảy phân nước ở người miễn dịch bình thường không khuyến cáo kháng sinh (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10). QĐ 5642 mục 4.2.1 liệt kê người già là tình huống cân nhắc, IDSA khuyến cáo 36 chỉ nêu ngoại lệ cho người suy giảm miễn dịch và trẻ nhỏ ốm nặng: hai nguồn khác nhau, hôm nay cùng cho kết quả không kê thêm."
+    },
+    {
+     "t": "Hỏi ra việc bà tự bỏ rivaroxaban và dặn uống lại ngay tối nay liều 20 mg như cũ, không tự bỏ vì tiêu chảy; giải thích bà không bị tác dụng phụ của thuốc mà do bữa ăn",
+     "v": "c",
+     "n": "CHA2DS2-VA = 2 (tuổi 65–74, tăng huyết áp: ESC AF 2024 Bảng 10); chống đông khuyến cáo khi nguy cơ huyết khối cao (loại I, mức A; mục 6.1). Không tuân thủ là nguyên nhân đột quỵ dù đã chống đông (mục 6.4). Độ thanh thải khoảng 51 mL/ph chưa thuộc 15–49: giữ 20 mg; giảm liều ngoài tiêu chí không khuyến cáo (Bảng 11, loại III B)."
+    },
+    {
+     "t": "Dặn ăn lại sớm cháo, cơm mềm, không kiêng khem quá mức; uống đủ nước, ăn thêm chuối, nước dừa pha muối",
+     "v": "c",
+     "n": "Ăn lại chế độ thường trong hoặc ngay sau khi bù dịch (IDSA 2017 khuyến cáo 45). Chuối, nước dừa là lựa chọn của ca; nước dừa non pha muối là dịch uống thay thế (QĐ 4178/2007 mục III.2a)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 ngày (thứ Tư 28/10), kiểm lại huyết áp tư thế, creatinin, kali; quay lại ngay nếu sốt cao, phân có máu, nôn không uống được, ít tiểu, chóng mặt, đau khu trú hố chậu phải, lơ mơ",
+     "v": "c",
+     "n": "Biến chứng: sốc giảm thể tích, rối loạn điện giải, suy thận cấp, xuất huyết tiêu hóa, nhiễm khuẩn huyết (QĐ 5642/2015 mục 5); mất nước nặng hoặc không uống được thì truyền tĩnh mạch (mục 4.2.3a). Mốc 2 ngày là lựa chọn của ca (cao tuổi, dùng kháng đông, creatinin sát ngưỡng), không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chưa cấp giấy chứng nhận sức khỏe hôm nay; giải thích bà đang mắc bệnh cấp, hẹn khám lại đầy đủ khi khỏi để kết luận; không viết 'đủ sức khỏe' khi đang bệnh",
+     "v": "c",
+     "n": "Người có bệnh, tật thì người kết luận tư vấn điều trị hoặc giới thiệu khám chữa bệnh (Thông tư 32/2023/TT-BYT Điều 37 khoản 3b); phải khám đầy đủ nội dung (Điều 36 khoản 5). Số ngày chờ sau khi khỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Báo chùm ca (7/12 người, 2 người đã truyền dịch) cho trạm y tế xã hoặc y tế dự phòng; rửa tay xà phòng, tách đồ sống và chín, nấu chín thịt, trứng",
+     "v": "c",
+     "n": "Ổ dịch thực phẩm: phối hợp y tế công cộng (IDSA 2017 khuyến cáo 11, 16; ACG 2016 khuyến cáo 1); vệ sinh tay và thực phẩm (IDSA khuyến cáo 52, 54; QĐ 5642 mục 6). Quy trình báo cáo tại Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho thêm ciprofloxacin, ceftriaxon hoặc azithromycin 'cho chắc'",
+     "v": "w",
+     "n": "Không sốt cao, không phân máu: kháng sinh kinh nghiệm không khuyến cáo (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 10); kháng sinh có thể kéo dài thải Salmonella (ACG 2016 phần bàn luận kháng sinh)."
+    },
+    {
+     "t": "Cho loperamid để cầm tiêu chảy cho bà nhanh đi lại",
+     "v": "w",
+     "n": "Tránh ở tiêu chảy có sốt hoặc tiêu chảy viêm (IDSA 2017 khuyến cáo 47, mức mạnh); QĐ 5642/2015 mục 4.2.3b không lạm dụng thuốc cầm tiêu chảy."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch ngay hoặc nhập viện",
+     "v": "w",
+     "n": "Uống được, mất nước độ 1: bù bằng đường uống (QĐ 5642/2015 mục 4.2.3a); truyền tĩnh mạch khi mất nước nặng, sốc, thất bại ORS (IDSA 2017 khuyến cáo 41)."
+    },
+    {
+     "t": "Cấp giấy chứng nhận sức khỏe hôm nay vì bà nói mình khỏe",
+     "v": "w",
+     "n": "Bà đang bệnh cấp cần điều trị (Thông tư 32/2023/TT-BYT Điều 37 khoản 3b)."
+    },
+    {
+     "t": "Diosmectit (Smecta), thuốc giảm co thắt (spasmaverin) hoặc men vi sinh",
+     "v": "a",
+     "n": "Diosmectit, spasmaverin là điều trị hỗ trợ (QĐ 5642/2015 mục 4.2.3b; liều không có trong tài liệu đã tải). Men vi sinh: IDSA 2017 khuyến cáo 49 cho phép, ACG 2016 khuyến cáo 6 chỉ cho bệnh sau kháng sinh; cả hai cách đều chấp nhận."
+    },
+    {
+     "t": "Bảo bà ngưng rivaroxaban vài ngày đến khi hết tiêu chảy",
+     "v": "w",
+     "n": "CHA2DS2-VA = 2 cần chống đông (ESC AF 2024 mục 6.1); không tuân thủ là nguyên nhân đột quỵ dù đã chống đông (mục 6.4)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ngộ độc thực phẩm: viêm dạ dày–ruột cấp nhiễm khuẩn xâm nhập (nghi Salmonella không thương hàn), chùm ca 7/12 người sau bữa giỗ tối 20/10; ngày thứ 6",
+     "Mất nước độ 1, uống được; chưa có dấu hiệu nặng",
+     "Đã tự dùng ciprofloxacin 5 ngày và loperamid: che sốt, có thể làm kết quả cấy phân âm tính giả",
+     "Đã loại trừ: tả, viêm ruột thừa (bằng điểm lâm sàng), nhiễm khuẩn huyết (qSOFA 0)",
+     "Bệnh kèm: rung nhĩ không bệnh van tim (CHA2DS2-VA 2) đang dùng rivaroxaban 20 mg nhưng tự bỏ 2 liều; tăng huyết áp dùng amlodipin",
+     "Lý do đến khám thật là xin giấy sức khỏe: chưa cấp vì đang mắc bệnh cấp"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: bữa giỗ tối 20/10, 12 người ăn, 7 người bệnh, ủ khoảng 11 giờ là chùm ca (IDSA 2017 khuyến cáo 11). Món từ gia cầm, trứng, thịt sống lên men gợi Salmonella, Campylobacter, Yersinia (IDSA 2017 Bảng 2). Độc tố tụ cầu ủ 1–6 giờ, không sốt (QĐ 5642/2015 mục 3.2); ca này sốt, phân nhầy, bạch cầu phân nên nghiêng về xâm nhập (mục 3.1).",
+     "Ba điều bà không tự kể: tiêu chảy, thuốc tiệm 5 ngày, tự bỏ rivaroxaban. Ciprofloxacin tự mua trùng liệu trình QĐ 5642 mục 4.2.2a nên sốt hạ, tiêu chảy thưa và cấy phân dễ âm tính (IDSA 2017 Bảng 2: kháng sinh gần đây).",
+     "Khám và xét nghiệm: mất nước độ 1 (mạch < 100, HA bình thường, khát ít: QĐ 5642 mục 3.1). Bạch cầu 11,6 G/L, neutrophil 78%, CRP 46 mg/L, bạch cầu phân nhiều là nhiễm khuẩn xâm nhập (mục 3.3, 4.2.1). Creatinin 78 µmol/L, độ thanh thải khoảng 51 mL/ph, kali 3,4 mmol/L.",
+     "Loại trừ: tả (số lần ít, có sốt, đau quặn: QĐ 5642 mục 3.2; IDSA khuyến cáo 10b). Viêm ruột thừa: không điểm đau khu trú, điểm lâm sàng nguy cơ thấp (WSES 2020 khuyến cáo 1.2.1; WSES 2025 khuyến cáo 1, 2), nhưng Alvarado kém tin cậy ở người cao tuổi (WSES 2020 Statement 1.3) nên dặn quay lại. Nhiễm khuẩn huyết: qSOFA 0 (Sepsis-3 Box 4), không dùng qSOFA đơn độc (SSC 2026).",
+     "Thuốc kháng đông: CHA2DS2-VA = 2 (tuổi 65–74, tăng huyết áp: ESC AF 2024 Bảng 10). Bà tự bỏ 2 liều vì tin thuốc gây tiêu chảy; nguyên nhân thật là bữa giỗ."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch: ORS cho mất nước nhẹ đến vừa ở người lớn (IDSA 2017 khuyến cáo 39); mất nước độ 1 uống Oresol, độ 2 trở lên hoặc không uống được thì Ringer lactat (QĐ 5642 mục 4.2.3a). Lượng mL cụ thể: không có trong tài liệu đã tải.",
+     "Kháng sinh: QĐ 5642 mục 4.2.1 liệt kê người già, sốt, phân nhầy, bạch cầu phân là tình huống cân nhắc kháng sinh; IDSA 2017 khuyến cáo 36 và ACG 2016 khuyến cáo 9, 10 không khuyến cáo ở người miễn dịch bình thường. Bà đã dùng đủ liệu trình quinolon (mục 4.2.2a) nên cả hai nguồn cùng cho kết quả không kê thêm.",
+     "Loperamid: IDSA khuyến cáo 47 tránh khi sốt hoặc tiêu chảy viêm; QĐ 5642 mục 4.2.3b không lạm dụng. Bà có sốt nhẹ, bạch cầu phân: ngưng.",
+     "Rivaroxaban: giữ 20 mg mỗi tối; độ thanh thải khoảng 51 mL/ph sát ngưỡng giảm liều 15–49 mL/ph nên kiểm lại creatinin sau 2 ngày; giảm liều ngoài tiêu chí là sai (ESC AF 2024 Bảng 11, loại III B).",
+     "Giấy sức khỏe: chưa cấp, hẹn khám đầy đủ khi khỏi (Thông tư 32/2023/TT-BYT Điều 36 khoản 5, Điều 37 khoản 3b). Hẹn 2 ngày vì cao tuổi, dùng kháng đông, creatinin sát ngưỡng (QĐ 5642 mục 5; IDSA khuyến cáo 41); báo ổ dịch (IDSA khuyến cáo 11, 16)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol",
+      "ham_luong": "Gói pha 1 lít nước đun sôi để nguội (mỗi lít: NaCl 3,5 g, NaHCO₃ 2,5 g, KCl 1,5 g, glucose 20 g)",
+      "lieu": "Uống theo nhu cầu; nôn thì uống từng ngụm nhỏ; thêm sau mỗi lần đi ngoài lỏng",
+      "duong": "Uống",
+      "thoi_diem": "Suốt ngày",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 4178/2007 mục III.2a; QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 39, 43. Lượng mL/ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Rivaroxaban (đang dùng)",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày, không bỏ liều",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối như cũ; uống lại ngay tối nay",
+      "so_ngay": "Dùng tiếp, kiểm creatinin sau 2 ngày",
+      "ghi_chu": "Giữ nguyên: ESC AF 2024 Bảng 11 (15 mg chỉ khi độ thanh thải 15–49 mL/ph), mục 6.4."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng như cũ",
+      "so_ngay": "Dùng tiếp, đánh giá lại huyết áp khi tái khám",
+      "ghi_chu": "Đang dùng, giữ nguyên hôm nay vì HA 118/72 mmHg, không hạ huyết áp tư thế rõ."
+     },
+     {
+      "thuoc": "Kháng sinh",
+      "ham_luong": "Không kê",
+      "lieu": "Không có chỉ định thêm hôm nay",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Đã đủ 5 ngày ciprofloxacin (QĐ 5642/2015 mục 4.2.2a); IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10."
+     }
+    ],
+    "dan_do": [
+     "Uống Oresol theo nhu cầu, thêm sau mỗi lần đi ngoài lỏng; nôn thì uống từng ngụm nhỏ; ăn lại cháo, cơm mềm (IDSA 2017 khuyến cáo 43, 45).",
+     "Không uống thêm thuốc đau bụng, thuốc cầm tiêu chảy hay kháng sinh mua ở tiệm; cần thuốc gì thì mang vỏ thuốc đến hỏi.",
+     "Uống rivaroxaban 20 mg lại ngay tối nay, mỗi tối một viên, không bỏ vì tiêu chảy; bệnh là do bữa giỗ (ESC AF 2024 mục 6.4).",
+     "Quay lại ngay nếu sốt cao, đi cầu ra máu hoặc phân đen, nôn không uống được, tiểu rất ít, chóng mặt, lơ mơ, đau khu trú bụng dưới bên phải (QĐ 5642 mục 5; IDSA khuyến cáo 41).",
+     "Tái khám thứ Tư 28/10 để thử máu, đo huyết áp; mang theo vỉ thuốc rỗng và thuốc đang dùng.",
+     "Chưa cấp giấy sức khỏe hôm nay vì đang bệnh; hỏi nơi nhận hồ sơ về gia hạn hạn 30/10 (Thông tư 32/2023/TT-BYT Điều 37 khoản 3b).",
+     "Rửa tay xà phòng, nấu chín thịt, trứng; báo người cùng ăn bữa giỗ đi khám khi có dấu hiệu nặng (IDSA khuyến cáo 52, 54)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · thứ Tư 28/10/2026",
+   "tiep_don": "Bà Trần Thị Nhàn tái khám sau 2 ngày theo hẹn, con gái dìu vào, phải ngồi xe lăn của phòng khám. Sinh hiệu: HA 98/60 mmHg, mạch 108 l/p, nhiệt độ 38,3 °C, nhịp thở 20 l/p, SpO₂ 96%. Cân nặng 50 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho bà Nhàn về nhà uống ORS và hẹn lại 2 ngày là bỏ sót mất nước độ 2: bà nôn không uống được, tiểu 1 lần từ sáng, HA đứng 84/52 mmHg, creatinin tăng từ 78 lên 132 µmol/L (QĐ 5642/2015 mục 3.1, 4.2.3a, 5). Thận có thể suy thêm, kali 3,0 làm dễ loạn nhịp ở người rung nhĩ, rivaroxaban tích lũy khi độ thanh thải dưới 50 mL/ph (ESC AF 2024 Bảng 11). Ruột thừa chưa loại trừ được khi không có CT ở người cao tuổi (WSES 2025 khuyến cáo 3.4), và vệt máu khi đang dùng kháng đông không ai theo dõi.",
+    "cap_cuu": "Gọi 115 đưa bà Nhàn đi bằng xe cấp cứu có bác sĩ là quá tay: bà tỉnh, HA nằm 98/60 mmHg, qSOFA chỉ 1 điểm, chưa sốc (Sepsis-3 2016 Box 4). Cần chuyển tuyến có đường truyền đang chạy, nhưng nguồn lực cấp cứu nên để cho người nguy kịch hơn, chi phí gia đình tăng; xe cứu thương thường có nhân viên y tế đi kèm vẫn đủ an toàn."
+   },
+   "loi_mo": "Bác sĩ ơi, tui uống nước muối đàng hoàng mà đi cầu càng nhiều, tối qua còn rét run nữa. Sáng nay nôn hai bận, uống không vô. Tui chóng mặt quá bác sĩ.",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "98/60",
+    "nhiet": "38,3",
+    "nhip_tho": 20,
+    "spo2": 96,
+    "canh_bao": [
+     "Sốt 38,3 °C",
+     "Huyết áp tâm thu 98 mmHg"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "khong_do",
+     "noi_dung": "Uống Oresol đều từ tối thứ Hai, ngưng thuốc tiệm. Nhưng từ chiều qua sốt rét run trở lại, đi cầu 8 lần trong 24 giờ, đau quặn nhiều hơn. Sáng nay nôn 2 lần, uống không vô.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Nặng hơn dù đã bù dịch và ngưng thuốc tiệm"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Phân lỏng nhầy, từ đêm qua có vệt máu đỏ tươi, mót rặn nhiều. Không đi cầu phân đen. Đau quặn quanh rốn nhưng bên phải bụng dưới đau rõ hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân nhầy máu, đau hố chậu phải tăng"
+    },
+    {
+     "id": "nuoc_tieu",
+     "noi_dung": "Từ sáng chỉ tiểu 1 lần, ít, nước tiểu sẫm. Chóng mặt khi đứng dậy, suýt ngã trong nhà vệ sinh sáng nay. Khát nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thiểu niệu, choáng khi đứng"
+    },
+    {
+     "id": "dung_thuoc",
+     "noi_dung": "Từ hôm khám, bà ngưng loperamid và mọi thuốc tiệm, uống Oresol theo dặn. Uống lại rivaroxaban 20 mg tối thứ Hai và tối thứ Ba (liều cuối tối qua 27/10). Amlodipin 5 mg sáng nay uống rồi nôn sau đó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ xử trí lượt 1, giờ liều rivaroxaban cuối"
+    },
+    {
+     "id": "ben_vien",
+     "noi_dung": "Bệnh viện tỉnh cách nhà 30 km, nơi có CT và xét nghiệm. Phòng khám gọi được xe cứu thương của trạm trong 15 phút; con gái sẵn sàng đi cùng mẹ nếu bác sĩ bảo. Chị Hồng đã tạm gác chuyện giấy tờ, chỉ hỏi 'mẹ có sao không'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng chuyển tuyến"
+    },
+    {
+     "id": "khong_nguy_hiem",
+     "noi_dung": "Không đau bụng đột ngột dữ dội, không nôn ra máu, không phân đen, không khó thở, không đau ngực, không lú lẫn. Không té ngã đập đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc chảy máu nặng, cấp cứu bụng, đột quỵ"
+    },
+    {
+     "id": "chum_ca",
+     "noi_dung": "Người cùng bữa giỗ: một cụ ông 80 tuổi nhập bệnh viện huyện hôm qua vì mất nước.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Chùm ca có người nặng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Mệt lả, tỉnh, trả lời hơi chậm nhưng đúng. Môi khô nứt, lưỡi khô, mắt trũng nhẹ, nếp véo da hồi phục chậm (> 2 giây). Niêm mạc nhợt nhạt nhẹ. Cân nặng 50 kg (giảm 2 kg so với lượt 1).",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 98/60 mmHg, mạch 108 l/p. Đứng 1 phút: HA 84/52 mmHg, mạch 126 l/p, chóng mặt phải ngồi xuống ngay.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim loạn nhịp hoàn toàn, tần số khoảng 108 l/p, không âm thổi.",
+     "k": 1,
+     "hien": "Tim không đều, tần số khoảng 108 l/p."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang đều, không ran. Nhịp thở 20 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, nhịp thở 20 l/p."
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi chướng, nhu động ruột tăng. Ấn đau lan tỏa, rõ nhất ở hố chậu phải và quanh rốn, có phản ứng thành bụng nhẹ ở hố chậu phải; không co cứng, không phản ứng dội; Rovsing và cơ thắt lưng chậu âm tính. Gan lách không to.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Phân nhầy lẫn vệt máu đỏ tươi dính găng, không phân đen, không khối.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không bầm tím, không chấm xuất huyết, không ban.",
+     "k": 0
+    },
+    "sang_loc_sang": {
+     "a": "Tỉnh táo, 4AT 0 điểm.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 15,2 G/L · Neutrophil 86% · Hb 134 g/L · TC 172 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 15.2,
+      "neu_pct": 86.0,
+      "neu": 13.07,
+      "lym_pct": 8.0,
+      "lym": 1.22,
+      "mono_pct": 5.0,
+      "mono": 0.76,
+      "eos_pct": 0.5,
+      "eos": 0.08,
+      "baso_pct": 0.5,
+      "baso": 0.08,
+      "rbc": 4.6,
+      "hgb": 134,
+      "hct": 0.41,
+      "mcv": 89.1,
+      "mch": 29.1,
+      "mchc": 327,
+      "rdw": 13.8,
+      "plt": 172
+     },
+     "n": "Bạch cầu và neutrophil tăng cao hơn lượt 1 (QĐ 5642/2015 mục 4.2.1). Hb 134 g/L cao hơn lượt 1 (124) do cô đặc máu, có thể che mất thiếu máu do chảy máu nhẹ; theo dõi lại sau bù dịch."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 14,6 mmol/L · Creatinin 132 µmol/L · eGFR 38 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 14.6,
+      "creat": 132,
+      "egfr": 38
+     },
+     "n": "Creatinin tăng từ 78 lên 132 µmol/L sau 2 ngày: suy thận cấp trước thận do mất nước (QĐ 5642/2015 mục 5). Độ thanh thải creatinin (Cockcroft–Gault) ≈ (140 − 67) × 50 × 1,04 / 132 ≈ 29 mL/ph, thuộc 15–49 mL/ph của Bảng 11 (ESC AF 2024); công thức không có trong tài liệu đã tải."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 132 · K 3,0 · Cl 94 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 132,
+      "k": 3.0,
+      "cl": 94
+     },
+     "n": "Mất dịch tiêu hóa (QĐ 5642/2015 mục 5). Ngưỡng và tốc độ bù kali tĩnh mạch: không có trong tài liệu đã tải; tuyến trên bù theo kali máu và chức năng thận."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 128 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 128
+     },
+     "n": "Cao hơn lượt 1 (46); không đổi xử trí."
+    },
+    "cay_phan": {
+     "v": "u",
+     "r": "Mẫu lấy lượt 1 (sau 5 ngày ciprofloxacin) đã có kết quả: không mọc Salmonella, Shigella, Campylobacter. Mẫu phân mới lấy hôm nay: gửi kèm, hẹn 48–72 giờ.",
+     "n": "Có chỉ định: sốt, phân máu, đau co thắt (IDSA 2017 khuyến cáo 8; ACG 2016 khuyến cáo 2). Kết quả âm tính ở lượt 1 không loại trừ nhiễm khuẩn vì bà đã dùng ciprofloxacin; tài liệu đã tải không nêu tỉ lệ âm tính giả."
+    },
+    "cay": {
+     "v": "a",
+     "r": "Đã lấy 2 chai cấy máu trước khi chuyển; hẹn 48 giờ.",
+     "n": "Cân nhắc cấy máu ở người sốt, tụt huyết áp, dùng kháng sinh trước (IDSA 2017 khuyến cáo 9); lấy trước khi dùng kháng sinh (QĐ 5642/2015 mục 4.1). Không bắt buộc."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Thành manh tràng và đại tràng lên dày 6 mm, hạch mạc treo nhỏ nhiều, ít dịch quanh manh tràng; không thấy rõ ruột thừa, không dịch tự do, không tụ dịch.",
+     "n": "Siêu âm kèm điểm lâm sàng khi không có CT (WSES 2025 khuyến cáo 3.1; WSES 2020 khuyến cáo 1.7, 1.10). Không thấy ruột thừa thì không loại trừ; người cao tuổi ưu tiên CT (WSES 2025 khuyến cáo 3.4)."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Rung nhĩ, đáp ứng thất khoảng 108 l/p, ST–T dẹt nhẹ, không ST chênh.",
+     "n": "Kali 3,0 và rung nhĩ nhanh: theo dõi nhịp khi bù dịch; ngưỡng kali, ECG: không có trong tài liệu đã tải."
+    },
+    "inr": {
+     "v": "n",
+     "n": "Không dùng chỉnh liều rivaroxaban (ESC AF 2024 mục 6.2.2: INR dành cho thuốc kháng vitamin K)."
+    },
+    "ct_bung": {
+     "n": "Phòng khám không có CT. Người cao tuổi nghi viêm ruột thừa mà cần hình ảnh thì ưu tiên CT (WSES 2025 khuyến cáo 3.4): đây là lý do bổ sung để chuyển tuyến."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ngộ độc thực phẩm: nhiễm khuẩn xâm nhập tái diễn nặng hơn sau 5 ngày ciprofloxacin tự dùng (nghi Salmonella), mất nước độ 2, suy thận cấp trước thận, hạ kali, hạ natri, có vệt máu trong phân ở người đang dùng rivaroxaban",
+     "ok": 1,
+     "n": "Sốt lại, phân nhầy máu, mót rặn (QĐ 5642/2015 mục 3.1, 3.2); mất nước độ 2: mạch 108, HA đứng 84/52, thiểu niệu (mục 3.1); creatinin 132 µmol/L, Na 132, K 3,0 (mục 5)."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Đau hố chậu phải tăng, phản ứng thành bụng nhẹ, bạch cầu 15,2 G/L là nguy cơ trung gian; Alvarado kém tin cậy ở người cao tuổi (WSES 2020 Statement 1.3). Không có CT nên chuyển tuyến (WSES 2025 khuyến cáo 3.4; WSES 2020 khuyến cáo 1.8)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "qSOFA 1 điểm (HA tâm thu 98 mmHg; Sepsis-3 Box 4); SOFA thận 1 điểm (Bảng 1), chưa đủ ≥ 2. Không loại hẳn: cấy máu, theo dõi (IDSA 2017 khuyến cáo 9, 25); không dùng qSOFA đơn độc (SSC 2026)."
+    },
+    {
+     "t": "Tả",
+     "n": "Có sốt, đau quặn, phân nhầy máu, 8 lần/ngày: không giống tả (QĐ 5642/2015 mục 3.2)."
+    },
+    {
+     "t": "Chảy máu tiêu hóa nặng do rivaroxaban",
+     "n": "Chỉ vệt máu trong phân nhầy, không phân đen; chảy máu nhẹ thường chỉ cần tạm ngưng thuốc (ESC AF 2024 mục 6.7.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đặt đường truyền, bắt đầu truyền Ringer lactat ngay tại phòng khám và tiếp tục trong khi chuyển; theo dõi mạch, huyết áp",
+     "v": "c",
+     "n": "Mất nước độ 2 trở lên, không uống được: Ringer lactat, hoặc NaCl 0,9% và glucose 5% tỷ lệ 1:1 (QĐ 5642/2015 mục 3.1, 4.2.3a; IDSA 2017 khuyến cáo 41, 42). Thể tích, tốc độ cho người lớn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển bệnh viện tỉnh (30 km, có CT và theo dõi creatinin, kali) bằng xe có nhân viên y tế, con gái đi cùng, kèm giấy chuyển",
+     "v": "c",
+     "n": "Cần theo dõi suy thận cấp, điện giải; không có CT để loại viêm ruột thừa ở người cao tuổi (WSES 2025 khuyến cáo 3.4; WSES 2020 khuyến cáo 1.8). Mất nước trung bình, HA hơi hạ, mệt lả: điều trị tại tuyến huyện hoặc tỉnh, truyền dịch là chính (QĐ 4178/2007 Bảng 2 loại III, dùng tham khảo)."
+    },
+    {
+     "t": "Ghi vào giấy chuyển: đang dùng rivaroxaban 20 mg, liều cuối tối 27/10; creatinin 78 → 132 µmol/L, độ thanh thải khoảng 29 mL/ph; vệt máu trong phân; nhờ tuyến trên quyết định tạm ngưng hoặc chỉnh liều theo diễn tiến thận và chảy máu",
+     "v": "c",
+     "n": "Độ thanh thải 15–49 mL/ph thuộc tiêu chí giảm liều 15 mg (ESC AF 2024 Bảng 11); giảm liều ngoài tiêu chí không khuyến cáo (loại III, B); chảy máu nhẹ thường chỉ cần tạm ngưng (mục 6.7.2). Xử trí thuốc chống đông khi suy thận cấp do mất nước: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lấy mẫu phân mới (và cấy máu) gửi kèm hoặc gửi trước khi dùng kháng sinh mới; ghi trong giấy chuyển rằng cấy phân lượt 1 âm tính nhưng bà đã dùng ciprofloxacin 5 ngày",
+     "v": "c",
+     "n": "Cấy phân khi sốt, phân nhầy máu (IDSA 2017 khuyến cáo 8); cấy máu khi có dấu nhiễm khuẩn toàn thân (khuyến cáo 9); điều chỉnh kháng sinh theo kết quả (khuyến cáo 38; QĐ 5642/2015 mục 4.1)."
+    },
+    {
+     "t": "Kháng sinh: không dùng ngay tại phòng khám, để tuyến trên chọn sau khi lấy cấy; hoặc khởi đầu azithromycin 500 mg/ngày uống (5 ngày) ngay sau lấy mẫu vì sốt, phân máu, người cao tuổi",
+     "v": "c",
+     "n": "Hai nguồn khác nhau, cả hai chấp nhận. QĐ 5642/2015 mục 4.2.1: cân nhắc kháng sinh ở người già có sốt, phân nhầy máu; mục 4.2.2a: azithromycin 0,5 g/ngày × 5 ngày, ceftriaxon tĩnh mạch 50–100 mg/kg/ngày (liều người lớn: không có trong tài liệu đã tải). IDSA 2017 khuyến cáo 30–31: sốt ghi nhận tại cơ sở y tế kèm đau bụng, phân máu, hội chứng lỵ thì cân nhắc fluoroquinolone hoặc azithromycin. Ciprofloxacin vừa dùng 5 ngày nên không lặp lại ngay là lựa chọn của ca."
+    },
+    {
+     "t": "Báo y tế dự phòng chùm ca có người nhập viện, đề nghị lấy mẫu thức ăn và mẫu phân những người bệnh khác",
+     "v": "c",
+     "n": "Ổ dịch: phối hợp y tế công cộng (IDSA 2017 khuyến cáo 11, 16; ACG 2016 khuyến cáo 1). Quy trình báo cáo tại Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về nhà tiếp tục Oresol và hẹn lại 2 ngày",
+     "v": "w",
+     "n": "Mất nước độ 2, nôn không uống được, suy thận cấp: cần truyền tĩnh mạch (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 41)."
+    },
+    {
+     "t": "Cho loperamid hoặc thuốc cầm tiêu chảy khác",
+     "v": "w",
+     "n": "Sốt và tiêu chảy viêm: tránh (IDSA 2017 khuyến cáo 47, mức mạnh); không lạm dụng (QĐ 5642/2015 mục 4.2.3b)."
+    },
+    {
+     "t": "Cho thuốc hạ sốt nhóm NSAID (diclofenac, ibuprofen…) hoặc giảm đau chống viêm",
+     "v": "w",
+     "n": "Thận trọng ở người già, suy thận (mục 2); chống chỉ định tuyệt đối khi bệnh lý chảy máu không được kiểm soát (mục 3.2); nhóm nguy cơ thấp chỉ khi không kết hợp thuốc chống đông (mục 3.3) (QĐ 361/2014 Phụ lục NSAID). Bà đang mất nước, suy thận cấp, dùng rivaroxaban, có vệt máu."
+    },
+    {
+     "t": "Tự ngưng hẳn rivaroxaban không báo tuyến trên, hoặc tăng liều gấp đôi cho 'bù' liều bỏ",
+     "v": "w",
+     "n": "Giảm liều hoặc đổi liều ngoài tiêu chí không khuyến cáo (ESC AF 2024 Bảng 11, loại III B); không tuân thủ là nguyên nhân đột quỵ dù đã chống đông (mục 6.4). Bù liều gấp đôi: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ngộ độc thực phẩm: nhiễm khuẩn xâm nhập (nghi Salmonella) tái diễn nặng hơn sau khi dừng ciprofloxacin tự mua",
+     "Mất nước độ 2; suy thận cấp trước thận (creatinin 78 → 132 µmol/L); hạ kali 3,0, hạ natri 132 mmol/L",
+     "Rung nhĩ đang dùng rivaroxaban; độ thanh thải creatinin ≈ 29 mL/ph; vệt máu nhẹ trong phân",
+     "Chưa loại trừ viêm ruột thừa vì không có CT ở người cao tuổi; nhiễm khuẩn huyết chưa đủ tiêu chuẩn (qSOFA 1) nhưng cần cấy máu và theo dõi",
+     "Cấy phân lượt 1 âm tính giả do ciprofloxacin; chùm ca có người nhập viện"
+    ],
+    "phan_tich_chan_doan": [
+     "Diễn tiến: dù uống Oresol đúng và ngưng thuốc tiệm, sau 2 ngày bà sốt lại, đi cầu 8 lần có vệt máu, mót rặn, nôn không uống được: bệnh xâm nhập bộc lộ khi liệu trình ciprofloxacin đã dừng (QĐ 5642/2015 mục 3.1, 3.2; IDSA 2017 khuyến cáo 8).",
+     "Mạch 108, HA đứng 84/52 mmHg, thiểu niệu, môi khô là mất nước độ 2 (QĐ 5642 mục 3.1); creatinin tăng, kali và natri giảm là biến chứng (mục 5). Hb 134 g/L tăng do cô đặc, không chứng tỏ hết chảy máu.",
+     "Nhiễm khuẩn huyết: qSOFA 1 (chỉ HA tâm thu 98 ≤ 100; Sepsis-3 Box 4); SOFA thận 1 điểm vì creatinin 1,49 mg/dL thuộc 1,2–1,9 (Bảng 1), chưa đủ tăng ≥ 2. Không dùng qSOFA đơn độc (SSC 2026) nên vẫn cấy máu; ở người cao tuổi nhiễm Salmonella xâm lấn có thể cần hình ảnh tìm ổ ngoài ruột (IDSA khuyến cáo 25): tuyến trên làm.",
+     "Viêm ruột thừa: đau hố chậu phải tăng, phản ứng thành bụng nhẹ, bạch cầu 15,2 G/L là nguy cơ trung gian, cần hình ảnh (WSES 2020 khuyến cáo 1.8). Siêu âm kèm điểm thay CT khi không có CT (WSES 2025 khuyến cáo 3.1) nhưng không thấy ruột thừa không loại trừ được, và người cao tuổi nên chụp CT (khuyến cáo 3.4): chuyển tuyến.",
+     "Cấy phân lượt 1 âm tính không loại trừ vì đã dùng ciprofloxacin. Tả không phù hợp (QĐ 5642 mục 3.2); C. difficile âm tính; không có chảy máu tiêu hóa nặng."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch tĩnh mạch ngay vì mất nước độ 2 và nôn không uống được (QĐ 5642 mục 4.2.3a; IDSA khuyến cáo 41, 42); truyền đến khi mạch, tưới máu, tri giác bình thường rồi bù phần còn thiếu bằng ORS (khuyến cáo 42).",
+     "Chuyển tuyến vì ba lý do: suy thận cấp cần theo dõi creatinin, kali; không có CT khi người cao tuổi đau hố chậu phải tăng; đang dùng kháng đông có vệt máu. Đi xe cứu thương có nhân viên y tế, dịch đang chạy, con gái đi cùng.",
+     "Kháng sinh: hai cách cùng đúng (QĐ 5642 mục 4.2.1, 4.2.2a so với IDSA khuyến cáo 30–31, 36): để tuyến trên chọn sau cấy, hoặc azithromycin sau khi lấy mẫu. Ciprofloxacin vừa dùng 5 ngày nên chưa lặp lại.",
+     "Rivaroxaban: độ thanh thải khoảng 29 mL/ph vào vùng giảm liều 15 mg (ESC AF 2024 Bảng 11) nhưng creatinin đang tăng cấp do mất nước; giao tuyến trên đánh giá lại sau bù dịch. Vệt máu nhẹ: tạm ngưng thuốc thường đủ (mục 6.7.2). Giấy chuyển nêu liều cuối và giờ uống.",
+     "Tránh NSAID (QĐ 361/2014 Phụ lục NSAID), loperamid (IDSA khuyến cáo 47), cho về hẹn lại. Báo ổ dịch (IDSA khuyến cáo 11, 16); giấy sức khỏe chờ khỏi hẳn (Thông tư 32/2023/TT-BYT Điều 37 khoản 3b)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ringer lactat (hoặc NaCl 0,9% và glucose 5% tỷ lệ 1:1)",
+      "ham_luong": "Chai 500 mL",
+      "lieu": "Truyền tĩnh mạch; thể tích và tốc độ cho người lớn: không có trong tài liệu đã tải",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Ngay tại phòng khám, tiếp tục khi vận chuyển",
+      "so_ngay": "Đến khi mạch, HA, tiểu bình thường rồi chuyển sang Oresol",
+      "ghi_chu": "QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 41, 42. Bù kali theo kali máu do tuyến trên."
+     },
+     {
+      "thuoc": "Azithromycin (chỉ nếu chọn hướng dùng ngay)",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau khi lấy mẫu cấy",
+      "so_ngay": "5 ngày",
+      "ghi_chu": "QĐ 5642/2015 mục 4.2.2a; IDSA 2017 khuyến cáo 31. Hướng để tuyến trên chọn sau cấy thì không kê."
+     },
+     {
+      "thuoc": "Rivaroxaban (đang dùng)",
+      "ham_luong": "20 mg",
+      "lieu": "Tạm ngưng hay giảm xuống 15 mg do tuyến trên quyết định",
+      "duong": "Uống",
+      "thoi_diem": "Không tự uống tối nay",
+      "so_ngay": "Theo tuyến trên",
+      "ghi_chu": "ESC AF 2024 Bảng 11 (15 mg khi độ thanh thải 15–49 mL/ph); mục 6.7.2 (chảy máu nhẹ tạm ngưng); xử trí khi suy thận cấp mất nước: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Chuyển bệnh viện tỉnh ngay hôm nay bằng xe cứu thương, đường truyền đang chạy; con gái mang theo thuốc đang dùng và giấy chuyển.",
+     "Không cho bà uống rivaroxaban hay amlodipin tối nay, chờ bác sĩ tuyến trên; không cho thuốc cầm tiêu chảy hay thuốc hạ sốt chống viêm (QĐ 361/2014 Phụ lục NSAID).",
+     "Nếu bà lơ mơ, thở nhanh, đau bụng dữ dội, ra máu nhiều hoặc phân đen trên đường đi thì gọi 115 (IDSA khuyến cáo 9, 41).",
+     "Báo tuyến trên bữa giỗ còn nhiều người bệnh, một cụ ông 80 tuổi đã nhập bệnh viện huyện.",
+     "Giấy sức khỏe chờ bà khỏi hẳn; phòng khám cấp giấy xác nhận đang điều trị để gia hạn hồ sơ nếu cần.",
+     "Sau xuất viện, tái khám thử lại creatinin, kali và quyết định liều rivaroxaban (ESC AF 2024 Bảng 11)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Nhàn được chuyển bằng xe cứu thương lên bệnh viện tỉnh, dịch truyền đang chạy. CT bụng: viêm thành hồi manh tràng và đại tràng lên, ruột thừa bình thường. Cấy phân mới mọc Salmonella enterica (không phải Typhi/Paratyphi), cấy máu âm tính. Bà được truyền dịch, bù kali, dùng kháng sinh theo kháng sinh đồ; creatinin về 84 µmol/L sau hai ngày; rivaroxaban tạm ngưng hai ngày rồi dùng lại 20 mg khi độ thanh thải creatinin trên 50 mL/ph. Bà ra viện ngày thứ 4, hết tiêu chảy sau 10 ngày. Hồ sơ nộp trễ vài ngày nhờ giấy xác nhận điều trị; sau khi khỏi bà được khám sức khỏe đầy đủ rồi mới cấp giấy.",
+ "nhieu": [
+  "Tự uống thuốc trước 5 ngày (ciprofloxacin, loperamid): làm sốt hạ, tiêu chảy thưa đi, bà càng tưởng 'khỏe re', và làm cấy phân lượt 1 âm tính giả.",
+  "Tin rivaroxaban gây tiêu chảy nên tự bỏ 2 liều: nguy cơ huyết khối ở người rung nhĩ; tiêu chảy là do bữa giỗ.",
+  "Lý do đến khám là xin giấy sức khỏe: bà và con gái đều không coi tiêu chảy là bệnh, hạn hồ sơ 30/10 tạo áp lực cấp giấy.",
+  "Không có CT: viêm ruột thừa ở người cao tuổi lượt 1 loại bằng điểm lâm sàng, lượt 2 không loại được nên là một lý do chuyển tuyến."
+ ],
+ "bai_hoc_bien": [
+  "Người cao tuổi bệnh mờ nhạt: hỏi thẳng có đi cầu lỏng, nôn, đau bụng không dù họ đến vì chuyện khác (giấy sức khỏe).",
+  "Hỏi cụ thể từng nhóm thuốc, xin xem vỏ thuốc: thuốc tiệm 5 ngày che sốt và làm cấy phân âm tính giả (IDSA 2017 Bảng 2).",
+  "Thuốc kháng đông mới đổi: hỏi có bỏ liều không; tính độ thanh thải creatinin vì ngưỡng giảm liều rivaroxaban là 15–49 mL/ph (ESC AF 2024 Bảng 11).",
+  "Chùm ca sau cùng bữa ăn: hỏi người cùng ăn, báo y tế dự phòng.",
+  "Lượt 2 nặng hơn dù làm đúng: nhận ra mất nước độ 2, suy thận cấp, nôn không uống được thì bù dịch tĩnh mạch và chuyển tuyến.",
+  "Không có CT: người cao tuổi nghi viêm ruột thừa nguy cơ trung gian ưu tiên CT nên chuyển (WSES 2025 khuyến cáo 3.4).",
+  "Cặp tương phản với TH-0689 (tiêu chảy cấp nhiễm trùng): ca này là người cao tuổi dùng kháng đông, tự dùng quinolon, nặng hơn ở lượt 2."
+ ],
+ "diem_nho": [
+  "Mất nước độ 1: mạch < 100, HA bình thường; độ 2: mạch 100–120, HA < 90, thiểu niệu; độ 3: mạch > 120, vô niệu (QĐ 5642/2015 mục 3.1).",
+  "ORS giảm áp lực thẩm thấu là đầu tay cho mất nước nhẹ đến vừa; truyền tĩnh mạch khi mất nước nặng, sốc, thất bại ORS (IDSA 2017 khuyến cáo 39, 41).",
+  "Tả: khởi phát trong 24 giờ, 20–50 lần/ngày, phân nước vo gạo, không sốt, không đau quặn (QĐ 5642/2015 mục 3.2).",
+  "Điểm lâm sàng loại viêm ruột thừa nguy cơ thấp; Alvarado kém đặc hiệu ở người cao tuổi; cần hình ảnh thì ưu tiên CT (WSES 2020 khuyến cáo 1.2.1, Statement 1.3; WSES 2025 khuyến cáo 3.4).",
+  "qSOFA: nhịp thở ≥ 22, thay đổi tri giác, HA tâm thu ≤ 100; không dùng đơn độc (Sepsis-3 Box 4; SSC 2026).",
+  "Rivaroxaban 20 mg/ngày, 15 mg khi độ thanh thải creatinin 15–49 mL/ph; giảm liều ngoài tiêu chí không khuyến cáo (ESC AF 2024 Bảng 11).",
+  "Giấy khám sức khỏe: người có bệnh thì tư vấn điều trị (Thông tư 32/2023/TT-BYT Điều 37 khoản 3b). Loperamid tránh khi sốt, tiêu chảy viêm (IDSA 2017 khuyến cáo 47)."
+ ],
+ "nguon": [
+  "BYT QĐ 5642/2015 – TL-0038 – Bệnh tiêu chảy do vi khuẩn, mục 3.1–3.3, 4.1, 4.2.1, 4.2.2a, 4.2.3a–b, 5, 6 (tr. 73–77)",
+  "BYT QĐ 4178/2007 – TL-0176 – Bệnh tả: mục III.2a (ORS, truyền dịch), Bảng 2",
+  "IDSA 2017 Infectious Diarrhea – TL-0230 – khuyến cáo 8, 9, 10a–b, 11, 16, 18, 19, 20, 25, 30, 31, 36, 38, 39, 41–43, 45, 47, 49, 52, 54; Bảng 2",
+  "ACG 2016 Acute Diarrheal Infections – TL-0233 – khuyến cáo 1, 2, 6, 9, 10; phần bàn luận kháng sinh",
+  "WSES 2020 – TL-0263 – Statement 1.3; khuyến cáo 1.2.1, 1.7, 1.8, 1.10; WSES 2025 – TL-0053 – khuyến cáo 1, 2, 3.1, 3.4",
+  "Sepsis-3 2016 – TL-0101 – Box 4, Bảng 1; SSC 2026 – TL-0049 – phần sàng lọc",
+  "ESC 2024 Management of atrial fibrillation – kho cũ tltk-10000-ca (04 Bệnh mạn tính người lớn/Quốc tế) – mục 6.1, 6.2, 6.4, 6.7.2, Bảng 10, Bảng 11",
+  "Thông tư 32/2023/TT-BYT – TL-0669 – Điều 36 khoản 5, Điều 37 khoản 3b; BYT QĐ 361/2014 – TL-0286 – Phụ lục NSAID mục 2, 3.2, 3.3",
+  "Không có trong tài liệu đã tải: lượng ORS mL/ngày, thể tích và tốc độ truyền dịch người lớn; liều ceftriaxon người lớn; xử trí rivaroxaban khi suy thận cấp do mất nước; ngưỡng bù kali; tỉ lệ cấy phân âm tính giả sau kháng sinh; rivaroxaban gây tiêu chảy; quy trình báo cáo ổ dịch ở Việt Nam; công thức Cockcroft–Gault; số ngày chờ để cấp giấy sức khỏe."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 26/10/2026 (bản 1). Đã đọc: TL-0038 (mục tiêu chảy do vi khuẩn 3–6), TL-0176 (điều trị, Bảng 2), TL-0230 (khuyến cáo 1–54, Bảng 2), TL-0233 (Bảng 1), TL-0263 và TL-0053 (khuyến cáo chẩn đoán), TL-0101 (Box 4, Bảng 1), TL-0049 (qSOFA), TL-0669 (Điều 36–37), TL-0286 (Phụ lục NSAID), ESC AF 2024 (mục 6.1, 6.2, 6.4, 6.7), KDIGO 2024 (Practice Point 4.3.2).",
+  "Chi tiết thiết kế không từ tài liệu: bữa giỗ, 7/12 người bệnh, kết cục cấy Salmonella, số liệu xét nghiệm. Độ thanh thải creatinin tính theo Cockcroft–Gault (công thức không có trong tài liệu đã tải).",
+  "Mâu thuẫn đã có mục trong sổ: kháng sinh kinh nghiệm khi sốt, men vi sinh, loperamid (TH-0717). Đề xuất mục mới: tuổi cao có là chỉ định kháng sinh kinh nghiệm (TH-0693_mau_thuan.md).",
+  "TT 25/2026/TT-BYT có thể thay mẫu khám sức khỏe (ghi chú chỉ mục TL-0669): chưa đối chiếu; ca chỉ dựa Điều 36–37 TT 32/2023/TT-BYT. Không dùng media tim vì mạch không đều, danh mục chưa có tệp tim loạn nhịp. Không có ảnh da."
+ ]
+}
