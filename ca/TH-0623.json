@@ -1,0 +1,512 @@
+{
+ "ma_ca": "TH-0623",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_tieu_chay_cap_nhiem_trung",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Tiêu chảy cấp nhiễm trùng",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lỵ trực trùng",
+   "Viêm ruột thừa"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Tiếp xúc động vật",
+  "thuoc_dang_dung": "Thuốc đái tháo đường đang dùng",
+  "ly_do_that_su_den_kham": "Vấn đề tâm lý giấu sâu triệu chứng",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Lê Gia Hân",
+  "tuoi": 0.83,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 8.5,
+  "chieu_cao": 72,
+  "xung_ho": "Bé 10 tháng, chưa nói được, khóc khi bị khám. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' và gọi bé là 'bé Hân'.",
+  "tinh_cach": "Mẹ tên Thu Hà, 31 tuổi, nhân viên kế toán, đái tháo đường típ 2 uống metformin. Cẩn thận, hay tra mạng, nói nhanh, đọc cả tin nhắn trên điện thoại khi nói chuyện. Mệt mỏi, mắt thâm, dễ rưng rưng.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: mẹ nói thẳng ngay từ đầu 'bé nhiễm khuẩn từ chó con, cần cấy phân và kháng sinh' và hỏi xin hai việc đó. Mẹ không cãi nếu bác sĩ giải thích tử tế và nhìn nhận phần mẹ nghi đúng (nguồn lây có thể từ thú nuôi); nếu bị gạt đi thì mẹ im lặng, nói 'dạ' rồi về mua kháng sinh.",
+  "nguoi_nha": "Mẹ bé (chị Hà) bế bé đi khám; mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha), bé chỉ khóc quấy.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hà)",
+  "ngoai_hinh": {
+   "da": "#f0c4a0",
+   "toc": "#2a1d16",
+   "kieuToc": "tre",
+   "ao": "#fbe3a8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e9b78f",
+    "toc": "#1c1411",
+    "kieuToc": "dai",
+    "ao": "#a9c7a0",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé đi ngoài lỏng 3 ngày, mẹ xin cấy phân và kháng sinh",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Phòng khám không làm được xét nghiệm nào (máu, phân, nước tiểu); cũng không có X-quang, CT, nội soi."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé nữ 10 tháng, 8,5 kg (Linh vừa cân), mẹ bế đến vì đi ngoài phân lỏng 3 ngày, bú kém. Nhiệt độ 37,8 °C, mạch 118 l/p, nhịp thở 34 l/p, SpO₂ 99%. Bé tỉnh, nhìn quanh; mẹ nói có chẩn đoán trên mạng và hỏi xin cấy phân.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé Hân, 10 tháng, không mất nước: sụt 2,3% cân, tỉnh, uống bình thường, mắt không trũng, nếp véo nhanh, không nôn nữa. Nhập viện là chưa cần, vì tiêu chí nhập viện (mất nước nặng, li bì, nôn tái diễn, thất bại ORS, người chăm không đảm bảo) chưa có (QĐ 3312/2015, mục 5.1) và Phác đồ A làm tại nhà được. Bé phải xa bú mẹ, mẹ mất ngủ càng kiệt sức và tự trách thêm, trong khi điều cần làm là dạy mẹ cho bú lại và cho ORS.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi để xét nghiệm phân và dùng kháng sinh là quá tay: tiêu chảy phân nước không dùng kháng sinh (WHO 2024, khuyến cáo 1a), cấy phân chỉ cho phân máu, nghi tả, nặng kéo dài, suy giảm miễn dịch (QĐ 3312/2015, mục 3.2, 4.2). Mẹ tốn tiền xe, bỏ cả buổi, bé bị kim chích và có thể nhận kháng sinh không cần, trong khi vấn đề thật là mẹ đã bớt bú và pha sữa loãng."
+   },
+   "loi_mo": "Dạ chào bác sĩ. Bé nhà em đi ngoài lỏng ba hôm rồi. Em tra mạng thấy bé bị nhiễm khuẩn từ con chó con, phải cấy phân với uống kháng sinh. Bác sĩ cho bé làm xét nghiệm giúp em với.",
+   "sinh_hieu": {
+    "mach": 118,
+    "ha": "Không đo",
+    "nhiet": "37,8",
+    "nhip_tho": 34,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé đi ngoài phân lỏng 3 ngày, bú ít hơn thường. Mẹ lo vì đọc trên mạng thấy bé có thể bị nhiễm khuẩn từ chó con.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Nhà mới nhận một chú chó con 3 tháng tuổi và 6 con gà con (mua cách đây 10 ngày) nuôi ngay hiên nhà, nơi bé bò chơi. Chó con tiêu chảy 1 tuần, nay đã khỏi; chó hay liếm tay, mặt bé. Mẹ thường cho gà ăn rồi bế bé luôn, rửa tay qua loa.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi chung 'bé có tiếp xúc gì lạ không' thì mẹ nói 'dạ không'. Chỉ kể về chó, gà khi bác sĩ hỏi nhà có nuôi con gì, bé chơi ở đâu, ai chăm thú nuôi, hoặc hỏi thú nuôi có bị bệnh không.",
+     "k": 1,
+     "y": "Khởi phát: tiếp xúc động vật (chó con có tiêu chảy, gà con) và vệ sinh tay"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Từ 3 ngày nay bé đi ngoài 5–6 lần/ngày, phân lỏng nước, vàng xanh, tanh, không có máu, không nhầy, không giống nước vo gạo. Bé không rặn, không khóc từng cơn rồi tái đi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân: loại trừ lỵ, tả, lồng ruột"
+    },
+    {
+     "id": "non",
+     "noi_dung": "Ngày đầu bé nôn 2 lần ra sữa, từ hôm qua không nôn nữa. Không nôn mật, không nôn vọt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Hai hôm đầu bé hơi nóng, mẹ sờ thấy ấm, không có nhiệt kế; không ho, không sổ mũi, không chảy mủ tai, nước tiểu không hôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt nhẹ, không ổ nhiễm khuẩn ngoài ruột"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Hôm qua bé ướt khoảng 5 tã, nước tiểu vàng nhạt, sáng nay đã ướt 1 tã.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng nước tiểu: chưa mất nước"
+    },
+    {
+     "id": "bu_uong",
+     "noi_dung": "Bé tỉnh, chơi được, khóc có nước mắt. Đưa thìa nước hoặc bình thì uống bình thường, không giật lấy. Bé ăn dặm cháo được nửa chén.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu khát, uống bình thường"
+    },
+    {
+     "id": "can_truoc",
+     "noi_dung": "Sổ tiêm chủng tuần trước ghi 8,7 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cân nặng trước bệnh để tính % sụt"
+    },
+    {
+     "id": "sua_me",
+     "noi_dung": "Hai ngày nay mẹ giảm bú mẹ còn 1–2 cữ/ngày, thay bằng sữa công thức pha loãng (khoảng 2/3 muỗng gạt mỗi 30 ml) cho 'đỡ nặng bụng'. Mẹ đọc trên mạng 'mẹ uống thuốc tiểu đường thì thuốc và đường qua sữa làm bé tiêu chảy'. Mẹ chưa nói với ai trong nhà.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'bé bú thế nào' thì mẹ nói 'dạ bé bú sữa ít thôi'. Chỉ kể ra khi bác sĩ hỏi cụ thể mỗi ngày bé bú mẹ mấy cữ, pha sữa bao nhiêu muỗng cho bao nhiêu nước, hoặc hỏi nhẹ nhàng chị có lo chuyện thuốc của mẹ khi cho con bú không.",
+     "k": 1,
+     "y": "Giảm bú mẹ, pha sữa loãng vì sợ thuốc đái tháo đường của mẹ"
+    },
+    {
+     "id": "thuoc_me",
+     "noi_dung": "Mẹ bị đái tháo đường típ 2 phát hiện 3 năm, uống metformin 500 mg × 2 lần/ngày sau ăn, đường huyết tự đo buổi sáng 6,5–7,5 mmol/L, không tiêm insulin. Thuốc mẹ cất trong hộp trên tủ cao, bé không với tới và không uống nhầm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đái tháo đường của mẹ đang dùng; loại bé uống nhầm"
+    },
+    {
+     "id": "thuoc_be",
+     "noi_dung": "Mẹ chưa cho bé uống thuốc gì, không kháng sinh, không thuốc cầm tiêu, không thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Nhà ăn cơm nấu chín, không ai khác tiêu chảy, không đi chợ hải sản, không đi vùng có dịch. Sữa công thức pha bằng nước đun sôi để nguội, bình sữa rửa nước nóng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ: loại trừ tả"
+    },
+    {
+     "id": "ngoai_khoa",
+     "noi_dung": "Bé không khóc ré từng cơn, không nôn vàng xanh, bụng không chướng, bé cho sờ bụng không khóc thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu ngoại khoa (lồng ruột, ruột thừa)"
+    },
+    {
+     "id": "vac_xin",
+     "noi_dung": "Bé đã uống vắc-xin rotavirus 2 liều; tiêm chủng theo lịch.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "google",
+     "noi_dung": "Mẹ tra mạng: 'trẻ tiếp xúc chó con tiêu chảy có thể nhiễm Salmonella hoặc Campylobacter, phải cấy phân và dùng kháng sinh ngay kẻo biến chứng'. Mẹ xin bác sĩ xét nghiệm phân và kê kháng sinh cho chắc.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Chẩn đoán tự tra: một phần có lý (nguồn lây có thể đúng), nhưng cấy phân và kháng sinh không đổi xử trí"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ tự trách: để chó liếm bé, cho gà ăn xong không rửa tay kỹ, giờ lại nghĩ sữa và thuốc của mình làm con bệnh. Ba đêm nay mẹ ngủ chưa tới 3 giờ, hay khóc một mình. Mẹ đến khám vì muốn nghe bác sĩ nói bé có nguy hiểm không và có phải lỗi của mẹ không.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chị đang lo điều gì nhất, vì sao hôm nay đưa bé đi, hoặc hỏi nhẹ nhàng chị ngủ nghỉ, tinh thần mấy hôm nay thế nào, không dùng giọng trách.",
+     "k": 1,
+     "y": "Lý do thật: tự trách, sợ thuốc đái tháo đường làm hại con"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 8,5 kg (trước bệnh 8,7 kg: sụt khoảng 2,3%). Bé tỉnh, linh hoạt, chơi với đồ chơi, dỗ nín nhanh. Đưa thìa nước thì uống bình thường, không giật lấy. Khóc có nước mắt, môi ẩm.",
+     "k": 1,
+     "hien": "Cân 8,5 kg. Tỉnh, chơi được. Đưa thìa nước thì uống bình thường."
+    },
+    "dau_mat_co": {
+     "a": "Mắt không trũng (mẹ xác nhận mắt bé như bình thường), thóp trước phẳng, lưỡi ẩm. Cổ mềm, không hạch.",
+     "k": 1,
+     "hien": "Mắt không trũng, thóp phẳng, lưỡi ẩm."
+    },
+    "da": {
+     "a": "Nếp véo da ở bụng trở lại nhanh. Không ban, không chấm xuất huyết, không vàng da.",
+     "k": 1,
+     "hien": "Nếp véo da ở bụng: trở lại nhanh."
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay rõ, đều. Đầu chi ấm, mao mạch hồi sắc dưới 2 giây. Không nổi vân tím.",
+     "k": 1,
+     "hien": "Mạch quay rõ. Đầu chi ấm, mao mạch hồi sắc dưới 2 giây."
+    },
+    "tim": {
+     "a": "Tim nhanh đều 118 l/p, T1 T2 rõ, không âm thổi; nhanh nhẹ do sốt nhẹ.",
+     "k": 0,
+     "hien": "Tim đều, tần số 118 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 34 l/p, thở êm, không co lõm lồng ngực. Rì rào phế nang rõ hai bên, không ran. Không thở sâu kiểu toan.",
+     "k": 0,
+     "hien": "Nhịp thở 34 l/p, không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Sờ khắp bụng bé không khóc thêm, không đề kháng, không đau khu trú hố chậu phải, không sờ thấy khối. Nhu động ruột tăng nhẹ. Gan lách không to.",
+     "k": 1,
+     "hien": "Bụng mềm, không chướng. Sờ bụng bé không khóc thêm."
+    },
+    "truc_trang": {
+     "a": "Hăm đỏ nhẹ quanh hậu môn, không nứt, không sa trực tràng. Găng sạch, không máu, không nhầy. Phân trong tã mới thay: lỏng, vàng xanh, không máu, không nhầy.",
+     "k": 1,
+     "hien": "Hăm đỏ nhẹ quanh hậu môn. Găng sạch, không máu."
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, màng nhĩ hai bên xám hồng, không phồng, không chảy mủ; mũi khô.",
+     "k": 0,
+     "hien": "Họng không đỏ; màng nhĩ không phồng."
+    },
+    "quan_sat_bu_me": {
+     "a": "Bé ngậm bắt vú ngay, ngậm sâu, mút chậm có tiếng nuốt, bú liền khoảng 6 phút rồi buông ra tự nhiên. Vú mẹ căng, sữa còn nhiều. Mẹ rưng rưng nói 'sữa em còn nhiều mà em cứ sợ cho bé bú'.",
+     "k": 1,
+     "hien": "Bé bú mẹ khỏe, ngậm vú sâu, có tiếng nuốt. Mẹ rưng rưng."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Không làm được tại cơ sở.",
+     "n": "Cơ sở không có xét nghiệm nào. Cũng không cần: công thức máu, CRP chỉ khi nghi nhiễm khuẩn kèm theo hoặc mất nước nặng (QĐ 3312/2015, Tiêu chảy cấp, mục 3.2); bé không mất nước, sốt nhẹ, không ổ nhiễm khuẩn khác."
+    },
+    "lyte": {
+     "v": "n",
+     "r": "Không làm được tại cơ sở.",
+     "n": "Điện giải đồ chỉ khi điều trị bệnh viện và có mất nước hoặc diễn biến không tương xứng (QĐ 3312/2015, mục 3.2); bé không mất nước."
+    },
+    "soi_phan": {
+     "v": "n",
+     "r": "Không làm được tại cơ sở.",
+     "n": "Soi tươi chỉ khi nghi ký sinh trùng (QĐ 3312/2015, mục 3.2); phân không máu, không nhầy."
+    },
+    "cay_phan": {
+     "v": "n",
+     "r": "Không làm được tại cơ sở. Nếu làm ở nơi khác, kết quả có sau 48–72 giờ.",
+     "n": "Cấy phân chỉ khi phân máu, nghi tả, tiêu chảy nặng kéo dài hoặc suy giảm miễn dịch (QĐ 3312/2015, mục 3.2). Phân nước không dùng kháng sinh nên kết quả không đổi xử trí (WHO 2024, khuyến cáo 1a). IDSA 2017 (khuyến cáo 10, Bảng 2) liệt kê phơi nhiễm vật nuôi, gia cầm con vào nguồn lây Campylobacter, Salmonella; xét nghiệm phân của IDSA tính cho các tình huống nặng, kéo dài, phân máu, không phải mọi ca."
+    },
+    "test_rota": {
+     "v": "n",
+     "r": "Không làm được tại cơ sở.",
+     "n": "Không xác định tác nhân vì không đổi xử trí; không có trong chỉ định xét nghiệm của QĐ 3312/2015, mục 3.2."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng (phân nước, không máu), ngày thứ 3, không mất nước, nguồn lây nghi từ chó con tiêu chảy và gà con (có thể Campylobacter hoặc Salmonella, không xác định được tác nhân vì không có xét nghiệm); bé 10 tháng, tiếp tục bú mẹ",
+     "ok": 1,
+     "n": "Đi ngoài ≥ 3 lần/24 giờ, dưới 14 ngày (QĐ 3312/2015, mục 1). Nguyên nhân nhiễm khuẩn tại ruột gồm Campylobacter jejuni, Salmonella (mục 2.1a). Tiếp xúc chó có tiêu chảy gợi Campylobacter, gia cầm con gợi Salmonella không thương hàn (IDSA 2017, Bảng 2). Rotavirus vẫn là tác nhân chính tuổi này nhưng bé đã uống đủ vắc-xin. Sụt dưới 5% cân: chưa mất nước lâm sàng (mục 3.1b)."
+    },
+    {
+     "t": "Tả",
+     "n": "Không dịch tễ, không ai trong nhà tiêu chảy, phân không phải nước vo gạo, bé có sốt nhẹ, không mất nước nhanh (QĐ 4178/2007, mục II.1a, II.1c)."
+    },
+    {
+     "t": "Lỵ trực trùng",
+     "n": "Không phân nhầy máu, không mót rặn, không đau quặn từng cơn, sốt nhẹ (QĐ 5642/2015, Bệnh lỵ trực khuẩn, mục 3.1b–c); phân không máu nên không dùng kháng sinh (WHO 2024, khuyến cáo 1a, 2)."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Bụng mềm, không đề kháng, không đau khu trú, không nôn mật. Hiếm ở nhũ nhi nhưng tiêu chảy có thể là biểu hiện bệnh ngoại khoa (QĐ 3312/2015, mục 2.1). Cơ sở không có xét nghiệm nên dựa lâm sàng và dặn quay lại; ở trẻ em siêu âm là hình ảnh đầu tay (WSES 2025, Recommendation 3.2)."
+    },
+    {
+     "t": "Lồng ruột",
+     "n": "Không phân nhầy máu, không khối bụng, không cơn khóc từng cơn kèm tái nhợt (WHO 2013, Bảng 11, tr. 127)."
+    },
+    {
+     "t": "Mất nước",
+     "n": "Tỉnh, uống bình thường, mắt không trũng, nếp véo nhanh, sụt 2,3% cân: không đủ 2 dấu hiệu của nhóm có mất nước (QĐ 3312/2015, mục 3.1b–c; WHO 2013, Bảng 12)."
+    },
+    {
+     "t": "Nhiễm khuẩn ngoài ruột (hô hấp, tiết niệu, tai, màng não) gây tiêu chảy",
+     "n": "Không ho, màng nhĩ bình thường, nước tiểu không hôi, tỉnh, không dấu màng não; sốt nhẹ giải thích được bằng viêm ruột (QĐ 3312/2015, mục 2.1b, 3.1b)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Phân loại không mất nước (sụt 2,3% cân, tỉnh, uống bình thường, mắt không trũng, nếp véo nhanh), chọn Phác đồ A: cho uống thêm ORS áp lực thẩm thấu thấp 50–100 ml sau mỗi lần đi ngoài (khoảng 500 ml/ngày), từng thìa nhỏ; nôn thì nghỉ 5–10 phút rồi cho tiếp; mẹ tập pha và cho uống ngay tại phòng khám",
+     "v": "c",
+     "n": "Sụt dưới 5% chưa có mất nước lâm sàng (QĐ 3312/2015, mục 3.1b); không đủ 2 dấu hiệu để phân loại có mất nước (mục 3.1c). Phác đồ A: dưới 24 tháng 50–100 ml sau mỗi lần đi ngoài, 500 ml/ngày; ORS áp lực thẩm thấu thấp là tốt nhất; nôn thì chờ 5–10 phút (mục 4.1; WHO 2013, Chart 15; WHO 2024, khuyến cáo 5)."
+    },
+    {
+     "t": "Cho bú mẹ trở lại theo nhu cầu, không bớt cữ; sữa công thức pha đúng tỉ lệ, không pha loãng; cho ăn dặm như thường, ăn nhiều bữa hơn",
+     "v": "c",
+     "n": "Tiếp tục bú mẹ, nhiều lần hơn và lâu hơn; không pha loãng sữa (QĐ 3312/2015, mục 4.4); WHO 2013, Chart 15: tiếp tục bú mẹ và ăn dặm phù hợp. Cai sữa quá sớm là tập quán làm tăng nguy cơ tiêu chảy (QĐ 3312, mục 2.1). Mẹ đái tháo đường vẫn nên cho bú: ADA 2026, khuyến cáo 15.28. An toàn riêng của metformin qua sữa mẹ không có trong tài liệu đã tải: mẹ không tự ngưng thuốc hay ngưng bú, hỏi bác sĩ điều trị đái tháo đường hoặc dược sĩ nếu còn lo."
+    },
+    {
+     "t": "Kẽm đường uống 5 mg/ngày hoặc 20 mg/ngày, 1 lần/ngày, 10–14 ngày; hòa vào ít nước hoặc sữa vắt",
+     "v": "c",
+     "n": "5 mg/ngày (WHO 2024, khuyến cáo 3a, 3c; Remarks: thời gian 10–14 ngày) hoặc 20 mg/ngày cho trẻ từ 6 tháng (QĐ 3312/2015, mục 4.3; WHO 2013, tr. 136). Hai nguồn khác nhau vì WHO 2024 mới hơn và thấy 20 mg nôn nhiều hơn (RR 2,20); 5 mg thận trọng hơn. Chế phẩm kẽm cụ thể ở Việt Nam không có trong tài liệu đã tải. (Sổ mâu thuẫn: mục kẽm TH-0630.)"
+    },
+    {
+     "t": "Không dùng kháng sinh",
+     "v": "c",
+     "n": "Tiêu chảy cấp phân nước không dùng kháng sinh (WHO 2024, khuyến cáo 1a; QĐ 3312/2015, mục 4.2: chỉ khi phân máu, nghi tả mất nước nặng, Giardia, nhiễm trùng khác kèm theo; IDSA 2017, khuyến cáo 36). QĐ 5642/2015 (mục 4.2.1) cho phép cân nhắc kháng sinh theo kinh nghiệm ở trẻ nhỏ có sốt hoặc nhiễm trùng; bé sốt nhẹ, tỉnh, uống tốt nên không đủ chỉ định, và liều trẻ em của mục đó không có trong tài liệu đã tải. (Sổ mâu thuẫn: mục kháng sinh kinh nghiệm, TH-0715, TH-0624.)"
+    },
+    {
+     "t": "Giải thích với mẹ vì sao không cần cấy phân hay xét nghiệm khác (cơ sở cũng không làm được): xét nghiệm không đổi cách điều trị; việc quyết định là khám mất nước, ORS và theo dõi",
+     "v": "c",
+     "n": "Phần lớn trẻ tiêu chảy cấp không cần xét nghiệm thường quy (QĐ 3312/2015, mục 3.2; WHO 2013, mục 5.1, tr. 126). Chấp nhận mẹ nghi nhiễm khuẩn từ chó, gà: tác nhân có thể là Campylobacter hoặc Salmonella (IDSA 2017, Bảng 2) nhưng điều trị vẫn là bù nước."
+    },
+    {
+     "t": "Không dùng thuốc cầm nôn, cầm đi ngoài",
+     "v": "c",
+     "n": "Không sử dụng thuốc cầm nôn, cầm đi ngoài (QĐ 3312/2015, mục 4.5; WHO 2013, tr. 125–126). Bé đã hết nôn."
+    },
+    {
+     "t": "Hỏi nhẹ nhàng về nỗi lo của mẹ và nói rõ: bé không nguy hiểm lúc này, đây không phải lỗi của mẹ; nhắc mẹ nghỉ ngơi, nhờ người nhà phụ trông bé",
+     "v": "c",
+     "n": "Trả lời đúng nỗi lo thật (mẹ tự trách, sợ thuốc đái tháo đường). Giao tiếp, không cần nguồn."
+    },
+    {
+     "t": "Rửa tay xà phòng sau khi chạm chó, gà, phân thú, sau thay tã, trước khi pha sữa và bế bé; tạm tách chó, gà khỏi chỗ bé bò chơi",
+     "v": "c",
+     "n": "Rửa tay sau thay tã, trước khi chuẩn bị thức ăn, sau chạm động vật hoặc phân của chúng (IDSA 2017, khuyến cáo 52); rửa tay thường xuyên khi chăm sóc trẻ, an toàn thực phẩm, nguồn nước sạch (QĐ 3312/2015, mục 6). Việc tách chó, gà khỏi chỗ bé chơi do ca đặt, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 ngày, hoặc sau 5 ngày nếu không đỡ; quay lại ngay khi có dấu hiệu nặng; nói trước là có thể còn đi ngoài lỏng vài ngày dù đã đúng thuốc",
+     "v": "c",
+     "n": "Tái khám mỗi 1–2 ngày khi điều trị ngoại trú (QĐ 4068, ô [8]; không ghi năm ban hành) hoặc sau 5 ngày nếu không đỡ (WHO 2013, Bảng 12, tr. 128). Hai mốc đến từ quy trình theo dõi sát và hướng dẫn tuyến cơ sở. Tiêu chảy cấp thường kéo dài dưới 7 ngày, không quá 14 ngày (ESPGHAN/ESPID 2014, phần Định nghĩa; QĐ 3312/2015, mục 1). Dấu hiệu quay lại: QĐ 3312, mục 5.1, 5.2."
+    },
+    {
+     "t": "Men vi sinh, diosmectit hoặc racecadotril",
+     "v": "a",
+     "n": "Không bắt buộc. WHO 2024 (khuyến cáo 4a) đề nghị không dùng probiotic ở tiêu chảy phân nước; QĐ 3312/2015 (mục 4.5: S. boulardii 200–250 mg/ngày × 5–6 ngày; racecadotril 1,5 mg/kg/lần × 3 lần/ngày, không quá 7 ngày) và ESPGHAN 2023 cho phép chọn lọc. QĐ 4068 (ô [7B]): không phối hợp diosmectit với racecadotril."
+    },
+    {
+     "t": "Cho bé ở lại phòng khám uống ORS theo Phác đồ B trong 4 giờ",
+     "v": "a",
+     "n": "Bé không mất nước nên Phác đồ A là đủ (QĐ 3312/2015, mục 4.1); theo dõi thêm vì nhũ nhi mất nước nhanh và mẹ mới biết cách làm là chấp nhận được, không bắt buộc."
+    },
+    {
+     "t": "Kê kháng sinh hoặc làm cấy phân theo yêu cầu của mẹ 'cho chắc'",
+     "v": "w",
+     "n": "Phân nước không dùng kháng sinh (WHO 2024, khuyến cáo 1a; QĐ 3312/2015, mục 4.2); cấy phân không đổi xử trí (mục 3.2)."
+    },
+    {
+     "t": "Loperamid hoặc thuốc cầm đi ngoài",
+     "v": "w",
+     "n": "Không cho trẻ dưới 18 tuổi tiêu chảy cấp dùng thuốc chống nhu động (IDSA 2017, khuyến cáo 47, mạnh); QĐ 3312/2015, mục 4.5; WHO 2013, tr. 125–126."
+    },
+    {
+     "t": "Ngưng bú mẹ hoặc pha loãng sữa công thức cho 'đỡ nặng bụng'",
+     "v": "w",
+     "n": "Phải tiếp tục bú mẹ và không pha loãng sữa (QĐ 3312/2015, mục 4.4); pha loãng làm bé đói và mất dưỡng chất."
+    },
+    {
+     "t": "Truyền tĩnh mạch",
+     "v": "w",
+     "n": "Bé không mất nước, uống tốt; truyền dịch chỉ khi mất nước nặng hoặc thất bại ORS (QĐ 3312/2015, mục 4.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng, phân nước không máu, ngày thứ 3; nghi nguồn lây từ chó con tiêu chảy và gà con (Campylobacter, Salmonella hoặc virus; không xác định tác nhân)",
+     "Không mất nước: sụt 2,3% cân (8,7 xuống 8,5 kg), tỉnh, uống bình thường, mắt không trũng, nếp véo nhanh: Phác đồ A",
+     "Đã loại trừ: tả, lỵ trực trùng, viêm ruột thừa, lồng ruột; không dấu nhiễm khuẩn ngoài ruột",
+     "Yếu tố liên quan: tiếp xúc chó con, gà con; vệ sinh tay chưa tốt; mẹ giảm bú mẹ, pha sữa loãng",
+     "Hoàn cảnh: mẹ đái tháo đường típ 2 dùng metformin, tự trách, mất ngủ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh (khởi phát, số lần và tính chất phân, nôn, đếm tã ướt, bú uống, chế độ nuôi dưỡng, thuốc đã dùng, tiếp xúc động vật, ai chăm bé); cân và khám dấu mất nước, bụng, hậu môn; không cần cận lâm sàng; phân loại mất nước; chọn phác đồ (QĐ 3312/2015, mục 3.1a–b, 3.2).",
+     "Phân loại mất nước (2 tháng–5 tuổi): nặng khi có 2 dấu trong li bì, mắt trũng, không uống được hoặc uống kém, nếp véo rất chậm; có mất nước khi có 2 dấu trong vật vã, mắt trũng, khát uống háo hức, nếp véo chậm; còn lại là không mất nước (QĐ 3312, mục 3.1c; WHO 2013, Bảng 12). Bé không có dấu nào; sụt dưới 5% (mục 3.1b).",
+     "Nguồn lây: tiếp xúc chó có tiêu chảy gợi Campylobacter, Yersinia; gia cầm con gợi Salmonella không thương hàn (IDSA 2017, Bảng 2). Mẹ có phần đúng khi nghi nhiễm khuẩn từ thú nuôi, nhưng cấy phân và kháng sinh không cần cho tiêu chảy phân nước (WHO 2024, khuyến cáo 1a). Cơ sở không có xét nghiệm nào, nên đây là quyết định thuần lâm sàng.",
+     "Loại trừ tả: không dịch tễ, phân không nước vo gạo, có sốt (QĐ 4178/2007, mục II.1a, II.1c). Loại trừ lỵ: phân không máu, không mót rặn (QĐ 5642/2015, Bệnh lỵ trực khuẩn, mục 3.1b–c). Loại trừ lồng ruột, ruột thừa: bụng mềm, không khối, không cơn khóc từng cơn (WHO 2013, Bảng 11; WSES 2025, Recommendation 3.2).",
+     "Điều làm bệnh nặng thêm là việc mẹ giảm bú và pha sữa loãng, không phải thuốc của mẹ: chỉ lộ khi hỏi cụ thể số cữ bú mẹ và cách pha sữa. Cai sữa sớm làm tăng nguy cơ tiêu chảy (QĐ 3312, mục 2.1). Quan sát một cữ bú cho thấy sữa còn nhiều, bé bú tốt: có thể bú lại ngay."
+    ],
+    "phan_tich_xu_tri": [
+     "Phác đồ A: ORS áp lực thẩm thấu thấp 50–100 ml sau mỗi lần đi ngoài (khoảng 500 ml/ngày), từng thìa; mang về nhà (QĐ 3312/2015, mục 4.1; WHO 2013, Chart 15; WHO 2024, khuyến cáo 5).",
+     "Dinh dưỡng: bú mẹ nhiều lần hơn, sữa công thức không pha loãng, ăn dặm lại bình thường (QĐ 3312, mục 4.4). Sau khi khỏi, thêm một bữa mỗi ngày trong 2 tuần (WHO 2013, tr. 134) hoặc 2–4 tuần (QĐ 3312, mục 4.4): hai cách đều đúng (sổ mâu thuẫn, TH-0665). Mẹ đái tháo đường vẫn nên cho bú (ADA 2026, khuyến cáo 15.28); an toàn riêng của metformin trong sữa không có trong tài liệu đã tải.",
+     "Kẽm 5 mg/ngày (WHO 2024) hoặc 20 mg/ngày (QĐ 3312, WHO 2013), 10–14 ngày; hai con số đều đúng, 5 mg thận trọng hơn khi bé có thể nôn lại.",
+     "Không kháng sinh (WHO 2024, khuyến cáo 1a; QĐ 3312, mục 4.2; IDSA 2017, khuyến cáo 36). Không cầm nôn, cầm tiêu (QĐ 3312, mục 4.5; IDSA 2017, khuyến cáo 47). Men vi sinh, diosmectit, racecadotril không bắt buộc (WHO 2024, khuyến cáo 4a so với QĐ 3312, mục 4.5).",
+     "Không xét nghiệm: cơ sở không làm được và cũng không đổi xử trí (QĐ 3312, mục 3.2). Khi nào mới cần cấy phân: phân máu, nghi tả, nặng kéo dài, suy giảm miễn dịch (mục 3.2); khi đó chuyển nơi có xét nghiệm.",
+     "Phòng lây: rửa tay xà phòng sau thay tã, chạm thú nuôi hoặc phân, trước khi pha sữa (IDSA 2017, khuyến cáo 52; QĐ 3312, mục 6).",
+     "Tái khám sau 2 ngày (QĐ 4068, ô [8]) hoặc 5 ngày nếu không đỡ (WHO 2013, Bảng 12); quay lại ngay khi có dấu hiệu nặng (QĐ 3312, mục 5.1, 5.2). Tiêu chảy kéo dài từ 14 ngày là bệnh khác, cần xử trí lại (QĐ 3312, Tiêu chảy kéo dài, mục 1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol áp lực thẩm thấu thấp (ORS)",
+      "ham_luong": "Gói bột pha theo hướng dẫn nhà sản xuất",
+      "lieu": "50–100 ml sau mỗi lần đi ngoài (khoảng 500 ml/ngày)",
+      "duong": "Uống từng thìa nhỏ",
+      "thoi_diem": "Sau mỗi lần đi ngoài; nôn thì nghỉ 5–10 phút rồi cho chậm hơn",
+      "so_ngay": "Đến khi hết tiêu chảy; mang về 2 gói",
+      "ghi_chu": "QĐ 3312/2015, mục 4.1 (Phác đồ A); WHO 2013, Chart 15; WHO 2024, khuyến cáo 5. Pha đúng thể tích trên gói với nước đun sôi để nguội. Thời gian giữ dung dịch đã pha không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kẽm đường uống (kẽm gluconat, quy ra kẽm nguyên tố)",
+      "ham_luong": "Theo chế phẩm",
+      "lieu": "5 mg × 1 lần/ngày (WHO 2024) hoặc 20 mg × 1 lần/ngày (QĐ 3312, WHO 2013)",
+      "duong": "Uống, hòa vào ít nước hoặc sữa vắt",
+      "thoi_diem": "Mỗi ngày một lần, cùng giờ",
+      "so_ngay": "10–14 ngày, uống đủ dù đã hết tiêu chảy",
+      "ghi_chu": "WHO 2024, khuyến cáo 3a, 3c, Remarks (gluconat ít nôn hơn); QĐ 3312/2015, mục 4.3; WHO 2013, tr. 136. Con số 5 mg thận trọng hơn. Chế phẩm cụ thể ở Việt Nam không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Cho bé uống ORS sau mỗi lần đi ngoài, từng thìa nhỏ; mẹ tập pha và cho uống ngay tại phòng khám (QĐ 3312/2015, mục 4.1).",
+     "Cho bú mẹ lại theo nhu cầu, không bớt cữ; sữa công thức pha đúng, không pha loãng; ăn dặm như thường (QĐ 3312, mục 4.4). Mẹ cứ uống thuốc đái tháo đường như bác sĩ điều trị dặn, không tự ngưng; còn lo thì hỏi thầy thuốc theo dõi đái tháo đường.",
+     "Cho kẽm mỗi ngày đủ 10–14 ngày, không bỏ khi đã hết tiêu chảy (WHO 2013, tr. 136).",
+     "Không tự cho bé uống kháng sinh, thuốc cầm tiêu hay thuốc dạ dày; xin mẹ đừng tự trách, đây không phải lỗi của mẹ.",
+     "Rửa tay xà phòng sau khi chạm chó, gà, thay tã, trước khi pha sữa và bế bé; tạm cho chó, gà ở xa chỗ bé bò chơi (IDSA 2017, khuyến cáo 52).",
+     "Quay lại ngay nếu bé không bú hoặc không uống được, nôn tất cả, đi ngoài nhiều hơn, khát nhiều, sốt cao, phân nhầy máu, li bì (QĐ 3312, mục 5.1, 5.2).",
+     "Tái khám sau 2 ngày, hoặc sau 5 ngày nếu chưa đỡ (QĐ 4068, ô [8]; WHO 2013, Bảng 12). Bé có thể còn đi ngoài lỏng vài ngày; bệnh hết dưới 14 ngày vẫn là bình thường (QĐ 3312, mục 1).",
+     "Sau khi khỏi: thêm một bữa ăn mỗi ngày trong 2 tuần hoặc 2–4 tuần (WHO 2013, tr. 134; QĐ 3312, mục 4.4); nhắc nghỉ ngơi, nhờ người nhà phụ trông bé."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé ngồi ở phòng khám uống thử ORS 3 thìa không nôn; mẹ được dạy pha, cho bé bú mẹ ngay tại chỗ, nhận 2 gói ORS, kẽm và tờ dặn, không làm xét nghiệm hay kháng sinh. Sau 2 ngày bé vẫn đi ngoài lỏng 4–5 lần/ngày nhưng ăn uống tốt, vui, cân 8,6 kg, không mất nước; mẹ đã cho bú lại đủ cữ và thú thật chuyện sợ thuốc đái tháo đường; bác sĩ giải thích bệnh còn kéo dài vài ngày là bình thường. Phân thành khuôn dần sau 8–9 ngày kể từ lúc khởi bệnh, chậm hơn mẹ tưởng (3 ngày theo mạng), không biến chứng, không cần kháng sinh. Trọng tâm dạy: quy trình chặt chẽ khi không có xét nghiệm, nhìn nhận chẩn đoán tự tra của mẹ và tìm lý do thật.",
+ "nhieu": [
+  "Chẩn đoán tự tra: nghi nhiễm khuẩn từ chó, gà là có cơ sở (IDSA 2017, Bảng 2) nhưng cấy phân, kháng sinh không đổi xử trí; bác sĩ không gạt mẹ mà giải thích.",
+  "Không có xét nghiệm nào: quyết định thuần lâm sàng bằng cân, dấu mất nước và theo dõi đáp ứng ORS; ca không cần gọi chuyển để xét nghiệm.",
+  "Mẹ giấu việc giảm bú và pha sữa loãng; chỉ lộ khi hỏi cụ thể số cữ bú và cách pha sữa.",
+  "Thuốc đái tháo đường của mẹ không liên quan bệnh của bé nhưng gây nỗi sợ; tài liệu đã tải không nói về metformin khi cho bú.",
+  "Lý do thật đến khám là tự trách, mất ngủ và cần nghe 'không phải lỗi của mẹ'."
+ ],
+ "bai_hoc_bien": [
+  "Ca đối ứng với TH-0665: cùng tiêu chảy nhũ nhi, nhưng bé này không mất nước, ve_hen với Phác đồ A, còn thử thách nằm ở chẩn đoán mẹ tự tra và nỗi sợ thuốc của mẹ.",
+  "Phân loại mất nước bằng bảng dấu hiệu và cân so với cân nặng trước bệnh: sụt dưới 5% và không đủ 2 dấu hiệu thì Phác đồ A (QĐ 3312 mục 3.1b–c, 4.1).",
+  "Không xét nghiệm, không kháng sinh khi phân nước: giải thích được vì sao, nhận phần đúng của mẹ (WHO 2024 KC 1a; QĐ 3312 mục 3.2, 4.2).",
+  "Hỏi cụ thể cữ bú và cách pha sữa: bớt bú và pha loãng sữa là lỗi hay gặp, làm nặng thêm (QĐ 3312 mục 4.4, 2.1).",
+  "Mẹ đái tháo đường vẫn nên cho bú (ADA 2026 KC 15.28); đừng hứa điều tài liệu không có (độ an toàn metformin trong sữa).",
+  "Khỏi chậm hơn dự kiến: tiêu chảy cấp có thể kéo dài tới 7 ngày, dưới 14 ngày vẫn là cấp (ESPGHAN/ESPID 2014; QĐ 3312 mục 1); nói trước với mẹ và hẹn mốc.",
+  "Mâu thuẫn nguồn ghi cả hai cách: kẽm 5 mg (WHO 2024) hoặc 20 mg (QĐ 3312); men vi sinh; mốc tái khám 2 ngày hoặc 5 ngày; thêm bữa 2 tuần hoặc 2–4 tuần."
+ ],
+ "diem_nho": [
+  "Không mất nước: sụt dưới 5%, không đủ 2 dấu hiệu nhóm có mất nước (QĐ 3312 mục 3.1b–c); Phác đồ A dưới 24 tháng: 50–100 ml ORS sau mỗi lần đi ngoài, 500 ml/ngày (mục 4.1).",
+  "Tiếp tục bú mẹ, không pha loãng sữa (QĐ 3312 mục 4.4); mẹ đái tháo đường vẫn nên cho bú (ADA 2026 KC 15.28).",
+  "Không kháng sinh cho phân nước (WHO 2024 KC 1a; QĐ 3312 mục 4.2; IDSA 2017 KC 36); có kháng sinh khi phân máu (WHO 2024 KC 2).",
+  "Kẽm 10–14 ngày: 5 mg/ngày (WHO 2024 KC 3c) hoặc 20 mg/ngày cho trẻ ≥ 6 tháng (QĐ 3312 mục 4.3).",
+  "Chó con tiêu chảy gợi Campylobacter, gia cầm con gợi Salmonella (IDSA 2017 Bảng 2); rửa tay sau chạm thú nuôi, thay tã (IDSA 2017 KC 52).",
+  "Cấy phân khi phân máu, nghi tả, nặng kéo dài, suy giảm miễn dịch (QĐ 3312 mục 3.2)."
+ ],
+ "nguon": [
+  "QĐ 3312 – Bộ Y tế, QĐ 3312/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Tiêu chảy cấp (mục 1, 2.1, 3.1a–c, 3.2, 4.1 Phác đồ A/B/C, 4.2, 4.3, 4.4, 4.5, 5.1, 5.2, 6); Tiêu chảy kéo dài (mục 1)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: Chương 5 Diarrhoea: phần mở đầu (tr. 125–126), mục 5.1, Bảng 11 (tr. 126–127), Bảng 12 (tr. 128), mục 5.2.2–5.2.3 (tr. 132–137), Chart 15 (tr. 138)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years of age – TL-0245 – ĐÃ ĐỌC: Table 2 (khuyến cáo 1a, 2, 3a, 3c, 4a, 5), Remarks của khuyến cáo 3",
+  "IDSA 2017 – Infectious Diarrhea. Clin Infect Dis 2017;65(12):e45-e80 – TL-0230 – ĐÃ ĐỌC: Table 2 (phơi nhiễm vật nuôi, gia cầm), khuyến cáo 10, 36, 47, 52",
+  "ESPGHAN/ESPID 2014 – Guarino A, et al. J Pediatr Gastroenterol Nutr 2014;59(1):132-52 – TL-0268 – ĐÃ ĐỌC: phần Định nghĩa (tiêu chảy cấp thường < 7 ngày, không quá 14 ngày)",
+  "ESPGHAN 2023 – Probiotics for the management of pediatric gastrointestinal disorders – TL-0258 – theo sổ mâu thuẫn (probiotic chọn lọc)",
+  "QĐ 4068 – Bộ Y tế, QĐ 4068/QĐ-BYT, Quy trình chuyên môn tiêu chảy cấp ở trẻ em (kho cũ tltk-10000-ca, 03 Nhi ngoại trú/BYT, năm chưa xác định) – ĐÃ ĐỌC: ô [7B], [8]",
+  "QĐ 5642 – Bộ Y tế, QĐ 5642/QĐ-BYT 2015 – TL-0038 – Bệnh lỵ trực khuẩn (mục 3.1b–c); Tiêu chảy do vi khuẩn (mục 4.2.1, theo sổ mâu thuẫn)",
+  "QĐ 4178 – Bộ Y tế, QĐ 4178/QĐ-BYT 2007, Hướng dẫn chẩn đoán và điều trị bệnh tả – TL-0176 – mục II.1a, II.1c (theo ca TH-0665)",
+  "ADA 2026 – Standards of Care in Diabetes 2026 – TL-0296 – khuyến cáo 15.28 (bú mẹ ở người đái tháo đường)",
+  "WSES 2025 – Diagnosis and Treatment of Acute Appendicitis, JAMA Surg 2026;161(3):283-295 – TL-0053 – Recommendation 3.2 (theo ca TH-0665)",
+  "Không có trong tài liệu đã tải (không dùng nguồn web): an toàn của metformin khi cho con bú; chế phẩm kẽm tại Việt Nam; thời gian giữ ORS đã pha; việc tách chó, gà khỏi chỗ bé chơi (do ca đặt); khoảng tham chiếu công thức máu nhũ nhi."
+ ],
+ "ghi_chu_bien_tap": [
+  "Ngày viết: 2026-10-26. Bản 1 (tác tử soạn TH-0623).",
+  "Tài liệu đã đọc: TL-0037 (Tiêu chảy cấp trọn bài), TL-0245 (Table 2, khuyến cáo 3), TL-0230 (Table 2, khuyến cáo 36, 47, 52), TL-0268 (phần Định nghĩa), TL-0296 (khuyến cáo 15.28), QĐ 4068 (kho cũ); các mục TL-0250, TL-0038, TL-0176, TL-0053 lấy theo ca TH-0665 đã được duyệt.",
+  "Thiết kế tự quyết (n): bé gái 10 tháng 8,5 kg (trước bệnh 8,7 kg, sụt 2,3%), không mất nước, Phác đồ A, ve_hen. Khởi phát: tiếp xúc chó con tiêu chảy, gà con. Thuốc đang dùng: mẹ đái tháo đường uống metformin. Lý do thật: mẹ tự trách, giảm bú mẹ, pha sữa loãng vì sợ thuốc. Kết cục khỏi chậm (8–9 ngày).",
+  "Không có xét nghiệm nào: khoa_cls nhóm xn; các mục xn khai v:n kèm lý do. Không dùng ảnh da.",
+  "Mâu thuẫn: dùng mục sổ có sẵn (kẽm, probiotic, mốc tái khám, thêm bữa, kháng sinh kinh nghiệm); không có mục mới.",
+  "Âm thanh: AT-TIM-NHANH-01 (mạch 118; tệp ≈115 l/p), AT-PHOI-BT-NL-01."
+ ]
+}
