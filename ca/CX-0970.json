@@ -1,0 +1,542 @@
+{
+ "ma_ca": "CX-0970",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "CX_dau_lung_co_do_nhiem_khuan_di_can",
+ "so_cai": {
+  "chuyen_khoa": "Cơ xương khớp - đau",
+  "chan_doan_dich": "Đau lưng có cờ đỏ (di căn/nhiễm trùng)",
+  "chan_doan_phai_loai_tru": [
+   "Di căn cột sống",
+   "Lao cột sống",
+   "Áp xe ngoài màng cứng"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Bảo vệ (kho hóa chất công nghiệp, trực ca đêm)",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất (sự cố rò thùng dung môi ở kho, 7 tuần trước)",
+  "thuoc_dang_dung": "Vitamin/thực phẩm chức năng (canxi + D3 + K2 con trai mua hộ, uống 5 tuần)",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc (thực phẩm chức năng và thuốc giảm đau tự mua)"
+ },
+ "benh_nhan": {
+  "ten": "Đỗ Văn Tứ",
+  "tuoi": 77,
+  "gioi": "Nam",
+  "nghe": "Bảo vệ kho hóa chất, trực ca đêm",
+  "can_nang": 54,
+  "chieu_cao": 163,
+  "xung_ho": "Bác sĩ gọi ông là 'ông' hoặc 'bác'. Ông xưng 'tôi', gọi bác sĩ là 'bác sĩ' hoặc 'cậu'; gọi con trai là 'thằng Hải'.",
+  "tinh_cach": "Lam lũ, cứng đầu, ít nói, hay tự quyết. Ngại phiền con cái nên tự ra tiệm thuốc mua thuốc. Tin 'cái gì uống vô rồi đau thì do cái đó'.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: khi hỏi thuốc thì nói 'thuốc xương khớp ngoài tiệm' và không nhớ tên, số ngày; chỉ khai rõ khi hỏi từng ý hoặc khi con trai đưa vỏ vỉ. Quả quyết thuốc bổ làm đau lưng, không muốn nghe giải thích khác nếu chưa được chứng minh bằng thời gian.",
+  "nguoi_nha": "Con trai",
+  "ten_nguoi_nha": "Đỗ Văn Hải",
+  "ngoai_hinh": {
+   "da": "#b98b62",
+   "toc": "#bdbdbd",
+   "kieuToc": "ngan",
+   "ao": "#6f7f8f",
+   "aoKieu": "somi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d1a27a",
+    "toc": "#1f1a17",
+    "kieuToc": "ngan",
+    "ao": "#4a5a6a",
+    "aoKieu": "tron",
+    "kinh": false
+   }
+  }
+ },
+ "ly_do_kham": "Đau lưng gần 2 tháng, nghi do thuốc bổ",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 77 tuổi, bảo vệ kho hóa chất làm ca đêm, đến khám cùng con trai vì đau lưng gần 2 tháng. Ông mang theo túi thuốc bổ, hỏi ngay có phải thuốc đó gây đau không. Sinh hiệu: mạch 76, HA 138/78, nhiệt 36,8 °C, nhịp thở 18, SpO2 96%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông được nhập viện nằm 4–5 ngày để 'theo dõi' trong khi chưa có chỉ định: không sốt, không dấu thần kinh, MRI làm được ngay tại cơ sở (NICE NG234 2023, khuyến cáo 1.5.3: MRI trong 1 tuần tại bệnh viện địa phương). Ông nằm lâu, mất ngủ, con trai phải nghỉ làm trông, chi phí giường cao với lương hưu thấp. Nằm bất động kéo dài ở người loãng xương còn làm mất xương thêm (QĐ 361/2014, Loãng xương mục 2.3: bất động lâu ngày là yếu tố nguy cơ).",
+    "chuyen_tuyen": "Ông bị chuyển lên bệnh viện tuyến trên chỉ để chụp MRI, đi xe 2 giờ trong khi cơ sở này chụp được. NG234 khuyến cáo 1.5.2 nói chuyển tuyến chỉ khi MRI tại chỗ không làm được. Ông phải chờ hẹn thêm vài ngày, tốn tiền đi lại, đoạn đường xóc có thể làm đốt xẹp đau thêm, và nỗi lo bệnh nặng của ông càng tăng.",
+    "cap_cuu": "Ông bị chuyển cấp cứu bằng xe cứu thương trong đêm dù không có dấu chèn ép tủy: lực cơ 5/5, tiểu tiện bình thường (NG234 2023, hộp 1). Cấp cứu, MRI trong 24 giờ dành cho nghi chèn ép tủy (khuyến cáo 1.5.2). Ông và con trai hoảng sợ, mất một đêm ở khoa cấp cứu, rồi kết quả MRI vẫn như khi làm trong tuần ở cơ sở."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đau lưng gần hai tháng nay rồi. Thằng Hải nó mua cho tôi mấy hộp thuốc bổ xương, canxi với vitamin, uống vô tôi thấy lưng đau hơn. Bác sĩ coi giùm có phải thuốc đó nó hại tôi không, hay tại cái hơi hóa chất ở chỗ làm?",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/78",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ông đau lưng gần 2 tháng. Con trai mua thuốc bổ xương cho ông uống 5 tuần nay, ông thấy 'uống vô là lưng đau hơn' nên sợ thuốc bổ hại mình. Ông còn nghi hơi hóa chất ở kho và mấy viên thuốc giảm đau tự mua. Con trai chở ông đến, bắt phải khám cho rõ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và nỗi lo thật về thuốc"
+    },
+    {
+     "id": "moc_thoi_gian",
+     "noi_dung": "Đau lưng bắt đầu TRƯỚC khi uống thuốc bổ khoảng 2 tuần. Thấy cha kêu đau lưng nên con trai mới mua canxi + D3 + K2 (thực phẩm chức năng), mỗi ngày 1 viên sáng, 1 viên tối. Sau khi uống ông không thấy đỡ nên nghĩ thuốc làm đau thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thứ tự thời gian: đau có trước thuốc bổ",
+     "dieu_kien_lo": "Chỉ kể rõ khi được hỏi đau bắt đầu lúc nào, thuốc bổ bắt đầu uống lúc nào, cái nào có trước."
+    },
+    {
+     "id": "dac_diem_dau",
+     "noi_dung": "Đau ở giữa lưng, chỗ ngang eo trên, không lan xuống chân. Đau nhói khi ho, khi từ nằm ngồi dậy, khi trở mình. Nằm yên thì dịu nhưng không hết hẳn. Cúi xuống đau nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau: khu trú, tăng khi gắng sức, nghỉ chỉ dịu một phần"
+    },
+    {
+     "id": "dem",
+     "noi_dung": "Mấy tuần nay đêm nào cũng đau thức giấc 2–3 lần, phải ngồi dậy xoa lưng một lúc mới ngủ lại được. Buổi sáng không cứng lưng kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau đêm làm mất ngủ (cờ đỏ)",
+     "dieu_kien_lo": "Chỉ kể khi được hỏi đau có làm thức giấc ban đêm không, hay nghỉ ngơi có hết đau không."
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Bảy tuần trước, ca đêm ở kho, một thùng dung môi bị rò. Ông đeo khẩu trang, xịt nước dọn sạch. Cay mắt thoáng qua, không ho, không khó thở, không phải đi viện. Đồng nghiệp cùng ca không ai bị gì. Ông nghĩ 'hít hơi hóa chất' làm ông đau lưng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc hóa chất: nhiễu do ông tự quy cho nguyên nhân",
+     "dieu_kien_lo": "Kể khi hỏi công việc, mốc khởi phát hoặc chuyện hóa chất."
+    },
+    {
+     "id": "te_nga",
+     "noi_dung": "Trong lúc dọn dẹp đó, ông trượt chân trên nền ướt, ngồi phịch xuống nền xi măng, nghe nhói lưng. Ông vẫn làm hết ca. Hôm sau đau âm ỉ, tưởng mỏi. Ông không nhắc vì cho là chuyện nhỏ, chỉ nhớ ra khi được hỏi té ngã hoặc va đập.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Chấn thương nhẹ khi té ngồi: mốc then chốt dẫn đến xẹp đốt sống",
+     "dieu_kien_lo": "Không tự kể. Chỉ khai khi được hỏi có té ngã, va đập, trượt chân, bê vác nặng ngay trước khi đau."
+    },
+    {
+     "id": "sut_can",
+     "noi_dung": "Cân nặng từ 57 kg xuống 54 kg trong 2 tháng. Ông ăn kém vì đau và vì nóng rát thượng vị mấy ngày uống thuốc giảm đau, tưởng là do tuổi.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Sụt cân khoảng 3 kg (cờ đỏ, có lời giải thích một phần)",
+     "dieu_kien_lo": "Chỉ nói khi được hỏi cân nặng, quần áo rộng ra, ăn uống thay đổi."
+    },
+    {
+     "id": "tu_dung_thuoc",
+     "noi_dung": "Ông ra tiệm thuốc tây mua 'thuốc xương khớp' dạng vỉ, không tờ hướng dẫn. Vỉ ghi diclofenac 50 mg; uống 1 viên sáng, 1 viên tối, 5 ngày, ngưng cách đây 2 ngày vì nóng rát thượng vị. Đau bớt khoảng một nửa nhưng đêm vẫn đau. Không dùng corticoid hay thuốc nam.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Thuốc giảm đau tự uống 5 ngày: che triệu chứng, tác dụng phụ tiêu hóa",
+     "dieu_kien_lo": "Không tự kể thuốc. Chỉ khai khi được hỏi thuốc đã uống hoặc tự mua; muốn biết tên thuốc, liều, số ngày thì hỏi tiếp, con trai sẽ đưa vỏ vỉ."
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Không sốt, không ớn lạnh, không vã mồ hôi đêm. Không ho, không đàm, không tiếp xúc người ho kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng nhiễm khuẩn hay lao toàn thân"
+    },
+    {
+     "id": "than_kinh",
+     "noi_dung": "Không tê hay yếu chân, đi lại như thường. Đại tiện bình thường, không tê vùng sinh dục. Tiểu đêm 2 lần, dòng hơi yếu như mấy năm nay, không bí tiểu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu chèn ép tủy/đuôi ngựa"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng bị ung thư, lao, đái tháo đường, bệnh dạ dày hay mổ cột sống. Không dùng corticoid, không thuốc huyết áp. Hút thuốc lá khoảng 30 gói-năm, bỏ 10 năm nay. Rượu bia ít. Không ai trong nhà bị loãng xương.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, yếu tố nguy cơ ung thư và loãng xương"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Làm đêm, ngủ ngày nên ít ra nắng. Ít uống sữa, ăn thịt cá ít vì lương hưu thấp, chuyển sang trực kho kiếm thêm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Yếu tố nguy cơ loãng xương: ít nắng, thiếu dinh dưỡng"
+    },
+    {
+     "id": "cay_ghep",
+     "noi_dung": "Không có máy tạo nhịp, không cấy ghép kim loại nào trong người, không sợ chỗ kín.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "An toàn khi chụp MRI"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, gầy (54 kg, cao 163 cm, BMI khoảng 20,3). Niêm mạc hồng nhạt. Không sờ thấy hạch cổ, nách, bẹn.",
+     "k": 1,
+     "hien": "Dáng gầy, tỉnh, đi lại chậm."
+    },
+    "dau_mat_co": {
+     "a": "Hạch cổ, thượng đòn không sờ thấy. Tuyến giáp không to.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn nhẹ hơi đau thượng vị, không phản ứng thành bụng, không khối, gan lách không to, không khối đập.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Gù nhẹ vùng ngực–thắt lưng. Gõ đau rõ mỏm gai L1, đau khu trú, không lan. Cơ cạnh sống co cứng ít. Cúi gập còn khoảng 40°, đau tăng khi ho. Lasègue âm tính hai bên. Khớp cùng chậu, khớp háng không đau.",
+     "k": 1,
+     "hien": "Dáng đứng hơi cúi, cúi gập hạn chế vì đau."
+    },
+    "than_kinh": {
+     "a": "Lực cơ 5/5 hai chân. Phản xạ gân gối, gân gót đối xứng, bình thường. Cảm giác nông đều, không giảm cảm giác vùng yên ngựa. Babinski âm tính.",
+     "k": 1,
+     "hien": "Dáng đi chậm nhưng vững."
+    },
+    "suc_co": {
+     "a": "Gập và duỗi háng, gối, cổ chân đều 5/5 hai bên.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Trương lực cơ thắt hậu môn bình thường. Tuyến tiền liệt to nhẹ, mềm, đều, không nhân cứng, không đau.",
+     "k": 1,
+     "hien": "Thăm trực tràng: trương lực cơ thắt bình thường."
+    },
+    "tiet_nieu": {
+     "a": "Không đau góc sườn lưng khi rung. Không cầu bàng quang.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không mụn nhọt, không áp xe, không vết tiêm chích hay vết thương hở.",
+     "k": 0,
+     "hien": "Không thấy mụn nhọt, vết thương hở."
+    },
+    "chi_duoi": {
+     "a": "Không phù, không teo cơ.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 7,6 G/L · Hb 128 g/L · TC 268 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 7.6,
+      "neu_pct": 62.0,
+      "neu": 4.71,
+      "lym_pct": 28.0,
+      "lym": 2.13,
+      "mono_pct": 8.0,
+      "mono": 0.61,
+      "eos_pct": 1.8,
+      "eos": 0.14,
+      "baso_pct": 0.2,
+      "baso": 0.02,
+      "rbc": 4.2,
+      "hgb": 128,
+      "hct": 0.388,
+      "mcv": 92.0,
+      "mch": 30.5,
+      "mchc": 330,
+      "rdw": 13.8,
+      "plt": 268
+     },
+     "n": "Thiếu máu rất nhẹ, bạch cầu bình thường: không hướng về nhiễm khuẩn cấp. Thiếu máu cũng gặp trong ung thư di căn xương (QĐ 361/2014, Ung thư di căn xương mục 2.1), nên chưa đủ để loại trừ."
+    },
+    "mau_lang": {
+     "v": "e",
+     "r": "VS giờ đầu 36 mm/giờ",
+     "ab": 1,
+     "n": "Tăng vừa. IDSA 2015 khuyến cáo 7: làm ESR và CRP nền khi nghi viêm đốt sống nhiễm khuẩn; khuyến cáo 2: đau lưng mới/nặng thêm kèm ESR hoặc CRP tăng thì phải nghĩ tới. Không có trong tài liệu đã tải ngưỡng ESR riêng cho người trên 75 tuổi."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 8 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 8
+     },
+     "n": "Tăng nhẹ, không phân biệt được nhiễm khuẩn, di căn hay gãy xương mới (QĐ 361/2014, Ung thư di căn xương mục 2.1 nêu CRP và VS cũng tăng ở di căn)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 6,3 mmol/L · Creatinin 92 µmol/L · eGFR 74 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 6.3,
+      "creat": 92,
+      "egfr": 74
+     },
+     "n": "Chức năng thận còn tốt: loại ý nghĩ 'hóa chất hại thận', và cần cho chọn thuốc (bisphosphonat chống chỉ định khi GFR < 35 mL/phút, QĐ 361/2014, Loãng xương mục 4.2)."
+    },
+    "canxi": {
+     "v": "e",
+     "r": "Canxi toàn phần 2,31 mmol/L",
+     "n": "Bình thường: không gợi tăng calci máu do di căn xương hủy xương hay đa u tủy (QĐ 361/2014, Ung thư di căn xương mục 2.1)."
+    },
+    "chuc_nang_gan": {
+     "v": "u",
+     "r": "Bilirubin toàn phần 12 · trực tiếp 3 µmol/L · ALP 92 U/L · GGT 28 U/L · Albumin 40 g/L · INR 1,0",
+     "n": "ALP bình thường (ALP tăng gặp trong di căn xương, QĐ 361/2014, Ung thư di căn xương mục 2.1); albumin bình thường."
+    },
+    "psa": {
+     "v": "e",
+     "r": "PSA toàn phần 2,4 ng/mL",
+     "n": "Tuyến tiền liệt là nguồn hay di căn xương cột sống ở nam (QĐ 361/2014, Ung thư di căn xương mục 1; PSA nằm trong các marker, mục 2.1). Không có trong tài liệu đã tải ngưỡng PSA cụ thể theo tuổi; kết quả chỉ làm giảm nghi ngờ, không loại trừ."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Không protein · Không glucose · Không hồng cầu · Không bạch cầu",
+     "n": "Trả lời trực tiếp nỗi lo 'hóa chất hại thận'; rẻ, nhưng không đổi hướng xử trí về cột sống."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "Hai phế trường sáng, không nốt, không khối, không thâm nhiễm, góc sườn hoành nhọn",
+     "n": "Tìm ổ nguyên phát ở phổi (hút thuốc 30 gói-năm) và tổn thương lao; hợp lý nhưng âm tính không loại trừ (QĐ 162/2024, Danh mục kỹ thuật chẩn đoán mục 2.1–2.4 dùng X-quang để tìm lao)."
+    },
+    "xq_cot_song": {
+     "v": "u",
+     "r": "Thân L1 hình chêm, chiều cao phía trước giảm khoảng 30%. Các đốt khác đủ chiều cao, khe đĩa còn, không thấy ổ tiêu xương rõ. Thoái hóa nhẹ L4–L5.",
+     "ab": 1,
+     "n": "Thấy xẹp nhưng không nói được xẹp do loãng xương hay do bệnh lý ác tính/nhiễm khuẩn. NICE NG234 2023 khuyến cáo 1.5.9: không chụp X-quang thường quy để chẩn đoán hay loại trừ di căn; QĐ 361/2014 (Ung thư di căn xương mục 2.1) cũng nói tổn thương thấy được trên X-quang thường đã muộn. Không thay được MRI."
+    },
+    "mri_cot_song": {
+     "v": "e",
+     "r": "MRI cột sống ngực–thắt lưng: xẹp thân L1 hình chêm khoảng 30%, phù tủy xương dưới mâm trên, mỡ tủy xương các phần còn lại giữ tín hiệu; bờ sau không lồi vào ống sống, tủy và đuôi ngựa không bị chèn ép. Không có khối mô mềm cạnh sống hay ngoài màng cứng, không tụ dịch, không tổn thương đốt sống khác. Đĩa đệm T12–L1, L1–L2 bình thường (không viêm đĩa đệm–đốt sống). Thoái hóa nhẹ L4–L5. Kết luận: xẹp L1 mới, hình ảnh phù hợp loãng xương; không thấy di căn, lao hay áp xe.",
+     "ab": 1,
+     "n": "Xét nghiệm quyết định. NICE NG234 2023 khuyến cáo 1.5.3: nghi di căn không nghi chèn ép thì MRI trong 1 tuần tại bệnh viện địa phương; IDSA 2015 khuyến cáo 8: MRI cột sống khi nghi viêm đốt sống nhiễm khuẩn; QĐ 361/2014 (Ung thư di căn xương mục 2.1): MRI có giá trị nhất khi di căn cột sống. Tiêu chí hình ảnh phân biệt xẹp lành và ác tính không có trong tài liệu đã tải; kết luận do bác sĩ chẩn đoán hình ảnh."
+    },
+    "igra": {
+     "v": "n",
+     "r": "Âm tính",
+     "n": "Không cần ở ca này: không ho, không sốt, không tiếp xúc lao, MRI không có hình ảnh viêm đĩa đệm–đốt sống. IDSA 2015 khuyến cáo 12 chỉ đề xuất IGRA/PPD cho viêm đốt sống bán cấp có nguy cơ lao."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau lưng có cờ đỏ (tuổi 77, đau đêm, đau khu trú, sụt cân, VS tăng) đã được sàng lọc bằng MRI: nguyên nhân là xẹp lún thân L1 mới do loãng xương, không có di căn cột sống, lao hay nhiễm khuẩn; chưa có chèn ép tủy",
+     "ok": 1,
+     "n": "Cờ đỏ: đau đêm làm mất ngủ, đau tăng khi gắng sức, đau tiến triển, ấn đau khu trú (NICE NG234 2023, hộp 1); tuổi trên 75 là yếu tố làm tăng nguy cơ nhưng ngưỡng tuổi cờ đỏ không có trong tài liệu đã tải; sụt cân, đau không hết khi nghỉ (QĐ 361/2014, Hội chứng đau thắt lưng mục 3.1). Nguyên nhân lành tính chỉ được chấp nhận sau khi MRI loại trừ ba nhóm (NG59 2020 khuyến cáo 1.1.1). Gợi ý nghiêng về xẹp do loãng xương: té ngồi trước khi đau, gõ đau L1, gù nhẹ, CTM-canxi-ALP-PSA không gợi ác tính (QĐ 361/2014, Loãng xương mục 3.1: gãy đốt sống sau chấn thương rất nhẹ)."
+    },
+    {
+     "t": "Di căn cột sống",
+     "n": "Đã loại trừ: MRI không có khối hay tổn thương tiêu xương, mỡ tủy xương các đốt khác giữ; canxi, ALP, PSA bình thường, X-quang ngực sạch. Nguy cơ ban đầu có thật (nam, 77 tuổi, hút thuốc, sụt cân, thiếu máu nhẹ; phổi và tiền liệt tuyến là nguồn thường gặp, QĐ 361/2014, Ung thư di căn xương mục 1). Chưa có chèn ép tủy nên MRI trong 1 tuần là đủ (NG234 khuyến cáo 1.5.3); nếu MRI có tổn thương nghi ác tính thì phải chuyển đánh giá ung bướu khẩn (khuyến cáo 1.3.5)."
+    },
+    {
+     "t": "Lao cột sống (bệnh Pott)",
+     "n": "Đã loại trừ: không ho, sốt, tiếp xúc lao; X-quang ngực sạch; MRI đĩa đệm cạnh L1 bình thường, không áp xe cạnh sống. Lao cột sống là viêm đĩa đệm–đốt sống đau kiểu viêm, kèm dấu toàn thân (QĐ 361/2014, Thoái hóa cột sống thắt lưng mục 3.4); cần MRI (QĐ 162/2024, Danh mục kỹ thuật mục 2.4–2.6)."
+    },
+    {
+     "t": "Áp xe ngoài màng cứng / viêm đĩa đệm–đốt sống nhiễm khuẩn",
+     "n": "Đã loại trừ: không sốt, không cửa vào nhiễm khuẩn (da, tiêm chích, thủ thuật), bạch cầu bình thường, MRI không có tụ dịch ngoài màng cứng hay viêm đĩa. Đau lưng mới kèm CRP/VS tăng buộc phải nghĩ tới (IDSA 2015 khuyến cáo 2) nên mới có chỉ định MRI (khuyến cáo 8)."
+    },
+    {
+     "t": "Chèn ép tủy / hội chứng đuôi ngựa",
+     "n": "Không có: lực cơ 5/5, phản xạ bình thường, không tê vùng yên ngựa, tiểu tiện–đại tiện không đổi, MRI không chèn ép (NG234 2023, hộp 1 liệt kê dấu hiệu). Nếu xuất hiện thì đây là cấp cứu, MRI trong 24 giờ (khuyến cáo 1.5.2)."
+    },
+    {
+     "t": "Đa u tủy xương",
+     "n": "Ít nghĩ: canxi, creatinin bình thường, MRI chỉ có một đốt xẹp. QĐ 361/2014 (Hội chứng đau thắt lưng mục 3.2) nhắc bilan đa u tủy khi nghi đau lưng triệu chứng; bilan này không có trong danh mục và không có trong tài liệu đã tải tiêu chuẩn chi tiết. Nếu thiếu máu không hồi phục hoặc thêm xẹp đốt mới thì làm tiếp."
+    },
+    {
+     "t": "Đau lưng cơ học / thoái hóa cột sống thuần túy",
+     "n": "Không đủ giải thích: thoái hóa đơn thuần không có sút cân, thiếu máu (QĐ 361/2014, Thoái hóa cột sống thắt lưng mục 3.1) và đau theo kiểu cơ học, nghỉ đỡ (Hội chứng đau thắt lưng mục 3.3); ông đau đêm, đau cả khi nghỉ, có đốt xẹp mới. Thoái hóa L4–L5 chỉ là bệnh kèm."
+    },
+    {
+     "t": "Tác dụng phụ của thuốc bổ, hơi hóa chất hay diclofenac gây đau lưng",
+     "n": "Không phải nguyên nhân đau: đau có trước thuốc bổ 2 tuần; không ho hay khó thở sau tiếp xúc, thận và nước tiểu bình thường. Diclofenac chỉ gây nóng rát thượng vị (AGS Beers 2023 Bảng 2: nguy cơ chảy máu và loét ở người trên 75 tuổi). Mối liên quan nhân quả giữa canxi/vitamin thực phẩm chức năng hay hơi dung môi với đau lưng không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chỉ định MRI cột sống ngực–thắt lưng ngay (trong tuần) và làm tại cơ sở, không dừng ở X-quang",
+     "v": "c",
+     "n": "NICE NG234 2023 khuyến cáo 1.5.3: MRI trong 1 tuần tại bệnh viện địa phương (tài liệu viết cho người có hoặc nghi ung thư; ông chưa có chẩn đoán ung thư nên áp dụng theo tinh thần); khuyến cáo 1.5.9: không dùng X-quang thường quy để loại trừ di căn. IDSA 2015 khuyến cáo 8: MRI khi nghi viêm đốt sống. NG59 2020 khuyến cáo 1.1.4 (không chụp thường quy ở cơ sở không chuyên) chỉ áp dụng cho đau lưng không đặc hiệu, loại trừ bệnh nặng trước (khuyến cáo 1.1.1)."
+    },
+    {
+     "t": "Làm bộ xét nghiệm nền: công thức máu, VS, CRP, creatinin–eGFR, canxi, ALP, PSA",
+     "v": "c",
+     "n": "IDSA 2015 khuyến cáo 7 (ESR, CRP nền); QĐ 361/2014, Ung thư di căn xương mục 2.1 (CTM, VS, CRP, phosphatase kiềm, canxi, marker PSA) và Loãng xương mục 3.6 (loãng xương thứ phát). Creatinin để chọn thuốc loãng xương và NSAID."
+    },
+    {
+     "t": "Hỏi kỹ thuốc đã uống (tên, liều, số ngày), thứ tự thời gian đau–thuốc bổ, và té ngã; ngừng hẳn diclofenac, không kê NSAID khác",
+     "v": "c",
+     "n": "Diclofenac, NSAID không chọn lọc: tránh dùng kéo dài ở người trên 75 tuổi, nguy cơ chảy máu tiêu hóa và loét (AGS Beers 2023 Bảng 2); QĐ 361/2014 Phụ lục NSAID mục 3.3: người cao tuổi, gầy yếu thì tránh NSAID nếu có thể, dùng acetaminophen dưới 3 g/ngày."
+    },
+    {
+     "t": "Giảm đau bằng paracetamol 500 mg, tối đa 2 g/ngày (dưới 3 g/ngày)",
+     "v": "c",
+     "n": "QĐ 361/2014 Loãng xương mục 4.3: giảm đau theo bậc thang WHO khi mới lún xẹp đốt sống; Phụ lục NSAID mục 3.3: người cao tuổi gầy yếu thì acetaminophen dưới 3 g/ngày; Ung thư di căn xương mục 3.2: bậc 1 tối đa 4000 mg/ngày. Con số 4 g chung cho người lớn, 3 g cho người cao tuổi gầy yếu; ca chọn mức thận trọng hơn. Kê đến 4 g/ngày chấm a."
+    },
+    {
+     "t": "Điều trị loãng xương: canxi + vitamin D, và bisphosphonat (alendronat 70 mg mỗi tuần, hoặc zoledronic acid 5 mg truyền một lần mỗi năm)",
+     "v": "c",
+     "n": "QĐ 361/2014 Loãng xương mục 4.2: canxi 500–1500 mg/ngày, vitamin D 800–1000 UI/ngày; bisphosphonat là lựa chọn đầu tiên, chống chỉ định khi GFR dưới 35 mL/phút. Mục 4.4: nam trên 60 tuổi gãy đốt sống do chấn thương nhẹ có thể điều trị mà không cần đo mật độ xương. Alendronat kích ứng tiêu hóa nên bắt đầu sau khi hết nóng rát thượng vị (thời điểm cụ thể là phán đoán của ca)."
+    },
+    {
+     "t": "Giải thích nỗi lo: thuốc bổ và hóa chất không phải nguyên nhân, đau có trước thuốc; tiếp tục canxi–D3 đang dùng nhưng chỉnh liều theo nhãn",
+     "v": "c",
+     "n": "Dựa vào mốc thời gian và kết quả xét nghiệm. Tác dụng phụ của thực phẩm chức năng cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại hoặc cấp cứu ngay (yếu hoặc tê chân, tê vùng sinh dục–hậu môn, bí tiểu hoặc tiểu không tự chủ, đau tăng dữ dội, sốt); tránh té ngã, hạn chế bê vác; hẹn tái khám sau 2 tuần",
+     "v": "c",
+     "n": "Dấu hiệu chèn ép tủy: NG234 2023 hộp 1 (chi tiết dặn dò cụ thể cho người chưa chẩn đoán ung thư không có trong tài liệu đã tải). Tránh té ngã, tăng vận động: QĐ 361/2014, Loãng xương mục 4.1. Mốc 2 tuần là thiết kế của ca; không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Calcitonin xịt mũi 200 UI/ngày trong 2–4 tuần cho đau do gãy mới",
+     "v": "a",
+     "n": "QĐ 361/2014 Loãng xương mục 4.2 và 4.3: chỉ định ngắn ngày khi mới gãy xương có đau. Không bắt buộc; ca ưu tiên paracetamol vì đã có cách đủ giảm đau."
+    },
+    {
+     "t": "Chỉ chụp X-quang thấy xẹp L1 rồi kết luận loãng xương, kê thuốc, không làm MRI",
+     "v": "w",
+     "n": "Bỏ sót cờ đỏ: X-quang không loại trừ được di căn hay nhiễm khuẩn (NG234 khuyến cáo 1.5.9; QĐ 361/2014 Hội chứng đau thắt lưng mục 3.1 nêu cần thăm dò chuyên sâu khi có dấu hiệu toàn thân)."
+    },
+    {
+     "t": "Kê tiếp diclofenac hoặc NSAID khác (meloxicam, celecoxib) để giảm đau",
+     "v": "w",
+     "n": "Ông đã nóng rát thượng vị sau 5 ngày, tuổi trên 75, gầy: nguy cơ tiêu hóa cao (AGS Beers 2023 Bảng 2; QĐ 361/2014 Phụ lục NSAID mục 3.3). NG59 2020 khuyến cáo 1.2.22 chỉ áp dụng cho đau lưng không đặc hiệu."
+    },
+    {
+     "t": "Cho kháng sinh phổ rộng hoặc thuốc kháng lao theo kinh nghiệm khi chưa có chẩn đoán",
+     "v": "h",
+     "n": "Không có chỉ định: không sốt, huyết động và thần kinh ổn định. IDSA 2015 khuyến cáo 24: giữ kháng sinh đến khi có chẩn đoán vi sinh khi thần kinh và huyết động ổn; MRI không có hình ảnh nhiễm khuẩn."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau lưng có cờ đỏ (77 tuổi, đau đêm, đau khu trú L1, sụt cân 3 kg, thiếu máu nhẹ, VS 36, CRP 8), đã sàng lọc bằng MRI",
+     "Xẹp lún thân L1 mới do loãng xương, sau chấn thương nhẹ (té ngồi khi dọn hóa chất); không có di căn cột sống, lao cột sống hay áp xe ngoài màng cứng; không chèn ép tủy",
+     "Thoái hóa nhẹ L4–L5; thiếu máu rất nhẹ (Hb 128 g/L), cần theo dõi",
+     "Nóng rát thượng vị sau 5 ngày tự uống diclofenac (đã ngừng)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: đặc điểm đau (khởi phát, ngày–đêm, nghỉ ngơi), sốt–sụt cân–ho, thần kinh–cơ tròn, tiền sử ung thư–lao–hút thuốc, THUỐC ĐÃ UỐNG và thứ tự thời gian, té ngã–va đập, hóa chất; sau đó khám cột sống–thần kinh–thăm trực tràng, rồi xét nghiệm.",
+     "Vì sao là cờ đỏ chứ không phải đau lưng cơ học: đau đêm làm mất ngủ, đau tăng khi ho, gõ đau khu trú, sụt cân; cơ học thật thì nghỉ ngơi đỡ, toàn thân không đổi, xét nghiệm viêm âm tính (QĐ 361/2014, Hội chứng đau thắt lưng mục 3.3; NICE NG234 2023, hộp 1).",
+     "Vì sao phải loại trừ ba nhóm trước khi gọi là loãng xương: di căn (nguồn phổi–tiền liệt; QĐ 361/2014, Ung thư di căn xương mục 1, 2.1), lao và vi khuẩn sinh mủ (Thoái hóa cột sống thắt lưng mục 3.4; IDSA 2015 khuyến cáo 1–2). Xét nghiệm máu và X-quang không phân biệt được; MRI mới trả lời (NG234 khuyến cáo 1.5.3; IDSA khuyến cáo 8).",
+     "Vì sao ca này nghiêng về xẹp do loãng xương: chấn thương nhẹ ngày khởi phát (không được ông tự kể), gõ đau đúng L1, CTM–canxi–ALP–PSA không gợi ác tính; gãy đốt sống sau chấn thương rất nhẹ là biểu hiện của loãng xương (QĐ 361/2014, Loãng xương mục 3.1). Yếu tố nguy cơ: tuổi cao, gầy, hút thuốc, ít nắng, ăn ít calci (Loãng xương mục 2.3).",
+     "Đối chiếu nỗi lo của ông: đau có trước thuốc bổ 2 tuần; thận–nước tiểu bình thường nên không có dấu hiệu 'hóa chất hại thận'; diclofenac chỉ để lại nóng rát thượng vị và có thể làm đỡ đau tạm nên che dấu hiệu (Beers 2023 Bảng 2).",
+     "Applicability note (nhóm trên 75 tuổi): NICE NG234 2023 và IDSA 2015 không tách riêng người rất cao tuổi; ngưỡng ESR/CRP/PSA riêng cho tuổi này không có trong tài liệu đã tải. Ca vì vậy dùng bộ cờ đỏ và MRI như người trẻ hơn, nhưng thận trọng hơn khi chọn thuốc (thận, tiêu hóa)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chọn MRI trong tuần tại chỗ vì nguồn lực đầy đủ và chưa có chèn ép tủy (NG234 khuyến cáo 1.5.3). Chuyển tuyến hay nhập viện không cần thiết khi MRI làm được tại chỗ (khuyến cáo 1.5.2 chỉ chuyển khi không có MRI tại chỗ). Không chụp X-quang thay MRI (khuyến cáo 1.5.9).",
+     "Không làm IGRA, cấy máu, procalcitonin: không sốt, không dấu lao, không nhiễm khuẩn huyết; IDSA 2015 khuyến cáo 7, 12 chỉ cho bối cảnh nghi viêm đốt sống hoặc nguy cơ lao. Không làm DXA hôm nay: nam trên 60 tuổi gãy đốt sống do chấn thương nhẹ có thể điều trị không cần đo (QĐ 361/2014, Loãng xương mục 4.4).",
+     "Giảm đau: paracetamol là lựa chọn an toàn nhất lúc này; NSAID bị loại vì tuổi, gầy yếu, đã có triệu chứng dạ dày (Beers 2023 Bảng 2; QĐ 361/2014 Phụ lục NSAID mục 3.3). Hai nguồn QĐ 361 cho trần 4 g/ngày (người lớn chung) và dưới 3 g/ngày (người cao tuổi, gầy yếu); chọn 2 g/ngày vì thận trọng hơn.",
+     "Điều trị loãng xương ngay vì đã có gãy xương (QĐ 361/2014, Loãng xương mục 4.2, 4.4): canxi + D3 điều chỉnh liều, alendronat sau khi hết nóng rát; eGFR 74 vượt ngưỡng 35. Thời gian điều trị 3–5 năm rồi đánh giá lại, đo DXA mỗi 2 năm (mục 5).",
+     "Dặn dấu hiệu chèn ép tủy vì xẹp đốt sống mới có thể còn lún thêm (dấu hiệu theo NG234 hộp 1; xẹp đốt sống còn lún thêm là suy luận của ca, không có trong tài liệu đã tải); hẹn tái khám 2 tuần để xem đau–cân nặng–Hb và quyết định bắt đầu alendronat (mốc 2 tuần là thiết kế của ca)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi 6 giờ khi đau, tối đa 4 viên/ngày (2 g)",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau",
+      "so_ngay": "2 tuần, đến lần tái khám",
+      "ghi_chu": "QĐ 361/2014 Phụ lục NSAID mục 3.3 (người cao tuổi gầy yếu: acetaminophen < 3 g/ngày) và Loãng xương mục 4.3 (bậc thang WHO). Trần 4 g/ngày theo Ung thư di căn xương mục 3.2 cho người lớn nói chung; chọn 2 g vì thận trọng hơn."
+     },
+     {
+      "thuoc": "Canxi 500 mg + vitamin D3 400 UI (thực phẩm chức năng ông đang dùng; đọc lại nhãn để chắc hàm lượng)",
+      "ham_luong": "Canxi 500 mg + D3 400 UI/viên",
+      "lieu": "1 viên × 2 lần/ngày (canxi 1000 mg, D3 800 UI)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối, sau ăn",
+      "so_ngay": "Dùng lâu dài, suốt quá trình điều trị",
+      "ghi_chu": "QĐ 361/2014 Loãng xương mục 4.2: canxi 500–1500 mg/ngày, vitamin D 800–1000 UI/ngày; mục 4.1: tổng canxi 1000–1500 mg/ngày gồm cả thức ăn. Hàm lượng thật của sản phẩm cần đọc từ nhãn; không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Alendronat",
+      "ham_luong": "70 mg",
+      "lieu": "1 viên mỗi tuần, cùng một ngày cố định",
+      "duong": "Uống",
+      "thoi_diem": "Sáng sớm lúc đói, uống với nhiều nước, không nằm trong 30 phút sau uống; bắt đầu sau khi hết nóng rát thượng vị (dự kiến tại lần tái khám 2 tuần)",
+      "so_ngay": "3–5 năm, sau đó đánh giá lại",
+      "ghi_chu": "QĐ 361/2014 Loãng xương mục 4.2 (liều, cách uống; chống chỉ định GFR < 35 mL/phút; tác dụng phụ viêm thực quản, loét dạ dày) và mục 5 (thời gian). Thay thế: zoledronic acid 5 mg truyền một lần mỗi năm nếu không dung nạp đường uống (cùng mục 4.2)."
+     }
+    ],
+    "dan_do": [
+     "Ngừng hẳn thuốc 'xương khớp' mua ở tiệm; không tự mua thuốc giảm đau, thuốc nam hay thuốc xoa trước khi hỏi bác sĩ. Mang toàn bộ hộp thuốc, kể cả thuốc bổ, mỗi lần tái khám.",
+     "Thuốc bổ canxi–D3 không phải nguyên nhân gây đau; đau của ông có trước khi uống. Cứ uống đều theo liều bác sĩ ghi.",
+     "Quay lại hoặc đi cấp cứu ngay khi: yếu hoặc tê một hay hai chân, tê vùng sinh dục–hậu môn, bí tiểu hoặc tiểu không tự chủ, đau tăng dữ dội, sốt (NICE NG234 2023, hộp 1).",
+     "Tránh té ngã (nền ướt, trượt chân), tránh bê vác nặng, xin đổi sang ca ngày hoặc việc nhẹ; tăng vận động nhẹ dần khi đỡ đau (QĐ 361/2014, Loãng xương mục 4.1). Chi tiết thời gian nghỉ làm không có trong tài liệu đã tải.",
+     "Ăn đủ canxi từ thức ăn và sữa; hạn chế thuốc lá, rượu, cà phê (QĐ 361/2014, Loãng xương mục 4.1).",
+     "Tái khám sau 2 tuần (mốc thiết kế của ca): xem đau, cân nặng, công thức máu, quyết định bắt đầu alendronat. Đo DXA khi thuận tiện sau đó (QĐ 361/2014, Loãng xương mục 4.4)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Tứ làm MRI ngay tại cơ sở, được giải thích kết quả, và nhận canxi–D3 cùng paracetamol. Hai tuần sau, hết nóng rát thượng vị, ông bắt đầu alendronat; đau giảm còn nhẹ, ngủ được cả đêm. Sau tám tuần ông tăng được 1 kg, Hb lên 133 g/L, không có dấu thần kinh. Ông xin chuyển sang trực ban ngày ở cổng kho và không còn nghi thuốc bổ. Ghi chú: đây là diễn tiến thiết kế của ca, không phải số liệu từ tài liệu.",
+ "nhieu": [
+  "Tự uống diclofenac 5 ngày không tên: đỡ đau một nửa, che dấu hiệu, gây nóng rát thượng vị; chỉ lộ khi hỏi thuốc tự mua.",
+  "Thuốc bổ canxi–D3–K2: ông quy cho nó gây đau, nhưng đau có trước 2 tuần; đây là nhiễu về thứ tự thời gian.",
+  "Hơi hóa chất ở kho: nhiễu, không ho–khó thở sau tiếp xúc, thận bình thường; thực chất sự cố là cơ hội té ngồi gây xẹp đốt sống.",
+  "Sụt 3 kg và thiếu máu rất nhẹ: dễ bị quy là 'do tuổi' hay 'do thuốc dạ dày', nhưng vẫn là cờ đỏ phải loại trừ ác tính.",
+  "Ông không tự kể chuyện té ngồi: chỉ lộ khi hỏi té ngã, va đập."
+ ],
+ "bai_hoc_bien": [
+  "Tự uống thuốc trước 5 ngày: hỏi đủ tên–liều–số ngày; NSAID làm đỡ đau, che triệu chứng và gây tác dụng phụ ở người trên 75 tuổi.",
+  "Nguồn lực đầy đủ không có nghĩa là làm hết: MRI có chỉ định rõ; IGRA, cấy máu, procalcitonin, DXA hôm nay không đổi hướng xử trí.",
+  "Cờ đỏ ở người rất cao tuổi: MRI là xét nghiệm quyết định, X-quang không loại trừ được; kết cục tốt không có nghĩa bỏ qua bước này.",
+  "Nỗi lo thật về thuốc phải được trả lời bằng mốc thời gian và kết quả xét nghiệm, không chỉ trấn an."
+ ],
+ "diem_nho": [
+  "Nghi di căn cột sống không nghi chèn ép: MRI trong 1 tuần tại bệnh viện địa phương; nghi chèn ép tủy: trong 24 giờ; không dùng X-quang thường quy để loại trừ di căn (NICE NG234 2023, khuyến cáo 1.5.2, 1.5.3, 1.5.9).",
+  "Đau lưng mới kèm ESR/CRP tăng thì nghĩ viêm đốt sống nhiễm khuẩn; làm cấy máu 2 bộ, ESR, CRP, MRI (IDSA 2015, khuyến cáo 2, 7, 8).",
+  "Gãy đốt sống sau chấn thương rất nhẹ là biểu hiện của loãng xương; nam trên 60 tuổi có thể điều trị mà không cần đo mật độ xương (QĐ 361/2014, Loãng xương mục 3.1, 4.4).",
+  "Người cao tuổi gầy yếu: tránh NSAID, paracetamol dưới 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3; AGS Beers 2023 Bảng 2).",
+  "Alendronat 70 mg mỗi tuần, chống chỉ định khi GFR < 35 mL/phút, uống lúc đói với nhiều nước, không nằm 30 phút (QĐ 361/2014, Loãng xương mục 4.2)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – Hội chứng đau thắt lưng mục 2.2, 3.1–3.3; Thoái hóa cột sống thắt lưng mục 3.1, 3.4; Loãng xương mục 2.3, 3.1, 3.6, 4.1–4.4, 5; Ung thư di căn xương mục 1, 2.1, 3.2; Phụ lục NSAID mục 3.3.",
+  "Bộ Y tế – QĐ 162/QĐ-BYT 2024, Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao – TL-0123 – Danh mục kỹ thuật chẩn đoán mục 2.1–2.6.",
+  "NICE NG234 2023, Spinal metastases and metastatic spinal cord compression – TL-0361 – hộp 1, khuyến cáo 1.3.5, 1.5.2, 1.5.3, 1.5.9.",
+  "IDSA 2015, Berbari et al., Native vertebral osteomyelitis – TL-0388 – khuyến cáo 1–2, 7–8, 12, 24.",
+  "NICE NG59 2020 (bản cập nhật 2026), Low back pain and sciatica in over 16s – TL-0372 – khuyến cáo 1.1.1, 1.1.4, 1.2.22.",
+  "AGS Beers Criteria 2023 – TL-0022 – Bảng 2 (NSAID không chọn lọc, diclofenac, nguy cơ ở người trên 75 tuổi)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: 2026-11-04. Tài liệu đã đọc: TL-0286 (Hội chứng đau thắt lưng; Thoái hóa cột sống thắt lưng 3.1–3.4; Loãng xương 2.3–5; Ung thư di căn xương 1–3.2; Phụ lục NSAID 3.3), TL-0361 (1.3, 1.5, hộp 1), TL-0388 (khuyến cáo 1–36), TL-0372 (1.1, 1.2.22–1.2.26), TL-0022 (Bảng 2), TL-0123 (Danh mục kỹ thuật 2.1–2.6).",
+  "Thiết kế: chẩn đoán đích 'Đau lưng có cờ đỏ' được chốt bằng MRI tại chỗ (nguồn lực đầy đủ), kết quả là xẹp L1 do loãng xương, loại trừ cả ba chẩn đoán phải loại; co_co_do = Không hiểu là không có dấu thần kinh/chèn ép khẩn. Chi tiết té ngồi khi dọn hóa chất, hóa chất là nhiễu; kiểu biến 'hóa chất' và 'thuốc bổ' đều có chỗ đứng thật. Người bệnh nam 77 tuổi vẫn đi làm bảo vệ vì lương hưu thấp.",
+  "Thiếu tài liệu: ngưỡng ESR/CRP/PSA theo tuổi; tiêu chí MRI phân biệt xẹp lành–ác tính; tác dụng phụ của thực phẩm chức năng canxi–D3–K2 và của hơi dung môi; thời gian nghỉ làm và mốc tái khám 2 tuần; hàm lượng thật của sản phẩm thực phẩm chức năng. Các chỗ này ghi 'không có trong tài liệu đã tải'.",
+  "Không có mâu thuẫn mới. Áp dụng mục đã có: paracetamol liều tối đa ở người cao tuổi (< 3 g/ngày). NG59 1.2.26 (không paracetamol đơn độc) áp dụng cho đau lưng không đặc hiệu, không áp dụng cho đau do gãy đốt sống nghi ngờ bệnh nặng; QĐ 361 Loãng xương 4.3 cho thang giảm đau."
+ ]
+}
