@@ -1,0 +1,774 @@
+{
+ "ma_ca": "TH-0673",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_tieu_chay_cap_nhiem_trung",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Tiêu chảy cấp nhiễm trùng",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lỵ trực trùng",
+   "Viêm ruột thừa"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Sau ăn quá nhiều đạm",
+  "thuoc_dang_dung": "Paracetamol liều thông thường",
+  "ly_do_that_su_den_kham": "Lo lắng về khả năng sinh sản"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Kim Oanh",
+  "tuoi": 42,
+  "gioi": "Nữ",
+  "nghe": "Bán tạp hóa nhỏ ở chợ xã",
+  "can_nang": 55,
+  "chieu_cao": 156,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị xưng 'tôi', gọi 'bác sĩ'; khi lo thì nói nhỏ lại và xưng 'em'.",
+  "tinh_cach": "Nhanh nhẹn, nói to, quen mặc cả; việc gì cũng muốn xong sớm vì không có người bán thay. Hay tự mua thuốc, ngại phiền người khác. Giấu nỗi lo thầm kín về chuyện con cái, chỉ nói khi thấy bác sĩ chịu lắng nghe.",
+  "kieu_nhieu": "Ở xa, khó tái khám: nhà cách phòng khám 28 km, xe khách mỗi ngày một chuyến, đi xe máy hơn một giờ, quầy tạp hóa không ai trông thay. Chị gật đầu với mọi lịch hẹn rồi âm thầm không quay lại; chỉ kể rõ khi bác sĩ hỏi nhà ở đâu, đi bằng gì, có điện thoại không.",
+  "nguoi_nha": "Chồng, anh Hậu, 45 tuổi, bán hàng ở chợ khác, chở chị đến ở lượt 2 (lượt 1 chị đi một mình). Anh chỉ biết chị sốt, đi ngoài, nôn nhiều; không rõ bữa ăn, thuốc, kỳ kinh. Anh hay giục 'nằm viện cho chắc'.",
+  "ten_nguoi_nha": "Chồng (anh Hậu)",
+  "ngoai_hinh": {
+   "da": "#d8a981",
+   "toc": "#2a2420",
+   "kieuToc": "dai",
+   "ao": "#8aa17d",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#c99a74",
+    "toc": "#1f1a17",
+    "kieuToc": "ngan",
+    "ao": "#6b7d8f",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đau quặn bụng, đi ngoài lỏng hai ngày",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không có máy siêu âm (nên cũng không làm CT, nội soi); có xét nghiệm cơ bản (công thức máu, ure – creatinin, điện giải, CRP, nước tiểu, soi phân), que thử thai, X-quang bụng và điện tim. Cấy phân gửi bệnh viện huyện cách 2 km, kết quả sau 2–3 ngày; bệnh viện huyện có siêu âm và giường truyền dịch."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày thứ 2 của bệnh",
+   "tiep_don": "Chị Lê Thị Kim Oanh, 42 tuổi, bán tạp hóa nhỏ ở chợ xã, đi một mình, vốn khỏe mạnh, đến vì đau quặn bụng và đi ngoài lỏng từ chiều hôm kia. Sinh hiệu: mạch 92 l/p, HA 112/70 mmHg, nhiệt độ 37,6 °C, nhịp thở 18 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Oanh mất nước độ 1 (mạch 92, HA 112/70, uống được nước, còn tiểu), chưa có sốt ghi nhận tại cơ sở y tế, phân không nhầy máu: oresol uống là đủ, truyền tĩnh mạch dành cho mất nước từ độ II hoặc không uống được (QĐ 5642/2015, mục 4.2.3a; IDSA 2017 KC 41). Nhập viện làm chị nghỉ bán nhiều ngày, mất thu nhập, và càng tin mình 'bệnh nặng, ảnh hưởng chuyện có con', trong khi việc cần làm là tờ dặn dò, số điện thoại và mốc quay lại khi nặng lên.",
+    "chuyen_tuyen": "Gửi chị đi bệnh viện tỉnh hay chụp CT bụng ngay hôm nay là quá tay: đau lan tỏa, đỡ sau đi ngoài, Blumberg và Rovsing âm, bạch cầu không tăng, test thai âm; nhóm nguy cơ thấp loại viêm ruột thừa bằng khám và điểm lâm sàng, chưa cần hình ảnh (WSES 2020 KC 1.2.1; WSES 2025 KC 1, 2). Chị đi xa thêm, tốn kém, bỏ quầy một ngày, và kết quả 'bình thường' không giải được nỗi lo thật của chị."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đau bụng với đi ngoài lỏng hai ngày nay, chắc tại tôi ăn nhiều đạm quá nên ruột không chịu nổi. Bác sĩ cho tôi thuốc cho nhanh khỏi, tôi còn phải về trông quầy.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "112/70",
+    "nhiet": "37,6",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau quặn bụng và đi ngoài lỏng từ chiều hôm kia, đến nay là ngày thứ hai.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "di_ngoai",
+     "noi_dung": "Đi ngoài 6–7 lần/ngày, phân lỏng vàng nâu có nước, lượng vừa. Không máu, không nhầy rõ, không mót rặn, không phải phân trắng đục như nước vo gạo. Đau quặn quanh rốn và hạ vị trước mỗi lần đi, đi xong đỡ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân, đau quặn: loại tả, lỵ"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Tối hôm kia ăn đám giỗ nhà hàng xóm, ăn rất nhiều thịt bò tái chanh, nem chua, lòng heo, ít rau. Khoảng 14 giờ sau thì đau quặn và đi lỏng. Chị cho rằng ăn quá nhiều đạm nên ruột không tiêu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát, nguồn lây nghi ngờ"
+    },
+    {
+     "id": "cung_mam",
+     "noi_dung": "Hai người ngồi cùng mâm cũng đau bụng, đi lỏng từ hôm qua; chị tưởng tại ai cũng ăn nhiều.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi có ai cùng ăn bị giống mình, hoặc ăn ở đâu, với ai.",
+     "k": 1,
+     "y": "Cùng mâm cùng bệnh: nhiễm khuẩn thực phẩm"
+    },
+    {
+     "id": "sot_paracetamol",
+     "noi_dung": "Đêm kia ớn lạnh, nóng người nhưng không có nhiệt kế. Từ hôm qua uống paracetamol 500 mg ngày 3–4 viên cho đỡ nhức đầu, đau bụng; viên gần nhất lúc 6 giờ sáng nay. Chị tưởng thuốc này vô hại nên không kể.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' chị chỉ nói không. Chỉ kể khi hỏi cụ thể thuốc hạ sốt, giảm đau, hay có sốt, ớn lạnh không.",
+     "k": 1,
+     "y": "Thuốc đang dùng che sốt"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Khát vừa, tiểu 3 lần/ngày, nước tiểu vàng sẫm. Nôn 1 lần ngày đầu, sau đó chỉ buồn nôn. Uống nước được, ăn kém.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đánh giá mất nước"
+    },
+    {
+     "id": "khong_khu_tru",
+     "noi_dung": "Đau lúc đầu quanh rốn, không dồn xuống hố chậu phải, không đau liên tục, ấn bụng không đau nhói một chỗ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại viêm ruột thừa"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không đi ngoài ra máu, không phân đen, không sụt cân, không khó thở, không vàng da.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Không đi nước ngoài, không đến vùng có dịch tả, nước uống là nước giếng đun sôi. Ba tháng qua chưa dùng kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ loại tả, C. difficile"
+    },
+    {
+     "id": "kinh_thai",
+     "noi_dung": "Kinh nguyệt cách đây 3 tuần, chu kỳ gần đây hơi thưa, 32–35 ngày; chưa trễ kinh. Tuần trước có quan hệ với chồng, chưa thử thai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng thai ở phụ nữ đau bụng"
+    },
+    {
+     "id": "co_con",
+     "noi_dung": "Tái hôn một năm. Có con gái 19 tuổi (sinh thường), hai vợ chồng cố có con chung được 8 tháng chưa được. Không dùng thuốc tránh thai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kế hoạch sinh con"
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Nhà ở xã cách phòng khám 28 km, đi xe máy hơn một giờ, xe khách mỗi ngày một chuyến chiều. Quầy tạp hóa không ai trông thay, chồng bán ở chợ khác. Có điện thoại, dùng Zalo. Chị ngại phải quay lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng tái khám (ở xa)"
+    },
+    {
+     "id": "noi_lo",
+     "noi_dung": "Chị lo nhất chuyện con cái: 42 tuổi, đang cố có con, sợ 'ăn nhiều đạm', tiêu chảy kéo dài và uống thuốc lúc này làm hỏng cơ hội có thai. Bạn bán hàng nói ruột viêm có thể lan sang buồng trứng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chị lo nhất điều gì, hoặc kế hoạch sinh con, hoặc bác sĩ tỏ ra chịu nghe.",
+     "k": 1,
+     "y": "Lý do thật: lo khả năng sinh sản"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Khỏe, không bệnh mạn tính, không dị ứng thuốc, chưa mổ, không dùng thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt. Môi khô nhẹ, lưỡi hơi khô, da véo trở lại hơi chậm, mắt không trũng, niêm mạc hồng, không vàng da, không hạch.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 112/70 mmHg, mạch 88 l/p. Đứng 1 phút: HA 106/66 mmHg, mạch 98 l/p, hơi choáng nhẹ.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, nhu động ruột tăng. Ấn đau nhẹ lan tỏa quanh rốn và hạ vị hai bên, không khu trú hố chậu phải; không phản ứng thành bụng, Blumberg âm, Rovsing âm, nghiệm pháp cơ thắt lưng chậu và cơ bịt âm. Không khối, gan lách không to, hố thắt lưng không đau.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, không âm thổi.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Phổi trong, rì rào phế nang êm, không ran.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "test_thai": {
+     "v": "e",
+     "r": "Âm tính",
+     "n": "Mọi phụ nữ tuổi sinh sản có đau bụng cần sàng thai, kể cả khi đang dùng ngừa thai (ACOG 2018 Bulletin 193, tr. e92); chị đang cố có con và sắp được kê thuốc."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 8,9 G/L · Neutrophil 70% · Hb 134 g/L · Hct 0,40 · TC 262 G/L",
+     "bang": {
+      "wbc": 8.9,
+      "neu_pct": 70.0,
+      "neu": 6.23,
+      "lym_pct": 22.0,
+      "lym": 1.96,
+      "mono_pct": 6.0,
+      "mono": 0.53,
+      "eos_pct": 1.5,
+      "eos": 0.13,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.6,
+      "hgb": 134,
+      "hct": 0.4,
+      "mcv": 88.0,
+      "mch": 29.1,
+      "mchc": 331,
+      "rdw": 13.4,
+      "plt": 262
+     },
+     "n": "Bạch cầu không tăng: chưa có tiêu chí xét nghiệm để kê kháng sinh (QĐ 5642/2015, mục 4.2.1); là một phần đánh giá nguy cơ thấp viêm ruột thừa (WSES 2020 KC 1.2.1)."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 14 mg/L",
+     "bang": {
+      "crp": 14
+     },
+     "n": "Tăng nhẹ; không gợi ý nhiễm khuẩn xâm nhập nặng. Làm hay không đều chấp nhận."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 6,2 mmol/L · Creatinin 78 µmol/L · eGFR 88 mL/ph/1,73m²",
+     "bang": {
+      "ure": 6.2,
+      "creat": 78,
+      "egfr": 88
+     },
+     "n": "Bình thường, làm mốc so sánh vì suy thận cấp là biến chứng của mất nước (QĐ 5642/2015, mục 5)."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 138 · K 3,7 · Cl 102 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 3.7,
+      "cl": 102
+     },
+     "n": "Kali thấp biên do mất qua phân (QĐ 5642/2015, mục 3.3, 5)."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Phân lỏng, không hồng cầu, không bạch cầu, không thấy ký sinh trùng.",
+     "n": "Soi phân có hồng cầu, bạch cầu là một tiêu chí cân nhắc kháng sinh (QĐ 5642/2015, mục 4.2.1); IDSA 2017 KC 20 không dùng bạch cầu phân để xác định căn nguyên. Kết quả khớp thể không xâm nhập."
+    },
+    "cay_phan": {
+     "v": "a",
+     "r": "(Gửi bệnh viện huyện cách 2 km, kết quả sau 2–3 ngày.)",
+     "n": "IDSA 2017 KC 8 (sốt, phân nhầy máu, đau quặn nhiều); ACG 2016 KC 2 (lỵ, bệnh vừa–nặng, > 7 ngày). Chị chưa đủ tiêu chí và kết quả không đổi xử trí hôm nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng (viêm dạ dày – ruột cấp) ngày thứ 2, nghi nhiễm khuẩn thực phẩm sau bữa giỗ, mất nước độ 1, có thể đã sốt nhưng bị paracetamol che",
+     "ok": 1,
+     "n": "≥ 3 lần phân lỏng/24 giờ kèm đau quặn, buồn nôn (ACG 2016 Hình 1); cùng mâm cùng bệnh; mất nước độ 1 (QĐ 5642/2015, mục 3.1)."
+    },
+    {
+     "t": "Tả",
+     "n": "Không phân như nước vo gạo, không 20–50 lần/ngày, có đau quặn, không đến vùng dịch (QĐ 5642/2015, mục 3.2; QĐ 4178/2007, mục II.1a)."
+    },
+    {
+     "t": "Lỵ trực trùng",
+     "n": "Chưa có hội chứng lỵ: không sốt cao ghi nhận, không mót rặn, không phân nhầy máu (QĐ 5642/2015, Lỵ trực khuẩn mục 3.3a). Cấy phân sẽ cho biết nếu bệnh nặng lên."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Đau không dịch chuyển, không khu trú, đỡ sau đi ngoài, Blumberg và Rovsing âm, bạch cầu bình thường: nguy cơ thấp (WSES 2020 KC 1.2.1; WSES 2025 KC 1, 2). Chưa có siêu âm nên hẹn khám lại bụng."
+    },
+    {
+     "t": "Có thai (kể cả thai ngoài tử cung)",
+     "n": "Que thử thai âm tính, kinh chưa trễ (ACOG 2018 Bulletin 193, tr. e92); thai rất sớm chưa loại hẳn, thử lại nếu trễ kinh."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Bù dịch đường uống: oresol hoặc nước cháo muối, uống từng ngụm, thêm sau mỗi lần đi ngoài; không nhịn uống",
+     "v": "c",
+     "n": "Mất nước độ 1 uống được: oresol (QĐ 5642/2015, mục 4.2.3a; QĐ 4178/2007, mục III.2a); IDSA 2017 KC 39, 43; ACG 2016 KC 5. Lượng ml cho người lớn: không có trong tài liệu đã tải (QĐ 3312/2015, Phác đồ A, tr. 320–321: từ 10 tuổi uống đến hết khát, khoảng 2.000 ml/ngày, tham khảo)."
+    },
+    {
+     "t": "Không kê kháng sinh hôm nay, theo dõi sát và hẹn quay lại khi nặng lên",
+     "v": "c",
+     "n": "Chưa sốt ghi nhận, phân không nhầy máu, bạch cầu không tăng, soi phân không hồng cầu: chưa đủ tiêu chí cân nhắc kháng sinh (QĐ 5642/2015, mục 4.2.1); IDSA 2017 KC 36; ACG 2016 KC 9, 10."
+    },
+    {
+     "t": "Hỏi ra thuốc đang dùng: paracetamol che sốt; dặn đo nhiệt độ trước khi uống thuốc, dùng khi cần, 500 mg/lần, tổng không quá 2 g hoặc 4 g/ngày",
+     "v": "c",
+     "n": "Paracetamol 4 viên 0,5 g/ngày (QĐ 4235/2012, Viêm phổi bệnh viện mục 3.4) hoặc 0,5 g × 4–6 viên, tối đa 4.000 mg/ngày (QĐ 361/2014, Hội chứng đau thắt lưng mục 4.2.1); 2 g thận trọng hơn. Ý nghĩa che sốt: không có trong tài liệu đã tải, lý luận của ca."
+    },
+    {
+     "t": "Loại viêm ruột thừa bằng khám bụng và bạch cầu, không chuyển CT hay siêu âm hôm nay; khám lại bụng nếu đau dồn hố chậu phải",
+     "v": "c",
+     "n": "Điểm lâm sàng đủ loại nhóm nguy cơ thấp, hình ảnh cho nhóm trung gian (WSES 2020 KC 1.2.1, 1.8; WSES 2025 KC 1, 2). Điểm số từng mục: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhận ra nỗi lo sinh sản, trấn an có cơ sở và hẹn khám riêng khi khỏi bệnh",
+     "v": "c",
+     "n": "Tài liệu đã tải không nêu tiêu chảy cấp hay paracetamol liều thường làm giảm khả năng thụ thai nên không khẳng định hay phủ nhận. Phụ nữ trên 40 tuổi cần đánh giá hiếm muộn sớm hơn (ASRM 2021, tr. 1; WHO 2025, Executive summary)."
+    },
+    {
+     "t": "Dặn dò bằng văn bản có số điện thoại, hẹn gọi hoặc nhắn Zalo sau 24 giờ; quay lại ngay khi sốt ≥ 38,3 °C, phân máu hoặc nhầy, nôn không giữ nước, tiểu ít, choáng",
+     "v": "c",
+     "n": "Ở xa, khó tái khám nên cần dặn trọn gói. Dấu hiệu nặng: ACG 2016 Hình 1 (sốt ≥ 38,3 °C, phân máu); biến chứng (QĐ 5642/2015, mục 5). Mốc 24 giờ là lựa chọn của ca."
+    },
+    {
+     "t": "Kê kháng sinh ngay hôm nay (azithromycin 500 mg/ngày hoặc ciprofloxacin 500 mg × 2 lần/ngày)",
+     "v": "a",
+     "n": "QĐ 5642/2015, mục 4.2.1 cho cân nhắc khi có sốt, nhưng chị chưa đủ tiêu chí; IDSA 2017 KC 36 và ACG 2016 KC 9, 10 không ủng hộ. Quinolon khi chưa loại hẳn thai sớm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Smecta, spasmaverin, men vi sinh hoặc không dùng thuốc hỗ trợ nào",
+     "v": "a",
+     "n": "QĐ 5642/2015, mục 4.2.3b (spasmaverin, smecta; không nêu liều người lớn). Men vi sinh: IDSA 2017 KC 49 (có thể dùng) so với ACG 2016 KC 6 (không khuyến cáo)."
+    },
+    {
+     "t": "Loperamid",
+     "v": "w",
+     "n": "Chị có thể đã sốt: tránh khi tiêu chảy có sốt hoặc nghi xâm nhập (IDSA 2017 KC 47); không lạm dụng thuốc cầm tiêu chảy (QĐ 5642/2015, mục 4.2.3b)."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch, nhập viện, hoặc chuyển CT, siêu âm ngay hôm nay",
+     "v": "w",
+     "n": "Mất nước độ 1 uống được (QĐ 5642/2015, mục 4.2.3a; IDSA 2017 KC 41); viêm ruột thừa nguy cơ thấp (WSES 2020 KC 1.2.1; WSES 2025 KC 1, 2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng ngày thứ 2, nghi nhiễm khuẩn thực phẩm sau bữa giỗ có hai người cùng mâm bị bệnh, chưa rõ tác nhân",
+     "Mất nước độ 1, uống được; paracetamol có thể đã che cơn sốt đêm đầu",
+     "Đã loại trừ ở mức lâm sàng: tả, lỵ trực trùng, viêm ruột thừa nguy cơ thấp, có thai (que thử âm)",
+     "Ở xa, khó tái khám. Lý do thật: lo khả năng sinh sản ở tuổi 42 khi đang cố có con"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi số lần và tính chất phân, đau quặn đỡ sau đi ngoài, ăn gì với ai (cùng mâm cùng bệnh), thuốc hạ sốt, kinh nguyệt; khám mất nước nhẹ, bụng đau lan tỏa không khu trú; test thai âm, bạch cầu 8,9 G/L, CRP 14 mg/L, ure – creatinin bình thường. Đúng tiêu chảy cấp (ACG 2016 Hình 1); yếu tố khởi phát là bữa ăn nhiều thịt tái, nem chua chứ không phải 'ăn nhiều đạm' (QĐ 5642/2015, mục 1, 3.4).",
+     "Loại tả: không nước vo gạo, không đến vùng dịch (QĐ 5642/2015, mục 3.2). Loại lỵ: không có hội chứng lỵ (QĐ 5642/2015, Lỵ trực khuẩn mục 3.3a). Loại viêm ruột thừa: điểm lâm sàng nguy cơ thấp (WSES 2020 KC 1.2.1; WSES 2025 KC 1, 2); nhiễm khuẩn ruột cũng gây đau giống viêm ruột thừa (IDSA 2017 KC 10a), nên khám lại bụng vì chưa có siêu âm.",
+     "Hỏi cụ thể thuốc hạ sốt giúp lộ ra cơn sốt bị che; sốt ghi nhận cho thấy lúc nào cần cân nhắc lại kháng sinh. Hỏi chị lo gì nhất mới lộ mối lo sinh sản, nguyên nhân thật khiến chị đi khám."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch uống, chưa kháng sinh, chưa hình ảnh (QĐ 5642/2015, mục 4.2.1, 4.2.3a; IDSA 2017 KC 36, 39, 43; ACG 2016 KC 9, 10). Hai nguồn đồng thuận khi chưa sốt ghi nhận và phân không nhầy máu.",
+     "Vì ở xa nên phải xử trí trọn gói: tờ dặn dò bằng văn bản, số điện thoại, hẹn nhắn Zalo sau 24 giờ (mốc của ca, không có trong tài liệu đã tải), nêu rõ dấu hiệu quay lại (ACG 2016 Hình 1; QĐ 5642/2015, mục 5). Nhờ tờ dặn này mà lượt 2 chị quay lại đúng lúc.",
+     "Mối lo sinh sản: tài liệu đã tải không cho biết tiêu chảy cấp hay paracetamol liều thường ảnh hưởng thụ thai; ghi rõ như vậy, không hứa hẹn. Hẹn khám hiếm muộn riêng vì chị 42 tuổi (ASRM 2021, tr. 1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol",
+      "ham_luong": "Gói oresol pha với 1 lít nước đun sôi để nguội",
+      "lieu": "Uống từng ngụm theo nhu cầu, thêm sau mỗi lần đi ngoài lỏng",
+      "duong": "Uống",
+      "thoi_diem": "Rải đều cả ngày, kể cả khi bán hàng",
+      "so_ngay": "Đến khi tiểu bình thường và hết đi ngoài lỏng",
+      "ghi_chu": "QĐ 5642/2015, mục 4.2.3a; QĐ 4178/2007, mục III.2a (pha ORS); IDSA 2017 KC 39, 43. Lượng ml cho người lớn: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên/lần khi sốt hoặc đau, cách nhau ít nhất 6 giờ, tối đa 4 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Đo nhiệt độ trước khi uống, ghi lại",
+      "so_ngay": "Khi cần, ngưng khi hết sốt, hết đau",
+      "ghi_chu": "Tối đa 4 viên (2 g)/ngày theo QĐ 4235/2012 mục 3.4 hoặc 4 g/ngày theo QĐ 361/2014; chọn 2 g là thận trọng hơn. Không dùng chung thuốc giảm đau chống viêm."
+     }
+    ],
+    "dan_do": [
+     "Uống oresol từng ngụm, ăn cháo, súp; không nhịn nước, không tự mua thuốc cầm tiêu chảy hay kháng sinh (QĐ 5642/2015, mục 4.2.3).",
+     "Đo nhiệt độ trước khi uống paracetamol và ghi lại; nếu sốt ≥ 38,3 °C, phân có máu hoặc nhầy, nôn không giữ được nước, tiểu ít, choáng, gọi ngay số điện thoại phòng khám hoặc đến cơ sở y tế gần nhất (bệnh viện huyện cách 2 km), đừng chờ ngày hẹn (ACG 2016 Hình 1; QĐ 5642/2015, mục 5).",
+     "Nhắn Zalo cho phòng khám sau 24 giờ (mốc của ca) về số lần đi ngoài, nhiệt độ, lượng nước tiểu; ghi tên những người cùng mâm và ai bị bệnh (IDSA 2017 KC 11).",
+     "Ăn chín uống sôi, rửa tay trước khi ăn và sau khi đi vệ sinh, tránh thịt tái và nem chua trong lúc bệnh (QĐ 5642/2015, mục 6).",
+     "Chuyện con cái: hẹn khám riêng khi khỏi bệnh, mang theo chồng; tuổi trên 40 nên khám sớm, không chờ đủ 12 tháng (ASRM 2021, tr. 1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · ngày thứ 4 của bệnh, hai ngày sau",
+   "tiep_don": "Chị Oanh quay lại sáng nay, chồng chở bằng xe máy, vì đêm qua sốt cao, đi ngoài nhiều hơn, nôn và mệt lả dù đã uống oresol và nghỉ bán theo dặn. Sinh hiệu: mạch 114 l/p, HA 88/56 mmHg, nhiệt độ 38,8 °C, nhịp thở 22 l/p, SpO₂ 97%.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cho chị Oanh về uống oresol tiếp là nguy hiểm: mạch 114, HA 88/56, tiểu rất ít, nôn không giữ dịch uống, tức mất nước độ II đã thất bại với oresol (QĐ 5642/2015, mục 3.1, 4.2.3a; IDSA 2017 KC 41). Mất nước tiếp diễn dẫn tới tụt huyết áp nặng hơn, hạ kali và suy thận cấp (QĐ 5642/2015, mục 5). Nhà chị cách 28 km, nếu choáng giữa đường thì không ai truyền dịch kịp, và chị vốn ngại quay lại nên có thể ở nhà đến khi nặng hơn.",
+    "chuyen_tuyen": "Chuyển thẳng chị lên bệnh viện tỉnh khi chưa truyền dịch là quá tay: bệnh viện huyện cách 2 km có giường truyền, xét nghiệm và siêu âm, đủ để điều trị mất nước độ II chưa có dấu sốc (QĐ 5642/2015, mục 4.2.3a). Chuyến xe dài với HA 88 chưa bù dịch làm nặng thêm tình trạng thiếu dịch, chồng chị phải bỏ quầy nhiều ngày và chi phí tăng, trong khi bệnh vẫn được điều trị đúng như ở huyện."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi làm theo lời bác sĩ rồi mà đêm qua sốt dữ lắm, đi ngoài cả chục lần, uống oresol vào là nôn ra. Tôi mệt quá, đứng dậy là tối sầm.",
+   "sinh_hieu": {
+    "mach": 114,
+    "ha": "88/56",
+    "nhiet": "38,8",
+    "nhip_tho": 22,
+    "spo2": 97,
+    "canh_bao": [
+     "Sốt 38,8 °C",
+     "Mạch 114 l/p",
+     "Huyết áp 88/56 mmHg"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sốt cao, đi ngoài nhiều hơn, nôn và mệt lả từ đêm qua. Uống oresol vào là nôn ra.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "theo_doi",
+     "noi_dung": "Hai ngày qua làm theo tờ dặn: uống oresol từng ngụm, nghỉ bán, ghi lại số lần đi ngoài. Đêm qua đo 39,0 °C lúc 2 giờ sáng; 5 giờ uống 1 viên paracetamol 500 mg chỉ giảm ít.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đã làm đúng hướng dẫn; sốt trở lại"
+    },
+    {
+     "id": "di_ngoai",
+     "noi_dung": "Từ chiều qua đi ngoài khoảng 12 lần, phân nước vàng nâu lượng nhiều. Không máu, không nhầy rõ, không mót rặn, không phải nước vo gạo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân"
+    },
+    {
+     "id": "non",
+     "noi_dung": "Nôn 5 lần từ tối qua ra nước và oresol. Cả ngày hôm qua chỉ uống được khoảng 500 ml.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không giữ được dịch uống"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Từ sáng hôm qua tiểu 2 lần, ít, sẫm. Khát nhiều, miệng khô, tay chân lạnh, đứng dậy tối sầm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất nước độ II"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Đau quặn nhiều hơn, vẫn quanh rốn và hạ vị hai bên, đỡ sau khi đi ngoài. Không dồn về hố chậu phải, không đau liên tục, không cứng bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau bụng có khu trú hay không"
+    },
+    {
+     "id": "cung_mam",
+     "noi_dung": "Một trong hai người cùng mâm đã vào trạm y tế xã truyền dịch hôm qua; người còn lại đỡ sau hai ngày.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi lại những người cùng ăn có ai nặng hơn, hoặc trạm y tế đã biết chưa.",
+     "k": 1,
+     "y": "Cụm ca cùng bữa ăn"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Ngoài paracetamol không uống gì khác: không kháng sinh tự mua, không thuốc cầm tiêu chảy, không thuốc giảm đau chống viêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng"
+    },
+    {
+     "id": "kinh_thai",
+     "noi_dung": "Kinh chưa tới kỳ (còn khoảng 4 ngày), chưa trễ. Que thử thai hôm khám trước âm tính.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thai khi chọn kháng sinh"
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Chồng chở chị bằng xe máy hơn một giờ. Sáng nay chị định nằm thêm vì ngại bỏ quầy, đọc tờ dặn thấy mục sốt cao và nôn không giữ nước nên đi ngay. Chồng ở lại bệnh viện huyện được, quầy đóng tạm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tái khám đúng nhờ dặn dò bằng văn bản"
+    },
+    {
+     "id": "noi_lo",
+     "noi_dung": "Bây giờ chị sợ hơn: 'cơ thể suy kiệt thế này còn có con được không', và sợ kháng sinh 'mạnh' làm hỏng cơ hội có thai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chị lo nhất điều gì, hoặc khi bác sĩ nhắc tới kháng sinh hay truyền dịch.",
+     "k": 1,
+     "y": "Lý do thật: lo khả năng sinh sản"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không bệnh mạn tính, không dùng thuốc ức chế miễn dịch, không đi nước ngoài, không dùng kháng sinh ba tháng qua.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, nói rõ. Môi nứt, lưỡi khô, mắt hơi trũng, da véo trở lại chậm (trên 2 giây), tay chân mát. Không vàng da, không hạch.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 94/58 mmHg, mạch 108 l/p. Đứng 1 phút: HA 80/48 mmHg, mạch 126 l/p, choáng váng phải ngồi xuống ngay.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, nhu động ruột tăng mạnh. Ấn đau lan tỏa quanh rốn và hạ vị hai bên, không khu trú hố chậu phải; không phản ứng thành bụng, Blumberg âm, Rovsing âm. Không khối, hố thắt lưng không đau.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều nhanh, không âm thổi, không tiếng ngựa phi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 114 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 15,2 G/L · Neutrophil 88% · Hb 148 g/L · Hct 0,45 · TC 298 G/L",
+     "bang": {
+      "wbc": 15.2,
+      "neu_pct": 88.0,
+      "neu": 13.38,
+      "lym_pct": 8.0,
+      "lym": 1.22,
+      "mono_pct": 3.0,
+      "mono": 0.46,
+      "eos_pct": 0.5,
+      "eos": 0.08,
+      "baso_pct": 0.5,
+      "baso": 0.08,
+      "rbc": 5.0,
+      "hgb": 148,
+      "hct": 0.45,
+      "mcv": 90.0,
+      "mch": 29.6,
+      "mchc": 329,
+      "rdw": 13.6,
+      "plt": 298
+     },
+     "n": "Bạch cầu và trung tính tăng là một tiêu chí cân nhắc kháng sinh theo kinh nghiệm (QĐ 5642/2015, mục 3.3, 4.2.1); Hct cao do cô đặc máu."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 11,6 mmol/L · Creatinin 121 µmol/L · eGFR 49 mL/ph/1,73m²",
+     "bang": {
+      "ure": 11.6,
+      "creat": 121,
+      "egfr": 49
+     },
+     "n": "Creatinin tăng từ 78 lên 121 µmol/L: tổn thương thận cấp trước thận do mất nước, biến chứng đã nêu (QĐ 5642/2015, mục 5)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 133 · K 2,9 · Cl 96 mmol/L",
+     "bang": {
+      "na": 133,
+      "k": 2.9,
+      "cl": 96
+     },
+     "n": "Hạ kali, hạ natri do mất qua phân và nôn; cần bù kali trong dịch truyền (QĐ 5642/2015, mục 3.3, 5; QĐ 4178/2007, mục III.2a: 1 g KCl mỗi lít dịch truyền, văn bản về tả, tham khảo)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 74 mg/L",
+     "bang": {
+      "crp": 74
+     },
+     "n": "Tăng từ 14 lên 74 mg/L, phù hợp viêm do vi khuẩn; ngưỡng dùng quyết định kháng sinh: không có trong tài liệu đã tải."
+    },
+    "cay_phan": {
+     "v": "e",
+     "r": "(Đã lấy mẫu trước kháng sinh, gửi bệnh viện huyện cùng chị; kết quả sau 2–3 ngày.)",
+     "n": "Sốt, đau quặn nhiều, bệnh vừa–nặng: nên cấy phân trước kháng sinh (IDSA 2017 KC 8; ACG 2016 KC 2; QĐ 5642/2015, mục 3.3, 4.1)."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Phân nước, ít bạch cầu, không hồng cầu.",
+     "n": "Tiêu chí kháng sinh của QĐ 5642/2015 (mục 4.2.1) so với IDSA 2017 KC 20 (bạch cầu phân không xác định căn nguyên): làm hay không đều chấp nhận."
+    },
+    "test_thai": {
+     "v": "a",
+     "r": "Âm tính",
+     "n": "Làm lại trước khi dùng kháng sinh vì chị đang cố có con; kinh chưa trễ nên âm tính chưa loại hẳn thai rất sớm (ACOG 2018 Bulletin 193, tr. e92)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng thể nặng lên, ngày thứ 4, có sốt 38,8 °C, mất nước độ II (tụt HA, nôn không giữ dịch), hạ kali 2,9 mmol/L, tổn thương thận cấp trước thận (creatinin 121 µmol/L), nghi tiêu chảy xâm nhập sau bữa giỗ",
+     "ok": 1,
+     "n": "Mất nước độ II: mạch 100–120, HA < 90 mmHg, thiểu niệu, tay chân lạnh (QĐ 5642/2015, mục 3.1); tỉnh táo, chưa sốc, nếu HA không lên sau bù dịch phải nghĩ nhiễm khuẩn huyết (QĐ 5642/2015, mục 5)."
+    },
+    {
+     "t": "Tả",
+     "n": "Phân nước nhưng có sốt cao, đau quặn, ngày thứ 4, không nước vo gạo, không đến vùng dịch (QĐ 5642/2015, mục 3.2; QĐ 4178/2007, mục II.1a)."
+    },
+    {
+     "t": "Lỵ trực trùng",
+     "n": "Vẫn chưa có mót rặn, phân nhầy máu (QĐ 5642/2015, Lỵ trực khuẩn mục 3.3a); sốt và bạch cầu tăng khiến cần cấy phân, kháng sinh theo kinh nghiệm bao phủ cả Shigella (QĐ 5642/2015, mục 4.2.2c)."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Đau vẫn lan tỏa, không dồn hố chậu phải, Blumberg và Rovsing âm; bạch cầu tăng do nhiễm khuẩn ruột. Chưa có siêu âm tại phòng khám nên đánh giá lại bụng sau bù dịch, siêu âm ở bệnh viện huyện nếu đau khu trú (WSES 2020 KC 1.2.1, 1.8; WSES 2025 KC 1, 2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhập viện bệnh viện huyện, bắt đầu truyền tĩnh mạch Ringer lactat ngay (hoặc NaCl 0,9% và glucose 5% tỉ lệ 1:1), theo dõi mạch, HA, nước tiểu; khi hết nôn chuyển sang oresol",
+     "v": "c",
+     "n": "Mất nước từ độ II, không uống được: truyền tĩnh mạch (QĐ 5642/2015, mục 4.2.3a); IDSA 2017 KC 41, 42 (tiếp tục đến khi mạch, tưới máu bình thường, phần còn lại bằng oresol). Thể tích và tốc độ cho người lớn: không có trong tài liệu đã tải (QĐ 3312/2015, Phác đồ C, tr. 321: trẻ em, đánh giá lại mỗi 1–2 giờ)."
+    },
+    {
+     "t": "Xét nghiệm công thức máu, ure – creatinin, điện giải, cấy phân trước kháng sinh; bù kali theo điện giải",
+     "v": "c",
+     "n": "IDSA 2017 KC 8; ACG 2016 KC 2; QĐ 5642/2015, mục 3.3, 4.1, 5. Liều kali cho người lớn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng sinh: chờ cấy phân, chưa kê kháng sinh kinh nghiệm; hoặc kê vì sốt kèm bạch cầu tăng (azithromycin 500 mg/ngày × 3 ngày hoặc 0,5 g/ngày × 5 ngày; ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày)",
+     "v": "c",
+     "n": "Không kê, điều trị theo cấy: IDSA 2017 KC 36, 38; ACG 2016 KC 9, 10. Kê kinh nghiệm: QĐ 5642/2015, mục 4.2.1, 4.2.2a; azithromycin 3 ngày (ACG 2016 Bảng 4, tr. 611, ưu tiên ở Đông Nam Á, sốt) hoặc 5 ngày (QĐ 5642/2015). Chị đang cố có thai: azithromycin được dùng cho phụ nữ có thai (QĐ 4178/2007, mục III.2b), quinolon tránh khi có thai; đây là lựa chọn của ca."
+    },
+    {
+     "t": "Hạ sốt bằng paracetamol 500 mg khi sốt, không thuốc giảm đau chống viêm",
+     "v": "a",
+     "n": "QĐ 4235/2012 mục 3.4 (hạ sốt khi > 38,5 °C, tối đa 4 viên/ngày); QĐ 361/2014 (tối đa 4 g/ngày). Thuốc chống viêm khi mất nước và creatinin tăng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Báo trạm y tế xã hoặc y tế dự phòng về cụm ca sau bữa giỗ, hướng dẫn hộ nấu cỗ",
+     "v": "c",
+     "n": "Nhiều người cùng bữa ăn bị bệnh: xét nghiệm theo bối cảnh dịch và phối hợp y tế công cộng (IDSA 2017 KC 11, 16; QĐ 5642/2015, mục 6). Quy định báo cụm ca tại Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích cho chị và chồng: bệnh nặng lên vì sao, kháng sinh chọn thế nào, hẹn khám hiếm muộn riêng sau khi khỏi",
+     "v": "c",
+     "n": "ASRM 2021, tr. 1 (trên 40 tuổi đánh giá sớm); WHO 2025, Executive summary (vô sinh: 12 tháng không có thai). Tác động của bệnh lần này lên thụ thai: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Loperamid hoặc thuốc cầm tiêu chảy",
+     "v": "w",
+     "n": "Tiêu chảy có sốt, nghi xâm nhập: tránh (IDSA 2017 KC 47); không lạm dụng (QĐ 5642/2015, mục 4.2.3b)."
+    },
+    {
+     "t": "Cho về nhà uống oresol tiếp, hẹn lại 2 ngày",
+     "v": "w",
+     "n": "Mất nước độ II đã thất bại với oresol, nôn không giữ dịch (QĐ 5642/2015, mục 4.2.3a; IDSA 2017 KC 41); ở xa nên không an toàn."
+    },
+    {
+     "t": "Chuyển bệnh viện tuyến tỉnh sau khi đã bắt đầu truyền dịch",
+     "v": "a",
+     "n": "Không nguồn nào nói có hại, nhưng bệnh viện huyện đủ điều kiện; chỉ cần khi không đáp ứng bù dịch, nghi nhiễm khuẩn huyết hoặc đau khu trú cần phẫu thuật (QĐ 5642/2015, mục 5)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng ngày thứ 4, thể nặng lên: sốt, mất nước độ II, hạ kali, tổn thương thận cấp trước thận, nghi tác nhân xâm nhập",
+     "Chưa có dấu sốc, chưa có chỉ điểm bụng ngoại khoa; cụm ca cùng bữa giỗ",
+     "Đã loại trừ ở mức lâm sàng: tả, lỵ trực trùng điển hình (chờ cấy phân), viêm ruột thừa",
+     "Ở xa, khó tái khám; lý do thật là lo khả năng sinh sản, nay sợ hơn"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi diễn tiến sau hai ngày làm đúng hướng dẫn, số lần đi ngoài, nôn, tiểu, sốt, đau có dồn hố chậu phải không; khám mất nước độ II (HA 88/56, mạch 114, tụt HA tư thế); bạch cầu 15,2 G/L, CRP 74 mg/L, creatinin 121 µmol/L, kali 2,9 mmol/L. Nặng lên so với lượt 1 là điểm kích hoạt đánh giá lại toàn diện (QĐ 5642/2015, mục 3.1, 3.3, 5).",
+     "Sốt kèm bạch cầu tăng khiến phải nghĩ tác nhân xâm nhập (Shigella, Salmonella, Campylobacter) nhưng thiếu hội chứng lỵ, nên không đổi nhãn thành lỵ trực trùng; cấy phân trả lời (IDSA 2017 KC 8; QĐ 5642/2015, mục 3.2, 4.1). Tả vẫn bị loại vì sốt, đau quặn, không nước vo gạo.",
+     "Viêm ruột thừa: đau không dồn hố chậu phải, dấu hiệu kích thích phúc mạc âm. Không có siêu âm nên đánh giá lại bụng sau bù dịch, siêu âm ở bệnh viện huyện khi cần (WSES 2020 KC 1.2.1, 1.8)."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện bệnh viện huyện gần phòng khám để truyền Ringer lactat và bù kali: mất nước từ độ II, nôn không giữ dịch, creatinin tăng (QĐ 5642/2015, mục 4.2.3a; IDSA 2017 KC 41, 42). Không cho về vì nhà ở xa; không cần chuyển tỉnh vì huyện đủ điều kiện.",
+     "Kháng sinh: không ép một cách. Chờ cấy phân là hướng IDSA 2017 KC 36, 38 và ACG 2016 KC 9, 10; kê kinh nghiệm theo QĐ 5642/2015 mục 4.2.1 vì có sốt và bạch cầu tăng. Nếu kê, azithromycin phù hợp hơn vì đang cố có thai và Đông Nam Á (ACG 2016 Bảng 4 chú thích c; QĐ 4178/2007, mục III.2b).",
+     "Báo cụm ca và hẹn khám hiếm muộn riêng: hai việc ngoài điều trị nhưng quyết định chị có tin và quay lại hay không."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ringer lactat (hoặc NaCl 0,9% và glucose 5% tỉ lệ 1:1)",
+      "ham_luong": "Chai 500 ml",
+      "lieu": "Truyền tĩnh mạch, thể tích và tốc độ theo mạch, HA, nước tiểu, đánh giá lại mỗi 1–2 giờ; thể tích cho người lớn: không có trong tài liệu đã tải",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Bắt đầu ngay tại phòng khám, tiếp tục ở bệnh viện huyện",
+      "so_ngay": "Đến khi hết mất nước và uống được",
+      "ghi_chu": "QĐ 5642/2015, mục 4.2.3a; IDSA 2017 KC 41, 42; QĐ 3312/2015, Phác đồ C (trẻ em, tham khảo). Bổ sung KCl theo điện giải: QĐ 4178/2007, mục III.2a (1 g mỗi lít dịch, văn bản về tả, tham khảo)."
+     },
+     {
+      "thuoc": "Azithromycin (nếu quyết định kê kinh nghiệm)",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau khi đã lấy mẫu cấy phân",
+      "so_ngay": "3 ngày (ACG 2016 Bảng 4) hoặc 5 ngày (QĐ 5642/2015, mục 4.2.2a)",
+      "ghi_chu": "Ưu tiên cho sốt, Đông Nam Á (ACG 2016 Bảng 4 chú thích c, d); thay thế quinolon trong QĐ 5642/2015. Điều chỉnh theo cấy phân (IDSA 2017 KC 38)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên/lần khi sốt, cách nhau ít nhất 6 giờ, tối đa 4 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt, đo nhiệt độ trước khi dùng",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "2 g/ngày (QĐ 4235/2012 mục 3.4) hoặc 4 g/ngày (QĐ 361/2014); 2 g thận trọng hơn."
+     },
+     {
+      "thuoc": "Oresol",
+      "ham_luong": "Gói pha 1 lít nước đun sôi để nguội",
+      "lieu": "Uống từng ngụm khi đã hết nôn, thêm sau mỗi lần đi ngoài",
+      "duong": "Uống",
+      "thoi_diem": "Sau giai đoạn truyền dịch",
+      "so_ngay": "Đến khi hết đi ngoài lỏng",
+      "ghi_chu": "QĐ 5642/2015, mục 4.2.3a; IDSA 2017 KC 42, 43."
+     }
+    ],
+    "dan_do": [
+     "Chị và anh Hậu ở lại bệnh viện huyện, không về nhà trong lúc còn truyền dịch; báo ngay y tá khi nôn nhiều, choáng, tiểu ít, đau bụng dồn hố chậu phải hoặc đi ngoài ra máu (QĐ 5642/2015, mục 5).",
+     "Kết quả cấy phân có sau 2–3 ngày: bác sĩ điều trị sẽ đổi hoặc ngưng kháng sinh theo kết quả (IDSA 2017 KC 38). Kinh sắp tới: nếu trễ kinh, báo bác sĩ trước khi dùng thêm thuốc.",
+     "Ăn lại từ từ khi hết nôn; ăn chín uống sôi, rửa tay; người cùng mâm còn triệu chứng nên đi khám (IDSA 2017 KC 11; QĐ 5642/2015, mục 6).",
+     "Chuyện con cái: khi khỏi bệnh sẽ hẹn khám hiếm muộn, mang theo chồng. Tài liệu đã tải không cho biết bệnh lần này ảnh hưởng đến thụ thai hay không nên bác sĩ không hứa hẹn (ASRM 2021, tr. 1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Oanh được truyền Ringer lactat bổ sung kali tại bệnh viện huyện, huyết áp lên sau vài giờ, hết nôn sau 24 giờ, hết sốt sau 36 giờ. Cấy phân mọc Campylobacter jejuni nhạy azithromycin; creatinin về 79 µmol/L, kali 3,9 mmol/L, ra viện sau 3 ngày. Trạm y tế xã ghi nhận 4 người dự giỗ có triệu chứng, hộ nấu cỗ được hướng dẫn về thịt tái và nem chua. Hai tháng sau chị đến khám hiếm muộn cùng chồng (nằm ngoài ca). Kết quả cấy phân là tình huống của ca, không phải số liệu có thật.",
+ "nhieu": [
+  "Ở xa, khó tái khám: chị đồng ý mọi lịch hẹn rồi âm thầm không quay lại; chỉ lộ khi bác sĩ hỏi đường đi, phương tiện, điện thoại. Cách xử trí là dặn dò bằng văn bản có số điện thoại, mốc quay lại cụ thể, hẹn nhắn Zalo sau 24 giờ; nhờ tờ dặn này mà lượt 2 chị đến đúng lúc.",
+  "Lý do thật là lo khả năng sinh sản ở tuổi 42 khi đang cố có con: nếu chỉ chữa tiêu chảy rồi cho về, chị vẫn bất an và dễ tự mua thuốc. Nỗi lo này lộ ở cả hai lượt khi bác sĩ hỏi chị lo nhất điều gì."
+ ],
+ "bai_hoc_bien": [
+  "Chị gán bệnh cho 'ăn nhiều đạm' và không kể paracetamol: hỏi cụ thể thuốc hạ sốt, giảm đau mới lộ cơn sốt bị che; hỏi ăn gì với ai mới lộ cụm ca cùng mâm.",
+  "Ca tiêu chảy 'điển hình' vẫn có điểm đánh giá lại: sốt, mất nước độ II, hạ kali, creatinin tăng là các mốc nâng mức chăm sóc từ oresol tại nhà lên truyền dịch nhập viện.",
+  "Phụ nữ tuổi sinh sản đau bụng thử thai trước khi chọn thuốc; chị đang cố có thai nên chọn kháng sinh cũng cần nghĩ tới."
+ ],
+ "diem_nho": [
+  "Mất nước độ 1 uống oresol; từ độ II hoặc không uống được thì truyền Ringer lactat (QĐ 5642/2015, mục 3.1, 4.2.3a; IDSA 2017 KC 39, 41).",
+  "Kháng sinh kinh nghiệm: QĐ 5642/2015 mục 4.2.1 cân nhắc khi sốt, phân nhầy máu, bạch cầu tăng; IDSA 2017 KC 36 và ACG 2016 KC 9, 10 không ủng hộ ở tiêu chảy nước cộng đồng. Ghi cả hai (theo sổ mâu thuẫn).",
+  "Azithromycin 500 mg/ngày × 3 ngày (ACG 2016 Bảng 4) hoặc × 5 ngày (QĐ 5642/2015, mục 4.2.2a); loperamid tránh khi có sốt (IDSA 2017 KC 47).",
+  "Phụ nữ trên 40 tuổi nghi hiếm muộn đánh giá sớm hơn mốc 12 tháng (ASRM 2021, tr. 1)."
+ ],
+ "nguon": [
+  "BYT QĐ 5642/2015 – TL-0038 – Bệnh tiêu chảy do vi khuẩn (mục 1, 3.1–3.4, 4.1, 4.2.1–4.2.3, 5, 6); Lỵ trực khuẩn (mục 3.1, 3.3a)",
+  "BYT QĐ 4178/2007 – bệnh tả – TL-0176 – mục II.1a, III.2a–b",
+  "BYT QĐ 3312/2015 – TL-0037 – Tiêu chảy cấp trẻ em, Phác đồ A, B, C (tr. 320–321, chỉ tham khảo)",
+  "BYT QĐ 4235/2012 – TL-0131 – Viêm phổi bệnh viện mục 3.4 (paracetamol); BYT QĐ 361/2014 – TL-0286 – Hội chứng đau thắt lưng mục 4.2.1",
+  "IDSA 2017 tiêu chảy nhiễm trùng – TL-0230 – KC 8, 10a, 11, 16, 20, 36, 38, 39, 41–43, 47, 49",
+  "ACG 2016 tiêu chảy nhiễm trùng người lớn – TL-0233 – Hình 1, KC 2, 5, 6, 9, 10, Bảng 4 (tr. 611)",
+  "WSES 2020 – TL-0263 – KC 1.2.1, 1.8; WSES 2025 – TL-0053 – KC 1, 2",
+  "ACOG Practice Bulletin 193, 2018 – TL-0091 – tr. 2 (sàng thai khi đau bụng)",
+  "ASRM 2021 đánh giá vô sinh nữ – TL-0629 – tr. 1; WHO 2025 hướng dẫn vô sinh – TL-0500 – Executive summary",
+  "Không có trong tài liệu đã tải: lượng ml oresol và dịch truyền cho người lớn; liều kali; điểm số Alvarado/AIR từng mục; ảnh hưởng của tiêu chảy cấp hay paracetamol liều thường lên thụ thai; an toàn quinolon ở người cố có thai; quy định báo cụm ca tại Việt Nam; mốc tái khám 24 giờ"
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-04 (bản 1).",
+  "Đã đọc: TL-0038 (Tiêu chảy do vi khuẩn mục 1–6; Lỵ trực khuẩn mục 3), TL-0176 (mục II.1, III.2), TL-0230 (KC 3–55), TL-0233 (Hình 1, KC 1–10, Bảng 4), TL-0263 và TL-0053 (KC chẩn đoán), TL-0091 (tr. 2), TL-0629 (tr. 1), TL-0500 (Executive summary), TL-0037 (Phác đồ A–C), TL-0131, TL-0286.",
+  "Mâu thuẫn đã có trong sổ, ca áp dụng cả hai cách: kháng sinh kinh nghiệm khi tiêu chảy có sốt (TH-0717, TH-0624), azithromycin 3 hay 5 ngày (TH-0601), men vi sinh, loperamid, bạch cầu phân (TH-0601), paracetamol tối đa (HH-1269). Không có mục mới.",
+  "Biến lạ: 'thuốc đang dùng = paracetamol liều thông thường' dùng làm yếu tố che sốt; 'ăn quá nhiều đạm' làm yếu tố khởi phát giả (nguyên nhân thật là thịt tái, nem chua); lý do thật 'lo khả năng sinh sản' gắn với tuổi 42, đang cố có con 8 tháng, test thai và chọn kháng sinh.",
+  "Ca diễn tiến 'nặng hơn': lượt 1 về nhà với dặn dò trọn gói vì ở xa; lượt 2 nặng lên (sốt, mất nước độ II) nên nhập viện bệnh viện huyện gần phòng khám. Không đặt âm thanh ở lượt 1 vì mạch 92 không khớp tệp tim ≈ 60 l/p; lượt 2 mạch 114 dùng AT-TIM-NHANH-01.",
+  "Kết quả cấy phân (Campylobacter), cụm ca dự giỗ, chi tiết bệnh viện huyện là dữ kiện ca dựng, không phải nguồn tài liệu."
+ ]
+}
