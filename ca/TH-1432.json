@@ -1,0 +1,609 @@
+{
+ "ma_ca": "TH-1432",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_nuot_nghen_danh_gia",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Nuốt nghẹn / khó nuốt (đánh giá)",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư thực quản",
+   "Co thắt tâm vị"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Sau ăn hải sản",
+  "thuoc_dang_dung": "Không",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Văn Phước",
+  "tuoi": 54,
+  "gioi": "Nam",
+  "nghe": "Nông dân trồng lúa và làm vườn",
+  "can_nang": 62,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi ông 'chú'. Ông tự xưng 'tui', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Hiền, thật thà, ít lời, làm ruộng quen chịu đựng nên coi nghẹn thức ăn là chuyện 'ăn vội'. Trả lời đúng điều được hỏi, không vòng vo. Ngại tốn tiền và mất ngày công, giấu vợ nỗi sợ riêng.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: trả lời đầy đủ, nghe và làm theo. Chỉ không tự kể những điều ông cho là chuyện thường (nghẹn lẻ tẻ cả năm, ợ nóng ba năm) và nỗi sợ ung thư như người chú; hỏi đúng thì kể hết.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c49a6c",
+   "toc": "#34302c",
+   "kieuToc": "ngan",
+   "ao": "#8a9a7b",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Ăn cơm, thịt hay bị nghẹn ở giữa ngực, nặng lên từ sau bữa nhậu hải sản",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Nguyễn Văn Phước, 54 tuổi, nông dân trồng lúa. Đến vì ăn cơm, thịt hay bị nghẹn ở giữa ngực, nặng lên từ sau một bữa nhậu hải sản ba tuần trước. Sinh hiệu: HA 128/80 mmHg, mạch 76 l/p, nhiệt độ 36,7 °C, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện ông Phước ngay hôm nay là quá tay: ông nuốt được nước và cháo, không còn kẹt thức ăn, không nôn máu, không sốt, nội soi đã làm tại chỗ và không thấy u hay tắc hoàn toàn. Viêm thực quản trợt LA-C cần PPI dùng lâu dài và nội soi kiểm tra sau đó, không cần nằm viện (ACG 2022 GERD điều trị KC 6, 12; VNAGE 2026 đoạn nội soi lại sau 6–8 tuần PPI). Ông bỏ ruộng giữa vụ gặt, tốn thêm chi phí, và nghe 'phải nhập viện' ông càng tin mình mắc bệnh nặng giống người chú đã mất.",
+    "chuyen_tuyen": "Chuyển ông lên bệnh viện tỉnh ngay trong ngày khi phòng khám đã nội soi và lấy sinh thiết xong là thừa: ống soi qua được chỗ hẹp, thực quản không ứ đọng thức ăn, không có chỉ định can thiệp cấp. Điều trị PPI, hẹn kết quả sinh thiết và nội soi lại sau 6–8 tuần làm được tại phòng khám (VNAGE 2026, đoạn nội soi lại; ACG 2022 GERD điều trị KC 12). Ông đi xa, mất ngày công, có thể bị soi lại vì kết quả không đi cùng ông.",
+    "cap_cuu": "Gọi cấp cứu cho ông là sai hướng: sinh hiệu ổn, ông nuốt được nước bọt, nước và cháo, không có dấu thiếu oxy, không nôn máu. Kẹt thức ăn hoàn toàn mới cần xử trí cấp, nhưng tiêu chuẩn cấp cứu cụ thể không có trong tài liệu đã tải. Ông bị đưa vào phòng cấp cứu làm thêm xét nghiệm đã có kết quả nội soi, tốn kém và hoang mang."
+   },
+   "loi_mo": "Bác sĩ ơi, tui ăn cơm với thịt hay bị nghẹn ở giữa ngực, ba tuần nay. Hôm nhậu ốc với tôm xong là bị nặng hơn. Uống nước thì trôi. Bác sĩ coi giùm tui.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "128/80",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ba tuần nay cơm khô, thịt, bánh mì hay dừng lại ở giữa ngực. Bữa nhậu ốc len xào dừa với tôm nướng, ông ăn vội: miếng thịt tôm mắc lại sau xương ức, ông uống nước không trôi, ngồi gục khoảng một lúc rồi trớ ra mới hết. Từ hôm đó hễ ăn đồ đặc là nghẹn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và sự kiện khởi phát sau ăn hải sản"
+    },
+    {
+     "id": "dac_diem_nuot",
+     "noi_dung": "Nghẹn với thức ăn đặc (cơm khô, thịt, bánh mì), còn nước, cháo, canh nuốt bình thường. Chỉ nghẹn ở giữa ngực, dưới xương ức, không ở cổ họng. Thức ăn dừng vài giây, uống thêm nước mới trôi xuống. Không sặc, không ho khi ăn, không đau khi nuốt, giọng không khàn. Ba tuần nay giữ nguyên, ít khi nặng thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nuốt nghẹn thức đặc, vị trí thực quản, không sặc"
+    },
+    {
+     "id": "tien_trieu",
+     "noi_dung": "Thật ra khoảng 8–10 tháng nay thỉnh thoảng đã nghẹn cơm, mỗi tháng 2–3 lần, uống nước là hết nên ông cho là 'ăn vội'. Chỉ sau bữa nhậu mới nghẹn thường xuyên.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi nghẹn đã có trước ba tuần chưa, hoặc hỏi thời gian kéo dài, diễn tiến từ lúc đầu.",
+     "k": 1,
+     "y": "Nghẹn lẻ tẻ gần một năm trước đợt này"
+    },
+    {
+     "id": "trao_nguoc",
+     "noi_dung": "Khoảng 3 năm nay ợ nóng sau xương ức, ợ chua 3–4 lần mỗi tuần, nhất là sau bữa chiều ăn no rồi nằm võng; thỉnh thoảng thức giấc vì vị chua trong miệng. Ông thỉnh thoảng mua gói thuốc dạ dày ở hiệu thuốc uống khi nóng rát, không uống đều, không biết tên.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi ợ nóng, ợ chua, đau dạ dày hoặc thuốc dạ dày tự mua.",
+     "k": 1,
+     "y": "Trào ngược nhiều năm, không điều trị đều"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Cân nặng 62 kg, vẫn như năm ngoái (cân ở chợ lúa). Không nôn ra máu, phân vàng, không đi phân đen. Không nôn dai dẳng, không sặc ho khi ăn, giọng không khàn, không mệt, không xanh xao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động: sụt cân, chảy máu, sặc, nôn"
+    },
+    {
+     "id": "khong_achalasia",
+     "noi_dung": "Nước, cháo, canh uống bình thường, không nghẹn nước. Không trớ thức ăn chưa tiêu lên miệng, không ho đêm vì sặc, không đau ngực từng cơn. Vị chua dâng lên là dịch chua, không phải cơm cũ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền triệu co thắt tâm vị: không có"
+    },
+    {
+     "id": "ruou_nong",
+     "noi_dung": "Uống bia 2–3 lon mỗi lần, 2–3 lần mỗi tuần, nhiều hơn khi có đám nhậu. Không hút thuốc lá hay thuốc lào. Thích húp canh và uống trà còn nóng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bia, ăn uống nóng: yếu tố nguy cơ ung thư thực quản"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không uống thuốc giảm đau, thuốc khớp, kháng sinh gần đây. Không có thuốc dùng thường xuyên. Không uống viên thuốc nào mà thấy mắc lại.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "di_vat_di_ung",
+     "noi_dung": "Hôm ăn ốc, tôm, cua có cả xương cá nhỏ nhưng ông không thấy đau nhói, không nôn máu, không sốt sau đó. Ăn hải sản nhiều năm không nổi mề đay, không khò khè.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khỏe, không tăng huyết áp, không tiểu đường, chưa mổ gì, chưa từng nội soi dạ dày. Bụng không đau, đi cầu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Chú ruột của ông mất cách đây hai năm vì 'ung thư thực quản', lúc 61 tuổi, sau 5 tháng nuốt nghẹn rồi ốm dần. Đám giỗ chú vừa qua ông nhớ lại, càng nghĩ càng sợ mình cũng bị. Ông đi khám sau lần kẹt thịt tôm, chưa nói với vợ vì sợ bà lo.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông lo nhất điều gì, trong nhà có ai bị bệnh tương tự không, hoặc vì sao hôm nay mới đi khám.",
+     "k": 1,
+     "y": "Động cơ thật: sợ mắc ung thư thực quản như người chú"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi lo. Niêm mạc hồng, không vàng da, không phù. Cân nặng 62 kg, cao 165 cm, BMI 22,8.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch cổ, hạch thượng đòn. Tuyến giáp không to.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng hồng nhẹ, amidan không to, lưỡi sạch, không mảng trắng.",
+     "k": 0,
+     "hien": "Họng hồng nhẹ, amidan không to, lưỡi sạch."
+    },
+    "quan_sat_nuot": {
+     "a": "Uống từng ngụm 50 mL nước ấm: nuốt liền, không sặc, giọng không ướt. Bánh mì mềm: nhai kỹ, trôi sau vài giây, ông chỉ vào giữa ngực dưới xương ức; miếng thứ hai dừng lâu hơn, nhăn mặt, uống thêm nước mới trôi. Không trớ ngược, không đau ở cổ họng.",
+     "k": 1,
+     "hien": "Uống nước nuốt liền, không sặc. Bánh mì mềm trôi chậm, ông chỉ vào giữa ngực dưới xương ức."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, ấn thượng vị không đau, không sờ thấy khối, gan lách không to.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Mặt cân đối, lưỡi thè thẳng, nói rõ, phản xạ nôn có hai bên, sức cơ 5/5. Không dấu thần kinh khu trú.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều khoảng 76 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Thở đều, êm, hai bên đều.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "noi_soi": {
+     "v": "e",
+     "r": "Nội soi thực quản – dạ dày – tá tràng: thực quản trên và giữa niêm mạc hồng, nhu động bình thường, không giãn, không ứ đọng thức ăn hay dịch. Đoạn dưới có nhiều vết trợt nối nhau giữa các đỉnh nếp niêm mạc, chiếm dưới 75% chu vi (viêm thực quản trào ngược Los Angeles độ C), kèm vòng hẹp mềm, ngắn ngay trên chỗ nối thực quản – dạ dày, thành không cứng, không u; ống soi qua được sau khi bơm hơi. Thoát vị hoành khoảng 2 cm. Tâm vị đóng mở bình thường. Dạ dày và hành tá tràng không tổn thương đáng kể. Sinh thiết 6 mảnh vùng hẹp và bờ vết trợt gửi giải phẫu bệnh.",
+     "n": "Nuốt khó mới thì nội soi tiêu hóa trên là xét nghiệm đầu tiên [III, A] (ESMO 2022, Recommendations); ACG 2022 GERD chẩn đoán KC 6; VNAGE 2026 KC 3; nội soi ống mềm có giá trị chẩn đoán ung thư thực quản (QĐ 1514/2020 Bài 35 mục 2.2.1). Sinh thiết nhiều mảnh ở vùng nghi ngờ (ESMO 2022: 6 mảnh khi nghi u); VNAGE 2026 cũng nêu sinh thiết khi nghi viêm thực quản tăng bạch cầu ái toan ở người nuốt khó. Phòng khám có nội soi nên làm ngay hôm nay; không cấp cứu vì ông không kẹt thức ăn lúc này."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 139 g/L · BC 6,8 G/L · TC 245 G/L",
+     "n": "Thiếu máu là dấu báo động (VNAGE 2026 KC 3); không thiếu máu ở ông. Không bắt buộc."
+    },
+    "ecg": {
+     "n": "Không đau ngực, không khó thở, không có chỉ định; ACG 2022 GERD chẩn đoán KC 4 chỉ đặt vấn đề loại trừ tim khi đau ngực không ợ nóng."
+    },
+    "xq_thuc_quan": {
+     "n": "Không chụp thực quản cản quang làm xét nghiệm đầu tiên: nội soi trước (ACG 2022 GERD chẩn đoán KC 6); ACG 2022 KC 5 không dùng barium chỉ để chẩn đoán GERD. Barium chỉ bổ sung khi nghi co thắt tâm vị (ACG 2020; UEG/ESNM 2020, phần chẩn đoán)."
+    },
+    "cxr": {
+     "n": "Không ho, không sặc, phổi bình thường: không có chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nuốt nghẹn thực quản với thức ăn đặc (đợt nặng ba tuần sau kẹt thức ăn khi ăn hải sản, nghẹn lẻ tẻ gần một năm trước), nền trào ngược ba năm không điều trị đều; nội soi: viêm thực quản trào ngược LA-C kèm vòng hẹp nhẹ thực quản dưới, thoát vị hoành nhỏ; chưa có dấu báo động; chờ giải phẫu bệnh để loại trừ ác tính",
+     "ok": 1,
+     "n": "Nghẹn thức đặc, đúng vị trí thực quản, tiến triển từng đợt cả năm, kèm ợ nóng ợ chua nhiều năm và hình ảnh viêm trợt LA-C kèm hẹp: nghiêng về nguyên nhân trào ngược. Viêm trợt LA-B, C, D và hẹp do trào ngược đều là bằng chứng chắc chắn của GERD (Lyon 2.0 2024, Bảng 2); hẹp là biến chứng của GERD (VNAGE 2026, đoạn biến chứng). Hải sản chỉ là chất kích hoạt đợt kẹt, không phải nguyên nhân. Kết quả giải phẫu bệnh quyết định cuối cùng (ESMO 2022)."
+    },
+    {
+     "t": "Ung thư thực quản",
+     "n": "Chưa loại trừ hoàn toàn khi chưa có giải phẫu bệnh, nên phải sinh thiết. Chống lại: không sụt cân, không nôn máu, không hạch, nội soi không u, vòng hẹp mềm; ung thư thường nuốt nghẹn tăng dần trong 3–4 tháng, gầy sút trên 90% (QĐ 1514/2020 Bài 35 mục 2.1). Yếu tố nguy cơ ở ông: tuổi 50–60, bia, ăn uống nóng (Bài 35 mục 1)."
+    },
+    {
+     "t": "Co thắt tâm vị (achalasia)",
+     "n": "Không có tiền triệu: nghẹn nước không, không trớ thức ăn chưa tiêu, không ho đêm, thực quản không giãn, tâm vị đóng mở bình thường. Achalasia thường nuốt khó cả đặc lẫn lỏng và chỉ nghĩ tới khi nội soi đã loại trừ rối loạn khác (UEG/ESNM 2020, phần chẩn đoán); nghi achalasia luôn phải nội soi loại trừ giả co thắt do khối u (ACG 2020)."
+    },
+    {
+     "t": "Viêm thực quản tăng bạch cầu ái toan",
+     "n": "Cần nghĩ vì nuốt khó thức ăn đặc và kẹt thức ăn; VNAGE 2026 nêu sinh thiết khi nghi ngờ, nhất là có nuốt khó, tắc nghẽn hoặc đáp ứng PPI kém. Ở ông có viêm trợt LA-C và trào ngược điển hình giải thích; sinh thiết đã lấy sẽ trả lời. Đặc điểm lâm sàng riêng của bệnh này không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khó nuốt hầu họng do thần kinh hoặc bệnh vùng cổ",
+     "n": "Vướng ở giữa ngực chứ không ở cổ họng, không sặc, nuốt nước bình thường, khám thần kinh bình thường, họng và cổ không bất thường."
+    },
+    {
+     "t": "Dị vật thực quản (xương, vỏ ốc)",
+     "n": "Nuốt xong không đau nhói, không nôn máu, nội soi không thấy dị vật hay vết xước; hẹp do viêm giải thích. Tiêu chuẩn riêng về dị vật không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Omeprazol 20 mg uống 1 lần/ngày, 30–60 phút trước ăn sáng, 8 tuần",
+     "v": "c",
+     "n": "Viêm thực quản trợt: PPI liều chuẩn 8 tuần giúp lành niêm mạc (VNAGE 2026 KC 13); PPI hơn kháng H2 để chữa lành viêm thực quản (ACG 2022 GERD điều trị KC 6). Liều omeprazol 20 mg (VNAGE 2024 Bảng 4). Giờ uống 30–60 phút trước ăn sáng (ACG 2022 điều trị KC 8, mới hơn); QĐ 361/2014 Phụ lục NSAID mục 3.3 ghi uống tối: chấm a, theo sổ mâu thuẫn mục 'Thời điểm uống PPI 1 lần/ngày'. Liều gấp đôi chỉ cân nhắc khi kháng trị (VNAGE 2026 thảo luận), chưa cần ở lượt đầu."
+    },
+    {
+     "t": "Chỉnh lối sống: không ăn trong 2–3 giờ trước khi nằm, kê cao đầu giường, giảm rồi bỏ bia, tránh nhậu",
+     "v": "c",
+     "n": "Tránh ăn trong 2–3 giờ trước ngủ (ACG 2022 GERD lối sống KC 2), kê cao đầu giường khi có triệu chứng ban đêm (KC 5), tránh thức ăn khởi phát (KC 4); VNAGE 2026 KC 12. Rượu bia cũng là yếu tố nguy cơ ung thư thực quản (QĐ 1514/2020 Bài 35 mục 1)."
+    },
+    {
+     "t": "Hẹn tái khám nhận kết quả giải phẫu bệnh và nội soi kiểm tra sau 6–8 tuần dùng PPI để đánh giá lành vết trợt và biến chứng hẹp",
+     "v": "c",
+     "n": "Nội soi lại sau 6–8 tuần PPI ở viêm thực quản nặng LA-C, D để đánh giá lành và biến chứng (hẹp, Barrett, ung thư) vì viêm nặng che các tổn thương khác (VNAGE 2026, đoạn nội soi lại). Thời gian có kết quả giải phẫu bệnh và mốc nhận kết quả không có trong tài liệu đã tải: lựa chọn của ca."
+    },
+    {
+     "t": "Giải thích: nội soi chưa thấy u, đang chờ sinh thiết để khẳng định; hỏi và trả lời nỗi lo ung thư như người chú, không hứa chắc trước khi có kết quả",
+     "v": "c",
+     "n": "Chẩn đoán ung thư thực quản dựa vào mô bệnh học của nhiều mảnh sinh thiết (ESMO 2022 [I, B]); vì vậy không thể nói 'chắc chắn không ung thư' khi chưa có giải phẫu bệnh."
+    },
+    {
+     "t": "Dặn quay lại ngay hoặc đến cấp cứu nếu kẹt thức ăn không nuốt được cả nước bọt, nôn ra máu, phân đen, sốt, đau ngực dữ dội, sặc ho khi ăn, sụt cân",
+     "v": "c",
+     "n": "Nuốt khó mới, chảy máu tiêu hóa, nôn hoặc hít tái diễn, sụt cân là chỉ định nội soi (ESMO 2022 Recommendations). Ngưỡng thời gian kẹt thức ăn phải đi cấp cứu không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ăn mềm, thái nhỏ, nhai kỹ, ăn chậm, uống nước xen kẽ; tránh ăn vội thịt, ốc, tôm miếng lớn",
+     "v": "a",
+     "n": "Chế độ ăn cụ thể cho nuốt khó do hẹp không có trong tài liệu đã tải; là biện pháp thông thường phòng kẹt thức ăn."
+    },
+    {
+     "t": "Esomeprazol 20–40 mg hoặc pantoprazol 40 mg thay omeprazol",
+     "v": "a",
+     "n": "Liều PPI chuẩn: omeprazol 20 mg, pantoprazol 40 mg, esomeprazol 20–40 mg, rabeprazol 20 mg (VNAGE 2024 Bảng 4)."
+    },
+    {
+     "t": "Kê thêm domperidon hoặc thuốc vận động ruột cho 'ăn không xuống'",
+     "v": "w",
+     "n": "ACG 2022 GERD điều trị KC 14: không dùng thuốc vận động ruột cho GERD trừ khi có bằng chứng liệt dạ dày; ở ông thực quản không ứ đọng."
+    },
+    {
+     "t": "Kết luận 'viêm dạ dày', cho thuốc dạ dày một đợt rồi hẹn lại, không nội soi",
+     "v": "w",
+     "n": "Nuốt khó mới phải nội soi [III, A] (ESMO 2022); là chỉ định nội soi đầu tiên (ACG 2022 GERD chẩn đoán KC 6)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nuốt nghẹn thực quản với thức ăn đặc, nặng lên ba tuần sau kẹt thức ăn khi ăn hải sản, lẻ tẻ gần một năm trước đó",
+     "Viêm thực quản trào ngược LA-C kèm vòng hẹp nhẹ thực quản dưới và thoát vị hoành nhỏ (nội soi); trào ngược ba năm không điều trị đều",
+     "Chưa có dấu báo động khác (không sụt cân, không chảy máu, không hạch); giải phẫu bệnh đang chờ để khẳng định không ác tính",
+     "Ung thư thực quản và co thắt tâm vị: nghiêng về không, cần giải phẫu bệnh và theo dõi",
+     "Nỗi lo thật: sợ mắc ung thư thực quản như người chú"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: câu then chốt là phân biệt nghẹn đặc hay cả đặc lẫn lỏng, vị trí ở cổ hay ngực, thời gian kéo dài. Phải hỏi trực tiếp nghẹn có trước đợt này không để ra tám tháng nghẹn lẻ tẻ, hỏi ợ nóng ợ chua để ra ba năm trào ngược (ông không tự kể). Sàng lọc dấu báo động: sụt cân, chảy máu, sặc, nôn (ESMO 2022; VNAGE 2026 KC 3). Hỏi bia, ăn nóng (QĐ 1514/2020 Bài 35 mục 1). Hỏi ông lo nhất điều gì để ra nỗi sợ ung thư như người chú.",
+     "Khám: nuốt thử cho thấy thức ăn đặc dừng ở giữa ngực, không sặc; hạch cổ và thượng đòn âm tính; khám thần kinh bình thường loại nguyên nhân hầu họng.",
+     "Cận lâm sàng: nuốt khó mới thì nội soi là xét nghiệm đầu tiên [III, A] (ESMO 2022; ACG 2022 GERD chẩn đoán KC 6), và phòng khám có nội soi nên làm ngay, kèm sinh thiết vùng hẹp và bờ vết trợt. Không chụp barium trước (ACG 2022 KC 5); công thức máu không bắt buộc.",
+     "Chẩn đoán: viêm thực quản LA-C kèm hẹp là bằng chứng chắc chắn của GERD (Lyon 2.0 2024, Bảng 2) và giải thích nghẹn đặc; ung thư thực quản không loại trừ trước khi có giải phẫu bệnh (ESMO 2022), co thắt tâm vị bị loại bằng thực quản không giãn, tâm vị bình thường, không nghẹn nước (UEG/ESNM 2020; ACG 2020)."
+    ],
+    "phan_tich_xu_tri": [
+     "PPI liều chuẩn 8 tuần, 30–60 phút trước ăn sáng (VNAGE 2026 KC 13; ACG 2022 điều trị KC 6, 8). Không dùng thuốc vận động ruột (ACG 2022 điều trị KC 14).",
+     "Lối sống đúng nghề và thói quen: không nằm võng ngay sau bữa chiều, kê cao đầu giường, giảm bia (ACG 2022 lối sống KC 2, 5; VNAGE 2026 KC 12).",
+     "Về, không nhập viện, không chuyển tuyến: ông nuốt được nước, không kẹt, không chảy máu; nội soi đã làm tại chỗ. Tái khám có nội soi kiểm tra sau 6–8 tuần PPI vì viêm LA-C có thể che tổn thương khác (VNAGE 2026). Thời hạn nhận giải phẫu bệnh không có trong tài liệu đã tải.",
+     "Nói thật rằng ung thư chưa loại trừ đến khi có giải phẫu bệnh, đồng thời trấn an có căn cứ: không sụt cân, nội soi chưa thấy u (QĐ 1514/2020 Bài 35 mục 2.1; ESMO 2022)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng (hoặc buổi tối trước ngủ theo QĐ 361/2014: chấm a)",
+      "so_ngay": "8 tuần, rồi nội soi kiểm tra và đánh giá lại",
+      "ghi_chu": "Liều: VNAGE 2024 Bảng 4. Thời gian: VNAGE 2026 KC 13. Thời điểm: ACG 2022 điều trị KC 8; QĐ 361/2014 Phụ lục NSAID mục 3.3. Viêm LA-C cần duy trì PPI dài hạn sau đợt đầu (ACG 2022 điều trị KC 12), quyết ở tái khám."
+     }
+    ],
+    "dan_do": [
+     "Uống omeprazol mỗi sáng 30–60 phút trước ăn sáng, đủ 8 tuần, không ngưng sớm khi hết ợ nóng (ACG 2022 điều trị KC 8, 12).",
+     "Ăn chậm, thái nhỏ thịt, nhai kỹ, uống nước xen kẽ; tạm tránh nhậu hải sản và ăn vội thịt, ốc, tôm miếng lớn (chế độ cụ thể không có trong tài liệu đã tải).",
+     "Không ăn trong 2–3 giờ trước khi nằm, kê cao đầu giường, giảm bia rượu (ACG 2022 lối sống KC 2, 5).",
+     "Đến ngay cơ sở y tế nếu kẹt thức ăn không nuốt được cả nước bọt, nôn máu, phân đen, sốt, đau ngực dữ dội, sặc ho khi ăn, sụt cân (ESMO 2022).",
+     "Quay lại nhận kết quả giải phẫu bệnh và hẹn nội soi kiểm tra sau 6–8 tuần dùng thuốc (VNAGE 2026); nói với vợ về nỗi lo, kết quả sẽ có trước khi kết luận."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Ông Phước tái khám sau 8 tuần uống omeprazol đều, mang phiếu giải phẫu bệnh. Hết ợ nóng, nhưng cơm khô và thịt vẫn còn nghẹn, tuần trước có một lần kẹt thịt gà phải nôn ra. Sinh hiệu: HA 126/78 mmHg, mạch 74 l/p, nhiệt độ 36,6 °C, SpO₂ 98%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho ông về, tiếp PPI rồi hẹn lại 8 tuần nữa là bỏ qua việc ông còn nghẹn thịt và vừa kẹt thịt gà một lần: viêm thực quản đã lành nhưng vòng hẹp còn đó, hẹp là biến chứng của GERD (VNAGE 2026, đoạn biến chứng; Lyon 2.0 2024 Bảng 2: hẹp tái phát trên PPI tối ưu là GERD kháng trị). Ông tiếp tục ăn kiêng không đủ, có thể kẹt thức ăn lần nữa; nôn hoặc hít tái diễn là dấu báo động cần nội soi (ESMO 2022). Cách xử trí hẹp còn dai dẳng không có trong tài liệu đã tải, nhưng không thể là chờ thêm.",
+    "nhap_vien": "Nhập viện ông Phước hôm nay là quá tay: ông nuốt được nước và cháo, hiện không kẹt thức ăn, không sốt, không chảy máu, sinh hiệu ổn. Nội soi can thiệp theo hẹn ở tuyến trên làm được ngoại trú; nằm viện nội khoa không làm thủ thuật sớm hơn. Ông tốn tiền, mất ngày công, trong khi tiêu chuẩn nhập viện cho hẹp thực quản không có trong tài liệu đã tải.",
+    "cap_cuu": "Gọi cấp cứu hoặc chuyển ngay trong đêm là sai hướng: ông không kẹt thức ăn lúc này, nuốt được nước bọt, không đau ngực, sinh hiệu ổn. Tiêu chuẩn cấp cứu cho kẹt thức ăn không có trong tài liệu đã tải. Ông hoảng hơn, tốn chi phí, trong khi giấy giới thiệu hẹn sớm là đủ."
+   },
+   "loi_mo": "Bác sĩ ơi, tui uống thuốc đều hết ợ nóng rồi, mà ăn thịt với cơm khô vẫn còn nghẹn. Tuần rồi nghẹn miếng thịt gà lâu lắm, phải móc họng ra. Kết quả đây, bác sĩ coi giùm.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "126/78",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn sau 8 tuần uống omeprazol. Hết ợ nóng ợ chua, nhưng cơm khô, thịt vẫn nghẹn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: đỡ một phần"
+    },
+    {
+     "id": "dap_ung",
+     "noi_dung": "Ợ nóng giảm gần hết, chỉ còn thoáng một lần mỗi tuần. Nghẹn thức đặc còn khoảng 2–3 lần mỗi tuần, ít hơn lúc đầu một nửa; cháo, canh, nước vẫn bình thường. Ông ăn mềm được nhưng cơm khô và thịt vẫn dừng ở giữa ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng một phần với PPI: hết ợ nóng, còn nghẹn đặc"
+    },
+    {
+     "id": "kep_thuc_an",
+     "noi_dung": "Tuần trước ông ăn thịt gà xé, miếng thịt kẹt sau xương ức khoảng 20 phút, uống nước không xuống, ông móc họng nôn ra rồi mới hết. Sau đó đau ngực nhẹ một ngày rồi hết. Không nôn máu, không sốt, không ho sặc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Một lần kẹt thức ăn (tắc nghẽn thực quản thoáng qua)"
+    },
+    {
+     "id": "gpb",
+     "noi_dung": "Có phiếu giải phẫu bệnh 6 mảnh vùng hẹp và bờ vết trợt: niêm mạc thực quản viêm mạn hoạt động, tăng sản lớp đáy, không tăng bạch cầu ái toan, không loạn sản, không có tế bào ác tính.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả sinh thiết lượt 1: lành tính, không tăng bạch cầu ái toan"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Ông uống omeprazol 20 mg mỗi sáng trước ăn khoảng 45 phút, không quên ngày nào, đủ 8 tuần hôm qua. Ăn chiều sớm hơn, kê cao đầu giường, giảm bia còn 1 lon mỗi tuần, thôi húp canh quá nóng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ PPI và lối sống tốt"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Cân nặng 62 kg như cũ. Không nôn máu, phân vàng, không sặc ho khi ăn, giọng không khàn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động vẫn âm tính"
+    },
+    {
+     "id": "lo_lang",
+     "noi_dung": "Thấy phiếu giải phẫu bệnh 'không ác tính' ông nhẹ người nhưng vẫn lo 'chắc chưa, sao còn nghẹn'. Ông đã kể với vợ chuyện của chú. Gặt xong nên ông đi viện tỉnh được.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, thoải mái hơn lần trước. Niêm mạc hồng. Cân nặng 62 kg.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch cổ, hạch thượng đòn. Tuyến giáp không to.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không khối, gan lách không to.",
+     "k": 0
+    },
+    "quan_sat_nuot": {
+     "a": "Nước từng ngụm: nuốt liền. Bánh mì mềm: trôi sau vài giây; miếng cơm khô dừng lâu hơn, ông chỉ vào giữa ngực dưới xương ức, nhăn mặt, uống thêm nước mới xuống. Không sặc.",
+     "k": 1,
+     "hien": "Uống nước nuốt liền. Bánh mì mềm trôi hơi chậm; cơm khô dừng, ông chỉ vào giữa ngực dưới xương ức."
+    },
+    "tim": {
+     "a": "Tim đều khoảng 74 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Thở đều, êm, hai bên đều.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "noi_soi": {
+     "v": "e",
+     "r": "Nội soi kiểm tra sau 8 tuần PPI: các vết trợt đoạn dưới đã lành, còn sẹo mờ, không còn vết trợt nào xếp được độ LA. Vòng hẹp ngắn ngay trên chỗ nối thực quản – dạ dày còn, niêm mạc phẳng, mềm, không loét, không u, không cứng; ống soi qua được nhưng có cảm giác cản nhẹ. Thoát vị hoành khoảng 2 cm. Không thấy niêm mạc dạng Barrett. Thực quản trên và giữa không giãn, không ứ đọng thức ăn; tâm vị đóng mở bình thường. Sinh thiết thêm 4 mảnh vùng hẹp gửi giải phẫu bệnh.",
+     "n": "Viêm LA-C, D nên nội soi lại sau 6–8 tuần PPI để đánh giá lành và biến chứng (hẹp, Barrett, ung thư) (VNAGE 2026, đoạn nội soi lại). Sinh thiết thêm vì hẹp còn dai dẳng, theo nguyên tắc sinh thiết vùng nghi ngờ (ESMO 2022); số mảnh cho hẹp lành tính không có trong tài liệu đã tải."
+    },
+    "xq_thuc_quan": {
+     "n": "Không cần: nội soi đã thấy vòng hẹp và thực quản không giãn, không ứ đọng. Barium chỉ bổ sung khi nghi co thắt tâm vị mà nội soi chưa giải thích (ACG 2020; UEG/ESNM 2020)."
+    },
+    "ctm": {
+     "n": "Không thay đổi quyết định: không dấu báo động, lượt trước Hb 139 g/L."
+    },
+    "ct_nguc": {
+     "n": "Không có chỉ định: nội soi đã đánh giá lòng và thành thực quản, không u; CT chỉ dùng khi đã có ung thư để xếp giai đoạn (QĐ 1514/2020 Bài 35 mục 2.2.3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hẹp thực quản dưới do trào ngược còn tồn tại sau 8 tuần PPI, viêm thực quản LA-C đã lành; có một lần kẹt thức ăn; sinh thiết lành tính, không tăng bạch cầu ái toan; đáp ứng một phần (hết ợ nóng, còn nghẹn đặc)",
+     "ok": 1,
+     "n": "Viêm thực quản trợt và hẹp do trào ngược là bằng chứng chắc chắn của GERD (Lyon 2.0 2024, Bảng 2); hẹp là biến chứng gặp được khi nội soi lại sau PPI (VNAGE 2026: hẹp 2,3% trong nghiên cứu 964 bệnh nhân viêm nặng). PPI làm lành vết trợt và hết ợ nóng, nhưng nghẹn đặc còn vì hẹp cơ học nên đáp ứng một phần. Phải chuyển để nong qua nội soi nếu tuyến tại chỗ không nong được."
+    },
+    {
+     "t": "Ung thư thực quản",
+     "n": "Đã loại trừ ở mức hiện có: hai đợt sinh thiết, đợt đầu 6 mảnh lành tính (ESMO 2022); nội soi hai lần không u, vòng hẹp mềm; không sụt cân. Vẫn theo dõi vì hẹp còn dai dẳng và sinh thiết thêm đang chờ."
+    },
+    {
+     "t": "Co thắt tâm vị (achalasia)",
+     "n": "Đã loại trừ: thực quản không giãn, không ứ đọng, tâm vị đóng mở bình thường, không nghẹn nước; có hẹp cơ học giải thích. Đo áp lực thực quản chỉ khi nội soi đã loại trừ nguyên nhân khác mà vẫn nghẹn (UEG/ESNM 2020)."
+    },
+    {
+     "t": "Viêm thực quản tăng bạch cầu ái toan",
+     "n": "Sinh thiết 6 mảnh không tăng bạch cầu ái toan; ợ nóng đáp ứng PPI; nội soi không có hình ảnh gợi ý. VNAGE 2026 nêu sinh thiết khi nuốt khó, tắc nghẹn hoặc PPI kém."
+    },
+    {
+     "t": "Barrett thực quản",
+     "n": "Nội soi không thấy niêm mạc dạng Barrett; sinh thiết đợt đầu không nêu. Đây là một trong các phát hiện mới có thể gặp khi nội soi lại sau PPI (10,1% trong nghiên cứu được VNAGE 2026 dẫn) nên phải nhìn kỹ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Viết giấy giới thiệu nội soi nong thực quản ở bệnh viện tuyến tỉnh theo hẹn sớm (không cấp cứu), kèm tóm tắt hai lần nội soi và giải phẫu bệnh",
+     "v": "c",
+     "n": "Hẹp thực quản dưới do trào ngược còn gây nghẹn và đã kẹt thức ăn sau 8 tuần PPI. Phương pháp, đường kính và thời điểm nong không có trong tài liệu đã tải (ASGE 2006 dùng ở ca TH-1449 không mở lại được lượt này); phòng khám chỉ nội soi chẩn đoán nên chuyển tuyến. Lý do chuyển do ca tự quyết, không cấp cứu vì ông không kẹt hiện tại."
+    },
+    {
+     "t": "Tiếp tục omeprazol 20 mg × 1 lần/ngày trước ăn sáng, hoặc tăng 20 mg × 2 lần/ngày (trước ăn sáng và trước ăn tối) nếu còn nghẹn, ợ nóng, không ngưng",
+     "v": "c",
+     "n": "Viêm thực quản LA-C: duy trì PPI dài hạn hoặc phẫu thuật chống trào ngược (ACG 2022 điều trị KC 12, mạnh); PPI liều thấp nhất kiểm soát được (KC 10). Liều chuẩn 8 tuần (VNAGE 2026 KC 13) hoặc liều gấp đôi khi kháng trị (VNAGE 2026 thảo luận); hai lần/ngày thì uống trước ăn sáng và ăn tối (ACG 2022, phần liều PPI). Theo sổ mâu thuẫn mục PPI 1 hay 2 lần/ngày cho LA-C kèm hẹp (TH-1449)."
+    },
+    {
+     "t": "Giải thích giải phẫu bệnh lành tính, hẹp là biến chứng của trào ngược, cần nong qua nội soi; đáp ứng một phần là bình thường, không phải điều trị thất bại",
+     "v": "c",
+     "n": "Giải phẫu bệnh quyết định chẩn đoán ung thư (ESMO 2022 [I, B]). Hẹp là biến chứng của GERD (VNAGE 2026, đoạn biến chứng); hẹp tái phát trên PPI tối ưu thuộc GERD kháng trị (Lyon 2.0 2024 Bảng 2). Tái lập niềm tin, đáp nỗi sợ như người chú."
+    },
+    {
+     "t": "Dặn quay lại hoặc đến cấp cứu ngay nếu kẹt thức ăn không nuốt được cả nước bọt, nôn máu, phân đen, sốt, đau ngực dữ dội, sặc ho, sụt cân; ăn mềm, thái nhỏ trong lúc chờ",
+     "v": "c",
+     "n": "Nôn hoặc hít tái diễn, sụt cân, chảy máu là chỉ định nội soi (ESMO 2022 Recommendations). Ngưỡng thời gian đi cấp cứu khi kẹt thức ăn và chế độ ăn cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám tại phòng khám sau khi nong và có kết quả sinh thiết thêm (mốc theo ca), tiếp tục theo dõi PPI và nuốt",
+     "v": "c",
+     "n": "Sinh thiết thêm cần xem lại (ESMO 2022). Mốc tái khám sau nong không có trong tài liệu đã tải: lựa chọn của ca."
+    },
+    {
+     "t": "Đo áp lực thực quản (HRM) hoặc chụp barium trước khi chuyển nong",
+     "v": "a",
+     "n": "Chưa cần: nội soi đã thấy hẹp cơ học và loại trừ giả co thắt (ACG 2020); đo áp lực chỉ khi vẫn nghẹn sau khi hẹp đã được giải quyết (UEG/ESNM 2020)."
+    },
+    {
+     "t": "Ngưng omeprazol vì đã hết ợ nóng",
+     "v": "w",
+     "n": "Viêm thực quản LA-C: nên duy trì PPI dài hạn (ACG 2022 điều trị KC 12); chỉ thử ngưng ở người không viêm trợt/Barrett (KC 9). Ngưng sớm dễ tái viêm và tái hẹp."
+    },
+    {
+     "t": "Cho ăn bình thường, nuốt nghẹn thì uống nhiều nước, không cần xử trí gì thêm, tái khám khi nặng",
+     "v": "w",
+     "n": "Nghẹn đặc còn sau 8 tuần PPI và đã kẹt thức ăn: hẹp còn là biến chứng cần xử trí (VNAGE 2026, đoạn biến chứng); nôn hoặc hít tái diễn là dấu báo động (ESMO 2022)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hẹp thực quản dưới do trào ngược còn tồn tại sau 8 tuần PPI, viêm thực quản LA-C đã lành; đã kẹt thức ăn một lần",
+     "Đáp ứng một phần: hết ợ nóng, còn nghẹn thức đặc",
+     "Giải phẫu bệnh lành tính, không tăng bạch cầu ái toan; ung thư thực quản và co thắt tâm vị đã loại trừ ở mức hiện có",
+     "Không Barrett qua nội soi; sinh thiết thêm vùng hẹp đang chờ",
+     "Nỗi lo ung thư như người chú được giải thích có căn cứ"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: tách hai triệu chứng đáp ứng khác nhau: ợ nóng đã hết nhưng nghẹn đặc còn, nghĩa là PPI trị được viêm, chưa giải quyết hẹp cơ học. Hỏi tuân thủ PPI (đúng giờ, đủ 8 tuần, theo VNAGE 2026 KC 13) trước khi gọi là thất bại. Hỏi kẹt thức ăn, dấu báo động, giải phẫu bệnh.",
+     "Khám: nuốt thử cho thấy cơm khô dừng ở giữa ngực, không sặc; cân nặng không đổi; hạch âm tính.",
+     "Cận lâm sàng: nội soi lại sau 6–8 tuần PPI ở viêm LA-C để xem lành, tìm hẹp, Barrett, ung thư (VNAGE 2026). Kết quả: lành vết trợt, hẹp còn, không u, không Barrett. Barium và đo áp lực thực quản chưa cần (ACG 2020; UEG/ESNM 2020).",
+     "Chẩn đoán: hẹp do trào ngược là bằng chứng chắc chắn của GERD (Lyon 2.0 2024 Bảng 2); hẹp tái phát trên PPI tối ưu là GERD kháng trị. Ung thư thực quản đã loại ở mức hiện có nhờ giải phẫu bệnh lành tính (ESMO 2022), co thắt tâm vị bị loại vì thực quản không giãn và tâm vị bình thường."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển giấy giới thiệu nội soi nong thực quản ở tuyến trên: hẹp còn gây nghẹn và đã kẹt thức ăn; phòng khám không nong được. Cách nong, thời điểm và an toàn không có trong tài liệu đã tải. Không cấp cứu, không nhập viện: ông nuốt được nước bọt và nước, không kẹt hiện tại.",
+     "Tiếp tục PPI dài hạn: LA-C cần duy trì PPI hoặc phẫu thuật (ACG 2022 điều trị KC 12), liều thấp nhất kiểm soát được (KC 10). Liều chuẩn 8 tuần (VNAGE 2026 KC 13) hoặc gấp đôi nếu kháng trị (VNAGE 2026; ACG 2022 phần liều PPI); thời điểm trước ăn sáng (ACG 2022 điều trị KC 8). Ngưng PPI chấm w.",
+     "Giải thích và dặn dấu hiệu cần đi cấp cứu; ăn mềm trong lúc chờ (không có trong tài liệu đã tải).",
+     "Không HRM, barium trước nong (ACG 2020; UEG/ESNM 2020): chỉ khi vẫn nghẹn sau nong."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày, hoặc 20 mg × 2 lần/ngày nếu còn nghẹn, ợ nóng",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng (và trước ăn tối nếu uống 2 lần)",
+      "so_ngay": "Dài hạn, đánh giá lại ở mỗi lần tái khám",
+      "ghi_chu": "Liều: VNAGE 2024 Bảng 4. Duy trì cho LA-C: ACG 2022 điều trị KC 12; liều thấp nhất KC 10; thời điểm KC 8. Liều gấp đôi: VNAGE 2026 thảo luận; ACG 2022 phần liều PPI. Tiếp tục thuốc đang dùng, không đổi."
+     }
+    ],
+    "dan_do": [
+     "Tiếp tục omeprazol mỗi sáng 30–60 phút trước ăn sáng, không tự ngưng dù đã hết ợ nóng (ACG 2022 điều trị KC 8, 12).",
+     "Cầm giấy giới thiệu đi bệnh viện tỉnh nong thực quản trong thời gian sớm nhất sắp xếp được; mang phiếu nội soi hai lần và giải phẫu bệnh. Thời hạn cụ thể không có trong tài liệu đã tải.",
+     "Trong lúc chờ: ăn mềm, thái nhỏ, nhai kỹ, uống nước xen kẽ; tạm tránh thịt miếng lớn, ốc, tôm (không có trong tài liệu đã tải).",
+     "Đến cấp cứu ngay nếu kẹt thức ăn không nuốt được nước bọt, nôn máu, phân đen, sốt, đau ngực dữ dội, sặc ho khi ăn, sụt cân (ESMO 2022).",
+     "Vẫn không ăn trong 2–3 giờ trước nằm, kê cao đầu giường, ít bia (ACG 2022 lối sống KC 2, 5). Tái khám sau nong để xem kết quả sinh thiết thêm (mốc theo ca)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Phước đi bệnh viện tỉnh theo giấy giới thiệu, hẹn nong thực quản sau hai tuần. Trong tuần chờ, giữa đám giỗ ở quê, ông ăn miếng thịt bò rồi kẹt sau xương ức hơn ba giờ, không nuốt được cả nước bọt, được đưa đến bệnh viện huyện, gắp thức ăn qua nội soi, sau đó mới nong. Giải phẫu bệnh thêm vẫn lành tính. Hai tháng sau chỗ hẹp tái phát một phần và ông phải nong thêm hai lần, vẫn uống PPI đều; ông ăn mềm được và hết sợ ung thư. Đây là kết cục xấu dù mọi quyết định đều đúng: bác sĩ nội soi sớm, giấy giới thiệu rõ ràng, ông tuân thủ thuốc, nhưng hẹp vẫn gây kẹt thức ăn trong lúc chờ và tái hẹp sau nong (nguy cơ biến chứng hẹp của GERD: VNAGE 2026; hẹp tái phát trên PPI tối ưu: Lyon 2.0 2024 Bảng 2). Không được kết luận ngược rằng lượt 2 chuyển tuyến sai hay lẽ ra nên chờ thêm.",
+ "nhieu": [
+  "Bữa nhậu hải sản và miếng tôm kẹt khiến cả bác sĩ lẫn người bệnh nghĩ 'dị vật' hoặc 'dị ứng'. Nuốt nghẹn thực quản thức đặc, nền trào ngược, nội soi không dị vật và hẹp do viêm mới là câu trả lời.",
+  "Bia rượu và ăn uống nóng của ông làm ung thư thực quản thành khả năng thật (QĐ 1514/2020 Bài 35 mục 1), nhưng không sụt cân, không hạch, nội soi chưa thấy u; không loại trừ trước khi có giải phẫu bệnh.",
+  "Ông không tự kể nghẹn lẻ tẻ gần một năm và ợ nóng ba năm: hỏi chung chỉ ra 'ba tuần', hỏi đúng ra thời gian dài.",
+  "Hết ợ nóng sau PPI dễ khiến tưởng đã khỏi, trong khi nghẹn đặc còn: hai triệu chứng đáp ứng khác nhau."
+ ],
+ "bai_hoc_bien": [
+  "Nuốt khó mới = nội soi đầu tiên, dù nguyên nhân nghe lành tính; phòng khám có nội soi thì làm ngay và sinh thiết vùng nghi ngờ (ESMO 2022 [III, A]; ACG 2022 GERD KC 6).",
+  "Hỏi nghẹn đã có từ trước và ợ nóng ợ chua một cách trực tiếp; người bệnh nông thôn hay coi đó là chuyện thường.",
+  "Viêm thực quản LA-C: PPI 8 tuần, nội soi lại sau 6–8 tuần, duy trì PPI dài hạn (VNAGE 2026 KC 13; ACG 2022 điều trị KC 12).",
+  "Đáp ứng một phần cần tách từng triệu chứng: ợ nóng đáp ứng PPI, nghẹn đặc do hẹp cơ học thì không (Lyon 2.0 2024 Bảng 2).",
+  "Chống outcome bias: xử trí đúng vẫn có thể kẹt thức ăn và tái hẹp, và ngược lại một kết cục tốt không làm một quyết định ẩu thành đúng."
+ ],
+ "diem_nho": [
+  "Nuốt khó mới: nội soi tiêu hóa trên [III, A] (ESMO 2022); nuốt khó là chỉ định nội soi đầu tiên (ACG 2022 GERD KC 6; VNAGE 2026 KC 3).",
+  "Ung thư thực quản: nuốt nghẹn tăng dần 3–4 tháng, gầy sút trên 90%; yếu tố nguy cơ rượu bia, thuốc lá, ăn uống nóng (QĐ 1514/2020 Bài 35 mục 1, 2.1).",
+  "Co thắt tâm vị: nghẹn cả đặc và lỏng, trớ; nghi thì luôn nội soi loại giả co thắt do u (ACG 2020; UEG/ESNM 2020).",
+  "Viêm trợt LA-B, C, D và hẹp do trào ngược xác định GERD (Lyon 2.0 2024 Bảng 2); LA-C, D cần PPI duy trì (ACG 2022 điều trị KC 12).",
+  "Nội soi lại sau 6–8 tuần PPI chỉ cho LA-C, D, để xem lành và biến chứng (VNAGE 2026)."
+ ],
+ "nguon": [
+  "ESMO 2022 – Oesophageal cancer: ESMO Clinical Practice Guideline – TL-0216 – Diagnosis, Recommendations [III, A], [I, B]",
+  "BYT QĐ 1514/2020 – Hướng dẫn chẩn đoán và điều trị một số bệnh ung bướu – bản chữ ở kho cũ tltk-10000-ca (00 Dùng chung/BYT) – Bài 35 Ung thư thực quản mục 1, 2.1, 2.2.1, 2.2.3",
+  "ACG 2020 – Diagnosis and Management of Achalasia – TL-0224 – Epidemiology and Diagnosis; bảng khuyến cáo (nội soi loại giả co thắt tâm vị)",
+  "UEG/ESNM 2020 – European guidelines on achalasia – TL-0225 – phần chẩn đoán",
+  "ACG 2022 – Diagnosis and Management of GERD – TL-0212 – chẩn đoán KC 4–6; lối sống KC 2, 4, 5; điều trị KC 6, 8, 9, 10, 12, 14; phần liều PPI",
+  "VNAGE 2026 – Guideline on the management of GERD – TL-0177 – KC 3, 12, 13, 15, 16; đoạn biến chứng; đoạn nội soi lại sau 6–8 tuần PPI",
+  "Lyon Consensus 2.0 2024 – TL-0206 – Bảng 2 (viêm LA-B, C, D và hẹp do trào ngược xác định GERD; hẹp tái phát trên PPI tối ưu)",
+  "VNAGE 2024 – chẩn đoán và điều trị khó tiêu chức năng – TL-0178 – Bảng 4 (liều PPI chuẩn)",
+  "BYT QĐ 361/2014 – bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID mục 3.3 (PPI uống buổi tối)",
+  "Không có trong tài liệu đã tải: kỹ thuật, thời điểm và an toàn nong thực quản; ngưỡng thời gian kẹt thức ăn phải đi cấp cứu; số mảnh sinh thiết cho hẹp lành tính; thời gian có giải phẫu bệnh; chế độ ăn cho nuốt khó do hẹp; mốc tái khám sau nong. ASGE 2006 (đã dùng ở TH-1449) không mở lại được lượt này."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-04: viết ca TH-1432. Tài liệu đã đọc: TL-0216 (Diagnosis, Recommendations), kho cũ QĐ 1514/2020 (Bài 35 mục 1–2.2.4), TL-0224 (Epidemiology and Diagnosis, khuyến cáo), TL-0225 (phần chẩn đoán), TL-0212 (chẩn đoán KC 1–8, lối sống 1–5, điều trị 6–16), TL-0177 (KC 3, 12–16, đoạn biến chứng, nội soi lại), TL-0206 (Bảng 2), TL-0178 (Bảng 4).",
+  "Chẩn đoán đích 'nuốt nghẹn/khó nuốt (đánh giá)' dựng thành nuốt nghẹn do hẹp thực quản dưới trong GERD (viêm LA-C); ung thư thực quản và co thắt tâm vị được loại ở lượt 1 bằng nội soi và sinh thiết, ở lượt 2 bằng giải phẫu bệnh lành tính và nội soi lại. Biến 'đỡ một phần' = ợ nóng hết nhưng nghẹn đặc còn; 'xử trí đúng nhưng diễn tiến xấu' = kẹt thức ăn khi chờ nong và tái hẹp (nằm ở ket_cuc).",
+  "Mâu thuẫn đã có mục trong sổ và được áp dụng: thời điểm uống PPI 1 lần/ngày (TH-0295), PPI liều chuẩn hay gấp đôi cho LA-C kèm hẹp (TH-1449). Không có mâu thuẫn mới.",
+  "Chỗ thiếu tài liệu: nong thực quản (kỹ thuật, thời điểm, an toàn), ngưỡng cấp cứu khi kẹt thức ăn, số mảnh sinh thiết cho hẹp lành tính, thời gian có giải phẫu bệnh, chế độ ăn cho nuốt khó do hẹp, mốc tái khám. WebFetch trang ASGE 2006 bị chặn."
+ ]
+}
