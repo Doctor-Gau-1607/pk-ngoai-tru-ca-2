@@ -1,0 +1,812 @@
+{
+ "ma_ca": "TH-0654",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_tieu_chay_cap_nhiem_trung",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Tiêu chảy cấp nhiễm trùng",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lỵ trực trùng",
+   "Viêm ruột thừa"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Sau ngồi máy tính lâu",
+  "thuoc_dang_dung": "Insulin đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Phan Văn Thạnh",
+  "tuoi": 66,
+  "gioi": "Nam",
+  "nghe": "Nông dân: làm ba công lúa và nuôi vịt chạy đồng ở xã, vừa được bầu vào ban quản trị tổ hợp tác",
+  "can_nang": 58,
+  "chieu_cao": 162,
+  "xung_ho": "Bác sĩ gọi ông là 'ông Thạnh'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Con trai gọi cha là 'ba', xưng 'con' với bác sĩ.",
+  "tinh_cach": "Rắn rỏi, nói ít, quen tự xoay xở: bệnh gì cũng ra tiệm thuốc mua 'uống vài hôm là hết', ngại tốn tiền, ngại làm phiền con. Tin mình 'trúng lạnh' vì ngồi phòng máy lạnh. Tiêm insulin 8 năm nên tự tin ('tôi tiêm đúng giờ đúng liều, đâu có sai'). Mấy đêm không ngủ nên bực bội, chỉ muốn xin ít thuốc ngủ.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: mở đầu 'tôi uống thuốc rồi mà chưa hết' nhưng hỏi chung 'đang uống thuốc gì' chỉ kể insulin. Thuốc tiệm chỉ lộ khi hỏi đích danh thuốc đã uống cho cái đi ngoài, từng loại, mấy viên, từ hôm nào; ông kể nhẹ hơn thật, con trai nói đúng số khi được hỏi.",
+  "nguoi_nha": "Con trai, anh Hiếu, 38 tuổi, thợ cơ khí, chở cha bằng xe máy. Biết ba 'đi ngoài, mệt, đêm không ngủ' nhưng không rõ thuốc và insulin; hay nói chen nhưng nhường lời khi bác sĩ hỏi thẳng cha.",
+  "ten_nguoi_nha": "Con trai (anh Hiếu)",
+  "ngoai_hinh": {
+   "da": "#c8956c",
+   "toc": "#c9c5be",
+   "kieuToc": "ngan",
+   "ao": "#6f7d5c",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 4,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d6a47c",
+    "toc": "#1f1a17",
+    "kieuToc": "ngan",
+    "ao": "#4a5a78",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đi ngoài phân lỏng 5 ngày, đã tự mua thuốc uống mà chưa hết, bụng chướng quặn, mệt",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám không có máy X-quang (nên cũng không chụp được CT, không nội soi tại chỗ). Còn làm được: xét nghiệm máu, phân, nước tiểu, đường huyết mao mạch, siêu âm bụng. Bệnh viện tỉnh cách khoảng 40 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · ngày thứ 5 của bệnh",
+   "tiep_don": "Ông Phan Văn Thạnh, 66 tuổi, nông dân, đái tháo đường tiêm insulin, con trai chở đến. Đi ngoài phân lỏng 5 ngày, đã tự mua thuốc uống mà chưa hết, bụng chướng quặn, mệt. Sinh hiệu (nằm): HA 124/74 mmHg, mạch 88 l/p, nhiệt độ 37,2 °C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 58 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho ông Thạnh nhập viện ngay là quá tay: ông tỉnh, còn uống được, mất nước độ 1 (QĐ 5642/2015 mục 3.1, 4.2.3a), đường huyết đã lên sau 15–20 g glucose, bụng mềm không đau khu trú.",
+    "chuyen_tuyen": "Gửi ông lên bệnh viện tỉnh chụp CT bụng vì sợ ruột thừa hay nhiễm trùng nặng cũng là quá tay: ấn đau lan tỏa, không khu trú hố chậu phải, không phản ứng thành bụng, Rovsing âm tính, không sốt, bạch cầu 9,4 G/L (WSES 2025 KC 1, 3.1, tr. 285; CT cho người cao tuổi khi còn nghi ngờ, KC 3.4)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đi ngoài năm hôm rồi, uống thuốc mà bụng cứ chướng, quặn, mệt lắm. Chắc hôm đi tập huấn tôi ngồi phòng máy lạnh lâu quá nên bị lạnh bụng.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "124/74",
+    "nhiet": "37,2",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi ngoài phân lỏng 5 ngày, đã tự mua thuốc uống mà chưa hết, bụng chướng, quặn lâm râm, mệt. Ông cho là 'lạnh bụng' vì ngồi phòng máy lạnh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "phan_sot",
+     "noi_dung": "Khoảng 10 giờ đêm ngày đầu thì đau quặn quanh rốn, nôn một lần rồi đi ngoài. Hai ngày đầu phân lỏng như nước, vàng nâu, 8–10 lần/ngày kể cả ban đêm; gai lạnh, sốt nhẹ, đo cao nhất 37,8 °C bằng nhiệt kế điện tử của vợ, không rét run.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân, số lần, sốt, nôn (phân biệt tả, lỵ)"
+    },
+    {
+     "id": "bua_an",
+     "noi_dung": "Hôm tổ hợp tác tập huấn 'nhật ký đồng ruộng điện tử' ở nhà văn hóa xã, ông ngồi trước máy tính gần 6 tiếng trong phòng máy lạnh, uống rất ít nước. Cơm hộp ăn lúc 11 giờ 30, để từ sáng, có thịt heo luộc, gỏi tai heo và rau sống. Khoảng 10 giờ sau thì phát bệnh.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'ăn gì' ông chỉ nói 'cơm hộp bình thường' và quy cho máy lạnh. Món ăn và người cùng bàn chỉ lộ khi bác sĩ hỏi ông ăn gì, ăn ở đâu trước khi bệnh, hoặc có ai cùng ăn cũng bị bệnh không.",
+     "y": "Dịch tễ: bữa ăn, người cùng ăn, thời gian ủ bệnh"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Ngày 1–3: berberin mua ở tiệm, 3 viên/lần × 2 lần/ngày. Ngày 2–4: Imodium (loperamid 2 mg) bà bán thuốc dặn 'mỗi lần đi ngoài uống 2 viên', thực tế 6–8 viên/ngày (12–16 mg/ngày) trong 3 ngày; ông khai 'chỉ vài viên', con trai đếm vỏ mới ra đúng số. Ngày 3–4: amoxicillin 500 mg còn dư trong tủ (của con dâu), 1 viên × 3 lần/ngày × 2 ngày. Từ sáng hôm qua không uống thuốc nào cho cái đi ngoài.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' ông chỉ kể insulin. Phải hỏi riêng thuốc đã uống cho cái đi ngoài, hoặc hỏi có uống thuốc cầm tiêu chảy, thuốc kháng sinh chưa, từng loại mấy viên mỗi ngày từ hôm nào. Ông kể số viên nhẹ hơn thật; con trai đếm lại vỏ thuốc ở nhà nếu được nhờ.",
+     "y": "Thuốc tự dùng 5 ngày: loại, liều, số ngày"
+    },
+    {
+     "id": "bung",
+     "noi_dung": "Bụng chướng căng từ ngày thứ 3, đau quặn lâm râm quanh rốn, đỡ khi trung tiện nhưng ít trung tiện hơn bình thường. Không đau dữ dội, không đau khu trú vùng bụng dưới bên phải, không đau lan lưng, không nôn thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau bụng (phân biệt ruột thừa, tác dụng loperamid)"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Uống ít nước vì sợ đi ngoài thêm, mỗi ngày khoảng 1 lít kể cả cháo loãng. Khát ít, miệng khô, nước tiểu ít và vàng sẫm, sáng nay đi 1 lần. Đứng dậy nhanh thì choáng. Sụt khoảng 3 kg (61 xuống 58 kg).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức mất nước"
+    },
+    {
+     "id": "insulin_an",
+     "noi_dung": "Tiểu đường 12 năm, tiêm insulin hỗn hợp 30/70 hai lần mỗi ngày đã 8 năm: 18 đơn vị trước ăn sáng, 12 đơn vị trước ăn chiều. Năm ngày nay vẫn tiêm đủ liều dù ăn rất ít: mỗi bữa vài thìa cháo, bữa chiều gần như bỏ. Hết que thử mấy ngày nên không đo đường huyết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Insulin và lượng ăn (nguy cơ hạ đường huyết)"
+    },
+    {
+     "id": "dem_thuc",
+     "noi_dung": "Hai đêm gần đây khoảng 2–3 giờ sáng ông giật mình thức giấc, toát mồ hôi, run tay, hồi hộp, đói cồn cào; uống ly nước đường hoặc ăn cái bánh thì dịu dần, rồi đi ngoài và không ngủ lại được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn hạ đường huyết ban đêm (nguyên nhân thật của mất ngủ)"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Mấy đêm thức trắng, ông bực bội, mệt. Ông hàng xóm bảo uống viên thuốc ngủ là ngủ ngon, nên ông muốn xin bác sĩ ít thuốc ngủ cho yên chuyện. Ông chưa từng dùng thuốc ngủ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi về giấc ngủ, hoặc hỏi ông còn muốn nhờ bác sĩ điều gì, hoặc điều gì làm ông khó chịu nhất mấy hôm nay.",
+     "y": "Động cơ thật: xin thuốc ngủ"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không tăng huyết áp, không bệnh tim, thận. Sổ khám đái tháo đường 2 tháng trước: creatinin 92 µmol/L, HbA1c 7,6%. Không dị ứng thuốc. Không uống rượu bia, bỏ thuốc lá 5 năm. Thuốc đang dùng chỉ có insulin hỗn hợp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, creatinin nền, thuốc đang dùng"
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Nhà cách phòng khám 12 km, trạm y tế xã cách nhà 2 km. Vợ ở nhà nấu cháo và ở cạnh ông; con trai chở thêm được một buổi nếu báo trước. Ông ngại tốn tiền nhập viện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng theo dõi và tái khám"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, dáng mệt, da sạm nắng. Trán lấm tấm mồ hôi lạnh, tay run nhẹ khi cầm ly nước, nói chuyện còn rành mạch. Cân nặng 58 kg (thường 61 kg, sụt khoảng 5%). Nhiệt độ 37,2 °C. Không vàng da, không phù.",
+     "k": 1,
+     "hien": "Tỉnh, dáng mệt. Trán lấm tấm mồ hôi, tay hơi run. Cân nặng 58 kg."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: HA 124/74 mmHg, mạch 88 l/p. Đứng 3 phút: HA 104/66 mmHg, mạch 104 l/p, hơi choáng phải vịn ghế, không ngất (HA tâm thu tụt 20 mmHg, mạch tăng 16 l/p). Ngưỡng hạ huyết áp tư thế: không có trong tài liệu đã tải.",
+     "k": 1,
+     "hien": "Nằm 124/74, mạch 88. Đứng 3 phút: 104/66, mạch 104, choáng nhẹ."
+    },
+    "dau_mat_co": {
+     "a": "Môi khô, lưỡi khô, niêm mạc miệng kém ẩm; mắt không trũng. Củng mạc không vàng, cổ mềm, hạch cổ không to.",
+     "k": 1,
+     "hien": "Môi khô, lưỡi khô. Mắt không trũng."
+    },
+    "da": {
+     "a": "Véo da bụng: nếp da hồi lại dưới 2 giây. Da khô sạm nắng, không ban, không vàng. Tay chân ấm, mao mạch hồi sắc dưới 2 giây. Không có dấu mất nước nặng (AWaRe 2022, tr. 171: nhìn mắt trũng, véo da hồi chậm ≥ 2 giây, li bì, không uống được).",
+     "k": 1,
+     "hien": "Véo da bụng hồi nhanh. Da khô, không ban."
+    },
+    "bung": {
+     "a": "Bụng chướng căng nhẹ, mềm, gõ vang. Ấn đau nhẹ lan tỏa quanh rốn, không đau khu trú hố chậu phải, không phản ứng thành bụng; Rovsing và dấu cơ thắt lưng chậu âm tính. Nghe nhu động ruột thưa. Không sờ thấy khối, gan lách không to.",
+     "k": 1,
+     "hien": "Bụng chướng nhẹ, mềm. Ấn đau nhẹ lan tỏa, không đau khu trú."
+    },
+    "truc_trang": {
+     "a": "Cơ thắt hậu môn bình thường, không khối. Bóng trực tràng chứa ít phân sệt nâu vàng, găng không dính máu, không nhầy.",
+     "k": 1,
+     "hien": "Phân sệt nâu vàng, găng không máu, không nhầy."
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "Đường huyết mao mạch lúc này (khoảng 3 giờ rưỡi sau tiêm 18 đơn vị, ăn nửa chén cháo): 3,7 mmol/L.",
+     "ab": 1,
+     "bang": {
+      "glu": 3.7
+     },
+     "n": "Bắt buộc: người tiêm insulin, ăn rất ít, toát mồ hôi, run tay. Glucose < 3,9 và ≥ 3,0 mmol/L là hạ đường huyết mức 1 (ADA 2026, Bảng 6.4; QĐ 5481/2020, Phần 6 mục 2)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 9,4 mmol/L · Creatinin 121 µmol/L · eGFR 57 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 9.4,
+      "creat": 121,
+      "egfr": 57
+     },
+     "n": "Hợp lý ở người cao tuổi mất nước: tiêu chảy có thể kèm rối loạn điện giải, suy thận (QĐ 5642/2015 mục 3.3, 5); người già hay có suy thận chức năng (QĐ 4178/2007 mục II.3g)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 134 · K 3,3 · Cl 99 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 134,
+      "k": 3.3,
+      "cl": 99
+     },
+     "n": "Hạ kali là biến chứng của tiêu chảy (QĐ 5642/2015 mục 5). Oresol có KCl 1,5 g/lít (QĐ 4178/2007 mục III.2a)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 151 g/L · BC 9,4 G/L (bạch cầu trung tính 66%) · TC 245 G/L",
+     "bang": {
+      "wbc": 9.4,
+      "neu_pct": 66.0,
+      "neu": 6.2,
+      "lym_pct": 25.0,
+      "lym": 2.35,
+      "mono_pct": 7.0,
+      "mono": 0.66,
+      "eos_pct": 1.5,
+      "eos": 0.14,
+      "baso_pct": 0.5,
+      "baso": 0.05,
+      "rbc": 5.2,
+      "hgb": 151,
+      "hct": 0.46,
+      "mcv": 88.5,
+      "mch": 29.0,
+      "mchc": 328,
+      "rdw": 13.6,
+      "plt": 245
+     },
+     "n": "Hữu ích, không bắt buộc: bạch cầu bình thường, không có tiêu chí 'bạch cầu tăng' để cân nhắc kháng sinh (QĐ 5642/2015 mục 4.2.1)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 11 mg/L",
+     "bang": {
+      "crp": 11
+     },
+     "n": "Không bắt buộc, không đổi quyết định kháng sinh (IDSA 2017 KC 36); dùng cùng khám bụng lặp khi còn nghĩ viêm ruột thừa (WSES 2025 KC 1, tr. 285). Ngưỡng CRP: không có trong tài liệu đã tải."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "Phân sệt nâu vàng: không hồng cầu, không bạch cầu, không trứng hay ký sinh trùng, không thấy phẩy khuẩn di động.",
+     "n": "Hữu ích: tìm hồng cầu, bạch cầu (QĐ 5642/2015 mục 4.2.1); IDSA 2017 KC 20 (tr. e49) không dùng bạch cầu phân để xác định căn nguyên."
+    },
+    "cay_phan": {
+     "v": "e",
+     "r": "Đã lấy mẫu phân gửi phòng xét nghiệm (cấy và tìm Salmonella, Shigella, Campylobacter, Vibrio); hẹn kết quả sau 48–72 giờ.",
+     "n": "Hợp lý: ổ dịch từ bữa ăn chung với ít nhất 3 người bệnh (ACG 2016 KC 1; IDSA 2017 KC 11, 16: xét nghiệm phân của người trong ổ dịch theo hướng dẫn y tế dự phòng); ngày đầu có sốt nhẹ và đau quặn (IDSA 2017 KC 8)."
+    },
+    "cdiff": {
+     "v": "a",
+     "r": "Độc tố và gen độc tố C. difficile trong phân sệt: âm tính.",
+     "n": "Chấp nhận: tiêu chảy có trước amoxicillin nên ít nghĩ; IDSA 2017 KC 18 (tr. e48: có thể xét nghiệm sau dùng kháng sinh, yếu)."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Hơi ruột nhiều, quai ruột non chứa dịch nhu động giảm, không dịch tự do, ruột thừa không thấy rõ, thành đại tràng không dày.",
+     "n": "Chấp nhận, không bắt buộc: không có X-quang, CT; WSES 2025 KC 1, 3.1 (tr. 285: điểm lâm sàng kết hợp siêu âm khi không có CT)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng (viêm dạ dày – ruột cấp, thể phân nước, ngày thứ 5, nghi từ cơm hộp trong ổ dịch ≥ 3 người; tác nhân chưa xác định), kèm mất nước độ 1 ở người cao tuổi, hạ đường huyết mức 1 do tiêm insulin khi ăn rất ít, hạ kali nhẹ và bụng chướng do dùng loperamid quá liều",
+     "ok": 1,
+     "n": "Khởi phát cấp, dưới 14 ngày (ACG 2016, tr. 602); ngày 1–2 phân nước 8–10 lần, nôn, sốt nhẹ, ít nhất 3 người cùng bữa cơm hộp; phân không máu, không nhầy (QĐ 5642/2015 mục 3.1, 3.4; IDSA 2017 Bảng 2, tr. e48: bữa ăn tập thể gợi norovirus, Salmonella không thương hàn, C. perfringens, B. cereus, S. aureus)."
+    },
+    {
+     "t": "Tả",
+     "n": "Loại trừ: phân không toàn nước như nước vo gạo, 8–10 lần/ngày rồi thưa, không 20–50 lần (QĐ 5642/2015 mục 3.2), nôn chỉ một lần, mất nước độ 1 sau 5 ngày; có thể có sốt nhẹ, khác tả không sốt (QĐ 4178/2007 mục II.1a)."
+    },
+    {
+     "t": "Lỵ trực trùng (Shigella)",
+     "n": "Loại trừ: lỵ có sốt cao 39–40 °C, đau quặn, mót rặn, phân nhầy máu 20–40 lần/ngày (QĐ 5642/2015, Bệnh lỵ trực khuẩn, mục 3.1b–c, 3.3)."
+    },
+    {
+     "t": "Viêm ruột thừa cấp",
+     "n": "Loại trừ ở mức lâm sàng: đau quặn quanh rốn lan tỏa, ấn không đau khu trú hố chậu phải, không phản ứng thành bụng, Rovsing và cơ thắt lưng chậu âm tính, không sốt, bạch cầu bình thường."
+    },
+    {
+     "t": "Tiêu chảy do kháng sinh / nhiễm C. difficile",
+     "n": "Ít nghĩ: tiêu chảy bắt đầu trước khi ông uống amoxicillin dư (ngày 3–4); không phân nước nhiều sau kháng sinh."
+    },
+    {
+     "t": "Rối loạn mất ngủ mạn tính (mất ngủ không thực tổn)",
+     "n": "Không phải: ông ngủ bình thường trước bệnh, mất ngủ mới 2–3 đêm, có nguyên nhân thực tổn rõ (đi ngoài ban đêm và cơn hạ đường huyết 2–3 giờ sáng)."
+    },
+    {
+     "t": "Đái tháo đường tăng đường huyết do nhiễm trùng, cần tăng liều insulin",
+     "n": "Sai hướng: đường huyết mao mạch 3,7 mmol/L, ông ăn rất ít; tăng liều insulin sẽ làm hạ đường huyết nặng hơn (ADA 2026 KC 6.18; QĐ 5481/2020 Phần 6 mục 1e)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xử trí hạ đường huyết ngay tại phòng khám: cho uống 15–20 g glucose (hoặc 10–15 g theo QĐ 5904/2019) pha nước, đo lại đường huyết sau 15 phút, nhắc lại nếu còn dưới 3,9 mmol/L; khi đã lên thì cho ăn nhẹ ngay vì insulin còn tác dụng",
+     "v": "c",
+     "n": "QĐ 5481/2020 Phần 6 mục 1c (15–20 g, thử lại sau 15 phút, nhắc lại, rồi ăn nhẹ); QĐ 5904/2019 Bước 4 (10–15 g); ADA 2026 KC 6.15. Ghi cả hai lượng (sổ mâu thuẫn TH-0295)."
+    },
+    {
+     "t": "Bù dịch đường uống bằng oresol, bắt đầu từng ngụm ngay tại phòng khám: bù 2–4 lít, sau đó uống theo nhu cầu khoảng 2 lít/ngày và thêm sau mỗi lần đi ngoài đến khi hết tiêu chảy; nước cháo muối, súp, nước dùng cũng được",
+     "v": "c",
+     "n": "IDSA 2017 KC 39, 43, Bảng 7 (tr. e70: người lớn ≥ 30 kg mất nước nhẹ–vừa: ORS 2–4 L, duy trì khoảng 2 L/ngày); QĐ 5642/2015 mục 4.2.3a (mất nước độ I, uống được: oresol); ACG 2016 KC 5 (tr. 607: ORS cân bằng cho người già tiêu chảy nặng)."
+    },
+    {
+     "t": "Ngưng loperamid ngay và giải thích: ông uống 12–16 mg/ngày × 3 ngày (quá 8 mg/ngày và 48 giờ), lại dùng khi còn sốt nhẹ, nên bụng chướng, nhu động thưa",
+     "v": "c",
+     "n": "ACG 2016 tr. 609–610 (4 mg rồi 2 mg sau mỗi lần phân lỏng, tối đa 8 mg/ngày, ≤ 48 giờ); IDSA 2017 KC 46–47 (tr. e51: tránh khi có sốt); QĐ 5642/2015 mục 4.2.3b."
+    },
+    {
+     "t": "Không kê kháng sinh, chờ cấy phân và khám lại sau 2 ngày; HOẶC (vì tuổi cao theo QĐ 5642) azithromycin 0,5 g/ngày × 5 ngày",
+     "v": "c",
+     "n": "Theo sổ mâu thuẫn (TH-0717), ghi cả hai. Không kê: IDSA 2017 KC 36 (tr. e50); ACG 2016 KC 9–10 (tr. 610); WHO AWaRe 2022 chương 14. Cân nhắc: QĐ 5642/2015 mục 4.2.1 (người già thuộc nhóm cân nhắc), mục 4.2.2a (ưu tiên ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày; thay thế azithromycin 0,5 g/ngày × 5 ngày). Ông không sốt lúc khám, không máu, bạch cầu bình thường; nếu kê thì chọn azithromycin vì ông tiêm insulin (mục kế)."
+    },
+    {
+     "t": "Kê ciprofloxacin hoặc levofloxacin cho ông (đang tiêm insulin, vừa hạ đường huyết 3,7 mmol/L)",
+     "v": "w",
+     "n": "WHO AWaRe 2022 Bảng 14.6, ghi chú b (tr. 182): fluoroquinolon có thể gây rối loạn đường huyết nặng, kể cả hôn mê hạ đường huyết, và rối loạn tâm thần. Ông vừa hạ đường huyết 3,7 mmol/L khi tiêm insulin. Tiêu chảy không xâm nhập nên không cần thuốc ưu tiên của QĐ 5642 mục 4.2.2a. Chấm w (nguồn nêu nguy cơ, không cấm hẳn)."
+    },
+    {
+     "t": "Gửi cấy phân đã lấy; hỏi ông hàng xóm và anh cán bộ, báo trạm y tế xã hoặc y tế dự phòng về ổ dịch cơm hộp",
+     "v": "c",
+     "n": "ACG 2016 KC 1; IDSA 2017 KC 11, 16 (tr. e47). Quy định báo cáo ổ dịch ở Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Điều chỉnh insulin, không tự ngưng và không giữ nguyên: tiêm hỗn hợp 30/70 ngay trước bữa ăn và chỉ khi ăn được bữa đó; giảm khoảng 10–20% khi ăn rất ít (ví dụ sáng 16, chiều 10 đơn vị); đo đường huyết trước các bữa ăn, trước ngủ và khi thức giấc nửa đêm; mua que thử",
+     "v": "c",
+     "n": "QĐ 5481/2020 Phần 4 (insulin hỗn hợp tiêm trước bữa ăn; hạ đường huyết không rõ nguyên nhân giảm 2–4 đơn vị hay 10–20%); ADA 2026 Hình 9.5, mục 6 (tr. S143). Mức giảm khi ăn kém: không có trong tài liệu đã tải; số đơn vị là nhận định của ca."
+    },
+    {
+     "t": "Giữ nguyên liều insulin 18 và 12 đơn vị khi ông chỉ ăn vài thìa cháo mỗi bữa",
+     "v": "w",
+     "n": "QĐ 5481/2020 Phần 6 mục 1e, Phần 4; ADA 2026 KC 6.18. Đây là nguyên nhân hạ đường huyết; chấm w theo sổ mâu thuẫn (MT-0684)."
+    },
+    {
+     "t": "Tự ngưng hẳn insulin vài ngày vì không ăn được",
+     "v": "w",
+     "n": "ADA 2026 mục 6 (tr. S143: người dùng insulin tích cực không ngưng insulin nền dù không ăn); áp dụng tham khảo cho insulin hỗn hợp (nhận định của ca)."
+    },
+    {
+     "t": "Cho ăn lại sớm, không nhịn ăn: cháo, súp, cơm mềm, bánh quy mặn, thức ăn luộc hấp nướng; ăn đều bữa để khớp với mũi insulin",
+     "v": "c",
+     "n": "IDSA 2017 KC 45 (tr. e51); ACG 2016 Hình 1 (tr. 603); QĐ 4178/2007 mục III.2.c. Tránh dầu mỡ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê thuốc ngủ: giải thích mất ngủ do đi ngoài ban đêm và cơn hạ đường huyết 2–3 giờ sáng, hướng dẫn vệ sinh giấc ngủ; nếu sau khi khỏi vẫn mất ngủ ≥ 3 đêm/tuần kéo dài ≥ 1 tháng thì đánh giá lại (thuốc ngắn hạn ≤ 4 tuần sau quyết định chung, hoặc tránh benzodiazepin và nhóm Z)",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 3.1.1 (tr. 150: mất ngủ không thực tổn cần ≥ 3 lần/tuần ≥ 1 tháng, không có nguyên nhân thực tổn), mục 4.3 (vệ sinh giấc ngủ). Khi cần thuốc sau này: ESRS 2023 Bảng 16 (ngắn hạn ≤ 4 tuần) hoặc tránh benzodiazepin, nhóm Z ở ≥ 65 tuổi (AGS Beers 2023 Bảng 2), theo sổ mâu thuẫn TT-0161."
+    },
+    {
+     "t": "Kê thuốc ngủ (diazepam, lorazepam, zopiclon, zolpidem) cho ông",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2; QĐ 2058/2020 Bài 27 mục 3.1.1."
+    },
+    {
+     "t": "Tiếp tục hoặc tăng loperamid vì phân còn lỏng",
+     "v": "w",
+     "n": "ACG 2016 tr. 609–610; IDSA 2017 KC 47; QĐ 5642/2015 mục 4.2.3b."
+    },
+    {
+     "t": "Men vi sinh (có thể dùng) hoặc không dùng",
+     "v": "a",
+     "n": "IDSA 2017 KC 49 (có thể dùng, yếu) so với ACG 2016 KC 6 (không khuyến cáo trừ sau kháng sinh); ghi cả hai (sổ mâu thuẫn TH-0717). Chủng, liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay (sốt ≥ 38,3 °C, phân máu hoặc nhầy máu, đau bụng tăng hoặc khu trú hố chậu phải, bụng chướng cứng và không trung tiện, nôn không uống được, không đi tiểu, lú lẫn, run toát mồ hôi tái lại mà không tự hết) và hẹn tái khám sau 2 ngày",
+     "v": "c",
+     "n": "Sốt > 101 °F (38,3 °C), phân máu: ACG 2016 Hình 1 (tr. 603), IDSA 2017 KC 3, 8, 30; không uống được thì truyền: QĐ 5642/2015 mục 4.2.3a; đau hố chậu phải: WSES 2025 KC 1; hạ đường huyết: QĐ 5481/2020 Phần 6. Mốc 2 ngày: không có trong tài liệu đã tải (lựa chọn của ca)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng (viêm dạ dày – ruột cấp), thể phân nước, ngày thứ 5, nghi từ cơm hộp trong ổ dịch ít nhất 3 người; tác nhân chưa xác định (norovirus, độc tố vi khuẩn hoặc vi khuẩn không xâm nhập), chờ cấy phân",
+     "Mất nước độ 1 ở người cao tuổi (nằm mạch 88, HA bình thường, tiểu ít, uống được; đứng HA tụt 20 mmHg, mạch 104; sụt 3 kg), creatinin 121 µmol/L cao hơn nền 92, hạ kali nhẹ 3,3 mmol/L",
+     "Hạ đường huyết mức 1 (3,7 mmol/L) do tiêm insulin hỗn hợp đủ liều khi ăn rất ít; hai đêm thức lúc 2–3 giờ sáng toát mồ hôi, run tay là cơn hạ đường huyết ban đêm",
+     "Bụng chướng, nhu động thưa do dùng loperamid quá liều và quá thời gian (12–16 mg/ngày × 3 ngày); đã tự uống thêm berberin và amoxicillin dư",
+     "Loại trừ: tả, lỵ trực trùng, viêm ruột thừa; không có chỉ định kháng sinh; mất ngủ là hậu quả của nguyên nhân thực tổn, chưa có chỉ định thuốc ngủ",
+     "Yếu tố gây nhiễu: tự mua thuốc 5 ngày và khai thiếu; quy cho 'lạnh bụng do máy lạnh'; muốn xin thuốc ngủ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: (1) hỏi bệnh sử số lần và tính chất phân, nôn, sốt, đau bụng, ăn gì trước khi bệnh và ai cùng ăn (IDSA 2017 KC 1, tr. e45); (2) hỏi riêng thuốc đã uống cho cái đi ngoài: loại, liều, số ngày; (3) hỏi insulin, lượng ăn, cơn hạ đường huyết (QĐ 5481/2020 Phần 6 mục 1a; ADA 2026 KC 6.10); (4) khám mất nước (huyết áp nằm–đứng, niêm mạc, véo da), khám bụng, thăm trực tràng; (5) đường huyết mao mạch, creatinin, điện giải, cấy phân; (6) chẩn đoán và xử trí.",
+     "Bẫy hỏi bệnh: ông mở đầu 'uống thuốc rồi mà chưa hết', đổ tại máy lạnh và chỉ kể insulin khi hỏi thuốc đang dùng.",
+     "Tiêu chảy cấp nhiễm trùng: khởi phát cấp dưới 14 ngày, phân nước không máu, nôn, sốt nhẹ ngày đầu, nhiều người cùng bữa ăn tập thể (ACG 2016, tr. 602; QĐ 5642/2015 mục 3.1, 3.4; IDSA 2017 Bảng 2, tr. e48).",
+     "Mất nước độ 1: nằm mạch 88 < 100, HA bình thường, tiểu ít, tay chân ấm; đứng mạch 104 đã sát độ 2 (QĐ 5642/2015 mục 3.1, bảng; QĐ 4178/2007 Bảng 1).",
+     "Hạ đường huyết: glucose 3,7 mmol/L là mức 1 (ADA 2026 Bảng 6.4; QĐ 5481 Phần 6 mục 2). Cơ chế: tiêm đủ 18 + 12 đơn vị nhưng ăn vài thìa cháo.",
+     "Loại tả: phân không nước vo gạo, số lần 8–10 rồi thưa, không dịch tễ hải sản sống (QĐ 4178/2007 mục II.1a, II.1c; QĐ 5642 mục 3.2).",
+     "Xét nghiệm: đường huyết mao mạch, creatinin, điện giải là bắt buộc; cấy phân hợp lý vì ổ dịch (ACG 2016 KC 1; IDSA 2017 KC 11, 16) dù đã dùng amoxicillin 2 ngày; công thức máu, soi phân, CRP hữu ích; độc tố C. difficile, siêu âm bụng chấp nhận."
+    ],
+    "phan_tich_xu_tri": [
+     "Việc đầu tiên là hạ đường huyết, không phải tiêu chảy: 15–20 g glucose, đo lại sau 15 phút, rồi cho ăn nhẹ (QĐ 5481/2020 Phần 6 mục 1c; ADA 2026 KC 6.15); QĐ 5904/2019 Bước 4 ghi 10–15 g, chấm a (sổ mâu thuẫn).",
+     "Bù dịch đường uống là điều trị chính: oresol 2–4 lít rồi duy trì khoảng 2 lít/ngày (IDSA 2017 KC 39, 43, Bảng 7; QĐ 5642/2015 mục 4.2.3a).",
+     "Ngưng loperamid: vượt 8 mg/ngày và 48 giờ, lại dùng lúc còn sốt nhẹ (ACG 2016, tr. 609–610; IDSA 2017 KC 47; QĐ 5642 mục 4.2.3b).",
+     "Kháng sinh: ông không sốt hiện tại, không máu, bạch cầu bình thường nên không kê, chờ cấy phân (ACG 2016 KC 9–10; IDSA 2017 KC 36; WHO AWaRe 2022 ch. 14).",
+     "Insulin: không giữ nguyên, không ngưng hẳn; giảm 10–20% (16 và 10 đơn vị) trong những ngày ăn ít, tiêm ngay trước bữa ăn, đo đường huyết trước ăn, trước ngủ, khi thức giấc đêm (QĐ 5481/2020 Phần 4; ADA 2026 Hình 9.5 và tr. S143).",
+     "Thuốc ngủ: chưa có chỉ định vì mất ngủ có nguyên nhân thực tổn đang xử trí (QĐ 2058/2020 Bài 27 mục 3.1.1); ưu tiên vệ sinh giấc ngủ (mục 4.3). Nếu sau này cần: ESRS 2023 Bảng 16 hoặc AGS Beers 2023 Bảng 2 (sổ mâu thuẫn TT-0161).",
+     "Cho về, không nhập viện, không chuyển tuyến: tỉnh, uống được, mất nước độ 1, đã chữa hạ đường huyết, bụng không có dấu ngoại khoa, có vợ ở cạnh và con trai chở được."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol (ORS)",
+      "ham_luong": "Gói oresol (QĐ 4178/2007 mục III.2a: NaCl 3,5 g, NaHCO3 2,5 g, KCl 1,5 g, glucose 20 g/1 lít); ORS giảm thẩm thấu cũng được (IDSA 2017 KC 39)",
+      "lieu": "Pha 1 gói với 1 lít nước đun sôi để nguội (hoặc đúng thể tích ghi trên gói). Bù ban đầu 2–4 lít uống từng ngụm, uống 500 mL ngay tại phòng khám; sau đó theo nhu cầu khoảng 2 lít/ngày và thêm sau mỗi lần đi ngoài",
+      "duong": "Uống",
+      "thoi_diem": "Bắt đầu ngay tại phòng khám, rải đều trong ngày, không uống dồn một lần",
+      "so_ngay": "Đến khi hết tiêu chảy và tiểu đều (số ngày cụ thể không có trong tài liệu đã tải)",
+      "ghi_chu": "IDSA 2017 KC 39, 43, Bảng 7; QĐ 5642/2015 mục 4.2.3a. Nôn thì uống từng ngụm nhỏ. Thay thế: nước cháo muối, nước dừa pha muối (QĐ 4178 mục III.2a)."
+     },
+     {
+      "thuoc": "Glucose (hoặc nước đường) khi hạ đường huyết",
+      "ham_luong": "Đường glucose gói hoặc nước đường pha sẵn; 300 mL nước ép trái cây chứa khoảng 15 g glucose",
+      "lieu": "15–20 g glucose (QĐ 5481/2020) hoặc 10–15 g (QĐ 5904/2019); đo lại sau 15 phút, nhắc lại nếu còn dưới 3,9 mmol/L; khi lên thì ăn nhẹ ngay",
+      "duong": "Uống",
+      "thoi_diem": "Khi run, toát mồ hôi, hồi hộp, đói cồn cào hoặc đường huyết < 3,9 mmol/L, kể cả lúc 2–3 giờ sáng",
+      "so_ngay": "Khi cần; ông luôn để đường và bánh ở đầu giường",
+      "ghi_chu": "QĐ 5481/2020 Phần 6 mục 1c, 3b; ADA 2026 KC 6.15 (thức ăn nhiều đạm, mỡ không dùng để chữa hạ đường huyết); QĐ 5904/2019 Bước 4."
+     },
+     {
+      "thuoc": "Insulin hỗn hợp 30/70 (đang dùng, chỉnh liều tạm thời)",
+      "ham_luong": "Theo bút hoặc lọ ông đang dùng",
+      "lieu": "Giảm khoảng 10–20% khi ăn rất ít: sáng 16 đơn vị (thường 18), chiều 10 đơn vị (thường 12); chỉ tiêm ngay trước bữa ăn và khi ăn được bữa đó",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Ngay trước ăn sáng và ăn chiều",
+      "so_ngay": "Đến khi ăn lại gần đủ; đánh giá lại khi tái khám sau 2 ngày; không ngưng hẳn",
+      "ghi_chu": "QĐ 5481/2020 Phần 4 (insulin hỗn hợp tiêm trước bữa ăn; hạ đường huyết giảm 2–4 đơn vị hay 10–20%); ADA 2026 Hình 9.5 và tr. S143. Mức giảm khi ăn kém cho insulin hỗn hợp: không có trong tài liệu đã tải; số đơn vị là nhận định của ca, đo đường huyết trước ăn và trước ngủ để chỉnh tiếp."
+     }
+    ],
+    "dan_do": [
+     "Ngưng Imodium và berberin; không uống thêm kháng sinh còn dư trong tủ; mang hộp, vỏ thuốc theo khi tái khám (WHO AWaRe 2022, tr. 13, Bảng 2.3).",
+     "Uống oresol như đơn, thêm sau mỗi lần đi ngoài; ăn cháo, súp, cơm mềm, bánh quy mặn, không nhịn ăn (IDSA 2017 KC 43, 45; ACG 2016 Hình 1).",
+     "Đo đường huyết trước ăn, trước ngủ và khi thức giấc 2–3 giờ sáng hoặc khi run, toát mồ hôi; dưới 3,9 mmol/L thì uống 15–20 g đường, đo lại sau 15 phút, rồi ăn nhẹ; vợ và con trai biết cách xử trí (QĐ 5481/2020 Phần 6; ADA 2026 KC 6.16–6.18).",
+     "Insulin: tiêm 16 đơn vị trước ăn sáng và 10 đơn vị trước ăn chiều, chỉ khi ăn được bữa đó; không tự ngưng, không tự tăng; ghi sổ đường huyết mang theo (QĐ 5481/2020 Phần 4; ADA 2026 tr. S143).",
+     "Giấc ngủ: đêm thức giữa 2–3 giờ sáng là do đường huyết thấp và đi ngoài, không phải bệnh mất ngủ; chưa dùng thuốc ngủ, đừng nhận thuốc ngủ của hàng xóm; đi ngủ đúng giờ, không cà phê buổi tối (QĐ 2058/2020 Bài 27 mục 4.3).",
+     "Rửa tay xà phòng sau đi vệ sinh và trước ăn, ăn chín, uống nước sôi; hỏi thăm ông hàng xóm đã đi khám chưa (IDSA 2017 KC 52, 54, 55).",
+     "Quay lại ngay: sốt ≥ 38,3 °C, phân có máu hoặc nhầy máu, đau bụng tăng hoặc chuyển về hố chậu phải, bụng cứng không trung tiện, nôn không uống được, không đi tiểu, lú lẫn, run toát mồ hôi tái lại không tự hết (ACG 2016 Hình 1; IDSA 2017 KC 3, 8, 30).",
+     "Tái khám sau 2 ngày (mốc của ca; không có trong tài liệu đã tải), mang sổ đường huyết và hỏi kết quả cấy phân."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 2 ngày",
+   "tiep_don": "Ông Thạnh tái khám theo hẹn, con trai chở đến. Ông nói đã đỡ hẳn: chiều qua đi ngoài thành khuôn một lần, hôm nay chưa đi lại, hết quặn bụng. Sinh hiệu (nằm): HA 128/76 mmHg, mạch 76 l/p, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%. Cân nặng 60 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện ông Thạnh để 'theo dõi thêm' hoặc truyền dịch khi ông đã hết tiêu chảy, ăn uống bình thường, huyết động ổn, creatinin về 96 µmol/L (gần nền 92) là không có chỉ định: tĩnh mạch chỉ khi mất nước từ độ 2 không uống được hoặc nặng (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 KC 41).",
+    "chuyen_tuyen": "Gửi ông lên bệnh viện tỉnh nội soi đại tràng hoặc CT bụng 'cho chắc' khi tiêu chảy đã hết sau 8 ngày là không có chỉ định: ACG 2016 KC 12 không khuyến cáo nội soi ngay cả khi tiêu chảy kéo dài 14–30 ngày và cấy phân âm tính; IDSA 2017 KC 26, 28 chỉ nghĩ bệnh không nhiễm trùng khi triệu chứng từ 14 ngày."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đỡ hẳn rồi, hết quặn, đi ngoài thành khuôn rồi. Hai đêm nay tôi ngủ được. Nhờ bác sĩ coi lại cho chắc ăn.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "128/76",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn; đã đỡ hẳn: hết quặn bụng, hết chướng, ăn cơm mềm được.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "phan_hien_nay",
+     "noi_dung": "Sau hôm khám phân thưa dần: hôm sau 3 lần sệt, chiều qua 1 lần thành khuôn, hôm nay chưa đi. Không sốt lại, không máu, không nhầy, không đau quặn, bụng hết chướng, trung tiện bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chí khỏi: phân, sốt, đau bụng"
+    },
+    {
+     "id": "thuoc_da_dung",
+     "noi_dung": "Đã ngưng Imodium và berberin từ hôm khám, không uống thêm thuốc nào; còn 1 viên Imodium ở túi áo, đã đưa con trai giữ. Uống oresol khoảng 2 lít mỗi ngày, hôm nay uống thưa dần; ăn cháo rồi cơm mềm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ dặn dò, thuốc đang dùng"
+    },
+    {
+     "id": "insulin_duong",
+     "noi_dung": "Hai ngày qua tiêm 16 và 10 đơn vị theo dặn, tiêm ngay trước ăn. Đo đường huyết trước ăn sáng 6,8 và 7,4 mmol/L, trước ngủ 8,2 và 9,0 mmol/L; không còn run, toát mồ hôi lúc nửa đêm, không phải ăn đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đường huyết, liều insulin, ăn uống"
+    },
+    {
+     "id": "giac_ngu",
+     "noi_dung": "Hai đêm nay ngủ 6–7 tiếng, không thức giữa đêm, không đi ngoài đêm. Ông thấy 'ngủ lại được là nhẹ người'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giấc ngủ sau khi hết nguyên nhân thực tổn"
+    },
+    {
+     "id": "thuoc_ngu_hang_xom",
+     "noi_dung": "Ông hàng xóm cho ông 2 viên thuốc ngủ màu trắng, không nhãn, bảo 'để dành khi nào khó ngủ'. Ông chưa uống, để trong túi áo, định hỏi bác sĩ có dùng được không.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ đưa ra khi bác sĩ hỏi ông còn mang theo thuốc gì, hoặc hỏi về giấc ngủ và thuốc ngủ.",
+     "y": "Thuốc ngủ trôi nổi do hàng xóm cho"
+    },
+    {
+     "id": "nguoi_cung_bua",
+     "noi_dung": "Anh cán bộ khỏi từ trước. Ông hàng xóm đi lỏng thêm hai ngày rồi hết, nhờ trạm y tế xã cho oresol. Trạm y tế xã có hỏi ban tổ chức tập huấn về cơm hộp.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": null
+    },
+    {
+     "id": "hoi_them",
+     "noi_dung": "Ông muốn ra đồng cho vịt ăn lại và hỏi bao giờ làm việc được. Ông cũng hỏi có nên làm thêm xét nghiệm phân hay nội soi 'cho chắc' không. Ông không bán thực phẩm, không nấu ăn cho người khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hoạt động, xét nghiệm kiểm tra sau khỏi"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nhanh nhẹn hơn, da hồng hào hơn, không vã mồ hôi, không run. Cân nặng 60 kg (thường 61 kg). Nhiệt độ 36,7 °C. Không phù.",
+     "k": 1,
+     "hien": "Tỉnh, nhanh nhẹn, không vã mồ hôi. Cân nặng 60 kg."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: HA 128/76 mmHg, mạch 76 l/p. Đứng 3 phút: HA 126/76 mmHg, mạch 80 l/p, không choáng. Hết hạ huyết áp tư thế.",
+     "k": 1,
+     "hien": "Nằm 128/76, mạch 76. Đứng 3 phút: 126/76, mạch 80, không choáng."
+    },
+    "dau_mat_co": {
+     "a": "Môi lưỡi ẩm, mắt không trũng, củng mạc không vàng.",
+     "k": 0,
+     "hien": "Môi lưỡi ẩm. Mắt không trũng."
+    },
+    "bung": {
+     "a": "Bụng mềm, hết chướng, nhu động ruột 4–5 tiếng/phút. Ấn không đau, hố chậu phải không đau, Rovsing âm tính, không phản ứng thành bụng, không khối.",
+     "k": 1,
+     "hien": "Bụng mềm, ấn không đau. Nhu động bình thường."
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "e",
+     "r": "Ure 5,6 mmol/L · Creatinin 96 µmol/L · eGFR 75 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.6,
+      "creat": 96,
+      "egfr": 75
+     },
+     "n": "Cần để đóng ca: lượt 1 creatinin 121 cao hơn nền 92. Về 96 sau bù dịch xác nhận tổn thương chức năng trước thận đã hồi phục (QĐ 5642/2015 mục 5; QĐ 4178/2007 mục II.3g: người già hay còn suy thận dù đã bù dịch)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 138 · K 4,0 · Cl 102 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 4.0,
+      "cl": 102
+     },
+     "n": "Lượt 1 K 3,3 mmol/L; kiểm tra lại để xác nhận về bình thường sau oresol (QĐ 5642/2015 mục 5; oresol có KCl, QĐ 4178/2007 mục III.2a)."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch trước ăn sáng tại phòng khám: 6,9 mmol/L.",
+     "bang": {
+      "glu": 6.9
+     },
+     "n": "Hữu ích: đối chiếu số ông tự đo, quyết định đưa insulin về liều quen (QĐ 5481/2020 Phần 6 mục 1a; ADA 2026 KC 6.10)."
+    },
+    "cay_phan": {
+     "v": "n",
+     "r": "Kết quả mẫu lượt 1 (phòng xét nghiệm trả về): không mọc Salmonella, Shigella, Campylobacter, Vibrio.",
+     "n": "Không lặp lại: IDSA 2017 KC 26 (tr. e49): không xét nghiệm phân kiểm tra sau khi hết tiêu chảy, trừ khi y tế dự phòng yêu cầu cho người đi làm lại ở nơi chế biến thực phẩm hay chăm sóc; ông là nông dân không phục vụ thực phẩm."
+    },
+    "abdus": {
+     "v": "n",
+     "r": "Không làm lại: bụng mềm không đau, siêu âm lượt 1 không dịch tự do.",
+     "n": "Không cần: khám bụng hôm nay bình thường, không còn nghi viêm ruột thừa (WSES 2025 KC 1, 3.1, tr. 285)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng (nghi từ cơm hộp trong ổ dịch, tác nhân không xác định) đã khỏi sau bù oresol, ngưng loperamid, không kháng sinh; hạ đường huyết do ăn ít đã hết sau chỉnh insulin; creatinin và kali về bình thường",
+     "ok": 1,
+     "n": "Phân thành khuôn, hết sốt, hết đau bụng và hết chướng, ăn uống bình thường, hết choáng đứng; creatinin 96 (nền 92), kali 4,0, đường huyết trước ăn 6,9 mmol/L. Cấy phân không mọc vi khuẩn thường gặp nhưng đã dùng amoxicillin 2 ngày nên không loại trừ; căn nguyên không xác định, thường gặp ở ổ dịch tiêu chảy cấp (ACG 2016 KC 3, tr. 604; IDSA 2017 KC 11)."
+    },
+    {
+     "t": "Tiêu chảy kéo dài hoặc do C. difficile",
+     "n": "Không phải: bệnh mới 8 ngày, đã hết; tiêu chảy kéo dài từ 7–13 ngày, dai dẳng từ 14 ngày (IDSA 2017, tr. e53). Tiêu chảy bắt đầu trước amoxicillin."
+    },
+    {
+     "t": "Bệnh viêm ruột hoặc ung thư đại tràng",
+     "n": "Không có chỉ định tìm: bệnh khỏi sau 8 ngày; nghĩ đến bệnh không nhiễm trùng khi triệu chứng từ 14 ngày (IDSA 2017 KC 28); ACG 2016 KC 12 không khuyến cáo nội soi khi tiêu chảy 14–30 ngày và cấy phân âm tính."
+    },
+    {
+     "t": "Rối loạn mất ngủ mạn tính",
+     "n": "Không phải: ông ngủ lại 6–7 tiếng ngay khi hết đi ngoài ban đêm và hết hạ đường huyết; chẩn đoán cần ≥ 3 lần/tuần trong ≥ 1 tháng và không có nguyên nhân thực tổn (QĐ 2058/2020 Bài 27 mục 3.1.1, tr. 150)."
+    },
+    {
+     "t": "Bệnh thận mạn có sẵn",
+     "n": "Không có căn cứ: creatinin 121 ở lượt 1 về 96, gần nền 92 sau bù dịch. Ngưỡng và thời gian chẩn đoán bệnh thận mạn: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi bằng tiêu chí rõ: hết tiêu chảy (phân thành khuôn), hết sốt, hết đau bụng và chướng, ăn uống bình thường, hết choáng đứng; creatinin và kali về bình thường",
+     "v": "c",
+     "n": "QĐ 4178/2007 mục III.4 (tiêu chuẩn khỏi của tả, áp dụng tham khảo); QĐ 5642/2015 mục 5 (biến chứng điện giải, suy thận)."
+    },
+    {
+     "t": "Ngưng oresol khi đã hết tiêu chảy và ăn uống nước bình thường; chỉ dùng lại nếu đi lỏng trở lại",
+     "v": "c",
+     "n": "IDSA 2017 KC 43 (tr. e51). Mốc ngưng cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không làm lại cấy phân hay xét nghiệm phân kiểm tra; không nội soi, CT hay xét nghiệm huyết thanh vì đã khỏi",
+     "v": "c",
+     "n": "IDSA 2017 KC 26, 28 (tr. e49); ACG 2016 KC 11–12 (tr. 604)."
+    },
+    {
+     "t": "Đưa insulin trở lại liều quen (18 và 12 đơn vị) khi ăn uống đã bình thường: tăng từng 1–2 đơn vị theo đường huyết trước ăn, đo đường huyết 2 lần/ngày vài ngày",
+     "v": "c",
+     "n": "QĐ 5481/2020 Phần 4 (tăng 10–15% hay 1–2 đơn vị mỗi 1–2 lần/tuần) hoặc ADA 2026 Hình 9.5 (2 đơn vị mỗi 3 ngày); ghi cả hai (sổ mâu thuẫn MT-0332)."
+    },
+    {
+     "t": "Không kê thuốc ngủ; thu hồi hai viên thuốc ngủ ông hàng xóm cho, giải thích mất ngủ đã hết khi hết đi ngoài ban đêm và hết hạ đường huyết; nhắc vệ sinh giấc ngủ",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 3.1.1, 4.3; AGS Beers 2023 Bảng 2; ESRS 2023 Bảng 16 (sổ mâu thuẫn TT-0161)."
+    },
+    {
+     "t": "Dặn phòng tái phát: rửa tay xà phòng, ăn chín uống sôi, không tự mua thuốc cầm tiêu chảy hay kháng sinh dư; khi đi họp mang nước uống; khi ốm ăn kém thì báo để chỉnh insulin",
+     "v": "c",
+     "n": "IDSA 2017 KC 52, 54, 55 (tr. e51–e52); WHO AWaRe 2022 Bảng 2.3 (tr. 13); ADA 2026 mục 6 (tr. S143)."
+    },
+    {
+     "t": "Hẹn tái khám tiểu đường theo lịch (mỗi 3 tháng) và quay lại sớm nếu tiêu chảy tái phát; tiêu chảy từ 7 ngày thì xét nghiệm phân, từ 14 ngày thì tìm nguyên nhân khác",
+     "v": "c",
+     "n": "QĐ 5481/2020 Phần 4 mục i (mỗi 3 tháng); ACG 2016 KC 2 (tr. 604); IDSA 2017 KC 27–28 (tr. e49)."
+    },
+    {
+     "t": "Kê kháng sinh 'cho chắc' dù đã khỏi và cấy phân âm tính",
+     "v": "w",
+     "n": "IDSA 2017 KC 36, 38 (tr. e50); ACG 2016 KC 9–10 (tr. 610)."
+    },
+    {
+     "t": "Nội soi đại tràng hoặc CT bụng để loại trừ bệnh khác khi tiêu chảy đã hết",
+     "v": "w",
+     "n": "ACG 2016 KC 12 (tr. 604); IDSA 2017 KC 24, 28 (tr. e49)."
+    },
+    {
+     "t": "Kê thuốc ngủ (benzodiazepin hoặc nhóm Z) hoặc cho ông giữ thuốc ngủ hàng xóm 'phòng khi cần'",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2; QĐ 2058/2020 Bài 27 mục 3.1.1. Thuốc không nhãn không rõ hoạt chất."
+    },
+    {
+     "t": "Dặn ông giữ Imodium trong túi để uống phòng khi đi ngoài lại",
+     "v": "w",
+     "n": "QĐ 5642/2015 mục 4.2.3b; ACG 2016 tr. 609–610; IDSA 2017 KC 47."
+    },
+    {
+     "t": "Giữ ông ở lại truyền dịch hoặc theo dõi thêm vì lo bệnh chưa khỏi hẳn",
+     "v": "w",
+     "n": "QĐ 5642/2015 mục 4.2.3a; IDSA 2017 KC 41 (tĩnh mạch chỉ khi mất nước nặng hoặc không uống được)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng (nghi từ cơm hộp trong ổ dịch, tác nhân không xác định) đã khỏi sau ngày thứ 7 của bệnh: hết tiêu chảy, hết sốt, hết đau bụng và chướng bụng",
+     "Hạ đường huyết do ăn ít đã hết sau chỉnh insulin; đường huyết trước ăn 6,9 mmol/L; hết cơn toát mồ hôi ban đêm",
+     "Hết mất nước: không còn hạ huyết áp tư thế, cân nặng 60 kg, creatinin 96 µmol/L (nền 92), kali 4,0 mmol/L",
+     "Không có chỉ định kháng sinh, thuốc cầm tiêu chảy, thuốc ngủ; không cần xét nghiệm phân hay nội soi để kiểm tra sau khỏi",
+     "Cấy phân không mọc vi khuẩn thường gặp (đã uống amoxicillin 2 ngày trước khi lấy mẫu), căn nguyên không xác định"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: (1) hỏi ông có làm đúng dặn không: ngưng Imodium, oresol, ăn lại, liều insulin 16 và 10, đo đường huyết; (2) hỏi phân, sốt, đau bụng, đi tiểu, giấc ngủ; (3) hỏi còn mang theo thuốc gì; (4) khám mất nước, bụng; (5) creatinin, kali, đường huyết; (6) kết luận khỏi và xử trí.",
+     "Tiêu chí khỏi đủ: phân thành khuôn, không sốt, không đau quặn, ăn uống bình thường, hết choáng đứng, creatinin và kali về bình thường (QĐ 4178/2007 mục III.4, áp dụng tham khảo; QĐ 5642/2015 mục 5).",
+     "Cấy phân không mọc vi khuẩn thường gặp nhưng đã dùng amoxicillin 2 ngày và berberin nên không loại trừ; ở ổ dịch cơm hộp này, căn nguyên thường là norovirus hoặc độc tố, đa số không tìm ra (ACG 2016 KC 3, tr. 604; IDSA 2017 Bảng 2, tr. e48).",
+     "Giấc ngủ trở lại bình thường ngay khi hết đi ngoài ban đêm và hết hạ đường huyết, xác nhận nguyên nhân thực tổn; không có chẩn đoán mất ngủ (QĐ 2058/2020 Bài 27 mục 3.1.1).",
+     "Xét nghiệm lại creatinin và kali là cần thiết để đóng ca vì lượt 1 bất thường; đường huyết trước ăn giúp quyết định đưa insulin về liều quen."
+    ],
+    "phan_tich_xu_tri": [
+     "Không thêm thuốc nào: khỏi bằng bù dịch và ngưng loperamid.",
+     "Insulin: đưa về liều quen từng bước theo đường huyết trước ăn: 1–2 đơn vị mỗi 1–2 lần/tuần (QĐ 5481/2020 Phần 4) hoặc 2 đơn vị mỗi 3 ngày (ADA 2026 Hình 9.5).",
+     "Thuốc ngủ: không kê, thu hồi thuốc trôi nổi; nếu về sau mất ngủ ≥ 3 đêm/tuần ≥ 1 tháng thì đánh giá lại theo QĐ 2058/2020 Bài 27, ESRS 2023 Bảng 16 hoặc AGS Beers 2023 Bảng 2 (sổ mâu thuẫn TT-0161).",
+     "Hẹn tái khám tiểu đường theo lịch, quay lại sớm nếu tiêu chảy tái phát; tiêu chảy từ 7 ngày thì xét nghiệm phân, từ 14 ngày thì tìm nguyên nhân khác (QĐ 5481/2020 Phần 4 mục i; ACG 2016 KC 2; IDSA 2017 KC 27–28)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Insulin hỗn hợp 30/70 (đưa về liều quen)",
+      "ham_luong": "Theo bút hoặc lọ ông đang dùng",
+      "lieu": "Từ 16 và 10 đơn vị, tăng từng 1–2 đơn vị theo đường huyết trước ăn về 18 (sáng) và 12 (chiều) khi ăn uống bình thường; mốc tăng 1–2 lần/tuần (QĐ 5481) hoặc mỗi 3 ngày (ADA 2026)",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Ngay trước ăn sáng và ăn chiều",
+      "so_ngay": "Hết đợt bệnh về liều quen trong khoảng 1–2 tuần (số ngày cụ thể không có trong tài liệu đã tải); tái khám tiểu đường theo lịch",
+      "ghi_chu": "QĐ 5481/2020 Phần 4 (tiêm trước bữa ăn; tăng 10–15% hay 1–2 đơn vị mỗi 1–2 lần/tuần); ADA 2026 Hình 9.5 (2 đơn vị mỗi 3 ngày); nhịp chậm hơn hợp ông. Hạ đường huyết lại thì giảm 10–20% (QĐ 5481 Phần 4; ADA 2026 Hình 9.5)."
+     },
+     {
+      "thuoc": "Không kê thêm thuốc khác",
+      "ham_luong": "Không kháng sinh, không loperamid, không thuốc ngủ, không men vi sinh bắt buộc",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "IDSA 2017 KC 36, 38; ACG 2016 KC 9–10; QĐ 2058/2020 Bài 27 mục 3.1.1; AGS Beers 2023 Bảng 2; QĐ 5642/2015 mục 4.2.3b."
+     }
+    ],
+    "dan_do": [
+     "Báo ông đã khỏi và không cần xét nghiệm hay nội soi thêm; kết quả cấy phân không mọc vi khuẩn thường gặp (IDSA 2017 KC 26).",
+     "Ngưng oresol khi vẫn không đi lỏng; uống nước đủ, ăn uống bình thường; nếu đi lỏng lại thì uống oresol và báo (IDSA 2017 KC 43).",
+     "Insulin: tăng dần về 18 và 12 đơn vị theo bảng viết sẵn, tiêm trước ăn; đo đường huyết trước ăn sáng và trước ngủ vài ngày; run toát mồ hôi thì uống 15–20 g đường rồi đo lại (QĐ 5481/2020 Phần 4, Phần 6 mục 1c).",
+     "Giao lại hai viên thuốc ngủ không nhãn để tiêu hủy; không nhận hay mua thuốc ngủ, thuốc cầm tiêu chảy, kháng sinh dư; gặp mất ngủ kéo dài thì đến khám (AGS Beers 2023 Bảng 2; QĐ 2058/2020 mục 4.3; WHO AWaRe 2022, tr. 13).",
+     "Rửa tay, ăn chín, uống sôi; khi đi họp mang nước và cơm của nhà; khi ốm ăn kém báo ngay để chỉnh insulin (IDSA 2017 KC 52, 54, 55; ADA 2026 tr. S143).",
+     "Quay lại khi tiêu chảy lại hoặc kéo dài ≥ 7 ngày, có sốt ≥ 38,3 °C, phân có máu (ACG 2016 KC 2, Hình 1).",
+     "Hẹn tái khám tiểu đường theo lịch (mỗi 3 tháng, QĐ 5481/2020 Phần 4 mục i)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Thạnh về nhà cùng con trai, uống oresol, ngưng Imodium, tiêm 16 và 10 đơn vị insulin trước ăn. Đêm đó không còn thức giấc toát mồ hôi; tiêu chảy thưa dần và thành khuôn sau hai ngày. Cấy phân không mọc vi khuẩn gây bệnh thường gặp (sau 2 ngày dùng amoxicillin nên không loại trừ), căn nguyên không xác định như đa số ổ dịch; ông hàng xóm cùng bữa hết sau thêm 2 ngày. Creatinin về 96 µmol/L, kali 4,0 mmol/L, đường huyết trước ăn 6–7 mmol/L. Ông không dùng thuốc ngủ, ngủ lại bình thường và đưa hai viên thuốc ngủ hàng xóm cho để tiêu hủy. Khỏi bệnh, không biến chứng.",
+ "nhieu": [
+  "Tự uống thuốc 5 ngày (Imodium 12–16 mg/ngày × 3 ngày, amoxicillin dư, berberin): che số lần đi ngoài, gây chướng bụng, làm cấy phân âm tính không loại trừ; phải hỏi đích danh từng loại, số viên, số ngày.",
+  "Lý do thật là xin thuốc ngủ: ông thức đêm vì đi ngoài và cơn hạ đường huyết 2–3 giờ sáng; chỉ lộ khi hỏi về giấc ngủ hoặc điều ông muốn nhờ.",
+  "Không có X-quang (nên không CT): không nghi bụng ngoại khoa; dùng khám bụng, thăm trực tràng, siêu âm tùy chọn (WSES 2025 KC 1, 3.1).",
+  "Khởi phát 'sau ngồi máy tính lâu': ông đổ cho máy lạnh; ngồi 6 tiếng ít uống nước chỉ góp phần mất nước, nguyên nhân là cơm hộp trong ổ dịch."
+ ],
+ "bai_hoc_bien": [
+  "Người tiêm insulin bị tiêu chảy, ăn ít: hạ đường huyết là biến chứng nguy hiểm hơn tiêu chảy; đo đường huyết ngay và chỉnh insulin, không giữ nguyên, không bỏ hẳn (ADA 2026 tr. S143).",
+  "Mất ngủ ở người đang bệnh cấp: tìm nguyên nhân thực tổn (đi ngoài đêm, hạ đường huyết) trước khi nghĩ thuốc ngủ; thuốc ngủ ở ≥ 65 tuổi thường hại hơn lợi (AGS Beers 2023 Bảng 2; QĐ 2058/2020 mục 3.1.1).",
+  "Hỏi thuốc đã tự uống phải hỏi đích danh từng loại; loperamid quá liều che số lần đi ngoài và gây chướng bụng, làm bệnh trông nhẹ đi (ACG 2016, tr. 609–610).",
+  "Người cao tuổi mất nước độ 1 vẫn cần đo huyết áp nằm–đứng, creatinin, kali, nhưng đa số bù oresol ngoại trú được (IDSA 2017 KC 5, 39; QĐ 5642/2015 mục 4.2.3a).",
+  "Nhiều người cùng bữa cơm hộp bị bệnh: nghĩ ổ dịch, cấy phân, báo y tế dự phòng (ACG 2016 KC 1; IDSA 2017 KC 11, 16).",
+  "Khỏi bệnh thì không làm thêm xét nghiệm phân, nội soi hay CT; đưa insulin về liều quen theo đường huyết (IDSA 2017 KC 26; QĐ 5481/2020 Phần 4)."
+ ],
+ "diem_nho": [
+  "Tiêu chảy cấp dưới 14 ngày; kéo dài 7–13 ngày; dai dẳng từ 14 ngày (ACG 2016, tr. 602; IDSA 2017, tr. e53).",
+  "Mất nước độ 1: khát ít, mạch < 100, HA bình thường, tiểu ít; độ 2: mạch 100–120, HA < 90, thiểu niệu (QĐ 5642/2015 mục 3.1; QĐ 4178/2007 Bảng 1).",
+  "Không kháng sinh kinh nghiệm cho tiêu chảy nước không sốt, không máu (IDSA 2017 KC 36; ACG 2016 KC 9–10); QĐ 5642/2015 mục 4.2.1 cân nhắc ở người già.",
+  "Hạ đường huyết mức 1: < 3,9 và ≥ 3,0 mmol/L; xử trí 15–20 g glucose, đo lại sau 15 phút (ADA 2026 Bảng 6.4, KC 6.15; QĐ 5481/2020 Phần 6 mục 1c).",
+  "Mất ngủ không thực tổn cần ≥ 3 lần/tuần trong ≥ 1 tháng và không có nguyên nhân thực tổn (QĐ 2058/2020 Bài 27 mục 3.1.1)."
+ ],
+ "nguon": [
+  "QĐ 5642/2015 – Bộ Y tế, QĐ 5642/QĐ-BYT ngày 31/12/2015, Hướng dẫn chẩn đoán và điều trị một số bệnh truyền nhiễm – TL-0038",
+  "QĐ 4178/2007 – Bộ Y tế, Hướng dẫn chẩn đoán, điều trị bệnh tả – TL-0176",
+  "IDSA 2017 – Shane AL, et al. Clin Infect Dis. 2017;65(12):e45-e80 – TL-0230",
+  "ACG 2016 – Riddle MS, et al. Am J Gastroenterol. 2016;111(5):602-622 – TL-0233",
+  "WHO AWaRe 2022 – The WHO AWaRe antibiotic book – TL-0018",
+  "WSES 2025 – Diagnosis and Treatment of Acute Appendicitis: 2025 Edition of the WSES Jerusalem Guidelines. JAMA Surg. 2026;161(3):283-295 – TL-0053",
+  "QĐ 5481/2020 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị đái tháo đường típ 2 – TL-0031",
+  "QĐ 5904/2019 – Bộ Y tế, bệnh không lây nhiễm tại trạm y tế xã – TL-0284",
+  "ADA 2026 – Standards of Care in Diabetes—2026 – TL-0296",
+  "QĐ 2058/2020 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443",
+  "ESRS 2023 – The European Insomnia Guideline 2023 – TL-0464",
+  "AGS Beers 2023 – American Geriatrics Society 2023 updated Beers Criteria – TL-0022",
+  "Không có trong tài liệu đã tải (không dùng nguồn web): ngưỡng hạ huyết áp tư thế; ngưỡng bạch cầu trong soi phân; ngưỡng chẩn đoán tổn thương thận cấp; liều kali uống; mức giảm insulin hỗn hợp khi ăn kém và mốc đưa về liều quen; ảnh hưởng glucose trong ORS lên đường huyết; hiệu lực của berberin; quy định báo cáo ổ dịch ở Việt Nam; số ngày nghỉ; mốc tái khám 2 ngày; viêm ruột thừa kèm tiêu chảy; tương tác thuốc ngủ không nhãn với insulin."
+ ],
+ "phien_ban_ca": "1 – viết mới, soát nguồn với kho tài liệu (2026-11-04)",
+ "ghi_chu_bien_tap": [
+  "04/11/2026: viết mới theo sổ cái TH-0654. Tài liệu đã đọc: QĐ 5642/2015 (tiêu chảy do vi khuẩn mục 3–5; lỵ trực khuẩn), QĐ 4178/2007 (mục II, III), IDSA 2017 (KC 1–56, Bảng 2, 7), ACG 2016 (KC 1–12, Hình 1, tr. 607–610), WHO AWaRe 2022 chương 14, Bảng 2.3, WSES 2025 (KC 1, 3.1, 3.4), QĐ 5481/2020 (Phần 4, 6), QĐ 5904/2019 (Bước 4), ADA 2026 (mục 6, Hình 9.5), QĐ 2058/2020 Bài 27, ESRS 2023, AGS Beers 2023.",
+  "Mâu thuẫn ghi cả hai theo sổ: kháng sinh kinh nghiệm (TH-0717), loperamid, men vi sinh (TH-0624), lượng glucose (QĐ 5481/QĐ 5904), tốc độ tăng insulin, thuốc ngủ ≥ 65 tuổi (TT-0161). Ghi nhận mới: quinolon ở người tiêm insulin vừa hạ đường huyết chấm w (AWaRe Bảng 14.6 ghi chú b).",
+  "Thiết kế: hạ đường huyết ẩn sau mất ngủ; thuốc tự mua (loperamid quá liều, amoxicillin dư, berberin). Lượt 2 tiếp từ xử trí chuẩn lượt 1. Số đơn vị insulin là dữ kiện thiết kế; mức giảm 10–20% (QĐ 5481 Phần 4) viết cho hạ đường huyết không rõ nguyên nhân nên áp dụng tham khảo.",
+  "Duyệt Opus 04/11/2026: sửa sự thật thuoc_tu_mua và khám bụng bị cắt cụt; bổ sung vị trí 'tr. S143' bị cụt; cắt lặp."
+ ]
+}
