@@ -1,0 +1,800 @@
+{
+ "ma_ca": "TH-1158",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới (2026-11-04)",
+ "benh": "TH_benh_gan_do_ruou",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Bệnh gan do rượu",
+  "chan_doan_phai_loai_tru": [
+   "Xơ gan",
+   "Viêm gan virus"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Hưu trí",
+  "yeu_to_khoi_phat": "Sau chơi thể thao",
+  "thuoc_dang_dung": "NSAID tự mua",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm"
+ },
+ "benh_nhan": {
+  "ten": "Trần Văn Hòa",
+  "tuoi": 63,
+  "gioi": "Nam",
+  "nghe": "Công nhân cơ khí hưu trí, làm bảo vệ ca đêm bán thời gian",
+  "can_nang": 58,
+  "chieu_cao": 166,
+  "xung_ho": "Bác sĩ gọi ông là 'bác'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Giọng to, hay đùa.",
+  "tinh_cach": "Hào sảng, vui tính, coi nhẹ bệnh, gọi rượu là 'thuốc bổ cho ngon cơm'. Thích đánh cầu lông sáng Chủ nhật với nhóm bạn cũ. Nóng mặt khi bị hỏi dồn về rượu, nhưng nói thật nếu bác sĩ hỏi nhẹ nhàng, không phán xét.",
+  "kieu_nhieu": "Đòi truyền dịch: tin rằng một chai nước cùng 'thuốc bổ gan' sẽ giải độc, vì đồng nghiệp cũ truyền hôm trước hôm sau đi trực được. Bị từ chối cộc lốc thì nài nỉ, dọa sang phòng khác; được giải thích lợi hại cụ thể và có việc khác để làm thì chịu.",
+  "nguoi_nha": "Vợ ông, bà Lê Thị Nhàn, 60 tuổi, đi cùng. Ông là người kể bệnh chính (nguoi_noi = benh_nhan). Bà chỉ xen vào khi bác sĩ hỏi về rượu hoặc hỏi thẳng bà (nguoi_noi = nguoi_nha): ông uống mỗi bữa 'gần nửa chai' nhiều năm; bà lo, muốn ông nghỉ trực đêm.",
+  "ten_nguoi_nha": "Vợ (bà Nhàn)",
+  "ngoai_hinh": {
+   "da": "#c99a76",
+   "toc": "#9a948c",
+   "kieuToc": "ngan",
+   "ao": "#4f7a8a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#dbb08c",
+    "toc": "#6b5f58",
+    "kieuToc": "bui",
+    "ao": "#a4768c",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đau tức hạ sườn phải sau buổi đánh cầu lông, mệt, ăn kém",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không làm được xét nghiệm nào (không máu, nước tiểu, que thử, test nhanh, đường huyết mao mạch) và không có máy siêu âm; vì vậy cũng không có X-quang, CT, nội soi. Chỉ có nhiệt kế, huyết áp kế, máy đo SpO₂, cân, ống nghe. Bệnh viện huyện cách 18 km, có xét nghiệm và siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Trần Văn Hòa, 63 tuổi, hưu trí, vợ đi cùng. Đến vì đau tức vùng hạ sườn phải 4 ngày, bắt đầu sau buổi đánh cầu lông sáng Chủ nhật; mệt, ăn kém, muốn được truyền nước. Sinh hiệu: HA 138/84 mmHg, mạch 84 l/p, nhiệt độ 36,8 °C, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Hòa chưa vàng da, ăn uống được, tỉnh táo, không phù, không cổ trướng, sinh hiệu ổn: chưa có chỉ định nhập viện; viêm gan rượu được định nghĩa bằng vàng da mới xuất hiện (EASL 2018 tr. 163; ACG 2024 Bảng 5), còn nhập viện cho thể nặng (ACG 2024 KC 20). Nằm viện làm ông mất ca trực đêm, tốn chi phí, trong khi việc cần làm là bỏ rượu, bỏ NSAID, xét nghiệm và siêu âm ở bệnh viện huyện rồi tái khám.",
+    "chuyen_tuyen": "Chuyển ông Hòa ngay lên tuyến trên trong ngày là quá tay khi chưa có dấu mất bù hay vàng da: việc cần là xét nghiệm gan, đông máu, virus và siêu âm bụng ở bệnh viện huyện cách 18 km, rồi tái khám (EASL 2018 tr. 159–160). Chuyển gấp làm ông và vợ lo sợ, tốn kém mà không làm thêm được điều gì giấy giới thiệu thông thường không làm được.",
+    "theo_doi": "Giữ ông Hòa ở lại phòng khám truyền chai nước kèm thuốc 'bổ gan' theo dõi vài giờ là đáp ứng yêu cầu của ông chứ không điều trị nguyên nhân: không tài liệu đã tải nào chỉ định truyền dịch cho bệnh gan do rượu chưa mất nước. Ông sẽ tin 'truyền là khỏi', không bỏ rượu và trì hoãn xét nghiệm; điều trị cốt lõi là ngưng rượu kéo dài (ACG 2024 tr. 39)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đánh cầu lông Chủ nhật xong thì tức bên sườn phải, bốn hôm nay mệt, ăn không vô. Chắc căng cơ thôi, bác sĩ truyền cho tôi chai nước, thuốc bổ gan cho nó khỏe nhanh.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "138/84",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau tức vùng hạ sườn phải 4 ngày, bắt đầu chiều Chủ nhật sau buổi đánh cầu lông. Mệt, ăn kém, buồn nôn nhẹ buổi sáng. Muốn được truyền nước cho khỏe.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem_dau",
+     "noi_dung": "Đau âm ỉ, nặng tức, không thành cơn, không lan lên vai. Đi mạnh hoặc ngồi xe máy xóc thì tức hơn; hít sâu hay xoay người không đau thêm. Không đau ngực, không khó thở, không vã mồ hôi khi đánh cầu lông.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau: gan căng, không giống thành ngực hay tim"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Uống rượu đế khoảng 40 độ mỗi ngày 5–6 ly nhỏ, mỗi ly chừng 50 ml, buổi chiều và bữa cơm tối, đã khoảng 25 năm. Cuối tuần uống thêm bia sau khi đánh cầu lông; Chủ nhật vừa rồi uống nhiều hơn thường. Ba hôm nay ngán, chưa uống ly nào. Bà vợ xác nhận 'mỗi bữa gần nửa chai'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có uống rượu không' thì nói 'xã giao vài ly cho ngon cơm'. Chỉ kể đủ khi bác sĩ hỏi cụ thể loại rượu, số ly mỗi ngày, bao nhiêu năm, hoặc hỏi nhẹ nhàng không phán xét; bà vợ bổ sung khi được hỏi.",
+     "k": 1,
+     "y": "Lượng rượu thật (nguyên nhân)"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Đau hai gối nhiều năm nên hay mua diclofenac 50 mg uống vài viên mỗi tuần. Mấy hôm nay nghĩ tức sườn là căng cơ nên mua ibuprofen 400 mg ở hiệu thuốc, uống 3 viên mỗi ngày, được 4 ngày.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì nói 'không có, chỉ thuốc đau thôi'. Chỉ kể tên thuốc, liều, số ngày khi bác sĩ hỏi cụ thể thuốc giảm đau, thuốc xương khớp, thuốc mua ở hiệu.",
+     "k": 1,
+     "y": "NSAID tự mua"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Mấy hôm chỉ ăn nửa bát cơm, sợ mùi mỡ. Sụt khoảng 3 kg trong 2 tháng nay mà không để ý. Buồn nôn nhẹ, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dinh dưỡng, sụt cân"
+    },
+    {
+     "id": "vang_da_sot",
+     "noi_dung": "Mắt không vàng, nước tiểu vàng như thường, phân vàng, không ngứa. Không sốt, không rét run, không ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa vàng da, chưa sốt"
+    },
+    {
+     "id": "xhth_phu",
+     "noi_dung": "Không nôn ra máu, không đi cầu phân đen, bụng không to lên, chân không phù.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc xuất huyết tiêu hóa, dấu mất bù"
+    },
+    {
+     "id": "cai_ruou",
+     "noi_dung": "Ngủ kém 2 đêm nay, không run tay, không vã mồ hôi, không thấy ảo giác hay nghe tiếng lạ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hội chứng cai rượu (đã ngưng 3 ngày)"
+    },
+    {
+     "id": "virus",
+     "noi_dung": "Không truyền máu, không xăm, không tiêm chích, chưa từng xét nghiệm viêm gan hay tiêm ngừa viêm gan B. Trong nhà chưa ai bị vàng da.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ viêm gan virus"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Thoái hóa hai gối nhiều năm. Hút thuốc lá 15 điếu mỗi ngày từ năm 20 tuổi. Không đái tháo đường.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử, thuốc lá"
+    },
+    {
+     "id": "doi_truyen",
+     "noi_dung": "Tin rằng 'một chai nước với thuốc bổ gan là giải độc'. Đồng nghiệp cũ truyền hôm trước, hôm sau đi trực được ngay. Bị từ chối cộc lốc thì nài nỉ, dọa sang phòng khám bên kia; nghe giải thích cụ thể và có việc khác để làm thì chịu.",
+     "che_do": "khi_hoi",
+     "nhieu": 1,
+     "k": 1,
+     "y": "Nhiễu: đòi truyền dịch"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Làm bảo vệ ca đêm 3 đêm mỗi tuần cho một công ty, được khoảng 3 triệu đồng mỗi tháng. Đã nghỉ 2 đêm, tổ trưởng đòi giấy bác sĩ, sợ bị thay người. Thật ra muốn xin giấy nghỉ ốm vài ngày. Bà vợ lại muốn ông nghỉ hẳn trực đêm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Lúc đầu chỉ nói 'đau quá, bác sĩ cho truyền nước'. Chỉ nói chuyện giấy nghỉ khi bác sĩ hỏi hôm nay bác muốn tôi giúp gì ngoài việc khám, hoặc hỏi về công việc và việc nghỉ làm.",
+     "k": 1,
+     "y": "Động cơ thật: xin giấy nghỉ ốm"
+    },
+    {
+     "id": "nguon_luc",
+     "noi_dung": "Bệnh viện huyện cách 18 km, có xét nghiệm và siêu âm. Ông chạy xe máy được, hoặc con gái chở vào cuối tuần. Có thẻ BHYT hưu trí, ngại tốn tiền xét nghiệm nhưng chịu đi nếu thấy cần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng đi làm xét nghiệm tuyến huyện"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, mặt đỏ hồng. Gầy nhẹ (58 kg, 166 cm), teo nhẹ cơ thái dương. Da và củng mạc không vàng, không phù.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Củng mạc trắng, kết mạc hồng, không vàng mắt.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da sạm. 3–4 sao mạch nhỏ ở ngực trên, lòng bàn tay hồng nhẹ. Không vàng da, không bầm máu dưới da.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không dấu sóng vỗ, gõ không đục vùng thấp. Gan to 3 cm dưới bờ sườn phải trên đường giữa đòn, bờ tù, mặt nhẵn, mật độ mềm, ấn đau tức. Murphy âm tính, ấn thượng vị không đau. Lách không sờ thấy, không tuần hoàn bàng hệ.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Ấn dọc cung sườn và thành ngực phải không đau; ép lồng ngực, hít sâu, xoay thân không đau thêm: không giống căng cơ hay gãy xương sườn. Hai gối thoái hóa, lạo xạo khi gập, không nóng đỏ.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng tốt, nói rõ. Không run vẫy khi duỗi tay, không run tay khi giữ tư thế.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "r": "AST 118 · ALT 62 U/L (AST/ALT khoảng 1,9)",
+     "n": "Không làm được ở phòng khám: giấy giới thiệu bệnh viện huyện. Nghi ALD cần men gan (EASL 2018 tr. 159); tỉ số AST/ALT > 1,5 là một tiêu chuẩn của viêm gan rượu (ACG 2024 Bảng 5; EASL 2018 tr. 163)."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "Bilirubin toàn phần 24 µmol/L (trực tiếp 7) · ALP 118 · GGT 365 U/L · Albumin 36 g/L · INR 1,2",
+     "n": "Đánh giá chức năng gan và loại trừ xơ gan: albumin, INR, bilirubin (EASL 2018 tr. 159–160). Bilirubin chưa tăng rõ nên chưa đạt tiêu chuẩn viêm gan rượu (ACG 2024 Bảng 5: bilirubin > 3 mg/dL)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 126 g/L · MCV 103 fL · BC 8,9 G/L · TC 112 G/L",
+     "n": "Tiểu cầu giảm và MCV tăng thường gặp ở người uống rượu nặng (ACG 2024 tr. 39; EASL 2018 Bảng 5, tr. 162); cần để tính FIB-4."
+    },
+    "virus_mau": {
+     "v": "e",
+     "r": "HBsAg âm tính · Anti-HCV âm tính · HIV âm tính",
+     "n": "Loại trừ nguyên nhân gan khác: HBV, HCV (EASL 2018 tr. 159)."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Gan to, tăng âm lan tỏa (nhiễm mỡ), bờ đều, không nốt. Lách bình thường, tĩnh mạch cửa không giãn, không cổ trướng, túi mật không sỏi, đường mật không giãn.",
+     "n": "Có bất thường thì làm siêu âm (EASL 2018 tr. 159); loại sỏi mật, ứ mật, cổ trướng, dấu tăng áp cửa."
+    },
+    "fibroscan": {
+     "v": "u",
+     "r": "Độ đàn hồi gan 9,8 kPa (cần thận trọng vì AST > 100 U/L)",
+     "n": "Dưới ngưỡng 12,1 kPa gợi ý xơ hóa tiến triển (ACG 2024 tr. 39). AST > 200 U/L làm cao giả (ACG 2024 tr. 39), EASL 2018 tr. 161 nêu mốc AST > 100 U/L cần thận trọng."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 84 l/p, không biến đổi ST–T.",
+     "n": "Không bắt buộc: đau không liên quan gắng sức, không đau ngực. Chỉ định ECG cho đau hạ sườn phải không có trong tài liệu đã tải."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "(Phòng khám không có máy đo đường huyết mao mạch.)",
+     "n": "Không có trong phòng khám."
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "(Phòng khám không có que thử nước tiểu.)",
+     "n": "Không có trong phòng khám."
+    },
+    "test_nhanh_virus": {
+     "v": "a",
+     "r": "(Phòng khám không có test nhanh.)",
+     "n": "Không có trong phòng khám."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh gan do rượu (gan to đau, nghi gan nhiễm mỡ hoặc viêm gan do rượu mức nhẹ, chưa vàng da) ở người uống rượu nặng kéo dài, kèm dùng NSAID tự mua; chưa có dấu mất bù; cần xét nghiệm và siêu âm để xác định",
+     "ok": 1,
+     "n": "Rượu đế khoảng 80–96 g/ngày (phép tính của người soạn) vượt ngưỡng nghi ALD > 30 g/ngày ở nam (EASL 2018 tr. 159) và ngưỡng uống nặng của NIAAA (ACG 2024 Bảng 3); gan to mềm đau, sao mạch, sụt cân, ăn kém."
+    },
+    {
+     "t": "Xơ gan do rượu",
+     "n": "Chưa có cổ trướng, phù, lách to, tuần hoàn bàng hệ, lú lẫn. Nhưng không có xét nghiệm nên chưa loại trừ hẳn: cần FIB-4 hoặc đo độ đàn hồi (ACG 2024 KC 13; EASL 2018 tr. 159–160)."
+    },
+    {
+     "t": "Viêm gan virus (B, C)",
+     "n": "Không yếu tố nguy cơ, không sốt, không vàng da, không đau khớp; chưa thể loại bằng xét nghiệm: cần HBsAg, anti-HCV (EASL 2018 tr. 159)."
+    },
+    {
+     "t": "Căng cơ liên sườn hoặc gãy xương sườn do cầu lông",
+     "n": "Không chấn thương, ấn thành ngực không đau, hít sâu và xoay người không đau thêm; đau ở vùng gan to."
+    },
+    {
+     "t": "Bệnh túi mật (sỏi, viêm túi mật)",
+     "n": "Đau âm ỉ, không cơn quặn, không sốt, Murphy âm tính; siêu âm bụng ở bệnh viện huyện sẽ xác định."
+    },
+    {
+     "t": "Viêm dạ dày, loét do NSAID và rượu",
+     "n": "Đau không ở thượng vị, ấn thượng vị không đau, không nôn máu hay phân đen; vẫn dặn dấu hiệu xuất huyết vì ibuprofen cộng rượu."
+    },
+    {
+     "t": "Hội chứng vành cấp, đau thắt ngực",
+     "n": "Đau không liên quan gắng sức, không đau ngực hay khó thở khi đánh cầu lông, không lan, không vã mồ hôi; tim phổi bình thường."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi lượng rượu cụ thể bằng câu hỏi ngắn không phán xét (AUDIT-C hoặc số ly mỗi ngày), tư vấn ngắn khuyên bỏ rượu hoàn toàn",
+     "v": "c",
+     "n": "Sàng lọc bằng AUDIT-C (ACG 2024 Khuyến cáo 7); can thiệp ngắn có động viên (Khuyến cáo 8); mô hình 5A: hỏi, khuyên, đánh giá sẵn sàng, hỗ trợ, hẹn theo dõi (EASL 2018 tr. 159). Ngưng rượu kéo dài là biện pháp hiệu quả nhất (ACG 2024 tr. 39; EASL 2018 tr. 156)."
+    },
+    {
+     "t": "Ngưng ibuprofen, diclofenac và mọi NSAID tự mua; đau gối dùng chườm ấm, giảm vận động mạnh; nếu buộc phải dùng thuốc thì paracetamol liều thấp (tối đa 3 g/ngày) hoặc chưa dùng khi chưa biết men gan",
+     "v": "c",
+     "n": "Bệnh gan: tránh NSAID nếu có thể, paracetamol < 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3); EASL 2018 tr. 170: thận trọng với paracetamol ở ALD, nghiên cứu ca–chứng không thấy tăng mất bù ở mức đến 3 g/ngày; ngược lại paracetamol chống chỉ định khi suy hoặc đang hủy tế bào gan có tăng men gan (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1). Hai nguồn khác nhau về bối cảnh: ghi cả hai."
+    },
+    {
+     "t": "Thiamine (vitamin B1) uống, đảm bảo ăn đủ bữa, đủ năng lượng và đạm, không nhịn ăn",
+     "v": "c",
+     "n": "Bổ sung thiamine nếu vừa uống rượu (ACG 2024 tr. 40, KC 25); bổ sung nhóm B (EASL 2018 tr. 164). Liều ngoại trú 200 mg/ngày (Canada 2023 Hình 3 chú thích); QĐ 2058/2020 Bài 7 mục 4.3.1 ghi liều cao 1 g/ngày, nên tiêm, cho nội trú. Mốc 35–40 kcal/kg và 1,2–1,5 g/kg đạm là của viêm gan rượu (EASL 2018 tr. 164; ACG 2024 KC 24); tài liệu đã tải không có mốc riêng cho ALD chưa viêm gan."
+    },
+    {
+     "t": "Viết giấy giới thiệu bệnh viện huyện làm men gan, bilirubin, GGT, albumin, PT/INR, công thức máu, HBsAg, anti-HCV, siêu âm bụng (hoặc đo độ đàn hồi gan); hẹn làm trong vài ngày tới",
+     "v": "c",
+     "n": "Bộ xét nghiệm sàng lọc ALD và loại nguyên nhân khác (EASL 2018 tr. 159–160; ACG 2024 KC 13, 14). Thời hạn 'trong vài ngày' là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu phải quay lại ngay: vàng mắt vàng da, nước tiểu sẫm, sốt, bụng to, phù, lú lẫn, nôn máu hay phân đen, run tay, mất ngủ nặng, ảo giác",
+     "v": "c",
+     "n": "Viêm gan rượu có dấu hiệu chính là vàng da tiến triển, kèm sốt, mệt, sụt cân (EASL 2018 tr. 163; ACG 2024 tr. 40). Hội chứng cai thường xuất hiện 6–24 giờ sau ly cuối (ACG 2024 tr. 38)."
+    },
+    {
+     "t": "Hẹn tái khám sau 1 tuần, mang kết quả xét nghiệm",
+     "v": "c",
+     "n": "Mốc 1 tuần là lựa chọn của ca (theo dõi sát người chưa phân độ được), không có trong tài liệu đã tải; AH có thể xuất hiện sau khi đã ngưng rượu ít ngày hoặc vài tuần (EASL 2018 tr. 163)."
+    },
+    {
+     "t": "Trả lời nhu cầu thật: cấp giấy xác nhận tình trạng bệnh, đề nghị nghỉ trực đêm vài ngày theo đúng tình trạng thực",
+     "v": "c",
+     "n": "Giấy nghỉ ốm cấp theo tình trạng thực, ngắn ngày (TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c – nguồn bổ sung tự tìm, ghi nhận trong sổ mâu thuẫn, chưa đối chiếu bản hiện hành). Ông là người hưu trí làm bán thời gian: có thuộc diện hưởng chế độ ốm đau hay không, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Từ chối truyền dịch và thuốc 'bổ gan' có giải thích: ông ăn uống được, không mất nước, không có chỉ định; thay bằng bỏ rượu, ăn đủ, thiamine, xét nghiệm",
+     "v": "c",
+     "n": "Không tài liệu đã tải nào chỉ định truyền dịch hay thuốc bổ gan cho ALD không mất nước; truyền dịch chỉ nêu để phòng suy thận ở viêm gan rượu nặng nội trú (EASL 2018 tr. 164). Các thuốc đã thử cho gan do rượu không có lợi ích nhất quán (EASL 2018 tr. 170: silymarin và các thuốc khác không lợi ích nhất quán; ACG 2024 tr. 45: chống oxy hóa, vitamin E không lợi ích ở viêm gan rượu nặng)."
+    },
+    {
+     "t": "Kê silymarin hoặc thuốc bổ gan uống",
+     "v": "a",
+     "n": "Chưa có bằng chứng lợi ích (EASL 2018 tr. 170) nhưng không nói gây hại; theo quy ước của sổ mâu thuẫn, chưa vàng da và chưa có men gan tăng do thuốc thì chấm chấp nhận."
+    },
+    {
+     "t": "Cho disulfiram để ông sợ rượu",
+     "v": "w",
+     "n": "Không dùng disulfiram ở mọi giai đoạn ALD (ACG 2024 Khuyến cáo 12, tr. 38); QĐ 2058/2020 Bài 7 mục 4.3.1 có nêu disulfiram sau cai, không bàn riêng bệnh gan."
+    },
+    {
+     "t": "Đổi sang NSAID khác (celecoxib, meloxicam) cho đau gối",
+     "v": "w",
+     "n": "Người có bệnh gan: tránh NSAID nếu có thể (QĐ 361/2014 Phụ lục NSAID mục 3.3); chống chỉ định tuyệt đối khi suy tế bào gan vừa đến nặng (mục 3.2) mà chưa có xét nghiệm để loại trừ."
+    },
+    {
+     "t": "Truyền chai nước và tiêm thuốc 'bổ gan' tại phòng khám theo yêu cầu",
+     "v": "w",
+     "n": "Không có trong tài liệu đã tải chỉ định truyền dịch cho bệnh cảnh này; chỉ đáp ứng yêu cầu, làm ông tin 'có truyền là khỏi' và trì hoãn bỏ rượu, xét nghiệm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh gan do rượu: gan to đau, nghi gan nhiễm mỡ hoặc viêm gan do rượu mức nhẹ, chưa vàng da, chưa có dấu mất bù",
+     "Rối loạn sử dụng rượu mức nặng (khoảng 80–96 g ethanol/ngày, 25 năm), vừa tự ngưng 3 ngày, chưa có hội chứng cai",
+     "Dùng NSAID tự mua (ibuprofen 3 viên/ngày × 4 ngày, diclofenac cách quãng) trên nền bệnh gan",
+     "Chưa loại trừ xơ gan và viêm gan virus vì phòng khám không có xét nghiệm; cần xét nghiệm và siêu âm ở bệnh viện huyện"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: đặc điểm đau, lượng rượu cụ thể, thuốc giảm đau cụ thể, ăn uống và sụt cân, vàng da, sốt, xuất huyết, hội chứng cai, nguy cơ virus. Hỏi chung chỉ nghe 'xã giao vài ly' và 'không dùng thuốc gì'.",
+     "Khám: gan to 3 cm, bờ tù, mềm, đau; sao mạch, lòng bàn tay hồng; thành ngực không đau (loại căng cơ); Murphy âm; không cổ trướng, không lách to, không run vẫy. EASL 2018 tr. 156 nêu các dấu gợi ý bệnh gan do rượu: teo cơ, suy dinh dưỡng, sao mạch lan rộng.",
+     "Lượng rượu: 5–6 ly × 50 ml × 40° ≈ 16 g/ly ≈ 80–96 g/ngày (phép tính của người soạn, ethanol 0,79 g/ml); vượt ngưỡng > 30 g/ngày ở nam (EASL 2018 tr. 159), uống nặng NIAAA (> 14 ly/tuần, ly chuẩn 14 g; ACG 2024 Bảng 3) và mốc > 50 g/ngày ≥ 6 tháng của tiêu chuẩn viêm gan rượu (ACG 2024 Bảng 5).",
+     "Không có xét nghiệm nên không phân được gan nhiễm mỡ, viêm gan rượu hay xơ hóa; tiêu chuẩn viêm gan rượu cần vàng da mới, bilirubin > 3 mg/dL, AST 50–400 U/L, AST/ALT > 1,5 (ACG 2024 Bảng 5). Chưa vàng da: chưa đủ tiêu chuẩn. Đánh giá xơ hóa bằng FIB-4 hoặc đo độ đàn hồi gan (ACG 2024 KC 13, tr. 39).",
+     "Loại trừ: cơ xương (không chấn thương, thành ngực không đau), tim (không đau ngực, không gắng sức), túi mật (không cơn, Murphy âm), dạ dày do NSAID (không ở thượng vị, không xuất huyết). Đau sau cầu lông và NSAID là nhiễu: gan to đau đã có từ trước, buổi nhậu sau cầu lông làm đợt cấp."
+    ],
+    "phan_tich_xu_tri": [
+     "Cốt lõi là bỏ rượu: ngưng rượu kéo dài là biện pháp hiệu quả nhất để làm chậm, thậm chí đảo ngược tổn thương (ACG 2024 tr. 39; EASL 2018 tr. 156); nên có chăm sóc đa chuyên khoa gồm điều trị rối loạn sử dụng rượu (ACG 2024 Khuyến cáo 14; EASL 2018 tr. 159).",
+     "Thuốc: ngưng NSAID (QĐ 361/2014 Phụ lục NSAID mục 3.2, 3.3). Giảm đau gối ghi cả hai: paracetamol ≤ 3 g/ngày (QĐ 361/2014 Phụ lục NSAID 3.3; EASL 2018 tr. 170) hoặc chưa dùng khi chưa biết men gan (QĐ 361/2014 Phụ lục thuốc giảm đau 3.1). Con số thận trọng hơn là không dùng đến khi có AST/ALT.",
+     "Dinh dưỡng và vi chất: thiamine 200 mg/ngày (Canada 2023 Hình 3); liều 1 g/ngày tiêm của QĐ 2058/2020 là cho cai rượu nội trú. Mốc 35 kcal/kg ≈ 2.000 kcal và đạm 1,2–1,5 g/kg ≈ 70–87 g/ngày cho 58 kg là mốc của viêm gan rượu (ACG 2024 KC 24; EASL 2018 tr. 164), ghi để tham khảo.",
+     "Xét nghiệm và siêu âm ở bệnh viện huyện (EASL 2018 tr. 159–160): men gan, bilirubin, GGT, albumin, INR, công thức máu, HBsAg, anti-HCV, siêu âm bụng hoặc đo độ đàn hồi. Cần để quyết định xơ hóa, viêm gan, loại nguyên nhân khác; USPSTF 2020 khuyến cáo sàng lọc HCV ở người 18–79 tuổi (độ B), áp dụng cho người không triệu chứng và chưa biết bệnh gan nên chỉ để tham khảo.",
+     "Không truyền dịch: không tài liệu đã tải chỉ định. Câu nói thay thế: 'Bác không mất nước, ăn uống được, nên truyền chai nước không giúp gan; thứ làm gan hồi phục là bỏ hẳn rượu, ăn đủ, uống vitamin B1 và làm xét nghiệm tìm gan đang tổn thương tới đâu.'",
+     "Nhu cầu thật: giấy xác nhận bệnh ngắn ngày theo tình trạng thực; đề nghị nghỉ trực đêm vài ngày. Hẹn 1 tuần vì có thể thành viêm gan rượu dù đã ngưng rượu (EASL 2018 tr. 163)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Thiamine (vitamin B1)",
+      "ham_luong": "100 mg",
+      "lieu": "200 mg × 1 lần/ngày (2 viên)",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng sau ăn",
+      "so_ngay": "Đến khi tái khám sau 1 tuần; thời gian dùng lâu hơn không có trong tài liệu đã tải",
+      "ghi_chu": "Canada 2023 Hình 3 chú thích (200 mg/ngày, nêu cho giai đoạn trước và trong cai; ông vừa ngưng 3 ngày); ACG 2024 KC 25; EASL 2018 tr. 164 (bổ sung nhóm B, không ghi liều); QĐ 2058/2020 Bài 7 mục 4.3.1 (1 g/ngày, nội trú)."
+     },
+     {
+      "thuoc": "Paracetamol (chỉ khi đau gối nhiều, nếu chọn dùng)",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg/lần, cách 6–8 giờ khi đau; tổng < 3 g/ngày (QĐ 361/2014 Phụ lục NSAID 3.3; EASL 2018 tr. 170) – hoặc chưa dùng cho tới khi có AST/ALT (QĐ 361/2014 Phụ lục thuốc giảm đau 3.1)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau",
+      "so_ngay": "Ngắn ngày, khi cần; hoặc chưa dùng đến khi có men gan",
+      "ghi_chu": "Hai cách đều đúng (sổ mâu thuẫn TH-1158 mục 1): QĐ 361 Phụ lục NSAID 3.3 và EASL 2018 tr. 170 cho dùng < 3 g/ngày ở người bệnh gan/uống rượu, thận trọng khi suy dinh dưỡng; QĐ 361 Phụ lục thuốc giảm đau 3.1 chống chỉ định khi đang hủy tế bào gan (tăng men gan) – ông chưa có men gan nên cách thận trọng hơn là chưa dùng. Khoảng cách 6–8 giờ theo QĐ 361 Phụ lục thuốc giảm đau 3.1. Không có trong tài liệu đã tải: trần riêng thấp hơn 3 g cho người uống rượu nặng."
+     }
+    ],
+    "dan_do": [
+     "Không uống rượu bia nữa, kể cả bia sau đánh cầu lông; nhờ bà vợ giúp (ACG 2024 tr. 39; EASL 2018 tr. 156). Bỏ thuốc lá (ACG 2024 Khuyến cáo 1).",
+     "Không tự mua ibuprofen, diclofenac hay thuốc 'xương khớp' (QĐ 361/2014 Phụ lục NSAID mục 3.3); mang các vỉ thuốc theo khi đi khám. Đau gối chườm ấm.",
+     "Ăn đủ 3 bữa, đủ cơm, thịt cá trứng đậu; không nhịn bữa; uống vitamin B1 mỗi sáng.",
+     "Trong vài ngày tới đem giấy giới thiệu vào bệnh viện huyện làm xét nghiệm và siêu âm; có BHYT; con gái chở nếu ngại đi xe.",
+     "Đến ngay nếu vàng mắt vàng da, nước tiểu sẫm, sốt, bụng to, phù chân, lú lẫn, nôn máu, phân đen, hoặc run tay, vã mồ hôi, mất ngủ nặng, thấy ảo giác (EASL 2018 tr. 163; ACG 2024 tr. 38, 40).",
+     "Tái khám sau 1 tuần mang kết quả (mốc hẹn không có trong tài liệu đã tải).",
+     "Giấy xác nhận bệnh: nghỉ trực đêm vài ngày; nói rõ tình trạng với công ty."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 1 tuần",
+   "tiep_don": "Tái khám sau 1 tuần, bà vợ đi cùng, nói ông 'vàng mắt, mệt hơn'. Ông chưa đi bệnh viện huyện làm xét nghiệm. Sinh hiệu: HA 118/68 mmHg, mạch 98 l/p, nhiệt độ 38,1 °C, nhịp thở 20 l/p, SpO₂ 96%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho ông Hòa về nhà chờ xét nghiệm hoặc hẹn tái khám vài ngày nữa là bỏ sót viêm gan rượu: ông đã vàng da rõ, sốt 38,1 °C, mạch 98, gan to đau hơn dù ngưng rượu cả tuần, nên cần xét nghiệm và nhập viện để phân độ (ACG 2024 KC 20, tr. 40–41; EASL 2018 tr. 163–164). Sống còn 90 ngày của thể nặng chỉ khoảng 35–70% (ACG 2024 tr. 41). Về nhà, ông có thể uống thêm nước thuốc nam, nhiễm khuẩn không được tìm ra (ACG 2024 tr. 42) và mất cơ hội cân nhắc corticoid đúng lúc.",
+    "theo_doi": "Giữ ông Hòa lại phòng khám truyền chai nước và tiêm thuốc 'bổ gan' theo dõi vài giờ rồi cho về không giải quyết được gì: phòng khám không có xét nghiệm để biết bilirubin, INR, creatinin nên không phân độ được, không sàng lọc được nhiễm khuẩn (EASL 2018 Hình tr. 165; ACG 2024 tr. 42). Truyền dịch chỉ được nêu để phòng suy thận ở viêm gan rượu nặng nội trú (EASL 2018 tr. 164). Ông mất thêm một ngày quý, còn vợ ông yên tâm sai vì tưởng ông 'đã được truyền'."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi bỏ rượu rồi, thuốc đau cũng không đụng tới, mà sao càng mệt, mắt lại vàng. Bác sĩ truyền cho tôi chai nước, tiêm thuốc bổ gan đi, nằm hoài mất ca trực của tôi.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "118/68",
+    "nhiet": "38,1",
+    "nhip_tho": 20,
+    "spo2": 96,
+    "canh_bao": [
+     "Sốt 38,1 °C",
+     "Mạch 98 l/p"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Vàng mắt từ Thứ Ba, sau đó vàng da. Nước tiểu sẫm như nước trà. Mệt rã rời, chán ăn nặng hơn, đau tức hạ sườn phải tăng, sốt nhẹ về chiều.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đỡ, vàng da mới, sốt"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Không uống một giọt rượu nào từ hôm khám trước. Đã bỏ ibuprofen và diclofenac. Uống vitamin B1 đều mỗi sáng. Hôm trước chưa đi bệnh viện huyện vì mấy hôm đầu thấy đỡ tức, định đợi con gái nghỉ cuối tuần chở; không muốn mất thêm ca trực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ; chưa làm xét nghiệm"
+    },
+    {
+     "id": "thuoc_nam",
+     "noi_dung": "Từ Thứ Tư hàng xóm cho nước sắc nhân trần và actiso, uống 2 lần mỗi ngày vì nghĩ 'mát gan giải độc'. Ông vàng mắt trước khi uống.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc gì không' thì chỉ nói vitamin B1. Chỉ kể khi bác sĩ hỏi cụ thể thuốc nam, nước sắc, thực phẩm chức năng hay thuốc người khác cho.",
+     "k": 1,
+     "y": "Thảo dược sau vàng mắt (nhiễu)"
+    },
+    {
+     "id": "nhiem_trung_am",
+     "noi_dung": "Không ho, không tiểu buốt, không tiêu chảy, không đau bụng quặn, không rét run.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc nhiễm khuẩn, đường mật"
+    },
+    {
+     "id": "xhth_phu2",
+     "noi_dung": "Không nôn ra máu, phân vàng không đen, không chảy máu chân răng, bụng không to, chân không phù.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xuất huyết, dấu mất bù"
+    },
+    {
+     "id": "tinh_tao",
+     "noi_dung": "Tỉnh táo, ngủ được ban đêm, không lú lẫn, không run tay, không ảo giác. Vợ xác nhận ông nói chuyện bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh não gan, hội chứng cai"
+    },
+    {
+     "id": "doi_truyen2",
+     "noi_dung": "Vẫn nài truyền nước, tiêm thuốc bổ gan vì sợ 'nằm hoài' mất ca trực; đã nhờ đồng nghiệp trực thay hai đêm. Nghe giải thích cần xét nghiệm và nằm viện thì lo tiền nhưng chịu nếu vợ đồng ý; bà vợ ủng hộ đi viện.",
+     "che_do": "khi_hoi",
+     "nhieu": 1,
+     "k": 1,
+     "y": "Nhiễu: đòi truyền dịch"
+    },
+    {
+     "id": "nguon_luc2",
+     "noi_dung": "Hôm nay con gái nghỉ làm, chở ông được ngay. Có thẻ BHYT. Bệnh viện huyện cách 18 km.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng đi viện hôm nay"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt mỏi, gầy hơn, teo cơ thái dương. Vàng da và củng mạc rõ, không phù.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Củng mạc vàng rõ, kết mạc hơi nhợt.",
+     "k": 1
+    },
+    "da": {
+     "a": "Vàng da toàn thân, 3–4 sao mạch ngực trên, lòng bàn tay son. Không bầm máu, không vết cào do ngứa.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không dấu sóng vỗ, gõ không đục vùng thấp. Gan to 4 cm dưới bờ sườn phải, bờ tù, chắc hơn lần trước, ấn đau rõ. Murphy âm tính. Lách không sờ thấy.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đúng, không run vẫy khi duỗi tay.",
+     "k": 1
+    },
+    "sang_loc_sang": {
+     "a": "4AT = 0: tỉnh táo, định hướng đúng, chú ý tốt, không thay đổi cấp tính. Không sảng.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù chi dưới, không bầm máu.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 98 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 98 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên, nhịp thở 20 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "r": "AST 146 · ALT 58 U/L (AST/ALT khoảng 2,5)",
+     "n": "Không làm được ở phòng khám. AST 50–400 U/L, AST/ALT > 1,5 là tiêu chuẩn viêm gan rượu (ACG 2024 Bảng 5); EASL 2018 tr. 163: AST thường không quá 300 U/L."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "Bilirubin toàn phần 176 µmol/L (khoảng 10,3 mg/dL; trực tiếp 124) · ALP 172 · GGT 420 U/L · Albumin 29 g/L · INR 1,7",
+     "n": "Bilirubin > 3 mg/dL đạt tiêu chuẩn viêm gan rượu có thể (ACG 2024 Bảng 5); INR, bilirubin cần cho MELD (ACG 2024 tr. 40). Không đo được tại phòng khám."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 6,8 mmol/L · Creatinin 104 µmol/L · eGFR khoảng 70 mL/ph/1,73m²",
+     "n": "Creatinin cần cho MELD và đánh giá nguy cơ suy thận (ACG 2024 tr. 40; EASL 2018 tr. 164). MELD khoảng 23 (công thức MELD gốc, người soạn tự tính; công thức không có trong tài liệu đã tải), trên ngưỡng 20 của thể nặng (ACG 2024 KC 20, 23)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 119 g/L · MCV 104 fL · BC 15,8 G/L (N 82%) · TC 96 G/L",
+     "n": "Bạch cầu tăng và SIRS có thể gặp ở viêm gan rượu dù không nhiễm khuẩn (ACG 2024 tr. 40; EASL 2018 tr. 163); cần sàng lọc nhiễm khuẩn kỹ (EASL 2018 Hình tr. 165)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 38 mg/L",
+     "n": "Hỗ trợ sàng lọc nhiễm khuẩn; không phân biệt được với viêm do rượu."
+    },
+    "virus_mau": {
+     "v": "e",
+     "r": "HBsAg âm tính · Anti-HCV âm tính · HIV âm tính",
+     "n": "Loại viêm gan virus khi có vàng da (EASL 2018 tr. 159, 163)."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Gan to, tăng âm lan tỏa, bờ đều. Lách không to. Không cổ trướng. Túi mật không sỏi, thành không dày, đường mật trong và ngoài gan không giãn.",
+     "n": "Loại tắc mật, sỏi mật, cổ trướng (EASL 2018 tr. 159, 163)."
+    },
+    "fibroscan": {
+     "v": "n",
+     "r": "Không nên đo lúc này.",
+     "n": "Viêm cấp và bilirubin tăng làm độ cứng gan cao giả (ACG 2024 tr. 39)."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "(Phòng khám không có máy đo đường huyết mao mạch.)",
+     "n": "Không có trong phòng khám."
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "(Phòng khám không có que thử nước tiểu.)",
+     "n": "Không có trong phòng khám; bilirubin niệu không thay được xét nghiệm máu."
+    },
+    "test_nhanh_virus": {
+     "v": "a",
+     "r": "(Phòng khám không có test nhanh.)",
+     "n": "Không có trong phòng khám."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh gan do rượu tiến triển: nghi viêm gan do rượu (vàng da mới, sốt nhẹ, gan to đau) sau 25 năm uống nặng, dù đã ngưng rượu 10 ngày; chưa phân độ được vì không có xét nghiệm; cần nhập viện",
+     "ok": 1,
+     "n": "Vàng da mới trong 60 ngày sau uống > 50 g/ngày ≥ 6 tháng (ACG 2024 Bảng 5); sốt, mệt, sụt cân (EASL 2018 tr. 163). AH có thể xuất hiện sau khi ngưng rượu ngày đến tuần (EASL 2018 tr. 163)."
+    },
+    {
+     "t": "Xơ gan do rượu có đợt mất bù",
+     "n": "Không cổ trướng, phù, lú lẫn, xuất huyết, lách không to; nhưng không loại hẳn được nếu thiếu xét nghiệm và siêu âm: cần ở bệnh viện (ACG 2024 KC 13)."
+    },
+    {
+     "t": "Viêm gan virus cấp",
+     "n": "Không yếu tố nguy cơ, không sốt cao đột ngột, đau gan âm ỉ từ trước; cần HBsAg, anti-HCV (EASL 2018 tr. 159)."
+    },
+    {
+     "t": "Tắc mật, sỏi đường mật, viêm đường mật",
+     "n": "Đau âm ỉ, không cơn quặn, không rét run, Murphy âm tính; EASL 2018 tr. 163 nêu sỏi mật di chuyển có thể gây bệnh cảnh giống AH, cần siêu âm."
+    },
+    {
+     "t": "Tổn thương gan do thuốc, thảo dược",
+     "n": "Ibuprofen đã ngưng 10 ngày, nước nhân trần và actiso bắt đầu sau khi vàng mắt; tác dụng của các thảo dược này không có trong tài liệu đã tải. Là nguyên nhân cần loại trừ (EASL 2018 tr. 163)."
+    },
+    {
+     "t": "Nhiễm khuẩn kèm theo (nhiễm khuẩn huyết, viêm phúc mạc)",
+     "n": "Sốt 38,1 °C, mạch 98; có thể do AH (SIRS 2 tiêu chí không cần nhiễm khuẩn; ACG 2024 tr. 40) hoặc nhiễm khuẩn thật (khoảng 12% có nhiễm khuẩn lúc nhập viện; ACG 2024 tr. 42). Chưa loại được, cần sàng lọc ở bệnh viện."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển ngay hôm nay đến bệnh viện có xét nghiệm, siêu âm, điều trị nội trú (bệnh viện huyện rồi tuyến trên theo năng lực); gọi báo trước; giấy chuyển ghi theo SBAR; người nhà đi kèm",
+     "v": "c",
+     "n": "Viêm gan rượu nặng (MELD > 20) nên nhập viện (ACG 2024 KC 20, tr. 41); muốn biết mức độ phải có bilirubin, INR, creatinin (ACG 2024 KC 23; EASL 2018 tr. 164) mà phòng khám không có. Thời điểm 'ngay hôm nay' là suy luận của ca vì đã vàng da và sốt."
+    },
+    {
+     "t": "Ghi vào giấy chuyển: lượng rượu và ngày ngưng, NSAID đã dùng, nước nhân trần actiso, sinh hiệu, khám bụng, không lú lẫn",
+     "v": "c",
+     "n": "Dữ kiện cần cho tiêu chuẩn viêm gan rượu (ACG 2024 Bảng 5) và loại thuốc, thảo dược (EASL 2018 tr. 163)."
+    },
+    {
+     "t": "Từ chối truyền dịch và tiêm thuốc 'bổ gan' tại phòng khám, giải thích: cần xét nghiệm và nằm viện, đó mới là việc giúp ông",
+     "v": "c",
+     "n": "Không có trong tài liệu đã tải chỉ định truyền dịch tại tuyến cơ sở; truyền dịch chỉ nêu để phòng suy thận ở viêm gan rượu nặng nội trú (EASL 2018 tr. 164)."
+    },
+    {
+     "t": "Không dùng NSAID, nước thuốc nam, thực phẩm chức năng; hạ sốt bằng lau mát, chưa uống paracetamol đến khi có men gan, hoặc nếu bắt buộc thì không quá 3 g/ngày",
+     "v": "c",
+     "n": "NSAID chống chỉ định tuyệt đối khi suy tế bào gan vừa đến nặng (QĐ 361/2014 Phụ lục NSAID mục 3.2); paracetamol chống chỉ định khi đang hủy tế bào gan (Phụ lục thuốc giảm đau mục 3.1) hoặc < 3 g/ngày ở bệnh gan (Phụ lục NSAID 3.3; EASL 2018 tr. 170). Ghi cả hai."
+    },
+    {
+     "t": "Tiếp tục tuyệt đối không rượu; tiếp tục thiamine; uống nước, ăn nhẹ trước khi đi",
+     "v": "c",
+     "n": "Ngưng rượu quyết định tiên lượng dài hạn (EASL 2018 tr. 164; ACG 2024 KC 22); thiamine (ACG 2024 KC 25; Canada 2023 Hình 3 chú thích); ăn qua đường miệng là ưu tiên (EASL 2018 Hình tr. 165)."
+    },
+    {
+     "t": "Giấy chuyển viện thay cho giấy nghỉ ốm; hướng dẫn xin giấy ra viện sau",
+     "v": "c",
+     "n": "Giấy nghỉ ốm theo tình trạng thực (TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c – nguồn bổ sung tự tìm, chưa đối chiếu bản hiện hành); cấp tại cơ sở nhập viện."
+    },
+    {
+     "t": "Kê prednisolon 40 mg/ngày tại phòng khám trước khi chuyển",
+     "v": "w",
+     "n": "Corticoid chỉ cho viêm gan rượu nặng (MELD > 20 theo ACG 2024 Khuyến cáo 17; mDF ≥ 32 theo EASL 2018 tr. 164) sau sàng lọc nhiễm khuẩn (EASL 2018 Hình tr. 165). Chưa có xét nghiệm nên chưa biết có chỉ định hay có nhiễm khuẩn chống chỉ định."
+    },
+    {
+     "t": "Cho kháng sinh tại chỗ để phòng nhiễm khuẩn",
+     "v": "w",
+     "n": "Không dùng kháng sinh dự phòng thường quy ở viêm gan rượu nặng nhập viện (ACG 2024 Khuyến cáo 15); khi nghi nhiễm khuẩn thật thì lấy cấy trước và dùng ở bệnh viện."
+    },
+    {
+     "t": "Truyền dịch và tiêm thuốc bổ gan (silymarin, aminoleban) rồi cho về, hẹn tái khám 2–3 ngày",
+     "v": "w",
+     "n": "Không có chỉ định trong tài liệu đã tải; đang vàng da nên theo quy ước của sổ mâu thuẫn là w. Hẹn về làm mất thời gian phân độ (ACG 2024 tr. 41)."
+    },
+    {
+     "t": "Cho về, hẹn đi xét nghiệm bệnh viện huyện cuối tuần",
+     "v": "w",
+     "n": "Vàng da mới, sốt, gan to đau tăng: cần phân độ trong ngày (ACG 2024 KC 20, 23; EASL 2018 tr. 163–164); hẹn lại làm chậm phát hiện thể nặng."
+    },
+    {
+     "t": "Cho ibuprofen hoặc diclofenac hạ sốt, giảm đau",
+     "v": "h",
+     "n": "Chống chỉ định tuyệt đối khi suy tế bào gan vừa đến nặng (QĐ 361/2014 Phụ lục NSAID mục 3.2); tránh thuốc độc thận ở viêm gan rượu để phòng suy thận cấp (EASL 2018 tr. 164)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh gan do rượu tiến triển: nghi viêm gan do rượu (vàng da mới, sốt nhẹ, gan to đau) sau 25 năm uống nặng, dù đã ngưng rượu 10 ngày",
+     "Chưa phân độ được (MELD, mDF) vì không có xét nghiệm; có SIRS 2 tiêu chí (sốt 38,1 °C, mạch 98 l/p), chưa cổ trướng, chưa lú lẫn",
+     "Chưa loại trừ nhiễm khuẩn, xơ gan, tắc mật, tổn thương gan do thuốc hay thảo dược",
+     "Chỉ định chuyển bệnh viện có xét nghiệm và nằm viện"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi diễn tiến (vàng mắt, nước tiểu sẫm, sốt), tuân thủ ngưng rượu và NSAID, thuốc nam, nhiễm khuẩn, xuất huyết, lú lẫn; khám toàn thân, mắt, da, bụng, thần kinh, sảng. Hỏi cụ thể thuốc nam mới biết ông uống nhân trần và actiso.",
+     "Vì sao nghĩ viêm gan rượu: vàng da mới trong 60 ngày sau uống nặng, kèm sốt, mệt, gan to đau (ACG 2024 Bảng 5; EASL 2018 tr. 163). Tiêu chuẩn NIAAA cần bilirubin > 3 mg/dL, AST 50–400 U/L, AST/ALT > 1,5 (ACG 2024 Bảng 5): không đo được ở phòng khám, chỉ chẩn đoán 'có thể' bằng lâm sàng.",
+     "Ngưng rượu đúng nhưng vẫn tiến triển: viêm gan rượu có thể xuất hiện khi đã ngưng rượu ngày đến tuần (EASL 2018 tr. 163); quyết định ở lượt 1 không sai.",
+     "SIRS (≥ 2 tiêu chí gồm nhiệt độ > 38 hoặc < 36 °C, mạch > 90, thở > 20, bạch cầu > 12 G/L) có thể có dù không nhiễm khuẩn và liên quan nguy cơ tử vong (ACG 2024 tr. 40); sốt cũng có thể do nhiễm khuẩn (khoảng 12% lúc nhập viện; ACG 2024 tr. 42).",
+     "Loại trừ: xơ gan mất bù (không cổ trướng, não gan), viêm gan virus, sỏi đường mật, thuốc hoặc thảo dược (EASL 2018 tr. 163). Cần xét nghiệm, siêu âm ở bệnh viện."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến vì thể nặng (MELD > 20) nên nhập viện (ACG 2024 KC 20) và không phân độ được tại phòng khám; ngưỡng MELD > 20 (ACG 2024 KC 23, tr. 40) hoặc mDF ≥ 32 (EASL 2018 tr. 164) là hai cách phân độ, ACG cho rằng MELD chính xác hơn mDF (tr. 42). Ở bệnh viện, tính cả hai.",
+     "Việc của tuyến trên, chỉ để tham khảo: prednisolon 40 mg/ngày khi mDF ≥ 32 hoặc GAHS ≥ 9, có thể kèm N-acetylcystein (EASL 2018 Hình tr. 165); corticoid khi MELD > 20 kèm NAC tĩnh mạch, không pentoxifylline (ACG 2024 Khuyến cáo 17, 18, 20); Lille ngày 7 ≥ 0,45 là không đáp ứng (EASL 2018 tr. 164).",
+     "Không kháng sinh dự phòng thường quy (ACG 2024 Khuyến cáo 15); dinh dưỡng 35–40 kcal/kg, đạm 1,2–1,5 g/kg, ưu tiên đường miệng (EASL 2018 tr. 164; ACG 2024 KC 24); bổ sung thiamine, B12, kẽm (ACG 2024 KC 25).",
+     "Trước chuyển: ghi lượng rượu, ngày ngưng, NSAID, thảo dược, sinh hiệu; không dùng NSAID, corticoid, kháng sinh tại chỗ; không truyền dịch vì không tài liệu đã tải chỉ định ở tuyến cơ sở. Câu nói thay thế: 'Bác đang vàng da và sốt, chai nước không biết được gan bác bị đến đâu; bác cần xét nghiệm máu và nằm viện hôm nay để chữa đúng.'",
+     "Giấy nghỉ ốm: giấy chuyển và giấy nhập viện, giấy ra viện sau (TT 56/2017/TT-BYT – nguồn bổ sung tự tìm, chưa đối chiếu bản hiện hành)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Thiamine (vitamin B1)",
+      "ham_luong": "100 mg",
+      "lieu": "200 mg × 1 lần/ngày (2 viên)",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, trước khi đi viện nếu chưa uống",
+      "so_ngay": "Tiếp tục cho đến khi bệnh viện điều chỉnh",
+      "ghi_chu": "ACG 2024 KC 25; EASL 2018 tr. 164 (bổ sung nhóm B, không ghi liều); Canada 2023 Hình 3 chú thích (uống 200 mg/ngày; tiêm 200–300 mg/ngày ≥ 5 ngày khi bệnh gan mất bù, suy dinh dưỡng, nội trú). Phòng khám không kê thuốc nào khác."
+     }
+    ],
+    "dan_do": [
+     "Đi ngay hôm nay, không đợi cuối tuần; con gái và vợ đi cùng; mang theo giấy chuyển, các vỉ thuốc đã dùng và chai nước nhân trần actiso.",
+     "Nói với bác sĩ ở bệnh viện: uống rượu 25 năm, ngày ngưng rượu, ibuprofen và diclofenac đã dùng, nước nhân trần và actiso.",
+     "Không uống rượu, nước thuốc nam, thực phẩm chức năng, thuốc giảm đau; chỉ uống vitamin B1 và nước, ăn nhẹ trước khi đi.",
+     "Gọi 115 nếu lú lẫn, ngủ li bì, nôn ra máu, đi ngoài phân đen, run vẫy hay co giật trên đường đi.",
+     "Công ty: báo ông đang nhập viện; giấy ra viện sẽ cấp sau (TT 56/2017/TT-BYT, nguồn bổ sung tự tìm)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chiều hôm đó con gái chở ông vào bệnh viện huyện, rồi chuyển lên bệnh viện tỉnh trong đêm. Xét nghiệm (số liệu dựng cho ca, minh họa): bilirubin toàn phần 176 µmol/L, INR 1,7, creatinin 104 µmol/L, AST 146, ALT 58 U/L, bạch cầu 15,8 G/L; siêu âm gan nhiễm mỡ, không cổ trướng, không giãn đường mật; HBsAg, anti-HCV âm tính; MELD khoảng 23 – tính bằng công thức MELD gốc, công thức không có trong tài liệu đã tải (> 20: viêm gan rượu nặng, ACG 2024 KC 20).  Bệnh viện tỉnh cho prednisolon 40 mg/ngày kèm N-acetylcystein tĩnh mạch và dinh dưỡng đường miệng (EASL 2018 Hình tr. 165; ACG 2024 Khuyến cáo 17, 20). Ngày 7 điểm Lille 0,52 (≥ 0,45: không đáp ứng) nên ngưng corticoid (EASL 2018 tr. 164). Ông nằm viện 3 tuần, bilirubin còn cao khi ra viện, được hẹn theo dõi chuyên khoa gan và điều trị rối loạn sử dụng rượu. Xử trí ở phòng khám đúng ở cả hai lượt: bỏ rượu, bỏ NSAID, hẹn xét nghiệm, rồi chuyển ngay khi vàng da. Diễn tiến xấu là do bệnh (sống còn 90 ngày của viêm gan rượu nặng khoảng 35–70%, ACG 2024 tr. 41), không phải do chọn sai: tránh đánh giá quyết định bằng kết cục.",
+ "nhieu": [
+  "Không có xét nghiệm nào: lượt 1 chẩn đoán thuần lâm sàng, hẹn xét nghiệm tuyến huyện; lượt 2 chính việc không tính được MELD hay mDF là lý do chuyển tuyến ngay.",
+  "Đòi truyền dịch: cả hai lượt ông nài nỉ; đáp án là giải thích cụ thể, không truyền, thay bằng việc làm có ích.",
+  "Đau tức sau cầu lông và NSAID tự mua: dễ dẫn tới 'căng cơ'; khám thành ngực không đau, gan to đau mới là nguyên nhân.",
+  "Lý do thật là xin giấy nghỉ ốm: chỉ lộ khi hỏi 'bác muốn tôi giúp gì'.",
+  "Nước nhân trần, actiso ở lượt 2: bắt đầu sau khi đã vàng mắt nên không giải thích được bệnh, nhưng phải ghi vào giấy chuyển."
+ ],
+ "bai_hoc_bien": [
+  "Không xét nghiệm thì hỏi bệnh phải cụ thể: hỏi chung 'có uống rượu không' chỉ nghe 'xã giao', hỏi số ly, loại rượu, số năm mới ra 80–96 g/ngày; hỏi chung 'thuốc gì' chỉ nghe 'không có'.",
+  "Gan to đau chưa vàng da ở người uống rượu nặng: hẹn xét nghiệm, bỏ rượu, bỏ NSAID, dặn dấu hiệu vàng da; có vàng da mới và sốt thì nghĩ viêm gan rượu và chuyển (ACG 2024 Bảng 5, KC 20; EASL 2018 tr. 163).",
+  "Ngưng rượu đúng không đảm bảo khỏi: viêm gan rượu có thể xuất hiện khi đã ngưng rượu ngày đến tuần (EASL 2018 tr. 163).",
+  "Chống thiên kiến kết cục: quyết định đúng vẫn có thể ra kết cục xấu; đánh giá theo thông tin lúc quyết định.",
+  "Đòi truyền dịch: giải thích lợi hại cụ thể cho người bệnh này và đưa ra việc làm thay thế (bỏ rượu, ăn đủ, vitamin B1, xét nghiệm) thay vì từ chối cộc lốc.",
+  "Hỏi động cơ thật ('bác muốn tôi giúp gì ngoài khám bệnh'): ông đến để xin giấy nghỉ ốm; cấp giấy theo tình trạng thực, ngắn ngày.",
+  "Bệnh gan: tránh NSAID; paracetamol thận trọng hoặc chưa dùng khi chưa biết men gan; không dùng thuốc 'bổ gan' thay cho bỏ rượu."
+ ],
+ "diem_nho": [
+  "Nghi bệnh gan do rượu khi nam uống > 30 g/ngày kèm bất thường gan (EASL 2018 tr. 159); uống nặng NIAAA: > 14 ly/tuần ở nam, ly chuẩn 14 g (ACG 2024 Bảng 3).",
+  "Viêm gan rượu có thể: vàng da mới trong 60 ngày sau uống > 50 g/ngày ≥ 6 tháng, bilirubin > 3 mg/dL, AST 50–400 U/L, AST/ALT > 1,5, loại nguyên nhân khác (ACG 2024 Bảng 5).",
+  "MELD > 20 là viêm gan rượu nặng, nên nhập viện (ACG 2024 KC 20, 23); mDF ≥ 32 là ngưỡng dùng corticoid của EASL (2018 tr. 164); Lille ngày 7 ≥ 0,45 là không đáp ứng.",
+  "Ngưng rượu kéo dài là biện pháp hiệu quả nhất (ACG 2024 tr. 39); thiamine được bổ sung cho người vừa uống rượu (ACG 2024 KC 25); hội chứng cai thường 6–24 giờ sau ly cuối (ACG 2024 tr. 38).",
+  "Bệnh gan: tránh NSAID (QĐ 361/2014 Phụ lục NSAID 3.3), chống chỉ định tuyệt đối khi suy tế bào gan vừa đến nặng (mục 3.2); paracetamol < 3 g/ngày hoặc không dùng khi đang hủy tế bào gan (Phụ lục thuốc giảm đau 3.1; EASL 2018 tr. 170).",
+  "Không dùng disulfiram ở ALD (ACG 2024 Khuyến cáo 12); không kháng sinh dự phòng thường quy (Khuyến cáo 15)."
+ ],
+ "nguon": [
+  "ACG 2024 – bệnh gan do rượu – TL-0202 – Bảng 1 (Khuyến cáo 1–21), Bảng 2 (KC 4–27), Bảng 3 (tr. 35), Bảng 5 (tr. 41), tr. 36–45",
+  "EASL 2018 – bệnh gan liên quan rượu – TL-0228 – tr. 156, 159–160, 161–162 (Bảng 5), 163 (chẩn đoán AH), 164 (điều trị chung, dinh dưỡng, Lille), 165 (Hình), 170 (paracetamol, thuốc đặc hiệu gan)",
+  "BYT QĐ 361/2014 – bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID (mục 2, 3.2, 3.3); Phụ lục thuốc giảm đau (mục 3.1)",
+  "Canada 2023 – rượu nguy cơ cao và rối loạn sử dụng rượu – TL-0579 – Hình 3 (chú thích thiamine); BYT QĐ 2058/2020 – rối loạn tâm thần – TL-0443 – Bài 7 mục 4.3.1 (vitamin B1 1 g/ngày)",
+  "USPSTF 2020 – sàng lọc HCV – TL-0686 – tóm tắt khuyến cáo (độ B, 18–79 tuổi; tham khảo)",
+  "TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c – nguồn bổ sung tự tìm, theo ghi nhận trong sổ mâu thuẫn (HH-1012), chưa đối chiếu bản hiện hành",
+  "Không có trong tài liệu đã tải: chỉ định truyền dịch hay thuốc bổ gan cho ALD không mất nước; công thức MELD; mốc thời gian xét nghiệm và tái khám 1 tuần; liều thiamine ngoại trú riêng cho ALD; mốc dinh dưỡng riêng cho ALD chưa viêm gan; tác dụng của nhân trần, actiso; quyền hưởng chế độ ốm đau của người hưu trí làm bán thời gian."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 04/11/2026 (bản 1). Đã đọc: TL-0202 (Bảng 1, 2, 3, 5, tr. 36–45), TL-0228 (tr. 156, 159–165, 170), TL-0286 (Phụ lục NSAID, thuốc giảm đau), TL-0579 (Hình 3), TL-0443 (Bài 7), TL-0686. Đã tra sổ mâu thuẫn: thiamine, silymarin, giấy nghỉ ốm, truyền dịch, paracetamol bệnh gan.",
+  "Thiết kế: khoa_cls nhóm xn + sieu_am (app tự kéo X-quang, CT, nội soi); đường huyết mao mạch, que thử, test nhanh khai 'không có'. Các cls khóa vẫn khai v e/u và r (kết quả nếu làm ở bệnh viện huyện) để chấm việc hẹn xét nghiệm.",
+  "Số liệu xét nghiệm, điểm Lille 0,52 và diễn biến viện là dữ kiện hư cấu của ca; MELD tự tính bằng công thức gốc (không có trong tài liệu đã tải).",
+  "Không có mã ảnh da: sao mạch, vàng da mô tả bằng chữ."
+ ]
+}
