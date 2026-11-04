@@ -1,0 +1,566 @@
+{
+ "ma_ca": "TH-0351",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới (2026-11-04)",
+ "benh": "TH_trao_nguoc_da_day_thuc_quan",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trào ngược dạ dày thực quản (GERD)",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh mạch vành",
+   "Loét thực quản"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi kéo dài",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Bùi Thị Nhàn",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Bán tạp hóa nhỏ ở chợ",
+  "can_nang": 49,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'bà', gọi bác sĩ là 'bác sĩ', gọi con gái là 'con Hạnh'. Chị Hạnh gọi mẹ là 'mẹ', xưng 'em' với bác sĩ.",
+  "tinh_cach": "Nhanh miệng, cứng đầu, nói nhiều, quen ngồi quầy từ sáng đến tối, ngày nào nghỉ bán là mất tiền ngày đó. Tự đi lại, tự nấu ăn, không té ngã. Ít tin 'thuốc uống', tin 'chai nước' và 'thuốc tiêm' vì nhớ lần truyền nước ở tiệm thấy khỏe hẳn vài ngày.",
+  "kieu_nhieu": "Đòi truyền dịch: vào phòng khám là xin 'cho bà một chai nước biển với thuốc bổ cho khỏe', bác sĩ từ chối thì nhắc 'lần trước ở tiệm người ta truyền liền', nói to dần và quay sang nhờ con gái nói giúp. Chuyện bà thật sự muốn thuốc kháng sinh chỉ lộ khi bác sĩ hỏi bà nghĩ mình bị bệnh gì, mong bác sĩ cho thuốc gì, hoặc khi hỏi lý do bà muốn truyền. Bà cũng không kể lọ thuốc nhỏ mũi vì cho rằng 'thuốc nhỏ mũi đâu phải thuốc'.",
+  "nguoi_nha": "Con gái, chị Hạnh, 48 tuổi, nhân viên văn phòng, nghỉ làm nửa buổi đưa mẹ đi. Hiền, thương mẹ, nói thật khi được hỏi riêng (vd số lọ thuốc nhỏ mũi trong nhà, giờ ăn tối của mẹ).",
+  "ten_nguoi_nha": "Con gái (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#e2b998",
+   "toc": "#c9c6c2",
+   "kieuToc": "bui",
+   "ao": "#8a6f9e",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#dfae88",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#5f8f8a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt, rát ngực, ho đêm, xin truyền nước",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không có máy siêu âm; vì vậy cũng không làm được CT và nội soi tiêu hóa. Nội soi làm ở bệnh viện tỉnh, cách 35 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt khám duy nhất",
+   "tiep_don": "Bà Bùi Thị Nhàn, 78 tuổi, bán tạp hóa nhỏ ở chợ, con gái đưa đến. Sáu ngày nay mệt, rát nóng trong ngực và họng, ho khan về đêm, sau chuyến xe khách về quê. Bà xin truyền chai nước. Sinh hiệu: HA 152/86 mmHg, mạch 84 l/p, nhiệt 36,8 °C, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bà Nhàn 78 tuổi để truyền dịch và theo dõi vì \"mệt, rát ngực\" khi ECG nhịp xoang 84 l/p không biến đổi ST–T, hs-TnT 4 ng/L dưới ngưỡng loại trừ 5 ng/L (QĐ 2187/2019 Hình 3; ESC 2023 Hình 6), SpO₂ 97%, ure, creatinin, điện giải bình thường, uống được, tiểu bình thường là không có chỉ định (tài liệu GERD đã tải không có chỉ định nhập viện hay truyền dịch). Bà nằm viện, mất ngủ, thêm nguy cơ viêm tĩnh mạch và quá tải dịch (nhận định của tác giả ca), quầy hàng đóng cửa nhiều ngày, niềm tin \"truyền nước mới khỏi\" được củng cố, còn thuốc nhỏ mũi và giờ ăn tối không ai chỉnh.",
+    "cap_cuu": "Gọi xe cấp cứu chuyển bà Nhàn lên bệnh viện tỉnh là quá tay: cơn rát chỉ xuất hiện về đêm, đỡ khi ngồi dậy uống nước, không liên quan gắng sức, ECG và hs-TnT bình thường, không khó thở, SpO₂ 97%. Gọi cấp cứu dành cho đau ngực kéo dài > 15 phút hoặc tái lại trong 1 giờ (ESC 2023 mục 3.1.1). Bà phải chờ ở khoa cấp cứu cách 35 km, bị làm lại xét nghiệm, chị Hạnh nghỉ làm cả ngày, và bà càng tin mình mắc bệnh nặng.",
+    "chuyen_tuyen": "Chuyển bà Nhàn đi nội soi ngay hôm nay là chưa cần: bà có triệu chứng điển hình (ợ nóng, trào chua/đắng), không có dấu báo động (nuốt nghẹn, nuốt đau, nôn, sụt cân, xuất huyết, thiếu máu), nên thử PPI 8 tuần trước, nội soi ngưng PPI 2–4 tuần rồi làm theo hẹn (ACG 2022 chẩn đoán KC 1, 3, 6; VNAGE 2026 KC 3). Đi gấp 35 km làm bà tốn chi phí, chị Hạnh nghỉ làm, bà tưởng mình có bệnh nặng, trong khi thuốc nhỏ mũi và giờ ăn tối vẫn chưa ai chỉnh."
+   },
+   "loi_mo": "Bác sĩ ơi, bà mệt lắm, rát trong ngực, rát lên tới cổ, ho cả đêm không ngủ được. Bác sĩ truyền cho bà chai nước biển với thuốc bổ cho khỏe lại đi, hôm trước bà truyền ở tiệm là khỏe liền.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "152/86",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sáu ngày nay mệt, rát nóng trong ngực lên tới họng, ho khan về đêm, vướng cổ. Muốn truyền chai nước biển cho khỏe.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Nóng rát sau xương ức, có lúc lên tận cổ, kèm nước chua hoặc đắng trào lên miệng, nhất là sau bữa ăn no và khi nằm. Nặng nhất khoảng 1–3 giờ sáng, bà ngồi dậy uống nước thì đỡ sau 10–15 phút. Cơn gần nhất lúc 3 giờ sáng nay. Đi chợ, bê thùng hàng không làm rát thêm; không lan tay hay hàm, không vã mồ hôi, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm: ợ nóng, trào ngược, không liên quan gắng sức"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Tuần trước bà đi xe khách khoảng 7 giờ về quê dự giỗ: ngồi gù lưng, nhịn đi tiểu, ăn xôi và thịt kho mỡ, uống nước ngọt có ga, tối ăn cỗ khuya rồi nằm luôn. Từ hôm sau rát ngực nặng lên. Mấy tháng trước đó thỉnh thoảng cũng nóng rát sau bữa no, bà cho là 'nóng trong'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau chuyến đi xa; triệu chứng nhẹ có từ trước"
+    },
+    {
+     "id": "ho_hong",
+     "noi_dung": "Ho khan từng cơn về đêm và sáng sớm, hay hắng giọng, vướng cổ như có đờm mà khạc không ra, giọng hơi khàn buổi sáng. Không sốt, không đờm vàng xanh, không khó thở, không ho ra máu. Nước mũi trong chảy xuống họng, nhất là lúc nằm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng ngoài thực quản; không có dấu nhiễm khuẩn"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Chưa từng đau thắt ngực hay nhồi máu, chưa từng được báo bệnh tim. Không hồi hộp, không phù chân, không khó thở khi leo cầu thang. Nhiều năm không đo huyết áp nên không biết mình cao hay thấp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử tim mạch"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không nuốt nghẹn, không nuốt đau, không nôn, không đi cầu phân đen, không nôn ra máu. Cân nặng 49 kg như năm ngoái. Ăn uống được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "thuoc_nho_mui",
+     "noi_dung": "Gần hai năm nay nhỏ mũi lọ thuốc co mạch mua ở hiệu thuốc đầu chợ (nhãn ghi naphazolin), ngày 4–5 lần và mỗi tối trước khi ngủ; không nhỏ thì nghẹt mũi, không ngủ được. Bà nghĩ 'thuốc nhỏ mũi đâu phải thuốc' nên không kể.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'bà đang uống thuốc gì' thì bà nói không uống thuốc gì. Chỉ kể khi bác sĩ hỏi cụ thể thuốc nhỏ mũi, xịt mũi, thuốc tự mua ở hiệu thuốc; chị Hạnh cũng kể số lọ nếu được hỏi riêng.",
+     "y": "Thuốc đang dùng kéo dài: thuốc nhỏ mũi co mạch"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không uống thuốc giảm đau xương khớp, không aspirin, không viên canxi hay sắt, không uống thuốc nào hằng ngày. Không có bệnh mạn tính nào khác được chẩn đoán.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ viêm thực quản do thuốc viên"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà không thật sự tin chai nước chữa được rát ngực. Điều bà muốn nhất là thuốc kháng sinh: bà nghĩ ho đêm, vướng họng, chảy mũi là 'viêm họng, viêm xoang', vì lần ho cách đây hai tháng uống kháng sinh mấy ngày thì hết. Ho đêm làm bà mất tiếng, mất ngủ, không bán hàng được. Trong nhà còn nửa vỉ cefalexin 500 mg dư từ lần đó. Bà xin truyền nước vì nghĩ 'truyền thì thuốc vào nhanh, có kháng sinh trong chai càng tốt'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Ban đầu chỉ nói muốn truyền nước. Chỉ nói thẳng muốn kháng sinh khi bác sĩ hỏi bà nghĩ mình bị bệnh gì, mong bác sĩ cho thuốc gì, hoặc khi bác sĩ từ chối truyền dịch và hỏi vì sao bà muốn truyền.",
+     "y": "Lý do thật: muốn được kê kháng sinh"
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Tháng trước mệt, bà vào tiệm truyền một chai nước biển với vitamin, thấy 'khỏe hẳn' vài ngày nên tin truyền nước là cách hồi sức nhanh nhất. Bà không biết mình có bị mất nước hay không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Niềm tin về truyền dịch"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Uống nước khoảng 1,5 lít mỗi ngày, tiểu 4–5 lần, nước vàng nhạt, không chóng mặt khi đứng dậy, không tiêu chảy, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tình trạng nước: không mất nước"
+    },
+    {
+     "id": "chan",
+     "noi_dung": "Hai chân không đau, không sưng, không tê; ngồi xe lâu có mỏi nhưng không đau riêng một bên bắp chân. Không khó thở, không ho ra máu, không đau ngực kiểu đau khi hít sâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc huyết khối sau đi xa"
+    },
+    {
+     "id": "an_toi",
+     "noi_dung": "Dọn quầy xong khoảng 8–9 giờ tối mới ăn cơm, thường ăn mặn, hay ăn thêm bánh ngọt, ăn xong ngồi xem tivi rồi đi ngủ ngay, gối một chiếc. Sáng uống trà đặc, một ly cà phê sữa. Không hút thuốc, không uống rượu bia.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thói quen ăn tối muộn, nằm ngay sau ăn"
+    },
+    {
+     "id": "noi_soi_xa",
+     "noi_dung": "Nhà cách phòng khám 2 km, con gái chở được. Bệnh viện tỉnh cách 35 km, đi nội soi phải có con gái nghỉ làm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Khả năng đi nội soi"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bà gầy nhỏ (49 kg, cao 150 cm, BMI 21,8), tỉnh, tiếp xúc tốt, nói nhiều, tự đi vào phòng khám. Môi và lưỡi ẩm, da véo trở lại nhanh, niêm mạc hồng nhạt, không vàng da.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 152/86 mmHg, mạch 84 l/p; đứng 1 phút 148/84 mmHg, mạch 88 l/p, không choáng, không chóng mặt.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1, T2 rõ, không âm thổi, không T3, T4.",
+     "k": 1,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran, không rít. Nhịp thở 18 l/p.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi đỏ sẫm, phù nề, cuốn mũi dưới quá phát, ít dịch nhầy trong; không mủ, không polyp thấy được. Họng đỏ nhẹ lan tỏa, thành sau họng có dịch nhầy trong chảy xuống, hạt lympho nổi nhẹ; amiđan không to, không mủ. Màng nhĩ hai bên bình thường.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, không hạch thượng đòn, tuyến giáp không to, tĩnh mạch cổ không nổi.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ vùng thượng vị, không phản ứng thành bụng, không sờ thấy khối, gan lách không to, dấu Murphy âm tính.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Hai bắp chân mềm, chu vi hai bên bằng nhau, không sưng, không nóng đỏ, không đau khi ấn; không phù mu chân.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Ấn dọc xương ức và các sườn không đau; cử động hai vai, cổ không đau. Cột sống lưng hơi gù.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 84 l/p. Không ST chênh, không sóng Q bệnh lý, không biến đổi ST–T.",
+     "n": "Bắt buộc: nóng rát ngực ở người 78 tuổi cần loại trừ hội chứng vành cấp trước (ESC 2023 mục 3.1.1: chest discomfort có thể mô tả là đau, nặng, thắt hoặc nóng rát); ECG đọc trong 10 phút (mục 3.2)."
+    },
+    "trop": {
+     "v": "e",
+     "r": "hs-TnT 4 ng/L (rule-out 0 giờ khi < 5 ng/L)",
+     "n": "Cơn đau gần nhất lúc 3 giờ sáng, lấy máu lúc 8 giờ, cách > 3 giờ: dưới ngưỡng loại trừ 5 ng/L ở máy Elecsys (QĐ 2187/2019 Hình 3; ESC 2023 Hình 6, chú thích a)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 126 g/L · MCV 89 fL · BC 7,4 G/L · TC 238 G/L",
+     "n": "Thiếu máu là dấu báo động cần nội soi sớm (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3); ở bà không thiếu máu.",
+     "bang": {
+      "wbc": 7.4,
+      "neu_pct": 64.0,
+      "neu": 4.74,
+      "lym_pct": 27.0,
+      "lym": 2.0,
+      "mono_pct": 6.0,
+      "mono": 0.44,
+      "eos_pct": 2.5,
+      "eos": 0.19,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.3,
+      "hgb": 126,
+      "hct": 0.38,
+      "mcv": 89.0,
+      "mch": 29.3,
+      "mchc": 329,
+      "rdw": 13.5,
+      "plt": 238
+     }
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 5,6 mmol/L · Creatinin 78 µmol/L · eGFR 67 mL/ph/1,73m²",
+     "n": "Không có dấu mất nước hay suy thận. Chưa cần cho chẩn đoán GERD; hữu ích để trả lời yêu cầu truyền dịch.",
+     "bang": {
+      "ure": 5.6,
+      "creat": 78,
+      "egfr": 67
+     }
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 139 · K 4,1 · Cl 103 mmol/L",
+     "bang": {
+      "na": 139,
+      "k": 4.1,
+      "cl": 103
+     }
+    },
+    "cxr": {
+     "v": "u",
+     "r": "Hai phổi sạch, không đông đặc, không tràn dịch; bóng tim không to; quai động mạch chủ vồng, vôi hóa nhẹ.",
+     "n": "Ho đêm ở người 78 tuổi: loại trừ viêm phổi trước khi nói không cần kháng sinh (ACP/CDC 2016 Lời khuyên giá trị cao 1: không kháng sinh cho viêm phế quản trừ khi nghi viêm phổi)."
+    },
+    "ddimer": {
+     "v": "u",
+     "r": "D-dimer 410 µg/L FEU (ngưỡng cố định 500; ngưỡng theo tuổi 78 × 10 = 780 µg/L)",
+     "n": "Ngồi xe lâu là yếu tố nguy cơ yếu của huyết khối (ESC 2019 PE Bảng 3). Geneva sửa đổi: tuổi > 65 (1) + mạch 75–94 l/p (3) = 4 điểm, mức trung bình (Bảng 5); D-dimer âm tính theo ngưỡng cố định hoặc theo tuổi loại trừ được thuyên tắc phổi ở mức xác suất thấp hoặc trung bình (mục 4.4.1, 4.11, IIa B với ngưỡng theo tuổi)."
+    },
+    "abdus": {
+     "n": "Không có siêu âm. Không cần cho chẩn đoán GERD (các khuyến cáo chẩn đoán GERD đã tải không đề cập siêu âm)."
+    },
+    "noi_soi": {
+     "v": "u",
+     "r": "(Phòng khám không có nội soi.)",
+     "n": "Có chỉ định nội soi theo hẹn, không cấp cứu: tuổi > 50 và trào ngược ban đêm là hai yếu tố nguy cơ Barrett, nhưng không có dấu báo động (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Nên làm sau khi ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày thực quản (GERD) ở người rất cao tuổi, chẩn đoán lâm sàng: ợ nóng, trào chua/đắng kèm ho khan về đêm, hắng giọng, vướng cổ; khởi phát sau chuyến xe dài và bữa ăn nhiều mỡ; đã loại trừ hội chứng vành cấp và thuyên tắc phổi tại thời điểm khám; chưa có dấu báo động; cần nội soi theo hẹn; không có chỉ định truyền dịch hay kháng sinh; kèm viêm mũi do lạm dụng thuốc nhỏ mũi co mạch",
+     "ok": 1,
+     "n": "Ợ nóng và trào ngược là hai triệu chứng điển hình (VNAGE 2026 KC 1; Lyon 2.0 Bảng 2). Ho đêm, hắng giọng, vướng cổ là triệu chứng ngoài thực quản kèm triệu chứng điển hình nên dùng PPI hợp lý (VNAGE 2026 KC 16)."
+    },
+    {
+     "t": "Bệnh mạch vành (hội chứng vành cấp, đau thắt ngực ổn định)",
+     "n": "Nữ 78 tuổi, nóng rát ngực: không được bỏ qua. Nhưng cơn rát chỉ về đêm và sau ăn, đỡ khi ngồi dậy uống nước, không liên quan gắng sức, không lan, không vã mồ hôi, không khó thở; ECG không biến đổi; hs-TnT 4 ng/L sau > 3 giờ từ cơn gần nhất, dưới ngưỡng loại trừ 5 ng/L (QĐ 2187/2019 Hình 3; ESC 2023 Hình 6)."
+    },
+    {
+     "t": "Loét thực quản, viêm thực quản nặng (kể cả do thuốc viên)",
+     "n": "Không nuốt nghẹn, không nuốt đau, không nôn, không xuất huyết, không thiếu máu (Hb 126 g/L); không uống viên thuốc nào hằng ngày nên không có nguyên nhân thuốc viên. Biến chứng nặng ít gặp ở Việt Nam (VNAGE 2026 KC 4); chỉ nội soi mới khẳng định hay loại trừ."
+    },
+    {
+     "t": "Thuyên tắc phổi sau chuyến đi xa",
+     "n": "Ngồi xe lâu là yếu tố nguy cơ yếu (ESC 2019 PE Bảng 3). Không khó thở, SpO₂ 97%, chân không sưng đau; D-dimer 410 µg/L dưới cả ngưỡng cố định 500 và ngưỡng theo tuổi 780 (ESC 2019 PE mục 4.4.1)."
+    },
+    {
+     "t": "Viêm họng, viêm phổi hoặc viêm xoang do vi khuẩn (cần kháng sinh)",
+     "n": "Không sốt, không đờm mủ, không mủ amiđan, không hạch cổ, không đau mặt; phổi không ran, X-quang ngực bình thường, bạch cầu 7,4 G/L: không có chỉ định kháng sinh (ACP/CDC 2016 Lời khuyên giá trị cao 1–3). Ho đêm, hắng giọng có thể do trào ngược (ACG 2022 ngoài thực quản KC 1) hoặc chảy mũi sau (Lyon 2.0, đoạn Symptoms)."
+    },
+    {
+     "t": "Mất nước cần bù dịch tĩnh mạch",
+     "n": "Uống được, tiểu bình thường, môi lưỡi ẩm, HA tư thế không tụt, ure, creatinin, điện giải bình thường. Chỉ cân nhắc truyền khi nôn nhiều, không uống được, có dấu mất nước (QĐ 2760/2023 B2 mục 1.2, 1.4: nguyên tắc chung, không có trong tài liệu GERD)."
+    },
+    {
+     "t": "Ung thư thực quản, ung thư dạ dày",
+     "n": "Không nuốt nghẹn, không sụt cân, không thiếu máu, không nôn, không khối ở bụng, không hạch. Ác tính 0,4% trong 472.744 người Việt được nội soi (VNAGE 2026 KC 3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi kỹ đau ngực (gắng sức, thời gian, lan, vã mồ hôi), làm ECG ngay và đo hs-troponin trước khi quy cho trào ngược",
+     "v": "c",
+     "n": "Nóng rát ngực, mệt ở người 78 tuổi cần loại trừ hội chứng vành cấp (ESC 2023 mục 3.1.1, 3.2: ECG trong 10 phút); hs-cTn theo thuật toán 0 giờ/1 giờ (ESC 2023 Hình 6; QĐ 2187/2019 Hình 3: Elecsys < 5 ng/L, cơn đau cách > 3 giờ). Lyon 2.0 (đoạn Symptoms), ACG 2022 (chẩn đoán KC 4): loại trừ bệnh tim trước khi coi đau ngực là do thực quản."
+    },
+    {
+     "t": "Không truyền dịch; giải thích bằng lời đơn giản vì sao chai nước không chữa được chỗ rát, rồi đưa việc cụ thể làm thay: uống nước lọc từng ngụm, ăn cháo hoặc cơm mềm, uống thuốc dạ dày đúng giờ, đừng nằm ngay sau ăn",
+     "v": "c",
+     "n": "Không có dấu mất nước; tài liệu GERD đã tải không có chỉ định truyền dịch (không có trong tài liệu đã tải). Bù dịch đường uống nếu còn uống được, chỉ truyền khi nôn nhiều, không uống được, có dấu mất nước (QĐ 2760/2023 B2 mục 1.2, 1.4: nguyên tắc chung). Nguy cơ viêm tĩnh mạch, quá tải dịch ở tuổi 78: nhận định của tác giả ca."
+    },
+    {
+     "t": "Không kê kháng sinh; ngưng dùng nửa vỉ cefalexin còn dư; nói rõ vì sao ho đêm và vướng họng của bà không cần kháng sinh (không sốt, phổi sạch, X-quang bình thường, không mủ) và nguyên nhân thật là trào ngược cộng chảy mũi sau do thuốc nhỏ mũi",
+     "v": "c",
+     "n": "Không nghi viêm phổi: không kháng sinh cho ho/viêm phế quản (ACP/CDC 2016 Lời khuyên giá trị cao 1); không đủ dấu viêm họng liên cầu (Lời khuyên 2); không có dấu viêm xoang cấp vi khuẩn (Lời khuyên 3). Người bệnh hài lòng nhờ chất lượng cuộc gặp, thời gian giải thích hơn là nhờ đơn kháng sinh (ACP/CDC 2016 tr. 431–432)."
+    },
+    {
+     "t": "Omeprazol 20 mg uống 1 lần/ngày, 30–60 phút trước bữa sáng, 8 tuần; đánh giá lại ở tuần 8",
+     "v": "c",
+     "n": "Triệu chứng điển hình kèm ngoài thực quản, không dấu báo động: PPI liều chuẩn (VNAGE 2026 KC 15, 16; ACG 2022 chẩn đoán KC 1: 8 tuần, 1 lần/ngày trước bữa). Liều chuẩn omeprazol 20 mg (VNAGE 2024 Bảng 4). Thời điểm: 30–60 phút trước bữa, không uống lúc đi ngủ (ACG 2022 điều trị KC 8). Sau 8 tuần nếu đỡ thì cố ngưng hoặc dùng khi cần (ACG 2022 chẩn đoán KC 2, điều trị KC 9); AGS Beers 2023 Bảng 2: tránh PPI cố định > 8 tuần ở ≥ 65 tuổi trừ khi có chỉ định."
+    },
+    {
+     "t": "Đổi thói quen: ăn tối sớm, không ăn trong 2–3 giờ trước khi ngủ, kê cao đầu giường, ăn bữa nhỏ ít mỡ, bỏ nước ngọt có ga",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 2, 5, Bảng 3 (tránh ăn 2–3 giờ trước ngủ, kê cao đầu giường, tránh đồ uống có ga, bữa nhiều mỡ, ăn bữa nhỏ); VNAGE 2026 KC 12. Không cần giảm cân: BMI 21,8 (ACG 2022 điều trị KC 1 chỉ cho người thừa cân)."
+    },
+    {
+     "t": "Giảm dần số lần nhỏ mũi rồi bỏ thuốc nhỏ mũi co mạch (hoặc bỏ hẳn), thay bằng rửa mũi natriclorid 0,9%; giải thích nghẹt mũi có thể dội lại vài ngày đầu",
+     "v": "c",
+     "n": "Dùng co mạch tại chỗ kéo dài gây viêm mũi do thuốc và nghẹt tăng khi ngưng (EPOS 2020 mục 6.1.10.1); ARIA-EAACI 2024–2025 mục 5.2.2 (viết cho viêm mũi dị ứng, dùng tham khảo): không dùng > 5 ngày, người cao tuổi nên tránh. Thuốc chống sung huyết có thể làm tăng HA, thay bằng nước muối sinh lý (AHA/ACC 2025 Bảng 11). QĐ 5643/2015 Ngạt mũi mục 4.1: rửa mũi natriclorid 0,9%, rỏ co mạch (không nêu thời gian). Cách ngưng và số lần rửa mũi mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viết giấy giới thiệu nội soi dạ dày – thực quản ở bệnh viện tỉnh, hẹn làm không khẩn, sau 2 tuần ngưng omeprazol ở cuối đợt 8 tuần",
+     "v": "c",
+     "n": "Tuổi > 50 và trào ngược ban đêm là yếu tố nguy cơ Barrett: nội soi (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Nội soi sau khi ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2). Không dấu báo động nên không cấp cứu. Thời hạn hẹn cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu cần quay lại hoặc đến cấp cứu: đau ngực kéo dài > 15 phút hoặc tái lại trong 1 giờ, vã mồ hôi, khó thở; nuốt nghẹn, nuốt đau, nôn ra máu, phân đen, sụt cân; đau hay sưng một bên bắp chân",
+     "v": "c",
+     "n": "ESC 2023 mục 3.1.1 (đau ngực > 15 phút, tái lại trong 1 giờ); dấu báo động (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3); đau chân một bên gợi ý huyết khối (ESC 2019 PE Bảng 5)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần cùng chị Hạnh để xem đáp ứng, nghẹt mũi, đo lại huyết áp khi đã bỏ thuốc nhỏ mũi; chưa kê thuốc hạ áp hôm nay; đánh giá lại ở tuần 8",
+     "v": "c",
+     "n": "HA 152/86 một lần đo, đang dùng thuốc co mạch: chưa kết luận tăng huyết áp, cần HA ngoài phòng khám để xác nhận (ESC 2024 mục 7.2, Hình 10; VSH/VNHA 2024, định nghĩa THA áo choàng trắng). Mốc 2 tuần là lựa chọn của ca (không có trong tài liệu đã tải). Tuần 8: ACG 2022 chẩn đoán KC 1–3; VNAGE 2026 KC 3 (không đáp ứng thì nội soi)."
+    },
+    {
+     "t": "Omeprazol 20 mg ngày 2 lần (trước bữa sáng và bữa tối) từ đầu",
+     "v": "a",
+     "n": "ACG 2022 ngoài thực quản KC 3 gợi ý 2 lần/ngày 8–12 tuần; VNAGE 2026 KC 16 nhắc tăng lên 2 lần/ngày khi cần. Đáp án chính 1 lần/ngày vì triệu chứng điển hình chiếm ưu thế (VNAGE 2026 KC 15; ACG 2022 chẩn đoán KC 1), bà 78 tuổi nên thận trọng (AGS Beers 2023 Bảng 2)."
+    },
+    {
+     "t": "Thêm alginat khi cần để giảm triệu chứng nhanh",
+     "v": "a",
+     "n": "VNAGE 2026 KC 14 (alginat dùng đơn độc cho GERD nhẹ–vừa hoặc kèm PPI). Liều alginat: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển nội soi ngay, không thử PPI trước",
+     "v": "a",
+     "n": "Chấp nhận được vì bà 78 tuổi, có tuổi > 50 và trào ngược ban đêm (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3; VNAGE 2023 Statement 3: khó tiêu chưa thăm dò, nữ ≥ 35 tuổi), nhưng không có dấu báo động nên không bắt buộc ngay (ACG 2022 chẩn đoán KC 1)."
+    },
+    {
+     "t": "Đồng ý truyền một chai nước biển kèm vitamin theo yêu cầu cho bà yên tâm",
+     "v": "w",
+     "n": "Không có chỉ định: không mất nước, tài liệu GERD đã tải không có truyền dịch (không có trong tài liệu đã tải; QĐ 2760/2023 B2 mục 1.2, 1.4). Củng cố niềm tin sai về chai nước; nguy cơ viêm tĩnh mạch, quá tải dịch: nhận định của tác giả ca."
+    },
+    {
+     "t": "Kê kháng sinh (uống hoặc truyền) theo yêu cầu vì ho đêm, vướng họng",
+     "v": "w",
+     "n": "Không có dấu nhiễm khuẩn: không sốt, phổi sạch, X-quang bình thường (ACP/CDC 2016 Lời khuyên giá trị cao 1–3); kháng sinh không điều trị trào ngược, thêm tác dụng phụ (ACP/CDC 2016, tóm tắt: kháng sinh gây nhiều tác dụng phụ nặng)."
+    },
+    {
+     "t": "Cho tiếp lọ thuốc nhỏ mũi hoặc đổi sang loại xịt co mạch khác cho dễ thở",
+     "v": "w",
+     "n": "Co mạch kéo dài gây viêm mũi do thuốc (EPOS 2020 mục 6.1.10.1); không quá 5 ngày, người cao tuổi nên tránh (ARIA-EAACI 2024–2025 mục 5.2.2); có thể làm tăng HA (AHA/ACC 2025 Bảng 11)."
+    },
+    {
+     "t": "Cho sucralfat hoặc thuốc vận động đường tiêu hóa (prokinetic) thay cho PPI",
+     "v": "w",
+     "n": "ACG 2022 điều trị KC 14: không dùng prokinetic cho GERD khi không có bằng chứng liệt dạ dày; KC 15: không dùng sucralfat trừ khi có thai. PPI là nền tảng (VNAGE 2026 KC 13)."
+    },
+    {
+     "t": "Nhập viện hoặc gọi cấp cứu chuyển tuyến ngay hôm nay",
+     "v": "w",
+     "n": "ECG, hs-TnT, D-dimer, X-quang bình thường, sinh hiệu ổn, không dấu báo động: không có chỉ định (ESC 2023 mục 3.1.1; ACG 2022 chẩn đoán KC 6)."
+    },
+    {
+     "t": "Chỉ kê PPI rồi cho về, không làm ECG hay troponin vì 'chắc dạ dày'",
+     "v": "h",
+     "n": "Nóng rát ngực ở nữ 78 tuổi; chậm chẩn đoán hội chứng vành cấp nguy hiểm tính mạng. ECG trong 10 phút (ESC 2023 mục 3.2); Lyon 2.0, ACG 2022 yêu cầu loại trừ bệnh tim trước."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trào ngược dạ dày thực quản (GERD), chẩn đoán lâm sàng: ợ nóng sau xương ức, trào chua/đắng, kèm ho khan về đêm, hắng giọng, vướng cổ (triệu chứng ngoài thực quản), ở người 78 tuổi",
+     "Yếu tố khởi phát và làm nặng: chuyến xe khách 7 giờ ngồi gù lưng, bữa ăn nhiều mỡ, nước ngọt có ga, ăn khuya rồi nằm ngay; thói quen ăn tối muộn (8–9 giờ tối) rồi đi ngủ ngay",
+     "Đã loại trừ hội chứng vành cấp tại thời điểm khám (ECG, hs-TnT sau > 3 giờ từ cơn gần nhất); chưa có dấu thuyên tắc phổi (D-dimer dưới ngưỡng); chưa có dấu báo động; không mất nước",
+     "Chưa có bằng chứng khách quan (chưa nội soi, chưa đo pH): cần nội soi theo hẹn vì tuổi > 50 và trào ngược ban đêm",
+     "Viêm mũi do lạm dụng thuốc nhỏ mũi co mạch (gần 2 năm), góp phần vào chảy mũi sau, hắng giọng và có thể làm huyết áp đo hôm nay cao (152/86)",
+     "Không có chỉ định truyền dịch, không có chỉ định kháng sinh"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: (1) đặc điểm rát ngực: gắng sức, thời gian, lan, vã mồ hôi, tư thế, đỡ khi nào; (2) hỏi cụ thể 'có nước chua hay đắng trào lên cổ không' vì bà không gọi đó là ợ nóng; (3) dấu báo động; (4) tiền sử tim mạch; (5) thuốc: hỏi riêng thuốc nhỏ mũi, thuốc tự mua, kháng sinh còn dư; (6) bữa tối, giờ ngủ; (7) đi xa: đau sưng chân, khó thở; (8) hỏi bà nghĩ mình bị bệnh gì và mong bác sĩ cho thuốc gì (lộ lý do thật). Sau đó khám tim, phổi, mũi họng, bụng, bắp chân, huyết áp tư thế; rồi ECG, hs-troponin, ure–creatinin–điện giải, công thức máu, X-quang ngực, D-dimer.",
+     "Vì sao khó: bà không kể 'ợ nóng' mà kể 'mệt, rát trong ngực', nên dễ bỏ sót trào ngược hoặc ngược lại bỏ sót tim; nữ 78 tuổi nóng rát ngực phải loại trừ hội chứng vành cấp trước (ESC 2023 mục 3.1.1: chest discomfort gồm cả cảm giác nóng rát). Lyon 2.0 (Bảng 2) coi ợ nóng, đau ngực thực quản và trào ngược là triệu chứng điển hình; ACG 2022 (chẩn đoán KC 4) chỉ đòi đánh giá khách quan khi đau ngực không kèm ợ nóng. Bà có cả trào chua/đắng nên thử PPI và hẹn nội soi cùng lúc, thỏa cả hai.",
+     "Loại trừ nhồi máu: cơn đau về đêm và sau ăn, đỡ khi ngồi dậy, không liên quan gắng sức; cơn gần nhất cách lúc lấy máu > 3 giờ, ECG bình thường, hs-TnT 4 ng/L dưới ngưỡng 5 ng/L ở máy Elecsys (QĐ 2187/2019 Hình 3; ESC 2023 Hình 6).",
+     "Thuyên tắc phổi: ngồi xe 7 giờ là yếu tố nguy cơ yếu (ESC 2019 PE Bảng 3). Geneva sửa đổi 4 điểm (tuổi > 65 + mạch 75–94 l/p) là mức trung bình (Bảng 5); lâm sàng không gợi ý (không khó thở, SpO₂ 97%, chân bình thường) và D-dimer 410 µg/L dưới ngưỡng cố định 500 lẫn ngưỡng theo tuổi 78 × 10 = 780 µg/L (mục 4.4.1, 4.11).",
+     "Dấu báo động (nuốt nghẹn, nuốt đau, nôn kéo dài, sụt cân, xuất huyết, thiếu máu) đều không có (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3) nên chưa cần nội soi cấp cứu. Vẫn nên nội soi theo hẹn vì tuổi > 50 và trào ngược ban đêm là yếu tố nguy cơ Barrett (VNAGE 2026 KC 3; ACG 2022 chẩn đoán KC 6).",
+     "Ho đêm, hắng giọng, vướng cổ là triệu chứng ngoài thực quản, có thể do trào ngược hoặc nguyên nhân khác như chảy mũi sau (Lyon 2.0, đoạn Symptoms; ACG 2022 ngoài thực quản KC 1: đánh giá nguyên nhân khác trước khi quy cho GERD). Ở bà có thêm trào chua/đắng nên dùng PPI là hợp lý (VNAGE 2026 KC 16). Niêm mạc mũi đỏ sẫm, phù nề, cuốn mũi quá phát là bức tranh của viêm mũi do thuốc co mạch dùng kéo dài (EPOS 2020 mục 6.1.10.1).",
+     "Lý do thật: bà xin truyền nước nhưng cái bà muốn là kháng sinh, vì ho đêm làm bà mất tiếng, mất ngủ, không bán hàng được. Chỉ chú ý yêu cầu truyền dịch thì bỏ lỡ nỗi lo thật và bà sẽ mua kháng sinh ở hiệu thuốc. Cách trả lời: giải thích bằng kết quả khám (không sốt, phổi sạch, X-quang bình thường), nói rõ ho đêm do trào ngược cộng nước mũi chảy xuống họng, kèm kế hoạch cụ thể (ACP/CDC 2016 tr. 431–432).",
+     "Lưu ý áp dụng ở ≥ 75 tuổi: các hướng dẫn GERD đã tải (VNAGE 2026, ACG 2022, Lyon 2.0) không có mục riêng cho người ≥ 75 tuổi và hầu hết thử nghiệm không nhắm vào nhóm này. Ca áp dụng khuyến cáo chung cho người lớn, thêm AGS Beers 2023 Bảng 2 về PPI và thuốc co mạch; liều và thời gian dùng ở người ≥ 75 tuổi không có trong tài liệu GERD đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Thứ tự xử trí: ECG và troponin ngay; loại trừ tim và huyết khối; xác định không mất nước và không nhiễm khuẩn; giải thích; kê PPI và đổi thói quen; bỏ dần thuốc nhỏ mũi; hẹn nội soi; dặn dấu hiệu; hẹn tái khám.",
+     "PPI liều chuẩn 8 tuần (VNAGE 2026 KC 15: 4–8 tuần cho NERD; KC 13: 8 tuần cho viêm thực quản; ACG 2022 chẩn đoán KC 1). Liều omeprazol 20 mg (VNAGE 2024 Bảng 4). Trước bữa 30–60 phút, không uống lúc đi ngủ (ACG 2022 điều trị KC 8); QĐ 361/2014 từng ghi uống buổi tối trước ngủ cho người dùng NSAID, ACG mới hơn nên đáp án theo ACG, uống buổi tối chấp nhận. Thời gian: ACG 2022 chẩn đoán KC 2 khuyên cố ngưng nếu đỡ; AGS Beers 2023 Bảng 2 tránh PPI cố định > 8 tuần ở ≥ 65 tuổi trừ khi có chỉ định; cả hai cùng dừng ở mốc 8 tuần rồi đánh giá lại.",
+     "Không truyền dịch: bà uống được, tiểu bình thường, HA tư thế không tụt, ure, creatinin, điện giải bình thường. Chai nước không tác động lên cơ chế trào ngược; rủi ro viêm tĩnh mạch, quá tải dịch ở tuổi 78 (nhận định của tác giả ca; tài liệu GERD đã tải không có chỉ định truyền dịch).",
+     "Kháng sinh: không kê (ACP/CDC 2016 Lời khuyên giá trị cao 1–3). Ngưng nửa vỉ cefalexin còn dư; không tự uống lại.",
+     "Thuốc nhỏ mũi: EPOS 2020 mục 6.1.10.1 (dùng kéo dài gây viêm mũi do thuốc, nghẹt tăng khi ngưng); ARIA-EAACI 2024–2025 mục 5.2.2 (≤ 5 ngày, người cao tuổi nên tránh); QĐ 5643/2015 Ngạt mũi mục 4.1 vẫn liệt kê rỏ co mạch nhưng không nêu thời gian dùng. Các nguồn cùng hướng: ngưng, rửa mũi nước muối. Cách ngưng (dừng ngay hay giảm dần) không có trong tài liệu đã tải, chấp nhận cả hai. HA 152/86 chưa kết luận tăng huyết áp (ESC 2024 mục 7.2, Hình 10); đo lại sau khi bỏ thuốc (AHA/ACC 2025 Bảng 11 nêu thuốc chống sung huyết có thể làm tăng HA).",
+     "Nội soi không khẩn, ngưng PPI 2 tuần trước nội soi (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2: LA B/C/D, Barrett mới đủ kết luận GERD, LA A chưa đủ). Nếu nội soi bình thường mà vẫn còn triệu chứng: đo pH 24 giờ ở tuyến chuyên khoa (VNAGE 2026 KC 5). Phòng khám không có siêu âm nên không có CT và nội soi: viết giấy giới thiệu.",
+     "Những việc sai: truyền dịch theo yêu cầu, kê kháng sinh, tiếp tục co mạch, thay PPI bằng sucralfat hay prokinetic, chụp thực quản cản quang (ACG 2022 chẩn đoán KC 5), nhập viện hoặc chuyển cấp cứu."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng",
+      "so_ngay": "8 tuần; đánh giá lại ở tuần 8, không tự dùng kéo dài",
+      "ghi_chu": "VNAGE 2026 KC 13, 15, 16; ACG 2022 chẩn đoán KC 1, điều trị KC 8; liều chuẩn VNAGE 2024 Bảng 4; AGS Beers 2023 Bảng 2 (PPI > 8 tuần ở ≥ 65 tuổi cần có chỉ định). Dặn: không uống lúc đi ngủ."
+     },
+     {
+      "thuoc": "Dung dịch natriclorid 0,9% rửa mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa mỗi bên mũi 2–3 lần/ngày, nhất là buổi tối",
+      "duong": "Rửa mũi, nhỏ mũi",
+      "thoi_diem": "Thay các lần nhỏ thuốc co mạch",
+      "so_ngay": "Dùng đến khi hết nghẹt mũi; đánh giá lại khi tái khám",
+      "ghi_chu": "QĐ 5643/2015 Ngạt mũi mục 4.1 (rửa mũi natriclorid 0,9%); AHA/ACC 2025 Bảng 11 (nước muối thay thuốc chống sung huyết). Số lần mỗi ngày là lựa chọn của ca, không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Thuốc nhỏ mũi co mạch (naphazolin, đang tự dùng)",
+      "ham_luong": "Theo lọ đang dùng",
+      "lieu": "Giảm dần số lần nhỏ rồi bỏ, hoặc bỏ hẳn",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Không nhỏ mỗi tối nữa",
+      "so_ngay": "Bỏ trong vài ngày đầu",
+      "ghi_chu": "EPOS 2020 mục 6.1.10.1; ARIA-EAACI 2024–2025 mục 5.2.2. Cách ngưng cụ thể không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Cefalexin (nửa vỉ dư, tự giữ)",
+      "ham_luong": "500 mg",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng",
+      "so_ngay": "Bỏ phần còn dư, không tự uống lại",
+      "ghi_chu": "Không có chỉ định kháng sinh: ACP/CDC 2016 Lời khuyên giá trị cao 1–3."
+     }
+    ],
+    "dan_do": [
+     "Hôm nay không truyền nước vì bà uống được, tiểu bình thường, huyết áp không tụt, xét nghiệm máu không mất nước; chai nước không chữa chỗ gây ra rát ngực. Thay vào đó: uống nước lọc từng ngụm nhỏ, ăn cháo hoặc cơm mềm, đừng nằm ngay sau ăn.",
+     "Uống omeprazol 20 mg mỗi sáng 30–60 phút trước khi ăn sáng, đều trong 8 tuần dù đã đỡ sớm (ACG 2022 chẩn đoán KC 1, điều trị KC 8).",
+     "Ho đêm và vướng họng của bà là do nước chua trào lên và nước mũi chảy xuống họng, không phải nhiễm trùng nên kháng sinh không chữa được (phổi, X-quang, xét nghiệm máu đều bình thường). Bỏ nửa vỉ cefalexin còn dư, không tự uống khi ho (ACP/CDC 2016).",
+     "Ăn tối sớm, trước giờ ngủ ít nhất 2–3 giờ; kê cao đầu giường, ăn bữa nhỏ, bớt đồ mỡ, bỏ nước ngọt có ga (ACG 2022 điều trị KC 2, 5, Bảng 3; VNAGE 2026 KC 12).",
+     "Giảm dần rồi bỏ thuốc nhỏ mũi; vài ngày đầu có thể nghẹt mũi nhiều hơn, rửa mũi nước muối 0,9% để đỡ; đừng nhỏ lại (EPOS 2020 mục 6.1.10.1; ARIA-EAACI 2024–2025 mục 5.2.2).",
+     "Cầm giấy giới thiệu đi nội soi ở bệnh viện tỉnh khi hết đợt 8 tuần, con Hạnh chở; báo nơi nội soi là bà đã uống thuốc dạ dày, họ sẽ dặn ngưng thuốc 2 tuần trước (ACG 2022 chẩn đoán KC 3). Hiện chưa có dấu hiệu nào đáng ngại (ACG 2022 chẩn đoán KC 6).",
+     "Gọi cấp cứu hoặc đến ngay cơ sở y tế nếu đau ngực kéo dài > 15 phút hoặc tái lại trong vòng 1 giờ, vã mồ hôi, khó thở (ESC 2023 mục 3.1.1); hoặc nuốt nghẹn, nuốt đau, nôn ra máu, phân đen, sụt cân; hoặc đau, sưng một bên bắp chân.",
+     "Tái khám sau 2 tuần cùng chị Hạnh, mang theo lọ thuốc nhỏ mũi; đo lại huyết áp khi đã bỏ thuốc nhỏ mũi. Tuần 8 đánh giá lại bằng nội soi và quyết định ngưng hay dùng khi cần (ACG 2022 chẩn đoán KC 2, điều trị KC 9)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hạnh nhắc mẹ uống omeprazol mỗi sáng, ăn tối sớm hơn. Bỏ thuốc nhỏ mũi khó hơn dự kiến: 4–5 ngày đầu nghẹt mũi dội lại, bà một lần nhỏ lại rồi quay lại phòng khám than, bác sĩ động viên và chỉ lại cách rửa mũi. Sau 2 tuần rát ngực đỡ khoảng một nửa, ho đêm còn; huyết áp đo lại sau khi bỏ thuốc nhỏ mũi 138/80 mmHg. Đến tuần 8 hết ợ nóng, nhưng hắng giọng và vướng cổ còn thêm hơn một tháng mới hết. Nội soi ở bệnh viện tỉnh (ngưng omeprazol 2 tuần trước): niêm mạc thực quản bình thường, không loét, không Barrett, chẩn đoán GERD không trợt. Bác sĩ tuyến tỉnh cho thử ngưng omeprazol rồi dùng khi cần, dặn giữ nếp ăn tối sớm. Bà khỏi chậm hơn dự kiến vì GERD không trợt đáp ứng PPI kém hơn thể trợt (VNAGE 2026 KC 15) và vì khó bỏ thuốc nhỏ mũi.",
+ "nhieu": [
+  "Đòi truyền dịch: bà tin chai nước là thuốc hồi sức; trả lời bằng khám (không mất nước), giải thích ngắn gọn và đưa việc cụ thể làm thay (uống nước từng ngụm, thuốc đúng giờ, ăn tối sớm), không tranh cãi.",
+  "Lý do thật là muốn kháng sinh: ho đêm làm bà mất tiếng, không bán hàng được. Chỉ hỏi 'bà nghĩ mình bị bệnh gì, mong bác sĩ cho thuốc gì' mới lộ; nói rõ ho đêm do trào ngược và nước mũi chảy xuống họng.",
+  "Thuốc nhỏ mũi kéo dài bị giấu vì bà không coi là thuốc: phải hỏi cụ thể thuốc nhỏ mũi, xịt mũi, thuốc tự mua; lọ thuốc cũng là manh mối cho HA cao và nghẹt mũi.",
+  "Không có siêu âm kéo theo không có CT, nội soi: cần giấy giới thiệu nội soi. Chuyến xe 7 giờ gợi nghĩ thuyên tắc phổi, hội chứng vành cấp; loại trừ bằng khám, ECG, hs-troponin, D-dimer, không cần chuyển tuyến."
+ ],
+ "bai_hoc_bien": [
+  "Người 78 tuổi nóng rát ngực: loại trừ tim bằng ECG và hs-troponin trước rồi mới nghĩ trào ngược, dù cơn rát nghe rất 'dạ dày' (ESC 2023 mục 3.1.1, 3.2).",
+  "Đòi truyền dịch: khám xem có mất nước không, rồi từ chối kèm việc làm thay; tài liệu GERD đã tải không có chỉ định truyền dịch (QĐ 2760/2023 B2 mục 1.2, 1.4 chỉ dùng làm nguyên tắc chung).",
+  "Điều người bệnh xin không phải lúc nào cũng là điều họ muốn: hỏi 'bà mong bác sĩ cho thuốc gì' để lộ lý do thật, rồi trả lời nỗi lo ấy bằng kết quả khám (ACP/CDC 2016 tr. 431–432).",
+  "Hỏi riêng thuốc nhỏ mũi và thuốc tự mua; thuốc co mạch kéo dài gây viêm mũi do thuốc và có thể làm HA cao (EPOS 2020 mục 6.1.10.1; AHA/ACC 2025 Bảng 11).",
+  "GERD không trợt đáp ứng PPI chậm, 4 tuần có thể chưa đủ; lên kế hoạch 8 tuần, đánh giá lại, rồi cố ngưng hoặc dùng khi cần (VNAGE 2026 KC 15; ACG 2022 điều trị KC 9)."
+ ],
+ "diem_nho": [
+  "Triệu chứng điển hình của GERD gồm ợ nóng, trào ngược và đau ngực thực quản (Lyon 2.0 Bảng 2); thử PPI đơn thuần không đủ để chẩn đoán chắc chắn (VNAGE 2026 KC 2).",
+  "Không dấu báo động: PPI 8 tuần 1 lần/ngày trước bữa; nội soi theo hẹn sau ngưng PPI 2–4 tuần nếu có yếu tố nguy cơ Barrett (ACG 2022 chẩn đoán KC 1, 3, 6).",
+  "PPI uống 30–60 phút trước bữa, không uống lúc đi ngủ (ACG 2022 điều trị KC 8); ≥ 65 tuổi tránh PPI cố định > 8 tuần trừ khi có chỉ định (AGS Beers 2023 Bảng 2).",
+  "Thuốc nhỏ mũi co mạch: không quá 5 ngày, người cao tuổi nên tránh (ARIA-EAACI 2024–2025 mục 5.2.2); dùng kéo dài gây viêm mũi do thuốc (EPOS 2020 mục 6.1.10.1)."
+ ],
+ "nguon": [
+  "VNAGE 2026 – hướng dẫn GERD – TL-0177 – KC 1–6, 9, 12–16, 18",
+  "Lyon Consensus 2.0 2024 – TL-0206 – Bảng 2 (Statements), đoạn Symptoms",
+  "ACG 2022 GERD – TL-0212 – chẩn đoán KC 1–6; điều trị KC 1, 2, 5, 8, 9, 14, 15; ngoài thực quản KC 1, 3; Bảng 3 (lối sống)",
+  "VNAGE 2024 khó tiêu chức năng – TL-0178 – Bảng 4 (liều PPI chuẩn); VNAGE 2023 – TL-0179 – Statement 3",
+  "AGS Beers 2023 – TL-0022 – Bảng 2 (PPI)",
+  "ESC 2023 hội chứng vành cấp – TL-0069 – mục 3.1.1, 3.2, Hình 6; BYT QĐ 2187/2019 – TL-0033 – Hình 3",
+  "ESC 2019 thuyên tắc phổi cấp – TL-0089 – Bảng 3, Bảng 5, mục 4.4.1, 4.11",
+  "ACP/CDC 2016 – kháng sinh trong nhiễm trùng hô hấp cấp ở người lớn – TL-0156 – Lời khuyên giá trị cao 1–3; tr. 431–432",
+  "BYT QĐ 2760/2023 sốt xuất huyết Dengue – TL-0029 – B2 mục 1.2, 1.4 (nguyên tắc bù dịch đường uống trước, truyền khi nôn nhiều/không uống được; dùng làm nguyên tắc chung)",
+  "EPOS 2020 – TL-0087 – mục 6.1.10; ARIA-EAACI 2024–2025 – TL-0546 – mục 5.2.2 (viết cho viêm mũi dị ứng, dùng tham khảo); BYT QĐ 5643/2015 – TL-0130 – Ngạt mũi mục 4.1",
+  "AHA/ACC 2025 tăng huyết áp – TL-0297 – Bảng 11; ESC 2024 tăng huyết áp – TL-0305 – mục 7.2, Hình 10; VSH/VNHA 2024 – TL-0288 – định nghĩa THA áo choàng trắng",
+  "Không có trong tài liệu đã tải: chỉ định truyền dịch trong GERD, liều alginat, cách ngưng thuốc nhỏ mũi co mạch (dừng ngay hay giảm dần), số lần rửa mũi mỗi ngày, thời hạn hẹn nội soi, mốc tái khám 2 tuần, khuyến cáo GERD riêng cho người ≥ 75 tuổi."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-04 (bản 1): viết mới theo sổ cái TH-0351.",
+  "Tài liệu đã đọc: TL-0177 (KC 1–6, 9, 12–18), TL-0206 (Bảng 2, Symptoms), TL-0212 (chẩn đoán, điều trị, ngoài thực quản, Bảng 3), TL-0178 (Bảng 4), TL-0022 (Bảng 2 PPI), TL-0069 (3.1.1, 3.2, Hình 6), TL-0033 (Hình 3), TL-0089 (Bảng 3, 5, 4.4.1, 4.11), TL-0156 (Lời khuyên 1–4, tr. 431), TL-0029 (B2), TL-0087 (6.1.10), TL-0546 (5.2.2), TL-0130 (Ngạt mũi 4.1), TL-0297 (Bảng 11), TL-0305, TL-0288, TL-0179 (Statement 3).",
+  "Áp dụng mục sổ mâu thuẫn đã có: giờ uống PPI (TH-0295); PPI > 8 tuần ở ≥ 65 tuổi (TH-0162); PPI 1 hay 2 lần/ngày, nội soi khi GERD tuổi cao không dấu báo động, truyền dịch theo yêu cầu (TH-0364); thuốc nhỏ mũi co mạch ở người lớn tuổi (ghi nhận nhỏ).",
+  "Tự quyết, không có trong tài liệu đã tải: số lần rửa mũi mỗi ngày, cách ngưng thuốc nhỏ mũi, mốc tái khám 2 tuần, thời hạn hẹn nội soi. Thuốc nhỏ mũi co mạch chấm c (ghi nhận cũ chấm a) vì là biến 'thuốc đang dùng', nguyên nhân chảy mũi sau, nghẹt mũi và HA hôm nay.",
+  "D-dimer chấm u: Geneva sửa đổi 4 điểm (trung bình) nhưng lâm sàng không gợi ý thuyên tắc phổi. Chưa kê thuốc hạ áp vì HA 152/86 một lần đo, đang dùng thuốc co mạch."
+ ]
+}
