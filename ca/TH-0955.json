@@ -1,0 +1,707 @@
+{
+ "ma_ca": "TH-0955",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_tri_noi_nguoi_cao_tuoi_o_xa",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trĩ",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư trực tràng",
+   "Nứt hậu môn"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Tiểu thương chợ",
+  "yeu_to_khoi_phat": "Côn trùng đốt",
+  "thuoc_dang_dung": "Tự mua kháng sinh không rõ tên",
+  "ly_do_that_su_den_kham": "Gia đình thúc ép đi khám"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Văn Lộc",
+  "tuoi": 66,
+  "gioi": "Nam",
+  "nghe": "Tiểu thương chợ (bán đồ khô)",
+  "can_nang": 58,
+  "chieu_cao": 161,
+  "xung_ho": "Bác sĩ gọi ông là 'chú'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Chị Hà gọi ông là 'ba', tự xưng 'con'.",
+  "tinh_cach": "Nói cộc, ít lời, ngại nói chuyện 'chỗ kín', hay cười xòa 'trĩ thôi mà, ai buôn bán ngồi nhiều chẳng bị'. Tính tiết kiệm, đếm từng đồng, sợ nghỉ bán mất buổi chợ. Nghe lời con gái nhưng cãi trước.",
+  "kieu_nhieu": "Ở xa, khó tái khám: nhà cách phòng khám 30 km, bệnh viện tỉnh cách 55 km, đi xe khách mất cả buổi, nghỉ bán là mất thu nhập. Ông chỉ nói rõ chuyện đường xa, ai chở, quay lại được không khi bác sĩ hỏi; hẹn khám lại thì lúng túng 'để coi con gái có về không'.",
+  "nguoi_nha": "Con gái, chị Hà, 38 tuổi, công nhân may ở thành phố, về nhà cuối tuần cách tuần và chở ba đi khám bằng xe máy. Lo lắng, nói nhanh, hay chen vào. Chị biết: ba ra máu hơn ba tuần, bà hàng xóm vừa mất vì ung thư đại tràng nên chị ép ba đi. Chị KHÔNG biết: ba tự uống kháng sinh mua ở tiệm thuốc, ba chỉ uống 3–4 ly nước mỗi ngày, ba ngồi bô rất lâu. Hỏi riêng ba thì ba kể.",
+  "ten_nguoi_nha": "Chị Hà (con gái)",
+  "ngoai_hinh": {
+   "da": "#c99a74",
+   "toc": "#8c8884",
+   "kieuToc": "ngan",
+   "ao": "#7a8f6f",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d9ab85",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#b5586a",
+    "aoKieu": "phong",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đi cầu ra máu, búi thịt lòi ra khi rặn",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám không có máy X-quang (kéo theo không có CT và nội soi tiêu hóa). Còn làm được: xét nghiệm máu và phân (gồm FIT), siêu âm, soi hậu môn bằng ống soi dùng một lần. Nội soi đại tràng làm ở bệnh viện tỉnh cách 55 km, phải đặt lịch trước."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Nguyễn Văn Lộc, 66 tuổi, bán đồ khô ở chợ, đi cùng con gái. Đi cầu ra máu đỏ hơn 3 tuần, có búi thịt lòi ra khi rặn. Sinh hiệu: HA 136/82 mmHg, mạch 76 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện ông Lộc ngay hôm nay là không cần: máu chỉ dính phân và giấy, vài giọt mỗi lần, Hb 134 g/L, mạch 76 l/p, HA 136/82, thấy rõ nguồn rỉ máu là búi trĩ nội qua ống soi (ASCRS 2024 khuyến cáo 1, 2). Tiêu chí nhập viện cho trĩ ra máu ít: không có trong tài liệu đã tải. Ông nghỉ bán nhiều ngày mất thu nhập, chị Hà phải xin nghỉ may để ở lại, trong khi việc cần làm là đổi thói quen ăn uống, đại tiện, ngưng kháng sinh và hẹn nội soi đại tràng (ASCRS 2024 khuyến cáo 2, 3).",
+    "chuyen_tuyen": "Đưa ông Lộc đi bệnh viện tỉnh cấp cứu ngay hôm nay là quá tay: nội soi đại tràng đúng là cần nhưng theo hẹn, vì máu rỉ ít, Hb 134 g/L, sinh hiệu ổn, nguồn chảy máu đã thấy (ASCRS 2024 khuyến cáo 2; AGA 2026 BPA 1). Ruột chưa được chuẩn bị nên đi vội cũng không soi được ngay (cách chuẩn bị ruột: không có trong tài liệu đã tải). Ông đi 55 km bằng xe máy sau lưng con gái, tốn kém, mất buổi chợ, mà không được ưu tiên hơn người đang chảy máu nặng."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đi cầu ra máu hơn ba tuần nay, chắc là trĩ thôi, con gái nó cứ ép tôi đi khám. Bác kê giùm tôi thuốc trĩ, tôi còn về bán buổi chiều.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "136/82",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi cầu ra máu hơn 3 tuần, có búi thịt lòi ra khi rặn. Ông cho là trĩ ('buôn bán ngồi nhiều ai chẳng bị'), đến vì con gái ép.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Khoảng 4 tuần trước, lúc ngồi xổm xếp hàng mực khô, tôm khô trong kho sau sạp, ông bị kiến/côn trùng đốt nhiều nốt quanh mông và rìa hậu môn: ngứa rát mấy ngày, ông gãi nhiều, mỗi lần đi cầu lấy xà phòng kỳ rửa thật mạnh và ngồi bô lâu cho 'sạch'. Ngứa hết sau khoảng 1 tuần, nhưng từ đó ông ngại đi cầu, nhịn, uống ít nước ở sạp; phân cứng dần, lúc đi phải rặn mạnh thì thấy máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: côn trùng đốt vùng quanh hậu môn → ngứa, gãi, kỳ rửa mạnh, ngồi bô lâu, nhịn đi cầu → táo bón, rặn → đợt chảy máu. Côn trùng đốt chỉ là mốc khởi đầu chuỗi, không phải nguồn chảy máu (da quanh hậu môn khi khám đã lành)."
+    },
+    {
+     "id": "dac_diem_mau",
+     "noi_dung": "Máu đỏ tươi, nhỏ giọt hoặc phủ ngoài viên phân, dính giấy, ra ở cuối bãi, khoảng 3–4 lần mỗi tuần, mỗi lần vài giọt đến nửa thìa cà phê. Không lẫn trong phân, không cục, không nhầy, không phân đen. Không đau khi đi cầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm chảy máu, không đau"
+    },
+    {
+     "id": "bua_sa",
+     "noi_dung": "Khi rặn có búi thịt đỏ lòi ra, đi xong thì tự co lên, không phải lấy tay đẩy. Không có cục cứng đau ở rìa hậu môn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Búi sa tự co (phân độ)"
+    },
+    {
+     "id": "tao_bon",
+     "noi_dung": "Táo bón nhiều năm: phân cứng, hai ngày đi một lần, ngồi bô 10–15 phút xem điện thoại, hay rặn. Bữa trưa ở sạp thường là mì gói hoặc bánh mì, ít rau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Táo bón, ngồi bô lâu, ít chất xơ"
+    },
+    {
+     "id": "nuoc",
+     "noi_dung": "Chỉ uống 3–4 ly nước mỗi ngày vì ngồi sạp một mình, ngại rời sạp đi tiểu, nhà vệ sinh chợ ở tận cuối dãy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Uống ít nước"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không sụt cân, không đau bụng, không phân đen, không sốt, thói quen đi cầu không đổi so với nhiều năm nay. Không đau khi đi cầu hay sau đi cầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động và nứt hậu môn"
+    },
+    {
+     "id": "gia_dinh_noi_soi",
+     "noi_dung": "Chưa từng nội soi đại tràng. Không ai trong nhà bị ung thư đại tràng hay polyp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử nội soi, gia đình"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Bà chủ tiệm thuốc đầu chợ bán một vỉ kháng sinh viên nang vàng cam 'chữa trĩ viêm'; ông uống 5 ngày, không nhớ tên, đã hết vỉ và vứt vỏ. Máu không bớt. Bà bán thuốc dặn còn ra máu thì uống thêm đợt nữa, ông định mua lại.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì ông chỉ kể amlodipin. Chỉ kể khi hỏi cụ thể có tự mua thuốc uống, thuốc kháng sinh, thuốc trĩ ở tiệm thuốc không, hoặc có bôi/uống thuốc gì sau khi bị côn trùng đốt.",
+     "k": 1,
+     "y": "Tự dùng kháng sinh không rõ"
+    },
+    {
+     "id": "thuoc_nen",
+     "noi_dung": "Tăng huyết áp, uống amlodipin 5 mg mỗi sáng. Không dùng aspirin, thuốc chống đông hay thuốc giảm đau chống viêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc nền, thuốc ảnh hưởng chảy máu"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Con gái ép đi vì bà hàng xóm vừa mất vì ung thư đại tràng, bà ấy cũng 'ra máu tưởng trĩ' mấy tháng. Ông giả vờ không lo nhưng sợ nghe chữ ung thư và sợ tốn tiền.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi vì sao con gái ép đi khám, hoặc ông lo nhất điều gì.",
+     "k": 1,
+     "y": "Động cơ thật: gia đình thúc ép vì sợ ung thư"
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Nhà cách phòng khám 30 km, bệnh viện tỉnh cách 55 km, đi xe khách mất cả buổi. Chị Hà ở thành phố, về nhà cách tuần vào cuối tuần. Ông nghỉ bán một ngày là mất cả ngày thu nhập. Quay lại tái khám khó, lên tỉnh càng khó nếu không có người chở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng tái khám (ở xa)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Gầy vừa, 58 kg, cao 1,61 m. Tỉnh, đi lại bình thường, niêm mạc mắt hồng, lòng bàn tay hồng, không vàng da. Không hạch bẹn, không hạch thượng đòn.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng phẳng, mềm, không điểm đau, không khối, gan lách không to. Nhu động ruột bình thường.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Nằm nghiêng trái, nhìn: da quanh hậu môn sạch, các nốt đốt cũ đã lành, không trầy gãi, không nứt, không lỗ rò, không cục đau. Khi rặn có búi niêm mạc đỏ sa ra rồi tự co lên. Thăm trực tràng: trương lực cơ thắt bình thường, không đau, không sờ thấy khối hay loét ở đoạn với tới, găng dính ít máu đỏ tươi.",
+     "k": 1,
+     "hien": "Hậu môn không nứt, không cục đau. Khi rặn có búi sa ra rồi tự co. Trương lực cơ thắt bình thường."
+    },
+    "soi_hau_mon": {
+     "a": "Ống soi nhựa dùng một lần có đèn: ba búi trĩ nội ở 3, 7 và 11 giờ, niêm mạc sung huyết; búi 11 giờ rỉ máu tươi khi chạm. Búi sa có nếp xuyên tâm và mạch máu căng, không có nếp tròn như sa trực tràng; nằm ở đoạn thấp, vắt ngang đường lược. Đường lược không nứt. Niêm mạc trực tràng thấp nhìn thấy hồng, không loét, không khối, không polyp. Sa khi rặn và tự co: Goligher độ II.",
+     "k": 1,
+     "hien": "Có tổn thương búi ở 3, 7, 11 giờ, một điểm rỉ máu tươi. Nhìn thấy đoạn thấp ống hậu môn, không vết nứt."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 134 g/L · MCV 89 fL · TC 248 G/L · BC 6.9 G/L",
+     "bang": {
+      "wbc": 6.9,
+      "neu_pct": 62.0,
+      "neu": 4.28,
+      "lym_pct": 29.0,
+      "lym": 2.0,
+      "mono_pct": 6.0,
+      "mono": 0.41,
+      "eos_pct": 2.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.5,
+      "hgb": 134,
+      "hct": 0.4,
+      "mcv": 89.0,
+      "mch": 29.8,
+      "mchc": 335,
+      "rdw": 13.4,
+      "plt": 248
+     },
+     "n": "Ra máu hơn 3 tuần, 66 tuổi: cần biết mất máu đã ảnh hưởng chưa. Hb 134 g/L trong khoảng tham chiếu của phiếu (nam 130–170), MCV bình thường: không thiếu máu. Làm không bắt buộc khi máu ít nhưng nên làm ở người chưa nội soi (ASCRS 2024 khuyến cáo 1: đánh giá mức độ triệu chứng)."
+    },
+    "fit": {
+     "v": "u",
+     "r": "FIT định lượng 7 µg Hb/g phân (dưới ngưỡng 10 µg Hb/g)",
+     "n": "Không bắt buộc khi đã thấy nguồn rỉ máu. FIT là công cụ phân loại, không dùng một mình để loại bệnh nhân khỏi chuyển khám (ACPGBI/BSG 2022 khuyến cáo 3, 11). Dưới 10 µg Hb/g mà còn chảy máu dai dẳng hoặc tái phát thì đề nghị nội soi sigma (khuyến cáo 13). Giá xét nghiệm: không có trong tài liệu đã tải."
+    },
+    "noi_soi_dt": {
+     "v": "e",
+     "r": "Phòng khám không có nội soi. Nội soi đại tràng làm ở bệnh viện tỉnh cách 55 km, phải đặt lịch và chuẩn bị ruột trước.",
+     "thay_the": "fit",
+     "n": "Có chỉ định đề nghị: chảy máu hậu môn không tự quy cho trĩ; ông 66 tuổi chưa từng nội soi (ASCRS 2024 khuyến cáo 2: chưa nội soi mà đến tuổi sàng lọc thì phải tư vấn; AGA 2026 BPA 1: nên cân nhắc nội soi toàn bộ khi chảy máu trực tràng). Đã thấy nguồn, không đau bụng nên là nội soi theo hẹn, không cấp cứu. Cách thay thế tại chỗ: FIT kèm lưới an toàn (ACPGBI/BSG 2022 khuyến cáo 8, 13)."
+    },
+    "xq_bung": {
+     "n": "Không có X-quang và cũng không có chỉ định: không đau bụng, không dấu tắc ruột; phim bụng không thấy được niêm mạc đại tràng nên không thay được nội soi."
+    },
+    "abdus": {
+     "n": "Không có chỉ định: không đau bụng, không khối, bụng mềm; siêu âm không nhìn thấy trực tràng nên không thay được nội soi."
+    },
+    "ferritin_sat": {
+     "n": "Chưa cần: Hb và MCV bình thường. Làm thêm tốn tiền khi ông ngại chi phí, không đổi xử trí."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trĩ nội độ II (Goligher) đang rỉ máu, trên nền táo bón mạn, ngồi bô lâu, uống ít nước, đợt này bắt đầu sau khi bị côn trùng đốt quanh hậu môn (gãi, kỳ rửa mạnh, ngồi bô lâu, nhịn đi cầu); ông 66 tuổi chưa từng nội soi đại tràng nên chưa loại trừ hoàn toàn tổn thương khác",
+     "ok": 1,
+     "n": "Máu đỏ tươi cuối bãi không đau, búi sa tự co, soi hậu môn thấy ba búi nội và điểm rỉ máu (ASCRS 2024 khuyến cáo 1; AGA 2026 BPA 1, Bảng 1)."
+    },
+    {
+     "t": "Ung thư trực tràng / đại trực tràng",
+     "n": "Không sụt cân, không đau bụng, không đổi thói quen, Hb bình thường, thăm trực tràng và soi hậu môn không khối. Nhưng chỉ nhìn được đoạn thấp, ông 66 tuổi chưa nội soi nên chưa loại trừ hẳn: chảy máu quy cho trĩ là cơ hội bỏ sót ung thư hay gặp nhất (ASCRS 2024 khuyến cáo 2)."
+    },
+    {
+     "t": "Nứt hậu môn",
+     "n": "Không đau khi đi cầu, không đau khi thăm trực tràng, đường lược không nứt. Đau nhói khi đi cầu mới gợi nứt hậu môn, trĩ chỉ đau đáng kể khi tắc mạch (AGA 2026 BPA 1)."
+    },
+    {
+     "t": "Sa trực tràng",
+     "n": "Búi sa có nếp xuyên tâm và mạch máu căng, không có nếp tròn (AGA 2026 mục BPA 1)."
+    },
+    {
+     "t": "Nguồn chảy máu khác trong đại tràng (polyp, viêm đại tràng sau nhiễm khuẩn, bệnh túi thừa, loạn sản mạch, bệnh viêm ruột)",
+     "n": "Cùng nhóm nguyên nhân gây máu qua hậu môn mà ASCRS 2024 khuyến cáo 2 nêu tên. Tiêu chảy đã hết, không sốt, không đau bụng, nhưng chỉ loại trừ chắc bằng nội soi."
+    },
+    {
+     "t": "Viêm da/ngứa quanh hậu môn do côn trùng đốt",
+     "n": "Có tiền sử côn trùng đốt quanh hậu môn 4 tuần trước, nhưng hết ngứa sau khoảng 1 tuần và khi nhìn da quanh hậu môn sạch, không trầy, không sẩn: không giải thích được máu đỏ tươi dính phân và búi sa khi rặn. Chỉ là mốc khởi đầu chuỗi gãi – kỳ rửa – nhịn đi cầu – táo bón. Nguồn chảy máu nằm ở búi trĩ rỉ máu thấy khi soi hậu môn."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Công nhận chẩn đoán trĩ, nói rõ trĩ chưa loại trừ được nguyên nhân khác; hỏi vì sao con gái ép đi khám và ông lo nhất điều gì",
+     "v": "c",
+     "n": "Chảy máu hậu môn không tự quy cho trĩ (ASCRS 2024 khuyến cáo 2). Cách hỏi và tôn trọng người bệnh: kỹ năng giao tiếp, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đề nghị nội soi đại tràng ở bệnh viện tỉnh theo hẹn (không cấp cứu) bằng giấy giới thiệu; nếu chưa thu xếp được ngay thì ghi hồ sơ đã tư vấn, điều trị trĩ, và nội soi nếu còn chảy máu hoặc có dấu báo động",
+     "v": "c",
+     "n": "Ba mức nguồn, cách ghi theo sổ mâu thuẫn mục 'Soi hậu môn và nội soi đại tràng': ASCRS 2024 khuyến cáo 2 (bệnh nhân chọn lọc, có điều kiện, bằng chứng thấp; chưa nội soi mà đến tuổi sàng lọc thì tư vấn); AGA 2026 BPA 1 (nên cân nhắc nội soi toàn bộ); ACPGBI/BSG 2022 khuyến cáo 13 (FIT dưới 10 µg Hb/g mà còn chảy máu dai dẳng thì nội soi sigma). Khác mức mạnh và bối cảnh nên cả hai cách đều đúng. Thời hạn hẹn nội soi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thay đổi ăn uống và đại tiện: chất xơ 20–30 g/ngày tăng từ từ, uống đủ nước, không rặn, ngồi bô không quá 3 phút, bỏ điện thoại, mỗi ngày một lần",
+     "v": "c",
+     "n": "Điều trị đầu tay (ASCRS 2024 khuyến cáo 3, mạnh, bằng chứng trung bình; Cochrane 7 RCT: chất xơ giảm nguy cơ còn triệu chứng 53%, RR 0,47). Mốc 20–30 g và 3 phút, một lần/ngày (AGA 2026 BPA 2); tăng chất xơ qua nhiều tuần (WGO 2025 mục 4.2). Lượng nước cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Mang chai nước ra sạp và uống đều; sắp xếp người trông sạp hoặc giờ đi vệ sinh để không nhịn",
+     "v": "c",
+     "n": "Mất nước nằm trong danh sách nguyên nhân gắn với táo bón (WGO 2025 Bảng 3); táo bón, rặn, ngồi lâu làm trĩ nặng thêm (ASCRS 2024 khuyến cáo 3). Gợi ý thực hành cho sạp chợ: lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Psyllium hoặc macrogol (PEG) để phân mềm; bắt đầu ít, tăng dần",
+     "v": "c",
+     "n": "Psyllium, tổng chất xơ 20–30 g/ngày; PEG khởi đầu 17 g/ngày, không có liều tối đa rõ (WGO 2025 Bảng 9). Tăng nhanh gây đầy hơi (WGO 2025 mục 4.2)."
+    },
+    {
+     "t": "Ngưng kháng sinh tự mua, không mua lại, không dùng kháng sinh để chữa trĩ; nói rõ vì sao",
+     "v": "c",
+     "n": "Các khuyến cáo trĩ đã tải nêu chất xơ, thuốc bôi, phlebotonic và thủ thuật, không nêu kháng sinh cho trĩ không biến chứng (ASCRS 2024 khuyến cáo 3–5; AGA 2026 BPA 2–5). Tác hại cụ thể của kháng sinh dùng bừa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn bằng văn bản dấu hiệu quay lại ngay (máu thành dòng hoặc ra cục, chóng mặt, ngất, phân đen, đau bụng mới, cục cứng đau không đẩy vào được, không đi cầu được, sụt cân), ghi số điện thoại phòng khám",
+     "v": "c",
+     "n": "Cần lưới an toàn khi xử trí ngoại trú (ACPGBI/BSG 2022 khuyến cáo 8, 10). Trĩ ngoại tắc mạch là cục đau không đẩy vào được (ASCRS 2024 khuyến cáo 1; AGA 2026 BPA 9). Nhà ở xa nên dặn bằng văn bản; danh sách cụ thể là lựa chọn của ca."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần vào lúc chị Hà về; còn ra máu sau điều trị hoặc có dấu báo động thì phải nội soi",
+     "v": "c",
+     "n": "Chảy máu dai dẳng sau điều trị trĩ phải tìm nguồn (ASCRS 2024 khuyến cáo 2). Mốc 2 tuần là lựa chọn của ca (ở xa, chờ con gái về), không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Công thức máu",
+     "v": "a",
+     "n": "Định lượng ảnh hưởng của ra máu; không bắt buộc khi máu ít nhưng hợp lý ở người 66 tuổi chưa nội soi (ASCRS 2024 khuyến cáo 1). Mức Hb cần chuyển ngay: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "FIT định lượng khi ông chưa thu xếp được nội soi",
+     "v": "a",
+     "n": "FIT chỉ phân loại, không dùng một mình để loại bệnh nhân khỏi chuyển khám (ACPGBI/BSG 2022 khuyến cáo 3, 11); khi người bệnh chưa làm đủ thì giải thích đánh giá chưa trọn vẹn (khuyến cáo 5)."
+    },
+    {
+     "t": "Thuốc bôi hoặc đặt hậu môn ngắn ngày (gây tê tại chỗ, hydrocortisone) khi ngứa rát",
+     "v": "a",
+     "n": "Ít bằng chứng; corticoid bôi không quá 2 tuần mỗi đợt (AGA 2026 BPA 3); bôi kéo dài có thể gây mẫn cảm (ASCRS 2024 khuyến cáo 4). Ông không ngứa rát nên không cần."
+    },
+    {
+     "t": "Phlebotonic (flavonoid vi hạt hóa) để giảm chảy máu",
+     "v": "a",
+     "n": "Có thể cân nhắc: giảm chảy máu (OR 0,12) trong tổng quan Cochrane 24 RCT, ít hại (ASCRS 2024 khuyến cáo 4, có điều kiện, bằng chứng thấp). Liều và số ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thắt vòng cao su hoặc đốt hồng ngoại ngay hôm nay",
+     "v": "w",
+     "n": "Thủ thuật tại phòng khám dành cho độ I–II và chọn lọc độ III khi bảo tồn thất bại (ASCRS 2024 khuyến cáo 5; AGA 2026 BPA 5, 10). Ông chưa thử bảo tồn, chưa nội soi đại tràng, cơ sở không có điều kiện xử trí biến chứng như nhiễm trùng vùng chậu (AGA 2026 BPA 6)."
+    },
+    {
+     "t": "Cho tiếp hoặc kê thêm kháng sinh để 'chữa trĩ viêm'",
+     "v": "w",
+     "n": "Không có chỉ định trong các khuyến cáo đã tải (xem mục ngưng kháng sinh); củng cố hiểu lầm của ông. Tác dụng phụ cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bệnh viện tỉnh cấp cứu ngay hôm nay",
+     "v": "w",
+     "n": "Sinh hiệu ổn, Hb 134 g/L, máu rỉ ít, đã thấy nguồn; nội soi theo hẹn (ASCRS 2024 khuyến cáo 2). Tiêu chí nhập viện trĩ ra máu ít: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nói chắc chỉ là trĩ lành tính, cho thuốc về, không hẹn lại, không nhắc nội soi hay dấu báo động",
+     "v": "h",
+     "n": "Chảy máu quy cho trĩ là cơ hội bỏ sót ung thư hay gặp nhất (ASCRS 2024 khuyến cáo 2). Soi hậu môn chỉ thấy đoạn thấp; không lưới an toàn thì người ở xa như ông sẽ không quay lại (ACPGBI/BSG 2022 khuyến cáo 8, 10)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trĩ nội độ II (Goligher), đang rỉ máu ở búi 11 giờ",
+     "Yếu tố thúc đẩy: táo bón mạn, ngồi bô lâu, uống ít nước, ít chất xơ, khởi phát sau côn trùng đốt quanh hậu môn 4 tuần trước (gãi, kỳ rửa mạnh, ngồi bô lâu, nhịn đi cầu)",
+     "Tự dùng kháng sinh không rõ tên 5 ngày, không có chỉ định, không đổi bệnh",
+     "Đã loại trừ nứt hậu môn, sa trực tràng; chưa loại trừ hoàn toàn ung thư và nguồn chảy máu khác vì chưa nội soi đại tràng (66 tuổi)",
+     "Không thiếu máu (Hb 134 g/L). Tăng huyết áp đang dùng amlodipin"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: máu đỏ tươi cuối bãi không đau, búi sa tự co, táo bón nhiều năm, ngồi bô lâu, uống ít nước (ASCRS 2024 khuyến cáo 1: dấu hiệu chính là chảy máu không đau khi đi cầu, đôi khi kèm sa). Phải hỏi riêng dấu báo động, tiền sử nội soi, thuốc tự mua (kháng sinh chỉ lộ khi hỏi cụ thể) và nỗi lo thật.",
+     "Khám: soi hậu môn và thăm trực tràng ngay trong buổi khám. AGA 2026 BPA 4: nên soi hậu môn ở mọi bệnh nhân mới nghi trĩ nếu có thể; ASCRS 2024 khuyến cáo 1: có thể cân nhắc. Hai nguồn khác mức mạnh nên đáp án ghi cả hai (sổ mâu thuẫn).",
+     "Phân độ: sa dưới đường lược và tự co lên là độ II (AGA 2026 Bảng 1). Nếp xuyên tâm phân biệt với sa trực tràng (nếp tròn) (AGA 2026 BPA 1).",
+     "Loại nứt hậu môn: trĩ chỉ đau đáng kể khi tắc mạch, đau nhói khi đi cầu nghĩ nứt (AGA 2026 BPA 1). Ông không đau, trương lực cơ thắt bình thường, đường lược không nứt.",
+     "Vì sao chưa kết luận 'chỉ là trĩ': ung thư đại trực tràng, bệnh viêm ruột, viêm đại tràng khác, bệnh túi thừa, loạn sản mạch đều gây máu qua hậu môn (ASCRS 2024 khuyến cáo 2). Ông 66 tuổi, chưa từng nội soi, đến tuổi sàng lọc thì phải được tư vấn (ASCRS 2024 khuyến cáo 2).",
+     "Hb 134 g/L và FIT 7 µg Hb/g: không có dấu thiếu máu, nhưng FIT không loại được bệnh khi còn chảy máu (ACPGBI/BSG 2022 khuyến cáo 3, 13). Kháng sinh tự mua: không có chỉ định cho trĩ."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị đầu tay là ăn uống và hành vi (ASCRS 2024 khuyến cáo 3, mạnh): chất xơ 20–30 g/ngày, nước, không rặn, ngồi bô không quá 3 phút, một lần/ngày (AGA 2026 BPA 2); tăng chất xơ dần qua nhiều tuần để tránh đầy hơi (WGO 2025 mục 4.2).",
+     "Lời khuyên phải làm được ở sạp chợ: mang chai nước, uống trước và sau giờ bán, nhờ người trông sạp. Đây là gợi ý thực hành của ca, không có trong tài liệu đã tải.",
+     "Psyllium (tổng chất xơ 20–30 g/ngày) hoặc PEG (khởi đầu 17 g/ngày) (WGO 2025 Bảng 9). Ưu tiên rau, trái cây vì rẻ; thuốc chỉ bổ sung.",
+     "Ngưng kháng sinh: các khuyến cáo trĩ đã tải không nêu kháng sinh cho trĩ không biến chứng; kháng sinh phổ rộng chỉ được nêu cho nhiễm trùng vùng chậu sau thắt vòng (ASCRS 2024 khuyến cáo 5).",
+     "Nội soi đại tràng: ASCRS 2024 khuyến cáo 2 (chọn lọc, có điều kiện); AGA 2026 BPA 1 (nên cân nhắc nội soi toàn bộ khi chảy máu trực tràng); ACPGBI/BSG 2022 khuyến cáo 13 (nội soi sigma nếu FIT dưới 10 µg Hb/g mà còn chảy máu). Ca ghi cả ba. Với ông: đề nghị nội soi theo hẹn kèm kế hoạch B (điều trị trĩ, nội soi nếu còn máu).",
+     "Thủ thuật tại phòng khám chưa chỉ định hôm nay (ASCRS 2024 khuyến cáo 5; AGA 2026 BPA 5).",
+     "Nhà ở xa: dặn bằng văn bản, ghi số điện thoại, hẹn đúng cuối tuần con gái về (ACPGBI/BSG 2022 khuyến cáo 8, 10). Mức BHYT, giá nội soi: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Psyllium (vỏ hạt mã đề) dạng gói",
+      "ham_luong": "Theo nhãn sản phẩm (không có trong tài liệu đã tải)",
+      "lieu": "Bắt đầu ít, tăng dần để tổng chất xơ (ăn và thuốc) đạt 20–30 g/ngày",
+      "duong": "Uống pha nước",
+      "thoi_diem": "Buổi tối ở nhà, kèm một cốc nước đầy",
+      "so_ngay": "Dùng liên tục đến lần tái khám sau 2 tuần",
+      "ghi_chu": "WGO 2025 Bảng 9 (tổng chất xơ 20–30 g/ngày, thường không lợi thêm khi trên 25–30 g/ngày); mục 4.2: tăng dần qua nhiều tuần, tăng nhanh gây đầy hơi. Thời gian dùng: lựa chọn của ca."
+     },
+     {
+      "thuoc": "Macrogol (polyethylene glycol) dạng bột pha, thay psyllium nếu đầy hơi",
+      "ham_luong": "Theo nhãn gói (khởi đầu 17 g/ngày theo WGO)",
+      "lieu": "1 gói/ngày pha đủ nước ghi trên nhãn",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối ở nhà",
+      "so_ngay": "Đến khi phân mềm đều, đánh giá lại ở lần tái khám",
+      "ghi_chu": "WGO 2025 Bảng 9: PEG khởi đầu 17 g/ngày, không có liều tối đa rõ. Hàm lượng gói bán ở Việt Nam, giá thuốc: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên/ngày như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Không đổi ở lượt này; HA 136/82 mmHg. Không có thuốc chống đông hay chống kết tập cần cân nhắc khi làm thủ thuật."
+     }
+    ],
+    "dan_do": [
+     "Ngưng uống kháng sinh mua ở tiệm thuốc và không mua lại; kháng sinh không chữa được trĩ.",
+     "Ăn thêm rau, trái cây; mang chai nước ra sạp và uống đều trong ngày; uống gói chất xơ mỗi tối, tăng từ từ.",
+     "Ngồi bô không quá 3 phút, không mang điện thoại vào, không rặn; đi cầu mỗi ngày một lần (AGA 2026 BPA 2).",
+     "Cầm giấy giới thiệu nội soi đại tràng ở bệnh viện tỉnh; thu xếp đi vào ngày chợ vắng khi chị Hà có thể chở; báo bệnh viện là chưa từng nội soi.",
+     "Quay lại ngay hoặc gọi số điện thoại phòng khám đã ghi nếu máu thành dòng hay ra cục, chóng mặt, ngất, phân đen, đau bụng mới, cục cứng đau ở hậu môn, không đi cầu được, sụt cân.",
+     "Tái khám sau 2 tuần, đúng cuối tuần chị Hà về (mốc hẹn không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Tái khám sau 2 tuần, chị Hà đưa ba đến. Vẫn ra máu, búi lòi ra nhiều hơn, chưa đi nội soi. Sinh hiệu: HA 138/80 mmHg, mạch 80 l/p, SpO₂ 98%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho ông Lộc về tiếp tục chất xơ thêm vài tuần rồi hẹn lại là chậm: sau hơn 5 tuần máu vẫn ra, búi nay phải đẩy bằng tay (độ III), ông 66 tuổi chưa từng nội soi đại tràng. Chảy máu dai dẳng phải tìm nguồn (ASCRS 2024 khuyến cáo 2), FIT dưới 10 µg Hb/g mà còn máu thì vẫn nội soi sigma (ACPGBI/BSG 2022 khuyến cáo 13), độ III chưa đỡ là lúc xét thủ thuật (ASCRS 2024 khuyến cáo 5; AGA 2026 BPA 10). Đây là cuối tuần chị Hà về; bỏ lỡ thì nhiều tuần sau mới có người chở, trong lúc máu còn ra và nỗi sợ nội soi của ông không ai gỡ.",
+    "nhap_vien": "Nhập viện ngay không cần: Hb 132 g/L, huyết động ổn, không có cục đau hay dấu nhiễm trùng, máu ra ít. Tiêu chí nhập viện cho trĩ ra máu ít: không có trong tài liệu đã tải. Nội soi đại tràng và thủ thuật thắt vòng làm ngoại trú ở tuyến trên (AGA 2026 BPA 5; ASCRS 2024 khuyến cáo 5), một giường nội trú không thay được. Ông phải nằm viện nhiều ngày, mất thu nhập, chị Hà nghỉ may ở lại."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi vẫn ra máu, giờ cái cục nó lòi ra phải lấy tay đẩy vô. Con gái về nên tôi lên, chứ lên tỉnh nội soi thì tôi chưa đi được.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "138/80",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khong_do",
+     "noi_dung": "Vẫn ra máu như cũ, vài giọt phủ phân cuối bãi. Búi thịt lòi ra mỗi lần đi cầu, không tự co lên nữa, phải lấy tay đẩy vào. Không có cục cứng đau đột ngột ở rìa hậu môn, không đau dữ dội.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đỡ sau 2 tuần, búi sa phải đẩy"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Đã ngưng kháng sinh từ lần khám trước, không mua lại. Mua gói chất xơ uống 3 ngày rồi bỏ vì đầy bụng và sợ buồn đi cầu khi đang ngồi sạp. Chai nước mang ra sạp nhưng chỉ uống thêm một hai ly. Ăn rau thêm được chút ít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ điều trị, lý do thật khiến không đỡ"
+    },
+    {
+     "id": "thoi_quen_bo",
+     "noi_dung": "Vẫn ngồi bô khoảng 10 phút, phân vẫn cứng, hai ngày đi một lần và phải rặn. Mỗi lần mang điện thoại vào bô vì 'quen rồi'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thói quen đại tiện còn rặn, ngồi lâu"
+    },
+    {
+     "id": "chua_noi_soi",
+     "noi_dung": "Chưa đi nội soi, giấy giới thiệu vẫn còn. Đi cả ngày là nghỉ bán, tiền xe, chờ con gái; sâu hơn là ông sợ 'khám ra bệnh nặng'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa nội soi vì sao"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không sụt cân, không đau bụng, không phân đen, không chóng mặt hay ngất, thói quen đi cầu không đổi. Máu vẫn chỉ phủ ngoài phân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động còn âm tính"
+    },
+    {
+     "id": "o_xa",
+     "noi_dung": "Chị Hà chỉ ở nhà đến hết Chủ nhật. Nếu được chuyển lên bệnh viện tỉnh thì ông chịu đi ngay lần này, quay lại thêm một lần nữa thì ông khó. Ông hỏi có làm được hết một lần cho đỡ tốn không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ở xa: cần xử trí trọn gói một lần đi"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc mắt hồng nhẹ, lòng bàn tay hồng, không vàng da. Không hạch thượng đòn.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Nằm nghiêng trái: khi rặn có búi niêm mạc đỏ sa ra không tự co, đẩy vào được bằng tay. Không cục cứng đau ở rìa hậu môn. Thăm trực tràng: trương lực cơ thắt bình thường, không đau, không sờ thấy khối ở đoạn với tới; găng có ít máu đỏ tươi.",
+     "k": 1,
+     "hien": "Búi sa ra khi rặn, không tự co, đẩy vào được. Không cục đau."
+    },
+    "soi_hau_mon": {
+     "a": "Ba búi trĩ nội ở 3, 7 và 11 giờ, sung huyết, rỉ máu tươi khi chạm; búi 7 giờ sa dưới đường lược khi rặn và phải đẩy lên. Nếp xuyên tâm, không nếp tròn. Đường lược không nứt, không huyết khối ngoại. Niêm mạc trực tràng thấp nhìn thấy hồng, không loét, không khối. Goligher độ III.",
+     "k": 1,
+     "hien": "Có búi ở 3, 7, 11 giờ, một búi sa phải đẩy. Nhìn thấy đoạn thấp ống hậu môn, không vết nứt."
+    },
+    "bung": {
+     "a": "Bụng mềm, không điểm đau, không khối.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 132 g/L · MCV 89 fL · TC 252 G/L · BC 6.5 G/L",
+     "bang": {
+      "wbc": 6.5,
+      "neu_pct": 62.0,
+      "neu": 4.03,
+      "lym_pct": 29.0,
+      "lym": 1.88,
+      "mono_pct": 6.0,
+      "mono": 0.39,
+      "eos_pct": 2.5,
+      "eos": 0.16,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.4,
+      "hgb": 132,
+      "hct": 0.39,
+      "mcv": 89.0,
+      "mch": 29.8,
+      "mchc": 335,
+      "rdw": 13.4,
+      "plt": 252
+     },
+     "n": "Hb 134 giảm nhẹ xuống 132 g/L, vẫn trong khoảng tham chiếu của phiếu (nam 130–170): không thiếu máu. Không đổi xử trí; làm lại là để so với mốc lượt trước và đưa vào giấy giới thiệu."
+    },
+    "noi_soi_dt": {
+     "v": "e",
+     "r": "Phòng khám không có nội soi. Nội soi đại tràng làm ở bệnh viện tỉnh cách 55 km, phải đặt lịch và chuẩn bị ruột trước.",
+     "n": "Chỉ định vẫn còn và nay mạnh hơn: chưa nội soi, còn chảy máu dai dẳng sau điều trị trĩ (ASCRS 2024 khuyến cáo 2; AGA 2026 BPA 1; ACPGBI/BSG 2022 khuyến cáo 13). Nội soi tại tuyến trên, không cấp cứu."
+    },
+    "fit": {
+     "n": "Đã làm lượt 1 (7 µg Hb/g); làm lại không đổi xử trí vì dưới 10 µg Hb/g mà còn máu dai dẳng thì vẫn nội soi (ACPGBI/BSG 2022 khuyến cáo 13)."
+    },
+    "xq_bung": {
+     "n": "Không có X-quang và không có chỉ định: không đau bụng, không dấu tắc."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trĩ nội độ III (Goligher) còn chảy máu sau 2 tuần điều trị bảo tồn thực hiện chưa đầy đủ (ngừng chất xơ, uống ít nước, còn rặn); chưa nội soi đại tràng ở người 66 tuổi",
+     "ok": 1,
+     "n": "Búi sa phải đẩy bằng tay là độ III (AGA 2026 Bảng 1). Nguyên nhân không đỡ là tuân thủ kém có lý do thật, không phải thất bại thuốc."
+    },
+    {
+     "t": "Ung thư trực tràng / đại trực tràng",
+     "n": "Dấu báo động vẫn âm tính, Hb 132 g/L, FIT 7 µg Hb/g, thăm trực tràng không khối. Nhưng còn chảy máu dai dẳng và chưa nội soi nên chưa loại trừ (ASCRS 2024 khuyến cáo 2; ACPGBI/BSG 2022 khuyến cáo 3, 13)."
+    },
+    {
+     "t": "Nứt hậu môn",
+     "n": "Vẫn không đau khi đi cầu, đường lược không nứt (AGA 2026 BPA 1)."
+    },
+    {
+     "t": "Trĩ ngoại tắc mạch",
+     "n": "Không có cục cứng đau ở rìa hậu môn, không đau dữ dội (ASCRS 2024 khuyến cáo 1, 6; AGA 2026 BPA 9)."
+    },
+    {
+     "t": "Sa trực tràng",
+     "n": "Nếp xuyên tâm, không nếp tròn (AGA 2026 BPA 1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển bệnh viện tỉnh ngay trong đợt đi này (không cấp cứu) để nội soi đại tràng (hoặc nội soi sigma, do tuyến trên chọn) và xét thủ thuật cho trĩ trong cùng chuyến",
+     "v": "c",
+     "n": "Ba mức nguồn như sổ mâu thuẫn mục 'Soi hậu môn và nội soi đại tràng': chảy máu còn dai dẳng sau điều trị trĩ thì tìm nguồn (ASCRS 2024 khuyến cáo 2); nên cân nhắc nội soi toàn bộ (AGA 2026 BPA 1); FIT dưới 10 µg Hb/g mà còn máu thì nội soi sigma (ACPGBI/BSG 2022 khuyến cáo 13). Độ III chưa đỡ bảo tồn: thủ thuật (ASCRS 2024 khuyến cáo 5, mạnh; AGA 2026 BPA 5, 10 mời bác sĩ ngoại nếu thắt vòng thất bại). Làm trọn gói trong một chuyến vì ông ở xa là lựa chọn của ca."
+    },
+    {
+     "t": "Hỏi ra vì sao không đỡ (chất xơ đầy hơi, nhịn nước ở sạp, ngồi bô lâu, chưa nội soi vì tiền và sợ bệnh nặng), nói thẳng nỗi sợ ung thư và giải thích nội soi là để loại trừ, không trách ông",
+     "v": "c",
+     "n": "Người không đỡ cần xem lại tuân thủ trước khi kết luận thất bại (ASCRS 2024 khuyến cáo 3: ăn uống, hành vi là đầu tay). Khi người bệnh ngại xét nghiệm thì giải thích đánh giá chưa trọn vẹn (ACPGBI/BSG 2022 khuyến cáo 5). Kỹ năng giao tiếp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viết giấy giới thiệu đủ thông tin: ra máu hơn 5 tuần, FIT 7 µg Hb/g, Hb 132 g/L, trĩ nội độ III, chưa từng nội soi, đã dùng kháng sinh tự mua, tăng huyết áp dùng amlodipin, không dùng chống đông",
+     "v": "c",
+     "n": "Thuốc chống đông, chống kết tập cần cân nhắc trước thủ thuật (ASCRS 2024 khuyến cáo 5). Nội dung giấy: lựa chọn của ca; thủ tục chuyển tuyến, BHYT: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục ăn uống, nước và chất xơ: bắt đầu psyllium rất ít rồi tăng dần qua nhiều tuần, hoặc macrogol nếu vẫn đầy hơi; ngồi bô dưới 3 phút",
+     "v": "c",
+     "n": "WGO 2025 mục 4.2 (tăng dần qua nhiều tuần, tăng nhanh gây đầy hơi), Bảng 9 (PEG khởi đầu 17 g/ngày); AGA 2026 BPA 2 (3 phút, không rặn)."
+    },
+    {
+     "t": "Dặn bằng văn bản dấu hiệu quay lại ngay, kể cả sau thủ thuật: sốt, đau hậu môn dữ dội, bí tiểu, máu nhiều, và ghi số điện thoại phòng khám",
+     "v": "c",
+     "n": "Nhiễm trùng vùng chậu sau thắt vòng, hiếm nhưng nặng: sốt, đau hậu môn dữ dội, khó tiểu, buồn nôn; phải đến cấp cứu ngay (ASCRS 2024 khuyến cáo 5; AGA 2026 BPA 6). Tần suất nêu: ASCRS 2024 chảy máu nặng khoảng 1%; AGA 2026 biến chứng 2%."
+    },
+    {
+     "t": "Thuốc bôi ngắn ngày hoặc phlebotonic",
+     "v": "a",
+     "n": "Ít bằng chứng, ít hại (AGA 2026 BPA 3; ASCRS 2024 khuyến cáo 4); không giải quyết độ III và chưa nội soi."
+    },
+    {
+     "t": "Thắt vòng cao su hoặc đốt hồng ngoại ngay tại phòng khám hôm nay",
+     "v": "w",
+     "n": "Chưa nội soi đại tràng, cơ sở không có điều kiện xử trí nhiễm trùng vùng chậu, chảy máu (AGA 2026 BPA 6; ASCRS 2024 khuyến cáo 5); làm thủ thuật khi chưa loại trừ nguyên nhân khác không phù hợp ở người 66 tuổi chưa nội soi (ASCRS 2024 khuyến cáo 2)."
+    },
+    {
+     "t": "Cho về, tiếp tục chất xơ thêm 4 tuần rồi hẹn lại",
+     "v": "w",
+     "n": "Còn chảy máu dai dẳng, độ III, chưa nội soi (ASCRS 2024 khuyến cáo 2, 5; ACPGBI/BSG 2022 khuyến cáo 13). Ở xa: hẹn xa một lần là có thể mất theo dõi."
+    },
+    {
+     "t": "Cho lại kháng sinh vì máu không bớt",
+     "v": "w",
+     "n": "Không có chỉ định trong các khuyến cáo trĩ đã tải (ASCRS 2024 khuyến cáo 3–5; AGA 2026 BPA 2–5)."
+    },
+    {
+     "t": "Nhập viện nội trú hôm nay",
+     "v": "w",
+     "n": "Hb 132 g/L, sinh hiệu ổn, máu ra ít; tiêu chí nhập viện trĩ: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trĩ nội độ III (Goligher), còn rỉ máu, không có huyết khối",
+     "Chưa đỡ do tuân thủ chưa đủ: bỏ chất xơ sau 3 ngày vì đầy hơi, vẫn uống ít nước, vẫn ngồi bô lâu và rặn",
+     "Chưa loại trừ ung thư và nguồn chảy máu khác vì chưa nội soi đại tràng (66 tuổi, ra máu hơn 5 tuần)",
+     "Không thiếu máu (Hb 132 g/L); đã ngưng kháng sinh tự mua",
+     "Tăng huyết áp dùng amlodipin"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: không đỡ sau 2 tuần là lúc kiểm tra tuân thủ, lý do thật (đầy hơi khi uống chất xơ, sợ buồn đi cầu ở sạp, chưa nội soi vì sợ và tiền) trước khi cho là thất bại thuốc. Búi sa phải đẩy bằng tay: độ III (AGA 2026 Bảng 1).",
+     "Khám: soi hậu môn và thăm trực tràng lại cho thấy độ III, không huyết khối, không khối thấp. Không nứt, không nếp tròn.",
+     "Hb 134 xuống 132 g/L chưa thiếu máu; FIT 7 µg Hb/g không loại được bệnh khi còn chảy máu dai dẳng (ACPGBI/BSG 2022 khuyến cáo 3, 13).",
+     "Chưa thể kết luận 'chỉ là trĩ': chảy máu quy cho trĩ là cơ hội bỏ sót ung thư hay gặp nhất, chảy máu dai dẳng sau điều trị trĩ phải tìm nguồn (ASCRS 2024 khuyến cáo 2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến có hẹn, không cấp cứu, ngay trong chuyến này vì ông ở xa: nội soi đại tràng (ASCRS 2024 khuyến cáo 2; AGA 2026 BPA 1) hoặc nội soi sigma (ACPGBI/BSG 2022 khuyến cáo 13), và xét thủ thuật cho độ III chưa đỡ bảo tồn (ASCRS 2024 khuyến cáo 5; AGA 2026 BPA 5, 10). Ca ghi cả ba nguồn, không chọn một bên. Làm trọn gói một chuyến: lựa chọn của ca.",
+     "Thủ thuật tại phòng khám không làm hôm nay vì chưa loại trừ nguyên nhân khác và không có điều kiện xử trí biến chứng (AGA 2026 BPA 6).",
+     "Tiếp tục chất xơ: tăng thật chậm (WGO 2025 mục 4.2), thay bằng PEG nếu đầy hơi (WGO 2025 Bảng 9); giải thích ngồi bô ≤ 3 phút (AGA 2026 BPA 2).",
+     "Lưới an toàn bằng văn bản và số điện thoại, nêu cả dấu nhiễm trùng vùng chậu sau thủ thuật (ASCRS 2024 khuyến cáo 5; AGA 2026 BPA 6)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Psyllium dạng gói, bắt đầu lại với liều nhỏ",
+      "ham_luong": "Theo nhãn sản phẩm (không có trong tài liệu đã tải)",
+      "lieu": "Rất ít lúc đầu, tăng dần qua nhiều tuần đến tổng chất xơ 20–30 g/ngày",
+      "duong": "Uống pha nước",
+      "thoi_diem": "Buổi tối ở nhà, kèm một cốc nước đầy",
+      "so_ngay": "Dùng liên tục, đánh giá lại sau khi có kết quả nội soi",
+      "ghi_chu": "WGO 2025 Bảng 9 và mục 4.2 (tăng dần qua nhiều tuần, tăng nhanh gây đầy hơi). Liều khởi đầu từng gói: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Macrogol (polyethylene glycol) dạng bột pha, nếu vẫn đầy hơi với psyllium",
+      "ham_luong": "Theo nhãn gói (khởi đầu 17 g/ngày theo WGO)",
+      "lieu": "1 gói/ngày pha đủ nước ghi trên nhãn",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối ở nhà",
+      "so_ngay": "Đến khi phân mềm đều",
+      "ghi_chu": "WGO 2025 Bảng 9. Hàm lượng gói bán ở Việt Nam: không có trong tài liệu đã tải. Khi chuẩn bị ruột nội soi thì theo hướng dẫn của bệnh viện tỉnh."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên/ngày như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "HA 138/80 mmHg, không đổi."
+     }
+    ],
+    "dan_do": [
+     "Đi bệnh viện tỉnh ngay trong đợt này với giấy giới thiệu; nội soi đại tràng và xét thủ thuật cho trĩ cùng chuyến; hỏi bệnh viện cách chuẩn bị ruột.",
+     "Không mua kháng sinh uống; mang tên thuốc đã dùng cho bác sĩ tuyến trên.",
+     "Chất xơ uống rất ít lúc đầu và tăng từ từ; nếu đầy bụng thì đổi sang gói macrogol; mang chai nước ra sạp.",
+     "Ngồi bô không quá 3 phút, không mang điện thoại vào, không rặn.",
+     "Quay lại hoặc đi cấp cứu ngay nếu sốt, đau hậu môn dữ dội, khó tiểu, chảy máu nhiều, chóng mặt, ngất, phân đen; gọi số điện thoại phòng khám đã ghi.",
+     "Mang kết quả nội soi về phòng khám để được hẹn tiếp theo."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Cuối tuần đó chị Hà chở ông lên bệnh viện tỉnh với giấy giới thiệu. Nội soi đại tràng toàn bộ: không polyp, không khối, không viêm đại tràng; trĩ nội ba búi độ III, bác sĩ tuyến tỉnh thắt vòng cao su một búi trong cùng đợt và dặn dấu hiệu nhiễm trùng vùng chậu. Hai tuần sau máu ngưng, búi bớt sa; ông mang chai nước ra sạp và dùng chất xơ tăng dần. Ông tái khám ở phòng khám khi có kết quả và hết sợ chữ 'nội soi'. Diễn biến chi tiết sau nội soi do ca tự thiết kế, không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Kháng sinh tự mua không rõ tên: không đổi chẩn đoán, chỉ lộ khi hỏi cụ thể; việc đúng là ngưng và giải thích kháng sinh không chữa trĩ. Không bịa tác hại.",
+  "Bà hàng xóm mất vì ung thư đại tràng và con gái ép đi khám: nỗi sợ thật đằng sau câu 'chắc là trĩ thôi'; phải hỏi mới ra, và là lý do ông ngại nội soi.",
+  "Côn trùng đốt quanh hậu môn 4 tuần trước: ông và con gái dễ đổ cho 'độc côn trùng' gây chảy máu. Thực ra đó chỉ là mốc mở đầu chuỗi gãi, kỳ rửa mạnh, ngồi bô lâu, nhịn đi cầu và táo bón; da đã lành, nguồn chảy máu là búi trĩ. Tuổi 66 chưa nội soi nên các nguồn chảy máu khác trong đại tràng vẫn nằm trong chẩn đoán phân biệt cho đến khi nội soi.",
+  "Không có X-quang: không ảnh hưởng quyết định; phim bụng không thay được nội soi. Hệ quả là cũng không có nội soi tại chỗ nên phải chuyển có hẹn."
+ ],
+ "bai_hoc_bien": [
+  "Ở xa, khó tái khám: lượt 2 là cơ hội gần như duy nhất; chuyển tuyến và làm trọn gói (nội soi cùng thủ thuật) trong một chuyến, dặn bằng văn bản, có số điện thoại.",
+  "Không đỡ sau 2 tuần: trước hết hỏi tuân thủ và lý do thật (đầy hơi khi uống chất xơ, nhịn nước vì sạp không ai trông, chưa nội soi vì sợ và tiền), không vội gọi là thất bại thuốc.",
+  "Máu hậu môn do trĩ thấy rõ vẫn không loại trừ ung thư đoạn cao hơn; 66 tuổi chưa nội soi thì phải tư vấn, chảy máu dai dẳng thì phải tìm nguồn (ASCRS 2024 khuyến cáo 2).",
+  "Soi hậu môn ngay trong buổi khám là xét nghiệm rẻ nhất và nhiều thông tin nhất (AGA 2026 BPA 4); phân độ lại ở lượt sau (AGA 2026 Bảng 1).",
+  "Thủ thuật trĩ không làm ở nơi không xử trí được biến chứng, và không làm khi chưa loại trừ nguyên nhân khác (AGA 2026 BPA 6)."
+ ],
+ "diem_nho": [
+  "Trĩ nội: chảy máu không đau; độ II sa khi rặn rồi tự co, độ III phải đẩy bằng tay (AGA 2026 Bảng 1).",
+  "Hầu hết trĩ không đau; đau nhói khi đi cầu nghĩ nứt hậu môn (AGA 2026 BPA 1).",
+  "Điều trị đầu tay: chất xơ 20–30 g/ngày tăng từ từ, nước, ngồi bô ≤ 3 phút (ASCRS 2024 khuyến cáo 3; AGA 2026 BPA 2; WGO 2025 mục 4.2).",
+  "Thủ thuật tại phòng khám cho độ I–II và chọn lọc độ III khi bảo tồn thất bại; thắt vòng hiệu quả nhất (ASCRS 2024 khuyến cáo 5; AGA 2026 BPA 5).",
+  "Chảy máu hậu môn không tự quy cho trĩ; chảy máu dai dẳng sau điều trị thì tìm nguồn (ASCRS 2024 khuyến cáo 2).",
+  "FIT dưới 10 µg Hb/g không cho phép bỏ qua người còn chảy máu: nội soi sigma (ACPGBI/BSG 2022 khuyến cáo 3, 13).",
+  "Sau thắt vòng: sốt, đau hậu môn dữ dội, bí tiểu thì đến cấp cứu ngay (AGA 2026 BPA 6)."
+ ],
+ "nguon": [
+  "ASCRS 2024 – hướng dẫn xử trí trĩ – TL-0205 (Dis Colon Rectum 2024;67:614–623) – khuyến cáo 1–6, mục Rubber Band Ligation",
+  "AGA 2026 – Clinical Practice Update on Diagnosis and Treatment of Hemorrhoids – TL-0183 (Clin Gastroenterol Hepatol 2026;24:1773–1781) – BPA 1–6, 9, 10, Bảng 1",
+  "ACPGBI/BSG 2022 – FIT ở bệnh nhân có triệu chứng nghi ung thư đại trực tràng – TL-0214 (Gut 2022;71:1939–1962) – khuyến cáo 3, 5, 8, 10, 11, 13",
+  "WGO 2025 – Constipation global guideline (tltk-10000-ca, 02 Tiêu hóa) – mục 4.2, Bảng 3, Bảng 9",
+  "Không có trong tài liệu đã tải: liều khởi đầu từng gói psyllium; lượng nước/ngày; mốc tái khám 2 tuần; thời hạn hẹn nội soi; tác hại của kháng sinh dùng bừa; tiêu chí nhập viện trĩ ra máu ít; giá nội soi, mức BHYT chi trả, thủ tục chuyển tuyến; cách chuẩn bị ruột; hàm lượng gói PEG ở Việt Nam; liều flavonoid; QĐ của Bộ Y tế về trĩ chưa có trong kho."
+ ],
+ "ghi_chu_bien_tap": [
+  "04/11/2026, viết: Sonnet. Cốt truyện mới theo sổ cái TH-0955; cấu trúc theo TH-0295 (ca mẫu 2 lượt, ở xa, không có X-quang), TH-1011 và TH-0958 (cùng nhóm trĩ). Nguồn đối chiếu lại bản chữ.",
+  "Tài liệu đã đọc: TL-0205 khuyến cáo 1–6 và mục RBL; TL-0183 BPA 1–6, 9, 10, Bảng 1; TL-0214 tóm tắt khuyến cáo 1–13; WGO 2025 mục 4.2, Bảng 3, Bảng 9; sổ mâu thuẫn các mục trĩ (TH-0970, TH-0936, TH-0958, TH-0780).",
+  "Biến yeu_to_khoi_phat 'con_trung_dot' = côn trùng đốt (trưởng nhóm đính chính khi duyệt 04/11/2026; bản nháp ban đầu đọc nhầm là 'cơn trúng thực'). Khởi phát dựng thành chuỗi côn trùng đốt quanh hậu môn → ngứa, gãi, kỳ rửa, ngồi bô lâu, nhịn đi cầu → táo bón, rặn → chảy máu; không có nguồn nói côn trùng đốt gây trĩ, ca không khẳng định quan hệ nhân quả.",
+  "Không ảnh vùng hậu môn: mô tả bằng chữ qua mục khám soi_hau_mon. Hb giữ ≥ 130 g/L để không rơi vào chỉ định nội soi hai đầu của thiếu máu.",
+  "Ràng buộc 'Không có X-quang': khoa_cls khóa xquang kéo theo CT và nội soi; noi_soi_dt lượt 1 khai thay_the fit để chấm việc đề nghị nội soi."
+ ]
+}
