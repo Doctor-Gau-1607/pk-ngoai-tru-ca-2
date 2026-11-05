@@ -1,0 +1,507 @@
+{
+ "ma_ca": "TH-1490",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới (2026-11-05)",
+ "benh": "TH_nut_ke_hau_mon",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Nứt kẽ hậu môn",
+  "chan_doan_phai_loai_tru": [
+   "Trĩ",
+   "Ung thư ống hậu môn"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Sau ăn quá nhiều đạm",
+  "thuoc_dang_dung": "Paracetamol liều thông thường",
+  "ly_do_that_su_den_kham": "Vấn đề tâm lý giấu sau triệu chứng",
+  "loai_ket_cuc": "Biến chứng do bỏ sót"
+ },
+ "benh_nhan": {
+  "ten": "Lương Thị Mận",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Làm ruộng và trồng rau sau nhà, đi chợ xã bán rau mỗi sáng",
+  "can_nang": 46,
+  "chieu_cao": 151,
+  "xung_ho": "Bà tự xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ' hoặc 'cô/cậu' tùy tuổi. Bác sĩ gọi bà là 'bà'.",
+  "tinh_cach": "Nhỏ người, rám nắng, nói nhiều và vòng vo, hay kể chuyện con cháu, ruộng vườn, giá rau. Thương con thương cháu, sợ làm phiền. Ngại nói chuyện 'chỗ kín' với người lạ. Chồng mất cách đây hai năm.",
+  "kieu_nhieu": "Kể lể lộn xộn: được hỏi một câu thì kể sang đám giỗ, chuyện chợ, chuyện con ở Sài Gòn, chuyện mất ngủ, rồi mới quay lại triệu chứng. Thông tin quan trọng (đau khi đi cầu, máu, nỗi sợ) nằm lẫn giữa những chuyện không liên quan; bà hay đổi mốc thời gian ('cái đám giỗ hồi... chắc cỡ tháng, mà hay là hai tháng'). Bác sĩ phải cắt lời nhẹ nhàng, chia nhỏ câu hỏi và chốt lại từng ý.",
+  "nguoi_nha": "Con dâu, chị Trần Thị Bé, 48 tuổi, trồng rau chung, chở bà đi bằng xe máy. Biết bà 'đi cầu khó, ngồi nhà vệ sinh rất lâu', biết ông (chồng bà) mất cách đây hai năm vì 'bệnh ở ruột', không biết bà sợ mình mắc cùng bệnh. Khi bác sĩ hỏi trực tiếp thì bà trả lời (nguoi_noi = benh_nhan); chị Bé nói về ăn uống, nhà vệ sinh, túi thuốc, đường đi (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Con dâu (chị Bé)",
+  "ngoai_hinh": {
+   "da": "#c99a75",
+   "toc": "#cfcac4",
+   "kieuToc": "bui",
+   "ao": "#8b6f58",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d7a982",
+    "toc": "#2a1f19",
+    "kieuToc": "dai",
+    "ao": "#6f8a7b",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đau bụng dưới âm ỉ, ăn không ngon, ngủ không được",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không có siêu âm, nên cũng không có CT và nội soi tiêu hóa (làm ở bệnh viện đa khoa tỉnh, cách khoảng 35 km). Có xét nghiệm cơ bản và X-quang bụng."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Lương Thị Mận, 79 tuổi, làm ruộng và trồng rau. Con dâu chở đến khám vì bà 'đau bụng dưới, ăn không ngon, mấy đêm nay ngủ không được'. Bà đang tự uống paracetamol. Sinh hiệu: mạch 82 l/p, HA 146/84 mmHg, nhiệt độ 36,6 độ C, nhịp thở 18 l/p, SpO₂ 96%. Cân nặng 46 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bà Mận lên bệnh viện tỉnh ngay hôm nay để khám dưới gây tê hoặc mổ cắt cơ thắt là quá tay: bà chưa dùng ngày nào thuốc bôi giãn cơ thắt, còn guideline dành cắt cơ thắt cho người chọn lọc, chưa có rối loạn tự chủ, và loại phụ nữ có tổn thương sản khoa khỏi chỉ định đầu tay (ASCRS 2023, khuyến cáo 5–6); bà sinh 5 con tại nhà. Khuyến cáo là thử đủ đợt thuốc bôi và kiểm tra tuân thủ, đại tiện trước (ACPGBI 2023, khuyến cáo 5–6). Chuyến đi 35 km tốn một ngày công của chị Bé, bà sợ hãi thêm và dễ bỏ giữa chừng, còn nỗi lo 'ung thư như ông' càng nặng.",
+    "nhap_vien": "Nhập viện theo dõi bà Mận là không cần: sinh hiệu ổn, không sốt, bụng mềm, không áp xe, không chảy máu nhiều; vết nứt mạn xử trí ngoại trú bằng thuốc bôi, làm mềm phân, ngâm nước ấm (ASCRS 2023, khuyến cáo 2–3; ACPGBI 2023, khuyến cáo 2–5). Nằm viện đổi nhà vệ sinh, chi phí cao, ba ngày không có người trồng rau, trong khi điều bà cần là được nghe nói rõ đây không phải ung thư và được dạy cách đi cầu không rặn."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đi khám, bụng dưới tôi cứ âm ỉ, ăn uống không ngon, đêm nằm không ngủ được. Hồi đám giỗ ông nhà tôi tháng trước... mà hình như hơn tháng, con Bé nó nhớ rõ hơn, thịt thà bày đầy mâm, bà con ăn không hết. Rồi dưa leo năm nay mất giá lắm bác sĩ ơi.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "146/84",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bà đến vì 'đau bụng dưới âm ỉ, ăn không ngon, ngủ không được' khoảng 2–3 tháng nay. Con dâu chở đi vì thấy bà ngồi nhà vệ sinh rất lâu và than đau bụng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ke_le",
+     "noi_dung": "Nếu bác sĩ để bà nói tự do, bà kể chuyện giá rau, cháu ngoại ở Sài Gòn, đám giỗ, cái giường cũ làm bà đau lưng. Bà nhắc 'đau bụng dưới' ba lần nhưng không nhắc hậu môn. Bác sĩ hỏi từng ý nhỏ, có mốc thời gian, thì bà trả lời được.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dau_chuc_nang",
+     "noi_dung": "Khoảng 10 tuần nay, mỗi lần đi cầu hậu môn rát như xé, rồi nhức âm ỉ kéo dài tới 2–3 giờ, có hôm tới tối. Vì sợ đau, bà nhịn, có lần 3–4 ngày mới đi. Bà bảo 'đau bụng dưới' vì khi ngồi xổm rặn thì đau lan lên bụng và xuống mông. Bà tìm cách ngồi nghiêng một bên khi nghỉ giữa buổi chợ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng về chuyện đi cầu: đi cầu có đau không, đau lúc nào, kéo dài bao lâu sau đó, có sợ vào nhà vệ sinh không. Hỏi chung 'đau ở đâu' thì bà chỉ vào bụng dưới.",
+     "k": 1,
+     "y": "Đau rát như xé khi đi cầu, nhức kéo dài sau đi cầu (triệu chứng chính)"
+    },
+    {
+     "id": "mau",
+     "noi_dung": "Có vệt máu đỏ tươi dính giấy, thỉnh thoảng vài giọt trên phân, không lẫn trong phân, không nhỏ thành dòng, không có phân đen hay nhầy. Bà nghĩ 'chắc nóng trong, trĩ'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi có máu khi đi cầu, trên giấy hay trên phân, màu máu thế nào.",
+     "k": 1,
+     "y": "Máu đỏ tươi khi chùi"
+    },
+    {
+     "id": "tao_bon_nen",
+     "noi_dung": "Từ nhiều năm bà đi cầu 2 ngày một lần, phân hơi khô, ít khi rặn nhiều. Bà ăn cơm với cá, thịt kho, rau luộc ít vì 'răng yếu', uống nước khoảng 4–5 ly nhỏ mỗi ngày. Không đổi khuôn phân, không phân dẹt, không són, không rỉ phân, không đau bụng quặn, vẫn trung tiện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Táo bón mạn nhẹ nhiều năm, không đổi thói quen đi cầu"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cuối tháng 8 là giỗ đầu hai năm ông nhà. Bà nấu mâm cỗ lớn, mấy ngày liền ăn thịt heo quay, thịt bò, cá, trứng, ít rau, uống ít nước vì bận. Sau đám giỗ 4 ngày bà không đi cầu được, ngồi rặn rất lâu, phân cứng như cục đá, thấy đau 'như bị cắt' và có máu. Từ đó nhịn đi cầu vì sợ, phân càng cứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát (ăn nhiều đạm ít rau, uống ít nước sau đám giỗ, rặn phân cứng)"
+    },
+    {
+     "id": "da_dieu_tri",
+     "noi_dung": "Khoảng 5 tuần trước bà ra trạm y tế xã. Nhân viên hỏi 'có đi cầu ra máu không', bà nói có, được bảo 'trĩ' và cho một tuýp thuốc bôi trĩ (chị Bé chụp nhãn: có hydrocortison). Hậu môn không được nhìn hay khám vì bà ngại. Bà bôi ngày 2–3 lần cả 5 tuần, ngứa và rát quanh hậu môn hơn chứ không đỡ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đã đi khám ở đâu chưa' thì bà đáp 'có hỏi thăm ở trạm'. Chỉ có đủ chi tiết khi bác sĩ hỏi đã uống hay bôi gì, ai bảo là bệnh gì, hoặc xin xem tuýp thuốc, ảnh nhãn thuốc, hỏi chị Bé.",
+     "k": 1,
+     "y": "Đã được cho là 'trĩ', bôi kem trĩ 5 tuần, không khám hậu môn"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Bà tự uống paracetamol 500 mg, mỗi lần 2 viên, ngày 3 lần khi đau, gần như mỗi ngày từ hơn một tháng nay, để 'đỡ đau bụng, ngủ được'. Tổng khoảng 3 g mỗi ngày. Không uống thuốc nào khác, không có thuốc huyết áp, không thuốc chống đông, không thuốc giảm đau gây nghiện, không ibuprofen hay thuốc xương khớp, không thuốc bổ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: paracetamol liều thông thường (khoảng 3 g/ngày)"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không sốt, không sưng nóng hay chảy mủ ở hậu môn, không sờ thấy cục. Không đau bụng quặn từng cơn, không nôn, không phân đen. Không sụt cân nhiều ngoài 1 kg. Không quan hệ qua đường hậu môn. Chưa từng được bảo bị viêm ruột, lao, HIV, giang mai. Cả họ nội ngoại chỉ có ông (chồng bà) mất vì 'bệnh ở ruột'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động và nguyên nhân khác"
+    },
+    {
+     "id": "sut_can",
+     "noi_dung": "Hai tháng trước bà 47 kg, nay 46 kg. Bà ăn ít hơn trước vì 'ăn vào thì phải đi, đi thì đau'. Không sốt kéo dài, không ra mồ hôi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sụt cân nhẹ do sợ đi cầu"
+    },
+    {
+     "id": "san_khoa_co_that",
+     "noi_dung": "Sinh 5 con, đẻ thường tại nhà, không nhớ có rách hay khâu. Không són phân, không rỉ hơi hay phân lỏng ra quần, không són nước tiểu khi ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sinh đẻ, chức năng cơ thắt (ảnh hưởng chọn điều trị về sau)"
+    },
+    {
+     "id": "noi_lo",
+     "noi_dung": "Chồng bà bị 'ung thư ruột': đi cầu ra máu hơn nửa năm, ông tưởng trĩ, tới khi đi bệnh viện thì đã muộn, mất sau vài tháng. Bà thấy mình cũng đi cầu ra máu, đau bụng dưới, mất ngủ nên nghĩ chắc 'bị giống ông'. Bà sợ nói ra là đúng, sợ con cháu tốn kém, nên không kể với ai, chỉ nói đau bụng và mất ngủ. Mất ngủ là do lo, không phải do đau đêm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi nhẹ nhàng bà lo nhất điều gì, có ai trong nhà từng bị bệnh tương tự không, hoặc bà nghĩ mình bị bệnh gì. Bà nói nhỏ, mắt đỏ lên.",
+     "k": 1,
+     "y": "Động cơ thật: sợ bị ung thư như chồng, giấu triệu chứng hậu môn"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Ở với con trai và chị Bé. Nhà vệ sinh xây bệt trong nhà, có chậu và bình đun nước. Chị Bé nấu cơm, thường làm món mặn vì bà thích. Bà vẫn tự tắm, tự đi chợ.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Bà đồng ý lấy máu, đồng ý cho bác sĩ nhìn hậu môn nếu có người nữ ở cùng và nhẹ tay. Với ống soi đưa vào hậu môn bà nói 'đau quá, thôi', nhưng đồng ý bôi thuốc tê rồi thăm bằng ngón tay.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Lộ khi bác sĩ đề nghị khám hậu môn, thăm trực tràng, soi hoặc lấy máu.",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Nhỏ người, 46 kg, cao 1,51 m (BMI 20,2). Tỉnh, đáp lời đúng nhưng nói dài dòng. Niêm mạc mắt hồng, không vàng da. Không hạch bẹn. Ngồi nghiêng một bên mông, mặt nhăn khi đổi tư thế.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng phẳng, mềm, không chướng, không điểm đau, không khối. Hố chậu trái sờ thấy khúc ruột chắc như cục phân, ấn hơi tức, không phản ứng. Nhu động ruột có.",
+     "k": 1
+    },
+    "quan_sat_hau_mon": {
+     "a": "Nhìn khi banh nhẹ hai mông (có điều dưỡng Linh ở cùng): vết nứt dọc ở đường giữa sau (6 giờ), dài khoảng 1 cm, bờ dày, đáy lộ sợi trắng của cơ thắt trong; ở bờ ngoài có một mẩu da thừa nhỏ (sentinel). Da quanh hậu môn đỏ nhẹ, hơi bong vảy, có vết gãi, phù hợp kích ứng và mẫn cảm do bôi kem lâu. Không búi trĩ ngoài căng tím, không áp xe, không lỗ rò, không khối, không loét lệch bên.",
+     "k": 1,
+     "hien": "Có một vết nứt dọc ở đường giữa sau (6 giờ), da quanh hậu môn đỏ nhẹ, hơi bong vảy. Không áp xe, không lỗ rò, không búi trĩ ngoài."
+    },
+    "truc_trang": {
+     "a": "Bôi gel lidocaine, chờ vài phút, thăm trực tràng bằng ngón tay nhẹ: trương lực nghỉ cao, cơ thắt co thắt, bà đau nhưng chịu được. Trực tràng thấp có phân cứng đóng khối. Không sờ thấy khối u hay vùng cứng loét trong tầm với, không đau chói ở thành bên. Găng có vệt máu đỏ tươi, không phân đen, không nhầy.",
+     "k": 1,
+     "hien": "Thăm ngón tay sau bôi tê: cơ thắt co khít, phân cứng ở trực tràng thấp, không khối. Găng có ít máu đỏ tươi."
+    },
+    "soi_hau_mon": {
+     "a": "Không thực hiện: bà đau và cơ thắt co thắt, ống soi không đưa vào được, bác sĩ ngừng và không ép (AGA 2026, BPA 4: soi hậu môn 'khi có thể làm'). Nếu vết nứt không lành sau đợt điều trị đủ thì khám dưới gây tê và sinh thiết (ACPGBI 2023, khuyến cáo 6).",
+     "k": 0,
+     "hien": "Chưa soi được vì đau."
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác. Khi hỏi nhẹ về điều lo nhất, bà khóc lặng, nói sợ giống chồng. Khí sắc trầm nhẹ, thích ăn kém vì sợ đi cầu, ngủ chập chờn vì lo. Không ý tưởng tự hại, không hoang tưởng, không ảo giác. Công cụ sàng lọc trầm cảm hay lo âu cụ thể: không có trong tài liệu đã tải.",
+     "k": 1,
+     "hien": "Lo lắng, khí sắc trầm nhẹ, hợp tác, không ý tưởng tự hại."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 7,2 G/L · Hb 123 g/L · TC 262 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 7.2,
+      "neu_pct": 62.0,
+      "neu": 4.46,
+      "lym_pct": 30.0,
+      "lym": 2.16,
+      "mono_pct": 6.0,
+      "mono": 0.43,
+      "eos_pct": 1.5,
+      "eos": 0.11,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.2,
+      "hgb": 123,
+      "hct": 0.37,
+      "mcv": 88.0,
+      "mch": 29.3,
+      "mchc": 332,
+      "rdw": 13.4,
+      "plt": 262
+     },
+     "n": "Không bắt buộc để chẩn đoán nứt kẽ (chẩn đoán bằng nhìn trực tiếp, ACPGBI 2023, khuyến cáo 1). Có ích để biết có thiếu máu chưa ở người 79 tuổi chảy máu 10 tuần và ăn ít; Hb 123 g/L không thiếu máu rõ. Chảy máu hậu môn không được mặc định là do trĩ (ASCRS 2024, khuyến cáo 2)."
+    },
+    "fit": {
+     "v": "n",
+     "r": "fHb < 10 µg Hb/g phân (âm tính).",
+     "n": "Không cần: nguồn chảy máu đã nhìn thấy (vết nứt) và FIT không thay cho khám chuyên khoa nếu máu dai dẳng hoặc tái phát (ACPGBI/BSG 2022, khuyến cáo 9, 13). Kết quả âm tính không loại được nguồn chảy máu tại chỗ và không dùng một mình để quyết định chuyển khám (ACPGBI/BSG 2022, khuyến cáo 3)."
+    },
+    "xq_bung": {
+     "v": "n",
+     "n": "Không cần lúc này: bụng mềm không chướng, vẫn trung tiện, không dấu hiệu tắc ruột; khúc phân hố chậu trái sờ được. Cách đọc X-quang bụng trong ứ phân: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nứt kẽ hậu môn mạn (khoảng 10 tuần, đường giữa sau, có mẩu da thừa và lộ sợi cơ thắt trong), khởi phát sau táo bón do ăn nhiều đạm ít xơ; kèm viêm da quanh hậu môn do bôi kem corticoid lâu và nỗi lo sợ ung thư",
+     "ok": 1,
+     "n": "Đau rát như xé khi đi cầu, kéo dài sau đó, máu đỏ tươi khi chùi, vết nứt nhìn thấy ở đường giữa sau (ACPGBI 2023, khuyến cáo 1; ASCRS 2023, Statement of the Problem: 73% ở giữa sau). Từ 6 tuần là mạn, thường có dấu mạn tính như mẩu da thừa, sợi cơ thắt lộ ở đáy (ACPGBI 2023, mục Definitions; ASCRS 2023, Statement of the Problem). Đau nhói khi đi cầu hoặc khi thăm trực tràng là nứt hậu môn (AGA 2026, BPA 1)."
+    },
+    {
+     "t": "Trĩ",
+     "n": "Trĩ chỉ đau nhiều khi tắc mạch; đau nhói khi đi cầu thường là nứt (AGA 2026, BPA 1). Khám không có búi trĩ ngoài căng tím. Nứt và trĩ cùng có ở tới 20% (AGA 2026, bàn luận BPA 1: điều trị nứt trước), nhưng chưa soi nên chưa loại hẳn trĩ nội; điều này không đổi xử trí. Nhãn 'trĩ' của tuyến trước chưa dựa vào nhìn hậu môn."
+    },
+    {
+     "t": "Ung thư ống hậu môn",
+     "n": "Không có khối, không loét cứng, vết nứt ở vị trí điển hình, một vết. Ở người cao tuổi hay vị trí không điển hình phải nghĩ chẩn đoán khác; ung thư tế bào gai có thể bị gán nhầm là nứt mạn (ACPGBI 2023, mục Diagnosis). Chưa loại hẳn vì chưa soi, chưa sinh thiết: nếu không lành sau đợt điều trị đủ thì khám dưới gây tê và sinh thiết (ACPGBI 2023, khuyến cáo 6, trang 2428)."
+    },
+    {
+     "t": "Ung thư đại – trực tràng (chồng bà mất vì bệnh ruột, bà 79 tuổi, đi cầu ra máu)",
+     "n": "Máu giải thích được bằng vết nứt nhìn thấy; táo bón có từ nhiều năm, không đổi khuôn phân, không phân đen, không thiếu máu rõ, không sụt cân đáng kể ngoài do ăn ít. Chảy máu hậu môn 'không mặc định là trĩ'; nội soi đại tràng cho người chọn lọc, chỉ định hơn khi không thấy nguồn chảy máu rõ hoặc có đau bụng, chướng, táo bón mới xuất hiện hay tiến triển (ASCRS 2024, khuyến cáo 2). Hẹn nội soi nếu máu dai dẳng sau khi nứt lành, thiếu máu hoặc đổi thói quen đi cầu."
+    },
+    {
+     "t": "Áp xe hoặc rò hậu môn đi kèm",
+     "n": "Da quanh hậu môn không đỏ sưng khu trú, không lỗ rò, không sốt (ACPGBI 2023, mục Diagnosis: khám tìm nguyên nhân khác khi nứt không đáp ứng)."
+    },
+    {
+     "t": "Bệnh Crohn, lao, giang mai, HIV gây loét hậu môn",
+     "n": "Nứt ở vị trí điển hình, một vết, không tiền sử đau bụng quặn, tiêu chảy, sốt, quan hệ hậu môn (ASCRS 2023, Statement of the Problem: lệch bên, nhiều chỗ thì nghĩ các bệnh này; ACPGBI 2023, khuyến cáo 6: loại Crohn khi nứt không lành)."
+    },
+    {
+     "t": "Lo âu, trầm cảm làm mất ngủ và ăn kém",
+     "n": "Bà khóc khi nói về chồng, ngủ chập chờn vì lo, nhưng khí sắc chỉ trầm nhẹ, không ý tưởng tự hại, các triệu chứng quay quanh nỗi sợ cụ thể. Ưu tiên điều trị nứt và giải thích rõ; công cụ sàng lọc trầm cảm và ngưỡng chuyển tuyến tâm thần: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chia nhỏ câu hỏi, chốt từng ý, hỏi riêng về đi cầu, và hỏi nhẹ nỗi lo nhất của bà; giải thích rõ đây là vết rách ở hậu môn do phân cứng, không phải ung thư như ông, thường chữa được không cần mổ",
+     "v": "c",
+     "n": "Chẩn đoán dựa vào nhìn trực tiếp (ACPGBI 2023, khuyến cáo 1). Nội dung trấn an dựa trên tổn thương đã thấy; chưa loại hẳn ung thư vì chưa soi nên hứa theo dõi và hẹn lại chứ không hứa 'chắc chắn không'. Kỹ thuật nói chuyện với người cao tuổi giấu lo sợ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc bôi giãn cơ thắt: diltiazem 2% hoặc glyceryl trinitrate (GTN) 0,4% trong 2 tháng, chọn từng bệnh nhân",
+     "v": "c",
+     "n": "Nứt mạn đầu tay: GTN 0,4% hoặc diltiazem 2% trong 2 tháng, cá thể hóa (ACPGBI 2023, khuyến cáo 5; đau đầu thì nghiêng diltiazem; nitrat gây đau đầu ít nhất 30%, ASCRS 2023); chẹn kênh canxi bôi hiệu quả tương đương nitrat, ít tác dụng phụ hơn, dùng được đầu tay (ASCRS 2023, khuyến cáo 2–3, 1B). Tuần 8: lành 63,6% (nitrat) và 52,3% (diltiazem) (ACPGBI 2023, khuyến cáo 5). Hai nguồn cùng hướng, khác mức ưu tiên (xem sổ mâu thuẫn, TH-1478 mục 1). Lượng và số lần bôi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm mềm phân: macrogol (PEG) 17 g mỗi sáng, chỉnh theo đáp ứng, tránh tiêu chảy",
+     "v": "c",
+     "n": "Mục tiêu phân mềm, không rặn, tránh tiêu chảy (ACPGBI 2023, khuyến cáo 2, trang 2427). PEG khuyến cáo mạnh (AGA-ACG 2023, khuyến cáo 2; Bảng 4: 17 g mỗi ngày, không có liều tối đa rõ)."
+    },
+    {
+     "t": "Tăng chất xơ từ rau, trái cây, ngũ cốc và uống nước đều trong ngày; bớt bữa chỉ thịt cá, ít rau",
+     "v": "c",
+     "n": "Mục tiêu xơ: ít nhất 30 g/ngày (ACPGBI 2023, khuyến cáo 2) hoặc tổng 20–30 g/ngày (AGA-ACG 2023, Bảng 4; tăng trên 25–30 g thường không thêm lợi). Khác con số vì bối cảnh táo bón chức năng so với nứt kẽ (xem sổ mâu thuẫn, TH-1478 mục 2); ca không đòi một con số. Nước: uống đủ khi dùng xơ (AGA-ACG 2023, khuyến cáo 1). Mức nước mL/ngày và mối liên hệ ăn nhiều đạm với táo bón: không có trong tài liệu đã tải. Chế độ ăn chỉ giúp hạn chế ở nứt mạn đã có sẹo (ACPGBI 2023, khuyến cáo 2)."
+    },
+    {
+     "t": "Ngâm hậu môn nước ấm sau mỗi lần đi cầu và khi đau",
+     "v": "c",
+     "n": "ACPGBI 2023, khuyến cáo 3: ngâm hậu môn an toàn, tăng hài lòng nhưng bằng chứng giảm đau và lành chưa thống nhất. Nhiệt độ, thời gian ngâm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chỉnh paracetamol: giữ 500 mg, tối đa dưới 3 g mỗi ngày, dùng khi đau; bỏ thói quen uống 3 g đều mỗi ngày để ngủ",
+     "v": "c",
+     "n": "Giảm đau không opioid như paracetamol (ACPGBI 2023, khuyến cáo 3). Người cao tuổi gầy yếu: dưới 3 g/ngày (QĐ 361/2014, Phụ lục NSAID, mục 3.3), trong khi người lớn chung tối đa 4 g/ngày (Phụ lục thuốc giảm đau, mục 3.1); ghi cả hai, con số dưới 3 g thận trọng hơn (sổ mâu thuẫn, TH-0295). Bà đang uống khoảng 3 g/ngày kéo dài hơn 1 tháng, chạm trần của người gầy, và thuốc che mất tín hiệu đau."
+    },
+    {
+     "t": "Ngưng kem bôi trĩ có corticoid; vệ sinh nhẹ bằng nước, thấm khô, không dùng khăn ướt",
+     "v": "c",
+     "n": "Chất xơ + ngâm hậu môn giảm đau hơn thuốc tê hay hydrocortisone bôi (91% so 60% và 68%; ASCRS 2023, khuyến cáo 1); dùng lâu thuốc bôi chứa steroid có thể gây dị ứng, mẫn cảm và không có bằng chứng lợi ích dài hạn (ASCRS 2024, khuyến cáo 4). Tránh khăn ướt, chất kích ứng (ACPGBI 2023, khuyến cáo 4). Viêm da quanh hậu môn thấy khi khám phù hợp mẫn cảm do kem; thuốc trị viêm da cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn thói quen đi cầu: đi khi buồn, không nhịn, không rặn hay ngồi nhà vệ sinh lâu",
+     "v": "c",
+     "n": "ACPGBI 2023, khuyến cáo 4, trang 2427 (ý kiến chuyên gia)."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần để kiểm tra tuân thủ, đáp ứng; đủ 8 tuần thì đánh giá lại, kèm dặn dấu hiệu quay lại sớm: đau tăng dữ dội, sưng nóng hay chảy mủ, sốt, chảy máu nhiều, phân đen, bụng chướng hoặc 5 ngày không đi cầu",
+     "v": "c",
+     "n": "Thời gian lành thường trên 4 tuần và nhiều thầy thuốc dùng đợt 8 tuần (ACPGBI 2023, bàn luận khuyến cáo 5); khi chưa lành phải xét tuân thủ, đại tiện, đủ thời gian và chẩn đoán khác (ACPGBI 2023, khuyến cáo 6). Mốc 4 tuần và ngưỡng 5 ngày là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xét nghiệm công thức máu (có ích cho nền; kết quả không thiếu máu rõ)",
+     "v": "a",
+     "n": "Xem phần cận lâm sàng. Không bắt buộc chẩn đoán nhưng hợp lý ở người 79 tuổi chảy máu 10 tuần (ASCRS 2024, khuyến cáo 2). Chấm a (trưởng nhóm duyệt): hợp lý nhưng không có tài liệu đã tải bắt buộc công thức máu trong nứt kẽ hậu môn, nên không trừ điểm khi bỏ."
+    },
+    {
+     "t": "Bôi lidocaine tại chỗ trước khi đi cầu khi đau nhói",
+     "v": "a",
+     "n": "ACPGBI 2023, khuyến cáo 3: có thể dùng thuốc tê tại chỗ như lidocaine. Chất xơ + ngâm hậu môn giảm đau hơn thuốc tê (ASCRS 2023, khuyến cáo 1). Nồng độ, số lần bôi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn trước một lần khám chuyên khoa hậu môn trực tràng để tư vấn (botulinum toxin hoặc cắt cơ thắt) nếu sau 2 tháng chưa lành",
+     "v": "a",
+     "n": "Phụ nữ nứt mạn dai dẳng sau nhuận tràng và thuốc bôi: botulinum toxin 20–50 U Botox một mũi (ACPGBI 2023, khuyến cáo 7–8); cắt cơ thắt trong bên lành 88–100% nhưng không tự chủ 8–30%, có thể không dùng đầu tay ở phụ nữ có tổn thương sản khoa (ASCRS 2023, khuyến cáo 5–6) (sổ mâu thuẫn, TH-1478 mục 3). Hẹn trước chưa cần làm hôm nay."
+    },
+    {
+     "t": "Đề nghị nội soi đại tràng ở bệnh viện tỉnh nếu máu dai dẳng sau khi nứt lành, thiếu máu hoặc đổi thói quen đi cầu",
+     "v": "a",
+     "n": "ASCRS 2024, khuyến cáo 2 (chọn lọc, có điều kiện, bằng chứng thấp); AGA 2026 bàn luận BPA 1: cân nhắc nội soi toàn bộ khi chảy máu trực tràng (sổ mâu thuẫn, TH-0970). Cơ sở không có nội soi. Đề nghị ngay hôm nay chưa bắt buộc vì nguồn máu đã thấy và không có dấu báo động."
+    },
+    {
+     "t": "Tiếp tục kem bôi trĩ chứa corticoid thêm vài tuần cho đỡ ngứa",
+     "v": "w",
+     "n": "Không phải trĩ. Dùng lâu gây mẫn cảm, không có lợi ích dài hạn (ASCRS 2024, khuyến cáo 4); chất xơ + ngâm tốt hơn hydrocortisone bôi (ASCRS 2023, khuyến cáo 1). Tiếp tục kem là lặp lại sai lầm đã làm 5 tuần."
+    },
+    {
+     "t": "Uống bisacodyl hằng ngày kéo dài để chống táo bón",
+     "v": "w",
+     "n": "Bisacodyl chỉ ngắn hạn (≤ 4 tuần) hoặc cứu, tối đa 10 mg/ngày (AGA-ACG 2023, khuyến cáo 5); dùng nền hằng ngày ở bà 79 tuổi gầy dễ đau quặn, tiêu chảy, són phân, làm nứt xấu thêm (sổ mâu thuẫn, TH-0870 mục 2)."
+    },
+    {
+     "t": "Chuyển bệnh viện tỉnh mổ cắt cơ thắt ngay hôm nay, chưa dùng thuốc bôi",
+     "v": "w",
+     "n": "LIS chỉ cho người chọn lọc, không rối loạn tự chủ, và có thể không dùng đầu tay ở phụ nữ có tổn thương sản khoa (ASCRS 2023, khuyến cáo 5–6); bà sinh 5 con tại nhà, nguy cơ không tự chủ 8–30% (ASCRS 2023). Thuốc bôi chưa thử: ACPGBI 2023, khuyến cáo 5–6. Không chuyển viện hay nhập viện hôm nay: không có chỉ định."
+    },
+    {
+     "t": "Nong hậu môn bằng tay cho dễ đi cầu",
+     "v": "h",
+     "n": "Nong bằng tay không kiểm soát có nguy cơ không tự chủ cao hơn cắt cơ thắt trong (OR 4,03; ASCRS 2023, khuyến cáo 6). Ở bà 79 tuổi sinh 5 con, hậu quả són phân có thể lâu dài."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nứt kẽ hậu môn mạn (khoảng 10 tuần), đường giữa sau, có mẩu da thừa và lộ sợi cơ thắt trong",
+     "Yếu tố thúc đẩy: bữa cỗ giỗ nhiều thịt ít rau, uống ít nước, rặn phân cứng, sau đó nhịn đi cầu vì sợ đau (vòng xoắn nứt - nhịn - cứng - nứt) trên nền táo bón nhẹ nhiều năm",
+     "Điều trị tuyến trước: gán nhãn 'trĩ' không nhìn hậu môn, bôi kem trĩ có corticoid 5 tuần, gây viêm da quanh hậu môn; tự uống paracetamol khoảng 3 g/ngày",
+     "Sụt 1 kg trong 2 tháng do ăn ít vì sợ đi cầu; không thiếu máu rõ (Hb 123 g/L)",
+     "Động cơ thật: sợ ung thư ruột như chồng, giấu triệu chứng hậu môn, mất ngủ do lo; đã loại trừ trên lâm sàng trĩ có triệu chứng, áp xe/rò, bệnh viêm, lao, nhưng chưa loại hẳn ung thư ống hậu môn vì chưa soi"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: bà kể lộn xộn và chỉ nói 'đau bụng dưới, mất ngủ'. Cách làm: cắt lời nhẹ nhàng, hỏi từng ý, mốc thời gian; hỏi riêng về đi cầu (có đau không, kéo dài bao lâu sau đó, có sợ vào nhà vệ sinh không, máu màu gì, trên giấy hay trên phân); hỏi đã dùng thuốc gì, ai bảo bệnh gì; hỏi nhẹ 'bà lo nhất điều gì'. Máu đỏ tươi khi chùi cộng đau khi đi cầu gợi nứt hậu môn (ACPGBI 2023, khuyến cáo 1).",
+     "Khám: nhìn trực tiếp là cách chẩn đoán (ACPGBI 2023, khuyến cáo 1): vết nứt dọc ở đường giữa sau, nơi gặp ở 73% (ASCRS 2023). Dấu mạn tính: mẩu da thừa ở bờ ngoài, sợi cơ thắt ở đáy; khám hậu môn đang đau rất khó nên dùng gel lidocaine (ACPGBI 2023, mục Diagnosis; khuyến cáo 3). Soi hậu môn: AGA 2026 (BPA 4) 'nếu có thể làm', ASCRS 2024 (khuyến cáo 1) 'có thể cân nhắc'; ở ca này chưa làm được vì đau (sổ mâu thuẫn, TH-0970). Đau chói khi thăm trực tràng gợi nứt (AGA 2026, bàn luận BPA 1).",
+     "Cận lâm sàng: không bắt buộc. Công thức máu giúp loại thiếu máu (Hb 123 g/L). FIT, nội soi, siêu âm không cần hôm nay (nguồn máu đã thấy, không dấu báo động; cơ sở không có siêu âm nên cũng không có nội soi và CT). ASCRS 2024 (khuyến cáo 2): chảy máu hậu môn không mặc định do trĩ.",
+     "Loại trừ: trĩ chỉ đau khi tắc mạch (AGA 2026, BPA 1), không búi tím căng. Ung thư ống hậu môn: không khối, không loét cứng, vị trí điển hình; vẫn phải nghĩ vì 79 tuổi và nứt đã mạn (ACPGBI 2023, mục Diagnosis), nên có kế hoạch sinh thiết nếu không lành. Ung thư đại – trực tràng: nguồn máu rõ, không dấu báo động, hẹn nội soi khi máu dai dẳng hoặc thiếu máu (ASCRS 2024, khuyến cáo 2).",
+     "Cấp hay mạn: dưới 6 tuần cấp, từ 6 tuần mạn (ASCRS 2023; ACPGBI 2023, mục Definitions). Bà khoảng 10 tuần, đã mạn; tỉ lệ lành với điều trị không phẫu thuật giảm theo thời gian: 100% khi triệu chứng dưới 1 tháng, 33,3% khi trên 6 tháng (ASCRS 2023). Mất 5 tuần ở tuyến trước (gán 'trĩ', không nhìn hậu môn) là điểm gãy chính trong chuỗi. AGA 2026 (BPA 1) nhắc đau nhói khi đi cầu thường là nứt.",
+     "Ghi chú áp dụng (≥ 75 tuổi): ASCRS 2023 và ACPGBI 2023 xây dựng chủ yếu từ nghiên cứu người lớn nói chung; ASCRS 2023 chỉ tìm người trưởng thành, không có phần riêng cho ≥ 75 tuổi; ACPGBI 2023 chỉ nhắc người cao tuổi dễ có nguyên nhân khác. Khuyến cáo riêng nứt kẽ cho ≥ 75 tuổi: không có trong tài liệu đã tải. Ca vì thế chọn bước an toàn, không thủ thuật, theo dõi sát.",
+     "Nhiễu cần gỡ: đau bụng dưới (thực ra rặn và ứ phân), mất ngủ (do lo, không do đau), 'trĩ' của tuyến trước (neo chẩn đoán; AGA 2026, BPA 1), paracetamol khoảng 3 g/ngày (che đau; QĐ 361/2014, Phụ lục NSAID, mục 3.3), sụt 1 kg và chảy máu ở người 79 tuổi (gợi ung thư nhưng giải thích được và có kế hoạch B; ASCRS 2024, khuyến cáo 2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Nứt mạn: thuốc bôi đầu tay diltiazem 2% hoặc GTN 0,4% trong 2 tháng (ACPGBI 2023, khuyến cáo 5; ASCRS 2023, khuyến cáo 2–3). Ở bà 79 tuổi gầy, nghiêng diltiazem vì ít đau đầu hơn (RR 0,15; ACPGBI 2023); GTN đau đầu ở ít nhất 30% và bỏ thuốc tới 20% (ASCRS 2023). Hai nguồn khác mức ưu tiên chứ không đối lập; hạ huyết áp khi bôi GTN ở người cao tuổi: không có trong tài liệu đã tải.",
+     "Phối hợp: làm mềm phân bằng macrogol 17 g/ngày (AGA-ACG 2023, khuyến cáo 2, Bảng 4), xơ 20–30 g/ngày hoặc ít nhất 30 g/ngày tùy nguồn (AGA-ACG 2023, Bảng 4; ACPGBI 2023, khuyến cáo 2), ngâm hậu môn (ACPGBI 2023, khuyến cáo 3), thói quen đi cầu (khuyến cáo 4). Chế độ ăn một mình ít có tác dụng ở nứt mạn có sẹo (ACPGBI 2023, khuyến cáo 2).",
+     "Ngưng kem trĩ có corticoid (ASCRS 2024, khuyến cáo 4), giảm paracetamol dưới 3 g/ngày (QĐ 361/2014, Phụ lục NSAID, mục 3.3; người lớn chung tối đa 4 g/ngày, Phụ lục thuốc giảm đau, mục 3.1).",
+     "Vì sao chưa chuyển hay mổ: chưa thử thuốc bôi; nếu thất bại sau 2 tháng thì xem lại tuân thủ, đại tiện, chẩn đoán khác (ACPGBI 2023, khuyến cáo 6), rồi botulinum toxin ở phụ nữ (ACPGBI 2023, khuyến cáo 8) hoặc cắt cơ thắt có chọn lọc (ASCRS 2023, khuyến cáo 5–6). Hai nguồn nghiêng khác nhau ở phụ nữ có sinh nở; cả hai đều chấp nhận (sổ mâu thuẫn, TH-1478 mục 3).",
+     "An toàn: dặn dấu hiệu quay lại sớm, hẹn 4 tuần (mốc của ca, không có trong tài liệu đã tải), đưa chị Bé cùng nghe để nhắc ngâm nước và thuốc; trấn an có điều kiện (chưa soi, chưa sinh thiết; ACPGBI 2023, khuyến cáo 6)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Diltiazem 2% thuốc bôi (cream hoặc ointment) – chọn một trong hai thuốc bôi",
+      "ham_luong": "2% (chế phẩm có trong nước: không có trong tài liệu đã tải)",
+      "lieu": "Bôi lớp mỏng quanh bờ hậu môn và ống hậu môn; lượng và số lần bôi mỗi ngày: không có trong tài liệu đã tải",
+      "duong": "Bôi ngoài",
+      "thoi_diem": "Sau khi ngâm và lau khô",
+      "so_ngay": "2 tháng (8 tuần)",
+      "ghi_chu": "ACPGBI 2023, khuyến cáo 5 (trang 2427–2428); ASCRS 2023, khuyến cáo 3 (1B). Ngứa tại chỗ gặp 13,6% (ACPGBI 2023). Diltiazem không được cấp phép cho đau hậu môn ở hầu hết các nước (ACPGBI 2023)."
+     },
+     {
+      "thuoc": "Glyceryl trinitrate (GTN) 0,4% thuốc bôi – thay cho diltiazem nếu có sẵn",
+      "ham_luong": "0,4%",
+      "lieu": "Lượng và số lần bôi: không có trong tài liệu đã tải",
+      "duong": "Bôi ngoài",
+      "thoi_diem": "Sau khi ngâm và lau khô",
+      "so_ngay": "2 tháng",
+      "ghi_chu": "ACPGBI 2023, khuyến cáo 5; ASCRS 2023, khuyến cáo 2 (1B): đau đầu ít nhất 30%, phải ngưng tới 20%; liều 0,4% đau đầu nặng 24%, không lành hơn liều thấp (ASCRS 2023). Ở bà có thể đau đầu nên nghiêng diltiazem."
+     },
+     {
+      "thuoc": "Macrogol 3350 (PEG) gói bột pha uống",
+      "ham_luong": "Tương đương 17 g PEG/gói (quy đổi theo nhãn chế phẩm trong nước: không có trong tài liệu đã tải)",
+      "lieu": "17 g × 1 lần/ngày, hòa một cốc nước; giảm nếu phân lỏng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng đều, đánh giá lại sau 4 tuần",
+      "ghi_chu": "AGA-ACG 2023, khuyến cáo 2, Bảng 4 (17 g/ngày, đáp ứng bền tới 6 tháng); ACPGBI 2023, khuyến cáo 2. Tác dụng phụ: chướng bụng, phân lỏng, đau quặn."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên mỗi lần khi đau, cách nhau ít nhất 6 giờ; tổng dưới 3 g mỗi ngày (không quá 5 viên 500 mg/ngày), không uống đều đặn 6 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Khi cần, dùng thưa; giảm dần khi ngâm và thuốc bôi có tác dụng",
+      "ghi_chu": "ACPGBI 2023, khuyến cáo 3; QĐ 361/2014 Phụ lục NSAID mục 3.3 (người cao tuổi gầy < 3 g/ngày), Phụ lục thuốc giảm đau mục 3.1 (tối đa 4 g/ngày người lớn chung)."
+     },
+     {
+      "thuoc": "Lidocaine gel/kem bôi tại chỗ (tùy chọn)",
+      "ham_luong": "Nồng độ: không có trong tài liệu đã tải",
+      "lieu": "Lớp mỏng quanh bờ hậu môn; số lần/ngày: không có trong tài liệu đã tải",
+      "duong": "Bôi ngoài",
+      "thoi_diem": "Trước khi đi cầu khi đau nhói",
+      "so_ngay": "Dùng thưa, ngưng khi hết đau",
+      "ghi_chu": "ACPGBI 2023, khuyến cáo 3; kém hơn chất xơ + ngâm (ASCRS 2023, khuyến cáo 1)."
+     },
+     {
+      "thuoc": "Kem bôi trĩ chứa hydrocortison (đang dùng)",
+      "ham_luong": "Theo nhãn chị Bé chụp",
+      "lieu": "Ngưng",
+      "duong": "Bôi ngoài",
+      "thoi_diem": "Ngưng ngay",
+      "so_ngay": "Không dùng tiếp",
+      "ghi_chu": "ASCRS 2024, khuyến cáo 4 (dùng lâu gây mẫn cảm, không lợi ích dài hạn); ASCRS 2023, khuyến cáo 1. Viêm da quanh hậu môn: thuốc điều trị cụ thể không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Đây là vết rách ở hậu môn do phân cứng, không phải ung thư như ông; vì chưa soi và chưa sinh thiết nên vẫn hẹn lại, và nếu không lành sẽ kiểm tra kỹ hơn (ACPGBI 2023, khuyến cáo 6).",
+     "Đi cầu ngay khi buồn, không nhịn, không rặn hay ngồi nhà vệ sinh lâu; lau nhẹ, giữ sạch khô, không dùng khăn ướt (ACPGBI 2023, khuyến cáo 4).",
+     "Ăn thêm rau, trái cây, ngũ cốc nguyên hạt (xơ 20–30 g/ngày, AGA-ACG 2023, Bảng 4; hoặc ít nhất 30 g/ngày, ACPGBI 2023, khuyến cáo 2); uống nước đều cả ngày. Bữa thịt, cá vẫn được, nhưng đi kèm rau.",
+     "Ngâm hậu môn nước ấm sau mỗi lần đi cầu; nhờ chị Bé đun nước chiều tối (ACPGBI 2023, khuyến cáo 3).",
+     "Bôi thuốc đủ 2 tháng dù đã hết đau; nếu đau đầu nhiều khi bôi thì báo lại để đổi thuốc (ACPGBI 2023, khuyến cáo 5–6).",
+     "Paracetamol chỉ khi đau, tổng dưới 3 g/ngày (QĐ 361/2014, Phụ lục NSAID, mục 3.3); ngưng kem trĩ cũ (ASCRS 2024, khuyến cáo 4). Ngủ không được vì lo thì nói lại với bác sĩ, đừng uống thêm thuốc giảm đau để ngủ.",
+     "Quay lại sớm nếu đau tăng dữ dội, hậu môn sưng nóng hay có mủ, sốt, chảy máu nhiều, phân đen, bụng chướng hoặc 5 ngày không đi cầu (các dấu hiệu và ngưỡng 5 ngày là lựa chọn của ca, không có trong tài liệu đã tải).",
+     "Hẹn tái khám sau 4 tuần (mốc của ca, không có trong tài liệu đã tải); mang theo tuýp thuốc đang bôi."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Mận làm theo kế hoạch: chị Bé đun nước ngâm mỗi tối, bà uống macrogol, bôi diltiazem 2% đủ 8 tuần, ngưng kem trĩ cũ, giảm paracetamol. Sau 4 tuần đau giảm rõ, bà ngủ được; sau 8 tuần vết nứt liền, bà tăng 1,5 kg và đi chợ trở lại. Kết cục lành này là tình tiết của ca: ở tuần 8 chỉ khoảng một nửa số người lành với diltiazem (52,3%; ACPGBI 2023, khuyến cáo 5) nên nếu chưa lành phải xét tuân thủ rồi khám dưới gây tê, sinh thiết và botulinum hoặc cắt cơ thắt (ACPGBI 2023, khuyến cáo 6–8). Chuỗi gãy được truy nguyên: bà ngại kể và chỉ nói 'đau bụng, mất ngủ'; tuyến trước nghe 'đi cầu ra máu' rồi gán 'trĩ', không nhìn hậu môn, trong khi đau nhói khi đi cầu thường là nứt (AGA 2026, BPA 1) và chảy máu hậu môn không mặc định do trĩ (ASCRS 2024, khuyến cáo 2); paracetamol 3 g/ngày che đau. Hệ quả có từ trước buổi khám này: nứt cấp thành mạn (cơ hội lành bằng điều trị không phẫu thuật giảm từ 100% khi dưới 1 tháng còn 33,3% khi trên 6 tháng; ASCRS 2023), viêm da do kem, sụt 1 kg và 10 tuần sợ ung thư. Bỏ sót một lần nhìn hậu môn tốn của bà hơn 2 tháng.",
+ "nhieu": [
+  "Kể lể lộn xộn: đám giỗ, giá rau, cháu ở Sài Gòn che mất triệu chứng hậu môn; bà chỉ nói 'đau bụng dưới' và 'mất ngủ'. Bác sĩ phải cắt lời nhẹ, hỏi từng ý, mốc thời gian, rồi hỏi riêng chuyện đi cầu.",
+  "Nhãn 'trĩ' của tuyến trước và tuýp kem trĩ: dễ neo vào 'trĩ' hoặc chỉ dặn dùng tiếp; thực ra chưa ai nhìn hậu môn, nhãn chẩn đoán cũ không đáng tin (AGA 2026, BPA 1; ASCRS 2024, khuyến cáo 2).",
+  "Paracetamol 3 g/ngày: bà coi là thuốc lành, dễ bị bỏ qua; thực ra chạm trần của người gầy cao tuổi (QĐ 361/2014, Phụ lục NSAID, mục 3.3) và che tín hiệu đau.",
+  "Sụt 1 kg, chảy máu và chồng mất vì bệnh ruột ở người 79 tuổi gợi ung thư đại – trực tràng: giải thích được bằng nứt và ăn ít vì sợ đi cầu; vẫn có kế hoạch B (nội soi, sinh thiết) nếu máu dai dẳng, thiếu máu hay nứt không lành."
+ ],
+ "bai_hoc_bien": [
+  "Người kể lộn xộn: không cắt ngang thô bạo; hỏi từng câu ngắn, có mốc thời gian, tóm tắt lại để chốt ý, rồi hỏi riêng về đi cầu.",
+  "Tâm lý giấu sau triệu chứng: hỏi nhẹ 'bà lo nhất điều gì, trong nhà có ai từng bị bệnh giống vậy không'. Nỗi sợ ung thư như người thân là động cơ thật làm bà mất ngủ và giấu triệu chứng.",
+  "Yếu tố khởi phát: bữa cỗ nhiều thịt ít rau, ít nước, rặn phân cứng, sau đó nhịn đi cầu vì sợ đau thành vòng xoắn.",
+  "Nhãn 'trĩ' tuyến trước không thay cho việc nhìn hậu môn: đau nhói khi đi cầu thường là nứt, chảy máu hậu môn không mặc định do trĩ; kem corticoid dùng lâu gây mẫn cảm.",
+  "Nứt kẽ ở người ≥ 75 tuổi: vẫn phải nghĩ ung thư, Crohn, lao, áp xe/rò; vị trí điển hình thì điều trị trước, không lành sau đợt đủ thì khám dưới gây tê và sinh thiết.",
+  "Điểm gãy trong chuỗi: ngại kể, không nhìn hậu môn, tự uống paracetamol che đau. Hệ quả đã xảy ra trước buổi khám (nứt thành mạn), không phải do quyết định hôm nay."
+ ],
+ "diem_nho": [
+  "Nứt cấp dưới 6 tuần, mạn từ 6 tuần (có mẩu da thừa, sợi cơ thắt lộ ở đáy); giữa sau chiếm 73%; lệch bên hoặc nhiều chỗ nghĩ Crohn, lao, giang mai, HIV, ung thư (ASCRS 2023; ACPGBI 2023, mục Definitions).",
+  "Nứt mạn: diltiazem 2% hoặc GTN 0,4% trong 2 tháng; diltiazem ít đau đầu hơn (RR 0,15), lành 52,3% so với 63,6% ở tuần 8 (ACPGBI 2023, khuyến cáo 5; ASCRS 2023, khuyến cáo 2–3).",
+  "Đau nhói khi đi cầu hoặc khi thăm trực tràng gợi nứt; nứt và trĩ cùng có ở tới 20%, nứt điều trị trước (AGA 2026, BPA 1).",
+  "Chảy máu hậu môn không mặc định do trĩ; kem có steroid dùng lâu gây mẫn cảm (ASCRS 2024, khuyến cáo 2 và 4).",
+  "Paracetamol ở người cao tuổi gầy dưới 3 g/ngày; người lớn chung tối đa 4 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1).",
+  "Khi chưa lành: xét tuân thủ, đại tiện, đủ thời gian, chẩn đoán khác; khám dưới gây tê và sinh thiết (ACPGBI 2023, khuyến cáo 6); phụ nữ: botulinum (ACPGBI 2023, khuyến cáo 8), cắt cơ thắt cho người chọn lọc (ASCRS 2023, khuyến cáo 5–6)."
+ ],
+ "nguon": [
+  "ASCRS 2023 – Clinical Practice Guidelines for the Management of Anal Fissures (Dis Colon Rectum 2023;66:190–199) – TL-0210 – Statement of the Problem, khuyến cáo 1–6",
+  "ACPGBI 2023 – Guideline on the management of anal fissure (Colorectal Dis 2023;25:2423–2457) – TL-0211 – mục Definitions, Diagnosis, khuyến cáo 1–8 (trang 2427–2429)",
+  "AGA 2026 – Clinical Practice Update on Hemorrhoids – TL-0183 – BPA 1, BPA 4",
+  "ASCRS 2024 – Clinical Practice Guidelines for the Management of Hemorrhoids – TL-0205 – khuyến cáo 1, 2, 4",
+  "ACPGBI/BSG 2022 – FIT in patients with signs or symptoms of suspected colorectal cancer – TL-0214 – khuyến cáo 9, 13",
+  "AGA-ACG 2023 – Pharmacological management of chronic idiopathic constipation – TL-0208 – khuyến cáo 1, 2, 5 và Bảng 4",
+  "BYT QĐ 361/2014 – bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1",
+  "Không có trong tài liệu đã tải: khuyến cáo riêng cho nứt kẽ ở người ≥ 75 tuổi; lượng và số lần bôi diltiazem, GTN, lidocaine; chế phẩm diltiazem bôi trong nước; nhiệt độ và thời gian ngâm hậu môn; mức nước mL/ngày; liên hệ ăn nhiều đạm với táo bón; hạ huyết áp khi bôi GTN ở người cao tuổi; thuốc điều trị viêm da quanh hậu môn do kem steroid; công cụ sàng lọc lo âu, trầm cảm; mốc tái khám 4 tuần."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 05/11/2026. Tài liệu đã đọc: TL-0210 (ASCRS 2023: Statement of the Problem, khuyến cáo 1–6, phần bàn luận lành/đau đầu/LIS/nong), TL-0211 (ACPGBI 2023: Definitions, Diagnosis, khuyến cáo 1–8, bàn luận khuyến cáo 5–6), TL-0183 (AGA 2026: BPA 1, 4), TL-0205 (ASCRS 2024: khuyến cáo 1, 2, 4), TL-0208 (AGA-ACG 2023: khuyến cáo 1, 2, 5, Bảng 4), TL-0214 (ACPGBI/BSG 2022: khuyến cáo 9, 13), TL-0286 (QĐ 361/2014: Phụ lục NSAID 3.3).",
+  "Thiết kế: nứt mạn 10 tuần ở bà 79 tuổi, 1 lượt; khác TH-1478 (nứt cấp, 2 lượt) ở chỗ điều trị đầu tay là thuốc bôi và điểm gãy là tuyến trước gán 'trĩ' không nhìn hậu môn. Ràng buộc 'không có siêu âm' dùng khoa_cls nhom [sieu_am] (app tự khóa CT, nội soi); mọi khám hậu môn do bác sĩ tự làm. Bà đồng ý lấy máu và thăm ngón tay sau bôi tê để ca không lặp lại 'từ chối xét nghiệm' của TH-1478.",
+  "Kết cục 'biến chứng do bỏ sót': hệ quả (nứt thành mạn, viêm da do kem, lo sợ 10 tuần) có trước buổi khám; chi tiết lành sau 8 tuần là tình tiết của ca (đã nói rõ chỉ 52,3% lành ở tuần 8).",
+  "Mâu thuẫn: không có mâu thuẫn mới. Dùng đúng các mục sổ: thuốc bôi diltiazem/GTN, chất xơ, botulinum hay cắt cơ thắt ở phụ nữ (TH-1478), soi hậu môn và nội soi đại tràng (TH-0970), paracetamol dưới 3 g/ngày (TH-0295), bisacodyl (TH-0870).",
+  "Thiếu tài liệu: không có khuyến cáo riêng ≥ 75 tuổi (đã có ghi chú áp dụng); liều bôi chi tiết (đã ghi rõ không có)."
+ ]
+}
