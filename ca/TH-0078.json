@@ -1,0 +1,851 @@
+{
+ "ma_ca": "TH-0078",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_kho_tieu_chuc_nang",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Khó tiêu chức năng",
+  "chan_doan_phai_loai_tru": [
+   "Loét dạ dày-tá tràng",
+   "Ung thư dạ dày"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Hưu trí",
+  "yeu_to_khoi_phat": "Sau uống nước không sạch",
+  "thuoc_dang_dung": "Tự truyền dịch tại nhà",
+  "ly_do_that_su_den_kham": "Muốn được nghỉ khỏi công việc"
+ },
+ "benh_nhan": {
+  "ten": "Lư Thị Mận",
+  "tuoi": 82,
+  "gioi": "Nữ",
+  "nghe": "Giáo viên mầm non hưu trí",
+  "can_nang": 44,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ' hoặc 'cháu'. Chị Kim Chi xưng 'tôi', gọi mẹ là 'mẹ', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Bà Mận nói nhỏ, chậm, ít than, ngồi im khi con gái nói thay, nhìn con trước khi trả lời. Hay lo cho con cháu, sợ làm phiền, sợ nội soi và lấy máu. Chị Từ Thị Kim Chi, 54 tuổi, bán tạp hóa, nhanh nhảu, thương mẹ nhưng hay đáp thay, hay nói 'mẹ không sao đâu', không biết mẹ nhờ bà Tư truyền dịch.",
+  "kieu_nhieu": "Thân nhân trả lời thay: chị Kim Chi trả lời trước mọi câu hỏi, kể cả những câu hỏi chỉ bà biết (số viên uống, truyền dịch, tâm trạng). Bác sĩ phải hướng câu hỏi thẳng cho bà, hoặc mời chị ra ngoài một lát, thì bà mới kể thật.",
+  "nguoi_nha": "Con gái",
+  "ten_nguoi_nha": "Chị Từ Thị Kim Chi",
+  "ngoai_hinh": {
+   "da": "#e2bb98",
+   "toc": "#d8d6d2",
+   "kieuToc": "ngan",
+   "ao": "#9aa7b8",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#dcae88",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#c78a7e",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đầy bụng, ăn mau no nhiều tháng",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Lư Thị Mận, 82 tuổi, giáo viên mầm non hưu trí, tăng huyết áp uống amlodipin. Con gái là chị Từ Thị Kim Chi đưa đến lúc 8 giờ sáng và nói thay mẹ gần như suốt buổi; bà ngồi im, tay ôm túi vải. Vì đầy bụng, ăn mau no nhiều tháng. Bà đã nói trước với điều dưỡng Linh là không lấy máu, không nội soi. Sinh hiệu: HA 138/78 mmHg, mạch 76 l/p, nhiệt 36,7 °C, nhịp thở 18 l/p, SpO₂ 96%. Cân nặng 44 kg, cao 150 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện cho bà Mận 82 tuổi vì khó tiêu không báo động là không cần: không nôn máu, không phân đen, không sụt cân quá 10%, sinh hiệu ổn (VNAGE 2024 KC 2); nội soi làm ngoại trú được. Bà rời khỏi nhịp sinh hoạt quen thuộc, tốn chi phí, con cháu phải thay phiên chăm; bà vốn sợ nội soi nên dễ ký giấy rồi xin về giữa chừng. Nguy cơ của người cao tuổi nằm viện không có trong tài liệu đã tải.",
+    "chuyen_tuyen": "Chuyển bà lên bệnh viện tỉnh nội soi ngay hôm nay là quá tay: không có dấu báo động (VNAGE 2024 KC 2), nội soi theo hẹn là đủ (VNAGE 2024 KC 1). Bà đã nói rõ không nội soi: ép đi ngay có thể làm bà bỏ cuộc, không quay lại tái khám, mất lòng tin; chi phí đi lại tốn kém cho gia đình."
+   },
+   "loi_mo": "Chào bác sĩ. Mẹ tôi đầy bụng, ăn không được mấy tháng nay. Bà không sao đâu, tuổi già mà, tôi đưa đi cho yên tâm thôi.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/78",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị Kim Chi nói thay mẹ: bà đầy bụng, ăn mau no, thỉnh thoảng nóng rát phía trên rốn đã mấy tháng, ba tuần nay nặng hơn. Chị đưa mẹ đi khám 'cho yên tâm'. Bà ngồi im, thỉnh thoảng gật đầu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "thoi_gian",
+     "noi_dung": "Hỏi bà trực tiếp: ăn vài thìa cơm là no, tức nặng vùng thượng vị sau ăn chừng một tiếng, ợ hơi, thỉnh thoảng nóng rát nhẹ; đã khoảng 8 tháng, lúc nhiều lúc ít. Không thức giấc vì đau, không đau tăng khi gắng sức.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm khó tiêu, thời gian > 6 tháng (tiêu chuẩn Rome)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ba tuần trước bà uống nước giếng chưa đun sôi ở đám giỗ nhà họ hàng, hôm sau đi ngoài phân lỏng 2 ngày, không sốt, không máu, tự hết. Từ đó đầy bụng, ăn mau no nặng hơn trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: uống nước không sạch"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không nôn ra máu, không đi cầu phân đen, không nuốt nghẹn hay nuốt đau, không nôn nhiều (chỉ buồn nôn nhẹ), không vàng da, không sờ thấy khối. Chưa từng thử máu thiếu máu. Gia đình không ai bị ung thư dạ dày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "can_nang",
+     "noi_dung": "Cân nặng 6 tháng trước 46 kg, hôm nay cân ở phòng khám 44 kg (giảm khoảng 4%). Bà bảo 'già thì gầy', ăn ít vì mau no.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sụt cân (dưới ngưỡng 10%)"
+    },
+    {
+     "id": "nsaid_khong",
+     "noi_dung": "Không uống thuốc giảm đau xương khớp, không aspirin, không corticoid, không sắt, không uống rượu, không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ thuốc gây khó tiêu"
+    },
+    {
+     "id": "amlodipin",
+     "noi_dung": "Tăng huyết áp nhiều năm, uống amlodipin 5 mg mỗi sáng, huyết áp ở nhà khoảng 130–140. Không đái tháo đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (chẹn kênh canxi)"
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Từ hai tháng nay bà Tư hàng xóm (y tá về hưu) sang truyền cho bà mỗi tuần một chai 'nước biển bổ sức', có tiêm thêm một ống thuốc trong, bà không biết tên, vì 'mệt, không có sức'. Bốn lần rồi. Chị Kim Chi không biết chuyện này.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì bà chỉ kể amlodipin. Chỉ kể khi bác sĩ hỏi cụ thể có truyền, tiêm thuốc hay dùng thuốc ở ngoài không, nhất là khi hỏi riêng bà hoặc khám thấy vết kim.",
+     "y": "Tự truyền dịch tại nhà"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Bà từ chối lấy máu ('rút máu là mất sức'), từ chối nội soi ('đút ống vào cổ họng tôi chịu không nổi, chết giữa chừng'), từ chối thăm trực tràng. Bà đồng ý đo điện tim, siêu âm bụng, đưa mẫu phân và thở test nếu bác sĩ giải thích rõ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Quyền từ chối xét nghiệm và phương án thay thế"
+    },
+    {
+     "id": "nguoi_nha_tra_loi",
+     "noi_dung": "Chị Kim Chi liên tục trả lời thay: 'mẹ không sao đâu bác sĩ, già thì ăn ít', 'mẹ không uống thuốc gì ngoài thuốc huyết áp'. Khi bác sĩ hỏi thẳng bà, bà mới nói thêm và nhìn con gái trước khi trả lời.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thân nhân trả lời thay: tách riêng bệnh nhân"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Bà là giáo viên mầm non đã nghỉ hưu 22 năm. Nhà có 8 người; con dâu đi làm cả ngày nên mỗi ngày bà trông hai cháu (5 và 2 tuổi) và nấu hai bữa cho cả nhà. Bà kể ngắn gọn, không than.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hoàn cảnh sinh hoạt hằng ngày"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Điều bà thật sự mong: bác sĩ nói bà 'bệnh phải nghỉ ngơi', để cả nhà thôi nhờ bà trông cháu và nấu cơm. Bà không dám tự nói vì sợ con dâu phật ý. Không hề muốn nhập viện.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng bà một ngày của bà như thế nào và bà mong điều gì nhất ở buổi khám, và bác sĩ tỏ ra lắng nghe không phán xét.",
+     "y": "Động cơ thật: muốn được nghỉ việc nhà"
+    },
+    {
+     "id": "ky_sinh",
+     "noi_dung": "Nhà ở nông thôn, đi chân đất trong vườn; nhiều năm chưa tẩy giun.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng phẳng mềm, ấn đau nhẹ âm ỉ vùng thượng vị, không phản ứng thành bụng, không sờ thấy khối, gan lách không to, gõ không cổ trướng.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Bà gầy (44 kg, cao 150 cm), tỉnh, niêm mạc mắt hồng nhạt, không vàng da, không hạch thượng đòn, lưỡi hơi khô.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      }
+     ]
+    },
+    "da": {
+     "a": "Mu bàn tay và cẳng tay phải có ba vết bầm tím nhạt cũ, nhỏ, ở vị trí chọc kim; không sưng, nóng, đỏ, không mủ.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, tuyến giáp không to.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Bà từ chối thăm trực tràng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 76 l/p, trục bình thường, không biến đổi ST–T.",
+     "n": "Bà 82 tuổi, đau nóng thượng vị: loại trừ bệnh mạch vành nhẹ nhàng, không xâm lấn. Tài liệu khó tiêu đã tải không nêu ECG; theo ESC 2023 mục 3.1.1 triệu chứng thượng vị có thể là tương đương đau ngực."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Bà từ chối lấy máu ('rút máu là mất sức'). Không có kết quả.",
+     "n": "VNAGE 2024 KC 4 khuyên công thức máu, sinh hóa; thiếu máu là dấu báo động (VNAGE 2024 KC 2). Bà từ chối: ghi hồ sơ, đề nghị lại khi tái khám."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Bà từ chối lấy máu. Không có kết quả.",
+     "n": "VNAGE 2024 KC 4. Còn quan trọng vì bà đang truyền dịch tự ý; thiếu kết quả nên theo dõi lâm sàng."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Bà từ chối lấy máu. Không có kết quả.",
+     "n": "VNAGE 2024 KC 4."
+    },
+    "liver": {
+     "v": "a",
+     "r": "Bà từ chối lấy máu. Không có kết quả.",
+     "n": "VNAGE 2024 KC 4 (sinh hóa gan)."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Gan không to, đường mật không giãn, túi mật không sỏi, tụy thấy rõ không to, không dịch ổ bụng, không khối bất thường.",
+     "n": "Siêu âm bụng: VNAGE 2024 KC 4 khuyên làm; Rome V (Clinical Evaluation) không ủng hộ hình ảnh thường quy; ACG-CAG 2017 gợi ý cho người lớn tuổi. Bà đồng ý vì không đau, không lấy máu: chấm a, hẹn hay không đều không trừ điểm."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "Không thấy trứng giun, ký sinh trùng; hồng cầu, bạch cầu không có.",
+     "n": "VNAGE 2024 KC 4 nhấn mạnh soi phân tìm ký sinh trùng ở Việt Nam (Giardia, giun lươn); bà vừa uống nước giếng chưa đun."
+    },
+    "hp_phan": {
+     "v": "a",
+     "r": "Kháng nguyên H. pylori trong phân: âm tính. (Bà chưa dùng kháng sinh, bismuth, PPI trong 4 tuần qua.)",
+     "n": "Theo mục đã có trong sổ mâu thuẫn (TH-0103): làm test không xâm lấn khi không nội soi, HOẶC urease nhanh lúc nội soi. Bà từ chối nội soi nên test này là lựa chọn chính. VNAGE 2024 KC 3; VNAGE 2023 Statement 5, 6 (kiêng PPI ≥ 2 tuần, kháng sinh/bismuth ≥ 4 tuần)."
+    },
+    "hp_ubt": {
+     "v": "a",
+     "r": "Test thở urê 13C: âm tính.",
+     "n": "VNAGE 2023 Statement 5: ưu tiên test thở urê; bà chỉ cần làm một trong hai (thở urê hoặc kháng nguyên phân). Tương đương hp_phan."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "Bà từ chối nội soi: 'đút ống vào cổ họng tôi chịu không nổi'. Chưa có kết quả.",
+     "n": "Chỉ định nội soi: khó tiêu ≥ 40 tuổi (VNAGE 2024 KC 1); nữ ≥ 35 tuổi (VNAGE 2023 Statement 3); ≥ 60 tuổi (ACG-CAG 2017 Statement 1); BSG 2022 (≥ 55 tuổi nội soi không khẩn khi khó tiêu kháng trị; > 40 tuổi vùng nguy cơ cao: khẩn); Rome V (Clinical Evaluation) cho phép không nội soi khi không có dấu báo động. Mọi nguồn trừ Rome V cùng hướng nội soi (đã có trong sổ mâu thuẫn). Không dấu báo động nên không cấp cứu."
+    },
+    "ct_bung": {
+     "n": "Không cần: không có khối, không sụt cân > 10%; hình ảnh không thường quy (Rome V, Clinical Evaluation)."
+    },
+    "echo": {
+     "n": "Không cần."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khó tiêu chưa thăm dò, nghĩ nhiều khó tiêu chức năng thể hội chứng căng tức sau ăn (PDS) ở bà 82 tuổi: tiêu chuẩn Rome đã đủ (đầy sau ăn, mau no, > 6 tháng), chưa có dấu báo động; nội soi bị từ chối nên CHƯA loại trừ hoàn toàn thực thể",
+     "ok": 1,
+     "n": "Rome V mục B1, B1a: đầy sau ăn hoặc mau no gây khó chịu, triệu chứng 3 tháng gần đây, khởi phát ≥ 6 tháng trước chẩn đoán, không có bệnh thực thể giải thích. VNAGE 2024 KC 5: chẩn đoán theo tiêu chuẩn Rome sau hỏi bệnh, khám và xét nghiệm cần thiết. Khởi phát sau nhiễm khuẩn tiêu hóa có thể là khó tiêu sau nhiễm khuẩn (Rome V, phần Pathophysiology), nhưng ở ca này triệu chứng có từ trước đó 5 tháng."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng",
+     "n": "Không đau đói về đêm, không nôn máu, phân đen, Hb chưa đo được. Chỉ khẳng định hoặc loại trừ bằng nội soi; H. pylori âm tính, không dùng NSAID giảm khả năng nhưng không loại trừ (VNAGE 2024 KC 1, 2)."
+    },
+    {
+     "t": "Ung thư dạ dày",
+     "n": "Không dấu báo động theo VNAGE 2024 KC 2 (không xuất huyết, không sụt cân > 10%, không nôn dai dẳng, không nuốt nghẹn, không khối, không tiền sử gia đình); nhưng 82 tuổi, đã sụt 4% cân: vẫn thuộc chỉ định nội soi theo tuổi (KC 1) và chưa loại trừ được vì bà từ chối."
+    },
+    {
+     "t": "Khó tiêu do thuốc (amlodipin – chẹn kênh canxi)",
+     "n": "Chẹn kênh canxi nằm trong danh mục thuốc liên quan khó tiêu (VNAGE 2024 Bảng 2). Bà dùng amlodipin nhiều năm, triệu chứng mới 8 tháng: ít nghĩ, không có tài liệu đã tải nói cần đổi thuốc; giữ nguyên, xem lại nếu sau nội soi vẫn không giải thích được."
+    },
+    {
+     "t": "Nhiễm H. pylori / ký sinh trùng đường ruột",
+     "n": "Kháng nguyên H. pylori trong phân và test thở urê âm tính; soi phân không có ký sinh trùng (VNAGE 2024 KC 3, 4)."
+    },
+    {
+     "t": "Viêm dạ dày – ruột cấp sau uống nước không sạch",
+     "n": "Đã tự hết sau 2 ngày, không sốt, không máu; soi phân không bạch cầu."
+    },
+    {
+     "t": "Bệnh đường mật – túi mật",
+     "n": "Siêu âm bụng không sỏi, không giãn đường mật (VNAGE 2024 Bảng 1 ghi sỏi mật, rối loạn cơ vòng Oddi trong chẩn đoán phân biệt)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Mời chị Kim Chi ngồi ngoài một lát hoặc hỏi thẳng bà; nghe bà kể, trấn an từ buổi khám đầu",
+     "v": "c",
+     "n": "Rome IV/V và VNAGE 2024 (bàn luận KC 7): xây quan hệ thầy thuốc – bệnh nhân bằng lắng nghe, trấn an ngay lần khám đầu giúp tăng tuân thủ. Việc tách riêng người nhà trả lời thay là nhận xét biên tập, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chẩn đoán dự kiến khó tiêu chức năng thể PDS, chưa có dấu báo động; nói rõ chưa loại trừ loét hay ung thư vì chưa nội soi",
+     "v": "c",
+     "n": "Rome V mục B1a; VNAGE 2024 KC 2, 5."
+    },
+    {
+     "t": "Giải thích vì sao nên nội soi (82 tuổi), tôn trọng việc bà từ chối, ghi nhận từ chối vào hồ sơ, viết sẵn giấy giới thiệu nội soi bệnh viện tỉnh để bà tự quyết định khi sẵn sàng; không ép, không dọa",
+     "v": "c",
+     "n": "Nội soi khi ≥ 40 tuổi (VNAGE 2024 KC 1; VNAGE 2023 Statement 3; ACG-CAG 2017 Statement 1; BSG 2022 Box 1); Rome V cho phép không nội soi nếu không dấu báo động: ghi cả hai, không chọn. Ghi hồ sơ từ chối và tôn trọng quyết định là nhận xét biên tập, không có trong tài liệu đã tải. Thời hạn nội soi theo hẹn không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xác định tình trạng H. pylori bằng test không xâm lấn (thở urê 13C hoặc kháng nguyên phân) trước khi dùng thuốc dạ dày, HOẶC urease nhanh nếu sau này nội soi",
+     "v": "c",
+     "n": "VNAGE 2024 KC 3; VNAGE 2023 Statement 3–6 (kiêng PPI ≥ 2 tuần, kháng sinh/bismuth ≥ 4 tuần); Rome V (Clinical Evaluation): xác định H. pylori ở mọi người khó tiêu. BSG 2022 (test-and-treat), ACG-CAG 2017 (< 60 tuổi test không xâm lấn, ≥ 60 nội soi): cùng hướng cho bà vì chưa dùng PPI. Ghi theo mục TH-0103 trong sổ mâu thuẫn."
+    },
+    {
+     "t": "Itopride 50 mg × 3 lần/ngày điều trị thử 8 tuần rồi đánh giá lại (thuốc vận động ưu tiên cho thể PDS)",
+     "v": "c",
+     "n": "VNAGE 2024 KC 10, 11, Bảng 5 (liều 50 mg × 3). Đồng thuận châu Á 2026 Statement 26 cho rằng lợi ích so với giả dược không lặp lại ở pha 3: ghi cả hai; theo mục itopride đã có trong sổ mâu thuẫn, vẫn chấm c. Chống chỉ định và tương tác của itopride, cách dùng so với bữa ăn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc ức chế bơm proton liều chuẩn (omeprazol 20 mg/ngày) thay cho hoặc thêm vào thuốc vận động",
+     "v": "a",
+     "n": "VNAGE 2024 KC 7, Bảng 4 (20 mg); mốc ngừng nếu không đáp ứng: Rome V 4–8 tuần, VNAGE 2024 KC 8 là 8 tuần, Đồng thuận châu Á 2026 Statement 23 là 12 tuần (ghi cả ba, theo mục TH-0083 trong sổ mâu thuẫn). AGS Beers 2023 Bảng 2: tránh PPI cố định > 8 tuần ở người ≥ 65 tuổi trừ nhóm nguy cơ cao (theo mục TH-0162). Không tăng gấp đôi liều (VNAGE 2024 KC 7)."
+    },
+    {
+     "t": "Dừng ngay việc tự truyền dịch và tiêm thuốc ở nhà; mời bà Tư không truyền nữa; hỏi kỹ tên ống thuốc",
+     "v": "c",
+     "n": "Rome V (Clinical Evaluation): ngừng thuốc và thực phẩm bổ sung không cần thiết có thể gây khó tiêu trước khi thăm dò. Không tài liệu đã tải nêu chỉ định truyền dịch cho khó tiêu (theo mục truyền dịch đã có trong sổ mâu thuẫn). Nguy cơ tại chỗ truyền (viêm tĩnh mạch, nhiễm trùng): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tư vấn ăn nhiều bữa nhỏ, tránh bữa ăn nặng; uống nước đun sôi",
+     "v": "c",
+     "n": "Rome V (Treatment): bữa nhỏ, thường xuyên; VNAGE 2024 KC 13: chế độ ăn và lối sống ảnh hưởng triệu chứng. Nước đun sôi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu báo động phải đến ngay: nôn ra máu, phân đen, nôn dai dẳng, nuốt nghẹn hoặc đau khi nuốt, sụt cân nhanh, sờ thấy khối",
+     "v": "c",
+     "n": "VNAGE 2024 KC 2 (danh sách dấu báo động, sụt cân > 10%, nôn > 10 lần/24 giờ hoặc sau mỗi bữa)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2–3 tuần, dặn mang theo thuốc và mời chị Kim Chi cùng bà đến",
+     "v": "c",
+     "n": "Đánh giá đáp ứng chính thức sau 8 tuần (VNAGE 2024 KC 11); mốc 2–3 tuần là lựa chọn của ca vì bà 82 tuổi, đang dùng thuốc mới, có hành vi tự truyền dịch: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Siêu âm bụng",
+     "v": "a",
+     "n": "VNAGE 2024 KC 4 khuyên; Rome V không ủng hộ hình ảnh thường quy; ACG-CAG 2017 gợi ý cho > 60 tuổi. Ghi cả ba, theo mục TH-0162 trong sổ mâu thuẫn."
+    },
+    {
+     "t": "Đồng ý cho bà tiếp tục truyền dịch ở nhà hoặc truyền dịch tại phòng khám 'cho khỏe'",
+     "v": "w",
+     "n": "Không có chỉ định trong tài liệu đã tải; thuốc không rõ tên; theo mục truyền dịch theo yêu cầu trong sổ mâu thuẫn chấm w. Mức tác hại cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Metoclopramid hoặc domperidon dùng kéo dài",
+     "v": "w",
+     "n": "VNAGE 2024 Bảng 5: metoclopramid tối đa 5 ngày, domperidon tối đa 1 tuần, nêu tác dụng phụ ngoại tháp; AGS Beers 2023 Bảng 2: tránh metoclopramid ở người ≥ 65 tuổi trừ liệt dạ dày."
+    },
+    {
+     "t": "Cho amitriptylin ngay từ đầu",
+     "v": "w",
+     "n": "Chưa tới bậc hai theo VNAGE 2024 KC 11 (sau 8 tuần PPI/thuốc vận động) và BSG 2022; AGS Beers 2023 Bảng 2 tránh thuốc chống trầm cảm kháng cholinergic mạnh ở ≥ 65 tuổi (theo mục TH-0162 trong sổ mâu thuẫn)."
+    },
+    {
+     "t": "Cho phác đồ diệt H. pylori theo kinh nghiệm hoặc kháng sinh vì 'nhiễm khuẩn sau uống nước bẩn'",
+     "v": "w",
+     "n": "Test H. pylori âm tính, soi phân không ký sinh trùng; diệt H. pylori khi có nhiễm (VNAGE 2024 KC 6). Không dùng kháng sinh khi không có bằng chứng nhiễm: không có tài liệu đã tải nêu chỉ định."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Khó tiêu chức năng thể hội chứng căng tức sau ăn (PDS), chẩn đoán dự kiến theo tiêu chuẩn Rome ở bà 82 tuổi",
+     "Chưa có dấu báo động; bà từ chối nội soi và xét nghiệm máu nên chưa loại trừ loét hay ung thư",
+     "Test H. pylori (thở urê và kháng nguyên phân) âm tính; soi phân không ký sinh trùng; siêu âm bụng bình thường",
+     "Yếu tố góp phần: uống nước không sạch (viêm dạ dày – ruột cấp thoáng qua), stress gia đình; tự truyền dịch tại nhà (không có chỉ định)",
+     "Bệnh kèm: tăng huyết áp dùng amlodipin"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh theo thứ tự: lý do khám (chị Kim Chi trả lời thay) → hỏi thẳng bà: đầy sau ăn, mau no, > 6 tháng → dấu báo động → thuốc (kể cả truyền dịch tại nhà) → hoàn cảnh sống. Rome V mục B1a: đầy sau ăn hoặc mau no gây khó chịu; triệu chứng 3 tháng gần đây, khởi phát ≥ 6 tháng trước chẩn đoán.",
+     "Nội soi: VNAGE 2024 KC 1 (≥ 40 tuổi), VNAGE 2023 Statement 3 (nữ ≥ 35), ACG-CAG 2017 Statement 1 (≥ 60), BSG 2022 (≥ 55 tuổi khó tiêu kháng trị làm nội soi không khẩn); Rome V cho phép không nội soi nếu không có dấu báo động. Ghi cả hai hướng: bà 82 tuổi thì mọi ngưỡng đều vượt, nên giải thích chỉ định nhưng tôn trọng việc bà từ chối.",
+     "Dấu báo động theo VNAGE 2024 KC 2 đều âm tính: không xuất huyết, sụt 4% (dưới 10%), không nôn dai dẳng, không nuốt nghẹn, không khối, không tiền sử gia đình. Thiếu máu chưa biết vì bà từ chối lấy máu: nêu rõ trong hồ sơ là chưa đánh giá được và đề nghị lại khi tái khám.",
+     "Vì sao không nghĩ do thuốc: amlodipin thuộc nhóm có thể gây khó tiêu (VNAGE 2024 Bảng 2) nhưng dùng nhiều năm; truyền dịch + một ống thuốc không rõ tên không thể loại trừ vai trò (có thể là thuốc chống nôn); giữ lại để hỏi tên thuốc lần sau.",
+     "Applicability note: nhóm ≥ 75 tuổi bị loại khỏi hầu hết thử nghiệm khó tiêu; tài liệu đã tải không có dữ liệu riêng cho nhóm này (VNAGE 2024, Rome V, BSG 2022, Đồng thuận châu Á 2026 đều viết cho người lớn nói chung)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn tái khám 2–3 tuần, chưa nhập viện, chưa chuyển cấp cứu: không có dấu báo động (VNAGE 2024 KC 2), nội soi không cấp cứu. Giấy giới thiệu nội soi viết sẵn.",
+     "Ghi hồ sơ bà từ chối nội soi và lấy máu (bà hiểu lý do, quyết định sau giải thích); phương án B: test H. pylori không xâm lấn, itopride, theo dõi sát, dặn dấu báo động. Việc ghi nhận từ chối không có trong tài liệu đã tải.",
+     "Thuốc: thể PDS nên thuốc vận động là lựa chọn đầu (VNAGE 2024 KC 10): itopride 50 mg × 3 lần/ngày (Bảng 5), đánh giá sau 8 tuần (KC 11). PPI liều chuẩn 1 lần/ngày là lựa chọn chấp nhận (KC 7); mốc ngừng PPI: Rome V 4–8 tuần, VNAGE 2024 KC 8 là 8 tuần, Đồng thuận châu Á 2026 Statement 23 là 12 tuần; Beers 2023 khuyên tránh PPI cố định > 8 tuần ở ≥ 65 tuổi. Không nguồn nào chọn một bên cho bà 82 tuổi.",
+     "Dừng truyền dịch tại nhà: không có chỉ định; hỏi tên ống thuốc; nhắc bà Tư. Metoclopramid, domperidon kéo dài và amitriptylin ngay đều không phù hợp (VNAGE Bảng 5; Beers 2023 Bảng 2).",
+     "Phần việc nhà: ghi nhận bà mệt vì trông cháu và nấu ăn; không cấp 'giấy bệnh' sai sự thật. Đây là nhận xét biên tập, không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Itopride",
+      "ham_luong": "50 mg",
+      "lieu": "50 mg × 3 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Ngày 3 lần; thời điểm so với bữa ăn không có trong tài liệu đã tải: theo tờ hướng dẫn",
+      "so_ngay": "8 tuần rồi đánh giá lại; tái khám sớm sau 2–3 tuần",
+      "ghi_chu": "VNAGE 2024 Bảng 5 (liều), KC 10, 11 (đầu tay cho PDS; đánh giá sau 8 tuần). Đồng thuận châu Á 2026 Statement 26: lợi ích so với giả dược không lặp lại ở pha 3. Chống chỉ định và tương tác: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Omeprazol (lựa chọn khác chấp nhận được, dùng thay hoặc thêm)",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng (ACG 2022 GERD KC 8); uống tối cũng chấp nhận (QĐ 361/2014)",
+      "so_ngay": "4–8 tuần (Rome V) / 8 tuần (VNAGE 2024 KC 8) / 12 tuần (châu Á 2026 Statement 23); không quá 8 tuần nếu không có nhóm nguy cơ cao (Beers 2023)",
+      "ghi_chu": "VNAGE 2024 KC 7, Bảng 4. Liều chuẩn, không tăng gấp đôi."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên/ngày như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Giữ nguyên; chẹn kênh canxi nằm trong danh mục thuốc liên quan khó tiêu (VNAGE 2024 Bảng 2), xem lại sau nội soi nếu triệu chứng kéo dài."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn truyền dịch và tiêm thuốc ở nhà; mang ống thuốc, chai dịch bà Tư dùng (nếu còn) khi tái khám.",
+     "Ăn nhiều bữa nhỏ, nhai kỹ, tránh đồ chiên mỡ; uống nước đun sôi.",
+     "Giữ giấy giới thiệu nội soi: khi bà thấy sẵn sàng thì đi; bác sĩ sẽ giải thích nội soi trước khi làm.",
+     "Đến ngay khi: nôn ra máu, phân đen, nôn nhiều, nuốt nghẹn hay đau khi nuốt, sụt cân nhanh, xanh xao mệt lả.",
+     "Tái khám sau hai đến ba tuần (mốc của ca, không có trong tài liệu đã tải), mời chị Kim Chi cùng đến; mang thuốc."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 tuần",
+   "tiep_don": "Bà Mận trở lại sau 3 tuần, chị Kim Chi đưa đến. Bà dùng thuốc theo đơn lượt trước (itopride), ngừng truyền dịch theo dặn. Vẫn đầy bụng, ăn mau no như cũ; kết quả test H. pylori (kháng nguyên phân, thở urê) âm tính, soi phân bình thường, siêu âm bụng bình thường. Chị Kim Chi nói thay mẹ. Sinh hiệu: HA 132/74 mmHg, mạch 72 l/p, nhiệt 36,6 °C, nhịp thở 18 l/p, SpO₂ 96%. Cân nặng 43,5 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho bà Mận về, tăng liều hoặc đổi thuốc khác và hẹn lại, không giới thiệu nội soi: bà 82 tuổi vẫn chưa loại trừ được loét hay ung thư dạ dày, trong khi mọi hướng dẫn đều khuyên nội soi (VNAGE 2024 KC 1, 11; BSG 2022). Việc bà nghĩ lại về nội soi và đồng ý đi lúc này là cơ hội dễ mất; thuốc đổi sớm mà bà vẫn uống 1–2 viên/ngày thì lại 'không đỡ', bà mất lòng tin; tăng gấp đôi PPI không có lợi (VNAGE 2024 KC 7).",
+    "nhap_vien": "Nhập viện cho bà Mận 'để nghỉ ngơi và truyền dịch' theo gợi ý ngầm của chị Kim Chi: không có chỉ định (không dấu báo động, VNAGE 2024 KC 2). Bà chịu cảnh nằm viện xa nhà, nội soi vẫn phải làm, chi phí tăng; bà sẽ biết rằng 'ốm' là cách để được nghỉ, củng cố hành vi xin bệnh. Nguy cơ khác của nằm viện ở người cao tuổi: không có trong tài liệu đã tải.",
+    "cap_cuu": "Gọi cấp cứu hoặc chuyển nội soi ngay trong ngày vì 'bà không đỡ' là quá tay: không xuất huyết, huyết động ổn, Hb 124 g/L, không dấu báo động (VNAGE 2024 KC 2). Bà vốn sợ nội soi, bị đưa đi gấp sẽ hoảng sợ và có thể từ chối làm, mất cả cơ hội nội soi theo hẹn."
+   },
+   "loi_mo": "Bác sĩ ơi, mẹ tôi uống thuốc ba tuần rồi mà vẫn y như cũ. Bà uống đủ ba lần mỗi ngày hà. Hay bác sĩ đổi thuốc khác, hoặc cho bà giấy nghỉ ngơi đi.",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "132/74",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị Kim Chi: mẹ uống thuốc 3 tuần rồi mà 'vẫn y như cũ', chị muốn đổi thuốc khác hoặc nhờ bác sĩ cho mẹ 'giấy bệnh' nghỉ ngơi. Chị nói bà uống thuốc đủ 3 lần mỗi ngày. Kết quả test H. pylori âm tính, soi phân bình thường đã có từ lượt trước.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám lại"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Khi chị Kim Chi ra ngoài, bà nói thật: bà chỉ uống 1–2 viên mỗi ngày, hay bỏ viên buổi trưa vì quên, và vì 'thuốc nhiều hại thận'. Chị Kim Chi không biết.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ mời chị Kim Chi ra ngoài hoặc hỏi riêng bà, rồi hỏi cụ thể hôm qua uống mấy viên, những lúc nào.",
+     "y": "Tuân thủ thuốc (thân nhân trả lời thay sai)"
+    },
+    {
+     "id": "dtd_cu",
+     "noi_dung": "Triệu chứng như cũ: đầy bụng, mau no sau vài thìa cơm, ợ hơi; không nặng thêm, không đau dữ dội, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến triệu chứng (không đỡ)"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không nôn ra máu, không phân đen, không nuốt nghẹn, không nôn nhiều, không vàng da. Cân hôm nay 43,5 kg (giảm 0,5 kg).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc lại dấu báo động"
+    },
+    {
+     "id": "truyen_tiep",
+     "noi_dung": "Tuần trước bà thấy mệt, bà Tư sang truyền thêm một chai ở tay trái 'cho khỏe lại'; bà không nỡ từ chối. Mấy hôm nay chỗ kim hơi đau, không sốt.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng và hỏi cụ thể có truyền hay tiêm lại sau buổi khám trước không, hoặc khi bác sĩ khám thấy vết kim ở tay trái.",
+     "y": "Vẫn tự truyền dịch, kỳ này ở tay trái"
+    },
+    {
+     "id": "khi_sac",
+     "noi_dung": "Ngủ kém, hay thức sớm, chán ăn không chỉ vì mau no, hay buồn, thấy mình vô dụng 'ai cũng bảo mẹ ốm vặt'. Không có ý nghĩ muốn chết hay tự hại.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng bà về giấc ngủ, tâm trạng, và nói chuyện nhẹ nhàng.",
+     "y": "Khí sắc, giấc ngủ"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà mệt vì mỗi ngày trông hai cháu và nấu cơm cho cả nhà. Bà mong bác sĩ nói bà 'phải nghỉ ngơi' để con dâu chia việc, nhưng bà sẽ không tự nói. Nếu bác sĩ nói chuyện với cả nhà thay bà thì bà đồng ý.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng bà và tỏ ra thấu hiểu, hoặc hỏi thẳng bà mong muốn gì ngoài việc hết đầy bụng.",
+     "y": "Động cơ thật: muốn được nghỉ việc nhà"
+    },
+    {
+     "id": "dong_y_noi_soi",
+     "noi_dung": "Bà đã nghĩ lại về nội soi sau lần trước. Nếu bác sĩ giải thích rõ nội soi là thế nào và chị Kim Chi đi cùng thì bà đồng ý đi bệnh viện tỉnh. Bà vẫn chưa muốn nằm viện.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng bà nghĩ sao về lần hẹn nội soi và giải thích bình tĩnh, không dọa.",
+     "y": "Thay đổi ý định về nội soi"
+    },
+    {
+     "id": "tien_su_moi",
+     "noi_dung": "Không dùng thêm thuốc giảm đau, aspirin, thuốc nam nào khác. Vẫn uống amlodipin sáng.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ thượng vị, không phản ứng, không khối, gan lách không to.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Gầy (43,5 kg), tỉnh, niêm hồng nhạt, không vàng da, không hạch.",
+     "k": 1
+    },
+    "da": {
+     "a": "Mu bàn tay trái có một vết chọc kim mới, quanh vết hơi đỏ khoảng 2 cm, ấn đau nhẹ, không sưng nóng lan, không mủ; dọc tĩnh mạch không có dây cứng. Ba vết bầm cũ ở tay phải mờ dần.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Khí sắc trầm nhẹ, nói chậm, hay nhìn xuống, mệt mỏi; định hướng đúng, trí nhớ gần tốt; không ý tưởng tự hại.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 72 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 72 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Bà đồng ý lấy một ống máu nhỏ sau khi được giải thích. Hb 124 g/L · MCV 89 fL · Bạch cầu 6,9 G/L · Tiểu cầu 245 G/L",
+     "bang": {
+      "wbc": 6.9,
+      "neu_pct": 62,
+      "neu": 4.3,
+      "lym_pct": 29,
+      "lym": 2.0,
+      "mono_pct": 6,
+      "mono": 0.4,
+      "eos_pct": 2,
+      "eos": 0.14,
+      "baso_pct": 1,
+      "baso": 0.07,
+      "rbc": 4.2,
+      "hgb": 124,
+      "hct": 0.38,
+      "mcv": 89,
+      "mch": 29.5,
+      "mchc": 326,
+      "rdw": 13.4,
+      "plt": 245
+     },
+     "n": "Điều trị chưa đáp ứng ở người lớn tuổi: kiểm tra thiếu máu, dấu báo động (VNAGE 2024 KC 2, KC 4; KC 11 'đánh giá lại kỹ khi không đáp ứng'). Hb 124 g/L, không thiếu máu."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 5,6 mmol/L · Creatinin 74 µmol/L · eGFR 73 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.6,
+      "creat": 74,
+      "egfr": 73
+     },
+     "n": "VNAGE 2024 KC 4; còn dùng để trấn an nỗi sợ 'thuốc hại thận' của bà (itopride: tương tác và chỉnh liều theo thận không có trong tài liệu đã tải)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 139 · K 4,1 · Cl 103 mmol/L",
+     "bang": {
+      "na": 139,
+      "k": 4.1,
+      "cl": 103
+     },
+     "n": "Đang tự truyền dịch ở nhà; VNAGE 2024 KC 4."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 24 · ALT 19 U/L",
+     "n": "VNAGE 2024 KC 4."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi.) Nội soi dạ dày – tá tràng làm ở bệnh viện tỉnh theo giấy hẹn; bà đã đồng ý đi cùng chị Kim Chi.",
+     "n": "Khó tiêu ≥ 40 tuổi (VNAGE 2024 KC 1); không đáp ứng sau điều trị thử thì phải đánh giá lại và cân nhắc nội soi nếu chưa làm (VNAGE 2024 KC 11); BSG 2022: nội soi không khẩn ≥ 55 tuổi khó tiêu kháng trị. Không cấp cứu vì không có dấu báo động (KC 2)."
+    },
+    "ecg": {
+     "n": "Không cần làm lại."
+    },
+    "abdus": {
+     "n": "Đã làm ở lượt 1, không cần lại."
+    },
+    "hp_phan": {
+     "n": "Đã âm tính ở lượt 1; làm lại chỉ khi nội soi cho thấy tổn thương (VNAGE 2023 Statement 6: kiêng PPI ≥ 2 tuần)."
+    },
+    "ct_bung": {
+     "n": "Không cần: không dấu báo động; hình ảnh không thường quy (Rome V, Clinical Evaluation)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khó tiêu chức năng thể PDS chưa đáp ứng điều trị do dùng thuốc chưa đủ liều (tuân thủ kém, nỗi sợ 'thuốc hại thận') cộng yếu tố tâm lý – xã hội (quá tải việc nhà, khí sắc trầm nhẹ); vẫn cần nội soi vì chưa loại trừ loét, ung thư ở bà 82 tuổi",
+     "ok": 1,
+     "n": "Rome V mục B1a, Clinical Evaluation; VNAGE 2024 KC 5, 11, 12. Thất bại điều trị: kiểm tra tuân thủ trước khi đổi thuốc."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng",
+     "n": "Không đau đói đêm, không xuất huyết, Hb 124 g/L, H. pylori âm tính; vẫn cần nội soi để chắc chắn (VNAGE 2024 KC 1, 11)."
+    },
+    {
+     "t": "Ung thư dạ dày",
+     "n": "Không dấu báo động theo VNAGE 2024 KC 2; cân giảm 0,5 kg trong 3 tuần (tổng khoảng 5% sau 6 tháng, dưới 10%). Chỉ nội soi mới loại trừ."
+    },
+    {
+     "t": "Chưa đáp ứng vì dùng sai thuốc (chọn thuốc vận động cho PDS)",
+     "n": "Thuốc vận động là đầu tay cho PDS (VNAGE 2024 KC 10); chưa dùng đủ liều nên chưa đủ căn cứ nói thất bại; 8 tuần mới là mốc đánh giá (KC 11)."
+    },
+    {
+     "t": "Biến chứng tại chỗ truyền dịch (viêm tĩnh mạch nông, nhiễm trùng) mới bắt đầu, nhẹ",
+     "n": "Chỗ kim đỏ 2 cm, không sốt, không dây cứng: theo dõi; không có tài liệu đã tải về xử trí viêm tĩnh mạch do truyền tại nhà."
+    },
+    {
+     "t": "Trầm cảm ở người cao tuổi",
+     "n": "Khí sắc trầm nhẹ, ngủ kém: chưa đủ để chẩn đoán; cần theo dõi. Thang sàng lọc trầm cảm: không có trong tài liệu đã tải. VNAGE 2024 KC 12: cân nhắc liệu pháp tâm lý khi thuốc không đáp ứng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Mời chị Kim Chi ra ngoài một lát, hỏi riêng bà về tuân thủ thuốc, giấc ngủ, tâm trạng, truyền dịch và nội soi",
+     "v": "c",
+     "n": "Rome IV/V, VNAGE 2024 KC 7 (bàn luận): lắng nghe, trấn an. Việc tách riêng người nhà: nhận xét biên tập, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tìm nguyên nhân 'không đỡ': kiểm tra tuân thủ cụ thể (số viên mỗi ngày), giải thích vì sao thuốc cần uống đủ; giữ nguyên itopride 50 mg × 3 lần/ngày, không đổi thuốc khi chưa đủ 8 tuần",
+     "v": "c",
+     "n": "VNAGE 2024 KC 11 (đánh giá sau 8 tuần PPI và/hoặc thuốc vận động), Bảng 5. Thuốc và nỗi sợ thận: itopride với thận không có trong tài liệu đã tải (đã có creatinin bình thường)."
+    },
+    {
+     "t": "Giới thiệu nội soi dạ dày – tá tràng ở bệnh viện tỉnh theo hẹn (không cấp cứu), có người nhà đi cùng; bà đã đồng ý sau giải thích",
+     "v": "c",
+     "n": "VNAGE 2024 KC 1, KC 11 ('EGD must be considered if it is not performed prior'); VNAGE 2023 Statement 3; BSG 2022 (≥ 55 tuổi khó tiêu kháng trị: nội soi không khẩn); Rome V (Clinical Evaluation): thêm xét nghiệm khi điều trị thất bại, theo từng ca. Thời hạn nội soi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dừng hẳn truyền dịch; khám vết chọc kim, theo dõi viêm tại chỗ; dặn quay lại ngay nếu sưng nóng đỏ lan, sốt",
+     "v": "c",
+     "n": "Rome V (Clinical Evaluation): ngừng thuốc không cần thiết. Xử trí viêm tĩnh mạch và nguy cơ nhiễm trùng do truyền tại nhà: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nói thẳng với bà (và với chị Kim Chi, nếu bà đồng ý): bà đang kiệt sức vì việc nhà, đề nghị chia việc; không cấp 'giấy bệnh' sai sự thật; hẹn mời con dâu cùng buổi tái khám",
+     "v": "c",
+     "n": "Nhận xét biên tập (lối sống, tâm lý): VNAGE 2024 KC 12–13 nói yếu tố tâm lý và lối sống ảnh hưởng triệu chứng. Cấp giấy nghỉ cho người đã hưu, nội dung giấy: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Sàng lọc khí sắc và giấc ngủ bằng hỏi chuyện; chưa dùng thuốc chống trầm cảm; hẹn đánh giá lại sau nội soi",
+     "v": "c",
+     "n": "VNAGE 2024 KC 11–12 (thuốc chống trầm cảm ba vòng chỉ sau 8 tuần PPI/thuốc vận động; liệu pháp tâm lý khi thuốc không đáp ứng). Thang sàng lọc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau nội soi, mang kết quả; đánh giá đáp ứng đủ 8 tuần",
+     "v": "c",
+     "n": "VNAGE 2024 KC 11. Thời điểm tái khám sau nội soi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thêm omeprazol 20 mg/ngày vào itopride",
+     "v": "a",
+     "n": "VNAGE 2024 KC 7, 11 (PPI và/hoặc thuốc vận động). Mốc dùng và ngừng: Rome V 4–8 tuần; VNAGE 2024 KC 8 là 8 tuần; châu Á 2026 Statement 23 là 12 tuần; Beers 2023 tránh PPI cố định > 8 tuần ở ≥ 65 tuổi (ghi cả, theo mục TH-0083/TH-0162)."
+    },
+    {
+     "t": "Amitriptylin 10 mg trước ngủ",
+     "v": "w",
+     "n": "Chưa đủ 8 tuần điều trị đúng liều (VNAGE 2024 KC 11); amitriptylin liều tối đa 75 mg (VNAGE) hoặc 30–50 mg/ngày (BSG 2022, thận trọng hơn); AGS Beers 2023 Bảng 2 tránh ở ≥ 65 tuổi. Theo mục TH-0162 chấm w nếu cho ngay."
+    },
+    {
+     "t": "Cho giấy nghỉ ghi 'bệnh nặng' hoặc cho nhập viện 'để nghỉ ngơi' theo mong muốn của bà",
+     "v": "w",
+     "n": "Không có chỉ định nhập viện (không dấu báo động, VNAGE 2024 KC 2). Giấy xác nhận sai sự thật là vấn đề đạo đức nghề nghiệp, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đồng ý để bà Tư tiếp tục truyền dịch, hoặc truyền dịch tại phòng khám 'cho có sức'",
+     "v": "w",
+     "n": "Không tài liệu đã tải nêu chỉ định; theo mục truyền dịch theo yêu cầu trong sổ mâu thuẫn chấm w. Mức tác hại cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nội soi ngay hôm nay",
+     "v": "w",
+     "n": "Không dấu báo động (VNAGE 2024 KC 2) và không đe dọa tính mạng: nội soi theo hẹn là đủ."
+    },
+    {
+     "t": "Đổi sang metoclopramid hoặc domperidon vì 'không đỡ'",
+     "v": "w",
+     "n": "Chưa đủ liều thuốc hiện tại; VNAGE 2024 Bảng 5: metoclopramid tối đa 5 ngày, domperidon tối đa 1 tuần; Beers 2023 Bảng 2 tránh metoclopramid ở ≥ 65 tuổi."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Khó tiêu chức năng thể PDS, chưa đáp ứng điều trị thử vì dùng thuốc không đủ liều",
+     "Cần nội soi để loại trừ loét và ung thư (chưa làm vì lần trước bà từ chối; nay đồng ý)",
+     "Yếu tố tâm lý – xã hội: quá tải việc nhà, khí sắc trầm nhẹ; ước muốn được nghỉ ngơi",
+     "Phản ứng nhẹ tại chỗ truyền dịch tay trái",
+     "Chưa có dấu báo động; Hb 124 g/L, creatinin và điện giải bình thường"
+    ],
+    "phan_tich_chan_doan": [
+     "Quy trình 'không đỡ' (sổ cái): sai chẩn đoán? chưa nội soi nên chưa loại trừ hết; sai thuốc? thuốc vận động cho PDS là đúng (VNAGE 2024 KC 10); không tuân thủ? có, và đây là nguyên nhân chính (bà chỉ uống 1–2 viên/ngày); biến chứng? chưa có: Hb bình thường, không xuất huyết. Mốc đánh giá chính thức là 8 tuần (KC 11).",
+     "Thân nhân trả lời thay: chị Kim Chi nói bà uống đủ ba lần, bà nói thật chỉ một đến hai viên (nhận xét biên tập). Tách riêng để hỏi thật là mấu chốt của lượt này.",
+     "Dấu báo động vẫn âm tính (VNAGE 2024 KC 2); cân giảm 0,5 kg/3 tuần chưa chạm ngưỡng > 10%.",
+     "Động cơ ẩn: bà mong được nghỉ khỏi việc nhà; triệu chứng thật nhưng bị khuếch đại bởi quá tải và khí sắc trầm nhẹ. Rome V coi khó tiêu là rối loạn tương tác ruột – não; yếu tố tâm lý có vai trò (Rome V, Pathophysiology; VNAGE 2024 KC 12).",
+     "Applicability note: ≥ 75 tuổi không có dữ liệu riêng trong các tài liệu đã tải; liều itopride, PPI cho bà 82 tuổi nêu theo người lớn nói chung."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng chuyển tuyến: nội soi theo hẹn, không cấp cứu (VNAGE 2024 KC 1, 11). Thời hạn nội soi: không có trong tài liệu đã tải.",
+     "Sửa tuân thủ trước khi đổi thuốc: giữ itopride 50 mg × 3 lần/ngày; PPI là lựa chọn thêm, ghi cả mốc Rome V / VNAGE / châu Á và cảnh báo Beers.",
+     "Dừng truyền dịch tại nhà, theo dõi chỗ kim; không có chỉ định truyền dịch.",
+     "Về việc nghỉ ngơi: không cấp giấy sai sự thật; nói chuyện với gia đình để chia việc. Nhận xét biên tập, không có trong tài liệu đã tải.",
+     "Những việc sai: đổi thuốc ngay, cho amitriptylin sớm (Beers; VNAGE KC 11), metoclopramid/domperidon dài ngày (Bảng 5), nhập viện hoặc cấp cứu không có chỉ định, tiếp tục truyền dịch."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Itopride",
+      "ham_luong": "50 mg",
+      "lieu": "50 mg × 3 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Ngày 3 lần, đều đặn; so với bữa ăn: theo tờ hướng dẫn (không có trong tài liệu đã tải)",
+      "so_ngay": "Đủ 8 tuần tính từ lượt 1, rồi đánh giá lại",
+      "ghi_chu": "VNAGE 2024 Bảng 5, KC 10, 11. Dặn dùng đủ 3 lần/ngày; nếu quên viên trưa thì không uống bù gấp đôi."
+     },
+     {
+      "thuoc": "Omeprazol (tùy chọn, dùng thêm)",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng (ACG 2022 GERD KC 8)",
+      "so_ngay": "4–8 tuần (Rome V) / 8 tuần (VNAGE 2024 KC 8) / 12 tuần (châu Á 2026 St. 23)",
+      "ghi_chu": "VNAGE 2024 KC 7, Bảng 4. Beers 2023 Bảng 2: tránh PPI cố định > 8 tuần ở ≥ 65 tuổi."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Giữ nguyên (VNAGE 2024 Bảng 2)."
+     }
+    ],
+    "dan_do": [
+     "Dừng hẳn truyền dịch; có sưng nóng đỏ lan, sốt, đau tay tăng thì đến ngay.",
+     "Uống thuốc đủ liều; nhờ chị Kim Chi nhắc buổi trưa, kiểm tra creatinin bình thường nên không hại thận như bà lo.",
+     "Đi nội soi theo giấy hẹn, có chị Kim Chi đi cùng; mang kết quả khi tái khám.",
+     "Nói chuyện cùng cả nhà về chia việc nấu ăn và trông cháu; bác sĩ sẵn sàng gặp con dâu trong buổi tái khám.",
+     "Đến ngay khi nôn ra máu, phân đen, nôn nhiều, nuốt nghẹn, sụt cân nhanh."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai hôm sau bà Mận, chị Kim Chi và con dâu cùng lên bệnh viện tỉnh. Nội soi dạ dày – tá tràng: niêm mạc hang vị hồng ban nhẹ, không loét, không khối, tá tràng bình thường; urease nhanh âm tính. Bác sĩ tuyến tỉnh xác nhận khó tiêu chức năng thể căng tức sau ăn, tiếp tục itopride; gia đình họp lại chia việc nấu ăn. Nhưng tuần sau, vì thấy mệt, bà đã nhờ bà Tư truyền thêm một chai 'cho lại sức' mà không nói ai. Chỗ chọc kim tay trái sưng nóng lan lên cẳng tay kèm sốt 38,5 °C; bà phải nhập khoa Nội điều trị viêm mô tế bào vài ngày. Quyết định đúng ở lượt 2 vẫn không ngăn được diễn tiến xấu từ hành vi ngoài tầm kiểm soát của bác sĩ; chấm quyết định theo thông tin lúc đó, đừng chấm theo kết cục.",
+ "nhieu": [
+  "Uống nước không sạch: đi ngoài lỏng 2 ngày rồi tự hết, dễ nghĩ nhiễm khuẩn tiêu hóa hoặc ký sinh trùng; test H. pylori, soi phân âm tính và triệu chứng có từ 8 tháng trước (Rome V mục B1: khởi phát ≥ 6 tháng) nên không phải nguyên nhân chính.",
+  "Tự truyền dịch + một ống thuốc không tên: không giải thích được khó tiêu, nhưng cho thấy bà tìm cách 'có sức'; chỉ lộ khi hỏi cụ thể hoặc khám thấy vết kim.",
+  "Amlodipin (VNAGE 2024 Bảng 2) dùng nhiều năm: không giải thích được khởi phát 8 tháng.",
+  "Sụt cân 4% (dưới ngưỡng 10% của VNAGE 2024 KC 2) dễ bị coi là dấu báo động; cần so với ngưỡng.",
+  "Thân nhân trả lời thay: chị Kim Chi nói bà uống thuốc đủ, nhưng bà tự khai chỉ 1–2 viên/ngày."
+ ],
+ "bai_hoc_bien": [
+  "Người cao tuổi đi cùng con cái: tách ra hỏi riêng; thân nhân trả lời thay có thể sai sự thật (tuân thủ thuốc, truyền dịch).",
+  "Bệnh nhân từ chối xét nghiệm: giải thích lợi ích, ghi hồ sơ từ chối, đưa giấy giới thiệu và giữ cửa mở; phương án B là test không xâm lấn, thuốc thử, theo dõi sát (tôn trọng quyền tự quyết).",
+  "Không đỡ: hỏi tuân thủ trước, rồi mới nghĩ sai thuốc hay sai chẩn đoán; mốc đánh giá 8 tuần (VNAGE 2024 KC 11).",
+  "Ước muốn được nghỉ ngơi là nhu cầu thật, nhưng giấy bệnh sai sự thật không phải cách trả lời.",
+  "Quyết định đúng vẫn có thể ra kết cục xấu: đánh giá theo thông tin lúc quyết định, không chấm theo kết cục (outcome bias).",
+  "Khó tiêu chức năng ở ≥ 75 tuổi: dữ liệu riêng gần như không có; mọi ngưỡng nội soi đều vượt."
+ ],
+ "diem_nho": [
+  "Rome V mục B1: đầy sau ăn hoặc mau no (PDS) hoặc đau/nóng thượng vị (EPS), 3 tháng gần đây, khởi phát ≥ 6 tháng, không có bệnh thực thể.",
+  "Nội soi khi ≥ 40 tuổi hoặc có dấu báo động (VNAGE 2024 KC 1, 2); dấu báo động gồm xuất huyết, sụt cân > 10%, nôn dai dẳng, nuốt nghẹn, khối, tiền sử gia đình.",
+  "H. pylori: test không xâm lấn khi không nội soi, urease nhanh khi nội soi; kiêng PPI ≥ 2 tuần, kháng sinh/bismuth ≥ 4 tuần (VNAGE 2023 Statement 3–6).",
+  "PDS: thuốc vận động đầu tay (VNAGE 2024 KC 10, itopride 50 mg × 3, Bảng 5); đánh giá sau 8 tuần (KC 11); amitriptylin bậc hai, tránh ở ≥ 65 tuổi (Beers 2023).",
+  "Không tăng gấp đôi liều PPI (VNAGE 2024 KC 7); PPI > 8 tuần ở ≥ 65 tuổi cần cân nhắc (Beers 2023 Bảng 2)."
+ ],
+ "nguon": [
+  "VNAGE 2024 – khó tiêu chức năng – TL-0178 – KC 1–14 (Bảng 1), Bảng 2–5, Hình 1–2",
+  "VNAGE 2023 – H. pylori – TL-0179 – Statement 3–6",
+  "Rome V – Gastroduodenal Disorders 2026 – TL-0191 (tệp _ban_02) – mục B1, B1a, B1b, Clinical Evaluation, Treatment",
+  "Đồng thuận châu Á về khó tiêu chức năng 2026 – TL-0193 – Statement 23, 26",
+  "BSG 2022 – khó tiêu chức năng – TL-0213 – Summary (nội soi theo tuổi, thuốc chống trầm cảm ba vòng)",
+  "ACG-CAG 2017 – khó tiêu – TL-0232 – Statement 1, 3, 7",
+  "Maastricht VI/Florence 2022 – TL-0215 (tệp _ban_02) – WG2 Diagnostics",
+  "AGS Beers 2023 – TL-0022 – Bảng 2 (PPI, metoclopramid, thuốc chống trầm cảm kháng cholinergic)",
+  "ACG 2022 GERD – TL-0212 – KC 8 (giờ uống PPI); BYT QĐ 361/2014 – TL-0286 – Phụ lục NSAID mục 3.3; ESC 2023 hội chứng vành cấp – TL-0069 – mục 3.1.1",
+  "Không có trong tài liệu đã tải: thời hạn nội soi theo hẹn; mốc tái khám 2–3 tuần và sau nội soi; chống chỉ định, tương tác và cách dùng itopride so với bữa ăn; nguy cơ và xử trí biến chứng truyền dịch tại nhà; thang sàng lọc trầm cảm; việc ghi hồ sơ từ chối và giấy nghỉ cho người đã hưu; dữ liệu riêng cho nhóm ≥ 75 tuổi."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-08: viết bản 1. Tài liệu đã đọc: TL-0178 (KC 1–14, Bảng 2–5), TL-0179 (Statement 3–6), TL-0191 ban_02 (B1, Clinical Evaluation, Treatment), TL-0193 (Statement 23, 26 qua sổ mâu thuẫn), TL-0213 (qua sổ mâu thuẫn), TL-0232 (Statement 1), TL-0022 (Bảng 2).",
+  "Đã tra tai-lieu/mau_thuan.md và theo đúng các mục: tuổi nội soi khi khó tiêu chưa thăm dò; thời gian thử PPI (TH-0083); PPI > 8 tuần ở ≥ 65 tuổi (TH-0162); amitriptylin bậc hai (TH-0162); itopride (TH-0083); giờ uống PPI (TH-0295); test H. pylori không xâm lấn hay urease nhanh (TH-0103); truyền dịch theo yêu cầu chấm w. Không có mâu thuẫn mới.",
+  "Ràng buộc 'bệnh nhân từ chối xét nghiệm' thể hiện trong sự thật và kết quả CLS (khoa_cls = null vì không phải thiếu nguồn lực)."
+ ]
+}
