@@ -1,0 +1,477 @@
+{
+ "ma_ca": "TH-0711",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_ngo_doc_thuc_pham_nhu_nhi",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Ngộ độc thực phẩm",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Viêm ruột thừa",
+   "Nhiễm khuẩn huyết"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau sinh (mẹ vừa hết nghỉ thai sản, đi làm lại; bà ngoại từ quê ra trông bé và lần đầu nấu bột cho bé)",
+  "thuoc_dang_dung": "Thuốc giảm đau khớp tự mua (của mẹ đang cho con bú)",
+  "ly_do_that_su_den_kham": "Lo lắng về khả năng sinh sản (mẹ hiếm muộn nhiều năm, bé là con duy nhất; mẹ sợ mất con và sợ chính mình đã làm hại con)"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Bảo Châu",
+  "tuoi": 0.67,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 7.6,
+  "chieu_cao": 68,
+  "xung_ho": "Bé nữ 8 tháng, chưa nói được, chỉ ê a, khóc và đòi bú. Mẹ kể bệnh: bác sĩ gọi mẹ là 'chị', chị xưng 'em' với bác sĩ và gọi bé là 'con' hoặc 'bé Châu'. Bà ngoại ở nhà trông bé, không đi cùng.",
+  "tinh_cach": "Mẹ 34 tuổi, nhân viên ngân hàng, nói nhanh, câu ngắn, hay trích 'bác sĩ trên mạng nói'. Lo gần như hoảng nhưng cố tỏ ra cứng rắn. Khi bác sĩ nói chậm, gọi tên bé và hỏi chị lo nhất điều gì thì chị mềm đi, kể thật và nghe lời dặn.",
+  "kieu_nhieu": "Đòi kháng sinh: ngay câu đầu chị xin 'kê giúp em kháng sinh cho bé, để lâu nhiễm trùng nặng thì khổ', nói thêm 'chị bạn em đưa con đi bệnh viện được cho kháng sinh là khỏi ngay'. Nếu bác sĩ từ chối cộc lốc thì chị cãi, đòi 'bác sĩ chịu trách nhiệm không' và dọa đi nơi khác. Chị dịu xuống khi bác sĩ ghi nhận nỗi sợ của chị, giải thích bằng ví dụ cụ thể của bé (bé chơi, uống bình thường, không mất nước), nói rõ thuốc nào thật sự chữa cho bé và đưa bản dặn dò bằng chữ. Chị cũng từ chối mọi xét nghiệm ('con em còn bé, em không cho chích, không cho thử gì hết'): giải thích một lần ngắn, chị tự quyết; bác sĩ ghi nhận từ chối và nói rõ khi nào sẽ cần xét nghiệm lại.",
+  "nguoi_nha": "Mẹ bé, chị Võ Thị Thanh Mai, 34 tuổi, đi một mình bế bé. Mọi câu hỏi do mẹ trả lời; bé chỉ chơi, quấy hoặc khóc khi bị khám.",
+  "ten_nguoi_nha": "Mẹ bé (chị Mai)",
+  "ngoai_hinh": {
+   "da": "#f3d3b6",
+   "toc": "#2b2019",
+   "kieuToc": "tre",
+   "ao": "#f6d9e3",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#ecc4a1",
+    "toc": "#1d1612",
+    "kieuToc": "dai",
+    "ao": "#cfe1ee",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé nhũ nhi đi ngoài lỏng và nôn 2 ngày, mẹ xin kháng sinh",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé Nguyễn Bảo Châu, nữ, 8 tháng tuổi, mẹ bế đến vì đi ngoài phân lỏng và nôn hai ngày nay, xin bác sĩ kê kháng sinh. Cân nặng 7,6 kg. Sinh hiệu: nhiệt (nách) 37,6 °C, mạch 128 l/p, nhịp thở 36 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé Châu nhập viện hoặc lưu bệnh viện truyền dịch là quá tay: bé tỉnh, cười, bú uống tốt, sụt khoảng 1% cân nặng, không đủ 2 dấu mất nước, không có tiêu chí nào của QĐ 3312/2015 mục 5.1 (mất nước nặng, sốc, thần kinh, nôn tái diễn hoặc ra mật, thất bại ORS, sốt cao nhiễm độc, người nhà không bảo đảm cho uống), và QĐ 4068 ô [8] cho điều trị ngoại trú khi không mất nước, mẹ được hướng dẫn Phác đồ A và tái khám được. Chị Mai vốn sợ bé bị chích; vào viện thì đường truyền, lấy máu gần như không tránh được, chị khóc, hoảng hơn và nỗi sợ mất con càng lớn. Bé xa mẹ ngoài giờ bú, tốn tiền, trong khi việc cần làm chỉ là ORS, bú và ăn lại.",
+    "chuyen_tuyen": "Chuyển bé lên tuyến trên 'cho chắc' là không cần: không dấu hiệu nhập viện nào (QĐ 3312 mục 5.1), không phân máu, không nghi tả mất nước nặng. Ở tuyến trên chị sẽ lại bị đề nghị lấy máu, cấy phân, truyền dịch mà chị không chấp nhận; chị dễ rời cuộc khám với cảm giác bị ép, hoặc xin 'cho thuốc mạnh' ở nơi khác và nhận kháng sinh không có chỉ định (QĐ 3312 mục 4.2; WHO 2024 khuyến cáo 1a). Bé phải đi xa khi đang tiêu chảy, mẹ mất ngày làm, trong khi nhà chị cách phòng khám 10 phút và có thể quay lại ngay nếu có dấu hiệu nặng."
+   },
+   "loi_mo": "Chào bác sĩ. Con em đi ngoài lỏng với nôn hai ngày nay rồi, em sợ để lâu nhiễm trùng nặng. Bác sĩ kê giúp em thuốc kháng sinh cho bé nhé, bạn em đưa con đi bệnh viện được cho kháng sinh là khỏi ngay.",
+   "sinh_hieu": {
+    "mach": 128,
+    "ha": "Không đo",
+    "nhiet": "37,6",
+    "nhip_tho": 36,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé đi ngoài phân lỏng và nôn hai ngày nay. Chị xin bác sĩ kê kháng sinh cho bé vì sợ để lâu nhiễm trùng nặng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và yêu cầu kháng sinh"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Cách đây hai ngày (khoảng 6 giờ sau bữa trưa) bé nôn 3 lần trong buổi chiều, sau đó bắt đầu đi lỏng. Hôm qua bé đi 6–7 lần phân lỏng màu vàng, toé nước, mùi chua, không máu, không nhầy, không trắng đục như nước vo gạo; chỉ ọc 1 lần sau bú. Hôm nay 4 lần từ sáng, không nôn nữa. Hôm qua bé sốt nhẹ 37,8 °C (nách), hôm nay hết sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chảy cấp phân nước, không máu, nôn sớm rồi hết"
+    },
+    {
+     "id": "bua_an",
+     "noi_dung": "Bà ngoại ở quê ra trông bé từ tuần trước. Bà nấu một nồi bột thịt gà – bí đỏ lớn, chia hộp, cất ngăn mát tủ lạnh (tủ cũ, mấy hôm nay ngăn mát không lạnh lắm). Trưa hai hôm trước bà hâm lò vi sóng một hộp cho bé ăn, ăn gần hết, bà bảo 'ở giữa còn hơi nguội nhưng thôi cho bé ăn luôn'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi bé ăn gì trong ngày trước khi bệnh, ai nấu, bảo quản thế nào. Hỏi chung 'bé ăn uống thế nào' thì chị chỉ nói bé ăn dặm ngày 2 bữa, bú mẹ và sữa công thức.",
+     "k": 1,
+     "y": "Thức ăn nấu sẵn bảo quản kém, hâm không kỹ (ngộ độc thực phẩm)"
+    },
+    {
+     "id": "nguoi_cung_bi",
+     "noi_dung": "Bà ngoại ăn phần bột còn lại ở đáy hộp, tối hôm đó nôn 2 lần, đau quặn bụng, đi lỏng 1 ngày rồi tự khỏi. Chị Mai nếm một thìa bột để thử độ mặn, buồn nôn nhẹ buổi tối nhưng không nôn, không đi lỏng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi trong nhà có ai khác đau bụng, nôn, tiêu chảy cùng lúc, hoặc bà và chị có ăn chung bột không.",
+     "k": 1,
+     "y": "Người cùng ăn cũng bị (dịch tễ ngộ độc thực phẩm)"
+    },
+    {
+     "id": "uong_bu",
+     "noi_dung": "Bé vẫn bú mẹ khoẻ, uống sữa công thức bình thường, hôm nay chị cho uống thêm nước đun sôi để nguội bằng thìa, bé uống vừa phải chứ không giành. Tã ướt khoảng 5 cái/ngày, nước tiểu vàng nhạt, bé vẫn cười, chơi, lật bò như thường. Không li bì, không co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bú uống tốt, tiểu đủ, chơi bình thường (chưa mất nước)"
+    },
+    {
+     "id": "dau_hieu_nang_am",
+     "noi_dung": "Phân không có máu, không có nhầy máu như mứt quả. Bé không khóc thét từng cơn rồi tái nhợt, không nôn dịch xanh vàng, bụng không chướng, không ho, không khò khè, không ban, không chảy mũi nhiều, không kéo tai. Không ai trong vùng đang có dịch tả.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động và bệnh khác (lồng ruột, ngoại khoa, tả, nhiễm khuẩn)"
+    },
+    {
+     "id": "thuoc_cho_be",
+     "noi_dung": "Chưa cho bé uống thuốc nào. Chị có gói oresol từ hôm qua nhưng pha 'cho nhạt', bé chỉ nhấp vài thìa.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Bé được tiêm chủng đầy đủ theo tháng tuổi, đã uống đủ 2 liều rotavirus. Sinh đủ tháng, 3,1 kg. Bú mẹ hoàn toàn đến 6 tháng, bắt đầu ăn dặm từ 6 tháng. Không dị ứng, không bệnh nền.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Chị không đồng ý bất cứ xét nghiệm nào cho bé (rút máu, lấy phân, nước tiểu): lúc bé 2 tháng đi lấy máu sàng lọc, y tá chích hai lần, bé khóc tím tái và chị 'thề không để con bị chích nữa'. Chị chỉ chịu cho khám và dặn dò. Nếu bác sĩ giải thích rõ lúc nào thật sự cần xét nghiệm và chị được dặn dấu hiệu phải quay lại, chị đồng ý theo dõi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Bệnh nhân từ chối xét nghiệm: tôn trọng, ghi nhận, phương án B"
+    },
+    {
+     "id": "me_thuoc",
+     "noi_dung": "Chị đang cho bé bú. Từ khi bế con nhiều, cổ tay phải chị đau chói ở gốc ngón cái, nhất là khi nâng bé. Ba tuần nay chị tự mua thuốc giảm đau khớp ở hiệu thuốc (viên diclofenac 50 mg), uống 2 viên mỗi ngày, vẫn cho bú bình thường. Chưa hỏi ai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi chị có bệnh gì, đang uống thuốc gì cho bản thân, hoặc chị có uống thuốc nào khi đang cho con bú. Hỏi 'bé dùng thuốc gì' thì chị chỉ nói chưa cho thuốc nào.",
+     "k": 1,
+     "y": "Mẹ tự mua thuốc giảm đau khớp (NSAID uống) khi đang cho con bú"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Chị lấy chồng 5 năm, hiếm muộn, điều trị hai lần thụ tinh trong ống nghiệm; bé là kết quả lần thứ hai. Chị 34 tuổi, bác sĩ hiếm muộn nói chị khó có thêm lần nữa. Chị sợ mất bé, sợ thuốc giảm đau của mình hoặc việc nếm bột đã làm hại con; đêm qua chị không ngủ. Vì vậy chị đòi 'thuốc mạnh nhất' cho chắc, và muốn hỏi riêng: thuốc chị uống có ảnh hưởng khả năng sinh sản của chị không.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi chị lo nhất điều gì, vì sao chị muốn kháng sinh mạnh, hoặc hỏi nhẹ nhàng về chuyện sinh con của chị.",
+     "k": 1,
+     "y": "Mối lo thật: lo khả năng sinh sản, sợ mất đứa con duy nhất"
+    },
+    {
+     "id": "nguon_luc",
+     "noi_dung": "Nhà cách phòng khám 10 phút đi xe, chị có điện thoại và Zalo để hỏi lại. Bà ngoại ở nhà cùng, chị đi làm về lúc 18 giờ. Chị đủ khả năng pha oresol và cho uống từng thìa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng chăm sóc và tái khám tại nhà (tiêu chuẩn điều trị ngoại trú)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, ngồi vững trên tay mẹ, nhìn quanh, cười khi được trêu. Mắt không trũng, khóc có nước mắt, môi và lưỡi ướt, thóp trước phẳng. Nếp véo da bụng trở lại ngay (dưới 1 giây). Tay chân ấm, hồng, đổ đầy mao mạch dưới 2 giây, mạch quay rõ. Cho thìa nước bé uống bình thường, không giành. Không dấu hiệu mất nước.",
+     "k": 1,
+     "hien": "Tỉnh, cười, mắt không trũng, môi ướt, uống thìa nước bình thường."
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 7,6 kg (tuần trước cân ở trạm y tế 7,7 kg: sụt khoảng 1%, dưới 5%). Chiều dài 68 cm. MUAC 14,0 cm.",
+     "k": 1,
+     "hien": "Cân nặng 7,6 kg, chiều dài 68 cm, MUAC 14,0 cm."
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi tròn, nhu động ruột tăng nhẹ. Không đau khu trú, không co cứng, bé không khóc thét hay co chân khi ấn hố chậu phải, không sờ thấy khối ở bụng, gan lách không to.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 128 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, nhịp nhanh vừa, khoảng 128 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp tim nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran, không co kéo lồng ngực. Nhịp thở 36 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, bé thở êm.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "da": {
+     "a": "Da hồng, không ban, không chấm xuất huyết, không vàng da, không mề đay.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, hai màng nhĩ bình thường, mũi sạch.",
+     "k": 0
+    },
+    "quan_sat_hau_mon": {
+     "a": "Hăm đỏ nhẹ quanh hậu môn và mông, không nứt, không xước, không thấy giun.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "(Chị Mai không đồng ý rút máu làm công thức máu: 'con em còn bé, em không cho chích, không cho thử gì hết'. Đã giải thích một lần, chị tự quyết; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc: công thức máu chỉ khi nghi nhiễm khuẩn kèm theo hoặc mất nước nặng (QĐ 3312/2015, Tiêu chảy cấp mục 3.2, tr. 320). Bé không mất nước, tỉnh. Chị từ chối: tôn trọng, ghi nhận; cần làm nếu sốt cao, li bì, nôn tái diễn (mục 5.1)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "(Chị Mai không đồng ý rút máu làm CRP: 'con em còn bé, em không cho chích, không cho thử gì hết'. Đã giải thích một lần, chị tự quyết; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc: CRP chỉ khi nghi nhiễm khuẩn kèm theo (QĐ 3312 mục 3.2). Bé không có dấu nhiễm khuẩn huyết (NICE NG143 2021, Bảng 2: không có dấu vàng hay đỏ)."
+    },
+    "lyte": {
+     "v": "n",
+     "r": "(Chị Mai không đồng ý rút máu làm điện giải đồ: 'con em còn bé, em không cho chích, không cho thử gì hết'. Đã giải thích một lần, chị tự quyết; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không cần: điện giải đồ khi điều trị tại bệnh viện có mất nước, hoặc diễn biến không tương xứng (QĐ 3312 mục 3.2; QĐ 4068 ô [6] mục 3). Bé không mất nước, không chướng bụng."
+    },
+    "glu_mm": {
+     "v": "n",
+     "r": "(Chị Mai không đồng ý chích đầu ngón làm đường huyết: 'con em còn bé, em không cho chích, không cho thử gì hết'. Đã giải thích một lần, chị tự quyết; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không cần: đường huyết nhanh khi rối loạn tri giác, co giật (QĐ 4068 ô [6] mục 4). Bé tỉnh, chơi, bú tốt."
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "(Chị Mai không đồng ý lấy nước tiểu bằng túi dán: 'con em còn bé, em không cho chích, không cho thử gì hết'. Đã giải thích một lần, chị tự quyết; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Chấp nhận, không bắt buộc: nhiễm khuẩn tiểu có thể gây nôn, tiêu chảy ở nhũ nhi (QĐ 3312 mục 2.1b), nhưng bé không sốt kéo dài và có cả bà cùng bị. Sốt tái lại thì cần thử nước tiểu (phương án B)."
+    },
+    "soi_phan": {
+     "v": "n",
+     "r": "(Chị Mai không đồng ý lấy phân soi: 'con em còn bé, em không cho chích, không cho thử gì hết'. Đã giải thích một lần, chị tự quyết; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không cần: không cần soi, cấy phân ở tiêu chảy phân nước không máu (WHO 2013, Pocket book mục 5.1, tr. 126; QĐ 3312 mục 3.2)."
+    },
+    "cay_phan": {
+     "v": "a",
+     "r": "(Chị Mai không đồng ý lấy phân cấy: 'con em còn bé, em không cho chích, không cho thử gì hết'. Đã giải thích một lần, chị tự quyết; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Làm hay không đều chấp nhận: phân nước, không sốt cao, không máu nên không chỉ định (QĐ 3312 mục 3.2; WHO 2013 mục 5.1). Nhiều người cùng ăn một bữa: IDSA 2017 (khuyến cáo 11, 16) cho phép xét nghiệm theo y tế dự phòng; không đổi xử trí hôm nay."
+    },
+    "test_rota": {
+     "v": "n",
+     "r": "(Chị Mai không đồng ý lấy phân thử rotavirus: 'con em còn bé, em không cho chích, không cho thử gì hết'. Đã giải thích một lần, chị tự quyết; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không cần: kết quả không đổi xử trí (QĐ 3312 mục 3.2). Rotavirus gặp nhiều ở 6–18 tháng (IDSA 2017 Bảng 2) nhưng bé đã uống đủ 2 liều vắc xin và có người lớn cùng bị."
+    },
+    "abdus": {
+     "n": "Không cần: bụng mềm, không khối, không đau khu trú, không khóc từng cơn; siêu âm khi nghi lồng ruột hoặc bụng ngoại khoa (WHO 2013 Bảng 11, tr. 127)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ngộ độc thực phẩm: viêm dạ dày – ruột cấp sau bữa bột nấu sẵn bảo quản kém, bà ngoại cùng bị; tiêu chảy cấp phân nước, KHÔNG mất nước (Phác đồ A); chưa xác định được tác nhân vì mẹ từ chối xét nghiệm",
+     "ok": 1,
+     "n": "Nôn sớm khoảng 6 giờ sau bữa bột hâm không kỹ rồi tiêu chảy phân nước không máu; bà ngoại ăn cùng bữa cũng nôn, đi lỏng 1 ngày rồi tự khỏi. IDSA 2017 Bảng 3: nôn kéo dài ≤ 24 giờ gợi nhiễm độc tố S. aureus hoặc B. cereus; QĐ 4178/2007 mục II.2d: độc tố tụ cầu ủ bệnh vài giờ, thường không sốt; Salmonella ủ 12–14 giờ, sốt cao (bé chỉ sốt nhẹ; mục II.2a). Norovirus cũng gây nôn rồi tiêu chảy (IDSA 2017 Bảng 3)."
+    },
+    {
+     "t": "Tả",
+     "n": "Không có dịch tả trong vùng, phân vàng chứ không như nước vo gạo, bé uống được, không mất nước nặng (WHO 2013 Bảng 11, tr. 127: tả là tiêu chảy rất nhiều nước kèm mất nước nặng trong vụ dịch; QĐ 4178/2007 mục II.1; QĐ 4068 ô [1] mục 5)."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Bụng mềm, không đau khu trú, không co cứng, bé không khóc thét khi ấn hố chậu phải, không nôn dịch xanh vàng. Nhũ nhi biểu hiện không điển hình và WSES 2020 loại nhũ nhi khỏi phạm vi (Methods) nên dựa vào khám lặp lại và dặn dấu hiệu quay lại (QĐ 3312 mục 2.1b: viêm ruột thừa cấp là nguyên nhân ngoại khoa gây tiêu chảy)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "Bé tỉnh, cười, bú uống tốt, da hồng, đổ đầy mao mạch dưới 2 giây, thở 36 l/p, SpO₂ 99%; mạch 128 l/p, dưới ngưỡng nhịp nhanh 160 l/p của trẻ dưới 12 tháng (NICE NG143 2021, Bảng 1). Không có dấu đèn vàng hay đỏ nào ngoài sốt nhẹ 37,6 °C (Bảng 2). Mẹ từ chối CRP, cấy máu: dựa vào lâm sàng và theo dõi sát."
+    },
+    {
+     "t": "Lồng ruột hoặc hội chứng lỵ (tiêu chảy phân máu)",
+     "n": "Không phân máu nhầy, không khóc từng cơn rồi tái nhợt, không khối ở bụng (WHO 2013 Bảng 11, tr. 127)."
+    },
+    {
+     "t": "Nhiễm khuẩn ngoài ruột (tiểu, tai, hô hấp) gây nôn và tiêu chảy",
+     "n": "QĐ 3312 mục 2.1b: nhiễm khuẩn hô hấp, tiểu, viêm màng não có thể kèm tiêu chảy. Bé không ho, màng nhĩ bình thường, thóp phẳng, không sốt kéo dài; nước tiểu chưa thử vì chị từ chối (phương án B)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Phân loại KHÔNG mất nước (Phác đồ A): ORS áp lực thẩm thấu thấp 50–100 ml sau mỗi lần đi ngoài (khoảng 500 ml/ngày) bằng thìa nhỏ; bé nôn thì nghỉ 5–10 phút rồi cho chậm hơn; pha đúng gói, đưa 2 gói về nhà",
+     "v": "c",
+     "n": "QĐ 3312/2015 mục 3.1b–c (sụt dưới 5% chưa có dấu mất nước) và mục 4.1 Phác đồ A (tr. 320–321: dưới 24 tháng 50–100 ml sau mỗi lần đi ngoài, 500 ml/ngày; từng thìa; nôn thì đợi 5–10 phút); WHO 2013 Bảng 12 (tr. 128), Chart 15 (tr. 138: 50–100 ml cho trẻ ≤ 2 tuổi, 2 gói ORS về nhà, nôn thì chờ 10 phút). ORS áp lực thấp là đầu tay (IDSA 2017 khuyến cáo 39; WHO 2024 Bảng 2 khuyến cáo 5, cho trẻ mất nước)."
+    },
+    {
+     "t": "Tiếp tục bú mẹ nhiều hơn, tiếp tục cho ăn sữa công thức và bột ăn dặm (bột nấu mới); KHÔNG pha loãng sữa, không đổi sang sữa không lactose thường quy",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.4 (tr. 323): cho ăn sớm khẩu phần hàng ngày, tiếp tục bú mẹ nhiều lần hơn; không bú mẹ thì cho loại sữa trước đó, không pha loãng, không dùng sữa không lactose thường quy; tránh thức ăn năng lượng, protein thấp. WHO 2013 Chart 15 mục 3 và IDSA 2017 khuyến cáo 44–45: tiếp tục bú mẹ và ăn lại theo tuổi ngay trong hoặc sau bù nước."
+    },
+    {
+     "t": "Bổ sung kẽm đường uống 10–14 ngày: 20 mg/ngày (trẻ ≥ 6 tháng) hoặc 5 mg/ngày",
+     "v": "c",
+     "n": "Hai cách đều đúng: 20 mg/ngày × 10–14 ngày cho trẻ ≥ 6 tháng (QĐ 3312 mục 4.3, tr. 323; WHO 2013 Chart 15 mục 2) hoặc 5 mg/ngày tới 14 ngày (WHO 2024, Bảng 2, khuyến cáo 3a, 3c). Khác nhau do năm và liều thấp ít nôn hơn (sổ mâu thuẫn TH-0630 #1)."
+    },
+    {
+     "t": "KHÔNG kê kháng sinh; giải thích cho chị bằng lời cụ thể: bé không mất nước, tỉnh, không phân máu; thứ chữa cho bé là nước, ORS, bú và ăn; kháng sinh không rút ngắn bệnh và có hại; nói rõ khi nào sẽ cân nhắc kháng sinh",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.2 (tr. 322): không chỉ định kháng sinh cho mọi trường hợp tiêu chảy cấp, chỉ khi phân máu, nghi tả mất nước nặng, Giardia, hoặc nhiễm trùng khác kèm theo. WHO 2024, Bảng 2, khuyến cáo 1a: không dùng kháng sinh cho tiêu chảy cấp phân nước (có điều kiện, bằng chứng thấp); WHO 2013 chương 5 (tr. 125–126) tương tự. IDSA 2017 khuyến cáo 36: không dùng kháng sinh kinh nghiệm, ngoại lệ trẻ nhỏ nhìn ốm nặng; bé này tỉnh, chơi."
+    },
+    {
+     "t": "Tôn trọng từ chối xét nghiệm: giải thích một lần vì sao chưa cần, ghi nhận chị từ chối vào hồ sơ, rồi phương án B là theo dõi lâm sàng sát (dấu hiệu quay lại, hẹn khám lại, nói rõ khi nào cần xét nghiệm hay nhập viện)",
+     "v": "c",
+     "n": "Phần lớn tiêu chảy cấp ở trẻ không cần xét nghiệm thường quy (QĐ 3312 mục 3.2; WHO 2013 mục 5.1, tr. 126), nên từ chối hôm nay không làm mất an toàn. Chỉ định nhập viện/khám lại: QĐ 3312 mục 5.1–5.2. Thủ tục ghi nhận từ chối theo quy định Việt Nam không có trong tài liệu đã tải; theo sổ mâu thuẫn (NH-0470, TH-0379): ghi nhận từ chối, phương án B bằng lâm sàng."
+    },
+    {
+     "t": "Hỏi chị lo nhất điều gì, ghi nhận nỗi lo sinh sản và sợ mất con; trấn an có căn cứ (bé không mất nước, điều trị ngoại trú an toàn, có hẹn khám lại); hẹn khám riêng chuyện sinh sản",
+     "v": "c",
+     "n": "Trả lời mối lo thật. Điều trấn an dựa vào đánh giá của bé: không mất nước nên điều trị ngoại trú (QĐ 4068 ô [8]: không dấu mất nước, thân nhân được hướng dẫn Phác đồ A, đủ điều kiện tái khám). ESPGHAN/ESPID 2014 (đoạn mở đầu): viêm dạ dày – ruột cấp thường nhẹ, tự giới hạn, phần lớn xử trí tại nhà. Tư vấn sinh sản và ảnh hưởng của thuốc lên khả năng sinh sản: không có trong tài liệu đã tải, hẹn khám riêng."
+    },
+    {
+     "t": "Hỏi thuốc của mẹ: ngưng diclofenac uống tự mua khi đang cho bú; đau cổ tay xử trí không dùng thuốc (giảm vận động, nẹp, chườm lạnh), hẹn khám riêng",
+     "v": "c",
+     "n": "QĐ 361/2014 (TL-0286), Phụ lục NSAID mục 3.2 (tr. 197): phụ nữ đang cho con bú nằm trong chống chỉ định tuyệt đối của NSAID. Bài De Quervain mục 4.2.1 (tr. 159–160): giảm hoặc ngừng vận động cổ tay, ngón cái 4–6 tuần, nẹp 3–6 tuần, chườm lạnh. Mục 4.2.2 cùng bài vẫn liệt kê diclofenac uống, không nhắc người cho bú; U.S. MEC 2024 (TL-0620) Phụ lục G chỉ nêu nguyên tắc chung. Ghi cả hai, chọn hướng thận trọng là ngưng NSAID uống; độ an toàn của paracetamol, diclofenac bôi khi cho bú không có trong tài liệu đã tải (sổ mâu thuẫn, mục HH-0022)."
+    },
+    {
+     "t": "Dặn dấu hiệu phải quay lại ngay và hẹn khám lại sau 2 ngày (hoặc 5 ngày nếu không đỡ); cho số điện thoại/Zalo phòng khám",
+     "v": "c",
+     "n": "Tái khám 1–2 ngày (QĐ 4068 ô [8]) hoặc 5 ngày nếu không đỡ (WHO 2013 Bảng 12, tr. 128): cả hai đúng; chọn 2 ngày vì không có xét nghiệm hỗ trợ. Dấu hiệu quay lại: ăn uống kém, sốt cao, đi ngoài tăng, nôn nhiều, mệt, phân nhầy máu, khát nhiều, nôn tất cả mọi thứ (QĐ 3312 mục 5.1–5.2, tr. 323–324); không bú hoặc uống được, sốt, phân máu (WHO 2013 Chart 15 mục 4); khóc từng cơn rồi tái nhợt (WHO 2013 Bảng 11)."
+    },
+    {
+     "t": "Vệ sinh thực phẩm: đổ bỏ bột còn lại, nấu bột mới trong ngày hoặc hâm cho nóng đều; rửa tay trước khi chuẩn bị đồ ăn cho bé và sau thay tã",
+     "v": "c",
+     "n": "QĐ 3312 mục 6 (tr. 324): an toàn vệ sinh khi chế biến, bảo quản thức ăn; rửa tay khi chăm trẻ. IDSA 2017 khuyến cáo 52, 54. Mốc giờ bảo quản và nhiệt độ hâm lại an toàn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Báo y tế dự phòng/trạm y tế về nghi ngộ độc thực phẩm trong gia đình",
+     "v": "a",
+     "n": "Ca lẻ trong một gia đình, không có ổ dịch rộng; IDSA 2017 khuyến cáo 16 nói mẫu của người trong ổ dịch được xét nghiệm theo hướng dẫn y tế dự phòng. Thủ tục báo cáo ngộ độc thực phẩm ở Việt Nam không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Men vi sinh hoặc racecadotril hoặc diosmectit hỗ trợ",
+     "v": "a",
+     "n": "Probiotic: WHO 2024 khuyến cáo 4a không dùng ở phân nước; QĐ 3312 mục 4.5 (S. boulardii 200–250 mg/ngày × 5–6 ngày) và IDSA 2017 khuyến cáo 49 cho phép. Racecadotril 1,5 mg/kg/lần × 3 lần/ngày, không quá 7 ngày (QĐ 3312 mục 4.5); diosmectit (ESPGHAN 2014 mục 9.3.3); không phối hợp hai thuốc này (QĐ 4068 ô [7B])."
+    },
+    {
+     "t": "Kê kháng sinh (cefixim, azithromycin hoặc loại khác) theo yêu cầu của mẹ 'cho chắc'",
+     "v": "w",
+     "n": "Không có chỉ định: phân nước, không máu, không mất nước, không nhiễm khuẩn khác (QĐ 3312 mục 4.2; WHO 2024 khuyến cáo 1a; WHO 2013 chương 5, tr. 125–126; IDSA 2017 khuyến cáo 36). WHO 2013 Bảng 11: dùng kháng sinh gần đây là nguyên nhân tiêu chảy do thuốc."
+    },
+    {
+     "t": "Thuốc cầm tiêu (loperamid) hoặc thuốc cầm nôn cho bé",
+     "v": "w",
+     "n": "QĐ 3312 mục 4.5: không sử dụng thuốc cầm nôn, cầm đi ngoài; WHO 2013 chương 5 (tr. 125–126): không cho thuốc chống tiêu chảy và chống nôn cho trẻ nhỏ, một số có tác dụng phụ nguy hiểm; IDSA 2017 khuyến cáo 47 (loperamid không dùng cho trẻ dưới 18 tuổi)."
+    },
+    {
+     "t": "Pha loãng sữa, đổi sang sữa không lactose, nhịn ăn hoặc chỉ cho nước cháo loãng 'cho ruột nghỉ'",
+     "v": "w",
+     "n": "QĐ 3312 mục 4.4: không pha loãng sữa, không dùng sữa không lactose thường quy, tránh thức ăn năng lượng thấp; ESPGHAN 2014 mục 9.2.1–9.2.2. Bé đã bú tốt, chơi bình thường."
+    },
+    {
+     "t": "Truyền tĩnh mạch hoặc nhập viện cho bé còn uống tốt, không mất nước",
+     "v": "w",
+     "n": "Truyền dịch dành cho mất nước nặng, sốc, thất bại ORS (QĐ 3312 mục 4.1 Phác đồ C và mục 5.1; IDSA 2017 khuyến cáo 41–42). Bé chưa có tiêu chí nhập viện nào."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ngộ độc thực phẩm (viêm dạ dày – ruột cấp) sau bữa bột thịt gà – bí đỏ nấu sẵn, bảo quản ngăn mát kém, hâm không đều; bà ngoại ăn cùng cũng bị. Tác nhân chưa xác định",
+     "Tiêu chảy cấp phân nước ngày thứ 2, không máu, kèm nôn sớm (đã hết) và sốt nhẹ ngày đầu",
+     "KHÔNG mất nước (Phác đồ A): sụt khoảng 1% cân nặng, không đủ 2 dấu hiệu mất nước",
+     "Đã nghĩ tới và loại trừ trên lâm sàng: tả, viêm ruột thừa, nhiễm khuẩn huyết, lồng ruột/hội chứng lỵ, nhiễm khuẩn ngoài ruột. Không có xét nghiệm vì mẹ từ chối: ghi nhận từ chối, theo dõi lâm sàng sát",
+     "Vấn đề đi kèm của người chăm sóc: mẹ đang cho con bú tự uống diclofenac 50 mg × 2 viên/ngày vì đau cổ tay (nghi hội chứng De Quervain); mối lo thật là khả năng sinh sản và sợ mất con"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: bé 8 tháng không khai được; hỏi theo dòng thời gian: bắt đầu bao giờ, mấy lần nôn, đi ngoài, có máu không, sốt, bú uống, tã ướt, bé chơi thế nào, đã dùng thuốc gì, tiêm chủng (QĐ 3312/2015 mục 3.1a, tr. 317; WHO 2013 mục 5.1, tr. 126; IDSA 2017 khuyến cáo 5: mọi người tiêu chảy cấp phải đánh giá mất nước).",
+     "Dịch tễ là chìa khóa: chỉ khi hỏi bé ăn gì, ai nấu, bảo quản thế nào, ai trong nhà cùng bị thì mới lộ bữa bột để trong tủ lạnh yếu, hâm không đều, bà ngoại nôn và đi lỏng cùng ngày (IDSA 2017 khuyến cáo 1, 11, Bảng 2). Nôn trong 24 giờ sau ăn gợi nhiễm độc tố tụ cầu hoặc B. cereus (IDSA 2017 Bảng 3; QĐ 4178/2007 mục II.2d); thức ăn nhiễm khuẩn và mùa nóng là yếu tố nguy cơ (QĐ 3312 mục 2).",
+     "Khám: đánh giá mất nước là việc quan trọng nhất. Bé tỉnh, mắt không trũng, môi ướt, nếp véo trở lại ngay, uống bình thường, sụt khoảng 1% cân: không đủ 2 trong 4 dấu (vật vã/kích thích, mắt trũng, khát/uống háo hức, nếp véo chậm) nên là KHÔNG mất nước (QĐ 3312 mục 3.1b–c, tr. 317–318; WHO 2013 Bảng 12, tr. 128). Khám bụng loại trừ bụng ngoại khoa và lồng ruột (WHO 2013 Bảng 11, tr. 127), khám tai và hô hấp loại nhiễm khuẩn ngoài ruột (QĐ 3312 mục 2.1b).",
+     "Cận lâm sàng: tiêu chảy phân nước không máu, không mất nước thì không cần xét nghiệm thường quy (QĐ 3312 mục 3.2; WHO 2013 mục 5.1, tr. 126), nên chị từ chối thì chưa mất an toàn hôm nay: giải thích, ghi nhận từ chối và chuẩn bị phương án B. Sẽ cần xét nghiệm khi sốt cao, nhiễm độc, mất nước nặng, phân máu hoặc nôn tái diễn (QĐ 3312 mục 3.2, 5.1; IDSA 2017 khuyến cáo 8, 9).",
+     "Loại trừ bằng lâm sàng: tả (không dịch, phân vàng không như nước vo gạo, không mất nước nặng; WHO 2013 Bảng 11; QĐ 4178/2007), viêm ruột thừa (bụng mềm, không đau khu trú, nôn đã hết; WSES 2020 loại nhũ nhi nên dùng khám lặp lại), nhiễm khuẩn huyết (tỉnh, mạch 128 l/p, thở 36 l/p, đổ đầy mao mạch dưới 2 giây; NICE NG143 2021 Bảng 1, 2).",
+     "Sốt nhẹ chỉ ngày đầu và bé còn chơi: chưa phải dấu nhiễm độc (QĐ 3312 mục 5.1). Rotavirus gặp nhiều ở 6–18 tháng (IDSA 2017 Bảng 2) nhưng bé đã uống đủ 2 liều vắc xin và có người lớn cùng bị sau bữa ăn chung nên nghĩ ngộ độc thực phẩm hơn.",
+     "Nhiễu: kháng sinh 'cho chắc' không có chỉ định; mối lo thật là sợ mất đứa con duy nhất sau 5 năm hiếm muộn, chỉ lộ khi bác sĩ hỏi chị lo nhất điều gì."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch Phác đồ A: ORS áp lực thẩm thấu thấp 50–100 ml sau mỗi lần đi ngoài, khoảng 500 ml/ngày, từng thìa nhỏ; bé nôn nghỉ 5–10 phút rồi cho chậm hơn; đưa 2 gói ORS về nhà và hướng dẫn pha đúng vì chị đã pha 'cho nhạt' (QĐ 3312 mục 4.1, tr. 320–321; WHO 2013 Chart 15, tr. 138; WHO 2024 Bảng 2 khuyến cáo 5). Bé không bú mẹ hoàn toàn nên có thể dùng ORS, nước canh, nước đun sôi để nguội (WHO 2013 Chart 15 mục 1).",
+     "Cho ăn: tiếp tục bú mẹ nhiều hơn; sữa công thức dùng như trước, không pha loãng, không đổi sữa không lactose thường quy; bột nấu mới, chia nhiều bữa nhỏ (QĐ 3312 mục 4.4, tr. 323; IDSA 2017 khuyến cáo 44–45; ESPGHAN 2014 mục 9.2).",
+     "Kẽm 10–14 ngày: 20 mg/ngày (QĐ 3312 mục 4.3; WHO 2013 Chart 15) hoặc 5 mg/ngày (WHO 2024 khuyến cáo 3c; ít nôn hơn): ghi cả hai; dạng bào chế và hàm lượng viên ở Việt Nam không có trong tài liệu đã tải.",
+     "Không kháng sinh (QĐ 3312 mục 4.2; WHO 2024 khuyến cáo 1a; IDSA 2017 khuyến cáo 36). Lời thoại gợi ý: 'Chị lo bé nhiễm trùng nặng là có lý. Hôm nay con còn cười, bú tốt, không khô nước, không đi ra máu. Kháng sinh không làm con khỏi nhanh hơn. Cái chữa cho con là nước và sữa; em ghi sẵn dấu hiệu nào thì chị mang con lại ngay, hai ngày nữa em khám lại.' Có phân máu, sốt cao hoặc nhiễm khuẩn khác thì đổi hướng (QĐ 3312 mục 4.2).",
+     "Từ chối xét nghiệm: nói rõ lý do chưa cần, tôn trọng mẹ, ghi nhận vào hồ sơ; phương án B là dặn dấu hiệu quay lại và hẹn khám lại sau 2 ngày (QĐ 4068 ô [8]: 1–2 ngày) hoặc 5 ngày nếu không đỡ (WHO 2013 Bảng 12): cả hai đúng, chọn mốc ngắn vì không có xét nghiệm hỗ trợ (tiêu chuẩn nhập viện: QĐ 3312 mục 5.1).",
+     "Mẹ: ngưng diclofenac uống tự mua khi đang cho bú (QĐ 361/2014 Phụ lục NSAID mục 3.2: chống chỉ định tuyệt đối ở phụ nữ đang cho con bú); đau cổ tay xử trí không dùng thuốc, hẹn khám riêng (De Quervain mục 4.2.1, tr. 159–160). Bài De Quervain mục 4.2.2 vẫn nêu diclofenac uống và U.S. MEC 2024 Phụ lục G chỉ có nguyên tắc chung: ghi cả hai, chọn hướng thận trọng; độ an toàn thuốc thay thế khi cho bú không có trong tài liệu đã tải. Chuyện hiếm muộn và sinh sản: nghe, ghi nhận, hẹn khám riêng (tư vấn cụ thể không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "ORS giảm áp lực thẩm thấu (oresol)",
+      "ham_luong": "Gói pha theo nhà sản xuất (pha đúng lượng nước đun sôi để nguội ghi trên gói, không pha loãng thêm)",
+      "lieu": "50–100 ml sau mỗi lần đi ngoài; khoảng 500 ml/ngày, uống thêm ngoài sữa",
+      "duong": "Uống từng thìa nhỏ",
+      "thoi_diem": "Sau mỗi lần đi ngoài, đến khi hết tiêu chảy; bé nôn thì nghỉ 5–10 phút rồi cho chậm hơn",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 3312/2015 mục 4.1 Phác đồ A (tr. 320–321); WHO 2013 Chart 15 (tr. 138): đưa 2 gói về nhà; WHO 2024 Bảng 2 khuyến cáo 5. Kỹ thuật pha và hạn dùng sau khi pha: không có trong tài liệu đã tải ngoài lời dặn 'pha đúng gói'."
+     },
+     {
+      "thuoc": "Kẽm (viên tan hoặc gluconat)",
+      "ham_luong": "Viên 20 mg (WHO 2013 Chart 15 ghi 1 viên = 20 mg); dạng đạt 5 mg: không có trong tài liệu đã tải",
+      "lieu": "20 mg/ngày (trẻ ≥ 6 tháng) hoặc 5 mg/ngày, 1 lần/ngày",
+      "duong": "Uống, hòa tan trong thìa nước, sữa mẹ hoặc ORS",
+      "thoi_diem": "Mỗi sáng",
+      "so_ngay": "10–14 ngày, uống đủ dù đã hết tiêu chảy",
+      "ghi_chu": "20 mg: QĐ 3312 mục 4.3 (tr. 323), WHO 2013 Chart 15 mục 2; 5 mg: WHO 2024 Bảng 2 khuyến cáo 3c (có điều kiện, bằng chứng thấp; liều thấp ít nôn hơn nên thận trọng hơn nếu bé còn nôn)."
+     }
+    ],
+    "dan_do": [
+     "Về bé: bé không mất nước; điều chữa cho bé là ORS từng thìa sau mỗi lần đi ngoài (50–100 ml, khoảng 500 ml/ngày), bú mẹ nhiều hơn, ăn lại ngay bột mới, uống kẽm đủ 10–14 ngày. Không cho kháng sinh, thuốc cầm tiêu hay thuốc cầm nôn (QĐ 3312 mục 4.1–4.5; WHO 2024 khuyến cáo 1a).",
+     "Tuyệt đối không pha loãng sữa, không đổi sữa không lactose, không cho nước ngọt thay ORS (QĐ 3312 mục 4.4). Đổ bỏ hộp bột còn lại; từ nay nấu bột mới trong ngày hoặc hâm cho nóng đều ở giữa; rửa tay trước khi chuẩn bị đồ ăn và sau khi thay tã (QĐ 3312 mục 6; IDSA 2017 khuyến cáo 52, 54). Mốc giờ bảo quản và nhiệt độ hâm lại an toàn: không có trong tài liệu đã tải.",
+     "Mang bé quay lại ngay (hoặc gọi Zalo phòng khám) nếu bé: bú hoặc uống kém, nôn nhiều hoặc nôn mọi thứ, sốt cao hoặc sốt tái lại, đi ngoài nhiều và toé nước hơn, phân có nhầy máu, khát nhiều, mệt lả hay li bì, khóc thét từng cơn rồi tái nhợt, bụng chướng, tiểu rất ít (QĐ 3312 mục 5.1–5.2; WHO 2013 Chart 15 mục 4 và Bảng 11). Khi đó bé có thể cần xét nghiệm và truyền dịch: dặn chị đồng ý. Số giờ tã khô cần quay lại: không có trong tài liệu đã tải.",
+     "Hẹn khám lại sau 2 ngày để cân và đánh giá mất nước (QĐ 4068 ô [8]: 1–2 ngày); sau 5 ngày nếu không đỡ (WHO 2013 Bảng 12).",
+     "Với mẹ: ngưng diclofenac uống vì đang cho con bú (QĐ 361/2014 Phụ lục NSAID mục 3.2); đau cổ tay: bớt dùng cổ tay và ngón cái, đeo nẹp, chườm lạnh (De Quervain mục 4.2.1), sẽ khám riêng. Thuốc thay thế an toàn khi cho bú: không có trong tài liệu đã tải.",
+     "Về chuyện sinh sản: nói rõ đây là việc khác, rất đáng được hỏi và có người giúp; hẹn khám phụ khoa/hiếm muộn riêng khi bé khỏe. Bé không mất nước, đang điều trị ngoại trú an toàn; chị không gây ra bệnh này khi nếm một thìa bột."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Mai nghe lời giải thích, ghi nhận lời dặn bằng chữ và về nhà. Chị pha oresol đúng gói, cho bé uống từng thìa, bú mẹ nhiều hơn, bà ngoại nấu bột mới mỗi bữa. Bé không nôn lại, số lần đi lỏng giảm dần và hết hẳn vào ngày thứ 4 của bệnh (dưới 14 ngày, vẫn là tiêu chảy cấp); bé uống đủ kẽm, cân 7,7 kg khi tái khám sau 2 ngày. Bà ngoại đã khỏi từ trước. Đây là loại kết cục 'xử trí ẩu nhưng may mắn không sao': nếu bác sĩ nhượng bộ và kê kháng sinh cho chị yên tâm, hoặc cho về mà không dặn dấu hiệu quay lại và không ghi nhận việc từ chối xét nghiệm, bé nhiều khả năng vẫn khỏi vì bệnh nhẹ và tự giới hạn khi bù nước (ESPGHAN/ESPID 2014, mở đầu), không phải nhờ kháng sinh hay nhờ quy trình. Kết cục tốt không hợp thức hóa quy trình thiếu chặt chẽ: lần sau bé có thể mất nước hay nhiễm khuẩn huyết mà không ai kịp nhận ra. Tại buổi tái khám chị nói thêm nỗi lo hiếm muộn; bác sĩ hẹn chị khám phụ khoa riêng và chị ngưng thuốc giảm đau uống, dùng nẹp cổ tay.",
+ "nhieu": [
+  "Đòi kháng sinh: lời xin ngay câu đầu che nỗi sợ mất con. Gỡ bằng cách ghi nhận nỗi sợ, hỏi chị lo nhất điều gì, giải thích bằng dấu hiệu của chính bé và đưa bản dặn dò; từ chối cộc lốc khiến chị đi nơi khác xin thuốc.",
+  "Từ chối xét nghiệm: lúc 2 tháng bé bị chích hai lần, khóc tím tái. Xét nghiệm hôm nay không đổi xử trí (QĐ 3312 mục 3.2); tôn trọng, ghi nhận, và dặn trước những dấu hiệu sẽ cần xét nghiệm.",
+  "Sốt nhẹ 37,8 °C và nôn 3 lần dễ gây hoảng, tăng sức ép kháng sinh, nhưng bé hết nôn, hết sốt, không có dấu nhiễm khuẩn huyết (NICE NG143 2021 Bảng 2).",
+  "Mẹ cũng nếm bột và uống diclofenac: người cho bú tự dùng NSAID uống là chống chỉ định tuyệt đối (QĐ 361/2014 Phụ lục NSAID mục 3.2). Chỉ lộ khi hỏi riêng thuốc của mẹ."
+ ],
+ "bai_hoc_bien": [
+  "Ngộ độc thực phẩm ở nhũ nhi chủ yếu là vấn đề mất nước: đánh giá mất nước trước hết, bù ORS Phác đồ A khi không mất nước, tiếp tục bú và ăn, bổ sung kẽm; không kháng sinh, không cầm tiêu, không xét nghiệm thường quy (QĐ 3312 mục 3.1, 4, 3.2; WHO 2024 khuyến cáo 1a).",
+  "Bữa ăn chung là manh mối: chỉ khi hỏi ai nấu, bảo quản ra sao, ai cùng ăn thì dịch tễ mới lộ (IDSA 2017 khuyến cáo 1, 11).",
+  "Đòi kháng sinh: ghi nhận cảm xúc trước, giải thích bằng dấu hiệu của đứa trẻ, kèm bản dặn dấu hiệu quay lại và hẹn khám lại để mẹ không thấy bị bỏ mặc.",
+  "Bệnh nhân từ chối xét nghiệm: giải thích một lần vì sao chưa cần, tôn trọng quyền tự quyết, ghi nhận từ chối vào hồ sơ và dùng phương án B (theo dõi lâm sàng sát, ngưỡng nâng cấp rõ ràng, hẹn lại).",
+  "Hỏi thuốc của người chăm sóc: mẹ đang cho bú tự uống NSAID là chống chỉ định tuyệt đối (QĐ 361/2014 Phụ lục NSAID mục 3.2). Lý do thật đến khám có thể là nỗi lo khác với lý do nói ra (ở đây là sinh sản và sợ mất con).",
+  "Kết cục tốt không hợp thức hóa quy trình: kê kháng sinh hay quên ghi nhận từ chối đều là near miss dù bé vẫn khỏi."
+ ],
+ "diem_nho": [
+  "Mất nước (2 tháng – 5 tuổi): nặng khi 2 trong li bì, mắt trũng, uống kém, nếp véo rất chậm; có mất nước khi 2 trong vật vã, mắt trũng, khát, nếp véo chậm; sụt dưới 5% chưa có dấu lâm sàng (QĐ 3312 mục 3.1b–c).",
+  "Phác đồ A: ORS < 24 tháng 50–100 ml sau mỗi lần đi ngoài, 500 ml/ngày; Phác đồ B 75 ml/kg trong 4 giờ (QĐ 3312 mục 4.1; WHO 2013 Chart 14, 15).",
+  "Kháng sinh chỉ khi phân máu, nghi tả mất nước nặng, Giardia, nhiễm khuẩn khác kèm theo (QĐ 3312 mục 4.2); phân nước: WHO 2024 khuyến cáo 1a không dùng.",
+  " Nhập viện khi: mất nước nặng, sốc, thần kinh, nôn tái diễn hoặc ra mật, thất bại ORS, sốt cao/nhiễm độc, bệnh kèm, người nhà không bảo đảm cho uống (QĐ 3312 mục 5.1).",
+  "NSAID uống chống chỉ định tuyệt đối khi cho con bú (QĐ 361/2014 Phụ lục NSAID mục 3.2); tồn tại điểm khác trong bài De Quervain mục 4.2.2 (ghi cả hai, chọn thận trọng)."
+ ],
+ "nguon": [
+  "QĐ 3312/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – Tiêu chảy cấp mục 1–6 (tr. 316–324): 2.1a–b, 3.1a–d, 3.2, 4.1–4.5, 5.1–5.2, 6",
+  "QĐ 4068/QĐ-BYT – Quy trình chuyên môn điều trị tiêu chảy cấp ở trẻ em (kho cũ tltk-10000-ca, 'Phiên bản 1.0 …/2016') – ô [1], [2], [4], [6], [7], [7B], [8]",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years of age – TL-0245 – Bảng 2: khuyến cáo 1a, 3a–3c, 4a, 5",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – chương 5 phần mở đầu (tr. 125–126), mục 5.1 (tr. 126), Bảng 11 (tr. 127), Bảng 12 (tr. 128), mục 5.2.3 (tr. 134), Chart 14 (tr. 135), Chart 15 (tr. 138)",
+  "ESPGHAN/ESPID 2014 – Guarino A, et al. J Pediatr Gastroenterol Nutr 2014;59(1):132-52 – TL-0268 – đoạn mở đầu phần hydration, mục 9.2.1–9.2.2, 9.3.1–9.3.3",
+  "IDSA 2017 – Infectious diarrhea – TL-0230 – Bảng 2, Bảng 3, khuyến cáo 1, 5, 8, 9, 11, 16, 36, 39–42, 44–45, 47, 49, 52, 54",
+  "NICE NG143 2021 – Fever in under 5s – TL-0262 – Bảng 1 (nhịp tim), Bảng 2 (đèn giao thông)",
+  "QĐ 4178/QĐ-BYT 2007 – Hướng dẫn chẩn đoán và điều trị bệnh tả – TL-0176 – mục II.1, II.2a, II.2d",
+  "WSES 2020 – Diagnosis and treatment of acute appendicitis (Jerusalem) – TL-0263 – Methods (loại nhũ nhi)",
+  "QĐ 361/QĐ-BYT 2014 – Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – Viêm gân vùng mỏm trâm quay (De Quervain) mục 2, 3.3, 4.2.1–4.2.2 (tr. 159–160); Phụ lục NSAID mục 3.2 (tr. 197)",
+  "U.S. MEC 2024 (CDC) – TL-0620 – Phụ lục G (thuốc khi cho con bú; theo sổ mâu thuẫn mục HH-0022)",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: tư vấn khả năng sinh sản sau thụ tinh trong ống nghiệm và ảnh hưởng của thuốc giảm đau lên khả năng sinh sản; độ an toàn paracetamol hoặc diclofenac bôi khi cho con bú; thủ tục ghi nhận người bệnh từ chối xét nghiệm theo quy định Việt Nam; thời gian ủ bệnh trung bình của ngộ độc thực phẩm ở nhũ nhi; giờ bảo quản và nhiệt độ hâm lại an toàn; thủ tục báo cáo ngộ độc thực phẩm; hàm lượng viên kẽm tại Việt Nam; kỹ thuật pha ORS chi tiết; số giờ tã khô cần quay lại; khoảng tham chiếu xét nghiệm nhũ nhi (kho chỉ có khoảng người lớn nên ca không có phiếu xét nghiệm)"
+ ],
+ "ghi_chu_bien_tap": [
+  "07/11/2026 – viết: Sonnet. Bản 1. Đặc tả: ngộ độc thực phẩm, nhũ nhi nữ 8 tháng, điển hình, 1 lượt; tả, viêm ruột thừa, nhiễm khuẩn huyết có trong chan_doan.",
+  "Tài liệu đã đọc: TL-0037 (Tiêu chảy cấp mục 1–6), QĐ 4068 (kho cũ), TL-0245, TL-0250, TL-0268, TL-0230, TL-0262, TL-0176, TL-0263, TL-0286 (De Quervain, Phụ lục NSAID). Chỗ thiếu tài liệu: xem cuối trường nguon.",
+  "Biến khó khớp: 'sau sinh' → mẹ vừa hết nghỉ thai sản, bà ngoại ra nấu bột lần đầu; 'thuốc giảm đau khớp tự mua' → thuốc của mẹ đang cho bú (diclofenac, De Quervain); 'lo khả năng sinh sản' → mẹ hiếm muộn, bé là con duy nhất; 'từ chối xét nghiệm' → khoa_cls null, CLS v n/a kèm lời từ chối, phương án B bằng lâm sàng.",
+  "Kết cục 'xử trí ẩu nhưng may mắn': nằm ở ket_cuc và bai_hoc_bien (kê kháng sinh theo yêu cầu = w; bé vẫn khỏi, không hợp thức hóa).",
+  "Lượt 1 ve_hen (Phác đồ A, tái khám 2 ngày); nhập viện/chuyển tuyến nằm trong neu_sai. Mốc tái khám 2 ngày: QĐ 4068 ô [8] 1–2 ngày; WHO 2013 5 ngày ghi là cách thứ hai.",
+  "Âm thanh tim: mạch 128 l/p dùng AT-TIM-NHANH-01; 'hien' chỉ ghi nhịp và tần số.",
+  "Mâu thuẫn: không có mục mới; theo sổ: kẽm, probiotic, cầm nôn/cầm tiêu (TH-0630), tái khám 1–2 ngày so với 5 ngày, NSAID uống khi cho bú (HH-0022), từ chối xét nghiệm (NH-0470, TH-0379)."
+ ]
+}
