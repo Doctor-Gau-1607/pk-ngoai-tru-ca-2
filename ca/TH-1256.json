@@ -1,0 +1,956 @@
+{
+ "ma_ca": "TH-1256",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới (2026-11-07)",
+ "benh": "TH_viem_tui_mat_cap",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Viêm túi mật cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm tụy cấp",
+   "Loét thủng"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Thợ cắt tóc",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân"
+ },
+ "benh_nhan": {
+  "ten": "Trần Quốc Hùng",
+  "tuoi": 52,
+  "gioi": "Nam",
+  "nghe": "Thợ cắt tóc, tiệm nhỏ đầu chợ",
+  "can_nang": 68,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi ông là 'chú'. Ông xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Chị Mai gọi chồng là 'ổng', xưng 'tôi' hoặc 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Hiền, ít nói, tự ái nhẹ, hay giấu bệnh và nỗi lo để vợ khỏi buồn. Cắt tóc 25 năm, đứng cả ngày nên hay đau vai lưng, quen uống paracetamol như uống kẹo. Hiểu biết y khoa ít; anh ruột mất vì bệnh gan nên rất sợ chữ \"viêm gan\".",
+  "kieu_nhieu": "Thân nhân trả lời thay: chị Mai nói trước, nói nhiều, đôi khi sai hoặc thiếu (cho rằng ổng 'không sốt', chỉ biết 'vài viên Panadol'); ông ngồi cạnh, chỉ gật hoặc 'ừ'. Chỉ khi bác sĩ mời chị ra ngoài hoặc hỏi riêng, ông mới nói số thuốc thật và nỗi sợ trong lòng.",
+  "nguoi_nha": "Vợ",
+  "ten_nguoi_nha": "Chị Đoàn Thị Mai",
+  "ngoai_hinh": {
+   "da": "#c99a74",
+   "toc": "#2b2420",
+   "kieuToc": "ngan",
+   "ao": "#6f7f8f",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d6a883",
+    "toc": "#241b17",
+    "kieuToc": "dai",
+    "ao": "#a56f5e",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đau bụng bên phải phía trên, nôn khi ăn (vợ kể thay)",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, AST – ALT, ure – creatinin, điện giải, glucose, nước tiểu), điện tim và test nhanh HBsAg, anti-HCV, anti-HIV; không có X-quang, siêu âm, CT, nội soi; không làm được lipase, bilirubin – ALP – GGT, cấy máu, định lượng paracetamol máu. Bệnh viện huyện cách 15 km (30 phút xe máy) có siêu âm, X-quang và khoa ngoại mổ nội soi; bệnh viện tỉnh cách 50 km có thêm CT và hồi sức."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Đoàn Thị Mai đưa chồng là ông Trần Quốc Hùng, 52 tuổi, thợ cắt tóc, đến khám vì đau bụng bên phải phía trên từ tối thứ bảy, nôn khi ăn; chị kể thay vì ông ngại nói. Ông đã tự uống thuốc giảm đau ở nhà. Sinh hiệu: HA 128/80 mmHg, mạch 98 l/p, nhiệt độ 37,6 °C, nhịp thở 20 l/p, SpO₂ 98%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho ông Hùng về với kháng sinh uống, paracetamol và hẹn lại sau hai ngày là sai nguy hiểm nhất: ông đã đủ nhóm A và B nhưng chưa có hình ảnh vì phòng khám không có siêu âm (Tokyo Guidelines 2018, Table 1), còn paracetamol che sốt nên vợ tưởng ông đã đỡ. 10–30% viêm túi mật cấp có biến chứng nặng như hoại thư, mủ, thủng (EASL 2016 tr. 13), và chỉ điều trị nội khoa thì khoảng 30% tái phát biến chứng (WSES 2020 tr. 16). Ông lại uống 5 g paracetamol mỗi ngày, men gan có thể lên đỉnh ở 48–72 giờ mà không ai xét lại (QĐ 3610/2015 tr. 21), và nỗi sợ viêm gan vẫn nằm trong lòng ông.",
+    "cap_cuu": "Gọi 115 chở ông Hùng lên bệnh viện tỉnh 50 km ngay là quá tay: ông tỉnh, HA 128/80, creatinin 82 µmol/L, chưa có rối loạn cơ quan độ III (Tokyo Guidelines 2018, Table 7), còn bệnh viện huyện cách 15 km có siêu âm và mổ nội soi, đủ cho độ nhẹ (WSES 2020 khuyến cáo 4.1). Phí xe và đường xa làm ông thêm ngại tốn tiền, vợ phải bỏ buổi bán rau."
+   },
+   "loi_mo": "Chào bác sĩ. Ổng đau bụng ba hôm nay, ăn vô là ói. Bác sĩ coi ổng bị gì, để tôi nói cho, ổng ít nói lắm.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "128/80",
+    "nhiet": "37,6",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": [
+     "Sốt nhẹ dù đã uống paracetamol",
+     "Mạch 98 l/p"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị Mai kể: chồng đau bụng bên phải phía trên từ tối thứ bảy, ăn vào là ói. Chị thắc mắc vì mấy hôm nay ổng tự ăn riêng chén đũa, không cho cháu nhỏ lại gần, hỏi thì ổng không nói.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám; hành vi lạ (manh mối nỗi sợ)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Tối thứ bảy hai vợ chồng ăn cơm có thịt kho nhiều mỡ, sau đó gần gũi nhau. Khoảng một giờ sau ông đau dưới sườn phải, lúc đầu từng cơn, từ sáng chủ nhật đau liên tục; giờ khám khoảng 58 giờ. Hai người nghĩ đau do chuyện vợ chồng đêm đó nên xấu hổ không dám nói.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau bữa nhiều mỡ; không phải do gắng sức"
+    },
+    {
+     "id": "dac_diem_dau",
+     "noi_dung": "Đau liên tục dưới sườn phải, lan ra bả vai phải, hít sâu đau nhói hơn, nằm nghiêng co gối đỡ chút. Không đau xuyên ra giữa lưng, không đau lan khắp bụng. Nôn ba lần ra nước vàng và thức ăn. Lúc bắt đầu không đột ngột dữ dội, tăng dần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau mật; phân biệt viêm tụy, thủng"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Chị Mai nói trước 'ổng không sốt'. Hỏi kỹ: chiều chủ nhật ông ớn lạnh, đo 38,4 °C; uống paracetamol thì hạ, rồi lại ớn lạnh khi hết thuốc khoảng 5–6 giờ. Chị chỉ thấy 'hết sốt' sau khi uống thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt bị thuốc che"
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Ông uống paracetamol 500 mg khoảng 10 viên mỗi ngày (5 g/ngày) từ tối thứ bảy, tổng khoảng 25 viên; mấy tháng trước đó đã uống 2–3 viên mỗi ngày vì đau vai lưng khi đứng cắt tóc. Chị Mai chỉ biết 'vài viên Panadol'. Không NSAID, không kháng sinh.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chị Mai nói 'mấy viên Panadol'. Chỉ khai số viên khi bác sĩ hỏi cụ thể tên thuốc giảm đau và số viên mỗi ngày, xin xem vỉ thuốc, hoặc hỏi riêng ông.",
+     "y": "Paracetamol liều cao: che sốt, nguy cơ độc gan"
+    },
+    {
+     "id": "ruou_gan",
+     "noi_dung": "Bia vài lon mỗi tháng, tuần qua không uống. Chưa từng vàng da, chưa xét nghiệm viêm gan. Không đái tháo đường, huyết áp bình thường, không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ gan; bệnh nền"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Không đau đột ngột như dao đâm, chưa từng đau dạ dày, không phân đen. Phân vàng, nước tiểu vàng. Chưa biết có sỏi mật, thỉnh thoảng đầy bụng sau bữa mỡ rồi tự hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ loét thủng; tiền sử sỏi"
+    },
+    {
+     "id": "noi_so",
+     "noi_dung": "Anh ruột ông mất bốn năm trước vì ung thư gan, nghe nói do viêm gan B. Mấy hôm nay ông soi gương thấy mắt 'ngả vàng', sợ mình bị viêm gan B và đã lây cho vợ con (chung chén đũa, chung giường, đêm thứ bảy) nên tự ăn riêng, ngủ riêng mà không dám nói.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ mời chị Mai ra ngoài để hỏi riêng ông, hoặc hỏi ông lo nhất điều gì khi vợ không có mặt. Hỏi trước mặt vợ ông chỉ nói 'không có gì'.",
+     "y": "Lý do thật: sợ lây bệnh cho người thân"
+    },
+    {
+     "id": "nguon_luc",
+     "noi_dung": "Bệnh viện huyện cách 15 km (30 phút xe máy), có siêu âm và mổ nội soi; bệnh viện tỉnh cách 50 km. Ông ngại tốn viện phí và đóng tiệm mất thu nhập; vợ bán rau ở chợ, cháu ngoại nhỏ ở chung nhà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ràng buộc nguồn lực, khả năng đi viện"
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng mềm, không chướng. Ấn đau rõ dưới bờ sườn phải; ấn sâu dưới sườn phải và bảo hít vào, ông ngừng thở vì đau (Murphy dương). Không co cứng, không dội, không sờ thấy khối. Gan lách không to, nhu động ruột bình thường.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, mệt, khô môi nhẹ. Củng mạc và da không vàng, không hạch.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 98 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 98 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran; đau khi hít sâu không do phổi.",
+     "k": 0,
+     "hien": "Nhịp thở 20 l/p, lồng ngực cân đối, gõ trong.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 14,8 G/L · Neutrophil 84% · Hb 148 g/L · TC 262 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 14.8,
+      "neu_pct": 84.0,
+      "neu": 12.43,
+      "lym_pct": 11.0,
+      "lym": 1.63,
+      "mono_pct": 4.0,
+      "mono": 0.59,
+      "eos_pct": 1.0,
+      "eos": 0.15,
+      "baso_pct": 0.0,
+      "baso": 0.0,
+      "rbc": 4.9,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 90,
+      "mch": 30.2,
+      "mchc": 336,
+      "rdw": 13.2,
+      "plt": 262
+     },
+     "n": "Bạch cầu tăng là tiêu chí B (3) của chẩn đoán nghi ngờ (Tokyo Guidelines 2018, Table 1). Dưới 18.000/mm³ nên chưa đủ tiêu chí độ II (Table 7)."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 86 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 86
+     },
+     "n": "CRP tăng là tiêu chí B (2) (Tokyo Guidelines 2018, Table 1). Không dùng một xét nghiệm đơn độc để xác định hay loại trừ (WSES 2020 khuyến cáo 1.1)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 44 · ALT 48 U/L (bình thường < 40)",
+     "ab": 1,
+     "n": "Dưới 50 IU/L tiên lượng tốt (QĐ 3610/2015, Ngộ độc paracetamol, mục Dùng quá liều điều trị nhiều lần, tr. 26); đỉnh ở 48–72 giờ nên cần xét lại (tr. 21). Cũng là một phần đánh giá nguy cơ sỏi ống mật chủ (WSES 2020 khuyến cáo 2.4)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 5,8 mmol/L · Creatinin 82 µmol/L · eGFR 99 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.8,
+      "creat": 82,
+      "egfr": 99
+     },
+     "n": "Thận bình thường: chưa rối loạn cơ quan (Tokyo Guidelines 2018, Table 7); cho phép NSAID ngắn ngày (EASL 2016 tr. 8)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "SG 1,024 · Ceton 1+ · Bilirubin, urobilinogen, bạch cầu, nitrit, hồng cầu, protein, glucose bình thường/âm tính",
+     "bang": {
+      "u_sg": 1.024,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "1+",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Không bilirubin niệu: chưa gợi ý tắc mật. Ceton do nhịn ăn, nôn."
+    },
+    "test_nhanh_virus": {
+     "v": "u",
+     "r": "HBsAg âm tính · anti-HCV âm tính · anti-HIV âm tính",
+     "n": "Viêm gan phải được loại trừ (Tokyo Guidelines 2018, Table 1 chú thích). Tối thiểu cần HBsAg; âm tính nên làm thêm anti-HBc, anti-HBs để tư vấn phòng bệnh (QĐ 1740/2026, mục II)."
+    },
+    "lipase": {
+     "v": "e",
+     "r": "(Phòng khám không làm được lipase.)",
+     "n": "Viêm tụy cấp cần 2/3 tiêu chí, gồm lipase ≥ 3 lần giới hạn trên (Atlanta 2012, Gut 2013 tr. 103; ACG 2024, mục Diagnosis). Loại tạm bằng lâm sàng, bệnh viện làm lipase."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "(Phòng khám không làm được bilirubin, ALP, GGT.)",
+     "n": "WSES 2020 khuyến cáo 2.4 gợi ý làm ở mọi người viêm túi mật cấp: để bệnh viện làm."
+    },
+    "abdus": {
+     "n": "Phòng khám không có siêu âm. Siêu âm là hình ảnh đầu tay cho viêm túi mật cấp (WSES 2020 khuyến cáo 1.3) và là tiêu chí C để xác định (Tokyo Guidelines 2018, Table 1): chuyển tuyến để làm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm túi mật cấp nghi ngờ (có thể do sỏi), độ I, chưa có hình ảnh xác nhận; kèm dùng paracetamol quá liều điều trị nhiều lần (khoảng 5 g/ngày × 3 ngày), men gan chưa tới ngưỡng nguy cơ cao",
+     "ok": 1,
+     "n": "Nhóm A: Murphy dương, đau ấn đau dưới sườn phải. Nhóm B: sốt (bệnh sử), CRP, bạch cầu tăng. Một mục A + một mục B là nghi ngờ; xác định cần thêm C hình ảnh (Tokyo Guidelines 2018, Table 1). Độ I vì bạch cầu < 18.000, không khối, ≈ 58 giờ (< 72 giờ), không rối loạn cơ quan (Table 7). Paracetamol ≥ 6 g trong ≥ 48 giờ là nguy cơ; AST/ALT < 50 IU/L tiên lượng tốt (QĐ 3610/2015 tr. 26)."
+    },
+    {
+     "t": "Viêm tụy cấp",
+     "n": "Cần 2/3 tiêu chí (Atlanta 2012, Gut 2013 tr. 103). Đau dưới sườn phải, lan vai phải, không xuyên ra lưng; ACG 2024 (mục Diagnosis): đau quặn không phù hợp. Lipase để bệnh viện làm."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng thủng",
+     "n": "Đau khởi phát đột ngột, viêm phúc mạc, liềm hơi (WSES 2020 loét thủng, mục Diagnosis). Ông đau tăng dần, bụng mềm, không NSAID, không tiền sử loét; không X-quang nên loại bằng lâm sàng."
+    },
+    {
+     "t": "Viêm gan virus / ngộ độc gan do paracetamol",
+     "n": "HBsAg, anti-HCV âm tính; củng mạc không vàng; AST/ALT 44/48 (QĐ 3610/2015). Viêm gan cấp phải được loại trừ khi chẩn đoán viêm túi mật (Tokyo Guidelines 2018, Table 1 chú thích)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến trong ngày đến bệnh viện huyện (15 km, có siêu âm và khoa ngoại mổ nội soi) để siêu âm xác định và cắt túi mật nội soi sớm: gọi báo trước, giấy chuyển kèm kết quả và ghi rõ lượng paracetamol, vợ đi cùng",
+     "v": "c",
+     "n": "Cần hình ảnh để xác định (Tokyo Guidelines 2018, Table 1); siêu âm là đầu tay (WSES 2020 khuyến cáo 1.3). Cắt túi mật nội soi sớm: trong 7 ngày từ nhập viện và 10 ngày từ khởi phát (WSES 2020 khuyến cáo 4.1) hoặc ưu tiên trong 72 giờ từ nhập viện (EASL 2016 tr. 13); khác năm và bằng chứng, cùng hướng sớm."
+    },
+    {
+     "t": "Mời chị Mai ra ngoài, hỏi riêng ông Hùng về thuốc đã uống (tên, số viên mỗi ngày), tiền sử và điều ông lo nhất",
+     "v": "c",
+     "n": "Cần hỏi chính xác loại, liều, thời gian thuốc, hỏi cả người bệnh lẫn người nhà (QĐ 3610/2015, Ngộ độc paracetamol, mục 3.1). Nỗi sợ thật chỉ lộ khi hỏi riêng."
+    },
+    {
+     "t": "Trấn an bằng kết quả: HBsAg, anti-HCV âm tính; cơn đau này do túi mật chứ không do viêm gan; không cần ăn riêng ngủ riêng; nên xét thêm anti-HBc, anti-HBs cho cả hai vợ chồng và tiêm ngừa viêm gan B nếu chưa có miễn dịch",
+     "v": "c",
+     "n": "HBsAg âm tính thì làm anti-HBc, anti-HBs (QĐ 1740/2026, mục II); tiêm vắc xin là cách dự phòng chính (mục I); người nhiễm HBV không dùng chung dao cạo (mục 4.2). Lưỡi dao dùng một lần cho từng khách: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng paracetamol liều cao tự dùng (khoảng 5 g/ngày); AST/ALT 44/48 dưới 50 nên chưa cần N-acetylcystein, dặn bệnh viện xét lại men gan trong 24–72 giờ",
+     "v": "c",
+     "n": "AST hoặc ALT < 50 IU/L tiên lượng tốt, > 50 cần N-acetylcystein ngay; đỉnh 48–72 giờ (QĐ 3610/2015 tr. 21, 26). Paracetamol chống chỉ định khi đang hủy tế bào gan, tăng men gan (QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1, tr. 202)."
+    },
+    {
+     "t": "Giảm đau trong lúc chờ chuyển: NSAID liều thấp ngắn ngày (diclofenac tiêm bắp một lần) hoặc paracetamol tổng mọi nguồn không quá 3 g/ngày",
+     "v": "c",
+     "n": "EASL 2016 tr. 8: NSAID (diclofenac 50–75 mg tiêm bắp), thận bình thường nên dùng được; paracetamol có thể đủ ở từng người. QĐ 361/2014 (Phụ lục thuốc giảm đau, bậc 1: 500–3.000 mg/24 giờ; mục 3.1: không quá 4 g/24 giờ): chọn 3 g vì đã quá liều, men gan nhích lên. Cả hai đều đúng."
+    },
+    {
+     "t": "Liều đầu kháng sinh tĩnh mạch nếu phòng khám có (ceftriaxone 2 g kèm metronidazole 500 mg, hoặc amoxicillin–clavulanic 1 g + 200 mg) hoặc không dùng thường quy ở viêm túi mật nhẹ",
+     "v": "c",
+     "n": "WHO AWaRe 2022 tr. 398: ca nhẹ amoxicillin–clavulanic hoặc ceftriaxone + metronidazole, ngừng khi đã cắt túi mật nếu không biến chứng. EASL 2016 tr. 8: ở viêm túi mật nhẹ (không viêm đường mật, nhiễm khuẩn huyết, áp xe, thủng) kháng sinh không khuyến cáo ở mọi trường hợp. Khác nhau vì EASL bàn có nên dùng không, WHO bàn thuốc và liều khi đã quyết dùng."
+    },
+    {
+     "t": "Nhịn ăn, uống từng ngụm nước; dặn báo ngay khi sốt rét run, vàng mắt hoặc vàng da, nước tiểu sẫm, đau lan khắp bụng, bụng cứng, đái ít",
+     "v": "c",
+     "n": "Dấu viêm phúc mạc, sốc, giảm tưới máu cần xử trí khẩn; vàng da kèm sốt gợi ý viêm đường mật (WHO AWaRe 2022 tr. 397)."
+    },
+    {
+     "t": "Kê kháng sinh uống (amoxicillin–clavulanic) kèm paracetamol, hẹn tái khám sau 2 ngày để khỏi tốn tiền",
+     "v": "w",
+     "n": "Kháng sinh uống không thay cắt túi mật (WHO AWaRe 2022 tr. 398); cần hình ảnh (Tokyo Guidelines 2018, Table 1) và mổ sớm (WSES 2020 khuyến cáo 4.1)."
+    },
+    {
+     "t": "Cho thêm paracetamol 1 g mỗi 4 giờ cho hạ sốt giảm đau rồi hẹn xem tiếp",
+     "v": "h",
+     "n": "Vượt 4 g/ngày (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1; QĐ 3610/2015 tr. 26), che sốt và làm khó đọc men gan."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm túi mật cấp nghi ngờ do sỏi, độ I (Tokyo Guidelines 2018), chưa xác định vì chưa có hình ảnh",
+     "Dùng paracetamol quá liều điều trị nhiều lần (khoảng 5 g/ngày × 3 ngày), AST/ALT 44/48 U/L, chưa tới ngưỡng nguy cơ cao",
+     "Đã loại trừ ở mức lâm sàng: viêm tụy cấp (chờ lipase), loét thủng, viêm gan virus (HBsAg, anti-HCV âm tính)",
+     "Nỗi lo thật: sợ mình bị viêm gan B và lây cho vợ con"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi đau (vị trí, lan vai phải, hít sâu đau, sau bữa mỡ) → sốt (thuốc che) → thuốc (hỏi cụ thể số viên) → tiền sử gan → hỏi riêng ông. Khám: Murphy dương, không phúc mạc, không vàng da.",
+     "Tokyo Guidelines 2018 (Table 1): A (Murphy, ấn đau dưới sườn phải) + B (sốt, CRP, bạch cầu) = nghi ngờ; cần C để xác định. WSES 2020 khuyến cáo 1.1–1.2: không dựa một dấu hiệu đơn độc. WHO AWaRe 2022 tr. 397: sốt có thể vắng; siêu âm để xác định.",
+     "Độ nặng (Tokyo Guidelines 2018, Table 7): bạch cầu 14,8 (< 18.000), không khối, ≈ 58 giờ (< 72 giờ), thận, tuần hoàn bình thường → độ I; vượt 72 giờ, bạch cầu > 18.000 hoặc sờ thấy khối là lên độ II.",
+     "Paracetamol: tiêu chí nguy cơ ≥ 6 g trong ≥ 48 giờ; AST/ALT < 50 tiên lượng tốt; đồ thị Rumack–Matthew không áp dụng (QĐ 3610/2015 tr. 26). Phòng khám không định lượng paracetamol máu."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến trong ngày vì phòng khám không có siêu âm, ngoại khoa; mục tiêu cắt túi mật nội soi sớm: 7 ngày từ nhập viện và 10 ngày từ khởi phát (WSES 2020 khuyến cáo 4.1) hoặc 72 giờ từ nhập viện (EASL 2016 tr. 13); cả hai đều đúng.",
+     "Kháng sinh: WHO AWaRe 2022 tr. 398 hoặc EASL 2016 tr. 8. Giảm đau: NSAID ngắn ngày (EASL 2016 tr. 8) hoặc paracetamol ≤ 3 g/ngày (QĐ 361/2014); cả hai đúng.",
+     "Gỡ nỗi sợ: hỏi riêng, đưa kết quả HBsAg, anti-HCV, hẹn xét thêm anti-HBc, anti-HBs (QĐ 1740/2026 mục II).",
+     "Sai: về nhà uống kháng sinh, tan sỏi, tăng paracetamol, gọi 115 không cần."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên mỗi lần, cách 6–8 giờ; tổng mọi nguồn không quá 3 g/ngày (6 viên)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, trong lúc chờ chuyển",
+      "so_ngay": "Đến khi bệnh viện tiếp nhận",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau (bậc 1: 500–3.000 mg/24 giờ; mục 3.1: ≤ 4 g/24 giờ, thận trọng 3 g vì đã quá liều và men gan nhích lên); EASL 2016 tr. 8. Tính cả số viên đã uống."
+     },
+     {
+      "thuoc": "Diclofenac (thay thế paracetamol)",
+      "ham_luong": "75 mg/3 mL",
+      "lieu": "75 mg một lần",
+      "duong": "Tiêm bắp",
+      "thoi_diem": "Một lần trước khi chuyển",
+      "so_ngay": "1 liều",
+      "ghi_chu": "EASL 2016 tr. 8: diclofenac 50–75 mg tiêm bắp cho cơn đau mật; thận bình thường (creatinin 82 µmol/L). Không kê uống kéo dài."
+     },
+     {
+      "thuoc": "Ceftriaxone kèm metronidazole (liều đầu, nếu có)",
+      "ham_luong": "2 g; 500 mg",
+      "lieu": "Ceftriaxone 2 g; metronidazole 500 mg",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Một liều trước khi chuyển",
+      "so_ngay": "1 liều; bệnh viện quyết tiếp",
+      "ghi_chu": "WHO AWaRe 2022 tr. 398 (ca nhẹ). Hoặc amoxicillin–clavulanic 1 g + 200 mg tĩnh mạch. Hoặc không dùng thường quy (EASL 2016 tr. 8)."
+     }
+    ],
+    "dan_do": [
+     "Đi ngay trong ngày lên bệnh viện huyện, đưa giấy chuyển và vỉ paracetamol đã uống; nhịn ăn, uống từng ngụm nước.",
+     "Không uống paracetamol quá 3 g/ngày (QĐ 361/2014); không tự mua thuốc giảm đau khác.",
+     "Báo ngay nếu sốt rét run, vàng mắt hoặc vàng da, nước tiểu sẫm, đau lan khắp bụng, bụng cứng, đái ít (WHO AWaRe 2022 tr. 397).",
+     "Đau bụng này do túi mật, không phải viêm gan hay chuyện vợ chồng; HBsAg, anti-HCV âm tính. Không cần ăn riêng ngủ riêng; nên làm thêm anti-HBc, anti-HBs và tiêm ngừa viêm gan B nếu chưa có miễn dịch (QĐ 1740/2026).",
+     "Hỏi bệnh viện về thời điểm mổ nội soi cắt túi mật."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 6 ngày ra viện",
+   "tiep_don": "Chị Mai đưa ông Hùng tái khám, mười bốn ngày sau khi khởi phát. Ông đã vào bệnh viện huyện 5 ngày, được truyền kháng sinh, hết sốt thì ra viện kèm giấy hẹn mổ nội soi cắt túi mật sau sáu tuần. Ông đỡ nhiều nhưng còn đau âm ỉ dưới sườn phải. Sinh hiệu: HA 124/78 mmHg, mạch 78 l/p, nhiệt độ 36,9 °C, nhịp thở 16 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho ông Hùng nhập viện lại khi đang hồi phục là quá tay: ông không sốt, mạch 78 l/p, bạch cầu 9,6 G/L, CRP giảm từ 86 xuống 24 mg/L, không khối ấn đau, chưa có tiêu chí độ II hay III (Tokyo Guidelines 2018, Table 7); các yếu tố dự báo điều trị nội thất bại là bạch cầu cao kéo dài và tim nhanh (EASL 2016 tr. 8). Ông phải nghỉ tiệm thêm nhiều ngày, mất thu nhập, và có thể ngại các lần sau.",
+    "chuyen_tuyen": "Chuyển ông Hùng lên bệnh viện tỉnh chụp CT là không cần: CT dành cho nghi biến chứng hoặc chẩn đoán còn chưa rõ (WHO AWaRe 2022 tr. 397), mà ông đã có siêu âm và chẩn đoán rõ trong đợt nằm viện, nay đang đỡ. Đường 50 km, tiền xe, một ngày nghỉ tiệm chỉ làm ông thêm chán nản việc đi khám."
+   },
+   "loi_mo": "Chào bác sĩ. Ổng ra viện sáu hôm rồi, đỡ nhiều mà còn đau âm ỉ. Ổng đòi mở tiệm lại, bác sĩ coi được không?",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "124/78",
+    "nhiet": "36,9",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị Mai: ông ra viện sáu ngày, ăn được, đỡ nhiều nhưng còn đau âm ỉ dưới sườn phải, ăn mỡ là đầy. Ông đòi mở tiệm lại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Đau âm ỉ dưới sườn phải mức 3/10, trước nhập viện là 8/10. Không còn đau quặn, không nôn, không ớn lạnh, không sốt, không vàng mắt, phân vàng, nước tiểu vàng. Ăn cháo, cơm mềm được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đỡ một phần, không dấu hiệu thất bại"
+    },
+    {
+     "id": "giay_ra_vien",
+     "noi_dung": "Giấy ra viện: siêu âm có nhiều sỏi 6–8 mm, thành túi mật dày 5 mm, ít dịch quanh túi mật, ống mật chủ 5 mm; lipase bình thường; bilirubin 14 µmol/L; AST 38, ALT 41 U/L. Chẩn đoán viêm túi mật cấp do sỏi, độ I; truyền kháng sinh 3 ngày rồi uống đủ, đã hết thuốc. Hẹn mổ nội soi cắt túi mật sau sáu tuần vì lịch mổ đang kín.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả đợt nằm viện và hẹn mổ"
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Ông mở tiệm lại ba ngày nay, đứng 9–10 giờ, đau vai lưng nên mua lại paracetamol uống 6 viên mỗi ngày (3 g), có hôm 8 viên; giấu vợ vì sợ bị mắng. Lần uống gần nhất cách đây khoảng 5 giờ. Ở nhà không đo nhiệt độ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi cụ thể số viên paracetamol mỗi ngày từ khi ra viện, đã đo nhiệt độ chưa, hoặc hỏi riêng ông.",
+     "y": "Lại dùng paracetamol, che sốt"
+    },
+    {
+     "id": "lich_mo",
+     "noi_dung": "Giấy hẹn mổ cách năm tuần nữa. Ông phân vân vì sắp đến mùa cưới, tiệm đông khách nhất năm; ông định dời mổ sang năm sau, sợ mổ rồi phải kiêng và tốn tiền.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ý định hoãn mổ"
+    },
+    {
+     "id": "noi_so",
+     "noi_dung": "Ông đã nói với chị Mai nỗi sợ viêm gan B; hai vợ chồng ăn chung lại. Ông hỏi khi nào biết chắc mình và vợ không có bệnh.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiếp nối nỗi lo"
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ dưới sườn phải; Murphy còn hơi dương mờ (ông nhăn mặt nhưng không ngừng thở), không phản ứng thành bụng, không sờ thấy khối, gan lách không to.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, da niêm hồng, củng mạc không vàng, không khô môi.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Co cứng cơ thang và cơ cạnh sống hai bên, ấn đau, không hạn chế vận động, không yếu tay chân.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 9,6 G/L · Neutrophil 68% · Hb 144 g/L · TC 280 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 9.6,
+      "neu_pct": 68.0,
+      "neu": 6.53,
+      "lym_pct": 24.0,
+      "lym": 2.3,
+      "mono_pct": 6.0,
+      "mono": 0.58,
+      "eos_pct": 2.0,
+      "eos": 0.19,
+      "baso_pct": 0.0,
+      "baso": 0.0,
+      "rbc": 4.8,
+      "hgb": 144,
+      "hct": 0.43,
+      "mcv": 90,
+      "mch": 30.0,
+      "mchc": 335,
+      "rdw": 13.1,
+      "plt": 280
+     },
+     "n": "Bạch cầu giảm từ 14,8 xuống 9,6 G/L; bạch cầu cao kéo dài và tim nhanh là yếu tố dự báo cần cắt túi mật sớm (EASL 2016 tr. 8): ông không có."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 24 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 24
+     },
+     "n": "Giảm từ 86 mg/L: đáp ứng điều trị, còn viêm nhẹ."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 41 · ALT 46 U/L (bình thường < 40)",
+     "ab": 1,
+     "n": "Dưới 50 IU/L nhưng nhích lên so với 38/41 lúc ra viện, đúng lúc ông dùng lại paracetamol 3 g/ngày; chống chỉ định khi đang hủy tế bào gan (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1; QĐ 3610/2015 tr. 26)."
+    },
+    "abdus": {
+     "n": "Phòng khám không có siêu âm; đã có siêu âm đợt nằm viện và đang đáp ứng, không cần làm lại hôm nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm túi mật cấp do sỏi, độ I, đang hồi phục chậm bình thường (chưa phải thất bại điều trị nội khoa), chờ cắt túi mật nội soi theo hẹn; lại dùng paracetamol 3 g/ngày che sốt và đau",
+     "ok": 1,
+     "n": "Đau 8/10 xuống 3/10, hết sốt, bạch cầu 14,8 → 9,6 G/L, CRP 86 → 24 mg/L, mạch 78, không khối (Tokyo Guidelines 2018, Table 7: vẫn độ I). Sỏi còn nguyên trong túi mật nên bệnh chưa dứt điểm."
+    },
+    {
+     "t": "Thất bại điều trị nội khoa / biến chứng (hoại thư, mủ túi mật, áp xe quanh túi mật)",
+     "n": "Không sốt, bạch cầu < 18.000, không khối ấn đau, ngày bệnh đã qua đỉnh; yếu tố nguy cơ thất bại (tuổi ≥ 70, đái tháo đường, túi mật căng) ông không có (EASL 2016 tr. 8). Nếu sốt trở lại, đau tăng, bạch cầu tăng lại thì mở lại chẩn đoán."
+    },
+    {
+     "t": "Sỏi ống mật chủ",
+     "n": "Không vàng da, bilirubin 14 µmol/L, ống mật chủ 5 mm, không sốt rét run. Vàng da, sốt, nước tiểu sẫm sẽ buộc xét lại (WSES 2020 khuyến cáo 2.4, Bảng 2; WHO AWaRe 2022 tr. 397)."
+    },
+    {
+     "t": "Tăng men gan do paracetamol",
+     "n": "AST/ALT 41/46 U/L, dưới 50 IU/L tiên lượng tốt nhưng đang tăng nhẹ khi dùng lại thuốc (QĐ 3610/2015 tr. 26)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tiếp tục điều trị nội khoa tại nhà và giữ lịch mổ nội soi cắt túi mật theo giấy hẹn; hỏi bệnh viện có lịch mổ sớm hơn không; không dời sang năm sau",
+     "v": "c",
+     "n": "Cắt túi mật là điều trị dứt điểm. WSES 2020 khuyến cáo 4.2: không mổ sớm được thì mổ muộn sau 6 tuần; EASL 2016 tr. 13: không mổ được trong 1 tuần thì không mổ trong 6 tuần kế tiếp vì biến chứng sau mổ ngày 7–45 gấp 2–3 lần. Không mổ: khoảng 30% tái phát biến chứng, 60% cuối cùng vẫn mổ (WSES 2020 tr. 16); hơn một phần ba biến chứng hoặc nhập viện cấp cứu (EASL 2016 tr. 13)."
+    },
+    {
+     "t": "Hỏi riêng ông về paracetamol; ngưng paracetamol tự dùng; đau vai lưng do đứng lâu xử trí không thuốc (nghỉ xen kẽ, giãn cơ, chườm ấm)",
+     "v": "c",
+     "n": "Men gan nhích lên khi dùng lại (QĐ 3610/2015 tr. 26); chống chỉ định khi tăng men gan (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1). Biện pháp không dùng thuốc cho đau vai gáy, thắt lưng: QĐ 361/2014 (Hội chứng cổ – vai – cánh tay mục 4.2.1, 6; Hội chứng đau thắt lưng mục 4.2.1)."
+    },
+    {
+     "t": "Giải thích sốt có thể bị paracetamol che; dặn đo nhiệt độ trước khi uống thuốc và đi viện ngay khi sốt, đau tăng, vàng mắt, nước tiểu sẫm, nôn",
+     "v": "c",
+     "n": "Sốt có thể vắng ở viêm túi mật (WHO AWaRe 2022 tr. 397); vàng da kèm sốt, đau gợi viêm đường mật (WHO tr. 397)."
+    },
+    {
+     "t": "Không kê thêm kháng sinh; ông đã hoàn tất điều trị",
+     "v": "c",
+     "n": "Không sốt, bạch cầu và CRP giảm. Ca không biến chứng có thể ngừng kháng sinh khi nguồn nhiễm đã kiểm soát (WHO AWaRe 2022 tr. 398); ở viêm túi mật nhẹ kháng sinh không khuyến cáo ở mọi trường hợp (EASL 2016 tr. 8)."
+    },
+    {
+     "t": "Hẹn tái khám sau 1–2 tuần, kèm xét lại AST/ALT; khám ngay khi có dấu hiệu nặng",
+     "v": "c",
+     "n": "Mốc 1–2 tuần là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ăn chia nhỏ bữa, tránh bữa nhiều mỡ",
+     "v": "a",
+     "n": "Bằng chứng kiêng mỡ không có trong tài liệu đã tải; cơn đau trước đó khởi phát sau bữa nhiều mỡ."
+    },
+    {
+     "t": "Kê kháng sinh uống thêm (ciprofloxacin kèm metronidazole) vì còn đau",
+     "v": "w",
+     "n": "Không sốt, bạch cầu và CRP đã giảm; kháng sinh ở viêm túi mật nhẹ không khuyến cáo ở mọi trường hợp (EASL 2016 tr. 8). Ciprofloxacin + metronidazole chỉ là lựa chọn hai (WHO AWaRe 2022 tr. 398)."
+    },
+    {
+     "t": "Nhập viện lại hoặc chuyển bệnh viện tỉnh chụp CT",
+     "v": "w",
+     "n": "Không có dấu biến chứng; CT dành cho nghi biến chứng hoặc chẩn đoán chưa rõ (WHO AWaRe 2022 tr. 397)."
+    },
+    {
+     "t": "Đồng ý hoãn mổ sang năm sau mùa cưới, cho thuốc tan sỏi hoặc thuốc nam lợi mật",
+     "v": "w",
+     "n": "Tan sỏi không khuyến cáo (EASL 2016 tr. 7); hoãn mổ để lại nguy cơ tái phát biến chứng (WSES 2020 tr. 16; EASL 2016 tr. 13)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm túi mật cấp do sỏi, độ I, hồi phục chậm bình thường sau điều trị nội khoa; sỏi vẫn còn trong túi mật",
+     "Không có dấu hiệu thất bại điều trị hay biến chứng; chưa gợi ý sỏi ống mật chủ",
+     "Lại dùng paracetamol 3 g/ngày, AST/ALT 41/46 nhích lên",
+     "Ý định hoãn mổ sang năm sau"
+    ],
+    "phan_tich_chan_doan": [
+     "Phân biệt hồi phục chậm bình thường với thất bại sớm: bốn chỉ báo cùng chiều (hết sốt thật khi đo trước thuốc, bạch cầu 14,8 → 9,6, CRP 86 → 24, mạch 78); bạch cầu cao kéo dài và tim nhanh mới là yếu tố dự báo cần mổ sớm (EASL 2016 tr. 8). Vẫn độ I (Tokyo Guidelines 2018, Table 7).",
+     "Thuốc che: ông uống paracetamol 3 g/ngày, lần cuối 5 giờ trước nên 36,9 °C chưa chắc là hết sốt; xét thêm bạch cầu, CRP, triệu chứng (WHO AWaRe 2022 tr. 397).",
+     "Men gan 41/46 dưới ngưỡng 50 IU/L nhưng tăng nhẹ: hỏi lại thuốc, ngưng thuốc (QĐ 3610/2015 tr. 26)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về điều trị tiếp, giữ lịch mổ. Mốc mổ: ca đã qua 7 ngày từ nhập viện nên không còn mổ sớm (WSES 2020 khuyến cáo 4.1); DLC sau 6 tuần (khuyến cáo 4.2) và EASL 2016 tr. 13 (tránh 6 tuần kế tiếp) cùng chiều với hẹn sau 6 tuần của bệnh viện.",
+     "Sỏi chưa lấy ra thì còn nguy cơ tái phát; điều trị nội đơn thuần có 30% tái phát biến chứng (WSES 2020 tr. 16). Đau vai lưng: biện pháp không thuốc (QĐ 361/2014)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (chỉ khi thật cần)",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần, cách 6–8 giờ; không quá 2 g/ngày; ngưng nếu men gan tăng",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi đau nhiều, đo nhiệt độ trước khi uống",
+      "so_ngay": "Đến khi tái khám",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1; ưu tiên biện pháp không thuốc; mức 2 g là lựa chọn của ca vì AST/ALT nhích lên (không có trong tài liệu đã tải)."
+     }
+    ],
+    "dan_do": [
+     "Giữ lịch mổ nội soi cắt túi mật; xin bệnh viện đặt lịch sớm hơn nếu có; không dời sang năm sau vì dễ tái phát (WSES 2020 tr. 16; EASL 2016 tr. 13).",
+     "Mỗi sáng đo nhiệt độ, và đo trước khi uống thuốc giảm đau; không tự mua paracetamol.",
+     "Đi bệnh viện ngay nếu sốt, đau dữ lại, nôn, vàng mắt hoặc da, nước tiểu sẫm (WHO AWaRe 2022 tr. 397).",
+     "Đứng tiệm lâu: nghỉ xen kẽ, giãn cơ vai lưng (QĐ 361/2014); ăn bữa nhỏ, bớt mỡ.",
+     "Tái khám sau 1–2 tuần kèm xét lại men gan; hai vợ chồng nhớ xét anti-HBc, anti-HBs (QĐ 1740/2026 mục II)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 5 tuần",
+   "tiep_don": "Sáng sớm, chị Mai đưa ông Hùng đến sau một đêm đau dữ dội ở sườn phải, sốt rét run, nôn nhiều. Hai ngày trước ông dự đám cưới người cháu, ăn nhiều món mỡ. Ông chưa đi mổ: đã tự dời lịch hẹn. Sinh hiệu: HA 112/70 mmHg, mạch 106 l/p, nhiệt độ 38,6 °C, nhịp thở 22 l/p, SpO₂ 97%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho ông Hùng về với kháng sinh uống và thuốc giảm đau là sai nguy hiểm nhất: ông đã sốt cao, bạch cầu trên 18.000/mm³ và có khối ấn đau, tức độ II (Tokyo Guidelines 2018, Table 7); túi mật căng có thể tiến tới hoại thư, mủ, thủng (EASL 2016 tr. 13). Kháng sinh uống không cắt được ổ nhiễm (WHO AWaRe 2022 tr. 398); về nhà ông lại giấu thuốc hạ sốt nên khi quay lại có thể đã nặng hơn.",
+    "theo_doi": "Giữ ông Hùng ở phòng khám truyền dịch, theo dõi 24 giờ rồi mới chuyển là mất thời gian: phòng khám không có siêu âm, ngoại khoa, còn độ II nên mổ nội soi trong 96 giờ từ khởi phát (Tokyo Guidelines 2018, Table 7 chú thích a). Mỗi giờ chờ làm ổ viêm lan thêm, và khi chuyển đi ông đã nặng hơn."
+   },
+   "loi_mo": "Bác sĩ cứu ổng với! Ổng đau lại, sốt run cả đêm, ói hoài. Ổng dời lịch mổ vì sợ trễ mùa cưới, tôi giận lắm mà cản không được.",
+   "sinh_hieu": {
+    "mach": 106,
+    "ha": "112/70",
+    "nhiet": "38,6",
+    "nhip_tho": 22,
+    "spo2": 97,
+    "canh_bao": [
+     "Sốt 38,6 °C",
+     "Mạch 106 l/p",
+     "Thở nhanh 22 l/p"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị Mai: ổng đau sườn phải dữ dội từ nửa đêm, sốt run, ói hoài, ăn không vô. Hai hôm trước ăn đám cưới nhiều thịt mỡ. Ổng đã tự dời lịch mổ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Đau liên tục dưới sườn phải, lan vai phải, nặng hơn lần trước (9/10), khoảng 8 giờ. Ớn lạnh, nôn năm lần. Không vàng mắt, phân vàng, nước tiểu hơi sẫm vì ít uống. Không đau xuyên ra lưng, không đột ngột như dao đâm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tái phát; phân biệt viêm đường mật, tụy, thủng"
+    },
+    {
+     "id": "dung_thuoc",
+     "noi_dung": "Ông uống 2 viên paracetamol lúc 3 giờ sáng, sau đó vẫn sốt. Từ lần trước ông chỉ uống khi quá đau; không thuốc nào khác, chưa dùng kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng"
+    },
+    {
+     "id": "doi_lich",
+     "noi_dung": "Ông tự gọi bệnh viện dời hẹn mổ sang năm sau để kịp mùa cưới và vì sợ tốn tiền kiêng khem, không nói với vợ; đỡ rồi nên nghĩ \"hết bệnh\". Sổ ra viện mang theo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tái phát do chưa cắt túi mật, tự hoãn mổ"
+    },
+    {
+     "id": "nguon_luc",
+     "noi_dung": "Bệnh viện huyện (15 km) từng điều trị ông nhưng lịch mổ kín; bệnh viện tỉnh cách 50 km có ngoại khoa, CT, hồi sức. Chị Mai gọi được con trai chở xe.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nơi chuyển và phương tiện"
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng căng nhẹ vùng sườn phải. Ấn đau rõ dưới bờ sườn phải, Murphy dương mạnh (ông ngừng thở, gạt tay), sờ thấy khối mềm, bờ tròn, ấn đau dưới bờ sườn phải. Phản ứng thành bụng khu trú ở sườn phải; không co cứng lan tỏa, không dội ngoài vùng đó; nhu động ruột còn.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Mệt, run lạnh, khô môi. Củng mạc và da không vàng, không hạch thượng đòn.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 106 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 106 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp tim nhanh khoảng 106 l/p, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 19,8 G/L · Neutrophil 90% · Hb 146 g/L · TC 245 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 19.8,
+      "neu_pct": 90.0,
+      "neu": 17.82,
+      "lym_pct": 6.0,
+      "lym": 1.19,
+      "mono_pct": 3.0,
+      "mono": 0.59,
+      "eos_pct": 1.0,
+      "eos": 0.2,
+      "baso_pct": 0.0,
+      "baso": 0.0,
+      "rbc": 4.9,
+      "hgb": 146,
+      "hct": 0.44,
+      "mcv": 90,
+      "mch": 29.8,
+      "mchc": 332,
+      "rdw": 13.4,
+      "plt": 245
+     },
+     "n": "Bạch cầu > 18.000/mm³ là tiêu chí độ II (Tokyo Guidelines 2018, Table 7); tiểu cầu > 100.000 nên chưa rối loạn huyết học độ III."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 168 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 168
+     },
+     "n": "Tiêu chí B (Tokyo Guidelines 2018, Table 1); viêm nặng hơn lần đầu."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 36 · ALT 40 U/L",
+     "n": "Gần bình thường: không còn gợi ý độc gan do paracetamol; men gan không tăng làm giảm nghi ngờ sỏi ống mật chủ (WSES 2020 khuyến cáo 2.4, Bảng 2)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 7,2 mmol/L · Creatinin 96 µmol/L · eGFR 82 mL/ph/1,73m²",
+     "bang": {
+      "ure": 7.2,
+      "creat": 96,
+      "egfr": 82
+     },
+     "n": "Mất nước nhẹ; creatinin < 2,0 mg/dL nên chưa rối loạn thận độ III (Tokyo Guidelines 2018, Table 7)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "SG 1,030 · Ceton 2+ · Bilirubin âm tính",
+     "bang": {
+      "u_sg": 1.03,
+      "u_ph": 5.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "2+",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Cô đặc, ceton do nhịn ăn và nôn; không bilirubin niệu."
+    },
+    "cay": {
+     "v": "u",
+     "r": "(Phòng khám không cấy máu được.)",
+     "n": "Ca độ II, ông vừa dùng kháng sinh trước đó (nguy cơ vi khuẩn kháng thuốc): nên cấy để chỉnh kháng sinh (WSES 2020 khuyến cáo 7.3, tr. 20). Không được hoãn chuyển để chờ cấy."
+    },
+    "abdus": {
+     "n": "Phòng khám không có siêu âm; chuyển tuyến để làm siêu âm trước mổ."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm túi mật cấp do sỏi tái phát, độ II (bạch cầu 19,8 G/L > 18.000/mm³, sờ thấy khối ấn đau dưới sườn phải), trên nền sỏi túi mật chưa cắt; chưa có rối loạn cơ quan nên chưa độ III",
+     "ok": 1,
+     "n": "A: Murphy, khối ấn đau; B: sốt, CRP, bạch cầu → chẩn đoán nghi ngờ lâm sàng rất mạnh, đã có siêu âm đợt trước (Tokyo Guidelines 2018, Table 1). Độ II khi có bất kỳ: bạch cầu > 18.000, khối ấn đau, > 72 giờ, viêm tại chỗ nặng (Table 7). Tái phát vì sỏi vẫn còn và ông hoãn mổ (WSES 2020 tr. 16)."
+    },
+    {
+     "t": "Viêm đường mật cấp / sỏi ống mật chủ",
+     "n": "Không vàng da, bilirubin niệu âm tính, men gan gần bình thường; viêm đường mật là đau + sốt + vàng da (WHO AWaRe 2022 tr. 397). Vẫn cần bilirubin và siêu âm bệnh viện (WSES 2020 khuyến cáo 2.4)."
+    },
+    {
+     "t": "Viêm tụy cấp",
+     "n": "Đau không xuyên ra lưng, có khối túi mật; cần lipase ở bệnh viện (Atlanta 2012, Gut 2013 tr. 103)."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng thủng",
+     "n": "Không đột ngột, không co cứng lan tỏa (WSES 2020 loét thủng, mục Diagnosis)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến trong ngày: gọi báo trước, xe cứu thương hoặc xe nhà có vợ đi cùng, mang theo giấy ra viện đợt trước, đến nơi có ngoại khoa mổ nội soi (bệnh viện huyện đã có hồ sơ, hoặc bệnh viện tỉnh 50 km nếu huyện kín lịch) để cắt túi mật nội soi sớm",
+     "v": "c",
+     "n": "Độ II nên mổ nội soi trong 96 giờ từ khởi phát (Tokyo Guidelines 2018, Table 7 chú thích a) hoặc trong 7 ngày từ nhập viện và 10 ngày từ khởi phát (WSES 2020 khuyến cáo 4.1), hoặc ưu tiên trong 72 giờ từ nhập viện (EASL 2016 tr. 13); cùng hướng sớm. Chuyển nơi có ngoại khoa kinh nghiệm nếu chưa đủ (WSES 2020 tr. 14)."
+    },
+    {
+     "t": "Đặt đường truyền, truyền dịch tinh thể, giảm đau (paracetamol tổng không quá 3 g/ngày, đã uống 1 g sáng nay), nhịn ăn uống trước khi chuyển",
+     "v": "c",
+     "n": "Hỗ trợ ban đầu: dịch, điện giải, giảm đau (EASL 2016 tr. 8); paracetamol ≤ 3 g/ngày (QĐ 361/2014 Phụ lục thuốc giảm đau); thể tích dịch không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng sinh tĩnh mạch liều đầu (ceftriaxone 2 g kèm metronidazole 500 mg) sau khi lấy cấy máu nếu có; ghi giấy chuyển: đã dùng kháng sinh cách đây khoảng 6 tuần, nguy cơ vi khuẩn kháng thuốc",
+     "v": "c",
+     "n": "Đã ngoài nhóm viêm túi mật nhẹ của EASL 2016 tr. 8 (có khối, bạch cầu > 18.000): kháng sinh tĩnh mạch theo WHO AWaRe 2022 tr. 398. Người đã dùng kháng sinh: nguy cơ ESBL, nên cấy để chỉnh (WSES 2020 khuyến cáo 7.2, 7.3, tr. 20)."
+    },
+    {
+     "t": "Nói rõ với ông và vợ vì sao bệnh quay lại (sỏi còn trong túi mật), vì sao thuốc không đủ, hỏi lại nỗi lo tiền và mùa cưới; không để ông tự dời mổ lần nữa",
+     "v": "c",
+     "n": "Không mổ thì khoảng 30% tái phát biến chứng (WSES 2020 tr. 16); hơn một phần ba biến chứng hoặc nhập viện cấp cứu (EASL 2016 tr. 13)."
+    },
+    {
+     "t": "Chuyển bằng xe cứu thương có nhân viên y tế đi kèm",
+     "v": "a",
+     "n": "Ông còn tỉnh, huyết động ổn; xe nhà có người đi kèm cũng chấp nhận."
+    },
+    {
+     "t": "Giữ ông tại phòng khám truyền dịch, kháng sinh và theo dõi 24 giờ rồi mới chuyển",
+     "v": "w",
+     "n": "Phòng khám không có ngoại khoa, siêu âm; độ II cần mổ sớm (Tokyo Guidelines 2018, Table 7 chú thích a)."
+    },
+    {
+     "t": "Kê kháng sinh uống kèm giảm đau, hẹn tái khám sau hai ngày, mổ lại khi hết mùa cưới",
+     "v": "w",
+     "n": "Kháng sinh uống không thay cắt túi mật (WHO AWaRe 2022 tr. 398); độ II không điều trị ngoại trú."
+    },
+    {
+     "t": "Nhờ tuyến trên dẫn lưu túi mật qua da thay vì cắt túi mật",
+     "v": "w",
+     "n": "Dẫn lưu dành cho người không phù hợp phẫu thuật; ông 52 tuổi, khỏe, huyết động ổn nên cắt túi mật nội soi là điều trị đầu tay (WSES 2020 khuyến cáo 6.3, 6.4, 3.1)."
+    },
+    {
+     "t": "Cho paracetamol 1 g mỗi 4 giờ liên tục cho hạ sốt rồi cho về",
+     "v": "h",
+     "n": "Vượt 4 g/ngày và che sốt (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1; QĐ 3610/2015 tr. 26)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm túi mật cấp do sỏi tái phát, độ II (Tokyo Guidelines 2018), chưa rối loạn cơ quan",
+     "Nguyên nhân tái phát: sỏi còn trong túi mật vì tự hoãn mổ, thêm bữa nhiều mỡ",
+     "Chưa có dấu viêm đường mật; viêm tụy cấp và thủng loét loại tạm bằng lâm sàng, chờ lipase, bilirubin ở bệnh viện"
+    ],
+    "phan_tich_chan_doan": [
+     "Độ II vì bạch cầu 19,8 G/L > 18.000/mm³ và sờ thấy khối ấn đau (Tokyo Guidelines 2018, Table 7). Chưa độ III: HA ổn, tỉnh, thở không cần máy, creatinin 96 µmol/L, tiểu cầu 245 G/L.",
+     "Tái phát vì nguyên nhân nền chưa xử lý: điều trị nội khoa không lấy sỏi; 30% tái phát biến chứng (WSES 2020 tr. 16). Không phải chẩn đoán sai.",
+     "Không vàng da, men gan bình thường, bilirubin niệu âm tính nên viêm đường mật ít nghĩ (WHO AWaRe 2022 tr. 397); bệnh viện vẫn cần làm bilirubin và siêu âm ống mật chủ (WSES 2020 khuyến cáo 2.4)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến trong ngày để cắt túi mật nội soi sớm: ghi cả ba mốc, 96 giờ (Tokyo Guidelines 2018, độ II), 7 ngày từ nhập viện và 10 ngày từ khởi phát (WSES 2020), 72 giờ từ nhập viện (EASL 2016).",
+     "Ổn định trước chuyển: truyền dịch, giảm đau, nhịn ăn uống, kháng sinh tĩnh mạch liều đầu; ghi giấy chuyển tiền sử kháng sinh vì nguy cơ ESBL (WSES 2020 tr. 20).",
+     "Tâm lý: tự hoãn mổ vì tiền và mùa cưới; thuốc nam, thuốc tan sỏi không phải đường tắt (EASL 2016 tr. 7)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% truyền (hoặc Ringer lactat)",
+      "ham_luong": "Chai 500 mL",
+      "lieu": "Thể tích: không có trong tài liệu đã tải; theo mạch, huyết áp, nước tiểu",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Ngay trước khi chuyển",
+      "so_ngay": "1 lần",
+      "ghi_chu": "Hỗ trợ ban đầu (EASL 2016 tr. 8). Thể tích không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Ceftriaxone kèm metronidazole (liều đầu)",
+      "ham_luong": "2 g; 500 mg",
+      "lieu": "Ceftriaxone 2 g; metronidazole 500 mg",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Một liều trước khi chuyển, sau cấy máu nếu có",
+      "so_ngay": "1 liều; bệnh viện quyết tiếp",
+      "ghi_chu": "WHO AWaRe 2022 tr. 398; WSES 2020 khuyến cáo 7.2–7.3, tr. 20 (nguy cơ ESBL)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên nếu đau, tổng mọi nguồn không quá 3 g/ngày (đã uống 1 g)",
+      "duong": "Uống hoặc truyền theo chỉ định",
+      "thoi_diem": "Khi đau, nếu còn uống được",
+      "so_ngay": "Đến khi bệnh viện tiếp nhận",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau (mục 3.1, bậc 1); EASL 2016 tr. 8."
+     }
+    ],
+    "dan_do": [
+     "Đi ngay lên bệnh viện, mang sổ ra viện cũ và vỉ thuốc, nhịn ăn uống; ghi rõ đã dùng kháng sinh khoảng 6 tuần trước (WSES 2020 tr. 20).",
+     "Báo ngay nếu lạnh run tăng, lơ mơ, đau lan khắp bụng, bụng cứng, đái ít, vàng mắt (WHO AWaRe 2022 tr. 397).",
+     "Cắt túi mật là điều trị dứt điểm; hỏi bác sĩ ngoại về thời điểm mổ, không tự dời lịch lần nữa.",
+     "Sau mổ nhớ xét anti-HBc, anti-HBs, tiêm ngừa viêm gan B nếu chưa có miễn dịch (QĐ 1740/2026)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Con trai chở ông Hùng và chị Mai sang bệnh viện huyện; khoa ngoại còn giường, giữ ông lại. Siêu âm: túi mật căng, thành dày 6 mm, dịch quanh túi mật, một sỏi kẹt ở cổ túi, ống mật chủ 5 mm; lipase, bilirubin bình thường. Cấy máu mọc E. coli nhạy cảm, kháng sinh tĩnh mạch được chỉnh theo kết quả (WHO AWaRe 2022 tr. 398; WSES 2020 khuyến cáo 7.3). Hai ngày sau ông được cắt túi mật nội soi, không phải chuyển mổ mở, và ra viện sau ba ngày; sau mổ không dùng kháng sinh kéo dài vì ổ nhiễm đã được lấy bỏ (WSES 2020 khuyến cáo 7.1). Xét nghiệm anti-HBc, anti-HBs của hai vợ chồng âm tính nên cả hai tiêm ngừa viêm gan B (QĐ 1740/2026 mục I). Ông về tiệm, bớt paracetamol, thuê thêm một người phụ để khỏi đứng suốt ngày.",
+ "nhieu": [
+  "Vợ kể thay: nói \"ổng không sốt\", \"vài viên Panadol\"; chỉ khi hỏi cụ thể và hỏi riêng ông mới biết 5 g paracetamol mỗi ngày và nỗi sợ viêm gan.",
+  "Paracetamol vừa che sốt vừa làm phức tạp men gan: AST/ALT 44/48 chưa tới ngưỡng 50 IU/L, nhưng phải ngưng và xét lại (QĐ 3610/2015 tr. 26).",
+  "Khởi phát \"sau quan hệ vợ chồng\" làm hai người nghĩ đau do gắng sức; nguyên nhân thật là sỏi sau bữa nhiều mỡ.",
+  "Không có siêu âm: điểm cốt lõi là nhận ra nghi ngờ lâm sàng (nhóm A + B) và chuyển tuyến đúng chỗ, đúng lúc."
+ ],
+ "bai_hoc_bien": [
+  "Người nhà trả lời thay: mời họ ra ngoài, hỏi riêng người bệnh về thuốc đã uống, tiền sử và điều lo nhất.",
+  "Hỏi cụ thể tên thuốc giảm đau và số viên mỗi ngày; paracetamol liều cao che sốt, nên đo nhiệt độ trước khi uống thuốc.",
+  "Đỡ một phần ở lượt 2: phân biệt hồi phục chậm bình thường (hết sốt thật, bạch cầu và CRP giảm, mạch bình thường) với thất bại điều trị nội khoa sớm.",
+  "Sỏi còn trong túi mật nên viêm túi mật tái phát nếu hoãn mổ; điều trị dứt điểm là cắt túi mật."
+ ],
+ "diem_nho": [
+  "Chẩn đoán nghi ngờ: một mục nhóm A + một mục nhóm B; xác định cần thêm hình ảnh (Tokyo Guidelines 2018, Table 1).",
+  "Độ II: bạch cầu > 18.000/mm³, khối ấn đau, > 72 giờ, viêm tại chỗ nặng (Tokyo Guidelines 2018, Table 7).",
+  "Cắt túi mật nội soi sớm: 7 ngày từ nhập viện, 10 ngày từ khởi phát (WSES 2020 khuyến cáo 4.1) hoặc 72 giờ từ nhập viện (EASL 2016 tr. 13); không mổ sớm được thì sau 6 tuần (WSES 4.2).",
+  "Paracetamol nhiều lần: nguy cơ khi ≥ 6 g trong ≥ 48 giờ; AST/ALT < 50 IU/L tiên lượng tốt, > 50 IU/L cần N-acetylcystein (QĐ 3610/2015 tr. 26).",
+  "Kháng sinh ở viêm túi mật nhẹ: dùng WHO AWaRe 2022 tr. 398 hoặc không dùng thường quy theo EASL 2016 tr. 8.",
+  "Điều trị nội khoa đơn thuần: khoảng 30% tái phát biến chứng, khoảng 60% cuối cùng vẫn mổ (WSES 2020 tr. 16)."
+ ],
+ "nguon": [
+  "Tokyo Guidelines 2018 – TL-0229 – Table 1 (tiêu chuẩn chẩn đoán), Table 7 (độ nặng, chú thích a)",
+  "WSES 2020 viêm túi mật cấp do sỏi – TL-0223 – khuyến cáo 1.1–1.3, 2.4, 3.1, 4.1–4.2, 6.1, 6.3–6.4, 7.1–7.3; Bảng 2",
+  "EASL 2016 sỏi mật – TL-0234 – tr. 7 (chẩn đoán, tan sỏi), tr. 8 (NSAID, kháng sinh, yếu tố dự báo), tr. 13 (thời điểm mổ)",
+  "WHO AWaRe 2022 – TL-0018 – mục 29, tr. 396–398",
+  "BYT QĐ 3610/2015 ngộ độc – TL-0035 – Ngộ độc paracetamol (tr. 21, 26)",
+  "BYT QĐ 361/2014 cơ xương khớp – TL-0286 – Phụ lục thuốc giảm đau (mục 3.1, tr. 202); Hội chứng cổ – vai – cánh tay, Hội chứng đau thắt lưng (mục 4.2.1)",
+  "BYT QĐ 1740/2026 viêm gan vi rút B – TL-0164 – mục I, II, 4.2",
+  "Atlanta 2012 – TL-0104; ACG 2024 viêm tụy cấp – TL-0060; WSES 2020 loét thủng – TL-0088"
+ ],
+ "ghi_chu_bien_tap": [
+  "Ngày viết 07/11/2026. Tài liệu đã đọc: TL-0229 (Table 1, 7), TL-0223 (khuyến cáo 1–4, 6, 7), TL-0234 (tr. 7, 8, 13), TL-0018 (mục 29), TL-0035 (Ngộ độc paracetamol), TL-0286 (Phụ lục thuốc giảm đau), TL-0164 (mục I, II, 4.2), TL-0104, TL-0060, TL-0088. Bố cục tham khảo TH-0295, TH-1258.",
+  "Chỗ không có trong tài liệu đã tải: liều butylscopolamin, thể tích dịch truyền, mốc tái khám 1–2 tuần, bằng chứng kiêng mỡ, lưỡi dao dùng một lần cho từng khách, mức 2 g/ngày paracetamol ở lượt 2 (lựa chọn của ca). WSES 2020 Table 4 (phác đồ kháng sinh) không đọc được; dùng WHO AWaRe 2022.",
+  "Biến sổ cái: \"khởi phát sau quan hệ tình dục\" là mốc thời gian (bữa mỡ rồi gần gũi), không phải nguyên nhân; \"sợ lây bệnh cho người thân\" = sợ viêm gan B (anh ruột chết vì ung thư gan; nghề dùng dao cạo), su_that giấu chỉ lộ khi hỏi riêng; test nhanh HBsAg có ở phòng khám.",
+  "Ràng buộc nguồn lực: khoa_cls khóa X-quang, siêu âm (kéo CT, nội soi); lipase, bilirubin – ALP – GGT khai \"không làm được\" ở L1, cấy máu ở L3.",
+  "Đã đối chiếu sổ mâu thuẫn và ghi theo mục có sẵn: kháng sinh viêm túi mật nhẹ (TH-1253), giảm đau cơn mật (TH-1221), paracetamol tối đa (TH-0295, HH-1269), thời điểm cắt túi mật và cấy máu (TH-1258), paracetamol quá liều nhiều lần (HH-0484, DL-0302)."
+ ]
+}
