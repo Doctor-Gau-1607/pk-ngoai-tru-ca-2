@@ -1,0 +1,583 @@
+{
+ "ma_ca": "TH-0724",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_ngo_doc_thuc_pham",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Ngộ độc thực phẩm",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Viêm ruột thừa",
+   "Nhiễm khuẩn huyết"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "nghe_nghiep": "Bác sĩ",
+  "yeu_to_khoi_phat": "Sau ăn thức ăn đường phố",
+  "thuoc_dang_dung": "Corticoid tự mua",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Trịnh Hữu Đạt",
+  "tuoi": 34,
+  "gioi": "Nam",
+  "nghe": "Bác sĩ phẫu thuật chấn thương chỉnh hình, bệnh viện huyện",
+  "can_nang": 70,
+  "chieu_cao": 172,
+  "xung_ho": "Anh tự xưng 'tôi', gọi bác sĩ khám là 'đồng nghiệp' hoặc 'anh/chị'. Bác sĩ gọi anh là 'anh Đạt'.",
+  "tinh_cach": "Nhanh nhẹn, nói nhanh, quen tự ra quyết định nên hay tự chẩn đoán và tự kê đơn cho mình. Tự tin chuyên môn nhưng ngại bị đồng nghiệp cho là 'bác sĩ mà tự dùng thuốc bừa', nên chỉ kể thuốc tự mua khi bị hỏi thẳng. Ít nói về nỗi sợ của bản thân, đặc biệt là sợ bệnh tim.",
+  "kieu_nhieu": "Đòi kháng sinh: vào là nêu ngay chẩn đoán 'viêm ruột nhiễm khuẩn', đề nghị ciprofloxacin 5 ngày và truyền một chai dịch cho nhanh vì sáng mai có ca mổ. Lập luận bằng kinh nghiệm ở khoa và việc 'đang dùng steroid nên dễ nhiễm trùng nặng'. Bị từ chối chung chung thì bực, nói 'thôi tôi tự kê'; được giải thích bằng nguồn cụ thể và được hứa theo dõi sát, có mốc quay lại rõ ràng thì chịu nghe.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9b08c",
+   "toc": "#2a2523",
+   "kieuToc": "ngan",
+   "ao": "#5b7c99",
+   "aoKieu": "polo",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Đau quặn bụng, nôn và đi ngoài lỏng từ chiều, xin kháng sinh và truyền dịch",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ (20 giờ 45 tối thứ Sáu), kỹ thuật viên đã về: phòng khám không làm được xét nghiệm máu, phân, X-quang hay siêu âm (kéo theo không CT, không nội soi); mẫu gửi đi chỉ có kết quả sáng thứ Hai. Còn dùng được: ống nghe, huyết áp kế, nhiệt kế, máy đo SpO₂, máy đo đường huyết mao mạch, que thử nước tiểu, máy điện tim. Bệnh viện huyện cách 12 km (khoa cấp cứu có xét nghiệm, CT cả đêm)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Trịnh Hữu Đạt, 34 tuổi, bác sĩ ngoại khoa bệnh viện huyện, tự đến phòng khám lúc 20 giờ 45 tối thứ Sáu vì đau quặn bụng, nôn và đi ngoài lỏng từ chiều. Sinh hiệu: HA 118/74 mmHg, mạch 86 l/p, nhiệt độ 37,3 °C, nhịp thở 18 l/p, SpO₂ 99%. Cân nặng 70 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Giữ anh Đạt lại truyền Ringer lactat qua đêm và cho ciprofloxacin như anh đòi: anh mất nước độ 1, uống được, huyết động ổn, nên oresol là đủ; truyền tĩnh mạch dành cho mất nước nặng, sốc, rối loạn ý thức hoặc thất bại oresol (IDSA 2017 khuyến cáo 39, 41; QĐ 5642/2015, Bệnh tiêu chảy do vi khuẩn, mục 4.2.3a). Tiêu chảy nước không sốt, không máu không có chỉ định kháng sinh kinh nghiệm (IDSA 2017 khuyến cáo 36); kháng sinh có thể làm Salmonella thải trong phân lâu hơn và gây tiêu chảy do C. difficile (ACG 2016 tr. 611). Anh mất cả đêm nằm truyền, ngày mai vẫn còn đi ngoài lỏng nên tưởng 'thuốc chưa đủ mạnh', còn nỗi lo về tim thì chưa ai hỏi tới.",
+    "chuyen_tuyen": "Chuyển anh Đạt đi cấp cứu bệnh viện huyện 12 km ngay đêm nay để lấy máu và chụp CT bụng là quá tay: bụng mềm, đau lan tỏa, không điểm đau khu trú nên chưa có chỉ định hình ảnh, điểm lâm sàng đi trước (WSES 2025 khuyến cáo 1, 3.1); ECG bình thường và tức ngực chỉ thoáng qua lúc nôn mạnh, nên làm lại ECG khi triệu chứng tái phát là đủ ở thời điểm này (ESC 2023 mục 3.2). Anh phải ngồi xe lúc đang nôn và tiêu chảy, chờ nhiều giờ ở khoa cấp cứu, phát sinh chi phí mà vẫn chỉ được bù dịch uống và theo dõi, trong khi phần thông tin quan trọng nhất (kết quả ECG, đau ngực chỉ lúc nôn, dấu hiệu cần quay lại) chưa được giải thích cho anh."
+   },
+   "loi_mo": "Chào đồng nghiệp. Tôi bị viêm ruột nhiễm khuẩn, nôn với đi ngoài nước từ chiều tới giờ. Anh kê giúp tôi ciprofloxacin năm ngày, tiện thì truyền luôn chai dịch cho nhanh, bảy giờ rưỡi sáng mai tôi có ca mổ.",
+   "sinh_hieu": {
+    "mach": 86,
+    "ha": "118/74",
+    "nhiet": "37,3",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau quặn bụng, nôn và đi ngoài lỏng từ khoảng 17 giờ chiều nay. Muốn có kháng sinh và truyền dịch để sáng mai còn đi mổ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "bua_an",
+     "noi_dung": "Khoảng 15 giờ 30, sau ca mổ, ăn hai phần bì cuốn và vài miếng nem nướng ở xe đẩy trước cổng bệnh viện (hàng bày từ trưa, không có đá lạnh). Khoảng 17 giờ bắt đầu sôi bụng, rồi nôn và đi ngoài. Bữa trưa ăn ở căng-tin cùng mọi người, không ai bị.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bữa ăn nghi ngờ và thời gian ủ bệnh ngắn"
+    },
+    {
+     "id": "dong_bua",
+     "noi_dung": "Chị Hà (điều dưỡng) và anh Tuấn (kỹ thuật viên) cùng ăn ở xe đẩy đó; chiều nhắn tin cho biết cũng nôn và đi ngoài từ khoảng 18 giờ, không ai sốt cao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chùm ca cùng bữa ăn"
+    },
+    {
+     "id": "non_tieu_chay",
+     "noi_dung": "Nôn khoảng 4 lần (thức ăn, sau đó dịch vàng), đi ngoài lỏng khoảng 6 lần từ 17 giờ, phân nước màu vàng nâu, không máu, không nhầy, không trắng đục như nước vo gạo. Hai lần đi ngoài gần nhất lượng ít hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất nôn và phân"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Đau quặn từng cơn quanh rốn, dịu đi sau khi đi ngoài. Không đau cố định một chỗ, không đau chuyển xuống hố chậu phải, không đau lan ra lưng. Chưa mổ bụng bao giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất đau bụng (phân biệt ngoại khoa)"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Không rét run, chưa đo nhiệt độ ở nhà; thấy hơi nóng người lúc 18 giờ rồi hết. Không đau đầu, không đau họng, không ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, rét run"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Khát vừa, uống nước lọc được từng ngụm nhỏ không nôn ngay. Tiểu lần cuối lúc 18 giờ 30, nước tiểu vàng đậm, ít. Đứng dậy nhanh thì choáng nhẹ rồi hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức mất nước, khả năng uống"
+    },
+    {
+     "id": "corticoid",
+     "noi_dung": "Từ thứ Hai tuần này tự mua prednisolon 5 mg, uống 2 viên (10 mg) mỗi sáng trong 5 ngày vì viêm mũi dị ứng và nổi mẩn khi đổi trời; sáng nay uống liều cuối. Không dùng thuốc nào khác, không dùng kháng sinh trong 3 tháng gần đây.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì anh nói không dùng gì, chỉ có 'thuốc dị ứng thông thường'. Chỉ kể tên thuốc, liều, số ngày khi bác sĩ hỏi cụ thể có dùng corticoid, thuốc chống dị ứng, thuốc tự mua trong tuần qua.",
+     "k": 1,
+     "y": "Thuốc đang dùng: corticoid tự mua (liệu trình ngắn)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Khi nôn mạnh hai lần (khoảng 17 giờ 30 và 19 giờ) thấy tức nặng sau xương ức khoảng 1–2 phút kèm hồi hộp, vã mồ hôi lạnh, rồi hết hẳn khi ngừng nôn. Tuần trước một đồng nghiệp 38 tuổi cùng khoa nhập viện vì nhồi máu cơ tim, bố anh cũng mất vì nhồi máu cơ tim. Anh nghĩ 'chắc do nôn' nhưng vẫn sợ, nên không nói mà chỉ đòi kháng sinh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi có tức ngực, hồi hộp, khó thở, vã mồ hôi trong lúc bệnh không, hoặc hỏi anh lo nhất điều gì.",
+     "k": 1,
+     "y": "Động cơ thật: sợ nhồi máu cơ tim"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Chưa từng đau ngực khi gắng sức: đứng mổ nhiều giờ, leo cầu thang bộ không đau. Không tăng huyết áp, không đái tháo đường, không hút thuốc, thỉnh thoảng uống bia. Mỡ máu chưa kiểm tra. Bố mất vì nhồi máu cơ tim năm 51 tuổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ và tiền sử gia đình tim mạch"
+    },
+    {
+     "id": "dich_te_ta",
+     "noi_dung": "Không ăn hải sản sống, không ăn mắm tôm, không đi vùng có dịch; quanh nhà và khoa không có ai tiêu chảy nước vo gạo. Uống nước đun sôi hoặc nước đóng bình.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ tả"
+    },
+    {
+     "id": "than_kinh_am",
+     "noi_dung": "Không nhìn đôi, không sụp mi, không khó nuốt, không yếu tay chân.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tien_su_khac",
+     "noi_dung": "Không bệnh mạn tính nào khác, không dị ứng thuốc, chưa mổ bụng.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co_khang_sinh",
+     "noi_dung": "Ở khoa vẫn kê ciprofloxacin cho bệnh nhân tiêu chảy; lại đang uống steroid nên sợ nhiễm trùng nặng. Sáng mai có hai ca mổ chấn thương, nếu nghỉ phải gọi bác sĩ khác thay.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, mệt vừa. Môi hơi khô, lưỡi ẩm, mắt không trũng, nếp véo da mất nhanh. Da niêm hồng, không vàng da, không phát ban, không hạch. Mặt không tròn, không vết rạn da. Cân nặng 70 kg.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 118/74 mmHg, mạch 86 l/p. Đứng 1 phút: 112/72 mmHg, mạch 96 l/p, choáng nhẹ rồi hết.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi chướng, nhu động ruột tăng. Ấn đau nhẹ quanh rốn, lan tỏa, không có điểm đau khu trú. Không phản ứng thành bụng, không phản ứng dội; McBurney, Rovsing, dấu cơ thắt lưng chậu, Murphy đều âm tính. Gan lách không to. Không sẹo mổ.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 86 l/p, T1 T2 rõ, không âm thổi, không tiếng cọ màng ngoài tim.",
+     "k": 1,
+     "hien": "Tim đều, tần số khoảng 86 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Tỉnh, đồng tử đều 3 mm phản xạ tốt, vận nhãn đủ, không sụp mi, nói rõ, nuốt bình thường, sức cơ 5/5 bốn chi.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Cơ thắt hậu môn bình thường, trực tràng có ít phân lỏng màu vàng, găng không dính máu.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 84 l/p, trục bình thường, QTc 410 ms. Không ST chênh, không sóng Q, không biến đổi ST–T ở DII, DIII, aVF hay các chuyển đạo trước tim.",
+     "n": "Bắt buộc dù triệu chứng là bụng: đau thượng vị là triệu chứng tương đương đau ngực (ESC 2023 mục 3.1.1); ECG 12 chuyển đạo là công cụ đầu tay, đọc trong 10 phút (mục 3.2). Anh chỉ nói tức ngực khi được hỏi."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "6,1 mmol/L",
+     "bang": {
+      "glu": 6.1
+     },
+     "ghi_chu_mau": "Đo tại giường, anh nhịn ăn từ 15 giờ 30 và nôn nhiều.",
+     "n": "Không có trong tài liệu đã tải về việc đo đường huyết mao mạch trong ngộ độc thực phẩm; hữu ích vì anh vừa dùng corticoid và đang nôn, ăn kém. Không bắt buộc."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Tỷ trọng 1,025 · pH 5,5 · ceton + ; không bạch cầu, nitrit, protein, glucose, bilirubin, hồng cầu.",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.025,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "+",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Nước tiểu cô đặc, hợp mất nước nhẹ (QĐ 5642/2015, Bệnh tiêu chảy do vi khuẩn, mục 3.1: nước tiểu ít). Cho biết thêm về mức mất nước khi không có xét nghiệm máu, không đổi xử trí."
+    },
+    "trop": {
+     "v": "u",
+     "r": "hs-TnT 4 ng/L (ngưỡng < 14)",
+     "thay_the": "ecg",
+     "n": "Nên đo nếu nghi hội chứng vành cấp (ESC 2023 mục 3.3.1) nhưng ngoài giờ không làm được. Quyết định dựa vào ECG, tính chất tức ngực chỉ thoáng qua lúc nôn mạnh, không liên quan gắng sức (ESC 2023 mục 3.1.2, Hình 5); làm lại ECG và chuyển cấp cứu nếu tái phát hoặc dai dẳng (mục 3.2)."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "BC 12,8 G/L · Neutrophil 82% · Hb 158 g/L · TC 268 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 12.8,
+      "neu_pct": 82.0,
+      "neu": 10.5,
+      "lym_pct": 12.0,
+      "lym": 1.54,
+      "mono_pct": 5.5,
+      "mono": 0.7,
+      "eos_pct": 0.2,
+      "eos": 0.03,
+      "baso_pct": 0.3,
+      "baso": 0.04,
+      "rbc": 5.3,
+      "hgb": 158,
+      "hct": 0.47,
+      "mcv": 88.7,
+      "mch": 29.8,
+      "mchc": 336,
+      "rdw": 13.0,
+      "plt": 268
+     },
+     "n": "Không dùng để xác định căn nguyên nhưng có thể hữu ích lâm sàng (IDSA 2017 khuyến cáo 22). Ngoài giờ không làm được và không đổi xử trí hôm nay. Bạch cầu tăng khó diễn giải vì anh vừa dùng prednisolon (ý này không có trong tài liệu đã tải)."
+    },
+    "lyte": {
+     "v": "n",
+     "r": "Na 138 · K 3,6 · Cl 100 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 3.6,
+      "cl": 100
+     },
+     "n": "Mất nước độ 1, uống được: không cần điện giải đồ để quyết định bù dịch uống. Theo dõi điện giải thường xuyên chỉ nêu cho nhiễm STEC (IDSA 2017 khuyến cáo 23)."
+    },
+    "creat": {
+     "v": "n",
+     "r": "Ure 6,2 mmol/L · Creatinin 88 µmol/L · eGFR 101 mL/ph/1,73m²",
+     "bang": {
+      "ure": 6.2,
+      "creat": 88,
+      "egfr": 101
+     },
+     "n": "Không có dấu mất nước nặng hay suy thận; không đổi xử trí."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 16 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 16
+     },
+     "n": "Không có trong tài liệu đã tải về việc CRP đổi xử trí tiêu chảy cấp; CRP tăng nhẹ gặp cả khi ngộ độc thực phẩm lẫn khi dùng corticoid."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "Bạch cầu 0–2/vi trường, không hồng cầu, không ký sinh trùng.",
+     "n": "QĐ 5642/2015 mục 3.3, 4.2.1 dùng soi phân để cân nhắc kháng sinh; IDSA 2017 khuyến cáo 20 không dùng bạch cầu phân để xác định căn nguyên. Ngoài giờ không làm được; phân nước không máu nhầy nên không bắt buộc."
+    },
+    "cay_phan": {
+     "v": "a",
+     "r": "Không mọc Salmonella, Shigella, Campylobacter (kết quả sau 48–72 giờ).",
+     "n": "Chỉ định rõ nhất khi có ổ dịch hoặc người có nguy cơ lây (ACG 2016 khuyến cáo 1; IDSA 2017 khuyến cáo 8, 16) và nên phối hợp y tế dự phòng; không đổi xử trí hôm nay."
+    },
+    "cortisol_sang": {
+     "v": "n",
+     "r": "(Không làm được ngoài giờ.)",
+     "n": "Không cần: prednisolon 10 mg × 5 ngày (< 3–4 tuần) có thể ngưng không giảm dần và không cần xét nghiệm trục thượng thận (ESE/ES 2024 R 2.1)."
+    },
+    "abdus": {
+     "v": "n",
+     "r": "Quai ruột giãn nhẹ chứa dịch, tăng nhu động, không dịch tự do ổ bụng.",
+     "n": "Bụng mềm, đau lan tỏa, không điểm đau khu trú: dùng điểm lâm sàng trước, hình ảnh khi chưa rõ (WSES 2025 khuyến cáo 1, 3.1). Ngoài giờ không có."
+    },
+    "xq_bung": {
+     "n": "Bụng mềm, không dấu tắc ruột hay thủng: không có chỉ định."
+    },
+    "ct_bung": {
+     "n": "Không có chỉ định: bụng mềm, đau lan tỏa, sinh hiệu ổn (WSES 2025 khuyến cáo 1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ngộ độc thực phẩm: viêm dạ dày–ruột cấp sau bữa bì cuốn – nem nướng ở xe đẩy, chùm 3 ca, ủ bệnh ngắn, nôn nổi bật, tiêu chảy nước, không sốt, không phân máu; mất nước độ 1; vừa dùng prednisolon tự mua 5 ngày; căn nguyên chưa xác định",
+     "ok": 1,
+     "n": "Nhiều người cùng bữa ăn cùng mắc là gợi ý ổ dịch (IDSA 2017 khuyến cáo 11). Ủ bệnh khoảng 1,5 giờ, nôn nổi bật, tiêu chảy nước, không sốt hợp độc tố tụ cầu (QĐ 5642/2015, Bệnh tiêu chảy do vi khuẩn, mục 3.2: ủ bệnh 1–6 giờ; IDSA 2017 Bảng 3: nôn kéo dài ≤ 24 giờ do độc tố S. aureus hoặc B. cereus). Mất nước độ 1: mạch < 100 l/p, huyết áp bình thường, nước tiểu ít (QĐ 5642 mục 3.1, bảng mức độ mất nước). Căn nguyên cụ thể không xác định được tại phòng khám và không đổi xử trí."
+    },
+    {
+     "t": "Tả",
+     "n": "Phân nước vàng chứ không trắng đục như nước vo gạo, khoảng 6 lần chứ không 20–50 lần/ngày, có đau quặn bụng, không ăn hải sản sống hay đến vùng dịch (QĐ 5642/2015 mục 3.2; QĐ 4178/2007 mục II.1a, II.1c; IDSA 2017 khuyến cáo 10b). Chùm ca và ủ bệnh vài giờ thiên về ngộ độc thực phẩm hơn."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Đau quặn quanh rốn, dịu sau đi ngoài, lan tỏa, không chuyển hố chậu phải; McBurney, Rovsing, cơ thắt lưng chậu âm tính, không phản ứng thành bụng. Không có xét nghiệm và siêu âm nên dùng điểm lâm sàng, theo dõi (WSES 2025 khuyến cáo 1). Đau bụng kéo dài kèm sốt có thể giống viêm ruột thừa (IDSA 2017 Bảng 3: Yersinia): dặn quay lại nếu đau khu trú hố chậu phải."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "Tỉnh, nhịp thở 18 l/p, huyết áp tâm thu 118 mmHg: qSOFA 0 (Sepsis-3 2016, Box 4). Không dựa vào sốt đơn độc để loại trừ (NICE NG253, mục 1.4.1) nhưng không có ổ nhiễm toàn thân. Steroid uống thuộc tiêu chí nguy cơ trung bình (NICE NG253, Bảng 1), nên cần mốc quay lại rõ; đã có chẩn đoán xác định và xử trí an toàn ngoài bệnh viện (mục 1.7.9)."
+    },
+    {
+     "t": "Hội chứng vành cấp (nhồi máu cơ tim thành dưới)",
+     "n": "Tức ngực chỉ 1–2 phút khi nôn mạnh, hết hẳn khi ngừng nôn, không liên quan gắng sức, ECG bình thường ở DII, DIII, aVF (ESC 2023 mục 3.1.1, 3.2). Không đo được hs-troponin ngoài giờ: không loại trừ bằng xét nghiệm nên phải dặn dấu hiệu quay lại và làm lại ECG nếu tái phát (mục 3.2)."
+    },
+    {
+     "t": "Viêm dạ dày–ruột do virus (norovirus)",
+     "n": "IDSA 2017 Bảng 3: nôn và tiêu chảy không máu 2–3 ngày, có thể sốt nhẹ. Khó phân biệt với độc tố vi khuẩn; xử trí hôm nay giống nhau (bù dịch uống, không kháng sinh)."
+    },
+    {
+     "t": "Ngộ độc botulinum",
+     "n": "Ủ bệnh phổ biến 12–36 giờ, sau triệu chứng tiêu hóa là liệt đối xứng từ đầu mặt (QĐ 3875/2020, mục 3.1). Ủ bệnh 1,5 giờ, đồng tử, vận nhãn, nuốt và sức cơ bình thường."
+    },
+    {
+     "t": "Suy thượng thận cấp sau ngưng corticoid",
+     "n": "Prednisolon 10 mg × 5 ngày (< 3–4 tuần) ít gây ức chế trục thượng thận (ESE/ES 2024 R 2.1); huyết áp bình thường, tỉnh. Nôn, tiêu chảy kéo dài hoặc tụt huyết áp ở người mới dùng corticoid thì phải nghĩ tới cơn suy thượng thận (R 3.2): đưa vào dấu hiệu quay lại."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Bù dịch bằng đường uống: oresol pha đúng hướng dẫn, uống theo nhu cầu (nôn thì uống từng ngụm nhỏ), uống thêm sau mỗi lần đi ngoài lỏng; hoặc nước cháo muối, dịch đường–muối tự pha; chưa cần truyền tĩnh mạch",
+     "v": "c",
+     "n": "Mất nước độ 1, uống được: bù bằng oresol (QĐ 5642/2015 mục 4.2.3a; QĐ 4178/2007 mục III.2a); ORS giảm áp lực thẩm thấu là đầu tay cho mất nước nhẹ đến vừa, bù tiếp lượng mất qua phân đến khi hết nôn và tiêu chảy (IDSA 2017 khuyến cáo 39, 43). ACG 2016 khuyến cáo 5: đa số người lớn bù đủ bằng nước, súp, bánh quy mặn; đều đúng miễn bù đủ. Lượng mL/ngày cho người lớn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích lý do bằng nguồn cụ thể, hẹn tái khám sát và hạ ngưỡng đánh giá lại",
+     "v": "c",
+     "n": "Tiêu chảy nước cấp, không sốt, không phân máu, không đi nước ngoài: không dùng kháng sinh kinh nghiệm (IDSA 2017 khuyến cáo 36); không khuyến khích kháng sinh cho tiêu chảy cộng đồng vì đa số do virus và kháng sinh không rút ngắn bệnh (ACG 2016 khuyến cáo 9, 10); QĐ 5642/2015 mục 4.2.1 chỉ cân nhắc khi có sốt, phân nhầy máu, bạch cầu tăng, suy giảm miễn dịch…: anh không có. Ba nguồn đồng thuận nên không phải mâu thuẫn (xem mục sổ mâu thuẫn, ca đầu TH-0624). Ngoại lệ suy giảm miễn dịch: tài liệu đã tải không nói prednisolon 10 mg × 5 ngày có thuộc nhóm này không (không có trong tài liệu đã tải); ca chọn không thuộc nhóm vì liệu trình ngắn (ESE/ES 2024 R 2.1)."
+    },
+    {
+     "t": "Dặn dấu hiệu phải quay lại ngay và hẹn tái khám sau 24–48 giờ: sốt ≥ 38,3 °C, phân có máu hoặc nhầy, đau khu trú hố chậu phải, nôn mãi không uống được, ít tiểu, choáng hoặc ngất, tức ngực; sau 14 ngày vẫn tiêu chảy thì làm xét nghiệm",
+     "v": "c",
+     "n": "Sốt ≥ 101 °F (38,3 °C), phân máu hoặc bệnh nặng thì xét nghiệm phân và điều trị theo căn nguyên (ACG 2016 Hình 1, tr. 603; IDSA 2017 khuyến cáo 8, 30–31). Mất nước nặng hay không uống được thì truyền tĩnh mạch (IDSA 2017 khuyến cáo 41; QĐ 5642 mục 4.2.3a). Tiêu chảy 14–30 ngày là kéo dài, cần làm xét nghiệm phân (ACG 2016 Hình 1, tr. 603); đánh giá lại ở người không đáp ứng (IDSA 2017 khuyến cáo 27–29, 36). Mốc 24–48 giờ: lựa chọn của ca."
+    },
+    {
+     "t": "Hỏi kỹ thuốc tự mua; giải thích prednisolon 10 mg × 5 ngày đã xong liệu trình, không cần giảm dần, không dùng lại; nếu choáng, ngất, nôn kéo dài không uống được thì đến viện ngay",
+     "v": "c",
+     "n": "Dùng < 3–4 tuần thì ngưng không cần giảm dần, không cần xét nghiệm trục thượng thận (ESE/ES 2024 R 2.1). Người mới dùng corticoid chưa test mà có nôn, tiêu chảy, mất ổn định huyết động thì nghĩ tới cơn suy thượng thận (R 3.2); thuốc uống dùng được khi stress nhẹ, không nôn hay tiêu chảy kéo dài (R 3.1A, 3.1B)."
+    },
+    {
+     "t": "Hỏi về đau ngực, hồi hộp, tiền sử gia đình; làm ECG; giải thích kết quả bình thường và nguyên nhân tức ngực lúc nôn; dặn gọi cấp cứu khi tức ngực > 15 phút hoặc tái lại trong 1 giờ; làm lại ECG nếu tái phát",
+     "v": "c",
+     "n": "Đau thượng vị và tức ngực là triệu chứng tương đương đau ngực, ECG trong 10 phút (ESC 2023 mục 3.1.1, 3.2); ECG bổ sung khi triệu chứng tái phát hoặc còn nghi ngờ (mục 3.2); đau ngực kéo dài > 15 phút hoặc tái lại trong 1 giờ là dấu hiệu cần gọi cấp cứu (mục 3.1.1). Trả lời đúng nỗi lo thật (bố và đồng nghiệp nhồi máu cơ tim)."
+    },
+    {
+     "t": "Khuyên ăn lại sớm thức ăn thường (cháo, cơm mềm), không kiêng khem quá mức",
+     "v": "c",
+     "n": "Ăn lại chế độ thường ngày trong hoặc ngay sau khi bù dịch (IDSA 2017 khuyến cáo 45); QĐ 4178/2007 mục III.2c (nên ăn sớm, thức ăn lỏng, dễ tiêu) là bài về tả, dùng tham khảo."
+    },
+    {
+     "t": "Hỏi những ai cùng ăn xe đẩy, bàn việc báo y tế dự phòng/an toàn thực phẩm; không ăn lại hàng đó",
+     "v": "c",
+     "n": "Nhiều người cùng một bữa ăn là ổ dịch: xét căn nguyên rộng, phối hợp y tế dự phòng (IDSA 2017 khuyến cáo 11, 16); xét nghiệm phân khi ổ dịch (ACG 2016 khuyến cáo 1). Quy trình báo cáo tại Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Rửa tay xà phòng sau đi vệ sinh và trước khi chạm đồ ăn; xin nghỉ trực mổ ngày mai, nhờ người thay",
+     "v": "c",
+     "n": "Rửa tay sau đi vệ sinh, trước khi ăn (IDSA 2017 khuyến cáo 52); người làm trong cơ sở y tế có nguy cơ cao truyền bệnh (khuyến cáo 51: người không triệu chứng làm việc ở cơ sở y tế xử trí theo y tế dự phòng địa phương). Thời hạn nghỉ làm cho nhân viên y tế đang tiêu chảy: không có trong tài liệu đã tải; ca chọn thận trọng nghỉ ngày mai vì còn nôn, tiêu chảy, mất nước, chóng mặt khi đứng."
+    },
+    {
+     "t": "Diosmectit (Smecta) hoặc thuốc giảm co thắt (spasmaverin)",
+     "v": "a",
+     "n": "Điều trị hỗ trợ theo QĐ 5642/2015 mục 4.2.3b; liều không có trong tài liệu đã tải. ACG 2016 (tr. 610) nêu nhóm hấp phụ kaolin, pectin, than hoạt, attapulgite chỉ đổi độ sệt của phân, không giảm số lần hay thời gian tiêu chảy và không khuyến cáo; không nêu diosmectit nên chưa phải mâu thuẫn rõ."
+    },
+    {
+     "t": "Không dùng men vi sinh",
+     "v": "a",
+     "n": "ACG 2016 khuyến cáo 6: không khuyến cáo probiotic cho tiêu chảy cấp người lớn trừ bệnh sau kháng sinh. Cách còn lại cũng đúng (xem mục sổ mâu thuẫn, ca đầu TH-0624)."
+    },
+    {
+     "t": "Dùng men vi sinh cho đỡ nặng và rút ngắn bệnh",
+     "v": "a",
+     "n": "IDSA 2017 khuyến cáo 49: có thể dùng cho người lớn miễn dịch bình thường (yếu, chứng cứ trung bình); chủng và liều: không nêu. Hai nguồn khác nhau về mức bằng chứng, cả hai cách đều chấp nhận."
+    },
+    {
+     "t": "Không dùng loperamid, chỉ bù dịch",
+     "v": "a",
+     "n": "QĐ 5642/2015 mục 4.2.3b: không lạm dụng thuốc cầm tiêu chảy như loperamide. Cách còn lại cũng đúng (xem mục sổ mâu thuẫn, ca đầu TH-0624)."
+    },
+    {
+     "t": "Loperamid ngắn hạn sau khi đã bù dịch: 4 mg lần đầu rồi 2 mg sau mỗi lần phân lỏng, tối đa 8 mg/ngày, không quá 48 giờ",
+     "v": "a",
+     "n": "ACG 2016 Hình 1 (tr. 603) và tr. 609–610: bệnh nhẹ có thể dùng loperamid, tối đa 8 mg/ngày, không quá 48 giờ; IDSA 2017 khuyến cáo 46, 47: có thể cho người lớn miễn dịch bình thường tiêu chảy nước sau khi bù dịch, tránh khi có sốt hoặc nghi tiêu chảy viêm. Con số thận trọng hơn: 8 mg/ngày, ≤ 48 giờ. Anh không sốt, không máu nên không phải chống chỉ định; nếu về sau có sốt hoặc phân máu thì ngưng."
+    },
+    {
+     "t": "Nếu vẫn lo hội chứng vành cấp: theo dõi và làm lại ECG tại phòng khám trong lúc uống oresol; chuyển bệnh viện huyện lấy hs-troponin nếu tức ngực tái phát, dai dẳng hoặc ECG đổi",
+     "v": "a",
+     "n": "ECG bổ sung khi triệu chứng tái phát hoặc còn nghi ngờ (ESC 2023 mục 3.2); hs-cTn ngay khi nghi hội chứng vành cấp (mục 3.3.1). Không có hs-troponin ngoài giờ nên cách này là hợp lý; mốc thời gian theo dõi tại phòng khám không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê ciprofloxacin (hoặc azithromycin) ngay theo yêu cầu của anh",
+     "v": "w",
+     "n": "Không chỉ định ở tiêu chảy nước, không sốt, không máu (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10); QĐ 5642/2015 mục 4.2.1 chỉ cân nhắc khi có sốt, phân nhầy máu, bạch cầu tăng hoặc suy giảm miễn dịch; kháng sinh làm Salmonella thải lâu hơn và có thể gây C. difficile (ACG 2016 tr. 611)."
+    },
+    {
+     "t": "Truyền tĩnh mạch Ringer lactat hoặc NaCl 0,9% theo yêu cầu",
+     "v": "w",
+     "n": "Mất nước độ 1 uống được thì bù oresol; truyền chỉ cho mất nước nặng, sốc, rối loạn ý thức hoặc thất bại ORS (IDSA 2017 khuyến cáo 41; QĐ 5642/2015 mục 4.2.3a)."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện ngay để lấy máu, chụp CT bụng khi chưa có triệu chứng báo động",
+     "v": "w",
+     "n": "Bụng mềm, đau lan tỏa, sinh hiệu ổn, ECG bình thường: chưa có chỉ định hình ảnh (WSES 2025 khuyến cáo 1, 3.1); làm lại ECG khi tái phát là đủ (ESC 2023 mục 3.2)."
+    },
+    {
+     "t": "Cho thêm prednisolon hoặc dexamethason để đỡ mệt, đỡ nôn",
+     "v": "w",
+     "n": "Liệu trình prednisolon đã xong, không có chỉ định kéo dài; không có trong tài liệu đã tải về việc dùng corticoid để giảm nôn trong ngộ độc thực phẩm. Dùng thêm làm tăng thời gian phơi nhiễm corticoid không cần thiết (ESE/ES 2024 R 2.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ngộ độc thực phẩm (viêm dạ dày–ruột cấp): chùm 3 ca sau cùng bữa bì cuốn – nem nướng ở xe đẩy, ủ bệnh ngắn, nôn nổi bật, tiêu chảy nước, không sốt, không máu; nghi độc tố tụ cầu hoặc B. cereus, căn nguyên chưa xác định",
+     "Mất nước độ 1, uống được",
+     "Đã loại trừ ở mức lâm sàng: tả, viêm ruột thừa, nhiễm khuẩn huyết, hội chứng vành cấp (ECG bình thường, tức ngực chỉ thoáng qua lúc nôn mạnh)",
+     "Đã dùng prednisolon tự mua 10 mg × 5 ngày (liệu trình < 3–4 tuần), sáng nay là liều cuối",
+     "Yếu tố đi kèm: viêm mũi dị ứng; bố nhồi máu cơ tim năm 51 tuổi; sáng mai có ca mổ"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: bữa ăn ở xe đẩy lúc 15 giờ 30, khởi phát 17 giờ (ủ bệnh khoảng 1,5 giờ), hai đồng nghiệp cùng ăn cũng mắc: nhiều người cùng bữa ăn là gợi ý ổ dịch (IDSA 2017 khuyến cáo 11). Ủ bệnh ngắn, nôn nổi bật, tiêu chảy nước, không sốt, không máu gợi ý độc tố tụ cầu (QĐ 5642/2015, Bệnh tiêu chảy do vi khuẩn, mục 3.2: ủ bệnh 1–6 giờ; IDSA 2017 Bảng 3: nôn ≤ 24 giờ do độc tố S. aureus hoặc B. cereus). Ủ bệnh dài hơn kèm sốt cao thì nghĩ Salmonella (QĐ 5642 mục 3.2; QĐ 4178/2007 mục II.2a). Căn nguyên cụ thể không xác định được tại phòng khám và không đổi xử trí.",
+     "Hai chi tiết anh chỉ kể khi bị hỏi thẳng: (1) prednisolon tự mua 10 mg × 5 ngày (ngắn hơn 3–4 tuần: ESE/ES 2024 R 2.1); (2) tức ngực, hồi hộp, vã mồ hôi lúc nôn mạnh, kèm bố và đồng nghiệp nhồi máu cơ tim. Anh là bác sĩ nên khai bệnh theo kiểu 'chẩn đoán sẵn', nên phải hỏi lại bằng câu hỏi mở và hỏi cụ thể từng nhóm thuốc.",
+     "Khám: mất nước độ 1 (mạch < 100 l/p, huyết áp bình thường, nước tiểu ít; QĐ 5642 mục 3.1), nếp véo da trở lại nhanh, mắt không trũng. Bụng mềm, đau lan tỏa, không điểm đau khu trú, các dấu hiệu ruột thừa âm tính. Thần kinh bình thường. Mặt không tròn, không rạn da: không dấu hiệu Cushing ngoại sinh (ESE/ES 2024 R 2.10).",
+     "Cận lâm sàng ngoài giờ: không làm được xét nghiệm máu, phân, X-quang, siêu âm; chỉ có ECG, đường huyết mao mạch, que thử nước tiểu: phải quyết định trước khi có kết quả. ECG bắt buộc vì đau thượng vị và tức ngực là triệu chứng tương đương đau ngực (ESC 2023 mục 3.1.1, 3.2). ECG bình thường, tức ngực chỉ lúc nôn mạnh, không gắng sức: lâm sàng không hướng tới hội chứng vành cấp; hs-troponin không có nên phải dặn dấu hiệu quay lại và làm lại ECG nếu tái phát (mục 3.2).",
+     "Loại trừ từng bệnh theo sổ cái: tả (phân không nước vo gạo, ít lần, có đau quặn, không dịch tễ: QĐ 5642 mục 3.2; QĐ 4178/2007 mục II.1); viêm ruột thừa (đau lan tỏa, không khu trú, dấu hiệu ruột thừa âm tính; dùng điểm lâm sàng khi không có hình ảnh: WSES 2025 khuyến cáo 1); nhiễm khuẩn huyết (qSOFA 0: Sepsis-3 2016 Box 4; không dựa vào sốt đơn độc: NICE NG253 mục 1.4.1).",
+     "Corticoid: prednisolon 10 mg × 5 ngày ngắn hơn 3–4 tuần nên ngưng không cần giảm dần (ESE/ES 2024 R 2.1). Steroid uống nằm trong tiêu chí nguy cơ trung bình của bảng NICE NG253 (Bảng 1), nên mốc quay lại cần rõ ràng. Việc corticoid có thể làm mờ sốt và dấu hiệu bụng, hay làm tăng bạch cầu, không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch uống: oresol là đầu tay cho mất nước nhẹ (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 39, 43); truyền tĩnh mạch dành cho mất nước nặng, sốc, rối loạn ý thức hoặc thất bại ORS (IDSA 2017 khuyến cáo 41). ACG 2016 khuyến cáo 5: đa số người lớn bù đủ bằng nước, nước trái cây, súp, bánh quy mặn; ORS cân bằng cho người già nặng hoặc tiêu chảy kiểu tả. Dịch tự pha: 8 thìa cà phê đường và 1 thìa cà phê muối trong 1 lít nước, hoặc nước cháo muối (QĐ 4178/2007 mục III.2a). Lượng mL/ngày cho người lớn: không có trong tài liệu đã tải.",
+     "Không kháng sinh: IDSA 2017 khuyến cáo 36, ACG 2016 khuyến cáo 9, 10 và QĐ 5642/2015 mục 4.2.1 cùng không chỉ định khi không sốt, không máu, không bạch cầu tăng. Kháng sinh làm Salmonella thải lâu hơn và có thể gây tiêu chảy C. difficile (ACG 2016 tr. 611). Ngoại lệ 'suy giảm miễn dịch' có trong IDSA 2017 khuyến cáo 36 và QĐ 5642 mục 4.2.1, nhưng tài liệu đã tải không nêu prednisolon 5 ngày có thuộc nhóm này không; ca chọn không thuộc nhóm (ESE/ES 2024 R 2.1). Nếu sau đó sốt ≥ 38,3 °C, phân máu, đau khu trú hoặc nặng lên thì đánh giá lại và xét kháng sinh (ACG 2016 Hình 1; IDSA 2017 khuyến cáo 30–31; QĐ 5642 mục 4.2.2: ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày, thay thế azithromycin 0,5 g/ngày × 5 ngày).",
+     "Kỹ năng từ chối kê đơn mà vẫn giữ lòng tin (lời thoại mẫu): 'Em hiểu anh lo vì mai anh có ca mổ và đang uống steroid. Tình trạng của anh là ngộ độc thực phẩm: nôn, tiêu chảy nước, không sốt, không có máu. Với kiểu này các hướng dẫn (IDSA 2017, ACG 2016) đều khuyên không dùng kháng sinh vì không làm bệnh khỏi nhanh hơn, mà còn làm Salmonella nằm lại trong phân lâu hơn. Anh uống được nên oresol là đúng thuốc, truyền chỉ khi mất nước nặng. Em không bỏ mặc anh: em hẹn gặp lại trong 24–48 giờ, và nếu sốt trên 38,3 độ, phân có máu, đau chuyển xuống hố chậu phải thì em là người đổi hướng đầu tiên. Còn ca mổ sáng mai, em nghĩ anh nên nhờ người thay.'",
+     "Loperamid và men vi sinh: hai nguồn khác nhau, mỗi bên hai cách đều đúng (xem phần chấm điểm). Với loperamid, ACG 2016 cho 4 mg lần đầu rồi 2 mg sau mỗi lần phân lỏng, tối đa 8 mg/ngày, không quá 48 giờ; QĐ 5642 mục 4.2.3b: không lạm dụng. Smecta, spasmaverin: QĐ 5642 mục 4.2.3b, liều không có trong tài liệu đã tải.",
+     "Corticoid: đã xong liệu trình 5 ngày, không giảm dần, không dùng lại (ESE/ES 2024 R 2.1). Dặn: choáng, ngất, nôn kéo dài không uống được thì đến viện ngay vì nghĩ tới suy thượng thận (R 3.2). Không cần cortisol sáng.",
+     "Nỗi lo nhồi máu cơ tim: giải thích ECG bình thường, tức ngực chỉ lúc nôn mạnh và không gắng sức; dặn gọi cấp cứu khi tức ngực > 15 phút hoặc tái lại trong 1 giờ (ESC 2023 mục 3.1.1); làm lại ECG nếu tái phát (mục 3.2).",
+     "Ăn lại sớm (IDSA 2017 khuyến cáo 45); không ăn lại hàng xe đẩy; báo y tế dự phòng khi có chùm ca (IDSA 2017 khuyến cáo 11, 16). Rửa tay xà phòng (khuyến cáo 52). Hẹn tái khám 24–48 giờ là lựa chọn của ca; từ 14 ngày là kéo dài, cần đánh giá lại (ACG 2016 tr. 603; IDSA 2017 khuyến cáo 28, 29)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol (ORS)",
+      "ham_luong": "Mỗi gói pha với 1 lít nước đun sôi để nguội (mỗi lít: NaCl 3,5 g, NaHCO₃ 2,5 g, KCl 1,5 g, glucose 20 g)",
+      "lieu": "Uống theo nhu cầu; nôn thì uống từng ngụm nhỏ; uống thêm sau mỗi lần đi ngoài lỏng",
+      "duong": "Uống",
+      "thoi_diem": "Suốt ngày, bắt đầu ngay",
+      "so_ngay": "Đến khi hết nôn và tiêu chảy",
+      "ghi_chu": "QĐ 4178/2007 mục III.2a; QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 39, 43. Lượng mL/ngày cho người lớn: không có trong tài liệu đã tải. Có thể thay bằng dịch tự pha hoặc nước cháo muối (QĐ 4178/2007 mục III.2a)."
+     },
+     {
+      "thuoc": "Diosmectit (Smecta) (tùy chọn)",
+      "ham_luong": "Theo gói",
+      "lieu": "Liều không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Khi còn tiêu chảy",
+      "so_ngay": "Ngắn ngày",
+      "ghi_chu": "QĐ 5642/2015 mục 4.2.3b chỉ nêu tên thuốc hỗ trợ; không bắt buộc."
+     },
+     {
+      "thuoc": "Không kê: kháng sinh, truyền dịch, prednisolon",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Kháng sinh: IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10. Truyền dịch: IDSA 2017 khuyến cáo 41. Prednisolon: đã xong liệu trình (ESE/ES 2024 R 2.1)."
+     }
+    ],
+    "dan_do": [
+     "Uống oresol ngay, từng ngụm nhỏ nếu còn nôn, uống thêm sau mỗi lần đi ngoài; mục tiêu là tiểu đều, nước tiểu nhạt màu, hết choáng khi đứng (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 43).",
+     "Anh không cần kháng sinh và không cần truyền dịch lúc này; em sẽ đổi hướng ngay nếu có sốt ≥ 38,3 °C, phân có máu, đau khu trú hố chậu phải, hoặc không uống được (ACG 2016 Hình 1; IDSA 2017 khuyến cáo 41).",
+     "Ăn lại cháo, cơm mềm ngay khi đỡ nôn, không kiêng quá mức (IDSA 2017 khuyến cáo 45).",
+     "Prednisolon đã xong, không uống lại. Nếu choáng, ngất, nôn mãi không uống được: đến bệnh viện ngay (ESE/ES 2024 R 2.1, R 3.2).",
+     "Tức ngực kéo dài hơn 15 phút hoặc tái lại trong 1 giờ, kèm vã mồ hôi, khó thở: gọi cấp cứu ngay (ESC 2023 mục 3.1.1). Nếu tức ngực tái phát nhẹ hơn, quay lại làm lại điện tim (mục 3.2).",
+     "Rửa tay bằng xà phòng sau khi đi vệ sinh và trước khi chạm đồ ăn (IDSA 2017 khuyến cáo 52). Nhờ người thay ca mổ sáng mai. Báo cho chị Hà, anh Tuấn và đơn vị y tế dự phòng về hàng bì cuốn đó.",
+     "Tái khám sau 24–48 giờ hoặc ngay khi có dấu hiệu trên; nếu tiêu chảy kéo dài đến 14 ngày thì phải đi khám để làm xét nghiệm (ACG 2016 Hình 1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Đạt đồng ý không dùng kháng sinh, uống oresol từng ngụm nhỏ và nghỉ ở nhà. Nôn dừng sau khoảng 6 giờ, ECG làm lại lúc 22 giờ vẫn bình thường vì tức ngực không tái phát. Nhưng tiêu chảy kéo dài hơn anh nghĩ: ngày thứ 2 và 3 vẫn đi ngoài lỏng 5–6 lần, ngày thứ 4–5 còn 2–3 lần phân sệt, mệt và ăn kém, sụt khoảng 1,5 kg; hai đồng nghiệp ăn cùng khỏi sau 2 ngày. Ngày thứ 3 anh gọi lại vì lo 'sao lâu thế': không sốt, không máu, bụng không đau khu trú, tiểu đều nên không đổi xử trí, tiếp tục oresol và ăn lại dần. Ngày thứ 6 phân thành khuôn, ngày thứ 8 anh đi làm lại. Thời gian này vẫn dưới 14 ngày nên còn thuộc tiêu chảy cấp (ACG 2016 tr. 602) và nằm trong những trường hợp tự khỏi (IDSA 2017 phần Introduction); nếu kéo dài từ 14 ngày thì mới cần xét nghiệm phân và nghĩ tới nguyên nhân khác như không dung nạp lactose tạm thời (IDSA 2017 khuyến cáo 27–29).",
+ "nhieu": [
+  "Đòi kháng sinh và truyền dịch: bác sĩ phải từ chối bằng lý do cụ thể từ guideline, đưa mốc đổi hướng và hẹn tái khám sát; câu 'đang dùng steroid nên dễ nhiễm trùng' cần được trả lời bằng ESE/ES 2024 R 2.1 và NICE NG253 chứ không bác bỏ chung chung.",
+  "Ngoài giờ không có kỹ thuật viên: không có công thức máu, điện giải, soi và cấy phân, siêu âm, X-quang, hs-troponin. Phải dựa vào lâm sàng, ECG, đường huyết mao mạch và que thử nước tiểu, rồi đặt mốc theo dõi thay cho kết quả.",
+  "Lý do thật là sợ nhồi máu cơ tim: tức ngực chỉ lúc nôn mạnh, bố mất vì nhồi máu cơ tim. ECG bình thường và giải thích rõ ràng giải quyết nỗi lo; chỉ kể khi bác sĩ hỏi.",
+  "Corticoid tự mua chỉ lộ khi hỏi cụ thể, và ngắn hơn 3–4 tuần nên không cần giảm dần."
+ ],
+ "bai_hoc_bien": [
+  "Ngộ độc thực phẩm điển hình: ủ bệnh ngắn, nôn nổi bật, tiêu chảy nước, không sốt, chùm ca cùng bữa; điều trị chính là bù dịch uống, không kháng sinh (IDSA 2017 khuyến cáo 36, 39; ACG 2016 khuyến cáo 9, 10; QĐ 5642/2015 mục 4.2.3a).",
+  "Người bệnh là bác sĩ thường 'chẩn đoán sẵn' và đòi đơn: hỏi lại từ đầu, đừng bỏ qua thuốc tự mua và nỗi sợ không nói ra.",
+  "Đau thượng vị, tức ngực khi nôn vẫn phải làm ECG: là triệu chứng tương đương đau ngực (ESC 2023 mục 3.1.1, 3.2); không có hs-troponin thì dặn dấu hiệu quay lại và làm lại ECG khi tái phát.",
+  "Corticoid ngắn hơn 3–4 tuần: ngưng không giảm dần (ESE/ES 2024 R 2.1); nôn, tiêu chảy kéo dài hoặc tụt huyết áp ở người mới dùng corticoid thì nghĩ cơn suy thượng thận (R 3.2).",
+  "Khỏi chậm hơn dự kiến không có nghĩa phải dùng kháng sinh: kiểm tra sốt, phân máu, đau khu trú, mất nước; mốc 14 ngày để đánh giá lại (ACG 2016 tr. 603; IDSA 2017 khuyến cáo 28, 29)."
+ ],
+ "diem_nho": [
+  "Tiêu chảy nước cấp người lớn không đi nước ngoài: không kháng sinh kinh nghiệm (IDSA 2017 khuyến cáo 36); ngoại lệ suy giảm miễn dịch, trẻ nhỏ ốm nặng.",
+  "ORS là đầu tay cho mất nước nhẹ đến vừa; truyền tĩnh mạch khi mất nước nặng, sốc, rối loạn ý thức hoặc thất bại ORS (IDSA 2017 khuyến cáo 39, 41).",
+  "Mất nước độ 1: mạch < 100 l/p, huyết áp bình thường, nước tiểu ít (QĐ 5642/2015 mục 3.1).",
+  "Độc tố tụ cầu: ủ bệnh 1–6 giờ, nôn, tiêu chảy nước, không sốt (QĐ 5642/2015 mục 3.2).",
+  "Sốt ≥ 38,3 °C, phân máu hoặc bệnh nặng thì xét nghiệm phân và điều trị theo căn nguyên (ACG 2016 Hình 1).",
+  "ECG trong 10 phút; làm lại khi triệu chứng tái phát hoặc còn nghi ngờ (ESC 2023 mục 3.2)."
+ ],
+ "nguon": [
+  "BYT QĐ 5642/QĐ-BYT 2015 – TL-0038 – Bệnh tiêu chảy do vi khuẩn (mục 3.1, 3.2, 3.3, 4.2.1, 4.2.2, 4.2.3); Nhiễm khuẩn huyết (yếu tố nguy cơ)",
+  "BYT QĐ 4178/QĐ-BYT 2007 – TL-0176 – Hướng dẫn bệnh tả (mục II.1, II.2, III.2a, III.2c)",
+  "IDSA 2017 Infectious diarrhea – TL-0230 – khuyến cáo 8, 10, 11, 16, 20, 22, 23, 27–31, 36, 39, 41, 43, 45–49, 51, 52; Bảng 2, 3",
+  "ACG 2016 Acute diarrheal infections in adults – TL-0233 – khuyến cáo 1, 5, 6, 9, 10; Hình 1 (tr. 603); tr. 609–611",
+  "ESC 2023 hội chứng vành cấp – TL-0069 – mục 3.1.1, 3.1.2 (Hình 5), 3.2, 3.3.1",
+  "ESE/ES 2024 suy thượng thận do glucocorticoid – TL-0063 – R 2.1, R 2.10, R 3.1, R 3.2",
+  "NICE NG253 Suspected sepsis ≥ 16 tuổi – TL-0057 – mục 1.4.1, 1.5, 1.7.9, Bảng 1; Sepsis-3 2016 – TL-0101 – Box 4 (qSOFA)",
+  "WSES 2025 viêm ruột thừa cấp – TL-0053 – khuyến cáo 1, 3.1",
+  "BYT QĐ 3875/QĐ-BYT 2020 ngộ độc botulinum – TL-0171 – mục 3.1 (bản chữ OCR khó đọc, chỉ dùng thời gian ủ bệnh và liệt đối xứng)",
+  "Không có trong tài liệu đã tải: lượng oresol mL/ngày cho người lớn; liều diosmectit; mốc tái khám 24–48 giờ; thời hạn nghỉ làm của nhân viên y tế đang tiêu chảy; corticoid làm mờ sốt và dấu hiệu bụng, tăng bạch cầu; quy trình báo cáo chùm ca ở Việt Nam; ngưỡng liều corticoid coi là suy giảm miễn dịch."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-08 (bản 1): viết theo sổ cái TH-0724 (nam 34 tuổi, bác sĩ, đòi kháng sinh, ngoài giờ không kỹ thuật viên, corticoid tự mua, sợ nhồi máu cơ tim, khỏi chậm). Tài liệu đã đọc: TL-0038 (Bệnh tiêu chảy do vi khuẩn, Nhiễm khuẩn huyết), TL-0176 (mục II, III), TL-0230 (khuyến cáo 8–11, 16, 20–31, 36–56; Bảng 2, 3), TL-0233 (Table 1, Hình 1, tr. 609–611), TL-0069 (mục 3.1–3.3), TL-0063 (R 2.1–3.2), TL-0057 (mục 1.4–1.7, Bảng 1), TL-0101 (Box 3, 4), TL-0053 (khuyến cáo 1–3).",
+  "Mâu thuẫn: theo đúng các mục đã có trong sổ (kháng sinh kinh nghiệm cho tiêu chảy có sốt ở người lớn và ngưỡng dùng kháng sinh theo kinh nghiệm cho tiêu chảy nước, men vi sinh, loperamid, dạng dịch bù; ca đầu TH-0717, TH-0624). Không thêm mâu thuẫn mới; một ghi nhận: tài liệu đã tải không nêu prednisolon 5 ngày có là suy giảm miễn dịch hay không.",
+  "Thiết kế: không sốt, không máu, bạch cầu không dùng để quyết định nên cả ba nguồn cùng không kê kháng sinh. Corticoid ngắn (10 mg × 5 ngày) để vấn đề 'suy giảm miễn dịch' không thành mâu thuẫn. hs-troponin được khai thay_the 'ecg' vì ngoài giờ khóa nhóm xn; quyết định ve_hen dựa vào ECG, tính chất đau và dặn dấu hiệu quay lại."
+ ]
+}
