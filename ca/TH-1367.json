@@ -1,0 +1,979 @@
+{
+ "ma_ca": "TH-1367",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_xo_gan_bien_chung_ngoai_tru",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Xơ gan (biến chứng ngoại trú)",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư gan",
+   "Suy tim"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Lễ tân khách sạn",
+  "yeu_to_khoi_phat": "Sau căng thẳng công việc",
+  "thuoc_dang_dung": "Thuốc dị ứng tự mua",
+  "ly_do_that_su_den_kham": "Muốn được truyền dịch",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam"
+ },
+ "benh_nhan": {
+  "ten": "Đinh Quang Vinh",
+  "tuoi": 52,
+  "gioi": "Nam",
+  "nghe": "Lễ tân khách sạn, trực ca đêm 22 giờ đến 6 giờ",
+  "can_nang": 66,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'. Vợ gọi anh là 'anh Vinh', xưng 'em' hoặc 'tôi' với bác sĩ.",
+  "tinh_cach": "Lịch thiệp, quen cười xã giao với khách nên bệnh gì cũng nói nhẹ đi: 'chắc em thiếu ngủ thôi'. Sợ bị xếp vào diện 'nhân viên có bệnh' rồi mất phụ cấp ca đêm. Nghe giải thích thì hiểu nhanh, không cãi, nhưng hay hỏi lại 'vậy truyền một chai được không bác sĩ'.",
+  "kieu_nhieu": "Giấu tiền sử: không tự kể chuyện từng được báo 'men gan cao, viêm gan B' cách đây 4 năm rồi bỏ khám, và chuyện uống bia rượu hằng ngày (khai 'xã giao thỉnh thoảng'). Hỏi chung 'có bệnh gì trước đây không' thì nói 'không'. Chỉ khai thật khi bác sĩ hỏi cụ thể, không phán xét (xét nghiệm gan, viêm gan, lượng bia mỗi ngày, ai nói gì về gan) hoặc khi kết quả xét nghiệm đã lộ ra. Thuốc 'dị ứng' chỉ kể tên khi được hỏi tiếp về thuốc mua ngoài.",
+  "nguoi_nha": "Vợ, chị Thủy, 48 tuổi, kế toán. Lượt 1 không đi cùng. Lượt 2 chị đưa chồng đến vì anh ngủ gà gật, thức trắng đêm, nói lẫn. Chị biết anh uống bia mỗi tối và từng nghe 'men gan cao', nhưng không biết anh bỏ khám, uống lại thuốc dị ứng và đi tiệc cuối tuần. Chị lo, hay nói chen, thường trả lời khi bác sĩ hỏi sinh hoạt, ăn uống, đại tiện.",
+  "ten_nguoi_nha": "Chị Thủy (vợ)",
+  "ngoai_hinh": {
+   "da": "#cf9d77",
+   "toc": "#2f2926",
+   "kieuToc": "ngan",
+   "ao": "#2c3e5c",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e0b08a",
+    "toc": "#1f1a17",
+    "kieuToc": "buoc",
+    "ao": "#7b8f6a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt, chán ăn, bụng căng, phù chân; xin truyền dịch",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám không có máy X-quang, nên cũng không làm được CT và nội soi tiêu hóa. Siêu âm bụng, siêu âm tim, xét nghiệm máu và chọc dịch ổ bụng làm được tại chỗ."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Đinh Quang Vinh, 52 tuổi, lễ tân khách sạn, trực ca đêm. Đến vì mệt, ăn không ngon, bụng căng và hai chân hơi phù khoảng ba tuần, xin truyền chai nước cho khỏe. Sinh hiệu: HA 108/68 mmHg, mạch 80 l/p, nhiệt độ 36,8°C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 66 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện ngay cho anh Vinh là quá tay: anh tỉnh, HA 108/68, không sốt, không đau bụng, không xuất huyết, PMN dịch 60/mm³ (dưới 250), creatinin 78 µmol/L. Cổ trướng độ 2 không cần nằm viện nếu chưa có biến chứng khác (EASL 2018 tr. 410). Anh sợ mất phụ cấp ca đêm nên có thể xin ra viện sớm hoặc bỏ tái khám, và cảm giác bị dán nhãn 'bệnh gan' làm anh càng giấu chuyện rượu.",
+    "theo_doi": "Trấn an 'mệt do ca đêm' rồi cho về, không lợi tiểu, không điều trị viêm gan B, không hẹn nội soi là bỏ sót xơ gan mất bù Child-Pugh B (QĐ 1740/2026 Phụ lục 2 mục 4). Anh vẫn ăn mặn và uống bia nên cổ trướng nặng dần, dịch có thể nhiễm khuẩn (PMN trên 250/mm³ là VPMNKNP, AASLD 2021). Giãn tĩnh mạch thực quản chưa ai tìm dù tiểu cầu chỉ 78 G/L."
+   },
+   "loi_mo": "Chào bác sĩ. Dạo này em mệt lắm, ăn gì cũng không thấy ngon, bụng căng, chiều chân hơi phù. Chắc em trực đêm nhiều quá thôi. Bác sĩ cho em truyền một chai nước hay vitamin gì đó cho khỏe, tối em còn đi làm.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "108/68",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mệt, ăn không ngon, bụng căng và hai chân hơi phù buổi chiều khoảng ba tuần. Xin truyền chai nước hoặc vitamin cho khỏe, tối còn đi làm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ba tuần trước khách sạn đón đoàn lớn, thiếu người, anh trực liên tiếp 12 đêm, ngủ chưa tới 4 giờ mỗi ngày, bị quản lý nhắc nhở trước mọi người. Từ đó ăn không ngon, bụng bắt đầu căng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau căng thẳng công việc"
+    },
+    {
+     "id": "mat_bung_chan",
+     "noi_dung": "Mệt rã rời, ăn nhanh no, hơn một tháng nay quần phải nới. Bụng căng đều, không đau, anh nghĩ là 'bụng bia'. Chiều chân phù, sáng đỡ. Cân nặng tăng khoảng 2 kg nhưng tay chân gầy đi, áo rộng ở vai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mệt, chán ăn, bụng to, phù chân"
+    },
+    {
+     "id": "ngua",
+     "noi_dung": "Ngứa khắp người, nặng về đêm, gãi xước da, không có nốt hay mẩn nổi. Ba tuần nay. Anh nghĩ là dị ứng chăn ga hoặc hóa chất giặt của khách sạn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngứa không ban"
+    },
+    {
+     "id": "thuoc_di_ung",
+     "noi_dung": "Uống thuốc dị ứng mua ở nhà thuốc, viên nhỏ 4 mg (clorpheniramin), 1–2 viên mỗi tối khoảng ba tuần, vừa đỡ ngứa vừa dễ ngủ sau ca.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì nói 'không, thỉnh thoảng thuốc dị ứng'. Chỉ nói tên, liều khi bác sĩ hỏi tiếp về thuốc dị ứng, thuốc ngủ, thuốc mua ngoài nhà thuốc.",
+     "y": "Thuốc tự mua (kháng histamin)"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Uống bia hằng ngày khoảng 15 năm: 4–6 lon mỗi tối khi tan ca, cuối tuần thêm rượu khi tiếp khách quen. Một tuần nay giảm còn 1–2 lon vì mệt; lần gần nhất cách đây 3 ngày. Không run tay, không vã mồ hôi.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi 'anh có uống rượu không' thì nói 'xã giao thôi, thỉnh thoảng'. Chỉ khai số lon mỗi ngày, số năm khi bác sĩ hỏi cụ thể, nhẹ nhàng, không phán xét (ví dụ 'tan ca anh có hay nâng ly không, mỗi tối mấy lon') hoặc sau khi nói về men gan.",
+     "y": "Rượu bia (nguyên nhân)"
+    },
+    {
+     "id": "tien_su_gan",
+     "noi_dung": "Bốn năm trước khám sức khỏe công ty được báo men gan cao, 'viêm gan B', siêu âm 'gan thô'. Uống thuốc ở bệnh viện tỉnh vài tháng rồi bỏ vì ca đêm và sợ công ty biết anh bệnh gan. Từ đó không xét nghiệm lại. Mẹ anh cũng bị viêm gan B, mất lúc 60 tuổi vì 'bệnh gan'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi 'trước đây có bệnh gan không' thì nói 'không'. Chỉ kể khi bác sĩ hỏi: đã xét nghiệm gan, viêm gan B chưa, từng ai nói gan có vấn đề, hoặc sau khi HBsAg dương; nói nhỏ và xin bác sĩ 'đừng nói công ty'.",
+     "y": "Viêm gan B bỏ khám 4 năm"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Đồng nghiệp truyền một chai ở phòng khám hôm trước thì khỏe ngay. Anh chỉ nghỉ một ngày mỗi tuần, tối nay phải đi làm, sợ quản lý ghi 'hay ốm'. Anh muốn truyền nước rồi đi làm tiếp.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh mong đợi điều gì khi đến khám, vì sao hôm nay đến, hoặc lo nhất điều gì.",
+     "y": "Lý do thật: muốn được truyền dịch"
+    },
+    {
+     "id": "khong_xhth",
+     "noi_dung": "Không nôn máu, phân vàng sệt, không phân đen. Không chóng mặt khi đứng dậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc xuất huyết tiêu hóa"
+    },
+    {
+     "id": "khong_sot_dau",
+     "noi_dung": "Không sốt, không ớn lạnh, không đau bụng, không đau hạ sườn phải. Tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc nhiễm khuẩn dịch bụng"
+    },
+    {
+     "id": "tim_am",
+     "noi_dung": "Không khó thở khi nằm hay leo cầu thang, không đau ngực. Chưa từng được báo bệnh tim hay huyết áp cao. Phù chân không tăng khi đi bộ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc suy tim"
+    },
+    {
+     "id": "khong_u_gan",
+     "noi_dung": "Không sốt về chiều, không đau tức hạ sườn phải, không sờ thấy khối, không nuốt nghẹn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc ung thư gan"
+    },
+    {
+     "id": "giam_dau",
+     "noi_dung": "Đau đầu thì uống paracetamol 500 mg 1 viên, hai ba lần mỗi tuần. Không dùng ibuprofen, diclofenac, aspirin. Không thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc giảm đau (tránh NSAID)"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Bữa ăn nhân viên khách sạn: cơm canh mặn, mì gói, mắm ruốc, hay ăn khuya. Chưa ai dặn ăn nhạt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chế độ ăn nhiều muối"
+    },
+    {
+     "id": "ca_dem",
+     "noi_dung": "Trực ca 22 giờ đến 6 giờ, nghỉ một ngày mỗi tuần. Nhà cách phòng khám 8 km, đi xe máy. Vợ là kế toán giờ hành chính, ở nhà buổi tối. Anh dặn bác sĩ đừng gọi điện cho chị vì chị chưa biết anh bệnh gan.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lịch làm việc, khả năng tái khám"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt. Niêm mạc hơi nhạt, củng mạc vàng nhẹ dưới ánh sáng ban ngày, da không vàng rõ. Teo cơ thái dương và vai. Ba nốt sao mạch ở ngực trên, ban đỏ lòng bàn tay hai bên, vết gãi xước ở cẳng tay và lưng. Vòng bụng ngang rốn 96 cm.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tĩnh mạch cổ không nổi khi ngồi 45 độ, không hạch thượng đòn.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, đáy phổi không giảm âm, không ran. Nhịp thở 18 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng căng đều, mềm, không đau, không phản ứng thành bụng. Gõ đục vùng thấp hai bên, đục di chuyển và sóng vỗ dương tính. Gan bờ sắc, không to; lách sờ thấy dưới bờ sườn trái khoảng 3 cm. Tuần hoàn bàng hệ nhẹ quanh rốn.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Phù mềm ấn lõm hai cổ chân đến giữa cẳng chân, không đau bắp chân.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đúng, không run vỗ cánh khi dang tay, không dấu thần kinh khu trú.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không ban, không mày đay. Nhiều vết gãi xước ở cẳng tay và lưng, vài nốt sao mạch ở ngực trên, không chấm xuất huyết.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 4,2 G/L · Hb 118 g/L · MCV 100 fL · TC 78 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 4.2,
+      "neu_pct": 62.0,
+      "neu": 2.6,
+      "lym_pct": 26.0,
+      "lym": 1.09,
+      "mono_pct": 9.0,
+      "mono": 0.38,
+      "eos_pct": 2.5,
+      "eos": 0.11,
+      "baso_pct": 0.5,
+      "baso": 0.02,
+      "rbc": 3.5,
+      "hgb": 118,
+      "hct": 0.35,
+      "mcv": 100.0,
+      "mch": 33.7,
+      "mchc": 337,
+      "rdw": 15.2,
+      "plt": 78
+     },
+     "n": "Công thức máu trong đánh giá ban đầu cổ trướng (AASLD 2021 Bảng 2). Tiểu cầu thấp gợi tăng áp cửa, lách to."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 78 · ALT 42 U/L",
+     "ab": 1,
+     "n": "AST/ALT khoảng 1,9, gợi yếu tố rượu."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "Bilirubin toàn phần 28 · trực tiếp 11 µmol/L · ALP 128 U/L · GGT 186 U/L · Albumin 29 g/L · INR 1,4",
+     "ab": 1,
+     "n": "AASLD 2021 Bảng 2: INR, bilirubin, albumin. Tính Child-Pugh (QĐ 1740/2026 Phụ lục 2 mục 4)."
+    },
+    "inr": {
+     "v": "u",
+     "r": "INR 1,4"
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 4,1 mmol/L · Creatinin 78 µmol/L · eGFR 105 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.1,
+      "creat": 78,
+      "egfr": 105
+     },
+     "n": "Mốc nền trước lợi tiểu (AASLD 2021 Bảng 2) và để chọn kháng vi-rút (QĐ 1740/2026 mục 4.2.4)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 133 · K 4,0 · Cl 98 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 133,
+      "k": 4.0,
+      "cl": 98
+     },
+     "n": "Hạ natri nhẹ (126–135 mmol/L) chỉ theo dõi (AASLD 2021, Guidance Statement về hạ natri)."
+    },
+    "virus_mau": {
+     "v": "e",
+     "r": "HBsAg dương tính · Anti-HCV âm tính · HIV âm tính",
+     "ab": 1,
+     "n": "Tìm căn nguyên (QĐ 1740/2026 mục 4.1). Khi thấy kết quả, anh sẽ kể chuyện viêm gan B cũ."
+    },
+    "test_nhanh_virus": {
+     "v": "u",
+     "r": "HBsAg dương tính. Anti-HCV âm tính. Anti-HIV âm tính."
+    },
+    "hbv_huyet_thanh": {
+     "v": "e",
+     "r": "HBsAg dương tính. HBeAg âm, anti-HBe dương, anti-HBc IgM âm, anti-HBc toàn phần dương, anti-HDV âm.",
+     "ab": 1,
+     "n": "HBV mạn thể HBeAg âm; xơ gan có chỉ định kháng vi-rút bất kể HBV DNA (QĐ 1740/2026 mục 4.2.3a)."
+    },
+    "hbv_dna": {
+     "v": "e",
+     "r": "HBV DNA 3,8 × 10³ IU/mL",
+     "ab": 1,
+     "n": "Mốc nền; xơ gan vẫn có chỉ định điều trị không phụ thuộc tải lượng (QĐ 1740/2026 mục 4.2.3a). Kết quả sau khoảng 3 ngày."
+    },
+    "anti_hbs_hbc": {
+     "v": "u",
+     "r": "Anti-HBs âm tính (< 10 mIU/mL) · Anti-HBc toàn phần dương tính"
+    },
+    "afp": {
+     "v": "e",
+     "r": "AFP 6 ng/mL (bình thường dưới 10)",
+     "ab": 1,
+     "n": "Ngưỡng chẩn đoán AFP 400 ng/mL (QĐ 3129/2020 mục 4.3.1); AFP thấp không đủ loại trừ, cần siêu âm."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Gan nhỏ, bờ không đều, echo thô, không ổ khu trú. Tĩnh mạch cửa 14 mm, dòng hướng gan trên Doppler, không huyết khối. Lách to 15 cm. Dịch ổ bụng lượng vừa quanh gan và hố chậu. Thành túi mật dày 5 mm, đường mật không giãn. Hai thận bình thường.",
+     "ab": 1,
+     "n": "Siêu âm Doppler là xét nghiệm đầu tiên (AASLD 2021 Bảng 2). Không khối gan; cổ trướng độ 2."
+    },
+    "echo": {
+     "v": "e",
+     "r": "Thất trái không giãn, EF 62%, van tim bình thường. Nhĩ phải không giãn, TM chủ dưới 14 mm xẹp theo hô hấp. Áp lực động mạch phổi bình thường. Không tràn dịch màng ngoài tim.",
+     "ab": 1,
+     "n": "Cổ trướng kèm phù cần loại trừ nguồn gốc tim (AASLD 2021 Bảng 2, Bảng 4); siêu âm tim là thăm dò chính (QĐ suy tim 2022, phần Siêu âm tim)."
+    },
+    "nt_probnp": {
+     "v": "u",
+     "r": "NT-proBNP 58 pg/mL",
+     "n": "Dưới 125 pg/mL: ít khả năng suy tim (ESC 2021 mục 4.2; QĐ suy tim 2022, phần Các peptide bài niệu)."
+    },
+    "fibroscan": {
+     "v": "u",
+     "r": "Độ đàn hồi gan 41 kPa."
+    },
+    "choc_dich_co_truong": {
+     "v": "e",
+     "r": "Dịch vàng trong. Bạch cầu đa nhân trung tính 60/mm³. Protein dịch 1,1 g/dL, albumin dịch 12 g/L. SAAG = 2,9 − 1,2 = 1,7 g/dL. Cấy dịch (chai cấy cạnh giường): âm tính.",
+     "ab": 1,
+     "n": "Chọc dò chẩn đoán cho mọi cổ trướng mới xuất hiện (AASLD 2021 Guidance Statement; Bảng 3). SAAG ≥ 1,1: tăng áp cửa; protein dịch dưới 2,5 g/dL không ủng hộ nguồn gốc tim (Bảng 4); PMN dưới 250/mm³ loại trừ VPMNKNP."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi tiêu hóa.)",
+     "n": "Có chỉ định tìm giãn tĩnh mạch thực quản (QĐ 1740/2026 mục 4.1.2b) nhưng không cấp cứu: hẹn tại bệnh viện."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Xơ gan do viêm gan B mạn (HBeAg âm) phối hợp rượu, mất bù lần đầu bằng cổ trướng độ 2, Child-Pugh B (7 điểm); chưa có xuất huyết tiêu hóa, bệnh não gan hay nhiễm khuẩn dịch bụng; đã loại trừ ung thư gan và suy tim",
+     "ok": 1,
+     "n": "Mệt, ngứa, phù, sao mạch, ban đỏ lòng bàn tay, lách to (QĐ 1740/2026 mục 4.1.2a); cổ trướng SAAG 1,7; HBsAg dương; siêu âm gan bờ không đều, tăng áp cửa; Child-Pugh B (Phụ lục 2 mục 4: 1+2+1+2+1 = 7). Rượu cộng hưởng (AST/ALT 1,9, MCV 100)."
+    },
+    {
+     "t": "Ung thư biểu mô tế bào gan",
+     "n": "Siêu âm Doppler không ổ khu trú, tĩnh mạch cửa thông, AFP 6 ng/mL; không loại trừ hoàn toàn nên vẫn giám sát (QĐ 3129/2020 mục 3)."
+    },
+    {
+     "t": "Suy tim gây phù và cổ trướng",
+     "n": "Không khó thở, tĩnh mạch cổ không nổi, siêu âm tim EF 62%, NT-proBNP 58 pg/mL; protein dịch 1,1 g/dL dưới 2,5 không ủng hộ nguồn gốc tim (AASLD 2021 Bảng 4)."
+    },
+    {
+     "t": "Viêm phúc mạc nhiễm khuẩn nguyên phát",
+     "n": "Không sốt, không đau bụng; PMN dịch 60/mm³ dưới 250/mm³ (AASLD 2021 mục SBP)."
+    },
+    {
+     "t": "Hội chứng thận hư, lao màng bụng, di căn phúc mạc",
+     "n": "Nước tiểu không protein; SAAG 1,7 g/dL (≥ 1,1) không ủng hộ nguyên nhân ngoài tăng áp cửa (AASLD 2021 Bảng 4)."
+    },
+    {
+     "t": "Dị ứng / mày đay mạn",
+     "n": "Ngứa không ban, đi kèm bệnh gan; ngứa là biểu hiện bệnh gan tiến triển (QĐ 1740/2026 mục 4.1.2a)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về điều trị ngoại trú, hẹn tái khám sau 1 tuần kèm natri, kali, creatinin; giấy giới thiệu khám chuyên khoa gan mật và nội soi",
+     "v": "c",
+     "n": "Cổ trướng độ 2 không cần nhập viện nếu chưa có biến chứng khác (EASL 2018 tr. 410; AASLD 2021). Xơ gan mất bù Child-Pugh B, C cần chuyển cấp chuyên sâu (QĐ 1740/2026 mục 4.5); AASLD 2021 khuyên xem xét đánh giá ghép gan. Hai cách cùng đúng: điều trị tại chỗ kèm giới thiệu."
+    },
+    {
+     "t": "Chuyển cấp chuyên sâu (khoa Tiêu hóa – Gan mật bệnh viện tỉnh) để quản lý xơ gan mất bù, kèm bắt đầu lợi tiểu và hạn natri trước khi đi",
+     "v": "a",
+     "n": "QĐ 1740/2026 (mục 4.5, phần phân cấp) nêu chuyển cấp chuyên sâu với xơ gan mất bù Child-Pugh B, C; EASL 2018 tr. 410 và AASLD 2021 cho điều trị cổ trướng độ 2 ngoại trú. Hai nguồn cùng đúng (sổ mâu thuẫn TH-1367), nên chuyển tuyến không trừ điểm; mục c đã gộp cách điều trị tại chỗ kèm giới thiệu."
+    },
+    {
+     "t": "Hạn natri khoảng 2 g/ngày (80–120 mmol/ngày), không hạn chế nước, không kiêng đạm",
+     "v": "c",
+     "n": "AASLD 2021: natri 2 g (90 mmol)/ngày, chỉ hạn chế nước khi natri ≤ 125 mmol/L. EASL 2018 tr. 410: 80–120 mmol/ngày. Đạm 1,2–1,5 g/kg cân lý tưởng/ngày (ACG 2026 khuyến cáo 15)."
+    },
+    {
+     "t": "Spironolacton 100 mg uống buổi sáng, chưa dùng furosemid ngay",
+     "v": "c",
+     "n": "Lần đầu, thận tốt: kháng aldosteron đơn độc, khởi đầu 100 mg, tăng 100 mg cách ít nhất 72 giờ, tối đa 400 mg (EASL 2018 tr. 411; AASLD 2021). Natri 133 nên tránh furosemid ngay (AASLD 2021 Bảng 6)."
+    },
+    {
+     "t": "Spironolacton phối hợp furosemid 40 mg ngay từ đầu",
+     "v": "a",
+     "n": "AASLD 2021: spironolacton có hoặc không furosemid là bậc 1; EASL 2018 dành phối hợp cho cổ trướng lâu ngày, tái phát."
+    },
+    {
+     "t": "Kháng vi-rút viêm gan B suốt đời: tenofovir disoproxil 300 mg/ngày (hoặc TAF 25 mg/ngày hoặc entecavir 1 mg/ngày vì xơ gan mất bù)",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.2.3a (xơ gan bất kể HBV DNA, ALT), mục 4.2.4 (liều; tránh TDF khi mức lọc dưới 50 mL/phút), mục 4.2.5a (suốt đời). eGFR 105 nên dùng được TDF."
+    },
+    {
+     "t": "Ngưng rượu bia hoàn toàn; sàng lọc bằng AUDIT-C, can thiệp tạo động lực ngắn",
+     "v": "c",
+     "n": "ACG 2024 (TL-0202) khuyến cáo 6 (viêm gan B: tránh rượu), 7, 8; ACG 2026 khái niệm then chốt 5. Thuốc điều trị rối loạn sử dụng rượu ở xơ gan mất bù: không có trong tài liệu đã tải (ACG 2024 khuyến cáo 9–10 cho bệnh gan còn bù)."
+    },
+    {
+     "t": "Ngưng thuốc dị ứng tự mua và thuốc an thần; tránh NSAID, ức chế men chuyển, chẹn thụ thể angiotensin",
+     "v": "c",
+     "n": "AASLD 2021 Guidance Statement: tránh NSAID, ACEi, ARB ở cổ trướng. Benzodiazepin thúc đẩy bệnh não gan (ACG 2024 khuyến cáo 13); tác dụng của kháng histamin thế hệ 1 và điều trị ngứa do gan: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Siêu âm bụng kèm AFP mỗi 3 hoặc mỗi 6 tháng",
+     "v": "c",
+     "n": "QĐ 3129/2020 mục 3.2: mỗi 3 tháng ở xơ gan do vi-rút, mỗi 6 tháng ở nhóm nguy cơ cao; ACG 2026 khuyến cáo 7: siêu âm kèm AFP mỗi 6 tháng."
+    },
+    {
+     "t": "Giới thiệu nội soi dạ dày – thực quản tìm giãn tĩnh mạch; quyết định carvedilol sau nội soi",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.1.2b. Cổ trướng kèm giãn tĩnh mạch dùng carvedilol (Baveno VIII mục 4.4), giảm liều khi HA tâm thu dưới 90 mmHg (mục 4.6)."
+    },
+    {
+     "t": "Bắt đầu carvedilol ngay hôm nay khi chưa nội soi",
+     "v": "a",
+     "n": "Baveno VIII mục 4.4 dùng khi có cổ trướng và giãn tĩnh mạch; chưa biết có giãn. Chấp nhận được, theo dõi HA."
+    },
+    {
+     "t": "Tiêm viêm gan A và cúm",
+     "v": "a",
+     "n": "ACG 2026 khuyến cáo 10 và 12 (mạnh); làm khi ổn định."
+    },
+    {
+     "t": "Kê thuốc 'bổ gan' (silymarin hoặc tương tự)",
+     "v": "a",
+     "n": "Theo sổ mâu thuẫn (mục thuốc bảo vệ gan, TH-1113/MT-0425): chưa có tổn thương gan do thuốc nên chấm a. Thuốc cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục uống bia vừa phải 1–2 lon mỗi ngày",
+     "v": "w",
+     "n": "ACG 2024 khuyến cáo 6: viêm gan B mạn tránh rượu."
+    },
+    {
+     "t": "Truyền dịch (NaCl 0,9%, glucose, vitamin) theo yêu cầu của anh",
+     "v": "w",
+     "n": "Không tài liệu đã tải nào chỉ định (sổ mâu thuẫn: truyền dịch theo yêu cầu chấm w). Cổ trướng cần hạn natri (AASLD 2021); mỗi lít NaCl 0,9% có khoảng 154 mmol natri (tính từ 9 g/L), nhiều hơn lượng natri được phép trong ngày (88–90 mmol)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Xơ gan do viêm gan B mạn (HBsAg dương, HBeAg âm, HBV DNA 3,8 × 10³ IU/mL) phối hợp rượu, Child-Pugh B 7 điểm (QĐ 1740/2026 Phụ lục 2 mục 4: bilirubin 28 µmol/L 1, albumin 29 g/L 2, INR 1,4 1, cổ trướng 2, không bệnh não gan 1)",
+     "Mất bù lần đầu bằng cổ trướng độ 2 (SAAG 1,7 g/dL, PMN dịch 60/mm³, cấy âm); chưa có xuất huyết tiêu hóa, chưa có bệnh não gan",
+     "Tăng áp tĩnh mạch cửa: lách to 15 cm, tiểu cầu 78 G/L; hạ natri nhẹ 133 mmol/L; thiếu máu hồng cầu to nhẹ",
+     "Đã loại trừ: ung thư gan (Doppler không khối, AFP 6 ng/mL), suy tim (EF 62%, NT-proBNP 58 pg/mL, protein dịch 1,1 g/dL), VPMNKNP, thận hư, lao màng bụng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám, khởi phát (trực đêm liên tiếp) → mệt, bụng to, phù → ngứa → thuốc đang dùng, thuốc mua ngoài → rượu bia → tiền sử gan, viêm gan B → dấu nhiễm khuẩn, xuất huyết, tim mạch → vì sao hôm nay muốn truyền nước. Hỏi chung 'bệnh gì trước đây' không lộ gì; phải hỏi thẳng, không phán xét về gan và bia mỗi tối.",
+     "Vì sao xơ gan dù không điển hình: không vàng da rõ, không nôn máu, bụng như 'bụng bia'. Nhưng mệt, ngứa, phù, sao mạch, ban đỏ lòng bàn tay, lách to là đặc điểm bệnh gan tiến triển (QĐ 1740/2026 mục 4.1.2a); cổ trướng, tiểu cầu thấp là tăng áp cửa. AASLD 2021 Bảng 2 nhắc tìm lách to, sao mạch, ban đỏ lòng bàn tay.",
+     "Xơ gan chẩn đoán bằng lâm sàng và/hoặc F4 (APRI > 1, FibroScan > 12,5 kPa; QĐ 1740/2026 mục 4.1.2b). Child-Pugh B là mất bù; sự kiện mất bù là cổ trướng (Baveno VIII mục 3.3). Căn nguyên: HBV (HBsAg dương, HBeAg âm) cộng rượu 15 năm (AST/ALT 1,9, MCV 100, GGT 186); bỏ rượu quan trọng như điều trị HBV (ACG 2024 khuyến cáo 6).",
+     "Loại trừ ung thư gan: sút cơ, chán ăn gặp ở cả hai, nhưng siêu âm không ổ khu trú, Doppler thông, AFP 6 ng/mL (ngưỡng 400 ng/mL, QĐ 3129/2020 mục 4.3.1); AFP bình thường không loại trừ nên vẫn giám sát. Loại trừ suy tim: không khó thở, TM cổ không nổi, EF 62%, NT-proBNP 58 (dưới 125, ESC 2021 mục 4.2), protein dịch dưới 2,5 g/dL (AASLD 2021 Bảng 4).",
+     "Phân biệt khác: VPMNKNP (PMN 60, ngưỡng 250/mm³; AASLD 2021 mục SBP), lao, di căn phúc mạc (SAAG ≥ 1,1 loại trừ), mày đay mạn (ngứa không ban). Không có X-quang: thay bằng siêu âm tim, phổi; nội soi hẹn nơi khác.",
+     "Động cơ thật: anh muốn truyền nước để kịp đi làm, sợ mất phụ cấp. Chỉ từ chối thì mất lòng tin và anh trốn tái khám; cần hứa giữ bí mật y khoa và giúp giấy nghỉ hợp lệ."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: về điều trị ngoại trú, hẹn 1 tuần, giới thiệu chuyên khoa và nội soi. Cổ trướng độ 2 không cần nhập viện nếu chưa có biến chứng (EASL 2018 tr. 410); anh huyết động ổn, dịch không nhiễm khuẩn, creatinin bình thường. QĐ 1740/2026 mục 4.5 nêu xơ gan mất bù Child-Pugh B, C cần chuyển cấp chuyên sâu; hai nguồn khác bối cảnh (phân tuyến so với khuyến cáo lâm sàng) nên bắt đầu tại chỗ rồi giới thiệu để nội soi và đánh giá ghép gan (AASLD 2021).",
+     "Hạn natri 2 g (90 mmol)/ngày (AASLD 2021) hoặc 80–120 mmol/ngày (EASL 2018 tr. 410), hai khoảng chồng nhau; 2 g natri khoảng 5 g muối (tính từ NaCl). Không hạn chế nước vì natri 133 (chỉ khi ≤ 125 mmol/L). Không kiêng đạm: 1,2–1,5 g/kg cân lý tưởng/ngày và 30–35 kcal/kg/ngày (ACG 2026 khuyến cáo 15).",
+     "Lợi tiểu: spironolacton 100 mg/ngày, tăng 100 mg cách ít nhất 72 giờ, tối đa 400 mg; thêm furosemid 40 mg (tối đa 160 mg) nếu giảm cân dưới 2 kg/tuần (EASL 2018 tr. 411; AASLD 2021). Giảm cân tối đa 0,5 kg/ngày nếu không phù, 1 kg/ngày nếu có phù (EASL 2018; AASLD 2021).",
+     "Căn nguyên: kháng vi-rút suốt đời (QĐ 1740/2026 mục 4.2.3a, 4.2.5a); ngưng rượu; điều trị căn nguyên giúp kiểm soát cổ trướng (EASL 2018 tr. 410). Ngưng clorpheniramin; tránh NSAID, ACEi, ARB (AASLD 2021); paracetamol dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3).",
+     "Truyền dịch theo yêu cầu: không có chỉ định trong tài liệu đã tải, và cổ trướng cần hạn natri. Cách nói: không từ chối chung chung; nêu mục tiêu giúp anh làm việc lâu dài; truyền nước biển làm bụng căng thêm; đề nghị giấy nghỉ ngắn.",
+     "Chưa carvedilol hôm nay: chưa nội soi, natri thấp nhẹ, HA 108/68; Baveno VIII mục 4.4, 4.6. Theo dõi: tái khám 1 tuần (EASL 2018: thường xuyên những tuần đầu; chu kỳ cụ thể không có trong tài liệu đã tải), sau đó 12 tuần/lần kèm bilirubin, INR, albumin (QĐ 1740/2026 mục 4.3.2). Giám sát ung thư gan 3 hoặc 6 tháng (QĐ 3129/2020 mục 3.2; ACG 2026 khuyến cáo 7)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Spironolacton",
+      "ham_luong": "25 mg",
+      "lieu": "100 mg (4 viên) × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng sau ăn",
+      "so_ngay": "Tái khám 1 tuần để chỉnh; tăng 100 mg cách ít nhất 72 giờ, tối đa 400 mg/ngày; hết cổ trướng thì giảm liều thấp nhất",
+      "ghi_chu": "EASL 2018 tr. 411; AASLD 2021 mục Dietary sodium restriction and diuretic therapy. Tác dụng phụ: tăng kali, vú to đau (AASLD 2021 Bảng 6)."
+     },
+     {
+      "thuoc": "Tenofovir disoproxil fumarat (TDF)",
+      "ham_luong": "300 mg",
+      "lieu": "300 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Giờ cố định mỗi ngày",
+      "so_ngay": "Suốt đời",
+      "ghi_chu": "QĐ 1740/2026 mục 4.2.4 (liều; tránh khi mức lọc dưới 50 mL/phút), 4.2.3a, 4.2.5a. Thay thế: TAF 25 mg hoặc entecavir 1 mg (xơ gan mất bù)."
+     }
+    ],
+    "dan_do": [
+     "Cân mỗi sáng sau khi đi tiểu, ghi sổ; không giảm quá 1 kg/ngày (EASL 2018 tr. 411; AASLD 2021). Mang sổ khi tái khám.",
+     "Ăn nhạt: không thêm muối, nước mắm, mắm ruốc, mì gói; nhờ bếp để riêng phần chưa nêm. Natri khoảng 2 g/ngày, tương đương khoảng 5 g muối (AASLD 2021; EASL 2018). Uống nước bình thường. Không kiêng đạm: thịt, cá, trứng, đậu mỗi bữa (ACG 2026 khuyến cáo 15).",
+     "Ngưng bia rượu hoàn toàn, kể cả khi tiếp khách (ACG 2024 khuyến cáo 6, 8). Ngưng thuốc dị ứng; không tự mua thuốc ngủ, thuốc kháng viêm giảm đau; đau đầu dùng paracetamol dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3).",
+     "Uống tenofovir đều, không tự ngưng dù thấy khỏe (QĐ 1740/2026 mục 4.2.5a).",
+     "Đến ngay khi: sốt, đau bụng; nôn máu hoặc phân đen; ngủ gà, lú lẫn; tiểu rất ít; ngất; vàng da tăng nhanh (AASLD 2021; EASL 2018).",
+     "Nội soi dạ dày – thực quản tại bệnh viện trong vài tuần (QĐ 1740/2026 mục 4.1.2b); siêu âm kèm AFP mỗi 3–6 tháng; tiêm viêm gan A, cúm khi ổn định (ACG 2026 khuyến cáo 7, 10, 12).",
+     "Công việc: xin giấy nghỉ ngắn hoặc đổi sang ca ngày vài tuần; tên bệnh được giữ bí mật y khoa.",
+     "Tái khám sau 1 tuần (EASL 2018: khám thường xuyên những tuần đầu) kèm natri, kali, creatinin; nếu ca đêm không đến được thì gọi đổi giờ, đừng bỏ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 10 ngày",
+   "tiep_don": "Vợ anh Vinh là chị Thủy đưa anh đến, sau 10 ngày; anh lỡ hẹn tái khám 1 tuần vì ca đêm. Anh uống thuốc theo đơn, nhưng mấy hôm nay lúc ngủ gà gật, lúc thức trắng đêm, nói lẫn, tay run, chữ viết xấu đi. Anh vẫn xin 'truyền chai nước cho tỉnh'. Sinh hiệu: HA 98/60 mmHg, mạch 92 l/p, nhiệt độ 36,9°C, nhịp thở 18 l/p, SpO₂ 96%. Cân nặng 65,2 kg.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cho anh Vinh về với lactulose và dặn vợ canh là bỏ sót việc tìm yếu tố thúc đẩy: bệnh não gan độ 2 kèm natri 127 mmol/L phải loại trừ nhiễm khuẩn dịch bụng và xuất huyết tiêu hóa (AASLD/EASL 2014, khuyến cáo 18, Bảng 3). Chị Thủy đi làm ban ngày, tối anh đi ca đêm, khó uống lactulose đúng cách và có thể lại uống bia. Đêm đó anh có thể mê sâu hơn, ngã hoặc sặc; đây là lần mất bù thứ hai nên tiên lượng xấu hơn (Baveno VIII mục 4.1).",
+    "cap_cuu": "Gọi cấp cứu chuyển vào hồi sức là quá mức: anh còn gọi mở mắt, trả lời được, HA 98/60, mạch 92, không nôn máu, không sốt, PMN dịch 80/mm³, đường huyết 5,8 mmol/L. Anh cần nằm khoa Nội tiêu hóa điều trị lactulose, tìm yếu tố thúc đẩy và theo dõi điện giải, không phải ICU. Đẩy vào cấp cứu làm anh tốn cả tuần, vợ nghỉ việc và anh càng sợ mất chỗ làm nên có thể xin về sớm."
+   },
+   "loi_mo": "Dạ chào bác sĩ. Em uống thuốc đều mà bụng vẫn căng. Mấy hôm nay em chỉ thấy mơ màng thôi, ngày ngủ gật, đêm lại thức. Vợ em lo quá bắt em đi. Bác sĩ cho em truyền chai nước cho tỉnh được không, chiều nay em còn đi làm.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "98/60",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ngủ gà gật ban ngày, ban đêm thức trắng, nói lẫn, tay run, chữ viết xấu đi trong 3 ngày. Vợ đưa đi. Anh thấy mình chỉ 'mơ màng' và xin truyền chai nước cho tỉnh để chiều đi làm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "vo_ke",
+     "noi_dung": "Chị Thủy kể anh hai ba hôm nay hỏi cùng một câu nhiều lần, lẫn ngày với đêm, mặc nhầm áo. Chị không thấy anh sốt, nôn hay đi ngoài ra máu. Chị biết anh uống bia mỗi tối và từng nghe 'men gan cao'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lời người nhà: thay đổi tri giác"
+    },
+    {
+     "id": "thuoc_tuan_thu",
+     "noi_dung": "Uống đều spironolacton 4 viên mỗi sáng và tenofovir mỗi tối. Mười ngày nay cân từ 66 xuống 65,2 kg, bụng xẹp rất ít, phù chân đỡ chút.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc, đáp ứng lợi tiểu"
+    },
+    {
+     "id": "an_nhat_kho",
+     "noi_dung": "Cố ăn nhạt nhưng cơm nhân viên nêm sẵn, hay ăn mì gói đêm. Nghe nói gan thì phải kiêng đạm nên mấy ngày nay bỏ thịt cá, chỉ ăn cháo trắng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn nhiều muối, kiêng đạm sai"
+    },
+    {
+     "id": "tao_bon",
+     "noi_dung": "Ba ngày chưa đi đại tiện. Sợ bụng to thêm nên uống ít nước, ăn ít rau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Táo bón (yếu tố thúc đẩy)"
+    },
+    {
+     "id": "ruou_tiec",
+     "noi_dung": "Tối thứ bảy cách đây 3 ngày đi tiệc tất niên khách sạn, uống khoảng 4 lon bia. Vợ không biết.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi lần uống gần nhất, có uống lại bia sau khi dặn kiêng không, hỏi nhẹ nhàng, không trách.",
+     "y": "Uống bia lại (yếu tố thúc đẩy)"
+    },
+    {
+     "id": "thuoc_di_ung_lai",
+     "noi_dung": "Uống lại clorpheniramin 2 viên mỗi tối bốn đêm gần đây vì ngứa không ngủ được. Chưa kể với vợ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi có uống lại thuốc dị ứng, thuốc ngủ, thuốc mua ngoài không.",
+     "y": "Thuốc an thần tự mua (yếu tố thúc đẩy)"
+    },
+    {
+     "id": "khong_xhth_sot",
+     "noi_dung": "Không nôn máu, phân táo vàng nâu, không đen. Không sốt, không đau bụng. Tiểu vàng, lượng bình thường. Không run mịn, không vã mồ hôi, không ảo giác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc xuất huyết, nhiễm khuẩn, cai rượu"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Anh vẫn nghĩ chỉ cần một chai nước là tỉnh. Anh sợ nằm viện thì mất ca, bị chuyển sang ca ngày mất phụ cấp, quản lý biết anh bệnh gan.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao anh muốn truyền nước, anh lo điều gì nhất nếu nằm viện.",
+     "y": "Lý do thật: muốn được truyền dịch"
+    },
+    {
+     "id": "nhap_vien_tro_ngai",
+     "noi_dung": "Vợ nghỉ được vài ngày. Có thẻ bảo hiểm y tế. Nếu bác sĩ giải thích rõ lý do và giữ kín bệnh với công ty thì anh đồng ý.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng nằm viện, người chăm sóc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Ngủ gà, gọi to thì mở mắt, trả lời chậm, đúng tên nhưng sai ngày và tháng. Củng mạc vàng rõ hơn lượt trước. Sao mạch, ban đỏ lòng bàn tay như cũ.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Định hướng nơi chốn đúng, thời gian sai. Run vỗ cánh dương tính hai tay khi dang tay duỗi thẳng. Không dấu thần kinh khu trú, không cứng gáy, đồng tử đều phản xạ tốt.",
+     "k": 1
+    },
+    "sang_loc_sang": {
+     "a": "4AT dương tính (từ 4 điểm trở lên): lơ mơ, sai hai trong bốn câu định hướng, đọc ngược tháng không quá tháng 8, thay đổi cấp tính trong 3 ngày.",
+     "k": 1
+    },
+    "mat_giong_chu_viet": {
+     "a": "Giọng chậm, chữ viết to, run, nguệch ngoạc.",
+     "k": 0
+    },
+    "run_nghi": {
+     "a": "Không run lúc nghỉ. Khi dang hai tay giữ thế có động tác 'vỗ cánh' không đều.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng căng vừa, mềm, không đau, không phản ứng thành bụng, đục di chuyển dương tính như lượt trước. Lách sờ thấy dưới bờ sườn 3 cm. Không dấu viêm phúc mạc.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Phù mềm hai cổ chân, nhẹ hơn lượt trước.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "truc_trang": {
+     "a": "Phân cứng vàng nâu trong bóng trực tràng, găng không dính phân đen hay máu.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 5,1 G/L · Hb 112 g/L · MCV 100 fL · TC 74 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 5.1,
+      "neu_pct": 66.0,
+      "neu": 3.37,
+      "lym_pct": 22.0,
+      "lym": 1.12,
+      "mono_pct": 9.0,
+      "mono": 0.46,
+      "eos_pct": 2.5,
+      "eos": 0.13,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 3.4,
+      "hgb": 112,
+      "hct": 0.34,
+      "mcv": 100.0,
+      "mch": 32.9,
+      "mchc": 329,
+      "rdw": 15.6,
+      "plt": 74
+     },
+     "n": "Tìm yếu tố thúc đẩy: bạch cầu không tăng; Hb 118 → 112 g/L, chưa gợi ý chảy máu cấp (phân không đen)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 127 · K 4,4 · Cl 94 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 127,
+      "k": 4.4,
+      "cl": 94
+     },
+     "n": "Hạ natri nhẹ do lợi tiểu là yếu tố thúc đẩy bệnh não gan (AASLD 2021 Bảng 6, Bảng 7)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 6,2 mmol/L · Creatinin 96 µmol/L · eGFR 82 mL/ph/1,73m²",
+     "bang": {
+      "ure": 6.2,
+      "creat": 96,
+      "egfr": 82
+     },
+     "ab": 1,
+     "n": "Creatinin tăng 18 µmol/L (khoảng 0,2 mg/dL), chưa đạt AKI (tăng ít nhất 0,3 mg/dL trong 48 giờ; AASLD 2021 Bảng 6)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 70 · ALT 38 U/L"
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "Bilirubin toàn phần 41 · trực tiếp 17 µmol/L · ALP 140 U/L · GGT 170 U/L · Albumin 28 g/L · INR 1,6",
+     "ab": 1,
+     "n": "Child-Pugh: bilirubin 2, albumin 2, INR 1, cổ trướng 2, bệnh não gan 2: tổng 9, Child B (QĐ 1740/2026 Phụ lục 2 mục 4)."
+    },
+    "inr": {
+     "v": "u",
+     "r": "INR 1,6"
+    },
+    "glu_mm": {
+     "v": "e",
+     "r": "5,8 mmol/L",
+     "n": "Thay đổi tri giác phải loại trừ hạ đường huyết."
+    },
+    "crp": {
+     "v": "u",
+     "r": "21 mg/L",
+     "ab": 1
+    },
+    "choc_dich_co_truong": {
+     "v": "e",
+     "r": "Dịch vàng trong. Bạch cầu đa nhân trung tính 80/mm³. Protein 1,0 g/dL. Cấy dịch tại giường: âm tính.",
+     "ab": 1,
+     "n": "Chọc dò chẩn đoán khi nhập viện hoặc nghi nhiễm khuẩn (AASLD 2021 mục SBP: PMN trên 250/mm³ là VPMNKNP). PMN 80: không nhiễm khuẩn."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Dịch ổ bụng lượng vừa như lượt trước. Gan bờ không đều, echo thô, không ổ khu trú. Tĩnh mạch cửa 14 mm, dòng hướng gan, không huyết khối. Lách 15,5 cm. Không giãn đường mật.",
+     "ab": 1,
+     "n": "Doppler loại trừ khối gan và huyết khối tĩnh mạch cửa (AASLD 2021 Bảng 2); Baveno VIII mục 3.7: tổn thương gan cấp chồng lên có thể thúc đẩy mất bù."
+    },
+    "hbv_dna": {
+     "v": "u",
+     "r": "HBV DNA 4,6 × 10² IU/mL (giảm sau 10 ngày tenofovir)"
+    },
+    "virus_mau": {
+     "v": "u",
+     "r": "HBsAg dương tính · Anti-HCV âm tính · HIV âm tính"
+    },
+    "cxr": {
+     "v": "e",
+     "r": "(Phòng khám không có máy X-quang.)",
+     "thay_the": "abdus",
+     "n": "Không có X-quang; không cần cho quyết định lượt này."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi tiêu hóa.)",
+     "n": "Không có xuất huyết cấp nên không cần nội soi cấp cứu; làm trong đợt nằm viện khi tỉnh (QĐ 1740/2026 mục 4.1.2b)."
+    },
+    "ct_nao": {
+     "n": "Không dấu thần kinh khu trú, không chấn thương; run vỗ cánh và hạ natri giải thích được bệnh cảnh nên không cần CT sọ. CT không có tại phòng khám; nếu tri giác không cải thiện sau xử trí yếu tố thúc đẩy thì chụp tại bệnh viện."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh não gan rõ độ 2 (West Haven) ở bệnh nhân xơ gan do viêm gan B và rượu, Child-Pugh B 9 điểm, cổ trướng độ 2 đáp ứng chậm lợi tiểu; yếu tố thúc đẩy: táo bón, uống bia lại, thuốc kháng histamin an thần, hạ natri nhẹ do lợi tiểu; không nhiễm khuẩn dịch bụng, không xuất huyết tiêu hóa, không ung thư gan, không suy tim",
+     "ok": 1,
+     "n": "Ngủ gà, sai định hướng thời gian, run vỗ cánh: độ 2 (AASLD/EASL 2014 Bảng 2). Biến cố mất bù thứ hai sau cổ trướng (Baveno VIII mục 3.3, 4.1). Yếu tố thúc đẩy: nhiễm trùng, xuất huyết tiêu hóa, quá liều lợi tiểu, rối loạn điện giải, táo bón (AASLD/EASL 2014 Bảng 3)."
+    },
+    {
+     "t": "Nhiễm khuẩn dịch bụng (VPMNKNP) hoặc nhiễm khuẩn khác",
+     "n": "Không sốt, không đau bụng; PMN dịch 80/mm³ dưới 250; CRP 21 mg/L, bạch cầu 5,1 G/L (AASLD 2021 mục SBP)."
+    },
+    {
+     "t": "Xuất huyết tiêu hóa do giãn tĩnh mạch",
+     "n": "Không nôn máu, phân không đen, thăm trực tràng sạch, Hb 112 g/L giảm nhẹ so với 118, huyết động ổn."
+    },
+    {
+     "t": "Hạ đường huyết, tổn thương thận cấp / hội chứng gan thận",
+     "n": "Đường huyết 5,8 mmol/L; creatinin tăng 0,2 mg/dL, dưới ngưỡng AKI (AASLD 2021 Bảng 6)."
+    },
+    {
+     "t": "Ung thư gan hoặc huyết khối tĩnh mạch cửa gây mất bù cấp",
+     "n": "Doppler không khối, tĩnh mạch cửa thông, AFP 6 ng/mL ở lượt 1 (QĐ 3129/2020 mục 4.3.1)."
+    },
+    {
+     "t": "Suy tim",
+     "n": "Không khó thở, không phù tăng; siêu âm tim EF 62%, NT-proBNP 58 pg/mL ở lượt 1 (dưới 125, ESC 2021 mục 4.2)."
+    },
+    {
+     "t": "Hội chứng cai rượu, đột quỵ hoặc xuất huyết nội sọ",
+     "n": "Không vã mồ hôi, run mịn, ảo giác; run vỗ cánh chứ không run nghỉ; không dấu thần kinh khu trú. Benzodiazepin có thể thúc đẩy bệnh não gan nên tránh (ACG 2024 khuyến cáo 13)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhập viện khoa Nội/Tiêu hóa điều trị bệnh não gan độ 2 và tìm yếu tố thúc đẩy",
+     "v": "c",
+     "n": "Biến cố mất bù thứ hai (Baveno VIII mục 4.1(a)); bệnh não gan độ 2 kèm natri 127, Child-Pugh B 9; cần ngưng lợi tiểu, lactulose theo đáp ứng, chọc dịch, theo dõi điện giải, creatinin; QĐ 1740/2026 mục 4.5 xơ gan mất bù cần chuyển cấp chuyên sâu. Tiêu chuẩn nhập viện riêng cho độ 2 ngoại trú: không có trong tài liệu đã tải. Anh khó dùng thuốc đúng ở nhà."
+    },
+    {
+     "t": "Tạm ngưng spironolacton",
+     "v": "c",
+     "n": "EASL 2018 tr. 411: ngưng lợi tiểu khi bệnh não gan nặng hơn hoặc natri dưới 125 mmol/L, không dùng ở bệnh não gan rõ kéo dài; AASLD 2021 Bảng 6, 7. Dùng lại từng bước khi tỉnh, natri ổn."
+    },
+    {
+     "t": "Lactulose 25 mL mỗi 1–2 giờ đến khi có ít nhất 2 lần phân mềm/ngày, sau đó chỉnh để 2–3 lần phân mềm/ngày",
+     "v": "c",
+     "n": "AASLD/EASL 2014 Rationale 19, tr. 25 (nguồn bổ sung tự tìm, Hepatology 2014;60:715-735). EASL 2018 tr. 421 cũng nêu lactulose hoặc lactitol khi có bệnh não gan (bối cảnh xuất huyết cấp). Liều trong tài liệu đã tải: không có."
+    },
+    {
+     "t": "Tìm và xử trí yếu tố thúc đẩy: chọc dịch cổ trướng, công thức máu, điện giải, creatinin, đường huyết, CRP, thăm trực tràng, xử trí táo bón",
+     "v": "c",
+     "n": "AASLD/EASL 2014 khuyến cáo 18 (tr. 24), Bảng 3; AASLD 2021: chọc dò chẩn đoán khi nhập viện."
+    },
+    {
+     "t": "Ngưng rượu, ngưng clorpheniramin và thuốc an thần; không dùng benzodiazepin để ngủ",
+     "v": "c",
+     "n": "ACG 2024 khuyến cáo 6 và 13 (benzodiazepin thúc đẩy bệnh não gan). Tác dụng của kháng histamin thế hệ 1: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục tenofovir 300 mg/ngày; không kiêng đạm, không hạn chế nước; theo dõi natri, kali, creatinin hằng ngày",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.2.5a; ACG 2026 khuyến cáo 15 (đạm 1,2–1,5 g/kg); AASLD 2021: natri 126–135 chỉ theo dõi, 120–125 hạn chế nước 1.000 mL/ngày và ngưng lợi tiểu."
+    },
+    {
+     "t": "Nội soi dạ dày – thực quản khi tỉnh; carvedilol sau nội soi; giới thiệu đánh giá ghép gan",
+     "v": "a",
+     "n": "QĐ 1740/2026 mục 4.1.2b; Baveno VIII mục 4.3 (cân nhắc ghép gan), 4.4, 4.6; AASLD 2021 (cổ trướng độ 2, 3)."
+    },
+    {
+     "t": "Thêm rifaximin ngay",
+     "v": "a",
+     "n": "ACG 2026 khuyến cáo 2: thêm khi bệnh não gan xảy ra lúc đang dùng lactulose; AASLD/EASL 2014 khuyến cáo 26: bổ sung sau đợt thứ hai. Anh chưa dùng lactulose nên chưa bắt buộc."
+    },
+    {
+     "t": "Truyền NaCl 0,9% hoặc glucose theo yêu cầu của anh để 'tỉnh lại'",
+     "v": "w",
+     "n": "Không tài liệu đã tải nào chỉ định (sổ mâu thuẫn: truyền dịch theo yêu cầu chấm w). Cổ trướng cần hạn natri (AASLD 2021); mỗi lít NaCl 0,9% có khoảng 154 mmol natri (tính từ 9 g/L)."
+    },
+    {
+     "t": "Dùng thuốc an thần hoặc thuốc ngủ cho anh ngủ ban đêm",
+     "v": "w",
+     "n": "ACG 2024 khuyến cáo 13: benzodiazepin có thể thúc đẩy hoặc làm nặng bệnh não gan."
+    },
+    {
+     "t": "Tiếp tục hoặc tăng spironolacton để bụng xẹp nhanh",
+     "v": "w",
+     "n": "EASL 2018 tr. 411: ngưng lợi tiểu nếu bệnh não gan nặng hơn; không dùng khi bệnh não gan rõ kéo dài."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh não gan rõ độ 2 (West Haven): ngủ gà, sai định hướng thời gian, run vỗ cánh (AASLD/EASL 2014 Bảng 2)",
+     "Xơ gan do viêm gan B mạn phối hợp rượu, Child-Pugh B 9 điểm (QĐ 1740/2026 Phụ lục 2 mục 4: bilirubin 41 µmol/L 2, albumin 28 g/L 2, INR 1,6 1, cổ trướng 2, bệnh não gan 2)",
+     "Mất bù lần thứ hai (cổ trướng rồi bệnh não gan); cổ trướng độ 2 đáp ứng chậm với spironolacton 100 mg (Baveno VIII mục 4.1(a))",
+     "Yếu tố thúc đẩy: táo bón 3 ngày, bia 4 lon, clorpheniramin buổi tối, natri 127 mmol/L (lợi tiểu), kiêng đạm sai",
+     "Đã loại trừ: VPMNKNP, xuất huyết tiêu hóa, hạ đường huyết, AKI, ung thư gan, huyết khối tĩnh mạch cửa, suy tim, đột quỵ, hội chứng cai rượu"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám và lời người nhà (hỏi lặp, lẫn ngày đêm) → tuân thủ thuốc, cân nặng → ăn (muối, đạm, nước) → đại tiện → bia, thuốc an thần tự mua → dấu nhiễm khuẩn, xuất huyết, cai rượu → vì sao muốn truyền nước. Người nhà biết ít hơn người bệnh; hỏi riêng từng người.",
+     "Khám: tri giác, định hướng, run vỗ cánh, dấu thần kinh khu trú, 4AT; bụng so cổ trướng với lượt trước, tìm viêm phúc mạc; thăm trực tràng tìm phân đen. Run vỗ cánh dương, sai thời gian, ngủ gà là độ 2 (AASLD/EASL 2014 Bảng 2); không dấu khu trú, không chấn thương nên không cần CT sọ.",
+     "Yếu tố thúc đẩy theo thứ tự thường gặp: nhiễm trùng, xuất huyết tiêu hóa, quá liều lợi tiểu, rối loạn điện giải, táo bón (AASLD/EASL 2014 Bảng 3). Ở anh: táo bón, bia, thuốc an thần tự mua, hạ natri do lợi tiểu (AASLD 2021 Bảng 6). Tác dụng của kháng histamin lên bệnh não gan: không có trong tài liệu đã tải; benzodiazepin có thể thúc đẩy (ACG 2024 khuyến cáo 13).",
+     "Phải loại trừ nhiễm khuẩn, xuất huyết vì phổ biến, nặng và có thể không triệu chứng; chọc dịch chẩn đoán khi nhập viện (AASLD 2021 mục SBP: PMN trên 250/mm³). PMN 80, CRP 21, không phân đen.",
+     "Mức độ nặng: bệnh não gan là biến cố mất bù thứ hai, mất bù tiến triển (Baveno VIII mục 4.1(a)); Child-Pugh từ 7 lên 9. Natri giảm 6 mmol/L trong 10 ngày; biến chứng do lợi tiểu là giảm hơn 10 mmol/L hoặc dưới 125 (AASLD 2021 Bảng 7), anh chưa đạt nhưng bệnh não gan nặng hơn là lý do ngưng lợi tiểu (EASL 2018 tr. 411).",
+     "Ung thư gan, huyết khối tĩnh mạch cửa: Doppler thông dòng hướng gan, AFP 6 ng/mL. Suy tim: đã loại trừ ở lượt 1; không khó thở lượt này."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: nhập viện khoa Nội/Tiêu hóa, không cần ICU. Lý do: bệnh não gan độ 2, mất bù lần thứ hai, hạ natri và lợi tiểu cần chỉnh, cần loại trừ yếu tố thúc đẩy, người bệnh khó uống lactulose đúng ở nhà. QĐ 1740/2026 mục 4.5: xơ gan mất bù Child-Pugh B, C cần chuyển cấp chuyên sâu.",
+     "Tạm ngưng spironolacton (EASL 2018 tr. 411; AASLD 2021 Bảng 7). Dùng lại từng bước khi tỉnh và natri ổn; liều bắt đầu lại sau nhập viện: không có trong tài liệu đã tải (EASL 2018: lần đầu bắt đầu 100 mg).",
+     "Lactulose 25 mL mỗi 1–2 giờ đến khi ≥ 2 lần phân mềm/ngày, rồi chỉnh để 2–3 lần/ngày (AASLD/EASL 2014 Rationale 19, tr. 25); sau đợt cấp dùng duy trì (khuyến cáo 25, tr. 31). Rifaximin khi tái phát hoặc đợt thứ hai (khuyến cáo 26; ACG 2026 khuyến cáo 2).",
+     "Xử trí yếu tố thúc đẩy: lactulose giải quyết táo bón, ngưng rượu và thuốc an thần, không hạn chế nước và đạm (AASLD 2021; ACG 2026 khuyến cáo 15). Truyền dịch theo yêu cầu không có chỉ định; nói rõ nằm viện là để điều trị đúng nguyên nhân.",
+     "Giữ tenofovir (QĐ 1740/2026 mục 4.2.5a). Nội soi khi tỉnh, quyết định carvedilol sau đó (Baveno VIII mục 4.4, 4.6); giới thiệu đánh giá ghép gan vì đã mất bù hai lần (Baveno VIII mục 4.3).",
+     "Sau xuất viện: tái khám sớm trong 14 ngày (ACG 2026 khái niệm then chốt 3); tiếp tục lactulose; kiểm natri, creatinin. Hết cổ trướng hoặc bệnh não gan khi còn dùng thuốc chưa phải tái bù, không ngưng thuốc sớm (Baveno VIII mục 7.6, 7.7)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Lactulose (siro)",
+      "ham_luong": "Theo chế phẩm sẵn có",
+      "lieu": "25 mL mỗi 1–2 giờ đến khi có ≥ 2 lần phân mềm/ngày, sau đó 25 mL × 2–3 lần/ngày để 2–3 lần phân mềm/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Không phụ thuộc bữa ăn",
+      "so_ngay": "Duy trì dài ngày sau đợt cấp để dự phòng tái phát",
+      "ghi_chu": "AASLD/EASL 2014 (nguồn bổ sung tự tìm) Rationale 19 tr. 25, khuyến cáo 25 tr. 31. Nồng độ chế phẩm: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Tenofovir disoproxil fumarat (TDF)",
+      "ham_luong": "300 mg",
+      "lieu": "300 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Giờ cố định mỗi ngày",
+      "so_ngay": "Suốt đời",
+      "ghi_chu": "Giữ nguyên đang dùng. QĐ 1740/2026 mục 4.2.4, 4.2.5a; eGFR 82: theo dõi creatinin."
+     },
+     {
+      "thuoc": "Spironolacton",
+      "ham_luong": "25 mg",
+      "lieu": "Tạm ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Dùng lại khi tỉnh, natri và creatinin ổn",
+      "so_ngay": "Ngưng trong thời gian nằm viện, bắt đầu lại từng bước",
+      "ghi_chu": "EASL 2018 tr. 411; AASLD 2021 Bảng 7."
+     }
+    ],
+    "dan_do": [
+     "Giải thích với anh và chị Thủy: lú lẫn do gan không lọc được chất độc ở ruột; yếu tố thúc đẩy là táo bón, bia, thuốc dị ứng, natri thấp. Truyền một chai nước không giúp tỉnh mà làm cổ trướng thêm.",
+     "Giữ bí mật bệnh với công ty; hướng dẫn xin giấy nhập viện, nghỉ ốm để anh không bị coi là bỏ ca.",
+     "Không bao giờ uống bia rượu nữa; không tự mua thuốc dị ứng, thuốc ngủ (ACG 2024 khuyến cáo 6, 13). Ngứa nhiều thì báo bác sĩ.",
+     "Ăn đủ đạm và năng lượng, vẫn ăn nhạt, uống nước bình thường (ACG 2026 khuyến cáo 15; AASLD 2021). Đại tiện mỗi ngày, chỉnh lactulose để 2–3 lần phân mềm. Ngủ gà, lú lẫn, thức đêm thì đến ngay.",
+     "Sau xuất viện: tái khám trong 14 ngày (ACG 2026 khái niệm then chốt 3) mang sổ cân nặng; nội soi và đánh giá ghép gan; siêu âm kèm AFP mỗi 3–6 tháng (QĐ 3129/2020 mục 3.2; ACG 2026 khuyến cáo 7).",
+     "Chị Thủy học các dấu hiệu sớm của bệnh não gan (đảo ngày đêm, quên, run tay, chữ xấu) và ghi sổ số lần đại tiện mỗi ngày."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Vinh nằm Khoa Nội tiêu hóa bệnh viện tỉnh 6 ngày. Lactulose, ngưng rượu, thuốc an thần và lợi tiểu, chỉnh natri; sau ngày thứ ba anh tỉnh táo, định hướng đúng, hết run vỗ cánh; chọc dịch không nhiễm khuẩn. Nội soi thấy giãn tĩnh mạch thực quản nhỏ, không dấu nguy cơ; bác sĩ bắt đầu carvedilol sau khi huyết áp ổn. Cổ trướng đáp ứng chậm: dùng lại spironolacton từng bước, anh phải nhờ bếp khách sạn nấu riêng phần nhạt, sau khoảng 8 tuần bụng mới xẹp về độ 1, chậm hơn anh và chị Thủy mong đợi. Anh xin chuyển sang ca ngày, bỏ bia hoàn toàn với sự giúp của vợ, duy trì tenofovir, lactulose, siêu âm kèm AFP định kỳ và hẹn đánh giá ghép gan nếu tái mất bù.",
+ "nhieu": [
+  "Giấu tiền sử: anh khai 'không bệnh gì', 'xã giao thỉnh thoảng'; viêm gan B bỏ khám 4 năm và bia hằng ngày chỉ lộ khi hỏi cụ thể không phán xét hoặc khi có HBsAg dương.",
+  "Thuốc dị ứng tự mua: ngứa do bệnh gan bị gán cho dị ứng; phải hỏi riêng 'thuốc dị ứng, thuốc ngủ, thuốc mua ngoài'.",
+  "Lý do thật: anh muốn một chai nước để đi làm tiếp, sợ mất phụ cấp ca đêm nên từ chối nằm viện; không giải quyết động cơ này thì anh trốn tái khám.",
+  "Phù, mệt, sút cơ, bụng to dễ gợi suy tim hoặc ung thư gan: siêu âm tim, NT-proBNP, Doppler gan, AFP loại trừ. Không có X-quang: siêu âm thay thế, nội soi hẹn nơi khác."
+ ],
+ "bai_hoc_bien": [
+  "Xơ gan lệch chuẩn: không vàng da rõ, không nôn máu, chỉ mệt, ngứa, phù, 'bụng bia'; sao mạch, ban đỏ lòng bàn tay, lách to, tiểu cầu thấp là chìa khóa (QĐ 1740/2026 mục 4.1.2a).",
+  "Ngứa không ban ở người có bệnh gan không phải dị ứng; thuốc dị ứng tự mua che triệu chứng.",
+  "Cổ trướng mới luôn phải chọc dò chẩn đoán (AASLD 2021): SAAG, protein, PMN loại trừ nguồn gốc tim, ung thư, lao, nhiễm khuẩn.",
+  "Lợi tiểu, rượu, táo bón, thuốc an thần và hạ natri thúc đẩy bệnh não gan; tìm yếu tố thúc đẩy trước khi chỉ cho lactulose.",
+  "Người xơ gan không kiêng đạm (ACG 2026 khuyến cáo 15). Người đòi truyền dịch: hỏi động cơ thật, giải thích bằng natri và gan, đưa giải pháp thay thế.",
+  "Khỏi chậm hơn dự kiến: cổ trướng giảm chậm khi còn ăn mặn; hết cổ trướng khi đang dùng lợi tiểu chưa phải tái bù (Baveno VIII mục 7.6)."
+ ],
+ "diem_nho": [
+  "Child-Pugh: A 5–6, B 7–9, C ≥ 10 điểm (QĐ 1740/2026 Phụ lục 2 mục 4).",
+  "Cổ trướng mới: chọc dò chẩn đoán; SAAG ≥ 1,1 g/dL là tăng áp cửa, protein > 2,5 g/dL gợi nguồn gốc tim, PMN > 250/mm³ là VPMNKNP (AASLD 2021 Bảng 4, mục SBP).",
+  "Natri ăn 2 g (90 mmol)/ngày hoặc 80–120 mmol/ngày; spironolacton 100 mg tăng mỗi 72 giờ tối đa 400 mg; furosemid 40–160 mg; giảm cân tối đa 0,5 kg/ngày (không phù) hoặc 1 kg/ngày (có phù) (AASLD 2021; EASL 2018 tr. 411).",
+  "Ngưng lợi tiểu khi bệnh não gan nặng hơn hoặc natri < 125 mmol/L (EASL 2018 tr. 411). Xơ gan do HBV: kháng vi-rút suốt đời (QĐ 1740/2026 mục 4.2.5a).",
+  "Bệnh não gan: tìm yếu tố thúc đẩy; lactulose 25 mL mỗi 1–2 giờ đến ≥ 2 lần phân mềm/ngày (AASLD/EASL 2014 tr. 24–25, nguồn bổ sung)."
+ ],
+ "nguon": [
+  "TL-0222 · AASLD 2021 – cổ trướng, VPMNKNP, HRS-AKI (Hepatology 2021;74:1014) – Bảng 2, 3, 4, 5, 6, 7; Guidance Statement về chọc dò chẩn đoán, hạn natri, lợi tiểu, hạ natri, tránh NSAID/ACEi/ARB; mục SBP",
+  "Kho cũ tltk-10000-ca · EASL 2018 – Management of decompensated cirrhosis (J Hepatol 2018;69:406) – mục Management of uncomplicated ascites, tr. 410–411 (khuyến cáo lợi tiểu, hạn natri, cân nặng), tr. 421",
+  "TL-0186 · Baveno VIII 2026 (J Hepatol 2026) – mục 3.3, 4.1, 4.3, 4.4, 4.6, 7.6, 7.7",
+  "TL-0182 · ACG 2026 – chăm sóc dự phòng ở xơ gan – khuyến cáo 2, 7, 10, 12, 15; khái niệm then chốt 3, 5",
+  "TL-0164 · BYT QĐ 1740/QĐ-BYT 2026 – viêm gan vi rút B – mục 4.1.2, 4.2.3a, 4.2.4, 4.2.5a, 4.3.2, 4.5; Phụ lục 2 mục 4 (Child-Pugh)",
+  "TL-0169 · BYT QĐ 3129/QĐ-BYT 2020 – ung thư biểu mô tế bào gan – mục 3.1–3.2, 4.3.1",
+  "TL-0202 · ACG 2024 – bệnh gan do rượu – khuyến cáo 6–13",
+  "TL-0150 · ESC 2021 – suy tim – mục 4.2 (Bảng 6); TL-0282 · QĐ về chẩn đoán và điều trị suy tim cấp và mạn 2022 – phần Các peptide bài niệu, Siêu âm tim",
+  "TL-0286 · BYT QĐ 361/QĐ-BYT 2014 – Phụ lục NSAID mục 3.3 (paracetamol dưới 3 g/ngày ở bệnh gan)",
+  "Nguồn bổ sung tự tìm: AASLD/EASL 2014 Practice Guideline – Hepatic encephalopathy in chronic liver disease (Vilstrup H, et al. Hepatology 2014;60:715-735), https://www.aasld.org/sites/default/files/2022-07/Hepatic%20Encephalopathy%20in%20Chronic%20Liver%20Disease%202014.pdf – Bảng 2, 3, khuyến cáo 18, 25, 26, Rationale 19 (liều lactulose)"
+ ],
+ "phien_ban_ca": "1 – 2026-11-07",
+ "ghi_chu_bien_tap": [
+  "2026-11-07 (bản 1): soạn theo đặc tả sổ cái TH-1367. Đã đọc: TL-0222 (Bảng 2–7, Guidance Statement), EASL 2018 kho cũ (tr. 410–411, 421), TL-0186 (mục 3.3, 3.7, 4.1–4.6, 7.6–7.7), TL-0182 (khuyến cáo 1–17), TL-0164 (mục 4.1–4.5, Phụ lục 2), TL-0169 (mục 3, 4.3), TL-0202 (khuyến cáo 6–13), TL-0150/TL-0282 (NT-proBNP < 125), TL-0286.",
+  "Thiếu tài liệu đã tải: liều lactulose cho bệnh não gan cấp (lấy từ AASLD/EASL 2014, nguồn bổ sung tự tìm); tác dụng của kháng histamin thế hệ 1; tiêu chuẩn nhập viện riêng cho bệnh não gan độ 2; điều trị ngứa do gan; thuốc điều trị rối loạn sử dụng rượu ở xơ gan mất bù; chu kỳ tái khám cụ thể khi mới dùng lợi tiểu.",
+  "Child-Pugh theo bảng QĐ 1740 (cổ trướng chỉ có 'ít', 'nhiều'): độ 2 xếp 2 điểm. Không dùng ảnh da (ngứa không ban, khám da k:0). Phiếu bảng tự bổ sung cho khớp bệnh cảnh (MCV, MCH, MCHC từ Hb, hct, RBC; eGFR CKD-EPI 2021). Mâu thuẫn: xem TH-1367_mau_thuan.md."
+ ]
+}
