@@ -1,0 +1,833 @@
+{
+ "ma_ca": "CX-0955",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "CX_dau_lung_co_do_viem_dia_dem_dot_song_rat_cao_tuoi",
+ "so_cai": {
+  "chuyen_khoa": "Cơ xương khớp - đau",
+  "chan_doan_dich": "Đau lưng có cờ đỏ (di căn/nhiễm trùng)",
+  "chan_doan_phai_loai_tru": [
+   "Di căn cột sống",
+   "Lao cột sống",
+   "Áp xe ngoài màng cứng"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Tiểu thương chợ",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Phan Thị Bảy",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Bán rau củ ở sạp chợ sáng",
+  "can_nang": 47,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Cháu nội gái Thùy gọi bà là 'bà nội', xưng 'con' với bác sĩ.",
+  "tinh_cach": "Bán rau ở chợ hơn sáu mươi năm, nói nhanh, tiếng to, tính từng đồng, tự lo tiền khám. Coi đau lưng là chuyện 'già thì phải vậy', ít kể cái đau, sợ nằm một chỗ thành gánh nặng. Tỉnh táo, nghe rõ, ít hiểu biết y khoa, gọi xe khách là 'xe đò'. Coi thuốc nhỏ mũi là 'thuốc cho thông mũi' chứ không phải thuốc.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: bà mang theo 280.000 đồng bán rau, giấu cháu. Hỏi giá từng xét nghiệm; nếu tổng vượt thì từ chối bớt, xin 'cái nào cần nhất thì làm, còn lại để lần sau'. Nghe phải lên bệnh viện tỉnh thì hỏi tốn bao nhiêu, ai trông sạp. Hỏi chung 'bà dùng thuốc gì' thì chỉ kể thuốc uống; thuốc nhỏ mũi chỉ kể khi bác sĩ hỏi thuốc nhỏ, xịt, thuốc tự mua, ngạt mũi hoặc đêm ngủ ra sao.",
+  "nguoi_nha": "Cháu nội gái Thùy, 24 tuổi, nhân viên cửa hàng điện thoại, chở bà bằng xe máy, ngồi cạnh. Thương bà, hay lo bà té; biết bà đau lưng, ăn ít, không biết bà chỉ mang 280.000 đồng hay nhỏ mũi mỗi đêm. Chỉ trả lời khi bác sĩ hỏi cháu hoặc bà ngập ngừng (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Thùy (cháu nội gái)",
+  "ngoai_hinh": {
+   "da": "#d2a27d",
+   "toc": "#cfcac4",
+   "kieuToc": "buoc",
+   "ao": "#7f8f6b",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e0b898",
+    "toc": "#241a16",
+    "kieuToc": "dai",
+    "ao": "#4f6d9a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tái khám theo hẹn, đau lưng dưới chưa đỡ",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám tuyến huyện không có máy siêu âm. Vì vậy cũng không có CT, MRI, nội soi. Có xét nghiệm máu và nước tiểu cơ bản, có X-quang. Bệnh viện đa khoa tỉnh có MRI, cấy máu và bác sĩ chuyên khoa, cách khoảng 60 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · tái khám theo hẹn",
+   "tiep_don": "Nữ 78 tuổi, bán rau ở chợ sáng, đến tái khám theo giấy hẹn của bác sĩ trực hai tuần trước vì đau lưng dưới kéo dài, mang theo toa thuốc cũ (paracetamol, eperison, cao dán). Cháu nội gái chở đi. Sinh hiệu: HA 148/86 mmHg, mạch 84 l/p, nhiệt 36,9 °C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 47 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bà Bảy được cho về uống thuốc cũ thêm hai tuần, hẹn tái khám. Bà ngại tốn kém nên nhiều khả năng không quay lại, trong khi đau lưng mới tăng dần kèm VS, CRP tăng là cờ đỏ phải loại trừ nhiễm trùng, ung thư trước (NICE NG59 khuyến cáo 1.1.1; IDSA 2015 khuyến cáo 2). Chẩn đoán thường trễ 2–4 tháng và 43% đã lan ngoài màng cứng hoặc cạnh sống (IDSA 2015, phần bằng chứng khuyến cáo 1–5), nên bà có thể đến khi đã yếu chân hoặc bí tiểu.",
+    "nhap_vien": "Bà Bảy được giữ nhập viện tuyến huyện vài ngày để truyền dịch, tiêm giảm đau và kháng sinh theo kinh nghiệm. Nơi này không có MRI nên không thêm chẩn đoán; kháng sinh trước khi cấy máu làm khó tìm vi khuẩn, trong khi thần kinh bình thường và huyết động ổn thì giữ kháng sinh chờ vi sinh (IDSA 2015 khuyến cáo 24). Bà mất viện phí, ngày bán rồi vẫn phải lên tỉnh.",
+    "cap_cuu": "Bà Bảy được gọi xe cấp cứu chuyển đi ngay trong buổi sáng. Bà không yếu chi, không rối loạn tiểu tiện, huyết động ổn nên chưa phải nghi chèn ép tủy cần MRI trong 24 giờ (NICE NG234 2023, khuyến cáo 1.5.2). Chi phí xe làm bà càng lo về tiền, dễ từ chối cấy máu, sinh thiết sau đó."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi tới theo giấy hẹn đây. Thuốc uống hai tuần rồi mà lưng vẫn đau y vậy. Bác sĩ coi cái nào cần nhất thôi nha, tôi mang có chút tiền.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "148/86",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi tái khám theo giấy hẹn của bác sĩ trực hai tuần trước. Đau lưng dưới đã năm tuần, uống thuốc hai tuần mà không bớt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám, đau không đỡ dù đã điều trị"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thật ra bà đi vì tờ giấy hẹn, lỡ hẹn thấy có lỗi với bác sĩ. Điều bà sợ nhất là nằm một chỗ thành gánh nặng cho con cháu, và bà mong được nghe nói 'không sao, già thì đau vậy'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều bà lo nhất, vì sao hôm nay đến khám, hoặc bà mong gì ở lần khám này.",
+     "k": 1,
+     "y": "Động cơ thật: theo giấy hẹn, sợ thành gánh nặng, mong được trấn an"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Năm tuần trước đi xe đò khoảng 9 tiếng về quê dự giỗ, ngồi gập gối. Hôm sau đau lưng dưới, tưởng 'ê xe' vài bữa hết, nhưng không hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau chuyến xe dài (dễ khiến nghĩ đau cơ học)"
+    },
+    {
+     "id": "tinh_chat_dau",
+     "noi_dung": "Đau sâu ở thắt lưng thấp, hơi lệch trái, như kim đâm khi đứng dậy khỏi ghế đẩu hoặc trở mình. Không lan xuống chân, không tê. Mỗi tuần đau hơn một chút, hiện khoảng 6 trên 10.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất đau: sâu, tăng dần, khu trú, không lan"
+    },
+    {
+     "id": "dau_dem",
+     "noi_dung": "Đêm thức giấc hai ba lần vì đau khi trở mình; nằm yên cũng không hết hẳn. Nghỉ ngơi không đỡ như hồi đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau đêm, nghỉ không đỡ (không phải kiểu cơ học)"
+    },
+    {
+     "id": "thuoc_cu",
+     "noi_dung": "Hai tuần trước bác sĩ trực cho paracetamol 500 mg ngày 3 viên, eperison 50 mg ngày 2 viên và cao dán; uống đủ, đau không bớt. Không mua thêm thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng, không đáp ứng"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Không sốt, không ớn lạnh, không ra mồ hôi đêm. Ăn kém hơn, quần rộng ra; cân ở tiệm thuốc hai tháng trước 49 kg, nay 47 kg. Bà cho là 'già thì ăn ít'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không sốt; sụt khoảng 2 kg, ăn kém"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Sau chuyến xe, bà nhịn tiểu cả buổi; về nhà tiểu rắt, buốt nhẹ vài ngày rồi tự hết nên không nói ai. Hiện không buốt, không tiểu máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tiết niệu thoáng qua (nguồn nhiễm khuẩn)"
+    },
+    {
+     "id": "ung_thu_lao_am",
+     "noi_dung": "Không từng bị ung thư, không thấy khối ở vú, không ra máu bất thường. Không ho kéo dài, không sốt về chiều, không tiếp xúc người bị lao, chưa điều trị lao. Không tiêm chích, không mổ, không đặt ống thông.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc ung thư, lao, yếu tố nguy cơ nhiễm khuẩn"
+    },
+    {
+     "id": "than_kinh_am",
+     "noi_dung": "Không tê hay yếu hai chân, không tê vùng mông hay chỗ kín, đi tiểu và đi cầu bình thường. Chỉ có lần 'xém trượt' ở chợ vì đau nhói, không té.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu chèn ép thần kinh"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Chưa ai nói bà có tiểu đường hay loãng xương, chưa từng đo xương, huyết áp ít khi đo. Không uống thuốc nào thường xuyên ngoài thuốc nhỏ mũi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Bệnh nền (đái tháo đường, loãng xương chưa được đánh giá)"
+    },
+    {
+     "id": "nho_mui",
+     "noi_dung": "Hai năm nay đêm nào bà cũng nhỏ mũi bằng chai naphazolin mua ở tiệm thuốc đầu chợ, hết chai này mua chai khác; không nhỏ thì ngạt, không ngủ được. Bà thấy đó đâu phải thuốc uống nên không kể.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'bà đang dùng thuốc gì' thì chỉ kể thuốc uống. Chỉ nói khi bác sĩ hỏi thuốc nhỏ hoặc xịt mũi, thuốc tự mua, hỏi ngạt mũi, hoặc hỏi đêm ngủ ra sao.",
+     "k": 1,
+     "y": "Thuốc nhỏ mũi co mạch dùng kéo dài (thuốc đang dùng bị bỏ sót)"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Mang theo 280.000 đồng tiền bán rau, tự lo, không xin con cháu. Xét nghiệm nào đắt thì để lần sau. Nghe nói phải lên bệnh viện tỉnh thì bà lo tốn tiền và không ai trông sạp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giới hạn tiền: phải xếp ưu tiên xét nghiệm và nói rõ chi phí chuyển tuyến"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói rõ, gầy nhỏ, 47 kg, cao 150 cm (BMI 20,9). Da niêm hơi nhợt, không phù. Nhiệt 36,9 °C, không vẻ nhiễm trùng.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi hai bên đỏ sẫm, bóng, hơi phù nề, không mủ, không polyp. Họng bình thường.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau khu trú, gan lách không to, không khối đập ở bụng.",
+     "k": 0
+    },
+    "vu": {
+     "a": "Hai vú không khối, hạch nách không sờ thấy.",
+     "k": 0
+    },
+    "tiet_nieu": {
+     "a": "Gõ góc sườn lưng hai bên không đau. Không cầu bàng quang, ấn trên xương mu không đau.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống thắt lưng không gù, không vẹo, da lưng bình thường, không sưng nóng đỏ. Gõ rung mỏm gai L3–L4 đau chói, bà giật mình; các mỏm gai khác không đau. Cơ cạnh sống co cứng nhẹ. Cúi tối đa, ngón tay cách sàn 40 cm vì đau; ưỡn và xoay đều đau; nằm nghiêng không bớt đau. Lasègue âm tính. Khớp cùng chậu và khớp háng không đau.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Sức cơ chi dưới 5/5 các nhóm hai bên. Phản xạ gân gối và gân gót (++) đều nhau. Babinski âm tính. Cảm giác chạm và kim châm bình thường ở chi dưới và vùng yên ngựa. Đi lại được, dáng thận trọng, đi gót và mũi chân được.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Trương lực cơ thắt hậu môn và cảm giác quanh hậu môn bình thường.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không ban, không ổ nhiễm trùng da, không dấu vết tiêm chích.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "mau_lang": {
+     "v": "e",
+     "r": "Tốc độ máu lắng giờ đầu 82 mm/giờ",
+     "ab": 1,
+     "n": "30.000 đồng, bộ nền cùng CRP (IDSA 2015 khuyến cáo 7). VS hoặc CRP tăng nhạy 94–100% ở nhiễm khuẩn cột sống nhưng không đặc hiệu (phần bằng chứng khuyến cáo 1–5); cũng tăng trong di căn (QĐ 361/2014, Ung thư di căn xương mục 2.1). Ngưỡng VS theo tuổi: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 46 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 46
+     },
+     "n": "80.000 đồng. Đau lưng mới nặng dần kèm VS hoặc CRP tăng thì phải nghĩ nhiễm khuẩn cột sống (IDSA 2015 khuyến cáo 2, mạnh). Đổi hướng xử trí: từ 'đau cơ học' sang 'phải chuyển tuyến'."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 9,6 G/L · Hb 109 g/L · TC 398 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 9.6,
+      "neu_pct": 72.0,
+      "neu": 6.91,
+      "lym_pct": 20.0,
+      "lym": 1.92,
+      "mono_pct": 6.0,
+      "mono": 0.58,
+      "eos_pct": 1.5,
+      "eos": 0.14,
+      "baso_pct": 0.5,
+      "baso": 0.05,
+      "rbc": 3.8,
+      "hgb": 109,
+      "hct": 0.335,
+      "mcv": 88.2,
+      "mch": 28.7,
+      "mchc": 325,
+      "rdw": 14.8,
+      "plt": 398
+     },
+     "n": "50.000 đồng. Bạch cầu bình thường ở tới 40% người nhiễm khuẩn cột sống (IDSA 2015, phần bằng chứng khuyến cáo 1–5); thiếu máu nhẹ gặp cả trong di căn (QĐ 361/2014, Ung thư di căn xương mục 2.1). Không phân biệt hai nhóm, có ích cho giấy chuyển."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Bạch cầu niệu 2+, nitrit dương tính, hồng cầu 1+, protein vết",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.016,
+      "u_ph": 6.0,
+      "u_leu": "2+",
+      "u_nit": "Dương tính",
+      "u_pro": "Vết",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ery": "1+"
+     },
+     "n": "40.000 đồng. IDSA 2015 (phần bằng chứng khuyến cáo 6): hỏi tiền sử nhiễm khuẩn tiết niệu và tìm nguồn xâm nhập đường máu. Ở bà cao tuổi có thể là nhiễm khuẩn không triệu chứng; cấy nước tiểu để tuyến trên làm."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 5,4 mmol/L · Creatinin 62 µmol/L · eGFR 88 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.4,
+      "creat": 62,
+      "egfr": 88
+     },
+     "n": "50.000 đồng. Liều kháng sinh chỉnh theo thận, gan (IDSA 2015 Bảng 2). Bà 47 kg nên creatinin 'bình thường' có thể đánh giá cao độ lọc thật (công thức Cockcroft–Gault: không có trong tài liệu đã tải). Để tuyến trên làm cũng được."
+    },
+    "xq_cot_song": {
+     "v": "a",
+     "r": "X-quang cột sống thắt lưng thẳng nghiêng: loãng xương lan tỏa, khe đĩa L3–L4 hẹp nhẹ, bờ mâm đốt L3 dưới và L4 trên mờ, không đều; chưa xẹp thân đốt, không thấy bóng mờ cạnh sống.",
+     "ab": 1,
+     "n": "150.000 đồng, cộng với bộ nền thì vượt 280.000 đồng. QĐ 361/2014 (Viêm xương tủy mục 3.2): X-quang chỉ rõ sau 10–14 ngày, bình thường không loại trừ; IDSA 2015 (phần bằng chứng khuyến cáo 6–8): 3–6 tuần; NICE NG234 2023 khuyến cáo 1.5.9: không dùng X-quang để loại di căn; QĐ 162/2024 (danh mục kỹ thuật mục 2.4): dùng khi nghi lao. Làm hay bỏ đều chấp nhận; vẫn phải MRI."
+    },
+    "cay": {
+     "v": "a",
+     "r": "Đã lấy hai bộ cấy máu (hiếu khí, kỵ khí) trước khi dùng kháng sinh; kết quả hẹn sau 48–72 giờ, phòng khám gọi điện cho cháu Thùy.",
+     "n": "350.000 đồng, vượt số tiền bà mang. IDSA 2015 khuyến cáo 7 và QĐ 361/2014 (Viêm xương tủy mục 4.1): cấy máu trước kháng sinh; bà chưa dùng kháng sinh nên tuyến trên lấy lại vẫn kịp."
+    },
+    "mri_cot_song": {
+     "v": "e",
+     "r": "MRI cột sống (nếu ở nơi có): viêm đĩa đệm – đốt sống L3–L4, tín hiệu bất thường hai mâm đốt và đĩa đệm, ổ tụ dịch trước – cạnh sống bên phải khoảng 1,5 cm; không tụ dịch ngoài màng cứng, không chèn ép túi cùng màng cứng hay rễ; không tổn thương tầng khác.",
+     "ab": 1,
+     "thay_the": "crp",
+     "n": "Cơ sở không có MRI, thay bằng chuyển tuyến; việc làm tại chỗ là VS và CRP. MRI là hình ảnh chọn lựa khi nghi nhiễm khuẩn cột sống (IDSA 2015 khuyến cáo 8, mạnh) và di căn (QĐ 361/2014, Ung thư di căn xương mục 2.1). Mốc thời gian MRI cho nghi nhiễm khuẩn: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau lưng có cờ đỏ ở người 78 tuổi, không điển hình, nghi nhiễm khuẩn cột sống (viêm đĩa đệm – đốt sống L3–L4) hoặc di căn; chưa chèn ép tủy hay rễ",
+     "ok": 1,
+     "n": "Không sốt, không sụt cân rõ, không dấu thần kinh, nhưng đau mới tăng dần, đau đêm, gõ rung L3–L4 đau, không đỡ sau hai tuần thuốc, VS 82 mm/giờ, CRP 46 mg/L: đủ để nghĩ nhiễm khuẩn cột sống (IDSA 2015 khuyến cáo 2, mạnh) và di căn (NICE NG234 2023, Box 1). Phân biệt cần MRI và vi sinh."
+    },
+    {
+     "t": "Di căn cột sống",
+     "n": "Chưa loại trừ: đau tăng dần, đau đêm, đau khu trú đều có trong Box 1 (NICE NG234 2023); thiếu máu, VS cao cũng gặp (QĐ 361/2014, Ung thư di căn xương mục 2.1). Hướng ngược: không tiền sử ung thư, vú và hạch bình thường. Xác định cần MRI và mô học."
+    },
+    {
+     "t": "Lao cột sống (bệnh Pott)",
+     "n": "Chưa loại trừ ở nước ta: đau lưng, hạn chế vận động, đau tại chỗ tương ứng đốt sống (QĐ 162/2024, Phụ lục 1 mục 4; IDSA 2015, phần bằng chứng khuyến cáo 18–19). Hướng ngược: không ho, không sốt chiều. Cần mô để soi, Xpert, cấy."
+    },
+    {
+     "t": "Áp xe ngoài màng cứng hoặc cạnh sống",
+     "n": "Không sốt, không dấu thần kinh nên ít khả năng đang chèn ép, nhưng 43% người nhiễm khuẩn cột sống có lan ngoài màng cứng hoặc cạnh sống (IDSA 2015, phần bằng chứng khuyến cáo 1–5); khám không loại được, cần MRI."
+    },
+    {
+     "t": "Chèn ép tủy hoặc hội chứng đuôi ngựa",
+     "n": "Không: sức cơ 5/5, phản xạ đều, Babinski âm tính, cảm giác vùng yên ngựa và cơ thắt hậu môn bình thường, tiểu đại tiện bình thường (NICE NG234 2023, Box 1; GIRFT 2023, Symptoms)."
+    },
+    {
+     "t": "Đau thắt lưng cơ học, thoái hóa sau chuyến xe dài",
+     "n": "Ít khả năng: đau cơ học phải đỡ khi nghỉ, xét nghiệm viêm âm tính (QĐ 361/2014, Hội chứng đau thắt lưng mục 3.3); bà đau cả khi nằm, đêm, VS và CRP tăng. Chuyến xe chỉ là khởi phát (mục 3.1), dễ làm neo."
+    },
+    {
+     "t": "Đa u tủy xương, bệnh tạng (sỏi thận, phình động mạch chủ bụng)",
+     "n": "Hb 109 g/L, VS cao ở người lớn tuổi gợi nhắc đa u tủy (QĐ 361/2014, Ung thư di căn xương mục 2.2): để tuyến trên làm cùng MRI. Bệnh tạng (Hội chứng đau thắt lưng mục 2.2): gõ góc sườn lưng không đau, không khối đập."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến có hẹn, không cần xe cứu thương: lên bệnh viện tỉnh có MRI, cấy máu và chuyên khoa cơ xương khớp hoặc nhiễm khuẩn trong vài ngày, không quá một tuần; giấy chuyển ghi nghi viêm đĩa đệm – đốt sống nhiễm khuẩn hoặc di căn, thần kinh bình thường, chưa dùng kháng sinh, kèm kết quả xét nghiệm",
+     "v": "c",
+     "n": "MRI cho mọi người nghi nhiễm khuẩn cột sống (IDSA 2015 khuyến cáo 8, mạnh); cấy máu hai bộ (khuyến cáo 7); mời chuyên khoa nhiễm khuẩn và phẫu thuật cột sống (khuyến cáo 13). Mốc MRI trong 1 tuần (NICE NG234 2023, khuyến cáo 1.5.3) viết cho nghi di căn chưa chèn ép tủy, dùng làm mốc thận trọng; mốc cho nhiễm khuẩn: không có trong tài liệu đã tải. QĐ 361/2014 (Hội chứng đau thắt lưng mục 3.1): dấu hiệu bệnh toàn thân thì đến cơ sở chuyên khoa."
+    },
+    {
+     "t": "Hỏi giá, xếp ưu tiên xét nghiệm trong 280.000 đồng (VS, CRP, công thức máu, nước tiểu; thêm glucose, creatinin nếu đủ) và nói rõ khoản nào để tuyến trên; giải thích với bà và cháu vì sao cần lên tỉnh, tốn những khoản nào",
+     "v": "c",
+     "n": "VS và CRP là bộ nền đổi hướng (IDSA 2015 khuyến cáo 2, 7). 30.000 + 80.000 + 50.000 + 40.000 = 200.000 đồng; glucose 25.000 và creatinin 50.000 vẫn trong 280.000. X-quang (150.000), cấy máu (350.000) không đổi hướng hoặc vượt ngân sách. Bảo hiểm khi chuyển tuyến: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh theo kinh nghiệm, không dùng corticoid tại phòng khám",
+     "v": "c",
+     "n": "Thần kinh bình thường, huyết động ổn thì giữ kháng sinh đến khi có vi sinh (IDSA 2015 khuyến cáo 24); dùng ngay khi huyết động không ổn hoặc thiếu sót thần kinh tiến triển (khuyến cáo 25, 17). Dexamethason 16 mg dành cho người có triệu chứng chèn ép tủy ác tính (NICE NG234 2023, khuyến cáo 1.8.1); bà không có."
+    },
+    {
+     "t": "Giảm đau tạm bằng paracetamol, không dùng NSAID; ghi giờ uống để tuyến trên biết sốt có thể bị che",
+     "v": "c",
+     "n": "NICE NG234 2023, khuyến cáo 1.7.1, 1.7.6: giảm đau kịp thời kể cả khi chờ thăm dò. Người cao tuổi gầy yếu: acetaminophen dưới 3 g/ngày, tránh NSAID (QĐ 361/2014, Phụ lục NSAID mục 3.3; AGS Beers 2023 Bảng 2). NICE NG59 khuyến cáo 1.2.26 viết cho đau lưng không đặc hiệu, không áp dụng khi nghi bệnh nặng."
+    },
+    {
+     "t": "Viết sẵn dấu hiệu phải đi cấp cứu ngay, số điện thoại phòng khám, kết quả xét nghiệm và giấy chuyển cho bà và cháu",
+     "v": "c",
+     "n": "Rối loạn tiểu đại tiện, khó đi, yếu chi, tê, đau rễ (NICE NG234 2023, Box 1; GIRFT 2023, Safety netting); thiếu sót thần kinh cần xử trí ngay (IDSA 2015 khuyến cáo 17)."
+    },
+    {
+     "t": "Ngưng thuốc nhỏ mũi co mạch, thay nước muối sinh lý; đo lại huyết áp sau khi hết đau",
+     "v": "a",
+     "n": "Việc phụ hôm nay. QĐ 5643/2015 (Viêm mũi xoang cấp tính mục 4.2.1): xịt co mạch kéo dài làm bệnh nặng hơn; ARIA-EAACI 2024–2025 mục 5.2.2: không quá 5 ngày, người cao tuổi nên tránh; AHA/ACC 2025 Bảng 11: thuốc thông mũi có thể tăng huyết áp."
+    },
+    {
+     "t": "Lấy hai bộ cấy máu trước khi chuyển nếu bà đồng ý chi phí; hoặc chụp X-quang cột sống thắt lưng",
+     "v": "a",
+     "n": "Cấy máu: IDSA 2015 khuyến cáo 7, nhưng 350.000 đồng vượt tiền bà mang, tuyến trên lấy lại vẫn kịp. X-quang: mục 'X-quang cột sống khi nghi di căn hoặc nhiễm trùng' trong sổ mâu thuẫn, làm hay bỏ đều chấp nhận, dù bất thường vẫn phải MRI."
+    },
+    {
+     "t": "Cho về uống tiếp thuốc cũ, hẹn tái khám hai tuần, không xét nghiệm, không chuyển tuyến",
+     "v": "w",
+     "n": "Bỏ sót cờ đỏ: IDSA 2015 khuyến cáo 2; QĐ 361/2014 (Hội chứng đau thắt lưng mục 3.1) đưa đến chuyên khoa; NICE NG59 khuyến cáo 1.1.1 loại trừ ung thư, nhiễm trùng trước. Bà ngại tốn kém nên 'hẹn xem sao' dễ thành mất theo dõi."
+    },
+    {
+     "t": "Kê kháng sinh uống kinh nghiệm hai tuần (amoxicillin-clavulanat hoặc levofloxacin) rồi mới tính MRI",
+     "v": "w",
+     "n": "IDSA 2015 khuyến cáo 24 (yếu) giữ kháng sinh để có chẩn đoán vi sinh; QĐ 361/2014 (Viêm xương tủy mục 4.1) cấy máu hoặc mô trước kháng sinh; beta-lactam uống không dùng khởi đầu vì sinh khả dụng thấp (IDSA 2015, phần bằng chứng khuyến cáo 26–27). Chấm w, không phải h, vì khuyến cáo 24 là yếu."
+    },
+    {
+     "t": "Tiêm meloxicam 15 mg bắp rồi chuyển uống, kèm đai lưng, theo hướng dẫn đau thắt lưng cấp",
+     "v": "w",
+     "n": "QĐ 361/2014 (Hội chứng đau thắt lưng mục 4.2.1) viết cho đau do nguyên nhân cơ học (mục 4.1); ca này có dấu hiệu bệnh toàn thân (mục 3.3). Người cao tuổi nên tránh NSAID (AGS Beers 2023 Bảng 2; QĐ 361/2014, Phụ lục NSAID mục 3.3); NSAID che triệu chứng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau lưng có cờ đỏ ở người 78 tuổi, không điển hình: nghi viêm đĩa đệm – đốt sống L3–L4 do nhiễm khuẩn, chưa loại trừ di căn hoặc lao cột sống; chưa chèn ép tủy",
+     "Dữ kiện then chốt: đau 5 tuần tăng dần, đau đêm, nghỉ không đỡ, không đáp ứng paracetamol và eperison, gõ rung L3–L4 đau, VS 82 mm/giờ, CRP 46 mg/L, Hb 109 g/L, tiểu rắt thoáng qua, nước tiểu có bạch cầu và nitrit",
+     "Yếu tố kèm: tuổi cao, gầy; thuốc nhỏ mũi co mạch hai năm; không đủ tiền xét nghiệm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi (khởi phát, tính chất đau, đau đêm, toàn thân, tiết niệu, ung thư, lao, thuốc kể cả thuốc nhỏ mũi, tiền) → khám (gõ rung mỏm gai, thần kinh chi dưới, vùng yên ngựa, bụng, vú, hạch) → VS, CRP, công thức máu, nước tiểu → chẩn đoán → chuyển tuyến.",
+     "Không điển hình: sốt chỉ có ở tối đa 45% người nhiễm khuẩn cột sống, bạch cầu bình thường tới 40%, người cao tuổi nguy cơ cao, chẩn đoán trung bình trễ 2–4 tháng, 34% bị chẩn đoán nhầm lúc đầu (IDSA 2015, phần bằng chứng khuyến cáo 1–5).",
+     "Đau cơ học phải đỡ khi nghỉ, toàn thân không đổi, xét nghiệm viêm bình thường (QĐ 361/2014, Hội chứng đau thắt lưng mục 3.3); bà trượt mọi tiêu chí. Chuyến xe 9 tiếng chỉ là khởi phát (mục 3.1).",
+     "Đau tăng dần, đau đêm, đau khu trú (NICE NG234 2023, Box 1) vừa gợi di căn vừa gặp trong nhiễm khuẩn. Lao cột sống phải nghĩ ở nước ta (QĐ 162/2024, Phụ lục 1 mục 4); X-quang không loại trừ, bệnh phẩm đúng là mô hoặc mủ ở tuyến trên.",
+     "Ngân sách: bộ nền 275.000 đồng (VS 30.000, CRP 80.000, công thức máu 50.000, nước tiểu 40.000, glucose 25.000, creatinin 50.000); X-quang 150.000, cấy máu 350.000 không đủ hoặc không đổi hướng hôm nay.",
+     "Áp dụng cho ≥ 75 tuổi: IDSA 2015, NICE NG234 2023, NG59 không có phân tích riêng cho nhóm này (không có trong tài liệu đã tải); tuổi cao là yếu tố nguy cơ nên ngưỡng nghi ngờ và chuyển tuyến thấp."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến có hẹn vì cần MRI (IDSA 2015 khuyến cáo 8) và cấy máu hai bộ trước kháng sinh (khuyến cáo 7); không cần xe cứu thương vì thần kinh bình thường, huyết động ổn. Nói rõ chi phí, người trông sạp để bà không bỏ. Không kháng sinh kinh nghiệm (khuyến cáo 24), không corticoid khi không chèn ép tủy (NICE NG234 2023, khuyến cáo 1.8.1).",
+     "Giảm đau: trần paracetamol hai nguồn khác nhau: dưới 3 g/ngày cho người cao tuổi gầy yếu (QĐ 361/2014, Phụ lục NSAID mục 3.3) và dưới 4 g/ngày (Phụ lục thuốc giảm đau mục 3.1; AHA/ACC 2025 Bảng 11); chọn dưới 3 g/ngày, ca kê 1,5 g/ngày đúng cả hai. Tránh NSAID (AGS Beers 2023 Bảng 2).",
+     "Thuốc nhỏ mũi co mạch là việc phụ; dặn ngưng, thay nước muối (QĐ 5643/2015 mục 4.2.1; ARIA-EAACI 2024–2025 mục 5.2.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên × 3 lần/ngày khi đau (tối đa 1,5 g/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn; ghi giờ uống",
+      "so_ngay": "Đến khi khám tuyến trên, tối đa khoảng 7 ngày",
+      "ghi_chu": "QĐ 361/2014 Phụ lục NSAID mục 3.3 (dưới 3 g/ngày), Phụ lục thuốc giảm đau mục 3.1 (không quá 4 g/24 giờ); chọn số thận trọng hơn. NICE NG234 2023 khuyến cáo 1.7.6. Bỏ eperison."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "0,9%",
+      "lieu": "Nhỏ hoặc rửa mũi khi ngạt thay thuốc co mạch; số giọt, số lần: không có trong tài liệu đã tải",
+      "duong": "Nhỏ/rửa mũi",
+      "thoi_diem": "Khi ngạt, kể cả trước ngủ",
+      "so_ngay": "Hằng ngày, thay thuốc nhỏ mũi",
+      "ghi_chu": "QĐ 5643/2015 (Viêm mũi xoang cấp tính mục 4.2.1); ARIA-EAACI 2024–2025 mục 5.2.2. Cách ngưng thuốc co mạch: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Giải thích: lưng đau lần này không giống đau do ngồi xe, cần chụp MRI và cấy máu ở bệnh viện tỉnh để tìm nguyên nhân, đi sớm dễ chữa hơn; chưa nói 'ung thư' hay 'lao' khi chưa có kết quả.",
+     "Đi trong vài ngày, không quá một tuần, cùng cháu Thùy, mang giấy chuyển và kết quả hôm nay; không tự mua kháng sinh hay thuốc 'có steroid' trước khi tuyến trên lấy máu (IDSA 2015 khuyến cáo 24). Hỏi trước chi phí; thanh toán bảo hiểm khi chuyển tuyến: không có trong tài liệu đã tải.",
+     "Đi cấp cứu ngay nếu: yếu hoặc tê hai chân, tê vùng mông hay chỗ kín, khó tiểu, không biết bàng quang đầy, tiểu hoặc đi cầu không tự chủ, sốt cao rét run, đau tăng dữ dội (NICE NG234 2023, Box 1; GIRFT 2023, Safety netting; IDSA 2015 khuyến cáo 17).",
+     "Bớt khiêng vác, không ngồi ghế đẩu thấp cả buổi; mức nghỉ cụ thể cho nhiễm khuẩn cột sống: không có trong tài liệu đã tải. Ngưng nhỏ mũi co mạch, dùng nước muối."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần kháng sinh",
+   "tiep_don": "Nữ 78 tuổi, tái khám theo giấy hẹn sau đợt nằm viện tuyến tỉnh vì viêm đĩa đệm – đốt sống, mang theo giấy ra viện và đơn thuốc. Cháu nội gái chở đi. Bà nói đã uống thuốc nhưng lưng vẫn đau như trước. Sinh hiệu: HA 144/84 mmHg, mạch 78 l/p, nhiệt 36,7 °C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 46 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Bà Bảy lại lên bệnh viện tỉnh chụp MRI vì đau chưa bớt. VS, CRP đã giảm, không sốt, thần kinh bình thường nên MRI lại không được khuyến cáo thường quy (IDSA 2015 khuyến cáo 33, mạnh), và hình viêm có thể còn nhiều tháng dù không có ý nghĩa lâm sàng, dễ dẫn tới can thiệp hay kéo dài kháng sinh không cần. Bà mất thêm ngày bán, tiền xe và tiền MRI vượt xa số tiền mang, trong khi đủ thuốc, giảm đau, ngồi dậy vẫn chưa ai làm.",
+    "nhap_vien": "Bà Bảy nhập viện lại để truyền kháng sinh tĩnh mạch 'cho mạnh'. IDSA 2015 khuyến cáo 26 chấp nhận kháng sinh uống sinh khả dụng cao như levofloxacin (Bảng 3) cho đủ 6 tuần, và VS, CRP đang giảm nên không có dấu hiệu thất bại (khuyến cáo 31, 35). Bà tốn viện phí lần hai, nằm thêm nhiều ngày khi nỗi sợ nằm một chỗ vốn đã nặng, dễ bỏ thuốc ở nhà sau đó."
+   },
+   "loi_mo": "Bác sĩ ơi, thuốc tôi uống gần đủ rồi mà lưng vẫn đau y như hồi trước. Bác sĩ coi giùm có phải thuốc không hiệu nghiệm không? Hôm nay tôi chỉ mang có trăm rưỡi.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "144/84",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi tái khám theo giấy hẹn của bệnh viện tỉnh sau đợt nằm viện. Lưng vẫn đau như trước, khoảng 6 trên 10, nhất là khi đứng dậy khỏi giường hoặc trở mình ban đêm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám, đau không đỡ"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà đi vì tờ hẹn, và vì sợ thuốc 'không ăn thua' nghĩa là bệnh nặng thêm. Bà không dám nói là nằm mãi thế này bà thấy mình thành gánh nặng cho cháu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều bà lo nhất, bà mong gì hôm nay, hoặc hỏi bà sống ở nhà ra sao.",
+     "k": 1,
+     "y": "Động cơ thật: theo hẹn, sợ bệnh nặng thêm, sợ thành gánh nặng"
+    },
+    {
+     "id": "giay_ra_vien",
+     "noi_dung": "Giấy ra viện bệnh viện tỉnh: viêm đĩa đệm – đốt sống L3–L4. MRI: ổ tụ dịch cạnh sống bên phải khoảng 1,5 cm, không tụ dịch ngoài màng cứng, không xẹp thân đốt. Cấy máu và nước tiểu mọc E. coli nhạy cephalosporin thế hệ 3 và levofloxacin. Sinh thiết mô dưới CT: cấy mọc E. coli, soi và Xpert lao âm tính, giải phẫu bệnh viêm cấp, không tế bào ác tính. Ceftriaxone tĩnh mạch 2 tuần rồi levofloxacin 500 mg uống 1 lần mỗi ngày, hẹn đủ 6 tuần tính từ ngày bắt đầu kháng sinh. Ra viện cách đây khoảng 2 tuần, phát 14 viên levofloxacin, dặn mua tiếp theo đơn; hôm nay vừa tròn 4 tuần kháng sinh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Chẩn đoán, vi sinh, lịch kháng sinh của tuyến trên"
+    },
+    {
+     "id": "dung_thuoc",
+     "noi_dung": "Mỗi sáng uống 1 viên levofloxacin, cháu Thùy đặt chuông nhắc. Tuần rồi bà tự bỏ hai buổi sáng, định 'uống cách ngày cho đỡ tốn' vì thuốc mua tiệm đắt và chưa có tiền mua tiếp; còn lại 2 viên. Không buồn nôn, không tiêu chảy, không đau gân gót.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ kháng sinh: bỏ liều vì tiền"
+    },
+    {
+     "id": "khong_giam_dau",
+     "noi_dung": "Từ khi ra viện bà không uống thuốc giảm đau nào vì 'để dành tiền, với lại sợ hại gan hại thận'. Đau 6/10 không đổi so với lúc nhập viện. Không sốt, không ớn lạnh, không ra mồ hôi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dùng giảm đau; không sốt"
+    },
+    {
+     "id": "nam_nhieu",
+     "noi_dung": "Bà nằm khoảng 18 tiếng mỗi ngày, chỉ dậy ăn và đi vệ sinh, vì sợ đứng lên là 'gãy lưng'. Chưa bán lại; cháu Thùy nghỉ buổi sáng chở và trông bà. Ăn ít, nửa chén cơm mỗi bữa, 46 kg (ở viện 47 kg).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nằm nhiều vì sợ, ăn ít, sụt cân"
+    },
+    {
+     "id": "than_kinh_am",
+     "noi_dung": "Không tê, không yếu hai chân; không tê vùng mông hay chỗ kín; đi tiểu, đi cầu bình thường, không còn tiểu rắt hay buốt. Không đau lan xuống chân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu thần kinh mới, tiết niệu hết triệu chứng"
+    },
+    {
+     "id": "nho_mui",
+     "noi_dung": "Ở bệnh viện không ai hỏi nên bà không kể; về nhà đêm nào bà cũng nhỏ lại chai naphazolin cho dễ thở rồi ngủ. Mũi ngạt hơn khi nằm lâu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi thuốc nhỏ hoặc xịt mũi, thuốc tự mua, hỏi ngạt mũi, hoặc hỏi đêm ngủ ra sao.",
+     "k": 1,
+     "y": "Thuốc nhỏ mũi co mạch vẫn dùng (thuốc đang dùng bị bỏ sót)"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Bà mang theo 150.000 đồng tiền bán rau dành dụm. Đợt nằm viện đã tốn nhiều, bà còn nợ cháu tiền thuốc. Xét nghiệm nào đắt thì để lần sau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giới hạn tiền: chọn xét nghiệm đổi quyết định"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói rõ, gầy, 46 kg. Da niêm hơi nhợt, không phù. Nhiệt 36,7 °C, vẻ mặt mệt nhưng không nhiễm trùng.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi hai bên đỏ sẫm, bóng, phù nề nhẹ, không mủ. Họng bình thường.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tiet_nieu": {
+     "a": "Gõ góc sườn lưng hai bên không đau. Không cầu bàng quang. Bụng mềm, không đau.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống thắt lưng không sưng nóng đỏ, không gù mới. Gõ rung mỏm gai L3–L4 vẫn đau nhưng nhẹ hơn lần trước (bà nhăn mặt, không giật mình); các mỏm gai khác không đau. Cơ cạnh sống co cứng nhẹ. Cúi tối đa ngón tay cách sàn 38 cm. Lasègue âm tính. Khớp háng xoay không đau.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Sức cơ chi dưới 5/5 các nhóm. Phản xạ gân gối và gân gót (++) đều nhau. Babinski âm tính. Cảm giác chạm và kim châm bình thường ở chi dưới và vùng yên ngựa. Đứng dậy khỏi ghế cần bám tay, đi chậm nhưng vững.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "mau_lang": {
+     "v": "e",
+     "r": "Tốc độ máu lắng giờ đầu 48 mm/giờ (lúc đầu 82)",
+     "ab": 1,
+     "n": "30.000 đồng. IDSA 2015 khuyến cáo 32: theo dõi VS, CRP sau khoảng 4 tuần cùng đánh giá lâm sàng; khuyến cáo 35: không đổi hoặc tăng sau 4 tuần mới nghi thất bại. Nghiên cứu được dẫn: VS trên 50 mm/giờ và CRP trên 2,75 mg/dL sau 4 tuần có nguy cơ thất bại cao hơn (phần bằng chứng khuyến cáo 32–34); bà dưới cả hai. VS cao đơn thuần chưa phải thất bại (khuyến cáo 31)."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 12 mg/L (lúc đầu 46)",
+     "ab": 1,
+     "bang": {
+      "crp": 12
+     },
+     "n": "80.000 đồng. CRP giảm nhanh hơn VS và liên quan sát lâm sàng hơn (IDSA 2015, phần bằng chứng khuyến cáo 32–34). VS + CRP = 110.000 đồng, nằm trong 150.000 đồng bà mang; đây là hai xét nghiệm đổi quyết định hôm nay."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 7,8 G/L · Hb 112 g/L · TC 330 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 7.8,
+      "neu_pct": 66.0,
+      "neu": 5.15,
+      "lym_pct": 25.0,
+      "lym": 1.95,
+      "mono_pct": 6.5,
+      "mono": 0.51,
+      "eos_pct": 2.0,
+      "eos": 0.16,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 3.9,
+      "hgb": 112,
+      "hct": 0.345,
+      "mcv": 88.5,
+      "mch": 28.7,
+      "mchc": 325,
+      "rdw": 14.5,
+      "plt": 330
+     },
+     "n": "50.000 đồng, không đổi hướng và vượt phần tiền còn lại; bỏ vẫn đúng."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 5,2 mmol/L · Creatinin 64 µmol/L · eGFR 86 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.2,
+      "creat": 64,
+      "egfr": 86
+     },
+     "n": "50.000 đồng. Liều kháng sinh chỉnh theo thận, gan (IDSA 2015 Bảng 3, chú thích). Bà 46 kg nên con số 'bình thường' có thể đánh giá cao độ lọc thật; công thức Cockcroft–Gault và ngưỡng chỉnh liều levofloxacin: không có trong tài liệu đã tải. Để lần sau cũng được."
+    },
+    "mri_cot_song": {
+     "v": "n",
+     "r": "MRI chụp lại (nếu ở nơi có): viêm đĩa đệm – đốt sống L3–L4 còn tín hiệu bất thường, ổ tụ dịch cạnh sống không tăng, không tụ dịch ngoài màng cứng.",
+     "n": "Không cần: IDSA 2015 khuyến cáo 33 (mạnh) không chụp MRI lại thường quy khi đáp ứng lâm sàng và xét nghiệm tốt; hình viêm có thể còn nhiều tháng không có ý nghĩa lâm sàng (phần bằng chứng khuyến cáo 31–34). Chỉ chụp lại khi đáp ứng kém (khuyến cáo 34, 36)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm đĩa đệm – đốt sống L3–L4 do E. coli (nguồn tiết niệu), tuần 4/6 levofloxacin; đáp ứng xét nghiệm (VS 82 → 48, CRP 46 → 12); đau chưa đỡ không phải thất bại điều trị",
+     "ok": 1,
+     "n": "Vi sinh máu, nước tiểu và mô cùng E. coli nhạy levofloxacin. Đau dai dẳng, VS hoặc hình ảnh còn bất thường đơn độc không đồng nghĩa thất bại (IDSA 2015 khuyến cáo 31); VS, CRP theo dõi ở khoảng 4 tuần (khuyến cáo 32); không đổi hoặc tăng mới nghi thất bại (khuyến cáo 35)."
+    },
+    {
+     "t": "Đau kéo dài do co cứng cơ cạnh sống, nằm bất động, sợ đau, không dùng thuốc giảm đau",
+     "ok": 1,
+     "n": "Gõ rung L3–L4 nhẹ hơn, cơ cạnh sống co cứng, bà nằm 18 tiếng/ngày và không uống thuốc giảm đau từ khi ra viện. Phần xử trí được ngay."
+    },
+    {
+     "t": "Di căn cột sống",
+     "n": "Đã loại bằng mô: giải phẫu bệnh viêm cấp, không tế bào ác tính (tiêu chuẩn vàng, QĐ 361/2014, Ung thư di căn xương mục 2.1); VS, CRP giảm dưới kháng sinh."
+    },
+    {
+     "t": "Lao cột sống (bệnh Pott)",
+     "n": "Đã loại ở mức hiện có: soi và Xpert mô âm tính, E. coli mọc từ mô, tổn thương hai đốt kề đĩa (lao hay gặp từ 3 đốt trở lên, IDSA 2015 phần bằng chứng khuyến cáo 18–19). Xét lại nếu đáp ứng kém: lấy thêm mô vi sinh và mô học (khuyến cáo 37)."
+    },
+    {
+     "t": "Áp xe ngoài màng cứng hoặc cạnh sống tiến triển",
+     "n": "MRI lần đầu không có tụ dịch ngoài màng cứng; nay không sốt, thần kinh bình thường, CRP giảm. MRI lại và hội chẩn phẫu thuật nếu VS, CRP không giảm, đau tăng hoặc thiếu sót thần kinh tiến triển (IDSA 2015 khuyến cáo 28, 34, 36)."
+    },
+    {
+     "t": "Thất bại do sai thuốc, đề kháng hoặc không tuân thủ",
+     "n": "Không sai thuốc, không đề kháng: E. coli nhạy levofloxacin, 500 mg/ngày đúng QĐ 361/2014 (Viêm xương tủy mục 4.2), trong khoảng 500–750 mg của IDSA 2015 Bảng 3. Tuân thủ có hở (bỏ hai buổi để tiết kiệm) nhưng CRP vẫn giảm; sửa ngay để đủ 6 tuần."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kết luận chưa phải thất bại điều trị: đau chưa đỡ nhưng hết sốt, thần kinh bình thường, VS và CRP giảm; tiếp tục kháng sinh đến đủ 6 tuần, không đổi thuốc",
+     "v": "c",
+     "n": "IDSA 2015 khuyến cáo 31, 35, 26 (6 tuần, tiêm hoặc uống sinh khả dụng cao); QĐ 361/2014 (Viêm xương tủy mục 4.1): ít nhất 6 tuần."
+    },
+    {
+     "t": "Làm VS và CRP hôm nay (110.000 đồng) để so với lúc đầu; công thức máu, creatinin để sau",
+     "v": "c",
+     "n": "IDSA 2015 khuyến cáo 32, 35: VS, CRP sau khoảng 4 tuần cùng đánh giá lâm sàng. Hai xét nghiệm đổi quyết định, phần còn lại không đổi nên bỏ khi chỉ có 150.000 đồng."
+    },
+    {
+     "t": "Hỏi từng liều levofloxacin, vì sao bỏ buổi; kê đủ thuốc đến hết tuần 6 (bà còn 2 viên, cần thêm 12 viên), dặn không uống cách ngày",
+     "v": "c",
+     "n": "Levofloxacin 500 mg mỗi 24 giờ (QĐ 361/2014, Viêm xương tủy mục 4.2) trong khoảng 500–750 mg (IDSA 2015 Bảng 3). Chỉnh liều theo thận, gan: ngưỡng không có trong tài liệu đã tải. Quy định bảo hiểm với thuốc kê ở phòng khám: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm đau đều bằng paracetamol; không NSAID; giải thích paracetamol đúng liều không hại gan thận",
+     "v": "c",
+     "n": "QĐ 361/2014 Phụ lục NSAID mục 3.3: người cao tuổi gầy yếu acetaminophen dưới 3 g/ngày, tránh NSAID; Phụ lục thuốc giảm đau mục 3.1 và AHA/ACC 2025 Bảng 11: dưới 4 g/ngày (chọn số thận trọng hơn); AGS Beers 2023 Bảng 2."
+    },
+    {
+     "t": "Ngưng thuốc nhỏ mũi co mạch, thay nước muối sinh lý; đo lại huyết áp sau 1–2 tuần; ngạt nhiều thì khám tai mũi họng",
+     "v": "c",
+     "n": "QĐ 5643/2015 (Viêm mũi xoang cấp tính mục 4.2.1); ARIA-EAACI 2024–2025 mục 5.2.2; AHA/ACC 2025 Bảng 11 (huyết áp lượt này 144/84 mmHg)."
+    },
+    {
+     "t": "Ăn đủ chất, thêm bữa nhỏ; ngồi dậy, đi lại dần có người đi cùng, tránh nằm cả ngày",
+     "v": "c",
+     "n": "QĐ 361/2014 (Viêm xương tủy mục 4.2): đảm bảo chế độ ăn đủ chất. Mức vận động an toàn và có dùng đai hay không cho viêm đĩa đệm – đốt sống: không có trong tài liệu đã tải (IDSA 2015 không bàn)."
+    },
+    {
+     "t": "Hẹn tái khám khi đủ 6 tuần (khoảng 2 tuần nữa) để làm lại VS, CRP, khám thần kinh; viết dấu hiệu quay lại sớm",
+     "v": "c",
+     "n": "IDSA 2015 khuyến cáo 26, 32. Lịch sau khi ngưng kháng sinh: không có trong tài liệu đã tải. Dấu hiệu quay lại: sốt, đau tăng, yếu hoặc tê chân, rối loạn tiểu đại tiện (NICE NG234 2023, Box 1; GIRFT 2023, Safety netting; IDSA khuyến cáo 17, 28)."
+    },
+    {
+     "t": "Chuyển tuyến lại hoặc chụp lại MRI ngay vì 'sáu tuần mà đau vẫn vậy'",
+     "v": "w",
+     "n": "IDSA 2015 khuyến cáo 33 (mạnh) không chụp MRI lại thường quy khi đáp ứng tốt; khuyến cáo 31: đau dai dẳng đơn độc chưa phải thất bại. VS, CRP đã giảm, bà không sốt, thần kinh bình thường."
+    },
+    {
+     "t": "Đổi hoặc tăng kháng sinh vì 'thuốc không ăn thua'",
+     "v": "w",
+     "n": "E. coli nhạy levofloxacin, VS và CRP giảm; IDSA 2015 khuyến cáo 31, 35. Kéo dài hoặc phối hợp thêm có nguy cơ tác dụng phụ, kháng thuốc, C. difficile (phần bằng chứng khuyến cáo 26–27); không có chỉ định trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng kháng sinh ngay ở tuần 4 vì CRP gần bình thường và bà tốn nhiều tiền",
+     "v": "w",
+     "n": "IDSA 2015 khuyến cáo 26 (mạnh): tổng 6 tuần; QĐ 361/2014 (Viêm xương tủy mục 4.1): ít nhất 6 tuần. Tỉ lệ thất bại vốn đã 10–30% (phần bằng chứng khuyến cáo 26–27)."
+    },
+    {
+     "t": "Kê NSAID uống (diclofenac hoặc meloxicam) để giảm đau nhanh",
+     "v": "w",
+     "n": "QĐ 361/2014 Phụ lục NSAID mục 3.3: người cao tuổi gầy yếu tránh NSAID; AGS Beers 2023 Bảng 2; AHA/ACC 2025 Bảng 11 (NSAID có thể tăng huyết áp; bà 144/84 mmHg)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm đĩa đệm – đốt sống L3–L4 do E. coli (nguồn tiết niệu), tuần 4/6 levofloxacin; đáp ứng xét nghiệm tốt (VS 82 → 48 mm/giờ, CRP 46 → 12 mg/L), hết sốt, thần kinh bình thường",
+     "Đau chưa đỡ (6/10) không phải thất bại điều trị; yếu tố giữ đau: không dùng giảm đau, nằm 18 tiếng/ngày vì sợ, ăn ít, co cứng cơ cạnh sống",
+     "Nguy cơ hở điều trị: tự bỏ hai buổi để tiết kiệm; thuốc nhỏ mũi co mạch vẫn dùng mỗi đêm",
+     "Đã loại: di căn (mô học), lao (soi, Xpert mô âm), áp xe ngoài màng cứng/cạnh sống tiến triển, sai thuốc hay đề kháng (E. coli nhạy levofloxacin)"
+    ],
+    "phan_tich_chan_doan": [
+     "Quy trình khi không đỡ: (1) Sai chẩn đoán? Không: E. coli mọc từ máu, nước tiểu, mô; MRI phù hợp; mô học viêm cấp. (2) Sai thuốc? Không: levofloxacin 500 mg/ngày đúng QĐ 361/2014 (Viêm xương tủy mục 4.2) và IDSA 2015 Bảng 3. (3) Không tuân thủ? Có hở, bỏ hai buổi vì tiền. (4) Biến chứng? Không sốt, thần kinh bình thường, CRP giảm. (5) Đề kháng? Không, kháng sinh đồ nhạy.",
+     "Đau dai dẳng, VS còn cao hoặc hình ảnh chưa đổi đơn độc không có nghĩa thất bại (IDSA 2015 khuyến cáo 31). Nghi thất bại khi VS, CRP không đổi hoặc tăng sau 4 tuần (khuyến cáo 35); nghiên cứu được dẫn: VS trên 50 mm/giờ và CRP trên 2,75 mg/dL (27,5 mg/L) sau 4 tuần có nguy cơ cao hơn, nhưng đa số người VS còn cao sau 4–8 tuần vẫn khỏi (độ đặc hiệu thấp). Bà VS 48, CRP 12: dưới cả hai ngưỡng.",
+     "Với 150.000 đồng chỉ làm VS và CRP (110.000), đúng khuyến cáo 32. Không MRI lại (khuyến cáo 33, mạnh); chỉ chụp lại khi đáp ứng kém (khuyến cáo 34, 36).",
+     "Đường dùng: QĐ 361/2014 (Viêm xương tủy mục 4.1) nói tiêm tĩnh mạch, ít nhất 6 tuần, nhưng với Gram âm đường ruột cho cephalosporin thế hệ 3 hoặc 4 tiêm 3–4 tuần hoặc levofloxacin 500 mg tiêm hoặc uống (mục 4.2); IDSA 2015 khuyến cáo 26: tổng 6 tuần, tiêm hoặc uống sinh khả dụng cao. Phác đồ tuyến tỉnh nằm trong cả hai.",
+     "Áp dụng cho ≥ 75 tuổi: tuổi cao có thể liên quan kết cục xấu hơn (IDSA 2015, phần bằng chứng khuyến cáo 26–27) nhưng không có ngưỡng riêng (không có trong tài liệu đã tải)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không đổi kháng sinh, không nhập viện, không MRI lại vì chưa có dấu hiệu thất bại (IDSA 2015 khuyến cáo 31, 33, 35). Việc cần làm: đủ thuốc đến tuần 6, giảm đau đều, đi lại dần, ăn đủ, ngưng thuốc nhỏ mũi.",
+     "Paracetamol: trần dưới 3 g/ngày ở người cao tuổi gầy yếu (QĐ 361/2014, Phụ lục NSAID mục 3.3) so với dưới 4 g/ngày (Phụ lục thuốc giảm đau mục 3.1; AHA/ACC 2025 Bảng 11); chọn dưới 3 g/ngày. Tránh NSAID (AGS Beers 2023 Bảng 2). Nỗi sợ gãy lưng và chi phí cũng là phần xử trí; mức vận động an toàn: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Levofloxacin",
+      "ham_luong": "500 mg/viên",
+      "lieu": "500 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi sáng, cùng giờ, không bỏ buổi",
+      "so_ngay": "Đến hết tuần 6 tính từ ngày bắt đầu kháng sinh (khoảng 14 ngày nữa): bà còn 2 viên, kê thêm 12 viên",
+      "ghi_chu": "Tiếp tục đơn tuyến tỉnh. QĐ 361/2014 Viêm xương tủy mục 4.2; IDSA 2015 Bảng 3, khuyến cáo 26. Chỉnh liều theo thận, gan: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên × 3 lần/ngày (1,5 g/ngày), dưới 3 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng, trưa, tối; uống đều",
+      "so_ngay": "Đến lần tái khám sau 2 tuần, giảm khi đỡ",
+      "ghi_chu": "QĐ 361/2014 Phụ lục NSAID mục 3.3 (dưới 3 g/ngày), Phụ lục thuốc giảm đau mục 3.1 (không quá 4 g/24 giờ); chọn số thận trọng hơn."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "0,9%",
+      "lieu": "Nhỏ hoặc rửa mũi khi ngạt thay thuốc co mạch; số giọt, số lần: không có trong tài liệu đã tải",
+      "duong": "Nhỏ/rửa mũi",
+      "thoi_diem": "Khi ngạt, kể cả trước ngủ",
+      "so_ngay": "Hằng ngày, thay hẳn naphazolin",
+      "ghi_chu": "QĐ 5643/2015 mục 4.2.1; ARIA-EAACI 2024–2025 mục 5.2.2. Cách ngưng thuốc co mạch: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Đau chưa hết không có nghĩa thuốc không hiệu nghiệm: máu lắng và CRP đã giảm nhiều, thuốc đang tác dụng, đau đỡ dần theo (IDSA 2015 khuyến cáo 31). Uống đủ 6 tuần, mỗi sáng, không cách ngày; thiếu tiền mua thuốc thì tới nói, đừng tự giảm liều.",
+     "Uống paracetamol đều ba lần mỗi ngày; không tự mua thuốc đau xương khớp vì thường là thuốc kháng viêm, người lớn tuổi nên tránh (QĐ 361/2014, Phụ lục NSAID mục 3.3).",
+     "Mỗi ngày ngồi dậy, đi lại trong nhà vài lần có cháu đi kèm; không khiêng vác, không nằm cả ngày. Ăn thêm bữa nhỏ, đủ đạm (QĐ 361/2014, Viêm xương tủy mục 4.2). Ngưng nhỏ mũi co mạch, dùng nước muối.",
+     "Quay lại ngay hoặc đi cấp cứu nếu: sốt, đau tăng nhiều, yếu hoặc tê chân, tê vùng mông hay chỗ kín, khó tiểu hoặc không tự chủ tiểu, đi cầu (NICE NG234 2023, Box 1; GIRFT 2023, Safety netting; IDSA 2015 khuyến cáo 17).",
+     "Hẹn tái khám khi đủ 6 tuần (khoảng 2 tuần nữa, IDSA 2015 khuyến cáo 26, 32), mang giấy ra viện và số viên còn lại để làm lại máu lắng, CRP."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Bảy lên bệnh viện tỉnh cùng cháu Thùy ngay trong tuần: MRI viêm đĩa đệm – đốt sống L3–L4, cấy máu và nước tiểu mọc E. coli, mô học không có tế bào ác tính, soi và Xpert lao âm tính; ceftriaxone hai tuần rồi levofloxacin. Ở tuần 4 VS và CRP đã giảm nên bà uống đủ 6 tuần, không đổi thuốc, không chụp lại MRI; nhờ có thuốc giảm đau, bớt nằm, ngưng nhỏ mũi, đau còn 2/10 khi hết đợt, VS và CRP về gần bình thường, thần kinh vẫn bình thường. Ba tháng sau bà ngồi lại sạp với ghế có tựa lưng. Các quyết định đều đúng; bài học nằm ở quy trình: đau lưng không đỡ ở người rất cao tuổi dù không sốt vẫn là cờ đỏ, và đau chưa đỡ khi VS, CRP đang giảm chưa phải thất bại điều trị.",
+ "nhieu": [
+  "Không đủ tiền: 280.000 đồng ở lượt 1 (VS + CRP + công thức máu + nước tiểu + glucose + creatinin = 275.000; X-quang 150.000, cấy máu 350.000 không đủ) và 150.000 đồng ở lượt 2 (VS + CRP = 110.000); bà còn tự bỏ liều kháng sinh để tiết kiệm.",
+  "Thuốc nhỏ mũi naphazolin: bà coi không phải thuốc nên không kể, chỉ lộ khi hỏi thuốc nhỏ, ngạt mũi, giấc ngủ; sau ra viện bà dùng lại vì không ai hỏi (QĐ 5643/2015 mục 4.2.1; ARIA-EAACI 2024–2025 mục 5.2.2).",
+  "Khởi phát sau chuyến xe đò 9 tiếng dễ neo vào 'đau cơ học do rung xóc' (QĐ 361/2014, Hội chứng đau thắt lưng mục 3.1); chi tiết ngược lại là đau đêm, nghỉ không đỡ, tăng dần, điểm đau gõ rung."
+ ],
+ "bai_hoc_bien": [
+  "Rất cao tuổi (≥ 75): bệnh không điển hình (không sốt, sụt cân ít), tuổi cao là nhóm nguy cơ (IDSA 2015); IDSA 2015, NICE NG234 2023, NG59 không có ngưỡng riêng cho ≥ 75 tuổi: nói rõ khi áp dụng.",
+  "Không điển hình: cờ đỏ kinh điển vắng mặt; cờ đỏ thật là đau mới tăng dần, đau đêm, nghỉ không đỡ, điểm đau khu trú, không đáp ứng thuốc, VS và CRP tăng; sốt chỉ có ở tối đa 45% (IDSA 2015).",
+  "Không đỡ (lượt 2): chạy quy trình thất bại điều trị dựa vào VS, CRP chứ không dựa vào đau; đau dai dẳng đơn độc không phải thất bại (IDSA 2015 khuyến cáo 31)."
+ ],
+ "diem_nho": [
+  "Đau lưng mới tăng dần, đau đêm, điểm đau khu trú, người cao tuổi: nghĩ nhiễm khuẩn hoặc di căn (NICE NG234 2023, Box 1; IDSA 2015 khuyến cáo 1–2); VS, CRP nền; MRI và cấy máu hai bộ ở tuyến trên (khuyến cáo 7–8).",
+  "Chưa có vi sinh, thần kinh bình thường, huyết động ổn: không kháng sinh kinh nghiệm (khuyến cáo 24). Theo dõi: VS, CRP sau khoảng 4 tuần, không MRI lại nếu đáp ứng tốt, tổng 6 tuần (khuyến cáo 26, 31–33, 35).",
+  "Người cao tuổi gầy yếu: paracetamol dưới 3 g/ngày, tránh NSAID (QĐ 361/2014 Phụ lục NSAID mục 3.3; AGS Beers 2023 Bảng 2)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 361/QĐ-BYT 2014 – TL-0286 – Hội chứng đau thắt lưng mục 2.2, 3.1, 3.3, 4.1, 4.2.1; Viêm xương tủy nhiễm khuẩn mục 2.2, 3.2, 4.1–4.2; Ung thư di căn xương mục 2.1–2.2; Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1.",
+  "Bộ Y tế – QĐ 162/QĐ-BYT 2024, bệnh lao – TL-0123 – Phụ lục 1 mục 4; danh mục kỹ thuật mục 2.1, 2.4. Bộ Y tế – QĐ 5643/QĐ-BYT 2015, tai mũi họng – TL-0130 – Viêm mũi xoang cấp tính mục 4.2.1.",
+  "IDSA 2015, Berbari EF và cs., Native vertebral osteomyelitis in adults. Clin Infect Dis 2015;61(6):e26–e46 – TL-0388 – khuyến cáo 1–2, 6–8, 13, 17–19, 24–26, 28, 31–37; Bảng 2, 3; phần bằng chứng khuyến cáo 1–7, 18–19, 26–27, 31–34.",
+  "NICE NG234 2023 – TL-0361 – Box 1, khuyến cáo 1.3.5, 1.5.2, 1.5.3, 1.5.9, 1.7.1, 1.7.6, 1.8.1. NICE NG59 (2016, cập nhật 2026) – TL-0372 – khuyến cáo 1.1.1, 1.2.26. GIRFT 2023, Cauda Equina Pathway – TL-0360 – Symptoms, Safety netting.",
+  "AGS Beers 2023 – TL-0022 – Bảng 2. AHA/ACC 2025, tăng huyết áp – TL-0297 – Bảng 11. ARIA-EAACI 2024–2025 Part I – TL-0546 – mục 5.2.2."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-08): viết theo sổ cái CX-0955. Đã đọc TL-0388 (khuyến cáo 1–38, Bảng 2–3, phần bằng chứng), TL-0286 (Hội chứng đau thắt lưng, Viêm xương tủy, Ung thư di căn xương, Phụ lục NSAID và thuốc giảm đau), TL-0361 (Box 1, 1.3, 1.5, 1.7, 1.8), TL-0372 (1.1–1.2), TL-0360, TL-0123 (Phụ lục 1 mục 4, danh mục kỹ thuật), TL-0130 (4.2.1), TL-0546 (5.2.2), TL-0297 (Bảng 11), TL-0022 (Bảng 2).",
+  "Không có trong tài liệu đã tải: mốc MRI cho nghi nhiễm khuẩn cột sống; ngưỡng VS theo tuổi; Cockcroft–Gault và liều chỉnh levofloxacin theo thận; mức bất động, đai lưng, vận động an toàn cho viêm đĩa đệm – đốt sống; liều giảm đau riêng; lịch sau khi ngưng kháng sinh; bảo hiểm khi chuyển tuyến; cách ngưng thuốc nhỏ mũi; nhóm ≥ 75 tuổi.",
+  "Mâu thuẫn đã có trong sổ và đã áp dụng: X-quang cột sống khi nghi di căn hoặc nhiễm trùng (CX-0963); trần paracetamol ở người cao tuổi (TH-0295); paracetamol cho đau thắt lưng; thuốc nhỏ mũi co mạch. Không có mâu thuẫn thật mới; ghi nhận nhỏ về đường dùng kháng sinh nằm trong trường phan_tich_chan_doan lượt 2."
+ ]
+}
