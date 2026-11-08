@@ -1,0 +1,471 @@
+{
+ "ma_ca": "TH-0620",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_tieu_chay_cap_nhiem_trung",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Tiêu chảy cấp nhiễm trùng",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lỵ trực trùng",
+   "Viêm ruột thừa"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Thay đổi thời tiết",
+  "thuoc_dang_dung": "Thuốc nhỏ mắt corticoid",
+  "ly_do_that_su_den_kham": "Bạn bè có bệnh tương tự",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Trần Gia Huy",
+  "tuoi": 8,
+  "gioi": "Nam",
+  "nghe": "Học sinh lớp 3",
+  "can_nang": 26,
+  "chieu_cao": 126,
+  "xung_ho": "Bé trai 8 tuổi, tự xưng 'con', gọi bác sĩ là 'bác', trả lời ngắn, hơi ngại khi nói về chuyện đi ngoài. Mẹ là người kể bệnh chính: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi bé là 'cháu' hoặc 'thằng Huy'. Khi bác sĩ hỏi thẳng bé (vd 'Huy đau chỗ nào, đau thế nào?') thì bé tự trả lời.",
+  "tinh_cach": "Mẹ 35 tuổi, nhân viên văn phòng, nhanh nhẹn, lo xa, tin lời truyền miệng trong nhóm phụ huynh và nghĩ 'bệnh đường ruột là phải có kháng sinh mới nhanh khỏi'. Mẹ không hung hăng nhưng nài nỉ nhiều lần; được giải thích tôn trọng, có kế hoạch thay thế thì chấp nhận. Bé hiền, hay dụi mắt, sợ đau bụng nên uống nước ít, ham đá bóng.",
+  "kieu_nhieu": "Đòi kháng sinh: mẹ xin kháng sinh ngay từ câu mở đầu, nhắc lại ít nhất 2 lần ('chị kia nói con chị uống là đứng phân liền', 'cho em xin một đợt ngắn thôi'). Nếu bác sĩ từ chối cộc lốc hoặc nói 'không cần' mà không giải thích thì mẹ sẽ nói 'vậy em đưa cháu qua phòng khám khác' và giảm hợp tác. Nếu bác sĩ ghi nhận nỗi lo, giải thích bằng dữ kiện của chính bé, đưa kế hoạch ORS, kẽm, hẹn tái khám 2 ngày và dấu hiệu quay lại thì mẹ gật đầu, nói 'vậy em làm theo bác sĩ'. Mẹ không tự kể thuốc nhỏ mắt và nỗi lo thật.",
+  "nguoi_nha": "Mẹ bé, chị Lan, 35 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Khi bác sĩ hỏi thẳng bé về cảm giác đau bụng, đi ngoài, bé trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Lan)",
+  "ngoai_hinh": {
+   "da": "#e8b98f",
+   "toc": "#17110e",
+   "kieuToc": "ngan",
+   "ao": "#d9b24a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e5b58c",
+    "toc": "#2a1c15",
+    "kieuToc": "dai",
+    "ao": "#7aa3b8",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé trai 8 tuổi đi ngoài phân lỏng, đau bụng 2 ngày; trong lớp có bạn bị tương tự",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền, tổng phân tích nước tiểu); không có X-quang, siêu âm, CT, nội soi."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 8 tuổi, 26 kg, mẹ đưa đến vì đi ngoài phân lỏng và đau bụng từ hôm kia. Sinh hiệu: nhiệt 37,5 °C, mạch 102 l/p, huyết áp 98/60 mmHg, nhịp thở 22 l/p, SpO₂ 99%. Bé tỉnh, hơi mệt, ngồi sát mẹ.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bé nhập viện hoặc truyền dịch là quá tay: bé tỉnh, uống được, không mất nước, hôm nay không nôn và mẹ đủ khả năng chăm sóc tại nhà nên đủ tiêu chuẩn điều trị ngoại trú (QĐ 3312 mục 5.1, tr. 323–324; QĐ 4068 ô [8]). Nằm viện làm bé nghỉ học thêm vài ngày, mẹ nghỉ làm, trong khi điều bé cần chỉ là ORS sau mỗi lần đi ngoài và kẽm. Lại củng cố niềm tin của mẹ rằng 'đi viện mới khỏi' và lần sau mẹ dễ đòi truyền dịch, kháng sinh hơn.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện nhi để siêu âm hoặc cấy phân ngay hôm nay chỉ vì 'sợ ruột thừa' hoặc 'sợ dịch' là không cần: đau quanh rốn từng cơn, hố chậu phải mềm, ho và nhảy không đau, không phân máu, không mất nước (WHO 2013 mục 5.1, tr. 126; WSES 2020 Statement 1.5, 1.7: dùng điểm lâm sàng và chỉ số viêm để loại trừ). Gia đình tốn thêm nửa ngày, chi phí và bé phải chờ ở khu khám đông, trong khi xử trí vẫn là Phác đồ A, kẽm và tái khám sau 2 ngày. Cần chuyển khi đau dời xuống hố chậu phải và tăng dần, phân máu, mất nước nặng hoặc nôn tái diễn (WSES 2020; QĐ 3312 mục 5.1)."
+   },
+   "loi_mo": "Chào bác sĩ, cháu nhà em đi ngoài lỏng từ hôm kia, còn đau bụng nữa. Trong lớp có mấy bạn cũng bị vậy rồi. Bác sĩ cho cháu uống kháng sinh cho nhanh khỏi giúp em, để khỏi lây ra cả lớp với.",
+   "sinh_hieu": {
+    "mach": 102,
+    "ha": "98/60",
+    "nhiet": "37,5",
+    "nhip_tho": 22,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé đi ngoài phân lỏng từ hôm kia, kèm đau bụng quặn từng cơn, hôm qua nôn 2 lần và sốt nhẹ. Mẹ đưa đi khám hôm nay, ngày bệnh thứ 2.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thời gian bệnh (QĐ 3312 mục 3.1a)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Mấy hôm nay trời nắng gắt rồi đổ mưa lạnh bất thình lình. Trưa hôm kia bé đá bóng ngoài sân trường dưới nắng, về uống liền hai ly nước ngọt ướp đá, tối ngủ để quạt thổi thẳng. Chiều hôm kia bé bắt đầu sôi bụng, đi ngoài lần đầu. Mẹ nghĩ do 'trúng gió, lạnh bụng'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời điểm khởi phát và yếu tố mẹ cho là nguyên nhân (QĐ 3312 mục 3.1a, 2.1)"
+    },
+    {
+     "id": "so_lan_phan",
+     "noi_dung": "Chiều hôm kia 1 lần; hôm qua khoảng 6 lần; sáng nay đến giờ 4 lần. Phân vàng, lỏng như nước, ít bã, có mùi chua, mỗi lần lượng vừa. Không có máu, không có nhầy trông thấy, không giống nước vo gạo, không mót rặn. Bé không đi ban đêm nhiều hơn ban ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số lần, tính chất phân, máu trong phân (QĐ 3312 mục 3.1a; WHO 2013 mục 5.1, tr. 126)"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Đau quặn quanh rốn trước mỗi lần đi ngoài, đi xong đỡ. Không có điểm đau cố định ở bụng dưới bên phải, đau không tăng lên khi bé đi lại, ho hay nhảy. Giữa các cơn bé chạy chơi được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất đau bụng, loại trừ bệnh ngoại khoa (WHO 2013 mục 5.1; WSES 2020 Statement 1.5)"
+    },
+    {
+     "id": "non_sot",
+     "noi_dung": "Hôm qua bé nôn 2 lần, ra thức ăn rồi nước, không ra mật. Hôm nay không nôn. Tối qua mẹ đo 38,0 °C, sáng nay 37,5 °C, chưa cho uống thuốc hạ sốt. Không ho nhiều, không phát ban.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn, sốt (QĐ 3312 mục 3.1a, 5.1)"
+    },
+    {
+     "id": "uong_tieu",
+     "noi_dung": "Bé còn uống được, uống từng ngụm lớn khi mẹ đưa nước, không đòi uống háo hức; mẹ chưa cho uống Oresol. Tiểu 3 lần từ sáng, nước tiểu vàng nhạt, lượng như thường. Mẹ cân ở trường tuần trước 26,5 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khát, nước tiểu, cân nặng để đánh giá mất nước (QĐ 3312 mục 3.1b–c; WHO 2013 Bảng 12, tr. 128)"
+    },
+    {
+     "id": "thuoc_da_dung",
+     "noi_dung": "Mẹ chưa cho bé uống thuốc đi ngoài nào, chưa cho kháng sinh. Mới cho uống nước đun sôi để nguội và ăn cháo loãng. Trong nhà không còn kháng sinh thừa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng (QĐ 3312 mục 3.1a; WHO 2013 mục 5.1)"
+    },
+    {
+     "id": "thuoc_dang_dung",
+     "noi_dung": "Bé đang nhỏ mắt dexamethasone 0,1%, 1 giọt mỗi mắt, 3 lần/ngày, đã nhỏ 5 ngày trong đơn 7 ngày của bác sĩ mắt (viêm kết mạc dị ứng, mắt ngứa, dụi nhiều). Mẹ cho rằng thuốc mắt không liên quan nên chưa kể; chỉ nói khi được hỏi bé đang dùng thuốc gì khác.",
+     "dieu_kien_lo": "Mẹ chỉ nhắc khi bác sĩ hỏi 'bé đang uống hoặc nhỏ thuốc gì khác không', hoặc hỏi tiền sử bệnh mắt, dị ứng.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Thuốc đang dùng, rà ảnh hưởng (QĐ 3312 mục 3.1a)"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Trong lớp 3 của bé có ít nhất 3 bạn cùng đi ngoài lỏng, nôn, sốt nhẹ trong tuần này; hai bạn nghỉ học. Cô chủ nhiệm nhắn nhóm phụ huynh nhờ đưa con đi khám nếu có triệu chứng. Trong nhà không ai bị; bé không đi đâu xa, trong thành phố chưa nghe thông báo dịch tả.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc, ổ dịch, báo dịch tả (QĐ 4178/2007 mục II.1c; WHO 2013 mục 5.1; ESPGHAN/ESPID 2014 mục 7.1)"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ngày thường bé ăn cơm nhà; buổi chiều có mua bánh tráng trộn và nước mía ngoài cổng trường như nhiều bạn khác. Hai ngày nay bé ăn kém, chỉ húp cháo, không đòi ăn đồ khác. Nước uống ở nhà là nước lọc đun sôi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thức ăn, nước uống nghi ngờ (QĐ 3312 mục 2.1; QĐ 4178/2007 mục II.1c)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh thường đủ tháng, tiêm chủng đầy đủ theo chương trình. Chưa từng nằm viện. Không bệnh mạn tính, không dị ứng thuốc, không phẫu thuật bụng. Viêm kết mạc dị ứng theo mùa như trên.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử, tiêm chủng (QĐ 3312 mục 3.1a)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Mẹ lo trong lớp có 'dịch', sợ con bị tả hoặc lỵ và sợ bé phải nghỉ học dài nếu trường yêu cầu giấy bác sĩ. Một chị trong nhóm phụ huynh nói con chị uống kháng sinh 'là đứng phân ngay', nên mẹ quyết định xin bác sĩ kê kháng sinh.",
+     "dieu_kien_lo": "Mẹ không tự nói ra. Chỉ lộ khi bác sĩ hỏi 'chị đang lo nhất điều gì' hoặc hỏi trong lớp, trong nhóm phụ huynh có ai bị tương tự; nói nhẹ nhàng, không trách thì mẹ mới kể.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Động cơ thật khi đến khám (mục khai thác nỗi lo của người nhà)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, linh hoạt, trả lời được, hơi mệt. Cân nặng 26,0 kg (trước bệnh 26,5 kg: giảm khoảng 1,9%, dưới 5%). Mắt không trũng, môi lưỡi ẩm. Nếp véo da bụng trở lại ngay (dưới 1 giây). Uống nước bình thường khi mời, không háo hức. Chi ấm, đổ đầy mao mạch dưới 2 giây. Không có dấu hiệu mất nước.",
+     "k": 1,
+     "hien": "Tỉnh, linh hoạt. Cân nặng 26,0 kg."
+    },
+    "bung": {
+     "a": "Bụng không chướng, mềm. Nhu động ruột tăng. Ấn quanh rốn bé hơi khó chịu nhưng không đau khu trú, không đau hố chậu phải, McBurney âm tính, không phản ứng thành bụng, không đề kháng. Nghiệm pháp ho và nhảy chân sáo không đau. Không sờ thấy khối. Gan lách không to. Gõ trong. Bẹn hai bên không phồng.",
+     "k": 1,
+     "hien": "Bụng không chướng, mềm."
+    },
+    "truc_trang": {
+     "a": "Không cần thăm trực tràng: phân không máu, không mót rặn, bụng mềm, không khối. Quanh hậu môn đỏ nhẹ do đi ngoài nhiều lần, không nứt.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 102 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 102 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, đều, không rút lõm. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 22 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "da": {
+     "a": "Da hồng, không vàng, không ban, không chấm xuất huyết, không tím tái.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Mũi có ít dịch trong. Họng đỏ nhẹ, amidan không to, không mủ. Tai không chảy mủ. Miệng sạch, không tưa.",
+     "k": 0,
+     "hien": "Mũi ít dịch trong. Họng đỏ nhẹ."
+    },
+    "mat": {
+     "a": "Kết mạc hai mắt đỏ nhẹ, ít ghèn trong, bé dụi mắt. Không đau mắt, không sợ ánh sáng, giác mạc trong. Hình ảnh phù hợp viêm kết mạc dị ứng đang điều trị.",
+     "k": 0,
+     "hien": "Hai mắt đỏ nhẹ, ít ghèn trong."
+    },
+    "dau_mat_co": {
+     "a": "Cổ mềm, không hạch to. Không vàng mắt.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 9,8 G/L · Neutrophil 62% · Lymphocyte 28% · Hb 128 g/L · TC 295 G/L",
+     "n": "Chấp nhận, không bắt buộc: QĐ 3312 mục 3.2 (tr. 320) chỉ định công thức máu khi nghi nhiễm khuẩn kèm theo hoặc mất nước nặng; bé sốt nhẹ, hết sốt, tỉnh nên không bắt buộc. Làm khi muốn dựa thêm vào chỉ số viêm để loại trừ ruột thừa không có siêu âm (WSES 2025 Bảng 2, khuyến cáo 1–2; WSES 2020 khuyến cáo 1.6.1: xét nghiệm công thức máu, CRP ở trẻ nghi viêm ruột thừa). Kết quả bình thường, không đổi xử trí."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 6 mg/L",
+     "n": "Chấp nhận, không bắt buộc: ESPGHAN/ESPID 2014 mục 7.2 không khuyến cáo CRP để tìm nguyên nhân vi khuẩn. CRP 6 mg/L dưới ngưỡng 10 mg/L là yếu tố dự báo viêm ruột thừa ở trẻ (WSES 2020 Statement 1.7: CRP ≥ 10 mg/L), góp phần trấn an khi không có siêu âm. Không dùng CRP để quyết định kháng sinh."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 137 · K 3,8 · Cl 102 mmol/L",
+     "n": "Không cần: điện giải đồ khi điều trị tại bệnh viện, có mất nước hoặc diễn biến không tương xứng (QĐ 3312 mục 3.2, tr. 320; ESPGHAN/ESPID 2014 mục 7.4). Bé không mất nước, uống được."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 3,9 mmol/L · Creatinin 45 µmol/L",
+     "n": "Không cần: không mất nước, tiểu bình thường (QĐ 3312 mục 3.2). Khoảng tham chiếu ure, creatinin trẻ 8 tuổi: không có trong tài liệu đã tải."
+    },
+    "glu": {
+     "v": "u",
+     "r": "4,9 mmol/L",
+     "n": "Không cần: bé tỉnh, ăn uống được; đường huyết chỉ kiểm tra khi rối loạn tri giác, co giật (QĐ 3312 mục 3.1b)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Tỷ trọng 1.018 · pH 6 · Không protein · Không glucose · Không ceton · Không bạch cầu · Không nitrit",
+     "n": "Không cần: không tiểu buốt, tiểu rắt; nước tiểu bình thường. Chỉ liên quan khi nghi nhiễm khuẩn tiết niệu kèm theo (QĐ 3312 mục 4.2: tiêu chảy kèm nhiễm khuẩn tiết niệu)."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Soi phân: nhiều chất bã, bạch cầu 0–3/vi trường, không hồng cầu, không trứng, không ký sinh trùng.",
+     "n": "Chấp nhận, không bắt buộc: không soi, cấy phân thường quy khi không có máu (WHO 2013 mục 5.1, tr. 126); QĐ 3312 mục 3.2: soi tươi khi nghi ký sinh trùng. Hợp lý vì có cụm ca ở lớp và để loại trừ hội chứng lỵ (QĐ 5642/2015, Bệnh lỵ trực khuẩn mục 3.2b: soi phân có hồng cầu, bạch cầu đa nhân). Kết quả không đổi xử trí."
+    },
+    "cay_phan": {
+     "v": "a",
+     "r": "Cấy phân sau 48 giờ: không mọc Shigella, Salmonella; không phân lập Vibrio cholerae.",
+     "n": "Chấp nhận, không bắt buộc: QĐ 3312 mục 3.2 chỉ định cấy khi phân máu, nghi tả, nặng/kéo dài, suy giảm miễn dịch; ESPGHAN/ESPID 2014 mục 7.1: nên lấy phân khi có ổ dịch, nhất là ở trường học, vì nhu cầu y tế công cộng. Bé không thuộc nhóm bắt buộc nhưng có cụm ca ở lớp. Kết quả 48 giờ không quyết định xử trí hôm nay (không kháng sinh)."
+    },
+    "test_rota": {
+     "v": "u",
+     "r": "Kháng nguyên rotavirus trong phân: âm tính.",
+     "n": "Không cần: tìm tác nhân không đổi điều trị (ESPGHAN/ESPID 2014 mục 7.1, 7.2). Rotavirus chủ yếu ở trẻ dưới 2 tuổi (QĐ 3312 mục 2.1); bé 8 tuổi."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Siêu âm bụng: không thấy ruột thừa viêm (đầu tận không đè xẹp), không dịch tự do, vài hạch mạc treo nhỏ vùng hố chậu phải.",
+     "thay_the": "crp",
+     "n": "Chấp nhận, không bắt buộc: cơ sở không có siêu âm. Ở trẻ, siêu âm là hình ảnh đầu tay khi cần (WSES 2020 khuyến cáo 1.14.1). Với bé này nguy cơ thấp (đau quanh rốn từng cơn đỡ sau khi đi ngoài, ho/nhảy không đau, hố chậu phải mềm), nên dùng điểm lâm sàng và chỉ số viêm để loại trừ (WSES 2025 Bảng 2, khuyến cáo 1–2; WSES 2020 khuyến cáo 1.5) và hẹn tái khám. Dùng CRP thay siêu âm là cách thay thế của biên tập viên, không phải khuyến cáo của tài liệu."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp phân nước (viêm dạ dày ruột cấp nhiễm trùng, nghi virus hoặc vi khuẩn không xâm nhập) ngày thứ 2, không mất nước, chưa biến chứng",
+     "ok": 1,
+     "n": "Phân lỏng toé nước ≥ 3 lần/24 giờ, khởi đầu cấp, mới 2 ngày (QĐ 3312 mục 1); phân không máu; sốt nhẹ, nôn 2 lần hôm qua nay đã hết; không đủ 2 dấu mất nước (QĐ 3312 mục 3.1c; WHO 2013 Bảng 12, tr. 128); cân giảm khoảng 1,9% (< 5%, chưa có dấu mất nước lâm sàng, QĐ 3312 mục 3.1b). Có 3 bạn cùng lớp bị tương tự gợi ý nhiễm trùng lây theo cụm; tác nhân chưa xác định và không cần xác định để điều trị (ESPGHAN/ESPID 2014 mục 7.1). Thời tiết thay đổi chỉ là yếu tố mẹ nêu: nguyên nhân tiêu chảy do thay đổi thời tiết không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tả",
+     "n": "Phân không phải toàn nước kiểu nước vo gạo với khối lượng lớn, mỗi ngày 4–6 lần chứ không 'hàng chục lít' (QĐ 4178/2007 mục II.1a); bé có sốt nhẹ và đau quặn bụng trong khi tả thường không sốt, ít đau bụng; không mất nước (mục II.1a); chưa có thông báo dịch tả ở địa phương (mục II.1c). Bệnh cảnh chung toàn lớp với sốt nhẹ và nôn không điển hình cho tả. Nếu nghi tả: cấy phân, báo dịch cho y tế cấp trên (mục IV.1)."
+    },
+    {
+     "t": "Lỵ trực trùng (Shigella)",
+     "n": "Hội chứng lỵ gồm đau quặn bụng, mót rặn, phân nhầy máu (QĐ 5642/2015, Bệnh lỵ trực khuẩn mục 3.1c, 3.3a; WHO 2013 mục 5.4, tr. 143: phân lỏng nhiều lần lẫn máu đỏ). Bé phân nước vàng, không máu, không nhầy trông thấy, không mót rặn; khởi phát không sốt cao 39–40 °C (mục 3.1b); bụng không đau khung đại tràng. Soi phân không hồng cầu. Kháng sinh chỉ dành cho phân máu (QĐ 3312 mục 4.2; WHO 2024 khuyến cáo 2)."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Đau quanh rốn là cơn quặn trước khi đi ngoài và đỡ sau đó, không dời xuống hố chậu phải; hố chậu phải mềm, McBurney âm tính, ho và nhảy chân sáo không đau (các dấu của thang PAS: đau hố chậu phải khi ho, nhảy, gõ; WSES 2020 phần bình luận Statement 1.5); CRP 6 mg/L và bạch cầu 9,8 G/L dưới ngưỡng dự báo (CRP ≥ 10 mg/L, bạch cầu ≥ 16.000/mL; WSES 2020 Statement 1.7). Không có siêu âm nên loại trừ bằng điểm lâm sàng cộng chỉ số viêm và hẹn tái khám sớm (WSES 2025 Bảng 2, khuyến cáo 1–2). QĐ 3312 mục 2.1 liệt kê viêm ruột thừa cấp trong nhóm nguyên nhân ngoại khoa gây tiêu chảy. Trẻ nhỏ có thể không điển hình (WSES 2020 phần trẻ mẫu giáo); bé 8 tuổi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Bù nước theo Phác đồ A tại nhà: ORS áp lực thẩm thấu thấp 100–200 ml sau mỗi lần đi ngoài (khoảng 1000 ml/ngày), uống từng ngụm nhỏ bằng cốc; nôn thì chờ 5–10 phút rồi uống chậm lại; tiếp tục đến khi hết tiêu chảy",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.1, Phác đồ A (tr. 320–321): 2–10 tuổi 100–200 ml sau mỗi lần đi ngoài, 1000 ml/ngày; ORS áp lực thẩm thấu thấp là tốt nhất; trẻ nôn thì đợi 5–10 phút. WHO 2013 mục 5.2.3, tr. 136 và Chart 15, tr. 138: từ 2 tuổi 100–200 ml; đưa mẹ 2 gói ORS về nhà. Bé không mất nước nên không dùng Phác đồ B."
+    },
+    {
+     "t": "Kẽm 5 mg/ngày hoặc 20 mg/ngày, ngày 1 lần, 10–14 ngày",
+     "v": "c",
+     "n": "Mâu thuẫn đã có trong sổ (TH-0630 và NH-0435 #1), ghi cả hai: WHO 2024 khuyến cáo 3a, 3c và Remarks: trẻ ≤ 10 tuổi, tiêu chảy phân nước, 5 mg/ngày, kẽm gluconat ít nôn hơn, 20 mg nôn nhiều hơn (RR 2,20), thời gian 10–14 ngày; QĐ 3312 mục 4.3 (tr. 323) và WHO 2013 tr. 136: ≥ 6 tháng 20 mg/ngày × 10–14 ngày. Khác nhau vì WHO 2024 mới hơn và dựa trên bằng chứng về nôn, hiệu quả tương đương; liều 5 mg thận trọng hơn về tác dụng phụ. Bé nôn hôm qua nên 5 mg hợp lý hơn."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích lý do và nêu khi nào mới cần",
+     "v": "c",
+     "n": "WHO 2024 khuyến cáo 1a: không dùng kháng sinh cho tiêu chảy phân nước, mọi nguyên nhân (có điều kiện, chứng cứ thấp); QĐ 3312 mục 4.2 (tr. 322): không chỉ định kháng sinh cho mọi trường hợp, chỉ khi phân máu, nghi tả, Giardia hoặc nhiễm trùng khác kèm; ESPGHAN/ESPID 2014 mục 9.4: không dùng thuốc kháng nhiễm cho phần lớn trẻ khỏe mạnh bị viêm dạ dày ruột cấp. Bé không thuộc nhóm nào. Đồng thuận giữa các nguồn, không phải mâu thuẫn."
+    },
+    {
+     "t": "Cho ăn uống bình thường: tiếp tục khẩu phần hàng ngày, chia nhiều bữa nhỏ, không kiêng đạm hay kiêng sữa kéo dài; sau khỏi cho ăn thêm 1 bữa/ngày trong 2–4 tuần",
+     "v": "c",
+     "n": "QĐ 3312 mục 4.4 (tr. 323): cho ăn sớm khẩu phần hàng ngày 4–6 giờ sau bù nước, tăng dần; sau khi khỏi ăn thêm 1 bữa/ngày trong 2–4 tuần; không dùng sữa không lactose thường quy. WHO 2013 Chart 15, tr. 138: tiếp tục cho ăn."
+    },
+    {
+     "t": "Dặn dấu hiệu phải quay lại ngay và hẹn tái khám sau 2 ngày hoặc sớm hơn nếu nặng lên",
+     "v": "c",
+     "n": "QĐ 3312 mục 5.1–5.2 (tr. 323–324): tái khám ngay khi ăn uống kém, sốt cao, tiêu chảy tăng, nôn nhiều, mệt; phân nhày máu mũi, nôn tất cả mọi thứ, khát nhiều; QĐ 4068 ô [8] (chưa xác định năm): ngoại trú tái khám mỗi 1–2 ngày; WHO 2013 mục 5.2.3, tr. 137: về ngay nếu nặng hơn, không uống được, sốt, có máu; nếu không đỡ thì tái khám sau 5 ngày. Mốc 2 ngày và 5 ngày khác bối cảnh (quy trình bệnh viện nhi so với hướng dẫn tuyến cơ sở), cùng đúng; chọn 2 ngày vì chưa loại trừ hẳn ruột thừa bằng hình ảnh. Mốc ngày cụ thể trong QĐ 3312: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Rửa tay xà phòng, dùng riêng ly bát khăn mặt, vệ sinh nhà vệ sinh; báo nhà trường để theo dõi cụm ca ở lớp",
+     "v": "a",
+     "n": "QĐ 3312 mục 6 (tr. 324): rửa tay thường xuyên, hố xí hợp vệ sinh, an toàn thực phẩm; ESPGHAN/ESPID 2014 mục 7.1: lấy phân khi có ổ dịch ở trường học vì nhu cầu y tế công cộng. Thời gian nghỉ học, quy định báo cáo ổ dịch tiêu chảy ở trường, thời gian lây: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục thuốc nhỏ mắt dexamethasone theo đơn bác sĩ mắt, tái khám mắt đúng hẹn",
+     "v": "a",
+     "n": "Tác dụng toàn thân của corticoid nhỏ mắt, tương tác với ORS hoặc kẽm, ảnh hưởng lên triệu chứng bụng: không có trong tài liệu đã tải. Không có tài liệu đã tải nói cần ngưng; thuốc nhỏ tại chỗ, thuộc chuyên khoa mắt."
+    },
+    {
+     "t": "Men vi sinh (Saccharomyces boulardii hoặc Lactobacillus rhamnosus GG)",
+     "v": "a",
+     "n": "Mâu thuẫn đã có trong sổ (TH-0630 và NH-0435 #2), ghi cả hai: WHO 2024 khuyến cáo 4a gợi ý không dùng probiotic ở tiêu chảy cấp phân nước (có điều kiện, chứng cứ thấp); QĐ 3312 mục 4.5: S. boulardii 200–250 mg/ngày × 5–6 ngày; ESPGHAN 2023 (TL-0258): LGG, S. boulardii (yếu, chứng cứ thấp). Dùng hay không dùng đều chấp nhận được, không bắt buộc."
+    },
+    {
+     "t": "Racecadotril hoặc diosmectit hỗ trợ",
+     "v": "a",
+     "n": "Không phải mâu thuẫn (sổ mâu thuẫn): QĐ 3312 mục 4.5 (racecadotril 1,5 mg/kg/lần × 3 lần/ngày, không quá 7 ngày); ESPGHAN/ESPID 2014 mục 9.3.3–9.3.4. WHO 2024 không nói. Không phải đáp án chính."
+    },
+    {
+     "t": "Kê kháng sinh đường uống (cefixim, amoxicillin–clavulanat, azithromycin...) theo yêu cầu của mẹ",
+     "v": "w",
+     "n": "Không có chỉ định ở phân nước không máu: WHO 2024 khuyến cáo 1a, Remarks: giá trị cao hơn cho nguy cơ không mong muốn của điều trị quá mức (kể cả đề kháng kháng sinh), lợi ích kháng sinh nhỏ và chưa chắc; QĐ 3312 mục 4.2; ESPGHAN/ESPID 2014 mục 9.4. Tiêu chảy do thuốc gồm kháng sinh (QĐ 3312 mục 2.1; WHO 2013 Bảng 11, tr. 127: tiêu chảy liên quan kháng sinh gần đây)."
+    },
+    {
+     "t": "Loperamid hoặc thuốc cầm đi ngoài khác",
+     "v": "w",
+     "n": "QĐ 3312 mục 4.5: không sử dụng thuốc cầm nôn, cầm đi ngoài; mục 3.1b: chướng bụng thường do thuốc cầm tiêu không phù hợp; ESPGHAN/ESPID 2014 mục 9.3.2: loperamid không khuyến cáo. Không phải mâu thuẫn (đồng thuận). Thuốc chống nôn thường quy: không dùng (bé hết nôn; TH-0630 #3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp phân nước (viêm dạ dày ruột cấp nhiễm trùng, nghi virus), ngày bệnh thứ 2, có cụm ca ở lớp học",
+     "Không mất nước: không đủ 2 dấu theo QĐ 3312 mục 3.1c; cân giảm khoảng 1,9% (< 5%) → Phác đồ A",
+     "Không phân máu, không mót rặn, không có dấu hiệu bụng ngoại khoa, không dấu nhiễm trùng toàn thân; chưa biến chứng",
+     "Đã loại trừ trên lâm sàng và chỉ số viêm: tả, lỵ trực trùng, viêm ruột thừa (không có siêu âm)",
+     "Đang nhỏ mắt dexamethasone 0,1% vì viêm kết mạc dị ứng: không liên quan tiêu chảy, thuộc chuyên khoa mắt",
+     "Nỗi lo thật của mẹ: sợ 'dịch', sợ phải nghỉ học dài; mong có kháng sinh 'cho nhanh khỏi'"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: tiêu chảy là phân lỏng hoặc toé nước ≥ 3 lần/24 giờ, cấp là không quá 14 ngày (QĐ 3312 mục 1). Cần hỏi: bắt đầu từ bao giờ, số lần, có máu không, nôn, sốt, ăn uống, thuốc đã dùng, tiêm chủng (QĐ 3312 mục 3.1a; WHO 2013 mục 5.1, tr. 126 thêm báo cáo dịch tả khu vực và dùng kháng sinh gần đây). Ở bé: 2 ngày, hôm qua 6 lần, nay 4 lần, phân vàng nước, không máu, nôn 2 lần đã hết, sốt 38,0 °C đã hạ.",
+     "Hỏi sâu các điểm mẹ không tự kể (nhiễu 'đòi kháng sinh' và lý do thật): trong lớp có 3 bạn bệnh tương tự (cụm ca gợi ý nhiễm trùng lây, không đủ để gọi là tả hay lỵ); bé đang nhỏ corticoid mắt (thuốc đang dùng); mẹ lo 'dịch' và tin kháng sinh là 'đứng phân ngay'. Thay đổi thời tiết là yếu tố mẹ nêu; liên quan nhân quả với tiêu chảy: không có trong tài liệu đã tải. QĐ 3312 mục 2.1 chỉ nêu mùa hè nhiều tiêu chảy nhiễm khuẩn, mùa đông nhiều rotavirus.",
+     "Khám: đánh giá mất nước đủ 4 dấu (tri giác, khát, mắt, nếp véo; QĐ 3312 mục 3.1b–c; WHO 2013 Bảng 12, tr. 128), cân nặng để so (giảm < 5% là chưa có dấu mất nước lâm sàng), bụng (nhu động tăng, mềm, hố chậu phải không đau, ho/nhảy không đau), sinh hiệu. Bé không đủ 2 dấu mất nước → không mất nước.",
+     "Cận lâm sàng: không cần xét nghiệm thường quy ở phần lớn trẻ tiêu chảy cấp (QĐ 3312 mục 3.2; ESPGHAN/ESPID 2014 mục 7.1). Phòng khám chỉ có xét nghiệm cơ bản (công thức máu, sinh hóa nền, nước tiểu), không X-quang, siêu âm. Công thức máu và CRP chỉ đáng làm để trấn an về ruột thừa (BC 9,8 G/L, CRP 6 mg/L; WSES 2020 Statement 1.7, khuyến cáo 1.6.1; WSES 2025 Bảng 2). Điện giải, ure, creatinin, đường huyết, nước tiểu không cần (QĐ 3312 mục 3.2). Soi và cấy phân không bắt buộc; nếu làm thì vì có cụm ca ở trường (ESPGHAN/ESPID 2014 mục 7.1).",
+     "Chẩn đoán phân biệt: tả (phân nước vo gạo, mất nước nhanh, không sốt; QĐ 4178/2007 mục II.1a); lỵ trực trùng (đau quặn, mót rặn, phân nhầy máu; QĐ 5642/2015, Bệnh lỵ trực khuẩn mục 3.1c; WHO 2013 mục 5.4); viêm ruột thừa (đau dời xuống hố chậu phải; thang PAS gồm đau hố chậu phải khi ho, nhảy, gõ; WSES 2020). Bé không thuộc bệnh nào: không dịch tả địa phương, không máu, không dấu ngoại khoa.",
+     "Kết luận chẩn đoán: tiêu chảy cấp phân nước không mất nước, điều trị ngoại trú. Tiêu chuẩn điều trị ngoại trú đủ: không mất nước, không bệnh kèm cần nằm viện, thân nhân được hướng dẫn Phác đồ A, có điều kiện tái khám (QĐ 4068 ô [8]; QĐ 3312 mục 5.1: nhập viện khi mất nước nặng, nôn tái diễn, thất bại ORS, sốt cao nhiễm độc, cha mẹ không đảm bảo cho uống đủ). Bé không có tiêu chuẩn nào.",
+     "Diagnostic timeout: trước khi chốt, tự hỏi lại 'điều gì sẽ buộc mình mở lại chẩn đoán'. Đau bụng dời xuống hố chậu phải và tăng dần, phân máu, nôn tái diễn, li bì, bụng chướng cứng đều đổi hướng xử trí (WSES 2020; QĐ 3312 mục 5.1–5.2; WHO 2013 mục 5.2.3, tr. 137)."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù nước Phác đồ A là trụ cột: ORS áp lực thẩm thấu thấp 100–200 ml sau mỗi lần đi ngoài, khoảng 1000 ml/ngày (QĐ 3312 mục 4.1, tr. 321; WHO 2013 Chart 15, tr. 138). Dặn cụ thể từng ngụm, nôn thì chờ 5–10 phút. Đưa mẹ 2 gói ORS (WHO 2013 Chart 15).",
+     "Kẽm 5 mg/ngày (WHO 2024 khuyến cáo 3a, 3c) hoặc 20 mg/ngày (QĐ 3312 mục 4.3; WHO 2013 tr. 136), 10–14 ngày: hai nguồn khác nhau vì WHO 2024 là phân tích mới về nôn và hiệu quả tương đương, còn QĐ 3312 và WHO 2013 là liều chuẩn cũ; cả hai đều chấp nhận được, 5 mg ít nôn hơn nên thận trọng hơn. Dặn uống đủ ngày kể cả khi hết tiêu chảy (WHO 2013 Chart 15).",
+     "Không kê kháng sinh (WHO 2024 khuyến cáo 1a; QĐ 3312 mục 4.2; ESPGHAN/ESPID 2014 mục 9.4). Cách từ chối giữ lòng tin: ghi nhận nỗi lo, giải thích bằng chính dữ kiện của bé, đưa 'kế hoạch thay thế' và cửa quay lại. Ví dụ lời thoại: 'Chị lo cho cháu nhiều quá, em hiểu. Cháu bị viêm dạ dày ruột cấp, phân nước, không có máu; đa số các bạn trong lớp cũng sẽ tự khỏi. Kháng sinh không làm cháu hết nhanh hơn, còn có thể làm đi ngoài kéo dài và làm kháng thuốc về sau. Điều giúp cháu nhất là uống nước Oresol sau mỗi lần đi và uống kẽm. Em hẹn chị đưa cháu về sau 2 ngày; nếu cháu đi ra máu, sốt cao, nôn nhiều hay lừ đừ thì chị đưa đến ngay, lúc đó em sẽ cân nhắc kháng sinh.' Không nên nói 'chị nghĩ sai rồi' hay trách nhóm phụ huynh.",
+     "Không dùng thuốc cầm đi ngoài, thuốc chống nôn thường quy (QĐ 3312 mục 4.5; ESPGHAN/ESPID 2014 mục 9.3.1–9.3.2). Men vi sinh và racecadotril/diosmectit là lựa chọn không bắt buộc (WHO 2024 khuyến cáo 4a so với QĐ 3312 mục 4.5, ESPGHAN 2023).",
+     "Dinh dưỡng: ăn lại bình thường, chia bữa, không kiêng đạm/sữa kéo dài; sau khỏi ăn thêm 1 bữa/ngày 2–4 tuần (QĐ 3312 mục 4.4). Thực hành vệ sinh trong nhà (QĐ 3312 mục 6).",
+     "Không có siêu âm: không cố chứng minh bằng cận lâm sàng không có. Dùng điểm lâm sàng và chỉ số viêm để loại trừ, kèm hẹn tái khám 2 ngày và dặn dấu hiệu quay lại ngay (WSES 2025 Bảng 2; QĐ 4068 ô [8]; QĐ 3312 mục 5.2). Tái khám 5 ngày theo WHO 2013 mục 5.2.3 cũng chấp nhận.",
+     "Cụm ca ở lớp: dặn mẹ báo cô giáo và nhà trường để theo dõi, rửa tay, không dùng chung ly bát; báo cáo ổ dịch tiêu chảy ở trường theo quy định: không có trong tài liệu đã tải. Nếu nghi tả thì phải báo dịch cho y tế cấp trên (QĐ 4178/2007 mục IV.1). Thuốc nhỏ mắt corticoid: không cần ngưng, hỏi bác sĩ mắt khi tái khám mắt; ảnh hưởng của thuốc lên bệnh cảnh tiêu hóa: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Dung dịch bù nước uống ORS áp lực thẩm thấu thấp (Oresol)",
+      "ham_luong": "Gói theo nhà sản xuất, pha đúng thể tích ghi trên gói với nước đun sôi để nguội",
+      "lieu": "100–200 ml sau mỗi lần đi ngoài; khoảng 1000 ml/ngày dùng tại nhà (bé 8 tuổi)",
+      "duong": "Uống, từng ngụm nhỏ bằng cốc",
+      "thoi_diem": "Sau mỗi lần đi ngoài; nếu nôn thì chờ 5–10 phút rồi uống chậm hơn",
+      "so_ngay": "Cho đến khi hết tiêu chảy",
+      "ghi_chu": "QĐ 3312 mục 4.1, Phác đồ A (tr. 321); WHO 2013 mục 5.2.3, tr. 136 và Chart 15, tr. 138 (đưa 2 gói ORS về nhà)."
+     },
+     {
+      "thuoc": "Kẽm (ưu tiên dạng gluconat nếu có)",
+      "ham_luong": "Tính theo kẽm nguyên tố; dạng bào chế sẵn có tại cơ sở (viên hoặc gói): không có trong tài liệu đã tải",
+      "lieu": "5 mg kẽm nguyên tố, ngày 1 lần (WHO 2024 khuyến cáo 3a, 3c) hoặc 20 mg/ngày (QĐ 3312 mục 4.3; WHO 2013 tr. 136)",
+      "duong": "Uống, hòa vào nước hoặc nhai (WHO 2013 Chart 15)",
+      "thoi_diem": "Mỗi ngày một lần, cùng giờ",
+      "so_ngay": "10–14 ngày, uống đủ kể cả khi hết tiêu chảy",
+      "ghi_chu": "Hai nguồn khác liều: 5 mg ít nôn hơn (20 mg: RR nôn 2,20, WHO 2024 Remarks), hiệu quả tương đương; 20 mg là liều chuẩn cũ. Con số thận trọng hơn về tác dụng phụ là 5 mg."
+     }
+    ],
+    "dan_do": [
+     "Bé bị viêm dạ dày ruột cấp, thường tự khỏi; việc cần làm là bù đủ nước và uống kẽm. Không cần kháng sinh vì phân nước không máu (WHO 2024 khuyến cáo 1a; QĐ 3312 mục 4.2). Kháng sinh có thể làm đi ngoài kéo dài và gây kháng thuốc (WHO 2024 khuyến cáo 1a Remarks).",
+     "ORS: 100–200 ml sau mỗi lần đi ngoài, uống từng ngụm; hôm nay bé đi 4–6 lần thì tổng khoảng 1 lít (QĐ 3312 mục 4.1). Kẽm mỗi ngày một lần, uống đủ 10–14 ngày.",
+     "Cho bé ăn lại bình thường, chia nhiều bữa nhỏ, không kiêng đạm kiêng sữa kéo dài; sau khi hết tiêu chảy nên ăn thêm 1 bữa mỗi ngày trong 2–4 tuần (QĐ 3312 mục 4.4). Hạn chế mua quà vặt ngoài cổng trường trong lúc bệnh.",
+     "Phòng lây: bé và cả nhà rửa tay xà phòng sau đi vệ sinh và trước khi ăn, dùng riêng ly bát khăn mặt, vệ sinh nhà vệ sinh (QĐ 3312 mục 6). Thời gian nghỉ học và quy định báo ổ dịch ở trường: không có trong tài liệu đã tải; mẹ báo cô chủ nhiệm để nhà trường theo dõi.",
+     "Đưa bé quay lại ngay nếu: đi ngoài nhiều hơn, phân nhiều nước hơn, khát nhiều, sốt cao, phân nhày máu, nôn tất cả mọi thứ, không chịu ăn uống, li bì, đau bụng ngày càng tăng hoặc đau dồn xuống bụng dưới bên phải, bụng chướng (QĐ 3312 mục 5.1–5.2; WHO 2013 mục 5.2.3, tr. 137; WSES 2020).",
+     "Tái khám sau 2 ngày (QĐ 4068 ô [8]) để xem số lần đi ngoài, cân nặng, khả năng uống; nếu không đỡ thì tái khám sau 5 ngày theo WHO 2013 mục 5.2.3 là tối đa. Nếu đến ngày thứ 14 còn đi ngoài lỏng thì phải khám lại để tìm nguyên nhân (QĐ 3312, Tiêu chảy kéo dài mục 1; WHO 2013 mục 5.3).",
+     "Thuốc nhỏ mắt dexamethasone: tiếp tục theo đơn bác sĩ mắt và tái khám mắt đúng hẹn; bác sĩ không tự ý ngưng hay đổi (tài liệu đã tải không đề cập)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé làm theo Phác đồ A, uống kẽm 5 mg/ngày, mẹ không mua kháng sinh. Chiều hôm đó bé hết nôn; ngày bệnh thứ 3 còn 3 lần phân sệt lỏng. Tái khám sau 2 ngày (ngày bệnh thứ 4): 2 lần/ngày, không sốt, không máu, bụng mềm, hố chậu phải không đau, cân 26,2 kg. Hết đi ngoài vào ngày bệnh thứ 6; bé đi học lại sau khi ăn uống bình thường. Hai bạn khác trong lớp cũng khỏi sau vài ngày. Bé uống đủ kẽm theo đợt và đi tái khám mắt đúng hẹn. Kết cục ổn định, khỏi bệnh; thời gian khỏi trong khoảng tự khỏi thường gặp, không biến chứng.",
+ "nhieu": [
+  "Đòi kháng sinh: mẹ xin ngay từ câu mở đầu và nhắc lại; từ chối cộc lốc thì mẹ đổi phòng khám, nên phải ghi nhận nỗi lo, giải thích bằng dữ kiện của bé và đưa kế hoạch thay thế kèm hẹn tái khám.",
+  "Lý do thật đến khám (bạn bè có bệnh tương tự): mẹ lo 'dịch', sợ nghỉ học dài, nghe nhóm phụ huynh nói kháng sinh là hết; chỉ lộ khi hỏi 'chị đang lo nhất điều gì'.",
+  "Thuốc nhỏ mắt corticoid: mẹ không kể vì cho là không liên quan; phải hỏi thuốc đang dùng, kể cả thuốc nhỏ mắt.",
+  "Thay đổi thời tiết là 'nguyên nhân' mẹ tin; không được chốt nguyên nhân chỉ vì thời tiết, vẫn phải tìm dấu hiệu tả, lỵ, ruột thừa.",
+  "Không có siêu âm, X-quang: loại trừ ruột thừa bằng khám bụng, ho nhảy, bạch cầu và CRP, kèm hẹn tái khám sớm."
+ ],
+ "bai_hoc_bien": [
+  "Ca điển hình nhưng giá trị nằm ở quy trình: hỏi đủ máu trong phân, số lần, nôn sốt, thuốc đã dùng; đánh giá mất nước đủ 4 dấu; mới kết luận Phác đồ A (QĐ 3312 mục 3.1, 4.1; WHO 2013 mục 5.1–5.2).",
+  "Từ chối kháng sinh không khó nếu có dữ kiện: phân nước, không máu, không nghi tả, không nhiễm trùng khác (WHO 2024 khuyến cáo 1a; QĐ 3312 mục 4.2; ESPGHAN/ESPID 2014 mục 9.4). Giữ lòng tin bằng việc nói điều gì sẽ làm bé khỏi nhanh hơn và khi nào sẽ cần kháng sinh.",
+  "Cụm ca ở lớp không đồng nghĩa với tả hay lỵ: kiểm lại phân máu, mót rặn, nước vo gạo, mất nước (QĐ 4178/2007 mục II.1; QĐ 5642/2015, Bệnh lỵ trực khuẩn mục 3.1c).",
+  "Khi không có siêu âm, dùng điểm lâm sàng, chỉ số viêm và hẹn tái khám ngắn để loại trừ ruột thừa (WSES 2025 Bảng 2, khuyến cáo 1–2; WSES 2020 Statement 1.5, 1.7).",
+  "Hai chỗ nguồn khác nhau cần ghi cả hai: kẽm 5 mg (WHO 2024) và 20 mg (QĐ 3312), probiotic không dùng (WHO 2024) hoặc dùng đúng chủng (QĐ 3312, ESPGHAN 2023); không bắt người học đoán một đáp án."
+ ],
+ "diem_nho": [
+  "Tiêu chảy cấp: phân lỏng/toé nước ≥ 3 lần/24 giờ, không quá 14 ngày (QĐ 3312 mục 1). Không mất nước: không đủ 2 dấu → Phác đồ A, 2–10 tuổi ORS 100–200 ml sau mỗi lần đi ngoài (QĐ 3312 mục 3.1c, 4.1).",
+  "Kẽm 10–14 ngày: 5 mg/ngày (WHO 2024 khuyến cáo 3a, 3c) hoặc 20 mg/ngày (QĐ 3312 mục 4.3); không kháng sinh, thường không probiotic ở phân nước (WHO 2024 khuyến cáo 1a, 4a).",
+  "Kháng sinh chỉ khi phân máu (ciprofloxacin 15 mg/kg/lần × 2 lần/ngày × 3 ngày; WHO 2024 khuyến cáo 2 Remarks; QĐ 3312 mục 4.2), nghi tả, Giardia hoặc nhiễm trùng khác kèm.",
+  "Không soi, cấy phân thường quy khi không có máu (WHO 2013 mục 5.1); có thể lấy phân khi có ổ dịch ở trường học (ESPGHAN/ESPID 2014 mục 7.1).",
+  "Tái khám ngay khi phân máu, sốt cao, nôn nhiều, khát nhiều, li bì, đau bụng dời xuống hố chậu phải (QĐ 3312 mục 5.1–5.2; WSES 2020)."
+ ],
+ "nguon": [
+  "QĐ 3312/QĐ-BYT 2015 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Tiêu chảy cấp mục 1, 2.1, 3.1a–c, 3.2, 4.1–4.5, 5.1–5.2, 6 (tr. 316–324); Tiêu chảy kéo dài mục 1 (tr. 325)",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 5.1 (tr. 126), Bảng 11 (tr. 127), Bảng 12 (tr. 128), mục 5.2.3 (tr. 134, 136–137), Chart 15 (tr. 138), mục 5.3 (tr. 137), mục 5.4 (tr. 143–144)",
+  "WHO 2024 – Guideline on management of pneumonia and diarrhoea in children up to 10 years of age – TL-0245 – ĐÃ ĐỌC: khuyến cáo 1a, 2 (Remarks), 3a, 3c (Remarks), 4a",
+  "ESPGHAN/ESPID 2014 – Guarino A et al., J Pediatr Gastroenterol Nutr 2014;59(1):132-52 – TL-0268 – ĐÃ ĐỌC: mục 7.1, 7.2, 7.4, 9.3.1–9.3.4, 9.4",
+  "QĐ 4178/QĐ-BYT 2007 – Hướng dẫn chẩn đoán và điều trị bệnh tả – TL-0176 – ĐÃ ĐỌC: mục II.1a–c, II.2, IV.1",
+  "QĐ 5642/QĐ-BYT 2015 – Hướng dẫn chẩn đoán và điều trị một số bệnh truyền nhiễm – TL-0038 – ĐÃ ĐỌC: Bệnh lỵ trực khuẩn mục 3.1b–c, 3.2, 3.3a",
+  "WSES 2025 – Diagnosis and Treatment of Acute Appendicitis: 2025 Edition of the WSES Jerusalem Guidelines (JAMA Surg 2026;161(3):283-295) – TL-0053 – ĐÃ ĐỌC: Bảng 2, khuyến cáo 1–2 (điểm AIR, AAS, PAS)",
+  "WSES 2020 – Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines (World J Emerg Surg 2020;15:27) – TL-0263 – ĐÃ ĐỌC: Statement 1.5, 1.7, khuyến cáo 1.6.1, 1.14.1 và phần bình luận PAS",
+  "QĐ 4068 (Quy trình chuyên môn chẩn đoán, điều trị, chăm sóc tiêu chảy cấp ở trẻ em, kho cũ tltk-10000-ca, năm chưa xác định) – ĐÃ ĐỌC: ô [1], [7B], [8]",
+  "ESPGHAN 2023 (probiotic; TL-0258): dẫn theo sổ mâu thuẫn, không mở lại bản chữ trong ca này",
+  "Chỗ không có trong tài liệu đã tải: thay đổi thời tiết gây tiêu chảy; ảnh hưởng toàn thân của corticoid nhỏ mắt; quy định báo cáo ổ dịch tiêu chảy ở trường và thời gian nghỉ học; khoảng tham chiếu ure, creatinin, nhịp tim trẻ 8 tuổi; dạng bào chế kẽm"
+ ],
+ "phien_ban_ca": "1 – viết 2026-11-08",
+ "ghi_chu_bien_tap": [
+  "2026-11-08 – viết: Sonnet. Bản 1. Đặc tả sổ cái: nam 8 tuổi (học sinh), 1 lượt, điển hình, đòi kháng sinh, chỉ có xét nghiệm cơ bản, khởi phát thay đổi thời tiết, đang nhỏ mắt corticoid, lý do thật bạn bè có bệnh tương tự, kết cục ổn định khỏi bệnh; tả, lỵ trực trùng, viêm ruột thừa có trong chan_doan.",
+  "Tài liệu đã đọc: TL-0037 (Tiêu chảy cấp mục 1–6), TL-0250 (mục 5.1–5.4, Bảng 11–12, Chart 15), TL-0245 (khuyến cáo 1a, 2, 3a, 3c, 4a), TL-0268 (mục 7.1, 7.2, 7.4, 9.4), TL-0176 (mục II, IV.1), TL-0038 (Bệnh lỵ trực khuẩn mục 3), TL-0053 (Bảng 2), TL-0263 (Statement 1.5, 1.7, khuyến cáo 1.14.1), QĐ 4068 ô [1], [8].",
+  "Sổ mâu thuẫn đã tra và theo: 'TH-0630 và NH-0435' #1 kẽm (ghi cả 5 mg và 20 mg theo quy tắc ghi cả hai), #2 probiotic, #3 ondansetron/cầm tiêu, #4 không áp dụng (phân nước); 'NH-0466': mốc tái khám 2 và 5 ngày không phải mâu thuẫn. Không có mâu thuẫn mới.",
+  "Siêu âm khóa theo khoa_cls; abdus khai v='a' kèm thay_the='crp' là lựa chọn của biên tập viên (tài liệu đã tải không nêu CRP thay siêu âm).",
+  "Âm thanh tim, phổi: mạch 102 l/p dùng AT-TIM-NHANH-01, phổi AT-PHOI-BT-NL-01; chữ khám chỉ ghi tần số, không ghi đặc điểm tiếng.",
+  "Xét nghiệm trẻ em ghi bằng chữ (r), không dùng bang vì khoảng tham chiếu trong kho là của người lớn.",
+  "Không có ảnh da: không có dấu hiệu da then chốt."
+ ]
+}
