@@ -1,0 +1,775 @@
+{
+ "ma_ca": "TH-0437",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_gerd_hdv_du_lich_do_mot_phan",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trào ngược dạ dày thực quản (GERD)",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh mạch vành",
+   "Loét thực quản"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Hướng dẫn viên du lịch",
+  "yeu_to_khoi_phat": "Sau ăn đồ sống (gỏi cá)",
+  "thuoc_dang_dung": "Thuốc Đông y đắp ngoài da",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Thị Thu Hiền",
+  "tuoi": 48,
+  "gioi": "Nữ",
+  "nghe": "Hướng dẫn viên du lịch (dẫn tour trong nước, mỗi tháng 10–15 ngày đi xa)",
+  "can_nang": 61,
+  "chieu_cao": 155,
+  "xung_ho": "Bác sĩ gọi chị. Chị tự xưng 'tôi' hoặc 'chị', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói nhiều, duyên, quen nói trước đám đông nên lúc đầu kể bệnh như đang giới thiệu điểm đến, rất giữ hình ảnh trước khách. Thực ra mệt và nản: đã đi ba nơi, nơi nào cũng cho thuốc uống vài hôm rồi đâu lại vào đấy. Hiểu biết y khoa trung bình, hay nghe mách trong nghề.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: nơi một là phòng khám tư cho gói thuốc dạ dày; nơi hai là bệnh viện huyện cho omeprazol uống buổi tối 5 ngày; nơi ba là thầy lang cho thuốc đắp. Chị không mang đơn, nói 'chỗ nào cũng thuốc dạ dày, nghe quen quá rồi'. Hơi nghi ngờ, hay hỏi 'bác sĩ có khác mấy chỗ kia không?'. Tin lại khi bác sĩ nghe hết chuyện của chị, nói rõ lần này khác ở đâu và hẹn mốc cụ thể; dễ nản nếu bị bắt kể lại từ đầu hay nghe câu chung chung.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#dcae88",
+   "toc": "#2a1d16",
+   "kieuToc": "buoc",
+   "ao": "#b5586a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Nóng rát ngực sau ăn 5 tuần, đã khám ba nơi chưa khỏi",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Phòng khám không làm được xét nghiệm nào (không máu, không nước tiểu phòng xét nghiệm, không test H. pylori, không troponin); vì vậy cũng không có X-quang, CT, nội soi. Còn dùng được: ống nghe, huyết áp kế, nhiệt kế, cân, máy đo SpO₂, máy điện tim 12 chuyển đạo do điều dưỡng Linh làm. Bệnh viện huyện cách 16 km có nội soi dạ dày – thực quản trong giờ hành chính. Quyết định phải dựa vào hỏi bệnh, khám lâm sàng, điện tim và hẹn tái khám có mốc."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Đoàn Thị Thu Hiền, 48 tuổi, hướng dẫn viên du lịch, không có bệnh nền đã biết. Chiều thứ Hai, vừa về từ tour, chị đến vì nóng rát sau xương ức khoảng 5 tuần, đã khám ba nơi chưa khỏi. Sinh hiệu: HA 118/74 mmHg, mạch 74 l/p, SpO₂ 99%. Cân nặng 61 kg, cao 155 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Chị Hiền bị chuyển xe cấp cứu lên bệnh viện tỉnh vì 'đau ngực', trong khi cơn không liên quan gắng sức, đỡ khi ngồi dậy, không lan, cơn gần nhất cách hơn 20 giờ và điện tim bình thường. Chị mất cả ngày nghỉ tour, tốn tiền và càng tin rằng 'đi đâu cũng chỉ bị chuyển lên chuyển xuống'; dấu hiệu gọi cấp cứu thật (đau ngực > 15 phút hoặc tái lại trong 1 giờ: ESC 2023 mục 3.1.1) mới là điều cần dặn.",
+    "chuyen_tuyen": "Chị được giấy hẹn nội soi ngay tuần này mà chưa thử PPI. Chị không có dấu báo động (nuốt nghẹn, nuốt đau, sụt cân, xuất huyết); với triệu chứng điển hình và không dấu báo động, hướng dẫn là thử PPI 8 tuần trước (ACG 2022 chẩn đoán KC 1, KC 6). Chị phải nghỉ một tour, tốn kém, rồi vẫn về với đơn thuốc dạ dày giống ba nơi trước, thêm một lý do để bỏ dở."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đi ba chỗ rồi mà ngực vẫn nóng rát, chỗ nào cũng thuốc dạ dày, nghe quen quá rồi. Tôi nghề dẫn tour, ăn uống thất thường nên chắc vậy thôi. Bác sĩ cho tôi hỏi sao nó dai thế?",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "118/74",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nóng rát sau xương ức khoảng 5 tuần, đã khám ba nơi không khỏi hẳn. Chị nói 'chắc do ăn uống thất thường thôi'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Cảm giác nóng rát sau xương ức, chạy lên cổ, hay xuất hiện 30–60 phút sau bữa tối ăn muộn (21–22 giờ trong tour), khi nằm xuống hoặc cúi người lấy hành lý. Mỗi cơn 15–30 phút, đỡ khi ngồi dậy, uống nước hay dùng gói thuốc dạ dày. Không lan tay trái, hàm hay lưng, không vã mồ hôi, không khó thở, không hồi hộp. Cơn gần nhất tối qua khoảng 23 giờ, đã hơn 20 giờ. Một tuần có 4–5 đêm bị.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm cơn: ợ nóng theo tư thế và bữa ăn, không do tim"
+    },
+    {
+     "id": "gang_suc",
+     "noi_dung": "Dẫn đoàn đi bộ lên dốc, leo bậc thang chùa, kéo vali, mỗi ngày 8–10 nghìn bước; không tức ngực hay khó thở khi gắng sức, không phải dừng lại nghỉ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không liên quan gắng sức"
+    },
+    {
+     "id": "trao_nguoc",
+     "noi_dung": "Thật ra chị hay bị nước chua hoặc thức ăn trào lên tận họng, có lúc ra miệng khi cúi xuống hay nằm ngả ra sau trên xe; ợ hơi to, miệng có vị chua và hôi nên phải ngậm kẹo khi đứng cạnh khách. Chị ngại nói vì thấy 'mất duyên', sợ bị cho là bệnh ăn uống không biết giữ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có ợ chua không' thì chị đáp 'cũng có chút'. Chỉ kể đầy đủ khi bác sĩ hỏi rõ có nước chua hay thức ăn trào lên họng, miệng không, có bất tiện khi làm việc trước khách không, hoặc khi bác sĩ nói nhẹ nhàng đây là triệu chứng thường gặp, không phải lỗi của chị.",
+     "k": 1,
+     "y": "Triệu chứng điển hình thứ hai (trào ngược) bị giấu vì ngại"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không nuốt nghẹn, không nuốt đau, không nôn kéo dài, không nôn ra máu hay đi ngoài phân đen, không sốt. Cân nặng ổn 60–61 kg trong nửa năm nay, ăn vẫn ngon miệng. Chưa từng xét nghiệm hay nội soi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu báo động"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Khoảng 5 tuần trước, trong một tour miền biển, chị ăn tối muộn với đoàn có gỏi cá, uống thêm hai ly bia. Đêm đó bắt đầu nóng rát ngực, từ đó tái đi tái lại. Không đau bụng, không tiêu chảy, không sốt sau bữa đó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: ăn gỏi cá, bữa tối muộn"
+    },
+    {
+     "id": "noi_kham",
+     "noi_dung": "Nơi một (phòng khám tư, tuần 1): gói thuốc dạ dày dạng nước, đỡ vài giờ. Nơi hai (bệnh viện huyện, tuần 2): omeprazol, dặn uống buổi tối, chị uống 5 ngày thấy đỡ nên ngưng. Nơi ba (thầy lang, tuần 3): thuốc đắp và thuốc nam. Cả ba nơi đều không làm xét nghiệm hay nội soi, chị không giữ đơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều trị trước đó: PPI ngắn, uống tối, tự ngưng"
+    },
+    {
+     "id": "thuoc_dap",
+     "noi_dung": "Mỗi tối chị đắp bã thuốc Đông y (lá và muối rang, bà thầy lang gói sẵn) lên vùng ngực dưới và thượng vị khoảng 30 phút cho 'tan khí nóng'. Da hơi ngứa, đỏ nhẹ chỗ đắp. Không uống thuốc nam khác, không dùng thuốc giảm đau, không dùng kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng: thuốc Đông y đắp ngoài da"
+    },
+    {
+     "id": "nen",
+     "noi_dung": "Không tăng huyết áp, đái tháo đường hay rối loạn mỡ máu đã biết. Không hút thuốc. Bia rượu khi tiếp khách khoảng 1–2 ly mỗi tuần, thường vào tối cuối tour. Cà phê 2 ly mỗi sáng. Kinh nguyệt còn đều. Mẹ bị tăng huyết áp. Chưa dùng thuốc bổ hay thực phẩm chức năng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử, yếu tố nguy cơ"
+    }
+   ],
+   "kham": {
+    "tim": {
+     "a": "Tim đều 74 l/p, T1, T2 rõ, không âm thổi, không T3/T4.",
+     "k": 1,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn vùng thượng vị hơi khó chịu nhẹ, không đau khu trú, không phản ứng thành bụng, gan lách không to, không khối.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, niêm mạc hồng, không vàng da, không phù. BMI 25,4 kg/m², vòng bụng hơi tròn.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Ấn dọc xương ức và các sụn sườn không đau; xoay vai, cổ, hít sâu không gây đau ngực.",
+     "k": 1
+    },
+    "da": {
+     "a": "Vùng ngực dưới và thượng vị có mảng đỏ nhạt, hơi nóng, ranh giới không rõ, vài sẩn nhỏ khô, không mụn nước, không vảy, không loét, đúng vùng chị đắp thuốc mỗi tối. Da vùng khác bình thường.",
+     "k": 0,
+     "hien": "Mảng da hơi đỏ nhạt ở ngực dưới và thượng vị, không mụn nước."
+    },
+    "dau_mat_co": {
+     "a": "Họng không đỏ, amidan không to; không hạch cổ, không to tuyến giáp.",
+     "k": 0,
+     "hien": "Họng và hạch cổ khám bình thường."
+    },
+    "quan_sat_nuot": {
+     "a": "Uống từng ngụm nước, ăn miếng bánh mì mềm: nuốt dễ, không sặc, không vướng, thời gian trôi nhanh.",
+     "k": 1,
+     "hien": "Nuốt nước và bánh mì mềm dễ, không sặc."
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 74 l/p, trục bình thường, không ST chênh hay chênh xuống, sóng T bình thường, không sóng Q bệnh lý.",
+     "n": "Đau ngực phải có ECG, đọc trong 10 phút (ESC 2023 mục 3.2). ECG lúc hết cơn bình thường không loại trừ đau thắt ngực (ESC 2024, phần ECG nghỉ: ECG nghỉ thường bình thường sau cơn đau), nên kết luận phải dựa cả tính chất cơn."
+    },
+    "trop": {
+     "v": "e",
+     "r": "hs-troponin T 4 ng/L (ngưỡng < 14), nếu làm ở nơi có xét nghiệm.",
+     "thay_the": "ecg",
+     "n": "Phòng khám không có xét nghiệm. Cơn không liên quan gắng sức, đỡ khi ngồi dậy, cơn gần nhất cách > 20 giờ: không cần chuyển cấp cứu chỉ để lấy troponin; thay bằng ECG, tính chất cơn và dặn gọi cấp cứu (ESC 2023 mục 3.1.1, 3.2). Troponin không có trong đáp án bắt buộc."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không nội soi được; bệnh viện huyện làm trong giờ hành chính.)",
+     "n": "Chưa có chỉ định ngay: triệu chứng điển hình, không dấu báo động, nên thử PPI 8 tuần trước (ACG 2022 chẩn đoán KC 1, KC 6; VNAGE 2026 KC 3). Hẹn nội soi nếu đáp ứng chưa đủ sau 8 tuần."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày – thực quản (GERD) với ợ nóng và trào ngược điển hình, chẩn đoán lâm sàng chưa có bằng chứng khách quan; khởi phát sau bữa tối muộn có gỏi cá; chưa có dấu báo động",
+     "ok": 1,
+     "n": "Ợ nóng, trào chua theo bữa ăn và tư thế, đỡ khi ngồi dậy; ECG bình thường (VNAGE 2026 KC 1; Lyon 2.0 Bảng 2). Thử PPI và bảng câu hỏi chưa đủ để chẩn đoán xác định (VNAGE 2026 KC 2); bằng chứng khách quan cần LA B trở lên, Barrett, hẹp hoặc AET > 6% (VNAGE 2026 KC 6)."
+    },
+    {
+     "t": "Bệnh mạch vành (hội chứng vành cấp, đau thắt ngực ổn định)",
+     "n": "Phải loại trừ vì đau ngực ở người 48 tuổi. Cơn không liên quan gắng sức dù đi bộ 8–10 nghìn bước/ngày, đỡ khi ngồi dậy, không lan, không vã mồ hôi: điểm triệu chứng 0–1 (ESC 2024 Hình 4); ECG bình thường; cơn gần nhất cách > 20 giờ. Không có troponin nên dựa vào tính chất cơn và dặn gọi cấp cứu (ESC 2023 mục 3.1.1)."
+    },
+    {
+     "t": "Loét thực quản, viêm thực quản nặng hoặc biến chứng (hẹp, Barrett)",
+     "n": "Không nuốt nghẹn, nuốt đau, nôn máu, phân đen, sụt cân; nuốt thử bình thường; mới 5 tuần, tuổi < 50, không hút thuốc. Dấu báo động là chỉ định nội soi trước (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3); ở đây chưa có. Biến chứng nặng ít gặp ở Việt Nam (VNAGE 2026 KC 4). Hẹn nội soi nếu đáp ứng chưa đủ."
+    },
+    {
+     "t": "Viêm loét dạ dày – tá tràng, nhiễm H. pylori",
+     "n": "Cơn theo tư thế và bữa ăn, không đau thượng vị lúc đói; bụng không đau khu trú. Phòng khám không có test H. pylori. Test H. pylori phải làm sau ngưng PPI ≥ 2 tuần (VNAGE 2023 Statement 6, TL-0179); không có chỉ định thử ngay lúc này."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi kỹ tính chất cơn (gắng sức, lan, vã mồ hôi, đỡ khi nào, lần gần nhất), khám tim phổi và làm ECG trước khi quy cho trào ngược",
+     "v": "c",
+     "n": "Đau ngực phải loại trừ tim trước (ESC 2023 mục 3.1.1, 3.2); ACG 2022 (chẩn đoán KC 4) chỉ coi đau ngực là do thực quản sau khi đã loại trừ tim."
+    },
+    {
+     "t": "Hỏi dấu hiệu báo động (nuốt nghẹn, nuốt đau, nôn kéo dài, sụt cân, nôn ra máu, phân đen, thiếu máu) và cho nuốt thử",
+     "v": "c",
+     "n": "Có dấu báo động thì nội soi trước (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3)."
+    },
+    {
+     "t": "Hỏi riêng, nhẹ nhàng, về nước chua hay thức ăn trào lên họng, miệng; giải thích đó là triệu chứng thường gặp, không phải lỗi của chị",
+     "v": "c",
+     "n": "Trào ngược cùng ợ nóng là hai triệu chứng điển hình (VNAGE 2026 KC 1; Lyon 2.0 Bảng 2). Người ngại nói thì cần câu hỏi cụ thể và giọng không phán xét (nhận định của tác giả ca)."
+    },
+    {
+     "t": "Thử omeprazol 20 mg × 1 lần/ngày, uống 30–60 phút trước bữa sáng, đủ 8 tuần; không uống buổi tối",
+     "v": "c",
+     "n": "ACG 2022 chẩn đoán KC 1 (8 tuần, 1 lần/ngày trước bữa ăn), điều trị KC 8 (30–60 phút trước bữa, không phải lúc đi ngủ); VNAGE 2026 KC 13, 15 (4–8 tuần); liều omeprazol 20 mg: VNAGE 2024 Bảng 4. Uống buổi tối chấm a (mục 'Thời điểm uống PPI' trong sổ mâu thuẫn)."
+    },
+    {
+     "t": "Lối sống: ăn tối cách giờ nằm 2–3 giờ, tránh bữa ăn khuya và ăn no rồi nằm trên xe, kê cao đầu giường nơi nghỉ, bớt cà phê, bia, thức ăn hay gây rát, giảm cân dần",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 1–4 (giảm cân, tránh ăn trong 2–3 giờ trước khi nằm, tránh thức ăn khởi phát), KC 5 (kê cao đầu giường); VNAGE 2026 KC 12. Với bia rượu: ACG 2022 Bảng 3 ghi bằng chứng yếu, VNAGE 2026 khuyên giảm rồi bỏ; ghi theo mục 'Rượu bia trong lối sống của GERD' (đáp án giảm rồi bỏ; không dặn bỏ chấm a)."
+    },
+    {
+     "t": "Không nội soi ngay; hẹn tái khám sau 4 tuần và đánh giá tại tuần 8, hẹn nội soi nếu đáp ứng chưa đủ",
+     "v": "c",
+     "n": "Triệu chứng điển hình, không dấu báo động: thử PPI 8 tuần trước (ACG 2022 chẩn đoán KC 1, KC 6); nội soi khi không đáp ứng đủ sau 8 tuần (ACG 2022 chẩn đoán KC 3; VNAGE 2026 KC 3). VNAGE 2023 khuyến cáo nội soi cho nữ > 35 tuổi có khó tiêu (nêu trong VNAGE 2026 KC 3, phần thảo luận): nội soi sớm không khẩn chấm a, không phải cấp cứu."
+    },
+    {
+     "t": "Dặn gọi cấp cứu ngay nếu đau ngực kéo dài > 15 phút hoặc tái lại trong 1 giờ, vã mồ hôi, khó thở, ngất; quay lại sớm nếu nuốt nghẹn, nuốt đau, nôn, phân đen, sụt cân",
+     "v": "c",
+     "n": "ESC 2023 mục 3.1.1 (đau ngực > 15 phút hoặc tái lại trong 1 giờ); dấu báo động tiêu hóa: ACG 2022 chẩn đoán KC 6."
+    },
+    {
+     "t": "Xem vùng da đắp thuốc, dặn ngưng đắp khi da đỏ ngứa, giải thích đắp ngoài da không làm giảm acid trào",
+     "v": "c",
+     "n": "Tác dụng của thuốc đắp Đông y lên trào ngược hay kích ứng da: không có trong tài liệu đã tải; dặn ngưng đắp để tránh viêm da là nhận định của tác giả ca."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện ngay vì đau ngực",
+     "v": "w",
+     "n": "Cơn không điển hình tim, ECG bình thường, cơn gần nhất cách > 20 giờ; chuyển cấp cứu không cần (ESC 2023 mục 3.1.1)."
+    },
+    {
+     "t": "Gửi nội soi ngay tuần này, không thử PPI",
+     "v": "a",
+     "n": "Không dấu báo động nên thử PPI trước (ACG 2022 chẩn đoán KC 1, 6); nội soi sớm, không khẩn là chấp nhận được vì nữ 48 tuổi (VNAGE 2023 qua VNAGE 2026 KC 3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trào ngược dạ dày – thực quản (GERD), triệu chứng điển hình (ợ nóng, trào ngược), 4–5 đêm/tuần, chẩn đoán lâm sàng chưa xác định bằng nội soi",
+     "Yếu tố khởi phát và làm nặng: bữa tối muộn có gỏi cá và bia, ăn no rồi nằm trên xe, cà phê, BMI 25,4 kg/m²",
+     "Đã loại trừ hội chứng vành cấp trên lâm sàng và ECG (không có troponin tại phòng khám)",
+     "Không có dấu báo động tiêu hóa; hẹn đánh giá đáp ứng sau 8 tuần để quyết định nội soi",
+     "Viêm da kích ứng nhẹ vùng đắp thuốc Đông y; chị đã khám ba nơi, dùng PPI ngắn, uống tối rồi tự ngưng"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: ban đầu chị chỉ kể 'nóng rát, ợ chua chút'. Phải hỏi riêng về nước chua, thức ăn trào lên họng và ảnh hưởng khi làm việc thì chị mới nói. Ợ nóng cùng trào ngược là hai triệu chứng điển hình (VNAGE 2026 KC 1; Lyon 2.0 Bảng 2); xuất hiện sau bữa tối muộn, khi nằm hay cúi, đỡ khi ngồi dậy. Ba nơi trước chưa cho chị thử PPI đúng cách (ngắn 5 ngày, uống tối, tự ngưng).",
+     "Khám: tim phổi, bụng, họng, thành ngực bình thường; nuốt thử bình thường; mảng đỏ nhạt đúng vùng đắp thuốc. Cận lâm sàng: ECG bình thường (ESC 2023 mục 3.2). Phòng khám không có xét nghiệm nên không có troponin; cơn không liên quan gắng sức, đỡ khi ngồi dậy, cơn gần nhất cách > 20 giờ: điểm triệu chứng 0–1 (ESC 2024 Hình 4). ECG nghỉ có thể bình thường sau cơn đau thắt ngực (ESC 2024, phần ECG nghỉ) nên phải dặn kỹ dấu hiệu gọi cấp cứu.",
+     "Loại trừ: bệnh mạch vành (tính chất cơn, ECG, dặn gọi cấp cứu); loét thực quản và biến chứng (không dấu báo động, hẹn nội soi nếu không đáp ứng đủ); viêm loét dạ dày – tá tràng do H. pylori (không có test tại đây, test sau khi ngưng PPI ≥ 2 tuần: VNAGE 2023 Statement 6).",
+     "Đây là chẩn đoán lâm sàng, chưa phải GERD xác định: thử PPI và bảng câu hỏi chưa đủ (VNAGE 2026 KC 2); cần LA B trở lên, Barrett, hẹp hoặc AET > 6% (VNAGE 2026 KC 6; Lyon 2.0 Bảng 2). Nhiều bệnh nhân GERD ở Việt Nam là thể không viêm (NERD), đáp ứng PPI kém hơn thể viêm (VNAGE 2026 KC 4, 15)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về: ECG bình thường, không dấu báo động, ổn định. Giảm nguy cơ bỏ sót hội chứng vành bằng hỏi kỹ, ECG, dặn gọi cấp cứu bằng văn bản (ESC 2023 mục 3.1.1); không cần chuyển cấp cứu vì cơn không điển hình tim.",
+     "PPI: omeprazol 20 mg × 1 lần/ngày, 30–60 phút trước bữa sáng, 8 tuần (ACG 2022 chẩn đoán KC 1, điều trị KC 8; VNAGE 2026 KC 13, 15; VNAGE 2024 Bảng 4). QĐ 361/2014 (Phụ lục NSAID mục 3.3) ghi uống tối; ACG 2022 mới hơn và bàn đúng về GERD nên đáp án theo ACG, uống tối chấm a. VNAGE 2026 khuyến cáo 4–8 tuần cho NERD (KC 15), ACG 8 tuần: ca chọn 8 tuần vì 4 tuần có thể chưa đủ để đánh giá đáp ứng ở NERD (VNAGE 2026 KC 15, phần thảo luận).",
+     "Lối sống là một nửa điều trị: ăn tối cách giờ nằm 2–3 giờ, kê cao đầu giường, bớt cà phê, bia, thức ăn gây rát, giảm cân dần (ACG 2022 điều trị KC 1–5; VNAGE 2026 KC 12). Với chị, bữa tối do đoàn quyết định, nên cần kế hoạch cụ thể (ăn nhẹ bữa tối, lấy phần trước khi lên xe).",
+     "Nội soi không khẩn: ngưng PPI 2–4 tuần trước khi soi nếu đến lúc cần (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2). Chưa soi lúc này vì chưa dấu báo động (ACG 2022 chẩn đoán KC 1, 6; VNAGE 2026 KC 3).",
+     "Niềm tin: đây là lần khám thứ tư của chị (nhận định của tác giả ca). Nói rõ lần này khác ba lần trước ở đâu (PPI đúng giờ, đủ 8 tuần, có mốc kiểm tra) và hẹn mốc cụ thể thay vì cho thuốc rồi thôi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước bữa sáng (kể cả ngày đi tour, uống trước khi ăn sáng ở khách sạn)",
+      "so_ngay": "8 tuần, đánh giá lại ở tuần 4 và tuần 8",
+      "ghi_chu": "ACG 2022 chẩn đoán KC 1, điều trị KC 8; VNAGE 2026 KC 13, 15; liều: VNAGE 2024 Bảng 4. Uống tối và ngưng sớm khi đỡ là lý do ba nơi trước thất bại (nhận định của tác giả ca)."
+     },
+     {
+      "thuoc": "Thuốc kháng acid hoặc alginat dạng gói (loại chị đang dùng)",
+      "ham_luong": "Theo nhãn thuốc",
+      "lieu": "Khi có cơn, tối đa theo nhãn",
+      "duong": "Uống",
+      "thoi_diem": "Khi rát, sau ăn hoặc trước khi nằm",
+      "so_ngay": "Khi cần, trong lúc PPI chưa phát huy tác dụng",
+      "ghi_chu": "Giảm triệu chứng khi cần (VNAGE 2026 KC 14). Liều alginat và kháng acid: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống omeprazol 20 mg mỗi sáng 30–60 phút trước bữa ăn đầu tiên trong ngày, đủ 8 tuần, không bỏ giữa chừng khi thấy đỡ (ACG 2022 điều trị KC 8). Đặt báo thức, để vỉ thuốc trong túi xách để mang theo tour.",
+     "Ăn tối cách giờ nằm 2–3 giờ, ngày đi tour ăn nhẹ bữa tối; kê cao đầu giường, không nằm ngả ra sau ngay sau bữa ăn; bớt cà phê, bia, thức ăn hay gây rát; giảm cân dần (ACG 2022 điều trị KC 1–5; VNAGE 2026 KC 12).",
+     "Ngưng đắp thuốc lên da khi da đỏ ngứa; thuốc đắp không làm giảm trào ngược (tác dụng: không có trong tài liệu đã tải).",
+     "Gọi cấp cứu ngay nếu đau ngực kéo dài > 15 phút hoặc tái lại trong 1 giờ, vã mồ hôi, khó thở, ngất (ESC 2023 mục 3.1.1); quay lại sớm nếu nuốt nghẹn, nuốt đau, nôn, phân đen, sụt cân (ACG 2022 chẩn đoán KC 6).",
+     "Tái khám sau 4 tuần, mang theo vỉ thuốc đang uống và ghi số đêm bị rát mỗi tuần; hết 8 tuần sẽ bàn nội soi nếu chưa hết triệu chứng (ACG 2022 chẩn đoán KC 3)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 (tuần 4)",
+   "tiep_don": "Chị Hiền tái khám đúng 4 tuần sau lượt 1, chiều thứ Hai, vừa dẫn xong một tour 3 ngày. Chị nói 'đỡ được một nửa thôi bác sĩ, chưa hết'. Cân nặng 60,5 kg. Sinh hiệu: HA 116/72 mmHg, mạch 72 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chị Hiền bị gửi đi nội soi ngay ở tuần 4 vì 'chưa hết hẳn'. Chị đang uống PPI nên niêm mạc có thể được che lấp (ACG 2022, phần Endoscopy: nên soi sau ngưng PPI 2–4 tuần), trong khi mốc đánh giá là sau 8 tuần PPI đúng cách (ACG 2022 chẩn đoán KC 3). Chị mất một buổi và tiền đi bệnh viện huyện, kết quả ít giá trị, và càng tin 'chỗ nào cũng chỉ chuyển đi'.",
+    "nhap_vien": "Chị bị giữ nhập viện theo dõi vì 'chưa đỡ', dù sinh hiệu ổn, không dấu báo động và cân nặng không sụt. Chị mất cả tuần dẫn tour, tốn chi phí, trong khi cái cần sửa là cách uống thuốc: bỏ liều những ngày đi tour và uống sau khi ăn. Tuân thủ kém xảy ra ở 20–50% bệnh nhân GERD và phải kiểm tra trước khi tăng thuốc (VNAGE 2026 KC 17, phần thảo luận)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi uống thuốc rồi, đỡ được một nửa, vẫn còn rát mấy đêm. Chắc thuốc này cũng như mấy chỗ kia thôi nhỉ? Tour vừa rồi tôi mệt nên thấy nặng lại.",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "116/72",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nóng rát giảm khoảng một nửa so với 4 tuần trước; vẫn bị rát và trào chua. Chị nói 'chắc thuốc cũng như mấy chỗ kia'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần ở tuần 4"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Còn 3 đêm/tuần thức giấc vì rát hoặc nước chua lên họng, phải ngồi dậy uống nước; ngày thường ít rát hơn; ngày đi tour vẫn bị sau bữa tối. Dùng 1 gói thuốc kháng acid cho mỗi 2 ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức triệu chứng còn lại"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Trong 28 ngày chị bỏ thuốc 6 ngày, đều là ngày đi tour: dậy 4 giờ 30, ăn sáng trên xe hoặc ăn vội ở khách sạn rồi mới nhớ uống, và ngại lấy thuốc ra trước khách vì sợ bị hỏi 'cô bị bệnh gì'. Những ngày ở nhà chị uống đúng 30–60 phút trước bữa sáng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống đều không' thì chị đáp 'đều, đều'. Chỉ kể đúng khi bác sĩ hỏi cụ thể: trong 4 tuần quên mấy ngày, ngày đi tour uống lúc nào so với bữa sáng, ngày nào tệ nhất, có ngại uống thuốc trước khách không, và nói rõ hỏi để chỉnh cách uống chứ không trách.",
+     "k": 1,
+     "y": "Tuân thủ kém vào ngày tour, uống sai thời điểm"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Chị đã kê thêm một gối ở nhà, bỏ bia, giảm cà phê còn 1 ly. Trong tour vẫn ăn tối 21–22 giờ cùng đoàn, ăn no vì phải 'giữ lịch sự', rồi ngồi xe về khách sạn; ngày tour còn uống nước ngọt có ga.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lối sống: làm được ở nhà, không làm được ngày tour"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không nuốt nghẹn, không nuốt đau, không nôn, không phân đen, không sụt cân (60,5 kg), ăn ngon miệng. Không còn đau ngực kiểu bóp nghẹt; không có cơn nào khi gắng sức.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu báo động mới"
+    },
+    {
+     "id": "nhieu",
+     "noi_dung": "Chị hỏi 'uống mãi có hại không, hay thôi cho khỏe' vì nghe đồng nghiệp nói thuốc dạ dày uống lâu hại thận, loãng xương.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lo ngại về PPI do nghe mách"
+    }
+   ],
+   "kham": {
+    "tim": {
+     "a": "Tim đều 72 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 72 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn thượng vị không đau, không phản ứng thành bụng, gan lách không to, không khối.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, không vàng da. Cân nặng 60,5 kg (giảm nhẹ 0,5 kg, không phải sụt cân không chủ ý).",
+     "k": 1
+    },
+    "da": {
+     "a": "Vùng ngực dưới và thượng vị da đã lành, không còn mảng đỏ.",
+     "k": 0,
+     "hien": "Da vùng ngực dưới và thượng vị bình thường."
+    },
+    "quan_sat_nuot": {
+     "a": "Uống nước và ăn miếng bánh mì mềm: nuốt dễ, không sặc, không vướng.",
+     "k": 0,
+     "hien": "Nuốt nước và bánh mì mềm dễ."
+    }
+   },
+   "cls": {
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không nội soi được; bệnh viện huyện làm trong giờ hành chính.)",
+     "n": "Chưa soi ở tuần 4: đang dùng PPI, chưa đủ 8 tuần, chưa dấu báo động (ACG 2022 chẩn đoán KC 3, phần Endoscopy; VNAGE 2026 KC 3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày – thực quản (GERD) điển hình đáp ứng một phần PPI sau 4 tuần, do tuân thủ và thời điểm uống chưa tối ưu; chưa có dấu báo động",
+     "ok": 1,
+     "n": "Đỡ khoảng một nửa, bỏ 6/28 liều vào ngày tour, uống sau ăn khi nhớ. Đỡ một phần ở tuần 4 là thường gặp: ở NERD tỉ lệ đáp ứng sau 4 tuần chỉ 37% so với 56% ở viêm thực quản (VNAGE 2026 KC 15, phần thảo luận); tối ưu hóa PPI là bước đầu (ACG 2022 GERD kháng trị KC 1; VNAGE 2026 KC 17). Chưa gọi là kháng trị vì chưa tối ưu và chưa đủ 8 tuần."
+    },
+    {
+     "t": "Thất bại điều trị PPI hoặc chẩn đoán sai (đau do tim, loét, bệnh thực quản khác)",
+     "n": "Cần nghĩ nhưng chưa đủ cơ sở: đáp ứng một phần với PPI chưa tối ưu, không đau ngực khi gắng sức, không dấu báo động, cân ổn. Đáp ứng PPI không loại trừ nguyên nhân khác nhưng không có yếu tố nào mới để đổi hướng (VNAGE 2026 KC 2, KC 17)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi cụ thể mức còn lại (đêm thức, số gói thuốc) và tuân thủ: quên mấy ngày, uống lúc nào so với bữa sáng, ngày đi tour ra sao",
+     "v": "c",
+     "n": "Tuân thủ kém gặp ở 20–50% bệnh nhân GERD; phải kiểm tra tuân thủ và lối sống trước khi tăng thuốc (VNAGE 2026 KC 17, phần thảo luận; ACG 2022 GERD kháng trị, mục Optimization of PPI Therapy)."
+    },
+    {
+     "t": "Tiếp tục omeprazol 20 mg × 1 lần/ngày, 30–60 phút trước bữa ăn đầu tiên trong ngày, cho đủ 8 tuần; chưa tăng liều, chưa đổi thuốc",
+     "v": "c",
+     "n": "Tối ưu hóa PPI là bước đầu: kiểm tra tuân thủ, uống 30–60 phút trước bữa ăn đầu tiên (ACG 2022 GERD kháng trị KC 1; VNAGE 2026 KC 17). Tăng PPI lên 2 lần/ngày chấm a (mục 'Thêm alginat khi PPI mới đáp ứng một phần' và nhận định VNAGE 2026 KC 17)."
+    },
+    {
+     "t": "Làm kế hoạch cho ngày đi tour: thuốc để trong túi nhỏ, uống ngay khi thức dậy trước bữa sáng, báo thức, ăn nhẹ bữa tối cách giờ nằm 2–3 giờ, tránh nước có ga",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 2, KC 8; VNAGE 2026 KC 12. Cách thực hiện cho nghề dẫn tour: nhận định của tác giả ca."
+    },
+    {
+     "t": "Giải thích về thuốc: uống đúng cách thì mới biết thuốc có hợp không; nghe nói uống lâu có hại thì hẹn mốc 8 tuần, sau đó dùng liều thấp nhất kiểm soát được hoặc uống khi cần",
+     "v": "c",
+     "n": "Dùng liều thấp nhất kiểm soát triệu chứng (ACG 2022 điều trị KC 10); thử ngưng hoặc dùng khi cần ở người không viêm thực quản (ACG 2022 điều trị KC 9, KC 16). Các nguy cơ dùng PPI dài hạn: không có trong phần đã đọc, chỉ nêu ở mức chung."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần (đủ 8 tuần), nói rõ nếu còn triệu chứng sẽ gửi nội soi sau ngưng PPI",
+     "v": "c",
+     "n": "ACG 2022 chẩn đoán KC 3; VNAGE 2026 KC 3; Lyon 2.0 Bảng 2 (nội soi 2–4 tuần sau ngưng PPI)."
+    },
+    {
+     "t": "Dặn lại dấu hiệu gọi cấp cứu và dấu báo động; khám bụng, cân nặng",
+     "v": "c",
+     "n": "ESC 2023 mục 3.1.1; ACG 2022 chẩn đoán KC 6."
+    },
+    {
+     "t": "Thêm gói alginat hoặc kháng acid khi có cơn rát",
+     "v": "a",
+     "n": "VNAGE 2026 KC 14 và phần thảo luận KC 17 (alginat phối hợp PPI khi đáp ứng một phần); ACG 2022 điều trị KC 11 khuyên không thêm thường quy cho người không đáp ứng. Hai nguồn khác bối cảnh, không nguồn nào nói cách kia gây hại; liều alginat: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng omeprazol lên 2 lần/ngày ngay hoặc đổi sang P-CAB",
+     "v": "a",
+     "n": "VNAGE 2026 KC 17: đánh giá tối ưu hóa và tuân thủ trước khi tăng liều hay đổi thuốc; KC 18: P-CAB là lựa chọn. Làm trước khi kiểm tra tuân thủ là sớm, nhưng không gây hại."
+    },
+    {
+     "t": "Gửi nội soi ngay hoặc nhập viện vì đỡ chưa hết",
+     "v": "w",
+     "n": "Đang dùng PPI chưa đủ 8 tuần, không dấu báo động, ổn định; soi lúc này ít giá trị (ACG 2022, phần Endoscopy)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trào ngược dạ dày – thực quản (GERD) điển hình, đáp ứng một phần PPI ở tuần 4, chưa đủ 8 tuần",
+     "Nguyên nhân chưa tối ưu: bỏ 6/28 liều vào ngày tour, uống PPI sau ăn khi nhớ, ăn tối khuya và no, nước có ga",
+     "Không có dấu báo động; cân nặng ổn; không đau ngực gắng sức",
+     "Lo ngại về tác hại của thuốc, niềm tin còn yếu sau ba nơi trước"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: ban đầu chị nói 'đều, đều'. Chỉ khi hỏi cụ thể từng ngày đi tour thì mới biết chị bỏ 6 liều và uống sau ăn vì ngại lấy thuốc ra trước khách. Tuân thủ kém xảy ra ở 20–50% bệnh nhân GERD (VNAGE 2026 KC 17, phần thảo luận).",
+     "Khám và cận lâm sàng: bụng không đau, cân ổn, nuốt bình thường, da lành; phòng khám không có xét nghiệm. Đỡ một phần ở tuần 4 là bình thường: NERD đáp ứng sau 4 tuần chỉ 37% so với 56% ở viêm thực quản, nên 4 tuần có thể chưa đủ để đánh giá (VNAGE 2026 KC 15, phần thảo luận).",
+     "Chưa phải GERD kháng trị: định nghĩa cần triệu chứng dai dẳng dù điều trị đã tối ưu ở người có bằng chứng khách quan (VNAGE 2026 KC 10); chị chưa tối ưu và chưa có bằng chứng khách quan. Bước đầu là tối ưu hóa PPI (ACG 2022 GERD kháng trị KC 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, tiếp tục omeprazol đủ 8 tuần sau khi sửa cách uống: 30–60 phút trước bữa ăn đầu tiên trong ngày, kiểm tra tuân thủ (ACG 2022 GERD kháng trị KC 1 và mục Optimization of PPI Therapy; VNAGE 2026 KC 17). Trong nghiên cứu được ACG trích, nhóm kiểm soát tốt dùng PPI 84% số ngày, nhóm kiểm soát kém chỉ 55% số ngày.",
+     "Chưa tăng liều, chưa đổi thuốc, chưa thêm thuốc thường quy: ACG 2022 điều trị KC 11 khuyên không thêm thường quy cho người không đáp ứng, VNAGE 2026 KC 17 yêu cầu tối ưu hóa trước. Alginat khi có cơn và PPI 2 lần/ngày chấm a (xem sổ mâu thuẫn, mục thêm alginat).",
+     "Chưa nội soi: đang dùng PPI, chưa đủ 8 tuần, không dấu báo động (ACG 2022 chẩn đoán KC 3; VNAGE 2026 KC 3). Hẹn rõ mốc: nếu hết 8 tuần còn triệu chứng thì ngưng PPI 2 tuần rồi nội soi.",
+     "Niềm tin: ghi nhận chị đã làm đúng ở nhà (kê gối, bỏ bia); nói rõ chỗ chưa đúng là ngày tour, không trách; giải đáp nỗi lo thuốc bằng mốc 8 tuần rồi giảm liều thấp nhất (ACG 2022 điều trị KC 9, KC 10)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước bữa ăn đầu tiên trong ngày, kể cả ngày đi tour",
+      "so_ngay": "Tiếp tục thêm 4 tuần cho đủ 8 tuần",
+      "ghi_chu": "ACG 2022 GERD kháng trị KC 1 (tối ưu hóa), điều trị KC 8; VNAGE 2026 KC 15, 17; liều: VNAGE 2024 Bảng 4. Giữ nguyên liều, sửa cách uống."
+     },
+     {
+      "thuoc": "Thuốc kháng acid hoặc alginat dạng gói (loại chị đang dùng)",
+      "ham_luong": "Theo nhãn thuốc",
+      "lieu": "Khi có cơn, tối đa theo nhãn",
+      "duong": "Uống",
+      "thoi_diem": "Khi rát, sau ăn hoặc trước khi nằm",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "VNAGE 2026 KC 14, KC 17 (phần thảo luận). Liều alginat và kháng acid: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Để vỉ thuốc trong túi nhỏ bỏ vào túi xách; uống ngay khi dậy, trước bữa ăn đầu tiên 30–60 phút, kể cả ngày đi tour. Không cần giải thích với khách, có thể uống ở phòng khách sạn (ACG 2022 điều trị KC 8).",
+     "Ngày tour: ăn nhẹ bữa tối, chừa phần lại, không nằm ngả ra sau ngay sau bữa ăn, tránh nước có ga; ở nhà tiếp tục kê gối, hạn chế cà phê (ACG 2022 điều trị KC 2, KC 5; VNAGE 2026 KC 12).",
+     "Ghi vào sổ mỗi tối: có rát không, có uống thuốc sáng hôm đó không; mang sổ khi tái khám.",
+     "Gọi cấp cứu ngay nếu đau ngực > 15 phút hoặc tái lại trong 1 giờ, vã mồ hôi, khó thở (ESC 2023 mục 3.1.1); quay lại sớm nếu nuốt nghẹn, nuốt đau, nôn, phân đen, sụt cân (ACG 2022 chẩn đoán KC 6).",
+     "Tái khám sau 4 tuần (hết 8 tuần); nếu còn triệu chứng sẽ ngưng thuốc 2 tuần rồi đi nội soi (ACG 2022 chẩn đoán KC 3)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 (tuần 8)",
+   "tiep_don": "Chị Hiền tái khám tròn 8 tuần kể từ lượt 1, sáng thứ Ba, trước chuyến tour kế tiếp hai ngày. Chị đã uống omeprazol theo hẹn và mang theo sổ ghi triệu chứng, hôm qua vừa hết vỉ cuối. Chị nói 'đỡ nhiều rồi nhưng chưa hết hẳn, bác sĩ cho tôi hỏi giờ làm sao?'. Cân nặng 60 kg. Sinh hiệu: HA 114/72 mmHg, mạch 70 l/p, SpO₂ 99%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Chị Hiền được cho thêm một vỉ omeprazol rồi hẹn tái khám tháng sau, không giấy nội soi. Chị là người có triệu chứng điển hình chưa đáp ứng đủ sau 8 tuần PPI, và hướng dẫn là nội soi sau ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3; VNAGE 2026 KC 3). Chị tiếp tục uống PPI mù quáng, vẫn không biết mình có viêm thực quản hay không, đã khám bốn lần mà vẫn 'chưa biết bệnh gì', dễ bỏ thuốc và mất niềm tin lần nữa.",
+    "nhap_vien": "Chị bị giữ nhập viện để nội soi và theo dõi, dù sinh hiệu ổn, không dấu báo động, cân nặng ổn và nội soi không cần khẩn. Chị mất cả tuần dẫn tour, tốn chi phí, và vẫn phải ngưng PPI 2–4 tuần trước khi soi mới có giá trị chẩn đoán cao (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi uống thuốc đủ tám tuần rồi, thấy đỡ nhiều nhưng chưa hết hẳn. Tôi sắp dẫn tour nên muốn biết có phải uống thuốc mãi không, hay còn phải làm gì nữa?",
+   "sinh_hieu": {
+    "mach": 70,
+    "ha": "114/72",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đỡ khoảng 70% so với lúc đầu nhưng chưa hết hẳn; vẫn còn nóng rát và trào chua.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng chưa đủ sau 8 tuần"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Còn 2 đêm/tuần rát ngực hoặc nước chua lên họng, trào chua nhẹ khoảng 3 lần/tuần sau bữa tối; không thức giấc 4–5 đêm như ban đầu. Mỗi ngày dùng 1 gói kháng acid khi có cơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức triệu chứng còn lại sau 8 tuần"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Trong 56 ngày chị bỏ 4 ngày; mang theo vỉ thuốc và sổ ghi cho thấy 52 ngày uống đúng, trước bữa ăn đầu tiên trong ngày, kể cả ngày tour, sau khi để vỉ thuốc trong túi. Chị đã bớt ngại vì 'tôi nghĩ thuốc là thuốc, có gì mà giấu'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ tốt: đáp ứng chưa đủ không phải do bỏ thuốc"
+    },
+    {
+     "id": "tai_phat",
+     "noi_dung": "Chị từng quên uống 2 ngày liền thì ngày thứ hai nóng rát trở lại ngay, rõ như lúc chưa uống thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng quay lại khi ngưng thuốc"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Vẫn không nuốt nghẹn, nuốt đau, nôn, phân đen, sụt cân. Không đau ngực kiểu bóp nghẹt hay khi gắng sức. Ăn ngon miệng. Cân nặng 60 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu báo động"
+    },
+    {
+     "id": "lo_ngai",
+     "noi_dung": "Nếu bác sĩ đề nghị nội soi chị sợ phải nghỉ tour vì lịch kín cả tháng, và sợ nôn, sợ đau khi ống đi qua họng. Chị hỏi 'có cách nào soi mà không đau không, soi xong có đi làm được ngay không'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lo ngại về nội soi"
+    }
+   ],
+   "kham": {
+    "tim": {
+     "a": "Tim đều 70 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 70 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn thượng vị không đau, không phản ứng thành bụng, gan lách không to, không khối.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, không vàng da. Cân nặng 60 kg, ổn định so với 60,5 kg ở lượt 2.",
+     "k": 1
+    },
+    "quan_sat_nuot": {
+     "a": "Uống nước và ăn miếng bánh mì mềm: nuốt dễ, không sặc, không vướng.",
+     "k": 1,
+     "hien": "Nuốt nước và bánh mì mềm dễ."
+    }
+   },
+   "cls": {
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không nội soi được; bệnh viện huyện cách 16 km làm trong giờ hành chính.)",
+     "n": "Chỉ định không khẩn: triệu chứng điển hình chưa đáp ứng đủ sau 8 tuần PPI tuân thủ tốt, triệu chứng quay lại khi quên thuốc (ACG 2022 chẩn đoán KC 3; VNAGE 2026 KC 3). Làm sau ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày – thực quản (GERD) điển hình đáp ứng chưa đủ sau 8 tuần PPI tuân thủ tốt, chưa có bằng chứng khách quan; cần nội soi",
+     "ok": 1,
+     "n": "Đỡ khoảng 70%, tuân thủ 52/56 ngày, triệu chứng quay lại ngay khi quên thuốc, không dấu báo động. Triệu chứng điển hình không đáp ứng đủ sau 8 tuần hoặc quay lại khi ngưng PPI: nội soi, tốt nhất sau ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3; VNAGE 2026 KC 3; Lyon 2.0 Bảng 2). Chưa gọi là GERD kháng trị vì chưa có bằng chứng khách quan (VNAGE 2026 KC 10)."
+    },
+    {
+     "t": "Bệnh mạch vành",
+     "n": "Đã loại trừ ở lượt 1 (tính chất cơn, ECG); hai lượt sau không có đau ngực gắng sức hay triệu chứng mới. Nếu có đau ngực mới khi gắng sức thì làm lại ECG và chuyển đánh giá (ESC 2024 Hình 4)."
+    },
+    {
+     "t": "Loét thực quản, viêm thực quản nặng, Barrett, hẹp, viêm thực quản tăng bạch cầu ái toan",
+     "n": "Chưa dấu báo động, nuốt dễ, cân ổn. Viêm thực quản tăng bạch cầu ái toan gặp 1–8% bệnh nhân GERD kháng trị (ACG 2022, phần GERD kháng trị: Endoscopy); ngưng PPI trước nội soi giúp lộ ra. Cần nội soi để phân biệt (ACG 2022 chẩn đoán KC 3). Biến chứng nặng ít gặp ở Việt Nam (VNAGE 2026 KC 4)."
+    },
+    {
+     "t": "Quá nhạy cảm trào ngược hoặc ợ nóng chức năng",
+     "n": "Không thể phân biệt bằng lâm sàng; cần nội soi và đo pH nếu nội soi không rõ (VNAGE 2026 KC 5; Lyon 2.0 Bảng 2: AET < 4% với liên quan triệu chứng dương tính là quá nhạy cảm trào ngược). Đo pH không làm được ở cơ sở này."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá đáp ứng sau 8 tuần: số đêm còn rát, tuân thủ (sổ ghi, vỉ thuốc), triệu chứng quay lại khi quên thuốc, dấu báo động, cân nặng",
+     "v": "c",
+     "n": "ACG 2022 chẩn đoán KC 2, KC 3; VNAGE 2026 KC 17 (kiểm tra tuân thủ trước khi quyết định)."
+    },
+    {
+     "t": "Giấy giới thiệu nội soi dạ dày – thực quản tại bệnh viện huyện, không khẩn, làm sau ngưng omeprazol 2–4 tuần",
+     "v": "c",
+     "n": "Triệu chứng điển hình không đáp ứng đủ sau 8 tuần: ACG 2022 chẩn đoán KC 3 (nội soi sau ngưng PPI 2–4 tuần); VNAGE 2026 KC 3; Lyon 2.0 Bảng 2 (soi 2–4 tuần sau ngưng PPI)."
+    },
+    {
+     "t": "Giải thích vì sao vẫn cần soi dù thuốc có giúp: thuốc giúp triệu chứng nhưng chưa phải bằng chứng; soi để thấy viêm thực quản độ nào, loại biến chứng, quyết định thuốc bao lâu",
+     "v": "c",
+     "n": "Đáp ứng PPI chưa đủ để xác định GERD (VNAGE 2026 KC 2); bằng chứng khách quan: LA B trở lên, Barrett, hẹp hoặc AET > 6% (VNAGE 2026 KC 6; Lyon 2.0 Bảng 2)."
+    },
+    {
+     "t": "Trong thời gian ngưng PPI: giữ lối sống, dùng gói kháng acid hoặc alginat khi có cơn, dặn rõ triệu chứng có thể rõ hơn và dấu báo động cần quay lại ngay",
+     "v": "c",
+     "n": "Lối sống: ACG 2022 điều trị KC 1–5; VNAGE 2026 KC 12, KC 14. Viêm thực quản có thể tái phát trong 2 tuần sau ngưng PPI, một số bệnh nhân lên LA C (ACG 2022, phần GERD kháng trị: Endoscopy), nên cần dặn kỹ. Liều alginat và kháng acid: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viết thư giới thiệu ghi đủ điều trị đã làm (omeprazol 20 mg × 1 lần/ngày, 8 tuần, tuân thủ 52/56 ngày, ECG lượt 1 bình thường) để nơi soi không phải hỏi lại; hẹn tái khám sau khi có kết quả; không lặp lại ECG hay thuốc cũ",
+     "v": "c",
+     "n": "Nhận định của tác giả ca: tái lập niềm tin cho người đã khám ba nơi, tránh làm lại việc vô ích. Hẹn kết quả để quyết định thời gian PPI tiếp (ACG 2022 điều trị KC 9, KC 10, KC 12)."
+    },
+    {
+     "t": "Thêm omeprazol 20 mg lần thứ hai trong ngày (trước bữa tối) 4–8 tuần rồi đánh giá lại, hoặc đổi sang P-CAB, trước khi soi",
+     "v": "a",
+     "n": "VNAGE 2026 KC 17 (tăng liều hoặc đổi thuốc sau khi đã tối ưu và kiểm tra tuân thủ), KC 18 (P-CAB); ACG 2022 GERD kháng trị mục Optimization (2 lần/ngày trước bữa sáng và bữa tối). Hợp lý, nhưng sau 8 tuần PPI đủ thì cần khách quan hóa chẩn đoán; thuốc P-CAB có sẵn ở Việt Nam hay không: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nội soi ngay khi chưa ngưng PPI",
+     "v": "a",
+     "n": "Chấp nhận được nhưng giá trị thấp hơn: nên soi sau ngưng PPI 2–4 tuần để tăng khả năng phát hiện (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2)."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện",
+     "v": "w",
+     "n": "Không dấu báo động, ổn định; nội soi không khẩn (ACG 2022 chẩn đoán KC 6)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trào ngược dạ dày – thực quản (GERD) điển hình, đáp ứng chưa đủ sau 8 tuần omeprazol 20 mg × 1 lần/ngày tuân thủ tốt, triệu chứng quay lại khi quên thuốc",
+     "Chưa có bằng chứng khách quan; chỉ định nội soi không khẩn sau ngưng PPI 2–4 tuần",
+     "Không có dấu báo động; cân nặng ổn; đã loại trừ bệnh mạch vành ở lượt 1",
+     "Nghi ngờ lợi ích nội soi; lịch tour kín làm khó việc ngưng thuốc và đi soi"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: sổ ghi và vỉ thuốc cho thấy uống đúng 52/56 ngày, triệu chứng quay lại sau 2 ngày quên thuốc, còn 2 đêm/tuần rát. Đây không còn là 'chưa tối ưu' như ở tuần 4. Triệu chứng điển hình không đáp ứng đủ sau 8 tuần hoặc quay lại khi ngưng PPI là chỉ định nội soi (ACG 2022 chẩn đoán KC 3; VNAGE 2026 KC 3).",
+     "Khám: bụng không đau, cân ổn, không sụt cân (sụt cân là dấu báo động: ACG 2022 chẩn đoán KC 6), nuốt bình thường; không dấu báo động. Phòng khám không có xét nghiệm hay nội soi nên bước tiếp theo là giới thiệu.",
+     "Chưa phải GERD xác định: đáp ứng PPI chưa đủ (VNAGE 2026 KC 2); cần LA B trở lên, Barrett, hẹp hoặc AET > 6% (VNAGE 2026 KC 6; Lyon 2.0 Bảng 2). Nội soi có thể thấy viêm thực quản, hoặc không thấy gì (NERD) và khi đó cần xét đo pH (VNAGE 2026 KC 5). Viêm thực quản tăng bạch cầu ái toan là một chẩn đoán cần nghĩ khi PPI không đủ hiệu quả (ACG 2022, phần GERD kháng trị: Endoscopy)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến không khẩn: giấy giới thiệu nội soi tại bệnh viện huyện, ngưng omeprazol 2–4 tuần trước khi soi (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2). Không cần nhập viện hay cấp cứu vì không có dấu báo động.",
+     "Trong lúc ngưng PPI: lối sống, gói kháng acid hoặc alginat khi cần (ACG 2022 điều trị KC 1–5; VNAGE 2026 KC 12, KC 14); dặn rõ có thể rát hơn và những dấu hiệu phải quay lại. Viêm thực quản có thể tái phát trong 2 tuần sau ngưng PPI (ACG 2022, phần GERD kháng trị: Endoscopy).",
+     "Phương án khác hợp lý: PPI 2 lần/ngày hoặc P-CAB trước khi soi (VNAGE 2026 KC 17, KC 18); chấm a vì nội soi vẫn là bước cần để khách quan hóa chẩn đoán.",
+     "Niềm tin: thư giới thiệu ghi đủ điều trị đã làm để không phải làm lại, giải thích mục đích nội soi và mốc hẹn kết quả."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Ngưng trước ngày nội soi",
+      "so_ngay": "2–4 tuần trước khi nội soi",
+      "ghi_chu": "Ngưng PPI 2–4 tuần trước nội soi để tăng khả năng phát hiện (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2). Dùng lại ngay sau khi soi theo kết quả."
+     },
+     {
+      "thuoc": "Thuốc kháng acid hoặc alginat dạng gói (loại chị đang dùng)",
+      "ham_luong": "Theo nhãn thuốc",
+      "lieu": "Khi có cơn, tối đa theo nhãn",
+      "duong": "Uống",
+      "thoi_diem": "Khi rát, sau ăn hoặc trước khi nằm",
+      "so_ngay": "Khi cần trong thời gian ngưng PPI",
+      "ghi_chu": "VNAGE 2026 KC 14. Liều alginat và kháng acid: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Ngưng omeprazol 2–4 tuần trước khi soi; sắp lịch soi vào ngày hành chính ở bệnh viện huyện, nên xếp ngày nghỉ giữa hai tour. Mang theo thư giới thiệu và sổ ghi triệu chứng (ACG 2022 chẩn đoán KC 3).",
+     "Trong thời gian ngưng thuốc: ăn tối nhẹ, cách giờ nằm 2–3 giờ, kê cao đầu giường, tránh nước có ga; dùng gói kháng acid khi rát (ACG 2022 điều trị KC 2, KC 5; VNAGE 2026 KC 12, KC 14).",
+     "Triệu chứng có thể nặng hơn trong thời gian ngưng thuốc; không tự uống lại cho đến khi soi, trừ khi có dấu hiệu báo động thì quay lại ngay (ACG 2022 chẩn đoán KC 6).",
+     "Gọi cấp cứu ngay nếu đau ngực > 15 phút hoặc tái lại trong 1 giờ, vã mồ hôi, khó thở (ESC 2023 mục 3.1.1); quay lại sớm nếu nuốt nghẹn, nuốt đau, nôn, phân đen, sụt cân.",
+     "Tái khám sau khi có kết quả nội soi."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ba tuần sau (chị ngưng omeprazol 2 tuần rồi đi soi sau một tour), bệnh viện huyện nội soi: viêm thực quản trào ngược độ A theo phân loại Los Angeles (vài vết trợt nhỏ), không Barrett, không loét, không hẹp, không khối. LA A chưa đủ để khẳng định GERD khách quan (Lyon 2.0 Bảng 2); VNAGE 2026 KC 5 nêu đo pH 24 giờ cho LA A, nhưng chị đáp ứng rõ với PPI và đo pH không làm được ở huyện nên chưa cần. Chị tái khám với phiếu kết quả, dùng lại omeprazol 20 mg × 1 lần/ngày trước bữa sáng thêm 8 tuần (VNAGE 2026 KC 13) và giữ kế hoạch ngày tour. Sau đó chị thử giảm xuống liều thấp nhất kiểm soát được rồi dùng khi cần (ACG 2022 điều trị KC 9, KC 10). Phải khoảng 7 tháng kể từ lúc khởi bệnh chị mới sống bình thường không cần thuốc hằng ngày: khỏi chậm hơn dự kiến. Chị nói 'giờ mới biết bệnh của mình tên gì, đỡ ức chế hơn'.",
+ "nhieu": [
+  "Từng khám 3 nơi không khỏi: chị mệt và nghi ngờ, nói 'chỗ nào cũng thuốc dạ dày'; lượt 1 tái lập niềm tin bằng nghe hết chuyện và nói rõ lần này khác (PPI đúng giờ, đủ 8 tuần, có mốc); lượt 2 không trách chuyện bỏ thuốc; lượt 3 không lặp lại việc đã làm, giấy giới thiệu ghi đủ điều trị.",
+  "Giấu trào ngược và việc bỏ thuốc vì ngại ngùng với khách: chỉ lộ khi bác sĩ hỏi cụ thể, nhẹ nhàng, không phán xét.",
+  "Thuốc Đông y đắp ngoài da: gây viêm da kích ứng nhẹ ở vùng ngực; không làm giảm trào ngược; ngưng đắp."
+ ],
+ "bai_hoc_bien": [
+  "Đau ngực phải loại trừ tim trước khi quy cho trào ngược. Không có troponin: ECG, tính chất cơn, dặn kỹ dấu hiệu gọi cấp cứu thay cho xét nghiệm (ESC 2023 mục 3.1.1, 3.2; ESC 2024 Hình 4).",
+  "Người ngại nói giấu triệu chứng điển hình: hỏi cụ thể, riêng tư, giọng không phán xét; hỏi chức năng và từng ngày thay vì 'có đều không'.",
+  "Đỡ một phần ở tuần 4 là thường gặp, nhất là NERD (VNAGE 2026 KC 15). Việc đầu tiên là kiểm tra tuân thủ, thời điểm uống và lối sống, không tăng thuốc hay chuyển soi vội (ACG 2022 GERD kháng trị KC 1; VNAGE 2026 KC 17).",
+  "Sau 8 tuần PPI tuân thủ tốt mà vẫn chưa đủ: nội soi sau ngưng PPI 2–4 tuần, không kéo dài PPI mù quáng (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2).",
+  "Cơ sở không có xét nghiệm vẫn quyết định được bằng hỏi bệnh, khám, ECG và mốc tái khám; nội soi là việc chuyển tuyến không khẩn."
+ ],
+ "diem_nho": [
+  "Triệu chứng điển hình: ợ nóng, trào ngược, đau ngực thực quản (Lyon 2.0 Bảng 2); thử PPI và bảng câu hỏi chưa đủ chẩn đoán (VNAGE 2026 KC 2).",
+  "Omeprazol 20 mg × 1 lần/ngày, 30–60 phút trước bữa ăn đầu tiên trong ngày, 8 tuần (VNAGE 2024 Bảng 4; ACG 2022 chẩn đoán KC 1, điều trị KC 8).",
+  "Nội soi khi dấu báo động hoặc triệu chứng không đáp ứng đủ sau 8 tuần PPI, sau ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3, 6; VNAGE 2026 KC 3).",
+  "Bằng chứng khách quan: LA B, C, D; Barrett; hẹp; AET > 6% (VNAGE 2026 KC 6; Lyon 2.0 Bảng 2).",
+  "Tuân thủ kém gặp ở 20–50% bệnh nhân GERD; kiểm tra trước khi tăng thuốc (VNAGE 2026 KC 17). Đau ngực > 15 phút hoặc tái lại trong 1 giờ: gọi cấp cứu (ESC 2023 mục 3.1.1)."
+ ],
+ "nguon": [
+  "VNAGE 2026 GERD (Front Med 2026;13:1890726) – TL-0177 – KC 1–6, 10, 12–18 và phần thảo luận KC 3, 15, 17",
+  "Lyon Consensus 2.0 (Gut 2024;73:361) – TL-0206 – Bảng 2",
+  "ACG 2022 GERD (Am J Gastroenterol 2022;117:27) – TL-0212 – chẩn đoán KC 1–6; điều trị KC 1–11, 16; GERD kháng trị KC 1 và mục Optimization of PPI Therapy, Endoscopy",
+  "VNAGE 2024 khó tiêu chức năng – TL-0178 – Bảng 4; VNAGE 2023 H. pylori – TL-0179 – Statement 6",
+  "ESC 2023 hội chứng vành cấp – TL-0069 – mục 3.1.1, 3.2; ESC 2024 hội chứng vành mạn – TL-0304 – Hình 4, phần ECG nghỉ"
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 08/11/2026. Đã đọc: TL-0177 (KC 1–6, 10–18 và phần thảo luận), TL-0206 (Bảng 2), TL-0212 (chẩn đoán KC 1–6; điều trị KC 1–11, 16; GERD kháng trị), TL-0178 (Bảng 4), TL-0069 (mục 3.1.1, 3.2), TL-0304 (Hình 4, ECG nghỉ).",
+  "Không mâu thuẫn mới. Dùng lại các mục cũ: 'Thời điểm uống PPI', 'Rượu bia trong lối sống của GERD', 'Nội soi khi GERD ≥ 40/50 tuổi không dấu báo động', 'Thêm alginat khi PPI mới đáp ứng một phần'.",
+  "Không có trong tài liệu đã tải: liều alginat và kháng acid; tác dụng của thuốc Đông y đắp ngoài da lên trào ngược hay da; nguy cơ PPI dài hạn (chỉ nêu mức chung); P-CAB có sẵn ở Việt Nam; ngưỡng thừa cân theo người châu Á (chỉ ghi BMI 25,4); ngày nghỉ, chi phí và mức đau khi nội soi; kết quả nội soi ở phần kết cục là thiết kế của ca."
+ ]
+}
