@@ -1,0 +1,796 @@
+{
+ "ma_ca": "TH-0619",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_tieu_chay_cap_nhiem_trung",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Tiêu chảy cấp nhiễm trùng",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lỵ trực trùng",
+   "Viêm ruột thừa"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Khởi phát âm thầm, từ từ",
+  "thuoc_dang_dung": "Tự mua amoxicillin",
+  "ly_do_that_su_den_kham": "Mâu thuẫn gia đình",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Bé",
+  "tuoi": 66,
+  "gioi": "Nữ",
+  "nghe": "Nông dân (làm ruộng, làm vườn)",
+  "can_nang": 52,
+  "chieu_cao": 152,
+  "xung_ho": "Bác sĩ gọi bà là 'bà Bé'. Bà tự xưng 'tui', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Giọng miền Tây, nói nhỏ, hay thở dài. Cần cù, chịu cực nhưng dễ tủi thân. Hiểu biết y khoa ít, tin 'bệnh nặng mới được truyền nước biển, truyền vô là khỏe liền'. Ngại kể chuyện nhà với người ngoài.",
+  "kieu_nhieu": "Đòi truyền dịch: vừa vào đã xin 'truyền cho tui chai nước biển, nằm lại hôm nay luôn'. Nếu bị từ chối bằng lời chung chung thì nói 'ở trạm xã người ta truyền hoài', nài thêm. Chịu uống nước ORS khi được giải thích cụ thể vì sao uống cũng đủ, và nhất là khi có người hỏi chuyện ở nhà.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a74",
+   "toc": "#c9c5bf",
+   "kieuToc": "bui",
+   "ao": "#8a6f5a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Đi ngoài phân lỏng mấy ngày, mệt, xin truyền nước",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Trần Thị Bé, 66 tuổi, nông dân, tăng huyết áp đang uống amlodipin. Đến vì đi ngoài phân lỏng mấy ngày, mệt, chóng mặt, xin được truyền nước. Sinh hiệu: HA 128/76 mmHg, mạch 86 l/p, nhiệt độ 37,8°C, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Giữ bà Bé lại phòng khám truyền Ringer lactat vài giờ cho bà vừa lòng là không đúng chỉ định: bà mất nước độ 1 (mạch 86 l/p, HA 128/76 mmHg, tiểu ít), còn uống được. Truyền tĩnh mạch dành cho mất nước từ độ 2 trở lên hoặc không uống được (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 KC 41). Bà đạt ý nguyện, nhưng không được dặn gì về ORS, nước sôi, tay sạch, nên về nhà vẫn ăn uống như cũ, và bà càng tin 'phải truyền mới khỏi'.",
+    "nhap_vien": "Nhập viện truyền dịch vì bà nài nỉ là quá mức: bà tỉnh, mạch 86 l/p, không hạ huyết áp, uống được, không có máu trong phân (QĐ 5642/2015 mục 3.1, 4.2.3a; IDSA 2017 KC 39, 42). ORS đường uống là điều trị đầu tay cho mất nước nhẹ đến vừa. Nằm viện tốn tiền và ngày công, còn nỗi buồn khiến bà đòi nằm lại thì chưa ai hỏi tới nên vẫn nguyên khi bà về nhà.",
+    "chuyen_tuyen": "Gửi bà Bé lên tuyến trên để chụp CT bụng hoặc điều trị là không cần: tiêu chảy mới 4 ngày, bụng mềm, không khu trú hố chậu phải, chưa có dấu hiệu ruột thừa viêm nên không đủ chỉ định hình ảnh; ở nơi không có CT, điểm lâm sàng kết hợp siêu âm là đủ để quyết định (WSES 2025 Rec 1, 3.1). Bà sẽ đi xa, tốn kém, chờ đợi, trong khi việc cần làm ngay là bù ORS, ngưng kháng sinh tự mua và dặn dấu hiệu nguy hiểm."
+   },
+   "loi_mo": "Chào bác sĩ. Mấy bữa nay tui đi cầu hoài, mệt quá trời. Bác sĩ cho tui nằm lại truyền chai nước biển cho khỏe nha.",
+   "sinh_hieu": {
+    "mach": 86,
+    "ha": "128/76",
+    "nhiet": "37,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi ngoài phân lỏng, đau quặn bụng, mệt, chóng mặt khi đứng dậy. Xin truyền nước biển vì tin truyền thì khỏe nhanh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Bốn ngày trước bụng sôi, phân sệt 1–2 lần/ngày. Hai ngày nay phân lỏng 6–7 lần/ngày, có hôm thức giấc đi 1–2 lần ban đêm. Không có lúc nào đột ngột dữ dội.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát âm thầm, từ từ; số lần đi ngoài"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Phân lỏng sền sệt màu vàng nâu, ít nước, không máu, không nhầy, không đen, không như nước vo gạo. Không mót rặn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân (loại tả, lỵ)"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Đau quặn quanh rốn từng cơn trước mỗi lần đi cầu, đi xong dịu. Không đau cố định một chỗ, không đau lệch xuống hố chậu phải, không chướng bụng, vẫn trung tiện được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau bụng (loại viêm ruột thừa)"
+    },
+    {
+     "id": "sot_non",
+     "noi_dung": "Chiều tối thấy nóng người, ớn lạnh nhẹ, không rét run. Không nôn, chỉ hơi buồn nôn. Ăn ít vì chán.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt nhẹ, không nôn"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Khát vừa, uống nước thấy đỡ. Tiểu ít, nước tiểu vàng đậm, khoảng 3 lần/ngày. Chóng mặt khi đứng nhanh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu mất nước"
+    },
+    {
+     "id": "amoxicillin",
+     "noi_dung": "Hai hôm trước thấy đi lỏng nhiều, bà ra hiệu thuốc xã mua amoxicillin 500 mg, uống 3 viên/ngày, 2 ngày hết 6 viên, còn nửa vỉ để dành. Thuốc không làm đỡ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'bà đang uống thuốc gì' thì chỉ kể amlodipin. Chỉ kể khi bác sĩ hỏi cụ thể có tự mua thuốc, có uống kháng sinh, thuốc cầm tiêu chảy không.",
+     "k": 1,
+     "y": "Tự dùng kháng sinh (amoxicillin)"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ăn trưa ngoài ruộng bằng cơm nguội, cá kho hâm lại, để từ sáng. Uống nước lu (nước mưa) không đun sôi, rửa tay bằng nước mương trước khi ăn. Không ăn hải sản sống, không đi xa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguồn lây: thức ăn, nước uống"
+    },
+    {
+     "id": "xung_quanh",
+     "noi_dung": "Ở chung con trai, con dâu và hai cháu nhỏ. Không ai khác bị tiêu chảy. Không đi du lịch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ: người xung quanh"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không sụt cân, không phân đen, không máu, trước đây đi cầu bình thường, chưa từng đi lỏng kéo dài. Không bệnh gan, thận, tiểu đường, không dùng corticoid hay thuốc ức chế miễn dịch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động, bệnh nền, suy giảm miễn dịch"
+    },
+    {
+     "id": "tha",
+     "noi_dung": "Tăng huyết áp 8 năm, uống amlodipin 5 mg mỗi sáng. Không thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, thuốc đang dùng"
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Tuần trước có phun thuốc trừ sâu ruộng lúa, đeo khẩu trang vải. Sau đó không nhức đầu, không chảy dãi, không vã mồ hôi, không co giật. Chưa uống thuốc sâu hay ăn thức ăn dính thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Gần đây cãi nhau với con dâu: dâu nói bà 'ăn nhiều rồi làm bộ', không nấu cơm riêng cho bà. Con trai làm xa, cuối tuần mới về, không biết chuyện. Bà muốn nằm lại, được truyền nước để con thấy mình bệnh thật và đỡ phải ở nhà. Bà không muốn kể thẳng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi ở nhà ai nấu ăn, ai chăm bà, vì sao bà muốn nằm lại, hoặc bà buồn lo điều gì nhất. Hỏi chung 'ở nhà sao' chỉ trả lời 'cũng vậy thôi'.",
+     "k": 1,
+     "y": "Lý do thật: mâu thuẫn gia đình, động cơ đòi nằm viện"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, vẻ mệt. Môi hơi khô, lưỡi hơi khô, da còn đàn hồi, mắt không trũng. Niêm hồng, không vàng da.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, nhu động ruột tăng. Ấn đau nhẹ lan tỏa quanh rốn và hạ vị, không khu trú hố chậu phải, không phản ứng thành bụng, không phản ứng dội, Rovsing âm tính. Gan lách không to.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 128/76 mmHg, mạch 86 l/p. Đứng 3 phút: HA 112/70 mmHg, mạch 98 l/p, chóng mặt thoáng qua.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Đồng tử 3 mm đều hai bên, phản xạ ánh sáng tốt. Không chảy nước mắt, không vã mồ hôi.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 86 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 86 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, nhịp thở 18 l/p, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "truc_trang": {
+     "a": "Cơ thắt bình thường, không khối, găng dính phân vàng nâu sệt, không máu, không nhầy.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù. Bắp chân mềm, không chuột rút.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 9,8 G/L (BCTT 68%) · Hb 134 g/L · TC 262 G/L",
+     "bang": {
+      "wbc": 9.8,
+      "neu_pct": 68,
+      "neu": 6.66,
+      "lym_pct": 24,
+      "lym": 2.35,
+      "mono_pct": 6,
+      "mono": 0.59,
+      "eos_pct": 1.5,
+      "eos": 0.15,
+      "baso_pct": 0.5,
+      "baso": 0.05,
+      "rbc": 4.5,
+      "hgb": 134,
+      "hct": 0.41,
+      "mcv": 91.1,
+      "mch": 29.8,
+      "mchc": 327,
+      "rdw": 13.2,
+      "plt": 262
+     },
+     "n": "Không phân biệt được căn nguyên, nhưng bạch cầu không tăng là thông tin lâm sàng hữu ích (IDSA 2017 KC 22; QĐ 5642/2015 mục 3.3). Hct ở mức cao của khoảng bình thường, hợp mất nước nhẹ."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 14 mg/L",
+     "bang": {
+      "crp": 14
+     },
+     "n": "Tăng nhẹ, không giúp chọn kháng sinh. Không bắt buộc."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 9,2 mmol/L · Creatinin 88 µmol/L · eGFR 62 mL/ph/1,73m²",
+     "bang": {
+      "ure": 9.2,
+      "creat": 88,
+      "egfr": 62
+     },
+     "n": "Ở người cao tuổi bị mất nước, ure và creatinin tăng nhẹ gợi tổn thương thận trước thận; kiểm lại sau bù dịch (QĐ 5642/2015 mục 3.3, 5: biến chứng suy thận cấp; IDSA 2017 KC 5)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 136 · K 3,6 · Cl 100 mmol/L",
+     "bang": {
+      "na": 136,
+      "k": 3.6,
+      "cl": 100
+     },
+     "n": "Rối loạn điện giải có thể đi kèm tiêu chảy (QĐ 5642/2015 mục 3.3, 5)."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Phân sệt vàng nâu. Bạch cầu ít (3–5/vi trường), không hồng cầu, không thấy trứng hay ký sinh trùng.",
+     "n": "QĐ 5642/2015 mục 3.3 có soi phân; IDSA 2017 KC 20 không dùng bạch cầu phân để xác định căn nguyên. Làm hay không đều chấp nhận được."
+    },
+    "cay_phan": {
+     "v": "u",
+     "r": "Không mọc Salmonella, Shigella, Campylobacter (mẫu gửi tuyến tỉnh, trả sau 48–72 giờ).",
+     "n": "IDSA 2017 KC 8: làm khi tiêu chảy kèm sốt, đau quặn bụng; ACG 2016 KC 2 chỉ làm khi lỵ, bệnh vừa–nặng hoặc > 7 ngày. Kết quả về sau quyết định hôm nay nên không thay đổi xử trí (xem tai-lieu mâu thuẫn)."
+    },
+    "cdiff": {
+     "v": "a",
+     "r": "Không phát hiện độc tố hoặc gen độc tố C. difficile.",
+     "n": "Tiêu chảy có TRƯỚC khi dùng amoxicillin nên nghĩ ít; IDSA 2017 KC 8 có kể C. difficile trong nhóm xét nghiệm khi sốt, đau quặn."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Quai ruột chứa dịch, tăng nhu động. Không thấy ruột thừa to hay thành dày, không dịch tự do ổ bụng, gan mật tụy bình thường.",
+     "n": "Không có CT nên thay bằng điểm lâm sàng kết hợp siêu âm (WSES 2025 Rec 1, 3.1). Bụng không khu trú nên điểm nguy cơ thấp, siêu âm không bắt buộc."
+    },
+    "ct_bung": {
+     "v": "n",
+     "r": "(Phòng khám không có CT.)",
+     "n": "Không có chỉ định: bụng mềm, không khu trú hố chậu phải. WSES 2025 Rec 3.4 ưu tiên CT ở người cao tuổi khi đã nghi viêm ruột thừa, nhưng Rec 3.1 cho phép điểm lâm sàng cộng siêu âm khi không có CT."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng (nhiều khả năng do vi khuẩn không xâm nhập) ở người cao tuổi, mất nước độ 1; đã tự dùng amoxicillin không có chỉ định; tăng huyết áp",
+     "ok": 1,
+     "n": "Tiêu chảy < 7 ngày (IDSA 2017 tr. e53), phân lỏng không máu, đau quặn, sốt nhẹ, có yếu tố nguồn lây thức ăn nước uống (QĐ 5642/2015 mục 3.1, 3.4); mất nước độ 1 (QĐ 5642/2015 mục 3.1)."
+    },
+    {
+     "t": "Tả",
+     "n": "Tả: khởi phát nhanh, 20–50 lần/ngày, phân nước vo gạo, không sốt, không đau quặn (QĐ 5642/2015 mục 3.2; QĐ 4178/2007 mục II.1). Bà đi 6–7 lần/ngày, phân sệt vàng nâu, có đau quặn và sốt nhẹ, không nôn."
+    },
+    {
+     "t": "Lỵ trực trùng",
+     "n": "Hội chứng lỵ: sốt cao, quặn bụng, mót rặn, phân nhầy máu (QĐ 5642/2015 mục 3.2). Bà sốt nhẹ, không mót rặn, phân không nhầy máu, găng không dính máu."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Đau quanh rốn từng cơn, không khu trú hố chậu phải, bụng mềm, không phản ứng dội, siêu âm không thấy ruột thừa viêm. Không có CT: dùng điểm lâm sàng kết hợp siêu âm (WSES 2025 Rec 1, 3.1); Alvarado không đủ đặc hiệu để khẳng định và không phân biệt được ca biến chứng ở người cao tuổi (WSES 2020 Rec 1.3). Dặn quay lại nếu đau dồn về hố chậu phải."
+    },
+    {
+     "t": "Tiêu chảy do C. difficile (sau kháng sinh)",
+     "n": "Có nguy cơ sau dùng kháng sinh (IDSA 2017 Bảng 2), nhưng tiêu chảy bắt đầu trước khi uống amoxicillin, xét nghiệm độc tố âm tính. Theo dõi nếu còn tiêu chảy khi đã dùng kháng sinh."
+    },
+    {
+     "t": "Ngộ độc hóa chất bảo vệ thực vật",
+     "n": "Có trong chẩn đoán phân biệt (QĐ 5642/2015 mục 3.5; QĐ 4178/2007 mục II.2g). Bà có phun thuốc sâu nhưng không có triệu chứng thần kinh, đồng tử bình thường, không vã mồ hôi, không chảy dãi; dấu hiệu chi tiết của ngộ độc không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bệnh đại tràng mạn (viêm ruột, ung thư)",
+     "n": "Có trong chẩn đoán phân biệt (QĐ 5642/2015 mục 3.5). Mới 4 ngày, không sụt cân, không phân máu; chỉ nghĩ tới khi tiêu chảy ≥ 14 ngày chưa rõ nguyên nhân (IDSA 2017 KC 28)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Bù nước bằng đường uống với ORS (pha theo gói, nước đun sôi để nguội), uống thành từng ngụm, bù thêm sau mỗi lần đi ngoài",
+     "v": "c",
+     "n": "Mất nước độ 1, uống được: bù bằng ORESOL (QĐ 5642/2015 mục 4.2.3a); ORS áp lực thẩm thấu thấp là đầu tay (IDSA 2017 KC 39); người lớn mất nước nhẹ–vừa 2–4 L, sau đó bù theo nhu cầu tối đa khoảng 2 L/ngày (IDSA 2017 Bảng 7). Thời gian uống 2–4 L ở người lớn không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không truyền dịch tĩnh mạch; giải thích cho bà vì sao uống cũng đủ, kèm điều kiện sẽ truyền (không uống được, mất nước nặng hơn)",
+     "v": "c",
+     "n": "Truyền khi mất nước từ độ 2 hoặc không uống được (QĐ 5642/2015 mục 4.2.3a); IDSA 2017 KC 41–42 chỉ truyền khi mất nước nặng, sốc, rối loạn ý thức, thất bại ORS hoặc liệt ruột. Bà chưa có tiêu chuẩn nào."
+    },
+    {
+     "t": "Ngưng amoxicillin tự mua; không kê kháng sinh thường quy, theo dõi và dặn tái khám; hoặc cân nhắc kháng sinh đường uống theo phác đồ nếu thầy thuốc thấy có chỉ định vì tuổi cao và sốt",
+     "v": "c",
+     "n": "Hai nguồn khác nhau. IDSA 2017 KC 36 và ACG 2016 KC 9–10: tiêu chảy nước cấp ở người không suy giảm miễn dịch, không đi xa: không dùng kháng sinh theo kinh nghiệm. QĐ 5642/2015 mục 4.2.1: cân nhắc kháng sinh khi cơ địa người già hoặc có sốt, nhiễm trùng; thuốc ở mục 4.2.2a (xem đơn thuốc). Amoxicillin không nằm trong phác đồ kháng sinh nào của QĐ 5642/2015 mục 4.2.2."
+    },
+    {
+     "t": "Ăn lại sớm, thức ăn lỏng mềm dễ tiêu, không nhịn ăn; từ nay dùng nước đun sôi, ăn chín, nấu xong ăn ngay, rửa tay xà phòng trước ăn và sau đi vệ sinh",
+     "v": "c",
+     "n": "Ăn lại ngay khi bù xong dịch (IDSA 2017 KC 45); ăn chín, uống nước đun sôi, rửa tay (QĐ 5642/2015 mục 6; IDSA 2017 KC 52, 54)."
+    },
+    {
+     "t": "Hỏi chuyện ở nhà: ai nấu ăn, ai chăm bà; nói lại điều bà thật sự cần (có người quan tâm), hẹn gặp người nhà ở lần tái khám",
+     "v": "c",
+     "n": "Phát hiện động cơ thật của việc đòi truyền. Không có trong tài liệu đã tải (không phải chi tiết chuyên môn)."
+    },
+    {
+     "t": "Dặn dấu hiệu nguy hiểm cần quay lại ngay: phân có máu hoặc nhầy, sốt cao, nôn nhiều, không uống được, tiểu rất ít, chóng mặt ngất, đau dồn về hố chậu phải",
+     "v": "c",
+     "n": "Mất nước nặng dần (QĐ 5642/2015 mục 3.1 bảng mức độ mất nước); phân máu cần xét nghiệm và xem xét kháng sinh (IDSA 2017 KC 8, 30); dấu hiệu bụng ngoại khoa (WSES 2025 Rec 1)."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 ngày hoặc sớm hơn nếu nặng lên",
+     "v": "c",
+     "n": "Mốc 3 ngày là lựa chọn của ca (cao tuổi, đang đỡ nhưng còn mất nước nhẹ, cần kiểm lại điện giải và creatinin); không có trong tài liệu đã tải. Đánh giá lại khi không đáp ứng (IDSA 2017 KC 27)."
+    },
+    {
+     "t": "Diosmectit (Smecta) làm săn niêm mạc ruột",
+     "v": "a",
+     "n": "QĐ 5642/2015 mục 4.2.3b. Liều không có trong tài liệu đã tải; không bắt buộc."
+    },
+    {
+     "t": "Men vi sinh",
+     "v": "a",
+     "n": "ACG 2016 KC 6: không khuyến cáo ở người lớn, trừ bệnh sau dùng kháng sinh; IDSA 2017 KC 49: có thể dùng (khuyến cáo yếu). Bà đã uống kháng sinh nên cả hai đều cho phép."
+    },
+    {
+     "t": "Loperamid",
+     "v": "w",
+     "n": "IDSA 2017 KC 47: tránh khi tiêu chảy có sốt; ACG 2016 tr. 609–610 liều 4 mg rồi 2 mg, tối đa 8 mg/ngày, không quá 48 giờ; QĐ 5642/2015 mục 4.2.3b: không lạm dụng thuốc cầm tiêu chảy. Bà có sốt, đau quặn, tuổi cao: không dùng."
+    },
+    {
+     "t": "Giữ lại truyền Ringer lactat hoặc NaCl 0,9% theo yêu cầu của bà",
+     "v": "w",
+     "n": "Không đủ tiêu chuẩn truyền (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 KC 41). Chiều theo yêu cầu không phải chỉ định y khoa."
+    },
+    {
+     "t": "Uống tiếp amoxicillin cho đủ liệu trình",
+     "v": "w",
+     "n": "Amoxicillin không nằm trong phác đồ kháng sinh nào của QĐ 5642/2015 mục 4.2.2; kháng sinh gần đây làm tăng nguy cơ C. difficile (IDSA 2017 Bảng 2)."
+    },
+    {
+     "t": "Cho nhịn ăn hoặc chỉ uống nước cháo vài ngày cho ruột nghỉ",
+     "v": "w",
+     "n": "IDSA 2017 KC 45: ăn lại bình thường khi bù xong; nhịn ăn 24 giờ không có lợi (tr. e71)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng (nhiều khả năng vi khuẩn không xâm nhập), ngày thứ 4, thể nhẹ–vừa",
+     "Mất nước độ 1; tăng ure và creatinin nhẹ do mất nước",
+     "Đã loại trừ tả, lỵ trực trùng, viêm ruột thừa (lâm sàng + siêu âm, không có CT)",
+     "Tự dùng amoxicillin 2 ngày, không có chỉ định",
+     "Nguồn lây: cơm nguội, nước lu chưa đun sôi, tay bẩn khi ăn ngoài ruộng",
+     "Bệnh kèm: tăng huyết áp (amlodipin). Động cơ ẩn: mâu thuẫn gia đình, muốn được nằm lại"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: tính chất phân (nước vo gạo? máu nhầy?), số lần, đau bụng ở đâu, sốt nôn, dấu mất nước, ăn uống nước uống, người xung quanh, thuốc tự mua, bệnh nền, dấu báo động. Hỏi chung 'thuốc gì' sẽ bỏ sót amoxicillin; chỉ hỏi cụ thể mới ra.",
+     "Vì sao là tiêu chảy cấp: ≥ 3 lần phân lỏng/24 giờ, < 7 ngày (IDSA 2017 tr. e52–e53). Phần lớn người khỏe mạnh tự khỏi, căn nguyên virus hoặc không rõ (IDSA 2017 tr. e54); có yếu tố thức ăn nước uống bẩn (QĐ 5642/2015 mục 3.4).",
+     "Vì sao loại tả: nước vo gạo, 20–50 lần/ngày, không sốt, không đau quặn (QĐ 5642/2015 mục 3.2; QĐ 4178/2007 mục II.1). Vì sao loại lỵ: không phân nhầy máu, không mót rặn (QĐ 5642/2015 mục 3.2).",
+     "Vì sao loại viêm ruột thừa: đau quặn quanh rốn, bụng mềm, không phản ứng dội, siêu âm không thấy ruột thừa viêm. Không có CT nên dùng điểm lâm sàng kết hợp siêu âm (WSES 2025 Rec 1, 3.1); Alvarado không đủ đặc hiệu, không phân biệt được ca biến chứng ở người cao tuổi; AIR và AAS là hai thang tốt nhất (WSES 2020 Rec 1.3, 1.4); tiêu chí chi tiết của AIR, AAS không có trong tài liệu đã tải. Tuổi cao thì ngưỡng dặn quay lại phải thấp.",
+     "Mất nước độ 1: khát ít, mạch < 100 l/p, HA bình thường, tiểu ít (QĐ 5642/2015 mục 3.1). Người ≥ 65 tuổi có tỉ lệ nhập viện và tử vong cao nhất (IDSA 2017 tr. e53) nên phải đánh giá mất nước ở mọi người bệnh (IDSA 2017 KC 5).",
+     "Xét nghiệm phân: nguồn không thống nhất (IDSA 2017 KC 8 khi có sốt; ACG 2016 KC 2 khi lỵ, vừa–nặng hoặc > 7 ngày); cả làm và không làm đều chấp nhận. Kết quả cấy về sau 48–72 giờ nên không đổi xử trí hôm nay."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch: ORS là đầu tay, đủ cho mất nước nhẹ (IDSA 2017 KC 39; QĐ 5642/2015 mục 4.2.3a; ACG 2016 KC 5 ghi người nhẹ có thể bù bằng nước, súp, nước canh; IDSA 2017 Bảng 7 không dùng nước ngọt, nước tăng lực thay ORS: dùng ORS là lựa chọn an toàn cho cả hai nguồn).",
+     "Kháng sinh: hai cách đúng. Không kê (IDSA 2017 KC 36; ACG 2016 KC 9–10: tiêu chảy cộng đồng phần lớn do virus, kháng sinh không rút ngắn) hoặc cân nhắc kháng sinh theo phác đồ khi người già có sốt (QĐ 5642/2015 mục 4.2.1). Hai nguồn khác năm, bối cảnh; QĐ 5642/2015 viết cho nước đang phát triển, IDSA/ACG cho dân thường ở Mỹ. Nếu dùng, ciprofloxacin kèm nguy cơ C. difficile, đau gân (ACG 2016 tr. 610).",
+     "Lập luận với người đòi truyền dịch: 'Bà uống được, mạch và huyết áp còn tốt, nên uống nước pha muối đường là cách bù nhanh và an toàn như nước biển; nếu bà không uống nổi hoặc mệt hơn, tôi sẽ truyền ngay.' Nguồn: truyền tĩnh mạch khi từ độ 2 trở lên hoặc không uống được (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 KC 41). Tác hại của truyền không cần thiết ở người cao tuổi không có trong tài liệu đã tải.",
+     "Câu thay thế: 'Bà muốn nằm lại là vì lo, hay vì ở nhà có chuyện gì?' để mở lời động cơ thật. Điều bà cần là được quan tâm, không phải chai nước biển.",
+     "Loperamid: không dùng vì sốt và tuổi cao (IDSA 2017 KC 47; QĐ 5642/2015 mục 4.2.3b). Men vi sinh, diosmectit: tùy chọn.",
+     "Thuốc nền giữ nguyên: amlodipin. Ngưỡng hạ amlodipin khi mất nước không có trong tài liệu đã tải; HA 128/76 mmHg, kiểm lại lượt sau.",
+     "Hướng xử trí đúng: cho về, hẹn tái khám 3 ngày. Không cần chuyển tuyến vì chưa có dấu hiệu nặng và không có chỉ định hình ảnh (WSES 2025 Rec 1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "ORS (oresol áp lực thẩm thấu thấp)",
+      "ham_luong": "Gói pha 1 lít",
+      "lieu": "Uống 2–4 L trong ngày đầu; sau mỗi lần đi ngoài uống thêm theo nhu cầu, tối đa khoảng 2 L/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Uống từng ngụm, cả ngày, kể cả đêm khi tỉnh",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "IDSA 2017 KC 39, Bảng 7 (lượng); QĐ 5642/2015 mục 4.2.3a. Pha bằng nước đun sôi để nguội (QĐ 4178/2007 mục III.2a); thời gian uống 2–4 L không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kháng sinh",
+      "ham_luong": "Không kê (phương án thứ nhất)",
+      "lieu": "Không kê. Phương án thứ hai theo QĐ 5642/2015 mục 4.2.2a: ciprofloxacin 500 mg × 2 lần/ngày, 5 ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Không kê, hoặc 5 ngày",
+      "ghi_chu": "Không kê: IDSA 2017 KC 36, ACG 2016 KC 9–10. Kê: QĐ 5642/2015 mục 4.2.1, 4.2.2a. Ngưng amoxicillin vì không có trong phác đồ (QĐ 5642/2015 mục 4.2.2)."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên/ngày như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Giữ nguyên, đang dùng; HA 128/76 mmHg. Ngưỡng giảm liều khi mất nước không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Pha ORS đúng gói, uống từng ngụm, đi ngoài thêm lần nào uống bù thêm lần đó (IDSA 2017 KC 43).",
+     "Ăn cháo, cơm mềm, chuối, không nhịn ăn (IDSA 2017 KC 45). Nấu xong ăn ngay, không ăn cơm nguội, không dùng nước lu chưa đun sôi, rửa tay bằng xà phòng trước ăn và sau khi đi vệ sinh (QĐ 5642/2015 mục 6; IDSA 2017 KC 52, 54).",
+     "Bỏ nửa vỉ amoxicillin còn lại. Không tự mua kháng sinh hay thuốc cầm tiêu chảy.",
+     "Quay lại ngay hoặc đến trạm y tế nếu: phân có máu hoặc nhầy, sốt cao, nôn nhiều không uống được, tiểu rất ít, chóng mặt ngất, đau bụng dồn về hố chậu phải.",
+     "Tái khám sau 3 ngày (mốc của ca, không có trong tài liệu đã tải). Mời con trai hoặc con dâu đi cùng để biết cách chăm bà."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Bà Trần Thị Bé tái khám sau 3 ngày. Đi ngoài đỡ hơn nhưng chưa hết, còn mệt, ăn kém. Sinh hiệu: HA 122/74 mmHg, mạch 78 l/p, nhiệt độ 36,9°C, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện bà Bé lúc này không cần: bà hết sốt, tiêu chảy đã giảm từ 6–7 xuống 4 lần/ngày, uống được ORS, ure và creatinin về bình thường; mới ngày thứ 7 nên còn trong giai đoạn cấp (IDSA 2017 tr. e52). Nằm viện vài ngày rồi trở về đúng căn nhà, nồi cơm nguội, lu nước chưa đun sôi và mâu thuẫn chưa ai nói tới, nên khả năng tiêu chảy trở lại sau khi về vẫn nguyên.",
+    "chuyen_tuyen": "Gửi bà Bé đi nội soi đại tràng hoặc tuyến trên vì 'chưa khỏi hẳn' là vội: tiêu chảy mới 7 ngày, đang giảm dần, không máu, không sụt cân; thăm dò bệnh mạn tính chỉ đặt ra khi triệu chứng ≥ 14 ngày chưa rõ nguyên nhân (IDSA 2017 KC 28) và ACG 2016 KC 11–12 không khuyến cáo xét nghiệm huyết thanh hay nội soi khi tiêu chảy kéo dài 14–30 ngày mà cấy phân âm tính. Bà tốn tiền xe, chờ đợi, vẫn uống amoxicillin trong lúc chờ, còn việc cần làm là ngưng kháng sinh và sửa nguồn lây."
+   },
+   "loi_mo": "Chào bác sĩ. Tui uống nước muối đường đó, đỡ chút xíu mà vẫn còn đi lỏng, ngày bốn năm bận. Còn mệt lắm, ăn không vô.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "122/74",
+    "nhiet": "36,9",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khong_het",
+     "noi_dung": "Đi ngoài còn 4 lần/ngày (trước đó 6–7 lần), phân sệt đến lỏng màu vàng, không máu, không nhầy, không đi đêm. Hết sốt, không nôn. Quặn bụng nhẹ trước khi đi cầu, không đau cố định một chỗ, trung tiện bình thường.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần: đỡ hay thất bại điều trị"
+    },
+    {
+     "id": "ors",
+     "noi_dung": "Pha ORS uống khoảng 1,5 L/ngày, đỡ chóng mặt. Tiểu 4–5 lần/ngày, nước tiểu vàng nhạt. Ăn cháo trắng, ăn được ít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ ORS, tình trạng nước"
+    },
+    {
+     "id": "amoxicillin",
+     "noi_dung": "Ngưng không nổi: bà vẫn còn nửa vỉ nên uống tiếp, rồi mua thêm một hộp, tổng cộng 5 ngày. Bà nghĩ phải uống cho hết liệu trình mới hết bệnh. Sáng nay vẫn uống.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc đều không' thì kể ORS và thuốc huyết áp. Chỉ kể khi bác sĩ hỏi cụ thể có còn uống kháng sinh hay thuốc tự mua nào.",
+     "k": 1,
+     "y": "Vẫn dùng amoxicillin (nguyên nhân kéo dài)"
+    },
+    {
+     "id": "ve_sinh",
+     "noi_dung": "Sau khi cãi nhau với con dâu, bà tự nấu mỗi lần một nồi cơm, để ăn hai ba bữa không cất tủ. Vẫn múc nước lu uống không đun sôi, mang cơm nguội ra ruộng, rửa tay bằng nước mương. Bà không nghĩ đó là nguyên nhân.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể từ lần khám trước: ai nấu, ăn gì, uống nước nào, có đun sôi không, rửa tay thế nào.",
+     "k": 1,
+     "y": "Nguồn lây vẫn còn (nền của tái phát)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Con dâu vẫn không nói chuyện, con trai chưa về. Bà thấy lẻ loi, lúc ốm không ai nấu cháo. Lần trước đòi truyền nước là để nằm lại cho con thấy bà bệnh thật. Nay bà hỏi nhỏ: 'tui bị nặng lắm hả bác sĩ, sao không cho truyền nước'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi ở nhà sau lần khám trước ra sao, ai chăm bà, bà buồn lo gì. Nếu bác sĩ chỉ dặn ăn uống sạch mà không hỏi thì bà gật đầu cho xong.",
+     "k": 1,
+     "y": "Lý do thật: mâu thuẫn gia đình"
+    },
+    {
+     "id": "tha",
+     "noi_dung": "Vẫn uống amlodipin 5 mg buổi sáng. HA đo ở trạm xã 120–130.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vẻ mệt nhẹ. Môi ẩm, da đàn hồi tốt, niêm hồng. Không còn dấu hiệu mất nước.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, nhu động hơi tăng. Ấn đau nhẹ quanh rốn, không khu trú hố chậu phải, không phản ứng thành bụng, không phản ứng dội.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 122/74 mmHg, mạch 78 l/p. Đứng 3 phút: HA 118/72 mmHg, mạch 82 l/p, không choáng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 7,6 G/L · Hb 128 g/L (lần trước 134) · TC 248 G/L",
+     "bang": {
+      "wbc": 7.6,
+      "neu_pct": 62,
+      "neu": 4.71,
+      "lym_pct": 29,
+      "lym": 2.2,
+      "mono_pct": 7,
+      "mono": 0.53,
+      "eos_pct": 1.5,
+      "eos": 0.11,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.3,
+      "hgb": 128,
+      "hct": 0.39,
+      "mcv": 90.7,
+      "mch": 29.8,
+      "mchc": 328,
+      "rdw": 13.2,
+      "plt": 248
+     },
+     "n": "Hb thấp hơn lần trước do hết cô đặc máu sau khi bù dịch; bạch cầu về bình thường. Không bắt buộc."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 5,8 mmol/L · Creatinin 72 µmol/L · eGFR 79 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.8,
+      "creat": 72,
+      "egfr": 79
+     },
+     "n": "Về bình thường sau bù ORS: xác nhận đã bù đủ dịch (QĐ 5642/2015 mục 3.3, 5; IDSA 2017 KC 5)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 138 · K 3,6 · Cl 102 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 3.6,
+      "cl": 102
+     },
+     "n": "Không còn rối loạn điện giải (QĐ 5642/2015 mục 3.3, 5)."
+    },
+    "cdiff": {
+     "v": "u",
+     "r": "Không phát hiện độc tố hoặc gen độc tố C. difficile.",
+     "n": "Còn tiêu chảy khi đang uống kháng sinh nhiều ngày: IDSA 2017 KC 18 cho phép xét nghiệm (khuyến cáo yếu, bằng chứng cao). QĐ 5642/2015 mục 4.2.2b ghi thuốc nếu dương tính."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 6 mg/L",
+     "bang": {
+      "crp": 6
+     },
+     "n": "Giảm so với lần trước (14 mg/L). Không bắt buộc."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng đang hồi phục chậm (đỡ một phần, ngày thứ 7), mất nước đã bù; vẫn dùng amoxicillin không chỉ định; nguồn lây chưa được loại bỏ",
+     "ok": 1,
+     "n": "Số lần đi ngoài giảm từ 6–7 xuống 4/ngày, hết sốt, ure và creatinin về bình thường: đáp ứng chậm chứ chưa phải thất bại. Vẫn là tiêu chảy cấp vì < 14 ngày (IDSA 2017 tr. e53)."
+    },
+    {
+     "t": "Thất bại điều trị, cần đổi kháng sinh",
+     "n": "Không có sốt, không máu, đang đỡ dần; không có chỉ định kháng sinh theo IDSA 2017 KC 36 và ACG 2016 KC 9–10. Đổi kháng sinh không giải quyết nguồn lây."
+    },
+    {
+     "t": "Tiêu chảy do C. difficile sau amoxicillin",
+     "n": "Hết sốt, bạch cầu bình thường, độc tố âm tính; kháng sinh gần đây là yếu tố nguy cơ (IDSA 2017 Bảng 2, KC 18). Nghĩ lại nếu vẫn tiêu chảy sau khi ngưng amoxicillin."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Bụng vẫn không khu trú hố chậu phải, hết sốt, đang đỡ dần; không đổi hướng so với lượt 1 (WSES 2025 Rec 1)."
+    },
+    {
+     "t": "Bệnh đại tràng mạn hoặc rối loạn không do nhiễm trùng",
+     "n": "Chưa đủ 14 ngày; chỉ nghĩ khi triệu chứng ≥ 14 ngày chưa rõ nguyên nhân (IDSA 2017 KC 28; ACG 2016 KC 11–12)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng hẳn amoxicillin, bỏ số thuốc còn lại; giải thích 'uống cho hết liệu trình' không đúng với thuốc này",
+     "v": "c",
+     "n": "Amoxicillin không nằm trong phác đồ kháng sinh nào của QĐ 5642/2015 mục 4.2.2; kháng sinh gần đây làm tăng nguy cơ C. difficile (IDSA 2017 Bảng 2); kháng sinh cho tiêu chảy cộng đồng không rút ngắn bệnh (ACG 2016 KC 10)."
+    },
+    {
+     "t": "Không bắt đầu kháng sinh khác, tiếp tục theo dõi; hoặc chỉ dùng kháng sinh theo phác đồ nếu thấy chỉ định",
+     "v": "c",
+     "n": "IDSA 2017 KC 36 và ACG 2016 KC 9–10: không dùng; QĐ 5642/2015 mục 4.2.1 cân nhắc ở người già, nhưng bà hết sốt, phân không máu nên chỉ định yếu. Cả hai cách đều chấp nhận."
+    },
+    {
+     "t": "Tiếp tục ORS đến khi hết tiêu chảy, ăn đủ bữa",
+     "v": "c",
+     "n": "Bù mất nước đang diễn ra bằng ORS đến khi hết tiêu chảy (IDSA 2017 KC 43, 45; Bảng 7)."
+    },
+    {
+     "t": "Hỏi kỹ ai nấu, thức ăn, nước uống từ lần khám trước; sửa nguồn lây: nấu ăn xong ăn ngay, không ăn cơm nguội, đun sôi nước uống, rửa tay xà phòng",
+     "v": "c",
+     "n": "Ăn chín, uống nước đun sôi, rửa tay (QĐ 5642/2015 mục 6; IDSA 2017 KC 52, 54, 55: giáo dục cho người cao tuổi). Nguồn lây còn thì tiêu chảy dễ trở lại."
+    },
+    {
+     "t": "Hỏi chuyện ở nhà, gọi con trai (điện thoại) hoặc mời người nhà đi cùng lần tới; hỏi trạm y tế xã hay hàng xóm hỗ trợ nấu ăn trong lúc bà còn yếu",
+     "v": "c",
+     "n": "Giải quyết lý do thật của việc đòi nằm lại; không có trong tài liệu đã tải (không phải chi tiết chuyên môn)."
+    },
+    {
+     "t": "Hẹn tái khám sau 1 tuần hoặc sớm hơn khi tiêu chảy trở lại; nếu tiêu chảy kéo dài ≥ 14 ngày hoặc tái phát nhiều lần thì thăm dò thêm",
+     "v": "c",
+     "n": "IDSA 2017 KC 27–29 (đánh giá lại khi không đáp ứng; nghĩ bệnh không nhiễm trùng khi ≥ 14 ngày chưa rõ nguyên nhân); ACG 2016 KC 2 (xét nghiệm phân khi > 7 ngày). Mốc 1 tuần là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay: phân máu, sốt cao, nôn nhiều, tiểu ít, chóng mặt, đau dồn hố chậu phải",
+     "v": "c",
+     "n": "QĐ 5642/2015 mục 3.1; IDSA 2017 KC 8, 30."
+    },
+    {
+     "t": "Làm xét nghiệm C. difficile",
+     "v": "a",
+     "n": "IDSA 2017 KC 18: có thể xét nghiệm khi tiêu chảy sau kháng sinh (khuyến cáo yếu, bằng chứng cao). Không làm cũng chấp nhận vì đang đỡ."
+    },
+    {
+     "t": "Men vi sinh",
+     "v": "a",
+     "n": "ACG 2016 KC 6 (cho phép sau kháng sinh); IDSA 2017 KC 49."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch vì bà mệt và xin truyền",
+     "v": "w",
+     "n": "Hết mất nước, uống được ORS, ure và creatinin bình thường (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 KC 41)."
+    },
+    {
+     "t": "Cho nhịn ăn hoặc chỉ uống cháo loãng để ruột nghỉ",
+     "v": "w",
+     "n": "IDSA 2017 KC 45: ăn lại bình thường; nhịn ăn không có lợi (tr. e71)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng, ngày thứ 7, đang hồi phục chậm (đỡ một phần)",
+     "Mất nước đã bù (ure, creatinin, điện giải bình thường)",
+     "Đã loại C. difficile (độc tố âm tính), viêm ruột thừa, thất bại điều trị",
+     "Vẫn dùng amoxicillin tổng 5 ngày, không chỉ định; nguồn lây còn (cơm nguội, nước chưa đun sôi)",
+     "Lý do thật: mâu thuẫn gia đình, thiếu người chăm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: số lần đi ngoài so với lượt 1, tính chất phân, sốt, nôn, đau bụng, nước tiểu, ORS đã uống, thuốc tự mua (hỏi cụ thể), ăn uống từ lần trước, chuyện ở nhà. Khám bụng và tư thế. Xét nghiệm lại ure, creatinin, điện giải; C. difficile tùy chọn.",
+     "Đỡ chậm hay thất bại: giảm 6–7 xuống 4 lần/ngày, hết sốt, nước tiểu và creatinin về bình thường là đáp ứng. Tiêu chảy < 7 ngày là cấp, 7–13 ngày kéo dài, ≥ 14 ngày dai dẳng (IDSA 2017 tr. e53). Ngày thứ 7 chưa phải dai dẳng nên chưa thăm dò bệnh mạn (IDSA 2017 KC 28; ACG 2016 KC 11–12).",
+     "Thủ phạm làm chậm: amoxicillin kéo dài làm rối loạn hệ vi khuẩn ruột, tăng nguy cơ C. difficile (IDSA 2017 Bảng 2). Nguồn lây còn nguyên thì khó hết hẳn và dễ tái phát; đây là điều bà Bé giấu, chỉ lộ khi hỏi cụ thể.",
+     "Vì sao viêm ruột thừa vẫn không cần CT: bụng không khu trú, hết sốt, đang đỡ dần; theo dõi là chiến lược khi không có CT (WSES 2025 Rec 1, 3.1).",
+     "Điểm dừng chẩn đoán: 'đỡ một phần' dễ bị đọc là thất bại để đổi kháng sinh hoặc nhập viện. Hỏi: có sốt, máu trong phân, mất nước nặng hơn không? Không → tiếp tục điều trị nền, sửa nguồn lây."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng amoxicillin ngay: không nằm trong phác đồ (QĐ 5642/2015 mục 4.2.2), kháng sinh gần đây là yếu tố nguy cơ C. difficile (IDSA 2017 Bảng 2). Không bắt đầu kháng sinh khác (IDSA 2017 KC 36; ACG 2016 KC 9–10) hoặc theo QĐ 5642/2015 mục 4.2.1, 4.2.2 nếu có chỉ định; hai nguồn khác năm và bối cảnh, cả hai đúng.",
+     "Tiếp tục ORS tới khi hết tiêu chảy, ăn uống bình thường (IDSA 2017 KC 43, 45). Không truyền dịch vì hết mất nước (QĐ 5642/2015 mục 4.2.3a).",
+     "Điều chủ yếu của lượt 2: sửa nguồn lây và giải quyết lý do thật. Nguồn lây thức ăn nước uống: QĐ 5642/2015 mục 3.4, 6; giáo dục cho người cao tuổi: IDSA 2017 KC 55. Hỏi chuyện nhà, gọi con trai, mời đi cùng lần tới.",
+     "Tái phát: nếu tiêu chảy trở lại sau khi khỏi, nghĩ trước hết nguồn lây còn đó, ăn uống mất vệ sinh, tuân thủ, chẩn đoán sai (IBD, IBS khi kéo dài ≥ 14 ngày) (IDSA 2017 KC 27–28).",
+     "Lời nói thay thế cho người đòi truyền dịch: 'Bà đã đỡ nhiều, hết mất nước rồi. Truyền thêm không giúp bà nhanh hơn, quan trọng là bà ăn uống sạch và có người nấu cho bà.'",
+     "Hướng xử trí đúng: cho về, tái khám 1 tuần (mốc của ca, không có trong tài liệu đã tải); đang hồi phục, không dấu nặng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "ORS (oresol áp lực thẩm thấu thấp)",
+      "ham_luong": "Gói pha 1 lít",
+      "lieu": "Uống theo nhu cầu, thêm sau mỗi lần đi ngoài, tối đa khoảng 2 L/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cả ngày",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "IDSA 2017 KC 43, Bảng 7 (duy trì ad libitum tối đa khoảng 2 L/ngày); QĐ 5642/2015 mục 4.2.3a."
+     },
+     {
+      "thuoc": "Amoxicillin (tự mua)",
+      "ham_luong": "500 mg",
+      "lieu": "NGƯNG, bỏ số còn lại",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "0",
+      "ghi_chu": "Không thuộc phác đồ nào của QĐ 5642/2015 mục 4.2.2; IDSA 2017 Bảng 2 (kháng sinh gần đây và C. difficile)."
+     },
+     {
+      "thuoc": "Men vi sinh (tùy chọn)",
+      "ham_luong": "Chế phẩm có sẵn",
+      "lieu": "Theo hướng dẫn nhà sản xuất",
+      "duong": "Uống",
+      "thoi_diem": "Theo hướng dẫn trên nhãn",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "ACG 2016 KC 6 (sau kháng sinh), IDSA 2017 KC 49. Liều, chủng không có trong tài liệu đã tải (IDSA 2017 KC 49 nói tra theo nhà sản xuất)."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên/ngày như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Giữ nguyên, đang dùng; HA 122/74 mmHg."
+     }
+    ],
+    "dan_do": [
+     "Ngưng và bỏ amoxicillin. Không tự mua kháng sinh khi đi lỏng (IDSA 2017 KC 36).",
+     "Nấu xong ăn ngay, không để cơm qua bữa sau; nước uống phải đun sôi; rửa tay xà phòng trước ăn và sau đi vệ sinh, kể cả ngoài ruộng (QĐ 5642/2015 mục 6; IDSA 2017 KC 52, 54).",
+     "Tiếp tục ORS đến khi hết tiêu chảy; ăn uống bình thường.",
+     "Tái khám sau 1 tuần (mốc của ca, không có trong tài liệu đã tải). Quay lại ngay nếu tiêu chảy trở lại, phân máu, sốt cao, nôn nhiều, chóng mặt, đau bụng dồn về hố chậu phải.",
+     "Gọi điện cho con trai, nhờ hàng xóm hoặc cán bộ y tế thôn nấu cháo vài ngày; lần sau mời con cùng đi khám."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Bé ngưng amoxicillin, tiêu chảy hết sau khoảng 4 ngày. Mười hai ngày sau bà đi ngoài lỏng 5–6 lần/ngày trở lại, không sốt, không máu. Lần này bà đã bắt đầu uống ORS ngay, đến trạm y tế xã khám sớm hơn. Nguyên nhân nền chưa xử lý xong: mâu thuẫn với con dâu chưa nguôi nên bà vẫn tự nấu một nồi ăn cả ngày và uống nước lu không đun sôi. Lần này cán bộ trạm xã gọi con trai về, con trai mời hàng xóm nấu cơm giúp vài ngày. Tiêu chảy hết sau 3 ngày và bà không tái phát thêm. Cuộc nói chuyện trong nhà giải quyết cả nguồn lây lẫn nguyên nhân khiến bà đòi nằm viện.",
+ "nhieu": [
+  "Đòi truyền dịch: bà tin truyền mới khỏi; thật ra bà muốn được nằm lại vì cô đơn, không phải vì thiếu nước. Từ chối truyền mà không hỏi lý do thật sẽ làm bà thất vọng, còn nhập viện chiều bà thì không giải quyết gì.",
+  "Sốt nhẹ và đau quặn bụng ở người 66 tuổi gợi nghĩ lỵ hoặc viêm ruột thừa: phân không máu, không mót rặn, bụng không khu trú, siêu âm không thấy ruột thừa viêm. Không có CT: dùng điểm lâm sàng, siêu âm và hẹn tái khám.",
+  "Phun thuốc sâu tuần trước làm người ta nghĩ ngộ độc hóa chất: không triệu chứng thần kinh, đồng tử bình thường, nên loại.",
+  "Amoxicillin tự mua: tưởng là 'thuốc kháng sinh cho đau bụng', thực ra không có chỉ định và chỉ làm chậm hồi phục."
+ ],
+ "bai_hoc_bien": [
+  "Tiêu chảy cấp ở người cao tuổi: đánh giá mất nước mọi ca (IDSA 2017 KC 5). Mất nước độ 1 và uống được thì ORS, không truyền.",
+  "Người đòi truyền dịch thường đòi một điều khác: hỏi 'bà lo gì', 'ở nhà ai chăm bà' để mở lý do thật, rồi mới giải thích ORS.",
+  "Hỏi thuốc phải hỏi cụ thể: 'có tự mua kháng sinh, thuốc cầm tiêu chảy không'. Hỏi chung thì bà chỉ kể thuốc huyết áp.",
+  "Đỡ một phần: phân biệt hồi phục chậm bình thường với thất bại. Hỏi sốt, phân máu, mất nước; nếu không thì tìm nguyên nhân kéo dài (kháng sinh kéo dài, nguồn lây còn).",
+  "Tái phát: nguồn lây (cơm nguội, nước chưa đun sôi) và nguyên nhân gia đình không được xử lý thì bệnh quay lại; giáo dục và hẹn tái khám có người nhà."
+ ],
+ "diem_nho": [
+  "Tiêu chảy: ≥ 3 lần phân lỏng/24 giờ; cấp < 7 ngày, kéo dài 7–13 ngày, dai dẳng 14–29 ngày (IDSA 2017 tr. e53).",
+  "Mức độ mất nước 1–3 (QĐ 5642/2015 mục 3.1). Độ 1 uống được: ORS; độ 2 trở lên hoặc không uống được: truyền Ringer lactat (mục 4.2.3a).",
+  "Kháng sinh theo kinh nghiệm: IDSA 2017 KC 36 và ACG 2016 KC 9–10 không dùng; QĐ 5642/2015 mục 4.2.1 cân nhắc ở người già có sốt (xem sổ mâu thuẫn).",
+  "Loperamid: tránh khi có sốt (IDSA 2017 KC 47); không lạm dụng (QĐ 5642/2015 mục 4.2.3b).",
+  "Không có CT: nghi viêm ruột thừa dùng điểm lâm sàng cộng siêu âm (WSES 2025 Rec 3.1); Alvarado không đủ đặc hiệu để khẳng định ở người lớn (WSES 2020 Rec 1.3); AIR, AAS tốt hơn (Rec 1.4).",
+  "Tiêu chảy ≥ 14 ngày chưa rõ nguyên nhân: nghĩ IBD, IBS (IDSA 2017 KC 28)."
+ ],
+ "nguon": [
+  "BYT QĐ 5642/2015 – TL-0038 – Bệnh tiêu chảy do vi khuẩn: mục 3.1–3.5, 4.1, 4.2.1–4.2.3, 5, 6",
+  "BYT QĐ 4178/2007 – TL-0176 – Bệnh tả: mục II.1, II.2g, III.2a",
+  "IDSA 2017 – TL-0230 – KC 5, 8, 18, 20, 22, 27–30, 36, 39, 41–43, 45, 47, 49, 52, 54, 55; Bảng 2, 3, 7; định nghĩa tr. e52–e54",
+  "ACG 2016 – TL-0233 – KC 2, 5, 6, 9–12; loperamid tr. 609–610",
+  "WSES 2025 – TL-0053 – Recommendation 1, 3.1, 3.4; WSES 2020 – TL-0263 – Recommendation 1.2.1, 1.3, 1.4",
+  "Không có trong tài liệu đã tải: thời gian uống 2–4 L ORS ở người lớn, mốc tái khám 3 ngày và 1 tuần, liều diosmectit và men vi sinh, ngưỡng giảm liều amlodipin khi mất nước, tác hại truyền dịch không cần thiết ở người cao tuổi, tiêu chí chi tiết AIR và AAS, dấu hiệu chi tiết ngộ độc hóa chất."
+ ],
+ "phien_ban_ca": "1 – viết mới (2026-11-08)",
+ "ghi_chu_bien_tap": [
+  "2026-11-08: ca viết mới. Đã đọc TL-0038 (Tiêu chảy do vi khuẩn mục 3–6), TL-0176 (mục II, III.2a), TL-0230 (KC 3–55, Bảng 2, 3, 7), TL-0233 (KC 1–12), TL-0053 (Rec 1–3), TL-0263 (Rec 1.2–1.4).",
+  "Hai lượt: lượt 1 ve_hen với ORS, không truyền, ngưng amoxicillin; lượt 2 'đỡ một phần', phát hiện vẫn uống amoxicillin và nguồn lây còn, ve_hen; kết cục tái phát do nguồn lây và mâu thuẫn chưa xử lý.",
+  "Mâu thuẫn nguồn ghi cả hai cách: kháng sinh theo kinh nghiệm (QĐ 5642/2015 mục 4.2.1 so với IDSA 2017 KC 36, ACG 2016 KC 9–10), xét nghiệm phân khi có sốt (IDSA KC 8 so với ACG KC 2), dịch uống thay ORS (ACG KC 5 so với IDSA Bảng 7), men vi sinh (ACG KC 6 so với IDSA KC 49).",
+  "Không có CT: lượt 1 thay bằng điểm lâm sàng và siêu âm (WSES 2025). Không cần mục danh mục mới."
+ ]
+}
