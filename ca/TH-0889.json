@@ -1,0 +1,861 @@
+{
+ "ma_ca": "TH-0889",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_tao_bon_chuc_nang",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Táo bón chức năng",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư đại trực tràng",
+   "Tắc ruột"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Tiếp xúc động vật",
+  "thuoc_dang_dung": "Thuốc đái tháo đường đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được nghỉ khỏi công việc",
+  "loai_ket_cuc": "Biến chứng do bỏ sót"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Tư",
+  "tuoi": 66,
+  "gioi": "Nữ",
+  "nghe": "Nông dân (trồng lúa, nuôi hai con bò)",
+  "can_nang": 52,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'dì'. Bà tự xưng 'tui', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Chịu khó, cam chịu, nói ngắn, hay cười trừ 'không sao đâu, tui quen rồi'. Ngại nói chuyện đại tiện, xấu hổ. Biết mình bị tiểu đường, uống thuốc đều nhưng không biết tên thuốc khác.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: câu hỏi cảm giác ('có khó chịu nhiều không?') bà đều trả lời 'không sao'. Chỉ kể thật khi bác sĩ hỏi chức năng cụ thể: ngồi cầu bao lâu, có phải dùng tay không, quần có dơ không, đứng dậy có chóng mặt không, một ngày làm được những việc gì.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a74",
+   "toc": "#d9d4cc",
+   "kieuToc": "bui",
+   "ao": "#6b7d6a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đầy bụng, ăn không ngon, đi cầu ít",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có xét nghiệm (máu, phân, nước tiểu) và không có siêu âm; X-quang, CT, nội soi tiêu hóa cũng không làm được. Chỉ còn máy thử đường huyết mao mạch và điện tim. Phải quyết định chủ yếu bằng hỏi và khám."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Dì Lê Thị Tư, 66 tuổi, nông dân, đái tháo đường uống metformin. Đến vì đầy bụng, ăn không ngon khoảng 3 tháng, nói 'đi cầu hơi ít'. Sinh hiệu: HA 134/80 mmHg, mạch 84 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho dì Tư nằm viện vì sợ tắc ruột: dì không nôn, còn trung tiện, bụng mềm không đau, không sẹo mổ, nên không có dấu tắc (WSES 2018 TL-0093, mục History taking and physical examination). Hai con bò không ai chăm, con trai mất ngày công, trong khi việc cần làm là lấy phân ứ và bắt đầu thuốc nhuận tràng, làm được ngay ở phòng khám (AGA CPU 2026 BPA 7).",
+    "chuyen_tuyen": "Chuyển dì Tư lên tuyến trên đo áp lực hậu môn–trực tràng ngay là sớm: thăm dò chuyên sâu dành cho người đã thất bại với điều trị bước đầu và kháng thuốc thông thường (WGO 2025 mục 3.5; AGA CPU 2026 BPA 1), mà dì chưa làm sạch phân, chưa dùng thuốc ngày nào. Nhà ở xã, đi tỉnh mất cả ngày, tốn xe và viện phí, dì sẽ khó chịu đi lần nữa khi thật sự cần."
+   },
+   "loi_mo": "Chào bác sĩ. Tui đâu có bịnh gì nặng đâu, chỉ hơi đầy bụng, ăn không ngon thôi. Chắc tại thuốc tiểu đường.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "134/80",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đầy bụng, ăn không ngon khoảng 3 tháng, 'đi cầu hơi ít'. Bà nói không sao, chỉ ghé khám cho yên bụng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (nhẹ hóa)"
+    },
+    {
+     "id": "tan_suat",
+     "noi_dung": "Từ hồi trẻ đã 2–3 ngày mới đi cầu một lần, phân khô cứng như phân dê. Ba tháng nay còn khoảng 1 lần mỗi tuần. Lần nào cũng phải rặn, đi xong vẫn thấy chưa hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tần số, rặn, hình dạng phân, chưa hết (Rome IV)"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Mỗi lần ngồi cầu 20–30 phút. Phải dùng ngón tay móc phân ra, có lúc ấn vào gần hậu môn mới ra. Có cảm giác bị chặn ở hậu môn.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi 'có táo bón không' thì bà nói 'đi được mà'. Chỉ kể khi bác sĩ hỏi ngồi cầu bao lâu, có phải dùng tay giúp không, có cảm giác bị chặn không.",
+     "y": "Thủ thuật hỗ trợ, cảm giác tắc nghẽn hậu môn–trực tràng"
+    },
+    {
+     "id": "ro_ri",
+     "noi_dung": "Bốn năm hôm nay thỉnh thoảng rỉ chất lỏng nhầy vàng nâu làm dơ quần lót, không kìm được. Bà tưởng tiêu chảy do thuốc tiểu đường nên xấu hổ giấu. Trạm y tế xã cho thuốc 3 ngày (viên con nhộng 2 mg, loperamid), bà mua thêm uống tiếp: rỉ ít hơn nhưng bụng càng căng, càng không đi.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi quần lót có bị dơ không, có rỉ phân hay tiêu chảy không, hoặc đã uống thuốc gì để trị.",
+     "y": "Rỉ phân lỏng do ứ phân (tiêu chảy tràn); thuốc cầm tiêu chảy"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không đi cầu ra máu, không phân đen. Không sụt cân (52 kg như ba tháng trước). Chưa mổ bụng lần nào. Vẫn trung tiện được, không nôn, không đau quặn từng cơn; bụng chỉ căng tức âm ỉ, nặng nhất lúc chiều tối.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động; loại trừ ung thư, tắc ruột"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ba tháng trước vào chuồng, con bò đạp bà ngã, bầm đau mông và lưng, nằm gần một tuần. Từ đó ngồi xổm đau nên hay nhịn đi cầu, ít đi lại, và nặng hẳn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát: tiếp xúc động vật (bò đạp), nằm nhiều, nhịn đi cầu"
+    },
+    {
+     "id": "nuoc_xo",
+     "noi_dung": "Uống khoảng 4 ly nước mỗi ngày vì sợ đi tiểu đêm phải ra nhà vệ sinh ngoài vườn gần chuồng bò, tối. Ăn cơm với cá khô, rau ít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nước, chất xơ, thói quen"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Chỉ metformin 850 mg ngày 2 lần và loperamid mua gần đây. Không thuốc giảm đau mạnh, thuốc ngủ, viên sắt, canxi, thuốc dạ dày, thuốc huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rà thuốc gây táo bón"
+    },
+    {
+     "id": "dtd",
+     "noi_dung": "Tiểu đường 8 năm, uống metformin đều. Ít khi đo đường huyết ở nhà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đái tháo đường (nguyên nhân thứ phát có thể)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà thức 4 giờ sáng cắt cỏ, cho bò ăn, vắt sữa, rồi ra ruộng; con trai nói bà còn khỏe, không cho nghỉ. Bà mệt rã rời nhưng ngại nói, mong bác sĩ nói bà bệnh để con cho nghỉ bớt việc nặng.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi một ngày của dì làm những việc gì, vì sao hôm nay mới đi khám, hoặc dì mong điều gì sau buổi khám.",
+     "y": "Động cơ thật: muốn được nghỉ khỏi công việc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, gầy vừa (BMI 23,1), niêm mạc hồng, môi hơi khô, không vàng da.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng chướng nhẹ, mềm, không đau khi ấn, không phản ứng thành bụng. Có khối chắc, ấn lõm được ở hố chậu trái dọc khung đại tràng xuống (khối phân); không sờ thấy khối khác, gan lách không to, nhu động 5 lần/phút. Không sẹo mổ.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Trương lực cơ thắt bình thường. Bóng trực tràng đầy phân rắn thành khối lớn, không đẩy ra được; quanh khối có chất nhầy lỏng vàng nâu. Không sờ thấy khối u hay chỗ hẹp. Găng không dính máu.",
+     "k": 1
+    },
+    "soi_hau_mon": {
+     "a": "Trĩ nội độ I nhỏ, không nứt kẽ, không sa niêm mạc.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Vết bầm cũ mông trái đã mờ, cử động hông lưng bình thường.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "9,1 mmol/L (mẫu lúc khám, không rõ bữa ăn).",
+     "n": "Đường huyết hợp với đái tháo đường uống metformin; HbA1c không làm được ở cơ sở."
+    },
+    "fit": {
+     "n": "Cơ sở không làm được. Dì 66 tuổi chưa từng sàng lọc: ghi giấy hẹn FIT hoặc nội soi đại tràng ở tuyến trên khi có điều kiện (APCS 2022 Statement 3; USPSTF 2021 tuổi 50–75 hạng A)."
+    },
+    "ctm": {
+     "n": "Không có xét nghiệm máu: thiếu máu thiếu sắt (dấu báo động, WGO 2025 Bảng 6) phải thay bằng khám niêm mạc, cân nặng, hỏi máu trong phân."
+    },
+    "tsh": {
+     "n": "Không làm được. Suy giáp, tăng canxi là nguyên nhân thứ phát (WGO 2025 Bảng 3) nhưng lâm sàng không gợi ý; xét nghiệm này để dành khi điều trị ban đầu thất bại (WGO 2025 Hình 3, bước 4)."
+    },
+    "xq_bung": {
+     "n": "Không có X-quang. Không cần: không nôn, còn trung tiện, bụng mềm; X-quang bụng không cho biết nguyên nhân tắc (WSES 2018 TL-0093, mục Plain X-rays)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng mạn tính (thỏa tiêu chuẩn Rome IV) nặng lên sau chấn thương và ít vận động, kèm ứ phân cứng ở trực tràng gây rỉ phân lỏng (tiêu chảy tràn); có gợi ý rối loạn đại tiện; đái tháo đường uống metformin; chưa có dấu báo động",
+     "ok": 1,
+     "n": "Đi dưới 3 lần/tuần, rặn, phân cứng, chưa hết, cảm giác chặn, dùng ngón tay, từ nhiều năm (WGO 2025 Bảng 5). Thăm trực tràng có khối phân rắn. Rỉ nhầy ít là phân lỏng chảy quanh khối phân, không phải tiêu chảy thật."
+    },
+    {
+     "t": "Ung thư đại trực tràng",
+     "n": "Không máu trong phân, không sụt cân, không khối bụng hay trực tràng, triệu chứng có từ nhiều năm (WGO 2025 Bảng 6). Chưa loại trừ hoàn toàn bằng hình ảnh: 66 tuổi chưa từng sàng lọc nên hẹn FIT hoặc nội soi đại tràng (APCS 2022 Statement 3; USPSTF 2021)."
+    },
+    {
+     "t": "Tắc ruột",
+     "n": "Tắc ruột có đau quặn từng cơn, chướng, buồn nôn hoặc nôn, bí đại tiện, tiền sử mổ (WSES 2018 TL-0093). Dì không mổ, không nôn, còn trung tiện, bụng mềm, nhu động có. Tắc không hoàn toàn có thể kèm tiêu chảy nước và bị nhầm với viêm ruột (cùng nguồn)."
+    },
+    {
+     "t": "Tiêu chảy do metformin hoặc nhiễm trùng",
+     "n": "Chất lỏng chỉ rỉ ít, nhầy, không đi nhiều lần, không sốt; thăm trực tràng có khối phân rắn. Tiêu chảy, táo bón có thể do thần kinh tự chủ đái tháo đường, và cần cân nhắc tác dụng phụ của metformin (ADA 2026 TL-0296, mục 12, đoạn Gastrointestinal Neuropathies)."
+    },
+    {
+     "t": "Táo bón thứ phát (thuốc, suy giáp, tăng canxi, thần kinh tự chủ đái tháo đường)",
+     "n": "Chỉ có loperamid mới dùng, là thuốc liên quan táo bón (WGO 2025 Bảng 4); không có triệu chứng suy giáp, tăng canxi; chưa hỏi chóng mặt khi đứng. Xét nghiệm không làm được (WGO 2025 Bảng 3, Hình 3 bước 4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi chức năng cụ thể (ngồi cầu bao lâu, có dùng tay không, quần có dơ không, thuốc đã uống) và hỏi một ngày làm những việc gì, vì sao đến hôm nay",
+     "v": "c",
+     "n": "Nhiều người coi khó đi cầu là bình thường, xấu hổ nên giấu (WGO 2025 mục 3.1). Tiền sử phải gồm thuốc đã dùng, kể cả thuốc tự mua, và thuốc thụt, đặt (WGO 2025 mục 3.3)."
+    },
+    {
+     "t": "Thăm trực tràng bằng tay trước khi kê thuốc",
+     "v": "c",
+     "n": "Khám hậu môn–trực tràng tìm ứ phân, khối, hẹp, nứt, trĩ, rối loạn đại tiện (WGO 2025 mục 3.3; AGA CPU 2026 BPA 2)."
+    },
+    {
+     "t": "Ngưng loperamid, giải thích đó là rỉ quanh khối phân, thuốc cầm tiêu chảy làm nặng thêm",
+     "v": "c",
+     "n": "Thuốc chống tiêu chảy loperamid nằm trong danh sách thuốc liên quan táo bón (WGO 2025 Bảng 4). Chi tiết 'rỉ quanh khối phân' là lập luận lâm sàng của ca."
+    },
+    {
+     "t": "Làm sạch phân ứ ngay tại phòng khám (thụt hoặc đặt thuốc hậu môn) rồi mới duy trì bằng thuốc uống",
+     "v": "c",
+     "n": "Làm sạch ruột có ích khi khối lượng phân lớn; thụt, đặt thuốc có thể có lợi nhưng dữ liệu hạn chế (AGA CPU 2026 BPA 7). Chế phẩm và liều thụt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "PEG 17 g mỗi ngày kèm uống nước đủ, bisacodyl 5 mg khi 2 ngày liền không đi (tối đa 10 mg/ngày)",
+     "v": "c",
+     "n": "PEG là thuốc nền, khởi đầu 17 g/ngày, đáp ứng bền 6 tháng (AGA-ACG 2023 KC 2, Bảng 4; WGO 2025 mục 4.6). Bisacodyl dùng ngắn hạn hoặc cứu, 5 mg khởi đầu, tối đa 10 mg/ngày (KC 5, Bảng 4). Mốc 'khi 2 ngày liền không đi' là lựa chọn của ca."
+    },
+    {
+     "t": "Chỉnh thói quen: uống nước đều, đi bộ, ngồi cầu theo giờ sau bữa ăn, không nhịn khi buồn đi, ngồi xổm hoặc kê chân",
+     "v": "c",
+     "n": "Tăng nước, vận động, đáp ứng sớm khi buồn đi và tư thế ngồi xổm (WGO 2025 mục 4.6). Giờ 'sau bữa ăn' là chọn lựa của ca; tài liệu đã tải không nêu."
+    },
+    {
+     "t": "Giải thích: đây là táo bón mạn, cần chăm lâu dài, không phải do thuốc tiểu đường; đã khám không thấy dấu ung thư hay tắc ruột",
+     "v": "c",
+     "n": "Đặt kỳ vọng thực tế, bệnh mạn cần điều trị duy trì (AGA CPU 2026 BPA 4)."
+    },
+    {
+     "t": "Giấy giới thiệu FIT hoặc nội soi đại tràng ở tuyến trên theo hẹn (không khẩn)",
+     "v": "c",
+     "n": "FIT hằng năm hoặc nội soi mỗi 10 năm là xét nghiệm sàng lọc ưu tiên ở châu Á (APCS 2022 Statement 3); sàng lọc 50–75 tuổi hạng A (USPSTF 2021). Hai nguồn không mâu thuẫn ở tuổi 66. Thời hạn hẹn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần kèm nhật ký đi cầu; dặn đến ngay nếu nôn, bụng chướng to, bí trung tiện, đau quặn, đi ra máu hoặc phân đen",
+     "v": "c",
+     "n": "Dấu tắc ruột: đau quặn, chướng, nôn, bí đại tiện (WSES 2018 TL-0093). Máu và tắc là dấu báo động (WGO 2025 Bảng 6). Mốc 2 tuần là chọn lựa của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tìm cách giúp dì bớt việc nặng: viết lời dặn bằng chữ cho con trai, nhờ bớt việc chuồng bò trong thời gian điều trị",
+     "v": "a",
+     "n": "Giải quyết động cơ thật (muốn được nghỉ). Là câu giao tiếp, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng nhiều chất xơ và ăn nhiều rau ngay khi khối phân còn ở trực tràng",
+     "v": "a",
+     "n": "Chất xơ là bước đầu (WGO 2025 mục 4.2; AGA-ACG 2023 KC 1, psyllium) nhưng nên tránh khi có tắc và khi có rối loạn đại tiện (WGO 2025 mục 4.2); đợi sau làm sạch phân, tăng dần."
+    },
+    {
+     "t": "Kê tiếp loperamid hoặc men tiêu hóa, thuốc bổ, hẹn 1 tháng",
+     "v": "w",
+     "n": "Không thăm trực tràng, không giải quyết ứ phân; loperamid liên quan táo bón (WGO 2025 Bảng 4)."
+    },
+    {
+     "t": "Bisacodyl uống hằng ngày 15–20 mg cho nhanh",
+     "v": "h",
+     "n": "Tối đa 10 mg/ngày; dùng ngắn hạn hoặc khi cần (AGA-ACG 2023 KC 5, Bảng 4; WGO 2025 mục 4.6)."
+    },
+    {
+     "t": "Nhập viện hoặc chụp CT bụng vì nghi tắc ruột",
+     "v": "w",
+     "n": "Không có dấu tắc (WSES 2018 TL-0093); thụt và thuốc uống làm được ngoại trú."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng mạn (Rome IV), nặng lên sau chấn thương, ít vận động, nhịn đi cầu",
+     "Ứ phân cứng trực tràng gây rỉ phân lỏng (tiêu chảy tràn), tăng lên do loperamid",
+     "Có gợi ý rối loạn đại tiện (dùng ngón tay, cảm giác chặn): chưa kết luận",
+     "Chưa có dấu báo động; ung thư đại trực tràng và tắc ruột chưa có dấu hiệu",
+     "Bệnh kèm: đái tháo đường uống metformin; động cơ thật là muốn được nghỉ việc nặng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: (1) tần số, rặn, hình dạng phân, chưa hết, thủ thuật hỗ trợ; (2) dấu báo động và tiền sử mổ bụng; (3) rà thuốc kể cả thuốc tự mua; (4) nước, xơ, vận động, thói quen nhịn; (5) công việc, lý do đi khám hôm nay. Khám: toàn trạng, bụng, thăm trực tràng bắt buộc; không xét nghiệm nào làm được.",
+     "Vì sao không điển hình: dì kể 'hơi đầy bụng' và tưởng tiêu chảy do thuốc tiểu đường, không kêu 'bón'. Chỉ khi hỏi chức năng mới lộ ngồi 20–30 phút, móc tay, rỉ phân. Rome IV chỉ cần ≥ 2 tiêu chuẩn kéo dài 3 tháng, khởi phát ≥ 6 tháng (WGO 2025 Bảng 5). Tiêu chuẩn Rome V người lớn: không có trong tài liệu đã tải.",
+     "Loại ung thư đại trực tràng: dấu báo động gồm đổi thói quen đi cầu, sụt cân, thiếu máu thiếu sắt, tắc, khối bụng, chảy máu trực tràng, khởi phát gần đây hoặc ban đêm (WGO 2025 Bảng 6). Dì không có dấu nào rõ, triệu chứng nền có từ nhiều năm; ba tháng nay nặng lên có nguyên nhân giải thích được. Đây là đánh giá lâm sàng của ca. Dù vậy 66 tuổi chưa sàng lọc, nên ghi hẹn FIT hoặc nội soi đại tràng (APCS 2022 Statement 3; USPSTF 2021).",
+     "Loại tắc ruột: không mổ, không nôn, còn trung tiện, bụng mềm, nhu động có (WSES 2018 TL-0093). Rỉ phân lỏng trong táo bón nặng dễ nhầm với tiêu chảy; thăm trực tràng thấy khối phân là chìa khóa.",
+     "Thứ phát: loperamid (WGO 2025 Bảng 4), đái tháo đường (WGO 2025 Bảng 2, 3; ADA 2026 mục 12). Suy giáp, tăng canxi không xét nghiệm được; để sau nếu thất bại (WGO 2025 Hình 3 bước 4)."
+    ],
+    "phan_tich_xu_tri": [
+     "Làm sạch phân ứ rồi duy trì: thụt hoặc đặt thuốc hậu môn trước, sau đó PEG hằng ngày; bisacodyl là thuốc cứu (AGA CPU 2026 BPA 7; AGA-ACG 2023 KC 2, 5; WGO 2025 mục 4.6). PEG là thuốc nền; bisacodyl chỉ ngắn hạn hoặc khi cần.",
+     "Magie oxid cũng là lựa chọn bước đầu nhưng tránh khi thận kém (AGA-ACG 2023 KC 3); không đo được thận nên ưu tiên PEG. Psyllium đợi sau khi hết ứ phân.",
+     "Tái khám 2 tuần, nhật ký đi cầu, dặn dấu hiệu tắc ruột và chảy máu; hẹn sàng lọc đại tràng không khẩn.",
+     "Nhà ở xa: ghi số điện thoại phòng khám."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Thuốc thụt hoặc đặt hậu môn làm sạch phân (làm tại phòng khám)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Một lần tại phòng khám, lặp lại khi cần",
+      "duong": "Thụt/đặt hậu môn",
+      "thoi_diem": "Hôm nay, trước khi về",
+      "so_ngay": "1 lần, lặp lại thưa",
+      "ghi_chu": "AGA CPU 2026 BPA 7 (làm sạch ruột có ích khi phân nhiều; thụt, đặt thuốc có lợi nhưng dữ liệu hạn chế; không nên làm thường xuyên). Chế phẩm, liều: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Macrogol (polyethylene glycol, PEG)",
+      "ham_luong": "Gói bột pha uống (17 g PEG mỗi liều)",
+      "lieu": "17 g × 1 lần/ngày, pha đủ nước, chỉnh theo đáp ứng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, bắt đầu sau khi làm sạch phân",
+      "so_ngay": "Dùng đều; đánh giá lại khi tái khám",
+      "ghi_chu": "AGA-ACG 2023 KC 2, Bảng 4 (17 g/ngày, không có liều tối đa rõ); WGO 2025 mục 4.6. Tác dụng phụ: chướng, phân lỏng, buồn nôn. Quy đổi gói chế phẩm trong nước: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Bisacodyl",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên khi 2 ngày liền không đi cầu; tối đa 2 viên (10 mg)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Khi cần, ngắn hạn",
+      "ghi_chu": "AGA-ACG 2023 KC 5, Bảng 4; WGO 2025 mục 4.6. Tác dụng phụ: đau quặn, tiêu chảy. Mốc 'khi 2 ngày liền không đi' là lựa chọn của ca."
+     },
+     {
+      "thuoc": "Metformin (đang dùng)",
+      "ham_luong": "850 mg",
+      "lieu": "Giữ như cũ, 1 viên × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Không đổi ở lượt này; đã tách rỉ phân do ứ khỏi tác dụng phụ metformin (ADA 2026 mục 12). Loperamid: ngưng (WGO 2025 Bảng 4)."
+     }
+    ],
+    "dan_do": [
+     "Ngưng thuốc cầm tiêu chảy đã mua; mang các vỉ thuốc đang dùng khi tái khám.",
+     "Uống PEG mỗi sáng đều đặn, không bỏ khi đi được vài lần; bisacodyl chỉ khi 2 ngày liền không đi, tối đa 2 viên/ngày.",
+     "Uống nước đều trong ngày (đặt chai nước cạnh giường, dùng bô ban đêm hoặc đèn pin cho nhà vệ sinh ngoài vườn), đi bộ mỗi ngày, ngồi cầu sau bữa ăn, không nhịn khi buồn đi.",
+     "Bớt việc nặng trong thời gian điều trị; bác sĩ viết lời dặn bằng chữ để đưa con trai xem.",
+     "Đến ngay nếu nôn, bụng chướng to, không trung tiện, đau quặn từng cơn, đi ra máu hoặc phân đen (WSES 2018 TL-0093; WGO 2025 Bảng 6).",
+     "Tái khám sau 2 tuần, mang nhật ký đi cầu; hỏi giấy hẹn FIT hoặc nội soi đại tràng khi có điều kiện."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Dì Tư tái khám sau 2 tuần, đi một mình, nói 'đỡ rồi'. Sinh hiệu: HA 134/80 mmHg, mạch 82 l/p, SpO₂ 98%. Đường huyết mao mạch 8,4 mmol/L.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển dì Tư đi đo áp lực hậu môn–trực tràng ngay hôm nay chưa phải hướng tối ưu: hai tuần qua dì uống PEG nửa gói rồi tự bỏ 4 hôm, chưa dùng bisacodyl, tức là chưa có đợt điều trị bước đầu đủ liều (WGO 2025 mục 3.5, Hình 3 bước 4–5; AGA CPU 2026 BPA 1, 7). Nhà ở xã, đi tỉnh mất cả ngày, tốn xe và viện phí, mà dì quay về vẫn uống thuốc sai cách.",
+    "nhap_vien": "Nhập viện làm sạch ruột cho dì Tư là quá tay: khối phân đã hết, bụng mềm, còn trung tiện, không có dấu tắc (WSES 2018 TL-0093). Làm sạch ruột nhiều lần không nên lạm dụng vì tạo kỳ vọng sai về điều trị lặp lại (AGA CPU 2026 BPA 7). Dì mất ngày công, bò bỏ không ai chăm, và vẫn chưa học được cách dùng thuốc duy trì tại nhà."
+   },
+   "loi_mo": "Bác sĩ ơi, tui đỡ rồi, hết dơ quần rồi. Bụng còn hơi đầy, chắc không sao đâu.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "134/80",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khong_do",
+     "noi_dung": "Hết rỉ phân từ sau khi thụt. Nhưng mấy hôm nay lại 3–4 ngày mới đi một lần, vẫn rặn, vẫn phải dùng ngón tay móc, bụng còn đầy.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đỡ hẳn sau 2 tuần"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống PEG mỗi sáng nhưng chỉ nửa gói vì sợ đi lỏng như hồi trước; 4 hôm nay thấy đi được nên bỏ. Chưa dùng viên bisacodyl vì sợ 'nhờn thuốc'. Uống khoảng 5 ly nước.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi 'có uống thuốc đều không' thì bà nói 'đều'. Chỉ kể khi bác sĩ hỏi từng thuốc: uống mấy lần, bao nhiêu, có bỏ ngày nào, có dùng viên bisacodyl không.",
+     "y": "Không tuân thủ: dùng thiếu liều, tự bỏ thuốc"
+    },
+    {
+     "id": "chuc_nang2",
+     "noi_dung": "Ngồi cầu vẫn 15–20 phút, rặn mạnh, có lúc phân đã mềm vẫn không ra, phải dùng ngón tay. Cảm giác bị chặn ở hậu môn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Gợi ý rối loạn đại tiện: khó đi dù phân mềm"
+    },
+    {
+     "id": "chong_mat",
+     "noi_dung": "Mấy tuần nay hay chóng mặt, tối sầm mắt khi đứng dậy nhanh, nhất là khi từ chỗ cúi ở chuồng bò đứng lên. Chưa ngất, chưa ngã. Tưởng do tuổi.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi có chóng mặt, choáng, tối mắt khi đứng dậy, có té ngã không.",
+     "y": "Triệu chứng gợi ý bệnh thần kinh tự chủ"
+    },
+    {
+     "id": "bao_dong2",
+     "noi_dung": "Không đi cầu ra máu, không phân đen, không sụt cân (52 kg), không nôn, còn trung tiện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, môi ẩm hơn lần trước, không vàng da.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, chướng nhẹ, hết khối phân ở hố chậu trái, không đau, không khối khác. Nhu động 6 lần/phút.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Bóng trực tràng còn ít phân mềm, không còn khối cứng. Khi bảo rặn như đi cầu, cơ thắt hậu môn và cơ mu–trực tràng co lại thay vì giãn, ngón tay bị siết. Sức bóp hậu môn khá. Không khối, không hẹp, găng không máu.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 136/82 mmHg, mạch 84 l/p; đứng 1 phút 108/70 mmHg, mạch 88 l/p, chóng mặt; đứng 3 phút 106/68 mmHg. Tụt tâm thu 28, tâm trương 12 mmHg, mạch gần như không tăng.",
+     "k": 1
+    },
+    "soi_hau_mon": {
+     "a": "Trĩ nội độ I nhỏ, không nứt kẽ, hết nhầy.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "8,4 mmol/L (mẫu lúc khám).",
+     "n": "Đường huyết chấp nhận được; không làm HbA1c được."
+    },
+    "fit": {
+     "n": "Đã dặn hẹn sàng lọc đại tràng ở lượt 1; vẫn không làm được tại cơ sở."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng chưa đáp ứng sau 2 tuần vì dùng thuốc thiếu liều (PEG nửa gói, tự bỏ, chưa dùng bisacodyl); còn gợi ý rối loạn đại tiện (cơ thắt co khi rặn, dùng tay dù phân mềm); hạ huyết áp tư thế nghi thần kinh tự chủ đái tháo đường; ứ phân đã hết",
+     "ok": 1,
+     "n": "Rặn, dùng tay, cảm giác chặn nhiều năm; thăm trực tràng khi rặn cơ thắt co lại (WGO 2025 mục 3.3, Bảng 8). Thuốc chưa đủ liều nên chưa gọi là kháng trị. Tụt tâm thu 28 mmHg, mạch không tăng khi đứng (ADA 2026 TL-0296, mục 12, ngưỡng tụt > 20/> 10 mmHg)."
+    },
+    {
+     "t": "Táo bón kháng trị thật sự",
+     "n": "Định nghĩa cần thử đủ lối sống, thuốc, và liệu pháp sàn chậu khi có chỉ định (AGA CPU 2026 BPA 1); dì chưa uống đủ liều."
+    },
+    {
+     "t": "Ung thư đại trực tràng",
+     "n": "Không máu, không sụt cân, không khối, không thiếu máu rõ; đã hẹn sàng lọc (APCS 2022 Statement 3; WGO 2025 Bảng 6)."
+    },
+    {
+     "t": "Tắc ruột",
+     "n": "Hết khối phân, bụng mềm, còn trung tiện, không nôn (WSES 2018 TL-0093)."
+    },
+    {
+     "t": "Hạ huyết áp tư thế do mất nước hoặc thuốc",
+     "n": "Uống ít nước có thể góp phần; dì không dùng thuốc hạ áp, lợi tiểu. Kéo dài, mạch không tăng nên nghĩ thần kinh tự chủ (AGA CPU 2026 BPA 3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi từng thuốc dùng thế nào (mỗi lần mấy gói, có bỏ ngày nào, có dùng bisacodyl không) và lượng nước; gỡ nỗi sợ 'nhờn thuốc', 'đi lỏng'",
+     "v": "c",
+     "n": "Rà thuốc và lối sống ở mọi bệnh nhân (WGO 2025 mục 3.3; AGA CPU 2026 BPA 3). Lo ngại dùng thuốc nhuận tràng kích thích lâu dài là không có cơ sở khi kháng trị (AGA CPU 2026 BPA 7); bisacodyl bước đầu chỉ ngắn hạn/cứu (AGA-ACG 2023 KC 5)."
+    },
+    {
+     "t": "Thăm trực tràng và yêu cầu rặn để đánh giá cơ thắt, cơ mu–trực tràng",
+     "v": "c",
+     "n": "Khám tìm cơ mu–trực tràng co nghịch, giảm sức bóp và đẩy (WGO 2025 mục 3.3); thăm trực tràng cẩn thận ở mọi người táo bón mạn trước khi thăm dò (AGA CPU 2026 BPA 2)."
+    },
+    {
+     "t": "Hỏi chóng mặt khi đứng và đo huyết áp nằm – đứng",
+     "v": "c",
+     "n": "Triệu chứng và dấu hiệu bệnh thần kinh tự chủ đái tháo đường cần được tìm (ADA 2026 mục 12 KC 12.19; tụt tâm thu > 20 hoặc tâm trương > 10 mmHg). Có thể đánh giá thần kinh tự chủ ở người táo bón có triệu chứng tư thế (AGA CPU 2026 BPA 3)."
+    },
+    {
+     "t": "PEG đủ 17 g mỗi ngày, chỉnh theo phân (giảm khi lỏng), phối hợp bisacodyl 5 mg khi 2 ngày liền không đi (tối đa 10 mg/ngày)",
+     "v": "c",
+     "n": "PEG 17 g/ngày (AGA-ACG 2023 KC 2, Bảng 4); phối hợp thuốc thẩm thấu với thuốc kích thích khi đơn trị thất bại (AGA CPU 2026 BPA 7); WGO 2025 mục 4.1 bước 3. Bisacodyl: KC 5, Bảng 4."
+    },
+    {
+     "t": "Uống đủ nước, đi bộ mỗi ngày, ngồi cầu sau bữa ăn; đứng dậy từ từ khi chóng mặt",
+     "v": "c",
+     "n": "Nước, vận động, tư thế ngồi (WGO 2025 mục 4.6); hoạt động thể lực nên được khuyến khích ở người hạ huyết áp tư thế (ADA 2026 mục 12, Orthostatic Hypotension Management). 'Đứng dậy từ từ' là lời dặn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám 4 tuần kèm nhật ký đi cầu; nếu vẫn không đỡ sau điều trị đủ liều thì chuyển tuyến đo áp lực hậu môn–trực tràng, tống bóng, tập biofeedback",
+     "v": "c",
+     "n": "Thăm dò chức năng chỉ cho người đã thất bại lối sống và thuốc chuẩn (WGO 2025 mục 3.5; Hình 3 bước 5); rối loạn đại tiện cần được chẩn đoán và điều trị trước khi gọi là kháng trị (AGA CPU 2026 BPA 2). Mốc 4 tuần là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn ngất, ngã, chóng mặt nặng, nôn, bụng chướng to, bí trung tiện, máu hoặc phân đen: đến ngay",
+     "v": "c",
+     "n": "Dấu tắc và dấu báo động (WSES 2018 TL-0093; WGO 2025 Bảng 6)."
+    },
+    {
+     "t": "Chuyển tuyến ngay hôm nay đo áp lực hậu môn–trực tràng và tống bóng",
+     "v": "a",
+     "n": "Đa số bệnh nhân táo bón mạn nên được đo trước khi gọi là kháng trị; khoảng 37% có rối loạn đại tiện (AGA CPU 2026 BPA 2). Nhưng WGO 2025 mục 3.5 chỉ dùng khi đã thất bại điều trị chuẩn; nhà xa, thuốc chưa đủ liều nên chọn 'tối ưu 4 tuần rồi chuyển'. Hai nguồn khác nhau về thời điểm, cả hai chấp nhận."
+    },
+    {
+     "t": "Tăng bisacodyl lên 10 mg × 2 lần/ngày, dùng hằng ngày",
+     "v": "h",
+     "n": "Tối đa 10 mg/ngày; ngắn hạn hoặc khi cần (AGA-ACG 2023 KC 5, Bảng 4; WGO 2025 mục 4.6)."
+    },
+    {
+     "t": "Cho thuốc cầm tiêu chảy khi dì kể 'đi lỏng' lại hoặc kê tiếp vitamin, men tiêu hóa mà không đổi cách dùng thuốc",
+     "v": "w",
+     "n": "Loperamid liên quan táo bón (WGO 2025 Bảng 4); không sửa việc dùng thuốc thiếu liều."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng chưa đáp ứng vì dùng PEG thiếu liều và tự bỏ; chưa có đợt điều trị đủ liều",
+     "Gợi ý rối loạn đại tiện: cơ thắt co khi rặn, dùng tay dù phân mềm",
+     "Hạ huyết áp tư thế, mạch không tăng: nghi thần kinh tự chủ đái tháo đường",
+     "Ứ phân đã hết; chưa có dấu báo động; ung thư đại trực tràng và tắc ruột chưa có dấu hiệu"
+    ],
+    "phan_tich_chan_doan": [
+     "Quy trình thất bại điều trị: sai chẩn đoán? sai thuốc? không tuân thủ? biến chứng? đề kháng? Ở đây: thuốc đúng nhưng dùng nửa liều, tự bỏ, sợ 'nhờn thuốc'; chưa đủ để gọi kháng trị (AGA CPU 2026 BPA 1). Phải hỏi từng thuốc vì dì nói 'đều' khi hỏi chung.",
+     "Vì sao nghĩ rối loạn đại tiện: rặn mạnh, chặn hậu môn, dùng tay, khó đi dù phân mềm (WGO 2025 Bảng 8); thăm trực tràng khi rặn cơ thắt co lại (WGO 2025 mục 3.3). Chưa kết luận vì cần đo áp lực và tống bóng; khoảng 37% người táo bón mạn có rối loạn này (AGA CPU 2026 BPA 2).",
+     "Chóng mặt khi đứng, tụt tâm thu 28 mmHg mà mạch gần như không tăng: nghĩ thần kinh tự chủ đái tháo đường (ADA 2026 mục 12 KC 12.19; táo bón là một biểu hiện). Đây cũng là nguyên nhân thứ phát cần tìm (AGA CPU 2026 BPA 3). Mất nước nhẹ có thể góp phần.",
+     "Ung thư và tắc ruột: không dấu báo động mới, khối phân đã hết (APCS 2022 Statement 3; WSES 2018 TL-0093)."
+    ],
+    "phan_tich_xu_tri": [
+     "Sửa việc dùng thuốc trước khi kết luận thất bại: PEG đủ liều, chỉnh theo phân, kèm bisacodyl cứu; phối hợp khác cơ chế khi đơn trị thất bại (AGA-ACG 2023 KC 2, 5; AGA CPU 2026 BPA 7).",
+     "Hẹn 4 tuần với nhật ký để biết thật có kháng trị không; thất bại sau đó thì chuyển đo áp lực và tống bóng, tập biofeedback (WGO 2025 mục 3.5, 4.9; AGA CPU 2026 BPA 2). Nếu chọn chuyển sớm cũng chấp nhận (AGA CPU 2026 BPA 2).",
+     "Huyết áp tư thế: nguyên tắc điều trị là giảm triệu chứng tư thế, khuyến khích vận động, tránh thuốc làm tụt áp (ADA 2026 mục 12).",
+     "Những việc sai: bisacodyl quá liều; thuốc cầm tiêu chảy; đổi thuốc mà không kiểm tra cách dùng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Macrogol (PEG)",
+      "ham_luong": "Gói bột pha uống (17 g PEG mỗi liều)",
+      "lieu": "17 g × 1 lần/ngày, uống đủ liều; giảm nửa liều khi phân lỏng, tăng lại khi cứng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng đều 4 tuần rồi đánh giá",
+      "ghi_chu": "AGA-ACG 2023 KC 2, Bảng 4; WGO 2025 mục 4.6. Cách giảm nửa liều khi lỏng là lời dặn của ca; chỉnh theo đáp ứng (Bảng 4)."
+     },
+     {
+      "thuoc": "Bisacodyl",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên khi 2 ngày liền không đi cầu; tối đa 2 viên (10 mg)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "AGA-ACG 2023 KC 5, Bảng 4; phối hợp theo AGA CPU 2026 BPA 7."
+     },
+     {
+      "thuoc": "Metformin (đang dùng)",
+      "ham_luong": "850 mg",
+      "lieu": "1 viên × 2 lần/ngày như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Không đổi. Đánh giá lại đái tháo đường và thần kinh tự chủ ở tuyến trên (ADA 2026 mục 12)."
+     }
+    ],
+    "dan_do": [
+     "Uống PEG đủ một gói mỗi sáng, không tự bỏ; thấy phân lỏng thì giảm nửa gói chứ không ngưng hẳn.",
+     "Bisacodyl chỉ khi 2 ngày liền không đi; dùng không làm 'nhờn thuốc' theo cách bác sĩ đã dặn.",
+     "Uống nước đều, đi bộ, đứng dậy từ từ nhất là khi từ chỗ cúi đứng lên.",
+     "Ghi nhật ký: ngày nào đi cầu, phân cứng hay mềm, có phải dùng tay không.",
+     "Ngất, té ngã, nôn, bụng chướng to, không trung tiện, đi ra máu hoặc phân đen: đến ngay trạm y tế hoặc bệnh viện.",
+     "Tái khám sau 4 tuần mang nhật ký; nếu vẫn không đỡ sẽ chuyển lên tỉnh đo chức năng hậu môn–trực tràng."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 4 tuần",
+   "tiep_don": "Dì Tư tái khám sau 4 tuần, con trai chở đến. Vẫn đầy bụng, đi cầu ít; hôm nay thêm đau rát hậu môn và dính máu khi đi cầu. Sinh hiệu: HA 138/82 mmHg, mạch 86 l/p, SpO₂ 97%. Đường huyết mao mạch 8,8 mmol/L.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho dì Tư về, tăng thuốc, hẹn thêm 4 tuần là bỏ lỡ: dì đã dùng PEG và bisacodyl đủ liều gần 4 tuần mà vẫn đi dưới 3 lần/tuần, còn rặn và dùng tay, nên cần thăm dò chức năng, không phải tăng thuốc (WGO 2025 mục 3.5; AGA CPU 2026 BPA 1, 2). Đau hậu môn khiến dì càng nhịn đi cầu, phân càng cứng, nứt càng đau. Người 66 tuổi ra máu, chưa từng nội soi đại tràng mà bị hoãn thêm (WGO 2025 Bảng 6; APCS 2022 Statement 3). Nhà ở xa, hẹn xa dễ mất theo dõi.",
+    "cap_cuu": "Gọi cấp cứu cho dì Tư vì ra máu là quá mức: máu chỉ là vệt đỏ tươi dính giấy, huyết động ổn, bụng mềm, không nôn, không đau bụng dữ dội. Đây là chuyển tuyến có kế hoạch để đo áp lực hậu môn–trực tràng và nội soi đại tràng (WGO 2025 Bảng 6, mục 3.5). Cấp cứu làm dì tốn xe, chờ lâu ở khoa cấp cứu, trong khi nhu cầu thật là thăm dò chuyên khoa."
+   },
+   "loi_mo": "Bác sĩ ơi, thuốc uống đều hết rồi mà vẫn vậy. Mấy bữa nay đi cầu rát hậu môn, có chút máu thôi, chắc trĩ.",
+   "sinh_hieu": {
+    "mach": 86,
+    "ha": "138/82",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khong_do",
+     "noi_dung": "Vẫn đầy bụng, 1–2 lần mỗi tuần mới đi được, ngồi lâu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đỡ sau điều trị đủ liều"
+    },
+    {
+     "id": "tuan_thu3",
+     "noi_dung": "Uống PEG đủ một gói mỗi sáng gần 4 tuần theo nhật ký (quên 2 hôm). Dùng bisacodyl 5 mg khoảng 2 lần mỗi tuần, đi được nhưng đau quặn bụng. Uống 6–7 ly nước, đi bộ mỗi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã dùng thuốc đủ liều, đúng cách"
+    },
+    {
+     "id": "chuc_nang3",
+     "noi_dung": "Phân giờ mềm hơn nhưng vẫn phải rặn mạnh, vẫn phải dùng ngón tay móc, ngồi khoảng 20 phút, có cảm giác bị chặn ở hậu môn.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi phân bây giờ cứng hay mềm, vẫn phải rặn, ngồi bao lâu, có dùng tay không.",
+     "y": "Khó đi dù phân mềm: rối loạn đại tiện"
+    },
+    {
+     "id": "nut",
+     "noi_dung": "Một tuần nay mỗi lần đi cầu rát bỏng như dao cắt, đau thêm vài giờ sau đó. Có vệt máu đỏ tươi dính giấy và ngoài phân, không nhỏ giọt, không trộn trong phân. Sợ đau nên hai ba hôm nhịn đi. Bà tưởng trĩ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi có đau khi đi cầu, máu thế nào (nhỏ giọt, trộn phân, dính giấy), có nhịn đi cầu vì sợ đau không.",
+     "y": "Biến chứng: nứt kẽ hậu môn, máu đỏ tươi, nhịn đi cầu"
+    },
+    {
+     "id": "bao_dong3",
+     "noi_dung": "Không phân đen, máu không trộn trong phân, không sụt cân (52 kg), không nôn, còn trung tiện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động; loại trừ ung thư, tắc ruột"
+    },
+    {
+     "id": "chong_mat3",
+     "noi_dung": "Vẫn chóng mặt khi đứng dậy nhanh, không ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng thần kinh tự chủ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, không vàng da; thể trạng như cũ.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, chướng nhẹ, không đau, không khối phân, không khối khác. Nhu động 6 lần/phút.",
+     "k": 1
+    },
+    "soi_hau_mon": {
+     "a": "Nứt kẽ hậu môn ở vị trí 6 giờ (sau), đáy sạch, mép hơi dày, vệt máu đỏ tươi nhỏ. Trĩ nội độ I. Không sa trực tràng khi rặn.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Đau nhiều, cơ thắt hậu môn tăng trương lực. Khi bảo rặn cơ thắt và cơ mu–trực tràng co lại thay vì giãn như lần trước. Bóng trực tràng ít phân mềm, không khối, không hẹp. Găng có vệt máu đỏ tươi.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 138/82 mmHg, mạch 86 l/p; đứng 1 phút 110/70 mmHg, mạch 88 l/p, chóng mặt.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Giảm cảm giác châm chích ngón và mu bàn chân hai bên; phản xạ gân gót giảm.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "8,8 mmol/L (mẫu lúc khám).",
+     "n": "Đường huyết chấp nhận được."
+    },
+    "noi_soi_dt": {
+     "n": "Cơ sở không làm được. Có chỉ định: ra máu hậu môn ở 66 tuổi chưa từng sàng lọc (WGO 2025 Bảng 6; APCS 2022 Statement 3). Nứt kẽ giải thích được máu nhưng không đủ để bỏ qua nội soi. Không cấp cứu: hẹn kế hoạch."
+    },
+    "fit": {
+     "n": "Không làm được; nội soi đại tràng thay thế khi chuyển tuyến."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng không đáp ứng điều trị bước đầu đủ liều gần 4 tuần; nghi rối loạn đại tiện (cơ thắt co khi rặn, dùng tay dù phân mềm) cần đo áp lực hậu môn–trực tràng; biến chứng nứt kẽ hậu môn gây máu đỏ tươi và nhịn đi cầu; hạ huyết áp tư thế nghi thần kinh tự chủ đái tháo đường",
+     "ok": 1,
+     "n": "Đã thử lối sống và thuốc chuẩn; vẫn dưới 3 lần/tuần, rặn, dùng tay (WGO 2025 Bảng 5, mục 3.5; AGA CPU 2026 BPA 1). Nứt thấy trực tiếp ở 6 giờ. Chưa gọi kháng trị khi chưa làm ARM và tống bóng (AGA CPU 2026 BPA 2)."
+    },
+    {
+     "t": "Ung thư đại trực tràng",
+     "n": "Máu đỏ tươi dính giấy, giải thích bằng nứt; nhưng ra máu là dấu báo động (WGO 2025 Bảng 6) và dì chưa sàng lọc nên cần nội soi đại tràng (APCS 2022 Statement 3; USPSTF 2021)."
+    },
+    {
+     "t": "Tắc ruột",
+     "n": "Còn trung tiện, bụng mềm, không nôn, không đau quặn từng cơn; đi được khi dùng thuốc (WSES 2018 TL-0093)."
+    },
+    {
+     "t": "Trĩ chảy máu",
+     "n": "Trĩ nội độ I nhỏ; máu đi cùng nứt kẽ thấy trực tiếp và đau rát khi đi cầu."
+    },
+    {
+     "t": "Táo bón thứ phát do thuốc hoặc bệnh toàn thân",
+     "n": "Không dùng thuốc liên quan táo bón (WGO 2025 Bảng 4); đái tháo đường là yếu tố nguy cơ (Bảng 2); thần kinh tự chủ đã nghĩ tới; suy giáp, tăng canxi không xét nghiệm được tại cơ sở."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển bệnh viện tỉnh (tiêu hóa): đo áp lực hậu môn–trực tràng, nghiệm pháp tống bóng, chụp tống phân khi cần, tập biofeedback nếu có rối loạn đại tiện; đi theo hẹn, không cấp cứu",
+     "v": "c",
+     "n": "Đa số bệnh nhân táo bón mạn cần ARM kèm tống bóng và liệu trình biofeedback trước khi gọi là kháng trị; biofeedback có thể cần đến 6 tháng (AGA CPU 2026 BPA 2, 6). Chỉ định khi thất bại lối sống và thuốc chuẩn (WGO 2025 mục 3.5, Bảng 7, Hình 3 bước 5, mục 4.9)."
+    },
+    {
+     "t": "Cùng đợt chuyển: nội soi đại tràng vì ra máu và chưa từng sàng lọc ở tuổi 66",
+     "v": "c",
+     "n": "Ra máu hậu môn là dấu báo động (WGO 2025 Bảng 6); nội soi đại tràng là xét nghiệm sàng lọc ưu tiên ở châu Á (APCS 2022 Statement 3); sàng lọc 50–75 tuổi hạng A (USPSTF 2021)."
+    },
+    {
+     "t": "Giấy chuyển ghi: thuốc đã dùng và thời gian, nhật ký đi cầu, nứt kẽ hậu môn, huyết áp nằm – đứng, giảm cảm giác bàn chân, metformin; đề nghị tuyến trên đánh giá thần kinh tự chủ",
+     "v": "c",
+     "n": "Rà nguyên nhân thứ phát gồm thần kinh tự chủ, đánh giá khi có triệu chứng tư thế; pyridostigmine thử cho táo bón do đái tháo đường ở người thất bại thuốc thường (AGA CPU 2026 BPA 3, 8; ADA 2026 mục 12 KC 12.19, Gastrointestinal Neuropathies)."
+    },
+    {
+     "t": "Tiếp tục PEG 17 g/ngày; bisacodyl khi cần; dặn không nhịn đi cầu dù đau",
+     "v": "c",
+     "n": "AGA-ACG 2023 KC 2, 5, Bảng 4; WGO 2025 mục 4.6 (đáp ứng sớm khi buồn đi). Điều trị tại chỗ nứt kẽ (thuốc bôi, ngâm nước ấm): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích: táo bón mạn cần chăm lâu dài, mục tiêu thực tế; biofeedback cần kiên trì nhiều tháng; ra máu lần này do nứt nhưng vẫn phải nội soi",
+     "v": "c",
+     "n": "AGA CPU 2026 BPA 2, 4. Giải thích để dì không bỏ giữa chừng."
+    },
+    {
+     "t": "Dặn: máu nhiều, phân đen, nôn, bụng chướng to, không trung tiện, đau bụng dữ dội, ngất, té ngã: đến ngay; ghi số điện thoại phòng khám",
+     "v": "c",
+     "n": "Dấu báo động và dấu tắc (WGO 2025 Bảng 6; WSES 2018 TL-0093). Nhà xa nên dặn bằng văn bản, nhờ con trai ghi."
+    },
+    {
+     "t": "Thử linaclotide hoặc prucalopride tại cơ sở thay vì chuyển",
+     "v": "a",
+     "n": "Chỉ định khi không đáp ứng thuốc không kê đơn (AGA-ACG 2023 KC 8, 10, mạnh) và có thể dùng phối hợp (AGA CPU 2026 BPA 7), nhưng rối loạn đại tiện cần được chẩn đoán và điều trị trước (BPA 2) và vẫn cần nội soi vì ra máu."
+    },
+    {
+     "t": "Bisacodyl 10 mg × 2 lần/ngày dài ngày",
+     "v": "h",
+     "n": "Tối đa 10 mg/ngày (AGA-ACG 2023 KC 5, Bảng 4; WGO 2025 mục 4.6)."
+    },
+    {
+     "t": "Chỉ chữa trĩ và nứt, không thăm dò thêm ra máu và đi cầu khó",
+     "v": "w",
+     "n": "Bỏ sót dấu báo động ra máu ở 66 tuổi (WGO 2025 Bảng 6) và bỏ qua rối loạn đại tiện (AGA CPU 2026 BPA 2)."
+    },
+    {
+     "t": "Giới thiệu phẫu thuật cắt đại tràng",
+     "v": "w",
+     "n": "Phẫu thuật chỉ sau thăm dò sinh lý và khi nguyên nhân ở đại – trực tràng, không phải rối loạn đại tiện (WGO 2025 mục 4.4; AGA CPU 2026 BPA 2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng không đáp ứng điều trị bước đầu đủ liều",
+     "Nghi rối loạn đại tiện (dyssynergia): cần đo áp lực hậu môn–trực tràng và tống bóng",
+     "Biến chứng: nứt kẽ hậu môn 6 giờ, máu đỏ tươi, nhịn đi cầu",
+     "Hạ huyết áp tư thế, giảm cảm giác bàn chân: nghi thần kinh tự chủ đái tháo đường",
+     "Ra máu ở 66 tuổi chưa sàng lọc: cần nội soi đại tràng"
+    ],
+    "phan_tich_chan_doan": [
+     "Điểm gãy trong chuỗi quyết định: ba tháng trước, nơi khám đầu tiên nghe 'đi lỏng' rồi cho thuốc cầm tiêu chảy mà không thăm trực tràng; dì giấu và nói 'không sao'. Khối phân ứ đọng, rặn nhiều, nứt kẽ, nhịn đi cầu, vòng xoắn nặng thêm. Thăm trực tràng ở lượt 1 là mắt xích bị bỏ sót.",
+     "Vì sao lúc này là thất bại thật: PEG đủ gần 4 tuần, bisacodyl cứu, nước, đi bộ mà vẫn dưới 3 lần/tuần, rặn, dùng tay, cơ thắt co khi rặn (WGO 2025 Bảng 5, 8; AGA CPU 2026 BPA 1). Thất bại với thuốc chuẩn là lúc dùng thăm dò chức năng (WGO 2025 mục 3.5).",
+     "Rối loạn đại tiện: khoảng 37% người táo bón mạn; chẩn đoán cần ít nhất 2 trong 3 test bất thường (ARM, tống bóng ≥ 1 phút, chụp tống phân); biofeedback là nền tảng (AGA CPU 2026 BPA 2).",
+     "Ra máu: nứt kẽ giải thích được vệt máu đỏ tươi dính giấy, nhưng ra máu là dấu báo động; 66 tuổi chưa sàng lọc nên nội soi đại tràng (WGO 2025 Bảng 6; APCS 2022 Statement 3; USPSTF 2021).",
+     "Tắc ruột: loại bằng lâm sàng (WSES 2018 TL-0093). Chẩn đoán đích vẫn là táo bón chức năng (kèm rối loạn đại tiện) khi nội soi và ARM xong."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến có kế hoạch, không cấp cứu: ARM, tống bóng, biofeedback, nội soi đại tràng, đánh giá thần kinh tự chủ trong cùng một chuyến để dì chỉ đi một lần (nhà xa).",
+     "Những việc sai: hẹn thêm 4 tuần; gọi cấp cứu; chữa trĩ không nội soi; cắt đại tràng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Macrogol (PEG)",
+      "ham_luong": "Gói bột pha uống (17 g PEG mỗi liều)",
+      "lieu": "17 g × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp cho đến khi tuyến trên điều chỉnh",
+      "ghi_chu": "AGA-ACG 2023 KC 2, Bảng 4; WGO 2025 mục 4.6."
+     },
+     {
+      "thuoc": "Bisacodyl",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên khi 2 ngày liền không đi; tối đa 2 viên (10 mg)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "AGA-ACG 2023 KC 5, Bảng 4. Đau quặn là tác dụng phụ thường gặp."
+     },
+     {
+      "thuoc": "Metformin (đang dùng)",
+      "ham_luong": "850 mg",
+      "lieu": "1 viên × 2 lần/ngày như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Dùng tiếp",
+      "ghi_chu": "Tuyến trên đánh giá lại đái tháo đường và biến chứng thần kinh (ADA 2026 mục 12)."
+     }
+    ],
+    "dan_do": [
+     "Mang nhật ký, các vỉ thuốc và giấy chuyển lên bệnh viện tỉnh; đi một lần cho đủ đo hậu môn–trực tràng, nội soi đại tràng, khám thần kinh.",
+     "Vẫn uống PEG mỗi sáng và bisacodyl khi cần; không nhịn đi cầu dù đau, ngồi cầu sau bữa ăn.",
+     "Đứng dậy từ từ; không tự đi một mình khi đang chóng mặt.",
+     "Máu nhiều, phân đen, nôn, bụng chướng to, không trung tiện, đau bụng dữ dội, ngất: đến ngay cơ sở y tế gần nhất hoặc gọi số phòng khám đã ghi.",
+     "Táo bón là bệnh mạn, tập biofeedback có thể cần nhiều tháng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ba ngày sau con trai chở dì Tư lên bệnh viện tỉnh. Nội soi đại tràng: niêm mạc bình thường, không u, không polyp, trĩ nội độ I và một nứt kẽ ở 6 giờ. Đo áp lực hậu môn–trực tràng: áp lực nghỉ cao, cơ thắt co nghịch thường khi rặn, nghiệm pháp tống bóng kéo dài hơn 1 phút: rối loạn đại tiện. Khám thần kinh tự chủ: tụt huyết áp tư thế, giảm cảm giác bàn chân. Bác sĩ tuyến tỉnh bắt đầu tập biofeedback, cho dì tiếp tục PEG, nhắc dì dùng thuốc đúng và hẹn tái khám đường huyết. Biến chứng (ứ phân, rỉ phân, nứt kẽ, nhịn đi cầu) đã đến vì chuỗi bị gãy ở những nơi trước: nghe 'đi lỏng' là cho thuốc cầm tiêu chảy, không thăm trực tràng, và dì giấu bằng câu 'không sao'. Chuỗi được nối lại nhờ thăm trực tràng ở lượt 1 và thay đổi thái độ hỏi chức năng thay vì cảm giác.",
+ "nhieu": [
+  "Phủ nhận triệu chứng nặng: 'không sao', 'đi được mà'. Hỏi cảm giác ('có khó chịu nhiều không?') không ra; hỏi chức năng (ngồi bao lâu, có dùng tay không, quần có dơ không, thuốc uống thế nào, chóng mặt không) mới lộ ra.",
+  "Không có xét nghiệm và siêu âm: ra quyết định bằng hỏi, khám bụng và thăm trực tràng; loại ung thư và tắc ruột bằng lâm sàng, hẹn FIT hoặc nội soi đại tràng theo kế hoạch.",
+  "Rỉ phân lỏng (tiêu chảy tràn) bị nhầm với tiêu chảy do thuốc tiểu đường và cầm bằng loperamid; chóng mặt khi đứng bị tưởng do tuổi."
+ ],
+ "bai_hoc_bien": [
+  "Táo bón ở người cao tuổi thường không được kêu là 'bón': lộ ra bằng đầy bụng, ăn kém, rỉ phân. Luôn thăm trực tràng (WGO 2025 mục 3.3; AGA CPU 2026 BPA 2).",
+  "Rỉ phân lỏng trên nền đi cầu ít là gợi ý ứ phân; thuốc cầm tiêu chảy có thể làm nặng (WGO 2025 Bảng 4).",
+  "Không đỡ: kiểm tra tuân thủ từng thuốc trước khi gọi là kháng trị (AGA CPU 2026 BPA 1, 7).",
+  "Thất bại sau điều trị đủ liều: chuyển đo áp lực hậu môn–trực tràng và tống bóng, biofeedback (AGA CPU 2026 BPA 2; WGO 2025 mục 3.5).",
+  "Đái tháo đường: nghĩ thần kinh tự chủ khi táo bón kèm chóng mặt tư thế (ADA 2026 mục 12).",
+  "Ra máu ở 66 tuổi chưa sàng lọc: nứt kẽ không thay thế nội soi đại tràng (WGO 2025 Bảng 6; APCS 2022 Statement 3).",
+  "Muốn được nghỉ việc nặng là lý do thật: hỏi một ngày làm gì, dặn bằng chữ để gia đình bớt việc cho dì."
+ ],
+ "diem_nho": [
+  "Rome IV: ≥ 2 tiêu chuẩn (rặn, phân cứng Bristol 1–2, chưa hết, cảm giác chặn, thủ thuật hỗ trợ, < 3 lần/tuần) 3 tháng, khởi phát ≥ 6 tháng (WGO 2025 Bảng 5). Rome V người lớn: không có trong tài liệu đã tải.",
+  "PEG 17 g/ngày là thuốc nền (AGA-ACG 2023 KC 2); bisacodyl 5 mg, tối đa 10 mg/ngày, ngắn hạn hoặc cứu (KC 5, Bảng 4).",
+  "Thăm trực tràng bắt buộc; ARM + tống bóng; biofeedback là nền tảng khi rối loạn đại tiện, có thể cần đến 6 tháng (AGA CPU 2026 BPA 2).",
+  "Tụt huyết áp tâm thu > 20 hoặc tâm trương > 10 mmHg khi đứng, mạch không tăng: nghĩ thần kinh tự chủ đái tháo đường (ADA 2026 mục 12).",
+  "Dấu báo động: đổi thói quen, sụt cân, thiếu máu, tắc, khối, ra máu, mới khởi phát (WGO 2025 Bảng 6)."
+ ],
+ "nguon": [
+  "WGO Global Guideline – Chronic Constipation 2025 – kho cũ tltk-10000-ca (02 Tiêu hóa – gan mật/Quốc tế) – mục 3.1, 3.3–3.5, 4.1, 4.2, 4.4, 4.6, 4.9; Bảng 2–9; Hình 3",
+  "AGA-ACG 2023 – Pharmacological management of chronic idiopathic constipation – TL-0208 – Khuyến cáo 1–10 (Bảng 1), Bảng 4",
+  "AGA Clinical Practice Update 2026 – Refractory constipation – TL-0184 – Best Practice Advice 1–4, 6–8",
+  "ADA 2026 Standards of Care – TL-0296 – mục 12 (Autonomic Neuropathy, KC 12.19; Gastrointestinal Neuropathies; Orthostatic Hypotension Management)",
+  "WSES Bologna 2018 – tắc ruột do dính – TL-0093 – mục History taking and physical examination, Plain X-rays",
+  "Asia-Pacific Working Group 2022 – Colorectal cancer screening – TL-0217 – Statement 3; USPSTF 2021 – TL-0221 – tuổi 50–75 (Grade A)",
+  "Rome V 2026 (TL-0187): bản đã tải là khảo sát dịch tễ, không có tiêu chuẩn chẩn đoán; dùng Rome IV qua WGO 2025.",
+  "Không có trong tài liệu đã tải: tiêu chuẩn Rome V người lớn; chế phẩm, liều thụt/đặt thuốc làm sạch phân ở người lớn; điều trị tại chỗ nứt kẽ hậu môn; quy đổi PEG theo gói trong nước; mốc tái khám 2 tuần và 4 tuần; thời hạn hẹn FIT/nội soi đại tràng."
+ ],
+ "phien_ban_ca": "1 – viết theo kho tài liệu (2026-11-08)",
+ "ghi_chu_bien_tap": [
+  "2026-11-08: viết ca TH-0889 (3 lượt). Tài liệu đã đọc: WGO 2025 (mục 2, 3, 4; Bảng 2–9; Hình 3), AGA-ACG 2023 (KC 1–10, Bảng 4), AGA CPU 2026 TL-0184 (BPA 1–8), ADA 2026 TL-0296 mục 12, WSES 2018 TL-0093, APCS 2022 TL-0217, USPSTF 2021 TL-0221.",
+  "Thiếu tài liệu: tiêu chuẩn Rome V người lớn; cách làm sạch phân ở người lớn (chế phẩm, liều); điều trị nứt kẽ hậu môn; mốc tái khám.",
+  "Ràng buộc nguồn lực: khoa_cls ghi xn và siêu âm; dùng đường huyết mao mạch (tham dò tại giường)."
+ ]
+}
