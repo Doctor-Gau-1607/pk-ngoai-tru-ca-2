@@ -1,0 +1,465 @@
+{
+ "ma_ca": "TH-0608",
+ "phien_ban_kho": "0.3",
+ "benh": "Tiêu chảy cấp nhiễm trùng",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Tiêu chảy cấp nhiễm trùng",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lỵ trực trùng",
+   "Viêm ruột thừa"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Ngư dân",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất",
+  "thuoc_dang_dung": "Vitamin, thực phẩm chức năng",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu"
+ },
+ "benh_nhan": {
+  "ten": "Lê Văn Tâm",
+  "tuoi": 27,
+  "gioi": "Nam",
+  "nghe": "Ngư dân đi tàu đánh cá xa bờ",
+  "can_nang": 62,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi anh là 'em' hoặc 'anh Tâm'. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói nhanh, hơi cộc, quen chịu đựng, ít khi đi khám. Ngoài tiêu chảy thì anh mệt vì mấy tuần nay ngủ không được. Hay nói 'chắc ngộ độc thuốc' vì hôm trước dọn khoang tàu.",
+  "kieu_nhieu": "Ở xa, khó tái khám: nhà ở xã đảo ven biển, đi đò rồi xe máy mất gần 3 giờ mới tới phòng khám; hai ngày nữa tàu ra khơi. Anh chỉ nói rõ khi bác sĩ hỏi về đường đi, ai ở cùng, có quay lại được không, có ra biển không.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#b98a62",
+   "toc": "#1f1a17",
+   "kieuToc": "ngan",
+   "ao": "#3d5a6c",
+   "aoKieu": "phong",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Đi ngoài phân lỏng 2 ngày, đau quặn bụng, ngư dân ở xa (TH-0608)",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Lê Văn Tâm, 27 tuổi, ngư dân đi tàu xa bờ, ở xã đảo. Đến vì đi ngoài phân lỏng hai ngày, đau bụng quặn. Sinh hiệu: mạch 92 l/p, HA 110/70 mmHg, nhiệt độ 37,4 °C, nhịp thở 18, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện anh Tâm khi mất nước độ 1, uống được, huyết động ổn, không sốt, phân không máu là quá mức; mất nước độ I uống được thì bù bằng ORS (TL-0038 mục 4.2.3a). Anh phải nghỉ đi biển nhiều ngày, mất thu nhập, trong khi nợ tàu chưa trả; nằm viện còn làm anh càng khó ngủ. Giường viện dành cho mất nước độ II trở lên hoặc không uống được.",
+    "chuyen_tuyen": "Chuyển tuyến trên cho tiêu chảy cấp nhẹ là quá tay: chỉ định kháng sinh/xét nghiệm sâu khi sốt, phân máu, nhiễm trùng toàn thân (IDSA 2017 KC 3, 36). Anh đi đò, xe máy gần 3 giờ để chen vào cấp cứu tuyến trên, mất ngày công, tốn kém, và vẫn nhận lời dặn uống ORS. Chuyển tuyến chỉ cần khi mất nước nặng, không bù được tại chỗ (TL-0038 mục 4.2.3a)."
+   },
+   "loi_mo": "Chào bác sĩ. Hai ngày nay em đi ngoài lỏng, đau bụng quặn. Chắc em bị ngộ độc hóa chất hồi dọn tàu rồi. Bác sĩ cho em thuốc để ngủ được nữa.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "110/70",
+    "nhiet": "37,4",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi ngoài phân lỏng hai ngày nay, đau quặn quanh rốn, bụng ồn ào.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "tinh_chat_phan",
+     "noi_dung": "Từ sáng hai hôm trước đi ngoài khoảng 8 lần/ngày, phân lỏng như nước có vài mảnh thức ăn, màu vàng nâu, không có máu, không nhầy, không mót rặn. Đêm qua đi 5–6 lần, lượng ít dần. Không phải kiểu nước trong như nước vo gạo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân: loại tả, lỵ"
+    },
+    {
+     "id": "sot_non",
+     "noi_dung": "Nôn hai lần chiều ngày đầu rồi hết nôn. Thấy ớn lạnh nhẹ tối qua, không đo nhiệt độ. Không sốt cao, không rét run.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, nôn"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Đau quặn từng cơn quanh rốn, đi ngoài xong dịu bớt. Không đau cố định một chỗ, không đau dồn xuống hố chậu phải, đi lại không đau thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau: loại trừ ruột thừa"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Ba ngày trước, cập bến, ăn nhậu với hai anh em cùng tàu: gỏi mực và ghẹ luộc để từ trưa đến tối. Hai người kia cũng đau bụng, đi ngoài lỏng, một anh đã hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ: ăn chung, có người cùng bị"
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Hôm trước ăn nhậu, buổi sáng anh dọn khoang chứa cá bằng nước tẩy rửa đậm đặc và xịt thuốc diệt gián khoảng một giờ trong khoang kín, có đeo khẩu trang vải. Lúc đó hơi cay mũi, ho vài tiếng, không tức ngực, không chảy nước mắt hay nước dãi nhiều. Anh nghĩ 'ngộ độc hóa chất' nên sợ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiếp xúc hóa chất: red herring"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Khát vừa, miệng hơi khô, đi tiểu ít hơn thường, nước tiểu vàng sậm, nhưng vẫn uống được nước, không chóng mặt khi đứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất nước"
+    },
+    {
+     "id": "uong_nuoc",
+     "noi_dung": "Hai ngày nay chỉ uống nước lọc và nước ngọt, ăn ít cháo. Chưa dùng oresol. Chưa uống kháng sinh hay thuốc cầm tiêu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đã xử trí gì"
+    },
+    {
+     "id": "tpcn",
+     "noi_dung": "Mỗi sáng uống một viên vitamin tổng hợp mua trên mạng, thỉnh thoảng thêm viên 'bổ gan' dạng thực phẩm chức năng của bạn tàu. Không rõ thành phần, không dùng thuốc nào khác, không dị ứng thuốc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì anh nói không dùng thuốc nào. Chỉ kể vitamin và viên bổ gan khi bác sĩ hỏi thêm về vitamin, thực phẩm chức năng, thuốc bổ.",
+     "k": 0,
+     "y": "Thuốc đang dùng"
+    },
+    {
+     "id": "di_lai",
+     "noi_dung": "Nhà ở xã đảo, đò chiều mới có chuyến về; hai ngày nữa tàu ra khơi bảy đến mười ngày, trên tàu không có thuốc men gì ngoài hộp sơ cứu. Nhà không có sóng điện thoại ổn định ngoài bến.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi nhà ở đâu, đi lại thế nào, có quay lại được không, bao giờ ra biển.",
+     "k": 1,
+     "y": "Ở xa, khó tái khám"
+    },
+    {
+     "id": "mat_ngu",
+     "noi_dung": "Ba tuần nay khó ngủ: nằm hơn hai giờ mới chợp mắt, hay thức dậy lúc 3 giờ sáng. Đêm trực lái tàu, ngày ngủ chập chờn vì ồn, hay nghĩ nợ tiền vay đóng máy tàu. Mong bác sĩ cho thuốc ngủ để 'ngủ một giấc cho khỏe', nói vòng vo là 'bị tiêu chảy nên không ngủ được'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói thật khi bác sĩ hỏi về giấc ngủ, hoặc hỏi anh còn lo điều gì, còn muốn xin gì khác ngoài chữa tiêu chảy.",
+     "k": 0,
+     "y": "Lý do thật: muốn thuốc ngủ"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khỏe, không bệnh dạ dày, không bệnh gan, không uống rượu thường xuyên (chỉ nhậu khi cập bến), hút thuốc lá ít. Chưa mổ bụng bao giờ. Hay uống nước mưa chứa trong thùng trên tàu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử, nước uống"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi mệt. Niêm mạc môi khô nhẹ, mắt không trũng, nếp véo da mất nhanh. Không vàng da, không phát ban.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng lép, nhu động ruột tăng, ấn đau nhẹ lan tỏa quanh rốn, mềm. Hố chậu phải không đau khu trú, không phản ứng thành bụng, không dấu Rovsing, ho không đau tăng. Gan lách không to.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay 92 l/p đều, rõ. Tay chân ấm, thời gian đổ đầy mao mạch dưới 2 giây.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran. Không khò khè sau tiếp xúc hóa chất.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, nhịp thở đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      }
+     ]
+    },
+    "mat": {
+     "a": "Đồng tử hai bên 3 mm, đều, phản xạ ánh sáng tốt. Kết mạc không đỏ, không chảy nước mắt.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Hậu môn không nứt, không trĩ chảy máu. Thăm trực tràng: không khối, găng dính phân lỏng vàng nâu, không máu.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da khô nhẹ, không ban, không tổn thương bỏng hóa chất ở tay, không mồ hôi nhiều.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh táo, không run, không giật cơ, đi đứng vững, sức cơ bình thường.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Mệt, hơi cáu gắt, hay nhìn đồng hồ vì lo lỡ chuyến đò. Khi được hỏi kỹ, kể mất ngủ kéo dài, không có ý nghĩ tự hại.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "WBC 10,2 G/L · Hb 152 g/L · Hct 46% · TC 248 G/L",
+     "bang": {
+      "wbc": 10.2,
+      "neu_pct": 68,
+      "neu": 6.9,
+      "lym_pct": 24,
+      "lym": 2.4,
+      "hgb": 152,
+      "hct": 46,
+      "plt": 248
+     },
+     "n": "Hct nhỉnh cao gợi ý cô máu nhẹ; bạch cầu chỉ tăng nhẹ, chưa gợi nhiễm khuẩn xâm nhập nặng. Công thức máu có thể làm để hỗ trợ cân nhắc kháng sinh (TL-0038 mục 4.2.1)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 138 · K 3,6 · Cl 102 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 3.6,
+      "cl": 102
+     },
+     "n": "Điện giải bình thường: phù hợp mất nước độ 1. Không bắt buộc ở người trẻ uống được; làm khi có mất nước nhiều hoặc suy thận (TL-0038 mục 3.3)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Creatinin 84 µmol/L",
+     "bang": {
+      "creat": 84
+     },
+     "n": "Không bắt buộc khi uống được, huyết động ổn."
+    },
+    "soi_phan": {
+     "v": "e",
+     "r": "Phân lỏng vàng nâu, không máu, không nhầy. Soi: bạch cầu rải rác, không hồng cầu, không ký sinh trùng.",
+     "n": "Soi phân tìm hồng cầu, bạch cầu để cân nhắc kháng sinh (TL-0038 mục 3.3, 4.2.1). Kết quả không có hồng cầu, không thấy phẩy khuẩn: không thuộc chỉ định kháng sinh."
+    },
+    "cay_phan": {
+     "v": "u",
+     "r": "Đã lấy mẫu cấy phân. Kết quả chưa có trong buổi khám.",
+     "n": "Có ba người ăn chung, nghi ổ dịch nhỏ: xét nghiệm phân hợp lý (ACG 2016 KC 1). Không bắt buộc cho thể nhẹ không máu (ACG 2016 KC 2). Kết quả không về kịp để quyết định hôm nay."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 14 mg/L",
+     "n": "Không bắt buộc."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Quai ruột giãn nhẹ chứa dịch, ruột thừa không thấy, không dịch tự do, không hạch mạc treo to.",
+     "n": "Không cần ở bụng mềm, không khu trú; chỉ làm khi nghi ruột thừa (TL-0263 Statement 1.2 dùng thang điểm lâm sàng để loại trừ)."
+    },
+    "ct_bung": {
+     "n": "Không có chỉ định: không có dấu hiệu ngoại khoa."
+    },
+    "xq_bung": {
+     "n": "Không có chỉ định."
+    },
+    "hp_phan": {
+     "n": "Không liên quan."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Tỷ trọng 1.025, ceton +, bạch cầu và hồng cầu âm tính.",
+     "n": "Không bắt buộc."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng (nghi viêm dạ dày ruột do thực phẩm, ổ dịch nhỏ sau ăn chung hải sản), phân nước, mất nước độ 1, không có dấu hiệu xâm nhập, không phải ngộ độc hóa chất",
+     "ok": 1,
+     "n": "Tiêu chảy, nôn, đau quặn sau ăn chung, hai người khác cũng bị; phân không máu nhầy; mất nước độ 1 (mạch < 100, tiểu ít) (TL-0038 mục 3.1, 3.4)."
+    },
+    {
+     "t": "Tả",
+     "n": "Tả khởi phát rất nhanh, phân nước vo gạo 20–50 lần/ngày, không sốt, không đau quặn (TL-0038 mục 3.2; TL-0176 mục Chẩn đoán). Ca này 8 lần/ngày, phân vàng nâu, đau quặn bụng, lượng giảm dần: không giống. Hải sản sống là yếu tố dịch tễ cần nhớ, nên vẫn dặn nếu phân chuyển nước vo gạo."
+    },
+    {
+     "t": "Lỵ trực trùng (Shigella)",
+     "n": "Hội chứng lỵ: sốt cao, đau quặn, mót rặn, phân nhầy máu (TL-0038 mục 3.2). Anh không sốt cao, không mót rặn, phân không máu, không hồng cầu khi soi: chưa nghĩ; cần quay lại nếu xuất hiện (IDSA 2017 KC 3)."
+    },
+    {
+     "t": "Viêm ruột thừa",
+     "n": "Đau quặn lan tỏa quanh rốn, tiêu chảy đi trước và ngày càng thưa, hố chậu phải không đau khu trú, không phản ứng thành bụng. Thang điểm lâm sàng thấp đủ nhạy để loại trừ (TL-0263 Statement 1.2, KC 1.2.1); nhưng viêm ruột thừa có thể gây tiêu chảy nên cần dặn đau chuyển hố chậu phải."
+    },
+    {
+     "t": "Ngộ độc hóa chất (hít nước tẩy, thuốc diệt gián)",
+     "n": "Ngộ độc hóa chất nằm trong chẩn đoán phân biệt của tiêu chảy do vi khuẩn (TL-0038 mục 3.5). Hít một giờ trong khoang kín nhưng không ho khò khè, phổi sạch, đồng tử bình thường, không run, không tiết nhiều: không gợi ý. Chi tiết dấu hiệu ngộ độc từng loại hóa chất không có trong tài liệu đã tải cho ca này."
+    },
+    {
+     "t": "Tiêu chảy do virus, ký sinh trùng; bệnh đại tràng khác",
+     "n": "Phân biệt gồm tiêu chảy do virus, ký sinh trùng, viêm đại tràng mạn (TL-0038 mục 3.5). Khởi phát cấp, ổ dịch nhỏ, tự giới hạn, chưa kéo dài > 7 ngày (ACG 2016 KC 2) nên chưa cần mở rộng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Bù dịch đường uống bằng dung dịch ORS, uống theo nhu cầu, từng ngụm nhỏ nếu buồn nôn; hướng dẫn pha tại nhà",
+     "v": "c",
+     "n": "Mất nước độ 1, uống được: bù dịch bằng đường uống, dùng ORESOL (TL-0038 mục 4.2.3a). ORS pha 1 lít nước đun sôi để nguội, uống theo nhu cầu (TL-0176 mục Điều trị a). ORS áp lực thẩm thấu thấp là đầu tay cho mất nước nhẹ đến vừa ở người lớn (IDSA 2017 KC 39). Hầu hết người lớn khỏe bù được bằng nước, nước trái cây, súp (ACG 2016 KC 5)."
+    },
+    {
+     "t": "Không dùng kháng sinh thường quy ở lượt này (phân nước, không sốt cao, không máu, không nhầy, không hồng cầu trong phân, người trẻ khỏe, không vừa đi nước ngoài), hẹn dùng khi có sốt, phân nhầy máu",
+     "v": "c",
+     "n": "BYT: cân nhắc kháng sinh theo kinh nghiệm khi cơ địa yếu, sốt, phân nhầy máu, bạch cầu cao, soi phân có hồng cầu hoặc nghi phẩy khuẩn tả (TL-0038 mục 4.2.1): ca không có. IDSA 2017 KC 36: tiêu chảy nước, không đi du lịch quốc tế thì không dùng kháng sinh thường quy. ACG 2016 KC 9–10 cũng không khuyến cáo. Hai nguồn đồng thuận."
+    },
+    {
+     "t": "Cho kháng sinh ngay (ciprofloxacin, azithromycin…) khi chưa có chỉ định",
+     "v": "w",
+     "n": "Không thuộc chỉ định (TL-0038 mục 4.2.1; IDSA 2017 KC 36; ACG 2016 KC 10). Lạm dụng quinolon cũng bị BYT nhắc: 'lưu ý không lạm dụng' (TL-0038 mục 4.2.2a). Người bệnh lại ra khơi, tự dùng tiếp sẽ che mờ diễn tiến."
+    },
+    {
+     "t": "Không dùng thuốc cầm tiêu chảy loperamide",
+     "v": "a",
+     "n": "Sổ mâu thuẫn mục \"Loperamide trong tiêu chảy cấp người lớn không sốt, không phân máu\" (TH-0624): QĐ 5642/2015 (TL-0038), Tiêu chảy do vi khuẩn mục 4.2.3b: không lạm dụng thuốc cầm tiêu chảy như loperamide. Hai cách đều đúng."
+    },
+    {
+     "t": "Loperamide ngắn hạn: 4 mg lúc đầu rồi 2 mg sau mỗi lần phân lỏng, tối đa 8 mg/ngày, không quá 48 giờ (chỉ khi phân nước, không sốt, không máu)",
+     "v": "a",
+     "n": "ACG 2016, Hình 1 (tr. 603) và tr. 609–610; IDSA 2017 khuyến cáo 46–47: có thể dùng ở người lớn miễn dịch bình thường tiêu chảy nước, tránh khi sốt hoặc tiêu chảy viêm. 8 mg/ngày là con số thận trọng hơn (16 mg/24 giờ chỉ khi phối hợp kháng sinh, ACG 2016 Bảng 4). Theo sổ mâu thuẫn mục TH-0624."
+    },
+    {
+     "t": "Điều trị hỗ trợ khi cần: smecta (làm săn niêm mạc ruột) hoặc spasmaverin giảm co thắt",
+     "v": "a",
+     "n": "BYT nêu spasmaverin giảm co thắt, smecta làm săn niêm mạc (TL-0038 mục 4.2.3b). Liều người lớn không có trong tài liệu đã tải. Không thay thế bù dịch."
+    },
+    {
+     "t": "Không dùng probiotic thường quy",
+     "v": "a",
+     "n": "ACG 2016 KC 6 không khuyến cáo probiotic điều trị tiêu chảy cấp ở người lớn (trừ sau kháng sinh). Dùng hay không đều không gây hại; không bắt buộc."
+    },
+    {
+     "t": "Ăn uống: ăn lại sớm thức ăn dễ tiêu, tránh rượu và đồ sống; vệ sinh tay, không nấu cho người khác trong lúc còn tiêu chảy; ăn chín uống sôi",
+     "v": "c",
+     "n": "Dự phòng: ăn chín, uống nước đun sôi, rửa tay trước ăn và sau đi vệ sinh (TL-0038 mục 6). Vệ sinh tay sau đi vệ sinh, trước khi chuẩn bị đồ ăn (IDSA 2017 KC 52)."
+    },
+    {
+     "t": "Không chuyển tuyến, không nhập viện; cho về, viết tờ dặn bằng văn bản có dấu hiệu quay lại và số điện thoại phòng khám; dặn tìm cơ sở y tế gần nhất ngay khi có dấu hiệu nguy hiểm kể cả khi đang ở biển (gọi tàu cứu hộ/biên phòng)",
+     "v": "c",
+     "n": "Mất nước độ 1 uống được thì bù dịch đường uống (TL-0038 mục 4.2.3a); bù dịch tĩnh mạch khi mất nước độ II trở lên, không uống được. Nhà ở xa, sắp ra khơi nên cần dặn kỹ dấu hiệu: sốt, phân nhầy máu (TL-0038 mục 4.2.1), mất nước độ 2 (mạch 100–120, huyết áp < 90, thiểu niệu, tay chân lạnh; TL-0038 mục 3.1), tiêu chảy kéo dài > 7 ngày (ACG 2016 KC 2), đau chuyển hố chậu phải (TL-0263). Nội dung số điện thoại cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi thêm về giấc ngủ khi người bệnh nhắc; chưa kê thuốc ngủ ở lần khám này; hướng dẫn vệ sinh giấc ngủ, hẹn đánh giá mất ngủ riêng khi khỏi tiêu chảy",
+     "v": "c",
+     "n": "Ba tuần chưa tới 3 tháng nên chưa là mất ngủ mạn. Điều trị đầu tay mất ngủ mạn là liệu pháp hành vi nhận thức (AASM 2021 khuyến cáo 1, TL-0470; Hướng dẫn mất ngủ châu Âu 2023, TL-0464). Thuốc chỉ khi liệu pháp này chưa đủ, dùng ngắn hạn ≤ 4 tuần (TL-0464, tóm tắt khuyến cáo). Ngư dân trực lái tàu cần tỉnh táo: tránh thuốc an thần vì an toàn (suy luận lâm sàng, không có nguồn trực tiếp trong tài liệu đã tải)."
+    },
+    {
+     "t": "Xét nghiệm cấy phân lấy mẫu rồi cho về (không bắt buộc)",
+     "v": "a",
+     "n": "Có ba người ăn chung, nghi ổ dịch nhỏ: chẩn đoán qua xét nghiệm phân hợp lý (ACG 2016 KC 1). Thể nhẹ không máu thì không bắt buộc (ACG 2016 KC 2). Kết quả cấy sau khi anh đã ra khơi nên cần hẹn cách nhận kết quả."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng (nghi thực phẩm, ổ dịch nhỏ sau ăn chung gỏi mực, ghẹ), thể phân nước, không máu",
+     "Mất nước độ 1 (mạch 92, huyết áp bình thường, tiểu ít, uống được)",
+     "Không có chỉ định kháng sinh, nhập viện hay chuyển tuyến lúc này",
+     "Đã loại trừ lỵ, tả, viêm ruột thừa; hóa chất không gợi ý ngộ độc",
+     "Bối cảnh: ngư dân ở xa, sắp ra khơi, mất ngủ ba tuần (cần đánh giá riêng)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do, tính chất phân (nước/ nhầy máu, số lần), sốt-nôn, đau bụng, dịch tễ (ăn chung, nguồn nước), mất nước, tiếp xúc hóa chất, thuốc, đường về nhà, giấc ngủ.",
+     "Chẩn đoán xác định cần dịch tễ, lâm sàng (tiêu chảy, buồn nôn, nôn, sốt) và cấy phân (TL-0038 mục 3.4); lâm sàng + dịch tễ đã đủ để điều trị vì cấy phân có kết quả sau.",
+     "Phân biệt nhanh: tả (nước vo gạo 20–50 lần/ngày, không đau quặn: TL-0038 mục 3.2); lỵ (sốt cao, mót rặn, phân nhầy máu: mục 3.2); ruột thừa (đau khu trú, phản ứng thành bụng; thang điểm lâm sàng loại trừ: TL-0263 Statement 1.2); ngộ độc hóa chất (TL-0038 mục 3.5).",
+     "Hóa chất là red herring: tiếp xúc có thật nhưng thời gian ngắn, không dấu thần kinh-hô hấp; tiêu chảy khởi phát sau bữa nhậu và hai người khác cùng bị."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều cần làm là bù dịch đường uống bằng ORS (TL-0038 mục 4.2.3a; TL-0176 mục Điều trị a; IDSA 2017 KC 39).",
+     "Không kháng sinh: BYT cân nhắc khi có sốt, phân nhầy máu, bạch cầu cao, hồng cầu trong phân (TL-0038 mục 4.2.1); IDSA 2017 KC 36 và ACG 2016 KC 9–10 không khuyến cáo ở tiêu chảy nước thông thường. Ca không có tiêu chí nào.",
+     "Loperamide: BYT không lạm dụng (mục 4.2.3b), IDSA cho phép ở người lớn tiêu chảy nước không sốt (KC 47). Ghi cả hai, dùng hay không đều được.",
+     "Bối cảnh ở xa: xử trí trọn gói hơn, safety-netting bằng văn bản; hỏi rõ ngày ra khơi và nơi y tế gần nhất.",
+     "Thuốc ngủ: không kê lần này; lý do và nguồn ở mục xử trí."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol (ORS)",
+      "ham_luong": "1 gói pha 1 lít nước (NaCl 3,5 g, NaHCO3 2,5 g, KCl 1,5 g, glucose 20 g)",
+      "lieu": "Uống theo nhu cầu, từng ngụm nhỏ nếu buồn nôn",
+      "duong": "Uống",
+      "thoi_diem": "Ngay từ hôm nay, sau mỗi lần đi ngoài",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "Pha 1 gói với 1 lít nước đun sôi để nguội (TL-0176 Điều trị a). Thể tích cụ thể cho người lớn mỗi lần đi ngoài không có trong tài liệu đã tải. Có thể thay bằng 8 thìa cà phê đường + 1 thìa muối/1 lít nước, hoặc nước cháo (TL-0176)."
+     },
+     {
+      "thuoc": "Smecta (diosmectite) hoặc spasmaverin",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Khi cần",
+      "so_ngay": "Ngắn ngày",
+      "ghi_chu": "Chỉ là điều trị hỗ trợ (TL-0038 mục 4.2.3b); không bắt buộc."
+     }
+    ],
+    "dan_do": [
+     "Uống ORS đều; uống nước đun sôi; ăn chín; rửa tay; không dùng nước mưa chưa xử lý.",
+     "Quay lại hoặc đến trạm y tế/bệnh viện gần nhất ngay khi: sốt, phân nhầy máu, nôn nhiều không uống được, tiểu rất ít, chóng mặt đứng không vững, tay chân lạnh, đau bụng chuyển hố chậu phải, tiêu chảy quá 7 ngày, phân thành nước vo gạo (TL-0038 mục 3.1, 4.2.1; ACG 2016 KC 2).",
+     "Nếu đã ra khơi: báo tàu quay vào bờ hoặc gọi cứu hộ; tuyệt đối không tự uống kháng sinh còn dư; không uống thuốc ngủ của bạn tàu.",
+     "Nghỉ ngơi, hoãn chuyến ra khơi nếu còn tiêu chảy nhiều, nhất là khi trực lái tàu.",
+     "Giấc ngủ: giờ ngủ cố định, bỏ cà phê/rượu buổi tối, che sáng, nút tai; khám lại khi tiêu chảy khỏi để đánh giá mất ngủ (TL-0470; TL-0464).",
+     "Xét nghiệm cấy phân: để lại số điện thoại để hẹn nhận kết quả."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Tâm uống ORS đều, thấy đỡ đi ngoài trong ngày. Dù đã dặn, anh vẫn ra khơi sau hai ngày vì sợ lỡ mùa. Ngày thứ tư của bệnh, trên biển anh sốt cao, phân có nhầy máu. Tàu quay vào bờ, anh nhập bệnh viện huyện, được bù dịch, cấy phân mọc Salmonella và dùng ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày (TL-0038 mục 4.2.2a). Anh khỏi sau một tuần nhưng mất chuyến biển. Xử trí lượt khám đúng theo tiêu chí lúc đó (không sốt, không máu); diễn tiến xấu không chứng minh sai: quyết định tốt vẫn có thể gặp kết quả xấu, và nhờ tờ dặn anh quay lại kịp, không bị mất nước nặng.",
+ "nhieu": [
+  "Hóa chất khoang tàu: red herring, tiếp xúc ngắn, phổi sạch, đồng tử bình thường, không dấu thần kinh. Không cần thuốc giải hay xét nghiệm độc chất.",
+  "Vitamin, thực phẩm chức năng: không liên quan tiêu chảy; hỏi để chắc không dùng thuốc bổ có kháng sinh/steroid trộn.",
+  "Ở xa, khó tái khám: đò, 3 giờ, sắp ra khơi 7–10 ngày: nâng ngưỡng an toàn, viết dặn bằng văn bản, nói cách xử trí trên biển.",
+  "Thuốc ngủ là lý do thật: chỉ lộ khi hỏi về giấc ngủ; phải trả lời mà không kê vội, kèm hẹn riêng."
+ ],
+ "bai_hoc_bien": [
+  "Tiêu chảy cấp nhẹ ở người trẻ, uống được: bù dịch đường uống, không kháng sinh thường quy (TL-0038 mục 4.2.1, 4.2.3; IDSA 2017 KC 36, 39).",
+  "Dấu hiệu chuyển sang xâm nhập (sốt, phân nhầy máu) là mốc đổi xử trí: dặn bằng văn bản cho người ở xa.",
+  "Chống outcome bias: xử trí đúng theo thông tin lúc đó vẫn có thể diễn tiến xấu; đánh giá chất lượng quyết định theo quá trình, không theo kết quả.",
+  "Hỏi thêm 'anh còn muốn xin gì khác ngoài chữa tiêu chảy' để lộ lý do thật (thuốc ngủ).",
+  "Người có tiếp xúc hóa chất thường lo ngộ độc: cần khám có hệ thống rồi giải thích, không bỏ qua cũng không làm thừa."
+ ],
+ "diem_nho": [
+  "Mất nước độ 1 uống được: ORS (TL-0038 mục 4.2.3a); độ II trở lên hoặc không uống được: truyền Ringer lactat.",
+  "Kháng sinh theo kinh nghiệm khi sốt, phân nhầy máu, bạch cầu cao, hồng cầu trong phân (TL-0038 mục 4.2.1); không thường quy ở phân nước (IDSA 2017 KC 36; ACG 2016 KC 9–10).",
+  "Cipro 0,5 g × 2 lần/ngày × 5 ngày cho Salmonella, Campylobacter, E. coli (TL-0038 mục 4.2.2a); azithromycin 0,5 g/ngày × 3 ngày cho Shigella thay thế (mục 4.2.2c).",
+  "Loperamide: BYT không lạm dụng; IDSA cho phép khi phân nước không sốt; tránh khi sốt/phân máu (IDSA 2017 KC 47).",
+  "Mất ngủ: CBT-I đầu tay (AASM 2021 KC 1; EIG 2023); thuốc ngủ chỉ khi chưa đủ, ngắn hạn ≤ 4 tuần (EIG 2023)."
+ ],
+ "nguon": [
+  "BYT QĐ 5642/2015 – TL-0038 – Bệnh tiêu chảy do vi khuẩn (mục 3.1–3.5, 4.1, 4.2.1–4.2.3, 6; tr. 73–77)",
+  "BYT QĐ 4178/2007 – TL-0176 – Bệnh tả (Chẩn đoán phân biệt, Điều trị a, b)",
+  "IDSA 2017 – TL-0230 – Infectious diarrhea (KC 3, 31, 36, 39, 41, 42, 47, 52)",
+  "ACG 2016 – TL-0233 – Acute diarrheal infections (Table 1, KC 1, 2, 5, 6, 8–10)",
+  "WSES Jerusalem 2020 – TL-0263 – Statement 1.2, KC 1.2.1, 1.3",
+  "AASM 2021 – TL-0470 – Behavioral and psychological treatments for chronic insomnia (KC 1, 2)",
+  "European insomnia guideline 2023 – TL-0464 – Summary of recommendations"
+ ],
+ "phien_ban_ca": "TH-0608 1 – soát nguồn với kho tài liệu (2026-11-08)",
+ "ghi_chu_bien_tap": [
+  "Viết 08/11/2026. Đã đọc: TL-0038 mục 3–6 (tr. 73–77); TL-0176 chẩn đoán phân biệt, điều trị; TL-0230 KC 3, 31–47; TL-0233 Table 1; TL-0263 Statement 1.2–1.3; TL-0470 KC 1–2; TL-0464 tóm tắt.",
+  "Không có trong tài liệu đã tải: liều ORS người lớn theo thể tích mỗi lần đi ngoài, liều smecta/spasmaverin người lớn, dấu hiệu ngộ độc từng loại hóa chất (nước tẩy, diệt gián), điểm Alvarado từng mục.",
+  "Loperamide người lớn: theo sổ mâu thuẫn mục TH-0624 (QĐ 5642/2015 mục 4.2.3b so với ACG 2016 Hình 1, tr. 609–610 và IDSA 2017 KC 46–47): hai mục a, liều ACG 4 mg rồi 2 mg, tối đa 8 mg/ngày, ≤ 48 giờ.",
+  "Kháng sinh: BYT mục 4.2.1 và IDSA KC 36 đồng thuận ở ca không có tiêu chí.",
+  "Kết cục mô tả Salmonella và cipro: kịch bản minh họa; mức độ thường gặp không có trong tài liệu đã tải."
+ ]
+}
