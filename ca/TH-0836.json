@@ -1,0 +1,909 @@
+{
+ "ma_ca": "TH-0836",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_hoi_chung_ruot_kich_thich_it1",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Hội chứng ruột kích thích (IBS)",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư đại trực tràng",
+   "Bệnh viêm ruột (IBD)"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Nhân viên kinh doanh",
+  "yeu_to_khoi_phat": "Sau ngồi máy tính lâu",
+  "thuoc_dang_dung": "Insulin đang dùng",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Lê Minh Khôi",
+  "tuoi": 31,
+  "gioi": "Nam",
+  "nghe": "Nhân viên kinh doanh thiết bị y tế",
+  "can_nang": 68,
+  "chieu_cao": 173,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói nhanh, lễ phép, hay xin lỗi, kỹ tính ghi chép sổ đường huyết. Làm việc dưới áp lực doanh số, ngồi máy tính và họp nhiều giờ. Hiểu biết y khoa khá về ĐTĐ nhưng hay lên mạng đọc rồi hoảng.",
+  "kieu_nhieu": "Sợ hãi quá mức: hỏi dồn 'có phải ung thư không', đòi nội soi, CT, nghi insulin gây bệnh. Chỉ nói chuyện tự giảm insulin khi bác sĩ hỏi vì sao anh nghĩ do insulin. Cần trấn an có cấu trúc, không chiều lòng bằng xét nghiệm.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9ad8a",
+   "toc": "#1f1b18",
+   "kieuToc": "ngan",
+   "ao": "#5b7da8",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đau quặn bụng, đi ngoài lỏng, sợ ung thư đại tràng và nghi do insulin",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám không có máy X-quang. CT và nội soi tiêu hóa làm ở bệnh viện tỉnh, cách 45 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Lê Minh Khôi, 31 tuổi, nhân viên kinh doanh, đái tháo đường típ 1 tiêm insulin. Đến vì đau quặn bụng, đi ngoài lỏng từng đợt khoảng 8 tháng nay, sợ ung thư đại tràng và nghi do insulin. Sinh hiệu: HA 118/74 mmHg, mạch 84 l/p, nhiệt độ 36,7 °C, SpO₂ 99%. Điều dưỡng Linh ghi chú: anh hỏi nhiều lần 'có phải ung thư không'.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Khôi 31 tuổi, huyết động ổn, không máu trong phân, không sụt cân, ceton niệu âm tính; nhập viện không cần thiết. Anh bị nghỉ làm giữa kỳ chốt doanh số, tốn chi phí, nỗi sợ 'bệnh nặng' tăng thêm và việc anh tự giảm insulin vẫn chưa được nói rõ (BSG 2021 Box 1: không có dấu báo động nào).",
+    "chuyen_tuyen": "Chuyển nội soi đại tràng và CT ngay là quá tay: ACG 2021 khuyến cáo 4 và BSG 2021 không có vai trò khi không dấu báo động, người 31 tuổi. Anh đi bệnh viện tỉnh 45 km, tốn tiền và chuẩn bị ruột (nguy cơ hạ đường huyết khi nhịn ăn, uống thuốc xổ ở người tiêm insulin; cách chỉnh liều insulin khi chuẩn bị nội soi: không có trong tài liệu đã tải), mà vẫn không có kết quả giải tỏa nỗi sợ về insulin."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đau bụng, đi ngoài lỏng gần chín tháng rồi. Tôi sợ lắm, bác sĩ cho tôi nội soi và chụp CT đi.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "118/74",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau quặn bụng và đi ngoài lỏng từng đợt khoảng 8 tháng nay. Sợ bị ung thư đại tràng, và nghi do thuốc insulin.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dau",
+     "noi_dung": "Đau quặn vùng bụng dưới, nhất là bên trái, mỗi tuần 2–3 ngày, kéo dài hơn 3 tháng nay (bắt đầu từ khoảng 8 tháng trước, lúc đầu thưa hơn). Đau dịu đi hoặc hết sau khi đi ngoài. Không đau về đêm, không đánh thức khỏi giấc ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau liên quan đại tiện: tiêu chuẩn Rome"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Những ngày có đợt đau thì đi ngoài 3–4 lần, phân nhão đến lỏng sệt (Bristol 6), gấp. Ngày bình thường đi 1–2 lần, phân thành khuôn. Đi ngoài thay đổi cả số lần lẫn hình dạng phân so với trước. Không có máu, không phân đen, không đi ngoài ban đêm, không thấy mỡ nổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thay đổi tần số, hình dạng phân; không máu"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không sụt cân (68 kg, vẫn thế từ năm ngoái), ăn ngon, không sốt, không mệt lả, không da xanh, không đau khớp hay loét miệng. Chưa từng bị lòi trĩ chảy máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động âm tính (BSG Box 1)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Đợt đau hay xảy ra sau những buổi ngồi máy tính làm báo cáo hoặc ngồi họp liên tục 4–5 giờ, ăn vội bữa trưa, uống 3–4 ly cà phê. Cuối tuần đi chơi thì nhẹ hẳn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: ngồi lâu, ăn vội, cà phê"
+    },
+    {
+     "id": "t1d",
+     "noi_dung": "Đái tháo đường típ 1 từ năm 22 tuổi (9 năm). Tiêm glargine 20 đơn vị buổi tối và lispro 6–8 đơn vị trước bữa ăn. HbA1c lần gần nhất cách đây 4 tháng là 7,3%. Hạ đường huyết nhẹ vài lần một năm, có nhận biết triệu chứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đái tháo đường típ 1, insulin đang dùng"
+    },
+    {
+     "id": "doi_insulin",
+     "noi_dung": "Cách đây khoảng 9 tháng cửa hàng hết bút glargine cũ nên anh được đổi sang bút glargine hãng khác. Khoảng 1 tháng sau thì bắt đầu đau bụng. Anh nghĩ do thuốc mới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mốc thời gian đổi insulin trùng khởi phát (nhiễu)"
+    },
+    {
+     "id": "giam_insulin",
+     "noi_dung": "Hai tuần nay anh tự hạ glargine từ 20 xuống 16 đơn vị để 'xem bụng có đỡ không', chưa nói với ai, thấy khát hơn và đi tiểu nhiều hơn.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Tự giảm insulin (lý do thật: nghi tác dụng phụ)",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể có tự đổi liều, bỏ mũi, giảm liều insulin không, hoặc hỏi vì sao anh nghĩ do insulin. Hỏi chung 'đang dùng thuốc gì' thì chỉ nói glargine 20 và lispro."
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Anh đọc trên mạng thấy 'insulin gây rối loạn tiêu hóa' và 'đau bụng đi ngoài kéo dài là ung thư đại tràng'. Chú ruột mất vì ung thư đại tràng năm 63 tuổi nên anh rất sợ, mất ngủ vài đêm, muốn nội soi và chụp ngay.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Động cơ thật: sợ tác dụng phụ insulin và ung thư",
+     "dieu_kien_lo": "Chỉ nói đủ khi bác sĩ hỏi anh lo điều gì nhất, vì sao đến khám lúc này. Nếu bác sĩ chỉ hỏi triệu chứng thì chỉ nói 'tôi sợ bệnh nặng'."
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Chú ruột (anh của bố) ung thư đại tràng lúc 63 tuổi. Bố mẹ, anh chị em không ai bị ung thư đại tràng, bệnh viêm ruột hay celiac.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử gia đình: họ hàng bậc 2"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không dùng kháng sinh, thuốc giảm đau chống viêm, metformin hay thuốc nhuận tràng gần đây. Không đi du lịch hay ăn đồ lạ trước khi bắt đầu đau. Không uống rượu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nguyên nhân do thuốc, nhiễm trùng"
+    },
+    {
+     "id": "ngot",
+     "noi_dung": "Từ khi sợ đường huyết cao, anh mua kẹo và bánh 'không đường dành cho người tiểu đường' ngậm cả ngày ở văn phòng.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Polyol (sorbitol) trong kẹo không đường",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể về ăn uống, đồ ngọt, kẹo bánh hoặc thức ăn dành cho người tiểu đường."
+    },
+    {
+     "id": "tinh_than",
+     "noi_dung": "Chỉ tiêu doanh số cuối quý rất căng, ngủ ít. Không buồn chán kéo dài, không ý nghĩ tự hại. Lo lắng nhiều về sức khỏe.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Căng thẳng tâm lý"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, không vàng da, không khô môi. Cân nặng 68 kg. Không hạch.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Ấn đau nhẹ hố chậu trái, không phản ứng thành bụng, không sờ thấy khối, gan lách không to. Không có vết sẹo mổ.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Hậu môn bình thường, không trĩ chảy máu, trương lực cơ thắt bình thường, không khối, không máu trên găng.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "HA nằm 118/74, đứng sau 3 phút 114/72, mạch 84 lên 90. Không hạ HA tư thế.",
+     "k": 0,
+     "hien": "Đo xong: HA nằm 118/74, đứng 114/72."
+    },
+    "tam_than": {
+     "a": "Lo lắng khi nói về bệnh, hỏi dồn, không có dấu hiệu trầm cảm nặng, không ý nghĩ tự hại.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 148 g/L · BC 6,8 G/L · TC 262 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 58.0,
+      "lym_pct": 33.0,
+      "hgb": 148,
+      "mcv": 89,
+      "plt": 262
+     },
+     "n": "BSG IBS 2021: người có triệu chứng IBS lần đầu làm công thức máu, CRP hoặc máu lắng, huyết thanh celiac (khuyến cáo mạnh, chứng cứ trung bình, mục Diagnosis and investigations)."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 2 mg/L (< 5)",
+     "bang": {
+      "crp": 2
+     },
+     "n": "ACG IBS 2021, khuyến cáo 2: CRP và calprotectin phân ở người nghi IBS có tiêu chảy, không dấu báo động."
+    },
+    "celiac": {
+     "v": "e",
+     "r": "Anti-tTG IgA âm tính (IgA toàn phần bình thường)",
+     "n": "ACG IBS 2021 khuyến cáo 1 (mạnh); BSG IBS 2021; ADA 2026 khuyến cáo 4.7: người lớn ĐTĐ típ 1 có triệu chứng tiêu hóa phải được sàng lọc celiac. Người này có hai lý do."
+    },
+    "calprotectin": {
+     "v": "e",
+     "r": "Calprotectin phân 28 µg/g (< 100)",
+     "n": "BSG IBS 2021: người < 45 tuổi có tiêu chảy làm calprotectin; ACG IBS 2021 khuyến cáo 2. Dưới 100 µg/g coi là bình thường (BSG mục Diagnosis), loại trừ IBD đủ để không cần nội soi."
+    },
+    "tsh": {
+     "v": "u",
+     "r": "TSH 1,6 mUI/L · FT4 14 pmol/L",
+     "n": "ADA 2026 khuyến cáo 4.6: ĐTĐ típ 1 cần sàng lọc bệnh tuyến giáp tự miễn; cường giáp là nguyên nhân đi ngoài lỏng cần nghĩ tới ở người ĐTĐ típ 1."
+    },
+    "glu_mm": {
+     "v": "e",
+     "r": "11,6 mmol/L (ăn sáng cách 2 giờ)",
+     "n": "Phát hiện hậu quả của việc tự giảm glargine. Mục tiêu HbA1c < 7% cho nhiều người lớn không hạ đường huyết nặng (ADA 2026 khuyến cáo 6.3a)."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Glucose ++, ceton âm tính, protein âm tính, bạch cầu, nitrit, hồng cầu âm tính.",
+     "n": "Ceton âm tính nên chưa nhiễm toan ceton; vẫn phải dặn không giảm insulin nền (ADA 2026 khuyến cáo 9.1: ĐTĐ típ 1 điều trị bằng insulin nền và insulin bữa ăn)."
+    },
+    "hba1c": {
+     "v": "u",
+     "r": "7,9% (nền 4 tháng trước 7,3%)",
+     "n": "HbA1c phản ánh 2–3 tháng, nên chưa phản ánh hết hai tuần giảm liều; dùng để theo dõi (ADA 2026 khuyến cáo 9.4: đánh giá lại phác đồ và hành vi dùng insulin mỗi 3–6 tháng)."
+    },
+    "fit": {
+     "v": "a",
+     "r": "FIT định lượng dưới 10 µg Hb/g phân (âm tính)",
+     "n": "Không cần để chẩn đoán IBS ở tuổi 31 không chảy máu; làm thì không hại, không có trong khuyến cáo IBS đã tải. Khi có triệu chứng đường ruột dưới và nghi ung thư thì FIT ≥ 10 µg Hb/g phân là ngưỡng chuyển khẩn (ACPGBI/BSG FIT 2022, khuyến cáo 2)."
+    },
+    "soi_phan": {
+     "v": "n",
+     "r": "Không thấy hồng cầu, bạch cầu, ký sinh trùng.",
+     "n": "ACG IBS 2021 khuyến cáo 3: không xét nghiệm phân tìm tác nhân gây bệnh thường quy ở IBS."
+    },
+    "abdus": {
+     "v": "n",
+     "r": "Gan, mật, tụy, lách, thận bình thường.",
+     "n": "Không nằm trong xét nghiệm tối thiểu của BSG 2021 và ACG 2021; không có chỉ định khi bụng mềm, không khối. Tốn tiền, không đổi xử trí."
+    },
+    "noi_soi_dt": {
+     "v": "n",
+     "r": "(Phòng khám không có nội soi đại tràng; bệnh viện tỉnh cách 45 km.)",
+     "n": "ACG IBS 2021 khuyến cáo 4: không nội soi thường quy ở người IBS < 45 tuổi không dấu báo động. BSG IBS 2021: không có vai trò nội soi trong IBS, trừ khi có dấu báo động (Box 1: ≥ 40 tuổi sụt cân kèm đau bụng, ≥ 50 tuổi chảy máu trực tràng, ≥ 60 tuổi đổi thói quen đi ngoài, FOBT dương)."
+    },
+    "ct_bung": {
+     "n": "Không có chỉ định. Phòng khám không có X-quang, CT; bệnh nhân đòi chụp là nhu cầu trấn an, không phải chỉ định (BSG 2021: chỉ làm thêm khi có dấu báo động)."
+    },
+    "xq_bung": {
+     "n": "BSG 2021: X-quang bụng chỉ cân nhắc để loại trừ phân ứ khi táo bón chiếm ưu thế; người này tiêu chảy. Phòng khám không có X-quang, không ảnh hưởng ca."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng ruột kích thích thể tiêu chảy (IBS-D), kèm đái tháo đường típ 1 đang tiêm insulin; bệnh nhân tự giảm glargine nên đường huyết tăng (chưa nhiễm toan ceton)",
+     "ok": 1,
+     "n": "Đau bụng ≥ 1 ngày/tuần trong 3 tháng, liên quan đại tiện, đổi tần số và dạng phân, khởi phát > 6 tháng: đủ Rome IV (ACG 2021 Bảng 1) và cả tiêu chuẩn NICE (BSG 2021). Không dấu báo động, CTM, CRP, calprotectin, celiac bình thường: chẩn đoán dương tính (ACG khuyến cáo 5, 6)."
+    },
+    {
+     "t": "Ung thư đại trực tràng",
+     "n": "31 tuổi, không máu trong phân, không sụt cân, không thiếu máu, FIT/calprotectin âm tính; không có tiêu chí nào của BSG 2021 Box 1. Chú ruột bậc 2 ung thư lúc 63 tuổi không phải dấu báo động trong Box 1."
+    },
+    {
+     "t": "Bệnh viêm ruột (IBD)",
+     "n": "Không đi ngoài đêm, không máu, không sốt, CRP 2 mg/L, calprotectin 28 µg/g (< 100 coi bình thường, BSG 2021)."
+    },
+    {
+     "t": "Bệnh celiac",
+     "n": "ĐTĐ típ 1 và tiêu chảy đều là nhóm nguy cơ (ADA 2026 khuyến cáo 4.7; ACG khuyến cáo 1); anti-tTG IgA âm tính, Hb bình thường."
+    },
+    {
+     "t": "Cường giáp",
+     "n": "TSH 1,6 mUI/L; mạch 84, không sụt cân, không run (ADA 2026 khuyến cáo 4.6)."
+    },
+    {
+     "t": "Rối loạn tiêu hóa do tác dụng phụ insulin glargine mới",
+     "n": "ADA 2026 chương 9 (bản chữ đã tải) không nêu tiêu chảy hay đau quặn bụng là tác dụng phụ insulin; ghi nhận trùng thời gian chỉ là tình cờ. Tác dụng phụ cần theo dõi của insulin là hạ đường huyết (ADA 2026 chương 6, khuyến cáo 6.10–6.20). Số liệu cho riêng đổi hãng glargine: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bệnh thần kinh tự chủ tiêu hóa do ĐTĐ (liệt dạ dày, tiêu chảy do ĐTĐ)",
+     "n": "Bệnh 9 năm, HA tư thế bình thường, không no sớm, không nôn, không đi ngoài đêm; lượng triệu chứng gắn với stress và ăn uống."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích chẩn đoán IBS là rối loạn tương tác ruột–não, lành tính, không dẫn đến ung thư; nêu rõ kết quả xét nghiệm bình thường và vì sao không cần nội soi lúc này",
+     "v": "c",
+     "n": "BSG IBS 2021: giải thích chẩn đoán, sinh lý bệnh và tiên lượng là khuyến cáo mạnh, giúp giảm số lần khám và tăng tuân thủ; bệnh nhân muốn được thông cảm và thông tin. Nhấn mạnh khó chữa dứt hẳn nhưng cải thiện được (mục Treatment)."
+    },
+    {
+     "t": "Giữ nguyên insulin: glargine 20 đơn vị buổi tối, lispro trước ăn; không tự giảm hay bỏ mũi; hẹn xem lại liều và nhật ký đường huyết sau 4 tuần",
+     "v": "c",
+     "n": "ADA 2026 khuyến cáo 9.1: ĐTĐ típ 1 điều trị insulin nền cộng insulin bữa ăn; khuyến cáo 9.4: đánh giá lại phác đồ và hành vi dùng insulin định kỳ. Nguy cơ nhiễm toan ceton khi thiếu insulin ở ĐTĐ típ 1 là kiến thức chuẩn, không có đoạn riêng trong chương 9 đã tải; nghi tác dụng phụ thì báo bác sĩ trước khi đổi liều."
+    },
+    {
+     "t": "Giảm liều insulin hoặc đổi sang insulin khác ngay vì nghi tác dụng phụ",
+     "v": "h",
+     "n": "Không có bằng chứng trong tài liệu đã tải cho tác dụng phụ tiêu hóa của insulin; giảm liều đã làm đường huyết 11,6 mmol/L, khát, tiểu nhiều ở người ĐTĐ típ 1 (khuyến cáo 9.1, 9.4)."
+    },
+    {
+     "t": "Chế độ ăn bước một: ăn đều bữa, nhai chậm, giảm cà phê, bỏ kẹo bánh 'không đường' chứa sorbitol, ghi nhật ký ăn–triệu chứng–đường huyết",
+     "v": "c",
+     "n": "BSG IBS 2021: lời khuyên ăn uống bước một cho mọi người IBS (mạnh, chứng cứ yếu), thêm vận động đều đặn (mạnh). Polyol thuộc nhóm FODMAP (BSG mục Diet). Ghi đủ carbohydrate khi chỉnh lispro (ADA 2026 khuyến cáo 9.3)."
+    },
+    {
+     "t": "Loperamid liều thấp, uống khi cần vào những ngày đi ngoài lỏng gấp",
+     "v": "a",
+     "n": "BSG IBS 2021: có thể giảm tiêu chảy (mạnh, chứng cứ rất thấp), lưu ý đau, chướng, táo bón khi tăng liều; ACG IBS 2021: không phải thuốc đầu tay vì không cải thiện triệu chứng chung (tai-lieu/mau_thuan.md, ca TH-0812 mục 1). Dùng hay không đều chấp nhận."
+    },
+    {
+     "t": "Chất xơ hòa tan (ispaghula) 3–4 g/ngày, tăng dần; tránh cám lúa mì",
+     "v": "a",
+     "n": "BSG IBS 2021: chất xơ hòa tan hiệu quả cho triệu chứng chung (mạnh, chứng cứ trung bình), bắt đầu 3–4 g/ngày; chất xơ không hòa tan có thể làm nặng thêm. ACG IBS 2021 khuyến cáo 11 tương tự. Dùng hay không đều chấp nhận."
+    },
+    {
+     "t": "Rifaximin ngay từ lượt đầu",
+     "v": "w",
+     "n": "Hạng hai, chưa thử bước một (tai-lieu/mau_thuan.md, TH-0812 mục 2: ACG 2021 khuyến cáo 20 mạnh; BSG 2021 thuốc hàng hai ở chăm sóc thứ cấp)."
+    },
+    {
+     "t": "Cho nội soi đại tràng hoặc chụp CT bụng ngay để trấn an",
+     "v": "w",
+     "n": "ACG IBS 2021 khuyến cáo 4; BSG IBS 2021: không có vai trò khi không dấu báo động; người 31 tuổi (tai-lieu/mau_thuan.md, TH-0812: nội soi chẩn đoán khẩn ở người trẻ không dấu báo động chấm w)."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần; dặn quay lại sớm nếu có máu trong phân, phân đen, sụt cân, đi ngoài ban đêm, sốt, khát nhiều–tiểu nhiều–buồn nôn–đau bụng dữ dội–thở nhanh",
+     "v": "c",
+     "n": "Dấu báo động ung thư/IBD: BSG 2021 Box 1. BSG 2021 (mục Treatment) đánh giá hiệu quả sau 3 tháng điều trị, nên 4 tuần chỉ là mốc xem đáp ứng sớm, không phải mốc kết luận."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng ruột kích thích thể tiêu chảy (IBS-D): đủ Rome IV (ACG 2021 Bảng 1) và định nghĩa NICE (BSG 2021)",
+     "Đã loại trừ bằng xét nghiệm đơn giản: IBD (CRP, calprotectin), celiac (anti-tTG IgA), thiếu máu, cường giáp; không có dấu báo động ung thư đại trực tràng",
+     "Đái tháo đường típ 1 đang tiêm insulin; tự giảm glargine 20→16 đơn vị trong 2 tuần, đường huyết 11,6 mmol/L, ceton niệu âm tính",
+     "Lo âu về sức khỏe và sợ ung thư; yếu tố làm nặng: ngồi lâu, cà phê, ăn vội, sorbitol, stress doanh số"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi thời gian và mối liên quan đau–đại tiện, dạng phân, dấu báo động, thuốc và tiền sử ĐTĐ; khám bụng, thăm trực tràng, tư thế HA; xét nghiệm tối thiểu; chẩn đoán dương tính; xử trí.",
+     "Chẩn đoán dương tính thay vì chẩn đoán loại trừ tràn lan (ACG khuyến cáo 5, 6; BSG: chẩn đoán dựa triệu chứng khi không dấu báo động và xét nghiệm đơn giản bình thường). Rome V 2026: không có tiêu chuẩn đầy đủ trong bản đã tải; ca thỏa cả Rome IV và Rome V đã biết (đau ≥ 3 ngày/tháng).",
+     "Lý do hai xét nghiệm đặc biệt: ĐTĐ típ 1 và tiêu chảy đều nâng nguy cơ celiac (ADA 2026 khuyến cáo 4.7; ACG khuyến cáo 1; BSG: abnormal serology gấp gần 3 lần ở người nghi IBS). Calprotectin vì < 45 tuổi có tiêu chảy (BSG), < 100 µg/g bình thường.",
+     "Vì sao không nội soi: ACG khuyến cáo 4, BSG Box 1. Dấu báo động cần chuyển đều âm tính. Chú ruột bậc 2 không nằm trong tiêu chí Box 1; vẫn ghi nhận và khuyên theo chương trình sàng lọc quốc gia từ tuổi quy định (USPSTF 2021 từ 45; Asia-Pacific 2022 từ 50, tai-lieu/mau_thuan.md).",
+     "Lý do thật: nghi tác dụng phụ insulin. Thời điểm đổi bút trùng khởi phát nhưng trùng thời gian không phải bằng chứng; không có số liệu trong tài liệu đã tải. Đã phát hiện hành vi nguy hiểm (giảm insulin) nhờ hỏi 'vì sao anh nghĩ do insulin'."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhiễu 'sợ hãi quá mức': trấn an có cấu trúc: (1) công nhận nỗi sợ, (2) nói kết quả cụ thể, (3) giải thích vì sao các thăm dò khác không giúp ích, (4) nêu dấu hiệu sẽ làm đổi hướng, (5) hẹn tái khám. Không chiều lòng bằng CT/nội soi (BSG, ACG khuyến cáo 4).",
+     "An toàn quan trọng nhất ở lượt này: dừng giảm insulin. Hướng dẫn đo đường huyết trước ăn và trước ngủ, ghi nhật ký, báo ngay nếu buồn nôn–đau bụng dữ dội–thở nhanh.",
+     "Chế độ ăn bước một và vận động đều đặn (BSG); tránh cám lúa mì, giảm polyol; low FODMAP chỉ là bước hai có chuyên viên dinh dưỡng (BSG, ACG khuyến cáo 10: thử có giới hạn).",
+     "Thuốc: loperamid và chất xơ hòa tan là lựa chọn phụ, dùng hay không đều chấp nhận; thuốc hạng hai (TCA, rifaximin) chưa cần ở lượt đầu. BSG: đánh giá hiệu quả sau 3 tháng điều trị."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Insulin glargine (giữ nguyên)",
+      "ham_luong": "100 đơn vị/mL, bút tiêm",
+      "lieu": "20 đơn vị",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Buổi tối, cùng giờ mỗi ngày",
+      "so_ngay": "Dùng thường xuyên",
+      "ghi_chu": "Khôi phục liều cũ, không giảm (ADA 2026 khuyến cáo 9.1, 9.4). Nhật ký đường huyết trước ăn và trước ngủ."
+     },
+     {
+      "thuoc": "Insulin lispro (giữ nguyên)",
+      "ham_luong": "100 đơn vị/mL",
+      "lieu": "6–8 đơn vị theo bữa ăn và đường huyết",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Trước ăn",
+      "so_ngay": "Dùng thường xuyên",
+      "ghi_chu": "Ghi lượng carbohydrate; ADA 2026 khuyến cáo 9.3."
+     },
+     {
+      "thuoc": "Loperamid (tùy chọn)",
+      "ham_luong": "2 mg",
+      "lieu": "2 mg khi đi ngoài lỏng gấp, tối đa 8 mg/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi cần, trước cuộc họp hoặc khi đi xa",
+      "so_ngay": "Theo triệu chứng, đánh giá lại ở lần khám sau",
+      "ghi_chu": "BSG 2021 (tiêu chảy); liều trong IBS không có trong tài liệu đã tải, trần 8 mg/ngày lấy từ tiêu chảy cấp (ACG 2016, TL-0233; tai-lieu/mau_thuan.md TH-0812). Ngưng nếu đau, chướng, táo bón."
+     },
+     {
+      "thuoc": "Ispaghula (chất xơ hòa tan, tùy chọn)",
+      "ham_luong": "gói/thìa theo nhãn",
+      "lieu": "Bắt đầu 3–4 g/ngày, tăng dần",
+      "duong": "Uống với nhiều nước",
+      "thoi_diem": "Bữa ăn",
+      "so_ngay": "Thử 4 tuần",
+      "ghi_chu": "BSG 2021 (mạnh, chứng cứ trung bình); tăng dần để tránh chướng bụng."
+     }
+    ],
+    "dan_do": [
+     "Insulin: dùng đủ liều, không tự giảm; muốn đổi thuốc phải gọi bác sĩ. Đo đường huyết trước ăn và trước ngủ, ghi vào sổ cùng bữa ăn và giờ đau bụng.",
+     "Ăn đều ba bữa, nhai chậm, giảm cà phê còn 1 ly, bỏ kẹo bánh 'không đường' có sorbitol; đứng dậy đi lại 5 phút mỗi giờ ngồi; vận động 30 phút hầu hết các ngày.",
+     "Quay lại ngay: phân có máu, phân đen, sụt cân, đi ngoài ban đêm, sốt; hoặc khát nhiều, tiểu nhiều, buồn nôn, đau bụng dữ dội, thở nhanh, ceton niệu dương.",
+     "Tái khám sau 4 tuần, mang sổ đường huyết và nhật ký ăn–triệu chứng.",
+     "Kết quả xét nghiệm bình thường nghĩa là không có bệnh viêm ruột hay celiac; chưa cần nội soi lúc này."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Anh Khôi tái khám sau 4 tuần. Anh đã dùng đủ insulin theo liều cũ, bỏ kẹo 'không đường', ghi nhật ký ăn uống, thỉnh thoảng uống loperamid. Cảm giác đỡ khoảng một nửa nhưng chưa hết đợt đau, vẫn sợ chưa khỏi. Sinh hiệu: HA 120/76 mmHg, mạch 80 l/p, nhiệt độ 36,6 °C, SpO₂ 99%. Đường huyết mao mạch 7,6 mmol/L.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện chỉ vì 'chưa khỏi hẳn' sau 4 tuần là không cần: không dấu báo động, ăn uống bình thường, cân nặng 68 kg. Anh mất việc buổi cuối quý, sợ hơn và vẫn chưa có kế hoạch điều trị bước hai (BSG 2021 Box 1).",
+    "chuyen_tuyen": "Chuyển gấp tuyến tỉnh nội soi và CT khi mới 4 tuần đã đỡ một nửa, không dấu báo động là quá tay (ACG 2021 khuyến cáo 4; BSG đánh giá hiệu quả sau 3 tháng). Anh đi 45 km, nghỉ việc, chuẩn bị ruột trên nền insulin, và điều trị bước hai vẫn bị trì hoãn."
+   },
+   "loi_mo": "Chào bác sĩ. Đỡ được chừng một nửa thôi, vẫn còn đau và đi ngoài lỏng. Tôi lo chưa khỏi hẳn.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "120/76",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám sau 4 tuần. Đỡ khoảng một nửa nhưng vẫn còn đợt đau và đi ngoài lỏng; vẫn lo chưa khỏi hẳn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Đợt đau còn 1–2 ngày/tuần (trước 2–3 ngày). Ngày có đợt đi 2–3 lần, phân nhão. Chướng bụng chiều tối hơi nhiều hơn. Cân nặng 68 kg, không máu, không đi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng một phần, dấu báo động vẫn âm tính"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Đã uống đủ insulin theo liều cũ từ lượt trước (glargine 20 đơn vị). Ghi sổ đường huyết 7–9 mmol/L, không hạ đường huyết. Không còn khát nhiều. Bỏ kẹo 'không đường', giảm cà phê còn 1–2 ly, vẫn khó ngồi họp 4 tiếng vì sợ phải chạy vào nhà vệ sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ insulin và chế độ ăn; trở ngại nghề nghiệp"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Hay phải gặp khách hàng, họp dài, lái xe. Tuần nào có chuyến đi tỉnh thì đau và đi ngoài nhiều hơn. Anh sợ mất mặt vì đi ngoài gấp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ảnh hưởng công việc: loperamid khi cần"
+    },
+    {
+     "id": "thuoc_phu",
+     "noi_dung": "Có uống loperamid 2 viên lẻ một vài lần, đỡ nhanh nhưng sau đó đầy bụng khó chịu. Dùng ispaghula được 2 tuần thì chướng nhiều hơn nên ngưng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dung nạp thuốc bước một"
+    },
+    {
+     "id": "dong_co2",
+     "noi_dung": "Anh vẫn lo ung thư vì chú ruột bị. Lên mạng đọc thêm, hỏi bác sĩ có cần nội soi cho chắc không. Anh chưa nói nhưng cũng đang tìm hiểu 'thuốc men ngoài' nghe nói chữa dứt điểm.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Vẫn sợ hãi; nhiễu",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh còn lo điều gì."
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Ngủ ít hơn vì chỉ tiêu quý mới. Không buồn chán kéo dài, không ý nghĩ tự hại. Lo lắng nhiều khi ngồi họp.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lo âu liên quan triệu chứng"
+    },
+    {
+     "id": "thuoc_dang",
+     "noi_dung": "Không dùng thêm thuốc nào khác. Không uống rượu. Không dùng thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng (trước khi thêm TCA)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, cân nặng 68 kg (không đổi), không hạch.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, ấn đau nhẹ hố chậu trái, không khối.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "HA nằm 120/76, đứng 118/74, không hạ HA tư thế.",
+     "k": 0,
+     "hien": "HA nằm 120/76, đứng 118/74."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "7,6 mmol/L (trước ăn sáng)",
+     "n": "Xác nhận đã dùng đủ insulin; ADA 2026 khuyến cáo 9.4."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "Hb 150 g/L · BC 6,5 G/L · TC 255 G/L",
+     "bang": {
+      "wbc": 6.5,
+      "neu_pct": 57.0,
+      "lym_pct": 34.0,
+      "hgb": 150,
+      "mcv": 89,
+      "plt": 255
+     },
+     "n": "Không bắt buộc lặp lại khi không có dấu báo động; Hb bình thường thì không đổi hướng."
+    },
+    "calprotectin": {
+     "v": "n",
+     "r": "Calprotectin phân 30 µg/g (< 100)",
+     "n": "Không cần lặp lại: lần trước 28 µg/g, không dấu báo động mới (BSG 2021)."
+    },
+    "noi_soi_dt": {
+     "v": "n",
+     "r": "(Phòng khám không có nội soi đại tràng.)",
+     "n": "Chưa có chỉ định: đáp ứng một phần sau 4 tuần không phải dấu báo động. BSG 2021: đánh giá hiệu quả sau 3 tháng điều trị; chuyển chuyên khoa khi chẩn đoán còn nghi ngờ, triệu chứng nặng hoặc kháng trị."
+    },
+    "ct_bung": {
+     "n": "Không có chỉ định, phòng khám cũng không có."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng ruột kích thích thể tiêu chảy (IBS-D) đáp ứng một phần với điều trị bước một; ĐTĐ típ 1 kiểm soát lại tốt khi dùng đủ insulin",
+     "ok": 1,
+     "n": "Đau giảm còn 1–2 ngày/tuần, không dấu báo động mới, cân nặng và Hb ổn (BSG 2021). Đáp ứng một phần sau 4 tuần là bình thường: cần 3 tháng mới đánh giá hiệu quả (BSG mục Treatment)."
+    },
+    {
+     "t": "Ung thư đại trực tràng, IBD, celiac",
+     "n": "Vẫn loại trừ: không máu, không sụt cân, Hb 150 g/L, kết quả lượt trước bình thường."
+    },
+    {
+     "t": "Thất bại điều trị bước một cần chuyển chuyên khoa",
+     "n": "Chưa: mới 4 tuần, đã đỡ khoảng một nửa. BSG 2021: chuyển khi nghi ngờ chẩn đoán, nặng, hoặc kháng trị."
+    },
+    {
+     "t": "Hạ hoặc tăng đường huyết ảnh hưởng triệu chứng tiêu hóa",
+     "n": "Sổ đường huyết 7–9 mmol/L, không hạ đường huyết, ceton lượt trước âm tính."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích đáp ứng một phần là bình thường, đặt kỳ vọng thực tế (khó dứt hẳn nhưng cải thiện được) và hẹn đánh giá hiệu quả sau 3 tháng điều trị",
+     "v": "c",
+     "n": "BSG 2021 mục Treatment: đánh giá sau 3 tháng, ngưng nếu không đáp ứng; nói rõ khó khỏi hẳn nhưng triệu chứng, hoạt động xã hội và chất lượng sống cải thiện đáng kể."
+    },
+    {
+     "t": "Thêm bước hai: amitriptylin liều thấp 10 mg buổi tối, tăng chậm 10 mg/tuần tùy đáp ứng, hoặc thử có giới hạn chế độ ăn ít FODMAP do chuyên viên dinh dưỡng hướng dẫn",
+     "v": "c",
+     "n": "BSG 2021: TCA hạng hai, khởi đầu 10 mg/ngày, chậm tăng tới tối đa 30–50 mg/ngày (mạnh, chứng cứ trung bình; Hình 2: tăng 10 mg/tuần, tiếp tục ít nhất 6 tháng nếu đáp ứng); ACG 2021 khuyến cáo 23 (mạnh) dùng liều thấp (10 mg amitriptylin), cảnh báo khô miệng, bí tiểu, táo bón, loạn nhịp. Chế độ ít FODMAP: ACG khuyến cáo 10 (thử có giới hạn), BSG (hạng hai, cần chuyên viên dinh dưỡng). Cả hai cách đều đúng; ĐTĐ ảnh hưởng chọn lựa TCA: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Loperamid chỉnh cách dùng: liều thấp uống trước cuộc họp hoặc chuyến đi khi cần, tăng từng bước; tránh dùng đều đặn liều cố định cao",
+     "v": "c",
+     "n": "BSG 2021: chuẩn liều cẩn thận để tránh đau, chướng, táo bón (tai-lieu/mau_thuan.md, TH-0812 mục 1: lượt 2 khi tiêu chảy ảnh hưởng đi làm chấm c; dùng liều cố định cao đều mỗi ngày chấm w)."
+    },
+    {
+     "t": "Chuyển nội soi đại tràng vì 'chưa khỏi hẳn' sau 4 tuần",
+     "v": "w",
+     "n": "Chưa có dấu báo động (BSG 2021 Box 1); ACG khuyến cáo 4."
+    },
+    {
+     "t": "Kê rifaximin hoặc thuốc hạng hai khác thay cho bước hai đã nêu",
+     "v": "a",
+     "n": "Rifaximin: ACG khuyến cáo 20 mạnh; BSG hạng hai, hiệu quả khiêm tốn (tai-lieu/mau_thuan.md, TH-0812 mục 2: người đã thử bước một chấm a)."
+    },
+    {
+     "t": "Tiếp tục insulin đủ liều, thêm lời nhắc: nghi ngờ tác dụng phụ thì báo bác sĩ, không tự đổi liều",
+     "v": "c",
+     "n": "ADA 2026 khuyến cáo 9.1, 9.4."
+    },
+    {
+     "t": "Hẹn tái khám sau 8 tuần (tổng cộng khoảng 12 tuần từ khi bắt đầu điều trị) hoặc sớm hơn nếu có dấu hiệu báo động; hẹn khám sức khỏe sàng lọc ung thư đại trực tràng theo tuổi",
+     "v": "c",
+     "n": "BSG 2021: đánh giá sau 3 tháng. Sàng lọc theo tuổi 45–50 (USPSTF 2021, Asia-Pacific 2022; tai-lieu/mau_thuan.md)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "IBS-D đáp ứng một phần sau 4 tuần điều trị bước một",
+     "Không có dấu báo động mới; cân nặng 68 kg, Hb 150 g/L",
+     "ĐTĐ típ 1: dùng đủ insulin, đường huyết 7–9 mmol/L, không hạ đường huyết",
+     "Nỗi sợ ung thư còn tồn tại; chất lượng sống và công việc bị ảnh hưởng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi mức đỡ, số ngày đau, dạng phân, dấu báo động; khám bụng, cân nặng, HA tư thế; không cần xét nghiệm lặp; chẩn đoán đáp ứng một phần; xử trí bước hai.",
+     "Phân biệt hồi phục chậm bình thường với thất bại điều trị sớm: giảm khoảng một nửa số ngày đau sau 4 tuần là hướng tốt; thất bại thật là không đáp ứng sau 3 tháng điều trị (BSG 2021) hoặc có dấu báo động mới.",
+     "Hỏi sâu vào hành vi dùng insulin vẫn cần: đã trở về liều cũ, đường huyết đã về 7–9 mmol/L.",
+     "Nỗi sợ ung thư vẫn nhiễu nhưng không mới: đáp ứng bằng cách lặp lại tiêu chí báo động đã thỏa, không bằng nội soi."
+    ],
+    "phan_tich_xu_tri": [
+     "Bước hai là hợp lý khi đã đỡ một phần mà còn ảnh hưởng nghề nghiệp: TCA liều thấp (BSG: hạng hai, mạnh; ACG khuyến cáo 23: mạnh) hoặc thử ít FODMAP (ACG khuyến cáo 10 thử có giới hạn; BSG cần chuyên viên dinh dưỡng, ít FODMAP làm nặng thêm bước giám sát đường huyết). Hai nguồn khác nhau về chứng cứ và nguồn lực, cả hai cách đều đúng.",
+     "Giải thích TCA như thuốc điều hòa thần kinh ruột–não, không phải thuốc chống trầm cảm điều trị bệnh tâm thần: cần giải thích hợp lý và dặn tác dụng phụ (BSG).",
+     "Loperamid chỉnh cách dùng, không dùng đều liều cao.",
+     "Chất xơ hòa tan gây chướng nên có thể ngưng, BSG tăng dần chậm."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amitriptylin (phương án A)",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg, sau 1 tuần tăng lên 20 mg nếu dung nạp, tối đa 30–50 mg/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối trước ngủ",
+      "so_ngay": "Đánh giá sau 3 tháng; nếu đáp ứng tiếp tục ít nhất 6 tháng",
+      "ghi_chu": "BSG 2021 (mục Treatment, Hình 2); ACG 2021 khuyến cáo 23. Dặn khô miệng, buồn ngủ, táo bón, bí tiểu, hồi hộp (ACG). Tương tác riêng với insulin: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Loperamid (chỉnh cách dùng)",
+      "ham_luong": "2 mg",
+      "lieu": "2 mg trước cuộc họp hoặc chuyến đi khi cần, tối đa 8 mg/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi cần",
+      "so_ngay": "Theo triệu chứng",
+      "ghi_chu": "BSG 2021; trần 8 mg/ngày lấy từ ACG 2016 (TL-0233), liều IBS không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Insulin glargine và lispro (giữ nguyên)",
+      "ham_luong": "100 đơn vị/mL",
+      "lieu": "Glargine 20 đơn vị tối; lispro 6–8 đơn vị trước ăn",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Như cũ",
+      "so_ngay": "Dùng thường xuyên",
+      "ghi_chu": "ADA 2026 khuyến cáo 9.1, 9.4."
+     }
+    ],
+    "dan_do": [
+     "Chọn một trong hai hướng cùng bác sĩ: amitriptylin 10 mg buổi tối hoặc chế độ ít FODMAP với chuyên viên dinh dưỡng; nếu chọn thuốc, chưa thấy tác dụng trong 2–4 tuần không có nghĩa thất bại.",
+     "Dùng loperamid trước họp hoặc chuyến đi, dừng khi bụng chướng hoặc đau.",
+     "Tiếp tục ghi sổ đường huyết; gọi ngay khi đường huyết > 16,7 mmol/L kèm khát, buồn nôn, hoặc có ceton.",
+     "Quay lại ngay khi có máu trong phân, sụt cân, đi ngoài đêm. Tái khám sau 8 tuần."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Anh Khôi tái khám sau 8 tuần tiếp theo (gần 3 tháng từ lúc bắt đầu điều trị). Anh dùng amitriptylin 10 mg tăng lên 20 mg, ghi sổ đường huyết đều, cảm thấy đỡ nhiều nhưng chưa hết hẳn, hơi nản vì lâu hơn dự kiến. Sinh hiệu: HA 118/74 mmHg, mạch 76 l/p, nhiệt độ 36,6 °C, SpO₂ 99%. Đường huyết mao mạch 7,2 mmol/L.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện vì đỡ chậm là không có lý do: đã giảm khoảng 75% số ngày đau, không dấu báo động, cân nặng tăng nhẹ. Anh bị nghỉ việc và tăng lo, dễ bỏ amitriptylin (BSG 2021 Hình 2: nên dùng ít nhất 6 tháng nếu đáp ứng).",
+    "chuyen_tuyen": "Chuyển tuyến tỉnh nội soi chỉ vì chưa khỏi hẳn sau 3 tháng là quá tay: ACG 2021 khuyến cáo 4 và BSG 2021 chỉ chuyển khi nghi ngờ chẩn đoán, nặng hoặc kháng trị. Anh tốn 45 km, chuẩn bị ruột trên nền insulin, nhận thêm lo lắng, trong khi điều cần làm là duy trì thuốc và hẹn tái khám."
+   },
+   "loi_mo": "Chào bác sĩ. Đỡ nhiều rồi nhưng lâu quá, tôi tưởng một tháng là xong. Tôi định ngưng thuốc.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "118/74",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn, gần 3 tháng từ lúc bắt đầu điều trị. Đỡ nhiều nhưng chưa hết hẳn, hơi nản vì lâu hơn anh nghĩ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Đợt đau còn khoảng 1 lần mỗi 2 tuần, nhẹ. Đi ngoài 1–2 lần mỗi ngày, phần lớn thành khuôn, thỉnh thoảng nhão trước cuộc họp lớn. Chướng nhẹ buổi chiều. Cân nặng 69 kg, không máu, không đi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã đỡ khoảng 75%; vẫn dấu báo động âm tính"
+    },
+    {
+     "id": "thuoc_dung",
+     "noi_dung": "Chọn uống amitriptylin 10 mg buổi tối, tăng lên 20 mg sau 1 tuần như đã hẹn. Khô miệng nhẹ vài ngày đầu, buồn ngủ sáng sớm, nay đã quen. Không bí tiểu, không táo bón, không hồi hộp. Chưa gặp được chuyên viên dinh dưỡng nên chưa làm chế độ ít FODMAP.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dung nạp thuốc bước hai"
+    },
+    {
+     "id": "lo_ngai",
+     "noi_dung": "Anh nghe nói 'thuốc chống trầm cảm' nên lo bị nghiện, định ngưng. Anh thấy mình khỏi chậm hơn dự kiến (anh tưởng 1 tháng là xong).",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Mong đợi sai, có ý định ngưng thuốc sớm",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi về việc uống thuốc đều, thuốc có làm anh khó chịu không, hoặc anh nghĩ gì về thuốc."
+    },
+    {
+     "id": "dtd",
+     "noi_dung": "Đường huyết ở nhà 6,5–9 mmol/L, một lần hạ đường huyết 3,5 mmol/L khi trễ bữa, tự xử trí. Không còn đau bụng liên quan insulin. Insulin vẫn glargine 20 đơn vị, lispro như cũ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đái tháo đường kiểm soát; nghi ngờ insulin đã hết"
+    },
+    {
+     "id": "stress",
+     "noi_dung": "Chốt doanh số xong, ngủ tốt hơn. Anh nhận ra các đợt đau đều trùng tuần căng thẳng hoặc ngồi họp dài; giờ đứng dậy đi lại mỗi giờ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Hiểu yếu tố khởi phát"
+    },
+    {
+     "id": "dau_hieu",
+     "noi_dung": "Không máu trong phân, không sụt cân, không đi ngoài đêm, không sốt, không đau bụng dữ dội.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động âm tính"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, cân nặng 69 kg.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau, không khối.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "HA nằm 118/74, đứng 116/72, không hạ HA tư thế (amitriptylin 20 mg).",
+     "k": 0,
+     "hien": "HA nằm 118/74, đứng 116/72."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "7,2 mmol/L",
+     "n": "Theo dõi định kỳ."
+    },
+    "hba1c": {
+     "v": "u",
+     "r": "7,2%",
+     "n": "Về lại gần mức nền 7,3%; mục tiêu < 7% cho nhiều người lớn không hạ đường huyết nặng (ADA 2026 khuyến cáo 6.3a). Đánh giá phác đồ mỗi 3–6 tháng (khuyến cáo 9.4)."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Hb 149 g/L · BC 6,6 G/L · TC 258 G/L",
+     "n": "Không cần: không dấu báo động, đã đỡ."
+    },
+    "calprotectin": {
+     "v": "n",
+     "r": "Calprotectin phân 25 µg/g",
+     "n": "Không cần lặp lại khi triệu chứng đang giảm."
+    },
+    "noi_soi_dt": {
+     "v": "n",
+     "r": "(Phòng khám không có nội soi đại tràng.)",
+     "n": "Chưa có chỉ định: đáp ứng tốt, không dấu báo động (BSG 2021, ACG khuyến cáo 4)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng ruột kích thích thể tiêu chảy (IBS-D), đáp ứng tốt với điều trị bước hai sau 3 tháng, hồi phục chậm hơn kỳ vọng của bệnh nhân (không phải thất bại điều trị)",
+     "ok": 1,
+     "n": "Giảm khoảng 75% số ngày đau, dung nạp amitriptylin 20 mg, không dấu báo động, cân nặng tăng nhẹ; BSG 2021: đánh giá sau 3 tháng, tiếp tục ít nhất 6 tháng nếu đáp ứng (Hình 2)."
+    },
+    {
+     "t": "Ung thư đại trực tràng, IBD, celiac (đã loại trừ)",
+     "n": "Diễn tiến 3 tháng không có dấu báo động; kết quả lượt 1 bình thường."
+    },
+    {
+     "t": "Tác dụng phụ của TCA đủ nặng để ngưng thuốc",
+     "n": "Chỉ khô miệng và buồn ngủ nhẹ ban đầu, nay đã dung nạp (ACG 2021: khô miệng, buồn ngủ hay gặp nhất)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích khỏi chậm hơn dự kiến là diễn tiến thường gặp của IBS; mục tiêu là cải thiện đáng kể chất lượng sống, chưa hẳn dứt điểm",
+     "v": "c",
+     "n": "BSG 2021 mục Treatment: thảo luận thực tế về giới hạn điều trị; 'cure is unlikely, but substantial improvement ... is achievable'."
+    },
+    {
+     "t": "Tiếp tục amitriptylin 20 mg buổi tối ít nhất 6 tháng nếu đáp ứng, không ngưng sớm; giải thích đây là thuốc điều hòa thần kinh, không gây nghiện",
+     "v": "c",
+     "n": "BSG 2021 Hình 2: tiếp tục ít nhất 6 tháng nếu đáp ứng triệu chứng. Nguy cơ nghiện: không có trong tài liệu đã tải; thời gian giảm liều khi ngưng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng amitriptylin ngay vì khỏi chậm hoặc vì bệnh nhân lo",
+     "v": "w",
+     "n": "Trái khuyến nghị tiếp tục ≥ 6 tháng khi đáp ứng (BSG 2021 Hình 2)."
+    },
+    {
+     "t": "Thêm liệu pháp tâm lý hướng tới ruột (CBT, thôi miên) nếu còn lo âu hoặc không đáp ứng đủ",
+     "v": "a",
+     "n": "ACG 2021 khuyến cáo 24 (có điều kiện); BSG 2021: dành cho triệu chứng kháng trị ≥ 12 tháng nhưng có thể nhắc sớm (Hình 2)."
+    },
+    {
+     "t": "Giữ insulin theo phác đồ; hẹn khám ĐTĐ định kỳ mỗi 3–6 tháng",
+     "v": "c",
+     "n": "ADA 2026 khuyến cáo 9.4."
+    },
+    {
+     "t": "Chuyển chuyên khoa tiêu hóa hoặc nội soi vì chưa khỏi hẳn",
+     "v": "w",
+     "n": "Đáp ứng tốt, không dấu báo động (BSG 2021: chuyển khi nghi ngờ chẩn đoán, nặng, kháng trị)."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 tháng (mốc 6 tháng điều trị); quay lại sớm nếu có dấu báo động; nhắc sàng lọc ung thư đại trực tràng theo tuổi",
+     "v": "c",
+     "n": "BSG 2021 Hình 2 (≥ 6 tháng); sàng lọc từ 45–50 tuổi (USPSTF 2021; Asia-Pacific 2022; tai-lieu/mau_thuan.md)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "IBS-D đáp ứng tốt sau 3 tháng điều trị bước hai (amitriptylin 20 mg), hồi phục chậm hơn kỳ vọng",
+     "Không dấu báo động; cân nặng 69 kg",
+     "ĐTĐ típ 1: HbA1c 7,2%, đường huyết 6,5–9 mmol/L",
+     "Nỗi sợ ung thư và nghi insulin đã giải tỏa; còn lo thuốc"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi mức đỡ, dung nạp thuốc, ý định ngưng thuốc, dấu báo động, đường huyết; khám cân nặng, bụng, HA tư thế; xét nghiệm không cần; xử trí tiếp.",
+     "Quỹ đạo bình thường: đỡ một nửa sau 4 tuần, 75% sau 12 tuần. Quỹ đạo đáng lo: không đáp ứng sau 3 tháng điều trị (BSG) hoặc xuất hiện máu, sụt cân, thiếu máu, đi ngoài đêm (Box 1).",
+     "Lý do thật ban đầu (nghi insulin) đã được giải quyết: đường huyết và triệu chứng tiêu hóa không đồng nhịp với liều insulin."
+    ],
+    "phan_tich_xu_tri": [
+     "Khuyên dùng đủ 6 tháng nếu đáp ứng, chọn amitriptylin liều thấp (BSG Hình 2; ACG khuyến cáo 23).",
+     "Giải thích rõ để tránh bỏ thuốc do hiểu lầm 'thuốc chống trầm cảm'.",
+     "Mốc tiếp theo: khám sau 3 tháng; thời gian giảm liều khi ngưng: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amitriptylin",
+      "ham_luong": "10 mg",
+      "lieu": "20 mg (2 viên) mỗi tối",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối trước ngủ",
+      "so_ngay": "Ít nhất 6 tháng từ khi bắt đầu nếu đáp ứng; khám lại sau 3 tháng",
+      "ghi_chu": "BSG 2021 (mục Treatment, Hình 2); ACG 2021 khuyến cáo 23. Cách ngưng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Insulin glargine và lispro",
+      "ham_luong": "100 đơn vị/mL",
+      "lieu": "Glargine 20 đơn vị tối; lispro 6–8 đơn vị trước ăn",
+      "duong": "Tiêm dưới da",
+      "thoi_diem": "Như cũ",
+      "so_ngay": "Dùng thường xuyên",
+      "ghi_chu": "ADA 2026 khuyến cáo 9.1, 9.4."
+     },
+     {
+      "thuoc": "Loperamid (nếu cần)",
+      "ham_luong": "2 mg",
+      "lieu": "2 mg khi cần, tối đa 8 mg/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Trước cuộc họp lớn khi cần",
+      "so_ngay": "Theo triệu chứng",
+      "ghi_chu": "BSG 2021; liều IBS không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống amitriptylin đều mỗi tối ít nhất 6 tháng; không ngưng đột ngột, hỏi bác sĩ trước.",
+     "Đứng dậy đi lại mỗi giờ, ăn đều bữa, giữ cà phê ít; tập thở chậm khi họp dài.",
+     "Đường huyết: tiếp tục sổ; xử trí hạ đường huyết khi trễ bữa; khám ĐTĐ mỗi 3–6 tháng.",
+     "Quay lại sớm khi có máu trong phân, sụt cân, đi ngoài ban đêm, sốt. Tái khám sau 3 tháng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Khôi dùng đủ insulin, bỏ kẹo 'không đường', giảm cà phê, đi lại mỗi giờ ngồi và dùng amitriptylin 20 mg mỗi tối. Sau 3 tháng đợt đau còn khoảng 1 lần mỗi 2 tuần, đi ngoài thành khuôn phần lớn các ngày, cân nặng 69 kg, HbA1c 7,2%. Anh khỏi chậm hơn điều anh nghĩ (một tháng) nhưng đúng quỹ đạo của IBS; không cần nội soi hay CT. Anh tiếp tục thuốc đủ 6 tháng.",
+ "nhieu": [
+  "Sợ hãi quá mức: ung thư đại tràng (chú ruột), nghi insulin; trả lời bằng kết quả cụ thể, tiêu chí báo động, kế hoạch rõ ràng, không bằng nội soi/CT.",
+  "Lý do thật: nghi tác dụng phụ insulin dẫn đến tự giảm glargine; hỏi 'vì sao anh nghĩ do insulin' mới lộ.",
+  "Không có X-quang: không ảnh hưởng chẩn đoán IBS (BSG 2021 chỉ cân nhắc X-quang bụng khi táo bón); CT/nội soi cũng không cần."
+ ],
+ "bai_hoc_bien": [
+  "IBS là chẩn đoán dương tính: Rome IV/NICE, không dấu báo động, CTM–CRP–celiac–calprotectin bình thường (BSG 2021, ACG 2021 khuyến cáo 1, 2, 5, 6).",
+  "ĐTĐ típ 1 có hai lý do làm anti-tTG IgA và TSH (ADA 2026 khuyến cáo 4.6, 4.7).",
+  "Đừng bỏ qua hành vi tự điều chỉnh insulin sau nỗi sợ tác dụng phụ: hỏi cụ thể liều và động cơ.",
+  "Đáp ứng một phần sau 4 tuần là bình thường; đánh giá hiệu quả sau 3 tháng, tiếp tục TCA ít nhất 6 tháng (BSG 2021).",
+  "Sợ hãi quá mức: trấn an có cấu trúc, tránh xét nghiệm chiều lòng."
+ ],
+ "diem_nho": [
+  "Rome IV: đau ≥ 1 ngày/tuần trong 3 tháng, ≥ 2 trong 3 yếu tố, khởi phát ≥ 6 tháng (ACG 2021 Bảng 1). Rome V đầy đủ: không có trong tài liệu đã tải.",
+  "< 45 tuổi, tiêu chảy: calprotectin, dưới 100 µg/g bình thường (BSG 2021).",
+  "Không nội soi thường quy ở IBS < 45 tuổi không dấu báo động (ACG 2021 khuyến cáo 4); dấu báo động theo BSG 2021 Box 1.",
+  "ĐTĐ típ 1: sàng lọc bệnh tuyến giáp tự miễn (4.6) và celiac khi có triệu chứng tiêu hóa (4.7) (ADA 2026).",
+  "TCA liều thấp bắt đầu 10 mg buổi tối, tăng 10 mg/tuần, tối đa 30–50 mg, tiếp tục ≥ 6 tháng nếu đáp ứng (BSG 2021 Hình 2)."
+ ],
+ "nguon": [
+  "Rome IV: ACG IBS 2021, Bảng 1 (TL-0218; bản chữ trong tltk-10000-ca)",
+  "ACG IBS 2021, khuyến cáo 1–6, 10, 11, 20, 23, 24 (Am J Gastroenterol 2021;116:17–44)",
+  "BSG IBS 2021, Box 1 và mục Diagnosis, Treatment, Hình 2 (TL-0220; Gut 2021;70:1214–1240)",
+  "ADA Standards of Care 2026, khuyến cáo 4.6, 4.7, 6.3a, 9.1–9.4 (TL-0296, chương 4, 6, 9)",
+  "ACPGBI/BSG FIT 2022, khuyến cáo 2 (TL-0214)",
+  "Rome V 2026 (TL-0187): bản đã tải là khảo sát dịch tễ, không có tiêu chuẩn chẩn đoán đầy đủ",
+  "USPSTF 2021 (TL-0221), Asia-Pacific 2022 (TL-0217): tuổi sàng lọc ung thư đại trực tràng",
+  "ACG 2016 tiêu chảy cấp (TL-0233): trần loperamid 8 mg/ngày (theo tai-lieu/mau_thuan.md, TH-0812)"
+ ],
+ "phien_ban_ca": 1,
+ "ghi_chu_bien_tap": [
+  "2026-11-08, bản 1. Tài liệu đã đọc: TL-0218 (ACG IBS 2021, bản kho cũ: Bảng 1, Bảng 2 khuyến cáo 1–25), TL-0220 (BSG IBS 2021: tóm tắt khuyến cáo, Box 1, Hình 1–2, mục Treatment), TL-0296 (ADA 2026: chương 4 khuyến cáo 4.6, 4.7; chương 6 khuyến cáo 6.3a; chương 9 khuyến cáo 9.1–9.4), TL-0214 (FIT 2022, ngưỡng 10 µg Hb/g), TL-0187 (Rome V: chỉ khảo sát dịch tễ).",
+  "Chỗ thiếu tài liệu: tiêu chuẩn Rome V chi tiết; liều loperamid trong IBS; tương tác amitriptylin với ĐTĐ típ 1; cách ngưng TCA; chuẩn bị ruột nội soi trên bệnh nhân tiêm insulin; số liệu đổi hãng glargine.",
+  "Mâu thuẫn dùng theo sổ tai-lieu/mau_thuan.md: loperamid (TH-0812 mục 1), rifaximin (mục 2), nội soi người trẻ (w), Rome IV/V (TH-0837 mục 4), calprotectin (TH-0837 mục 3). Mâu thuẫn mới: TCA hay chế độ ít FODMAP làm bước hai (ghi cả hai cách); đề xuất ghi trong TH-0836_mau_thuan.md."
+ ]
+}
