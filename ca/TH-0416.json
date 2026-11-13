@@ -1,0 +1,860 @@
+{
+ "ma_ca": "TH-0416",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_gerd_dien_hinh_ngoai_gio",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trào ngược dạ dày thực quản (GERD)",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh mạch vành",
+   "Loét thực quản"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Hưu trí (trước là kế toán)",
+  "yeu_to_khoi_phat": "Sau ăn thức ăn đường phố (bún đậu mắm tôm, ốc luộc, bia vỉa hè), nằm ngay sau ăn",
+  "thuoc_dang_dung": "Corticoid tự mua (prednisolon 5 mg, uống 10 ngày cho đau gối)",
+  "ly_do_that_su_den_kham": "Muốn được truyền dịch"
+ },
+ "benh_nhan": {
+  "ten": "Vũ Đình Thành",
+  "tuoi": 67,
+  "gioi": "Nam",
+  "nghe": "Hưu trí (trước là kế toán)",
+  "can_nang": 74,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi ông là 'bác'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói to, nóng tính nhưng nghe lời khi được giải thích cụ thể. Quen 'ốm là phải truyền', nghe bạn bè mách thuốc. Hiểu biết y khoa ít.",
+  "kieu_nhieu": "Đòi truyền dịch: nhắc đi nhắc lại 'cho tôi chai nước biển cho khỏe'. Dịu lại khi bác sĩ giải thích bằng lời đơn giản, nói rõ vì sao chai nước không chữa được rát, và đưa việc cụ thể thay thế.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9a07a",
+   "toc": "#a3a09b",
+   "kieuToc": "ngan",
+   "ao": "#b9c4cf",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Rát sau xương ức, ợ chua, muốn truyền chai nước",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Phòng khám mở buổi tối, ngoài giờ hành chính, kỹ thuật viên xét nghiệm đã về: xét nghiệm máu, nước tiểu chỉ có kết quả sáng hôm sau. ECG, đường huyết mao mạch, que thử làm được tại chỗ."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · tối thứ bảy",
+   "tiep_don": "Ông Vũ Đình Thành, 67 tuổi, hưu trí. Đến phòng khám tối thứ bảy, ngoài giờ hành chính, kỹ thuật viên xét nghiệm đã về. Rát sau xương ức, ợ chua 4 ngày, hôm nay mệt. Sinh hiệu: HA 138/84 mmHg, mạch 78 l/p, nhiệt 36,8 °C, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Giữ ông Thành lại phòng khám truyền chai nước biển 'cho khỏe' là không cần: ông uống được, tiểu bình thường, không nôn, môi ẩm; tài liệu đã tải chỉ nêu bù dịch đường uống trước, truyền khi nôn nhiều, không uống được hoặc có dấu mất nước (QĐ 2760/2023 Phần B2 mục 1.2, 1.4, nguyên tắc chung từ bài sốt xuất huyết Dengue); không tài liệu GERD nào chỉ định truyền dịch. Ông tin chai nước chữa được cơn rát, tối hôm sau lại đòi, và vẫn còn nguyên viên prednisolon trong túi chưa ai bảo bỏ.",
+    "chuyen_tuyen": "Đưa ông Thành lên bệnh viện tuyến trên đêm thứ bảy để đo troponin và nội soi là quá tay: không có dấu báo động, ECG bình thường, đau không liên quan gắng sức, sinh hiệu ổn; nội soi chỉ cần theo hẹn, làm sau khi ngưng PPI (ACG 2022 chẩn đoán KC 3, 6; VNAGE 2026 KC 3). Ông mất cả đêm ở khoa cấp cứu, tốn kém, và nỗi lo bị bệnh nặng càng làm ông tin vào 'chai nước thần'."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi rát sau ngực, ợ chua mấy hôm nay, nằm xuống là rát lên tận cổ. Hôm nay lại mệt nữa. Bác sĩ truyền cho tôi chai nước biển cho khỏe đi.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "138/84",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Rát bỏng sau xương ức, ợ chua 4 ngày, đêm qua nằm xuống là rát lên cổ, ngủ không yên. Hôm nay mệt, miệng đắng. Muốn được truyền một chai nước biển cho khỏe.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Rát bỏng từ trên rốn lên sau xương ức, nhất là 30–60 phút sau ăn và khi nằm hoặc cúi người; uống ngụm sữa hoặc thuốc kháng acid đỡ vài phút. Ợ chua, miệng đắng. Không liên quan đi bộ hay leo cầu thang; không lan tay, hàm; không vã mồ hôi, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ợ nóng, trào ngược điển hình; phân biệt đau ngực do tim"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Tối thứ sáu ăn bún đậu mắm tôm, ốc luộc, nem chua và uống 3 lon bia ở quán vỉa hè, về nằm ngay. Từ đó rát. Mấy tháng nay thỉnh thoảng đã ợ nóng nhẹ, tự hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát và bệnh sử trào ngược trước đó"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không nuốt nghẹn, không đau khi nuốt, không nôn, không nôn ra máu, phân vàng không đen, không sụt cân (74 kg như năm ngoái), không khàn tiếng, không ho kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động, loét thực quản"
+    },
+    {
+     "id": "corticoid",
+     "noi_dung": "Đau hai gối khoảng 1 tháng. Mười ngày nay uống thuốc 'giảm đau khớp' mua ở hiệu thuốc theo lời bạn, 2 viên mỗi sáng sau ăn, sáng nay vẫn uống. Mặt vỉ in 'Prednisolon 5 mg'. Không dùng thuốc giảm đau nào khác, không dùng NSAID.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì ông trả lời không. Chỉ kể và đưa vỉ thuốc khi bác sĩ hỏi thuốc giảm đau, thuốc xương khớp hoặc thuốc tự mua.",
+     "y": "Corticoid tự mua (cần ngưng)"
+    },
+    {
+     "id": "an_khuya",
+     "noi_dung": "Ăn tối lúc 21 giờ rồi nằm xem tivi, ngủ lúc 22 giờ; hay thức dậy 2–3 giờ sáng thấy rát họng. Cuối tuần uống bia 2–3 lon. Bỏ thuốc lá 6 năm (hút 20 năm).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn khuya, trào ngược ban đêm, rượu bia, thuốc lá (nguy cơ Barrett)"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Không tăng huyết áp, không tiểu đường, chưa kiểm tra mỡ máu. Chưa từng đau thắt ngực, chưa dùng aspirin. Bố mất ngoài 70 tuổi vì đột quỵ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử và yếu tố nguy cơ tim mạch"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Uống nước bình thường, tiểu 4–5 lần/ngày nước vàng nhạt, không nôn, không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không mất nước: không có chỉ định truyền dịch"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Hai năm trước vợ ông đau bụng, đi truyền một chai là khỏi ngay. Ông tin chai nước biển 'có vitamin' làm hết rát, hết mệt, mai còn đi dự đám cưới.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao ông muốn truyền, hoặc ông lo nhất điều gì.",
+     "y": "Lý do thật: muốn được truyền dịch"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng nội soi dạ dày, chưa loét. Hai gối đau hơn một tháng, đi lại nhiều thì đau tăng.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, niêm mạc hồng, môi ẩm, nếp véo da mất nhanh, không vàng da, không hạch thượng đòn. Mặt không tròn, không bầm da. BMI 27,2 kg/m².",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1, T2 rõ, không âm thổi, không tiếng ngựa phi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong, không ran."
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ thượng vị, không phản ứng thành bụng, không khối, gan lách không to.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Hai gối hơi sưng nhẹ, lạo xạo khi gập duỗi, không nóng đỏ, không tràn dịch.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 78 l/p, trục bình thường, không ST chênh, không T đảo, không sóng Q bệnh lý.",
+     "n": "Bắt buộc khi có đau ngực: ECG trong 10 phút (ESC 2023 mục 3.2, Hình 5); đau ngực không ợ nóng hay còn nghi tim thì loại trừ tim trước (ACG 2022 chẩn đoán KC 4)."
+    },
+    "trop": {
+     "v": "u",
+     "r": "(Phòng xét nghiệm đã đóng, mẫu máu gửi sáng mai mới có kết quả.)",
+     "thay_the": "ecg",
+     "n": "Không có ngoài giờ: quyết định bằng đặc điểm đau (ợ nóng sau ăn, không gắng sức) và ECG, dặn dấu hiệu quay lại. Thang HEART không tính đủ khi thiếu chữ T (Backus 2013, TL-0110). Bác sĩ có thể hẹn lấy máu sáng mai nếu còn lo."
+    },
+    "glu_mm": {
+     "v": "n",
+     "r": "5,9 mmol/L",
+     "n": "Corticoid ngắn ngày, không tiểu đường; không đổi hướng xử trí."
+    },
+    "abdus": {
+     "v": "n",
+     "r": "Gan, mật, tụy bình thường.",
+     "n": "Không cần để chẩn đoán GERD điển hình (ACG 2022 chẩn đoán KC 1); siêu âm bụng cho ca này: không có trong tài liệu đã tải."
+    },
+    "noi_soi": {
+     "v": "u",
+     "r": "(Không có tại phòng khám; làm ở bệnh viện tỉnh vào giờ hành chính.)",
+     "n": "Chỉ định không khẩn vì nhiều yếu tố nguy cơ Barrett, làm sau ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3, 6; VNAGE 2026 KC 3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày – thực quản (ợ nóng, trào ngược điển hình, khởi phát sau bữa ăn đường phố, bia, nằm ngay), chưa có bằng chứng khách quan; đang tự dùng prednisolon; nhiều yếu tố nguy cơ Barrett",
+     "ok": 1,
+     "n": "Ợ nóng và trào ngược là triệu chứng điển hình (ACG 2022; Lyon 2.0 Bảng 2); thử PPI không đủ để xác định chẩn đoán (VNAGE 2026 KC 2)."
+    },
+    {
+     "t": "Bệnh mạch vành, hội chứng vành cấp",
+     "n": "Đau rát sau ăn, tăng khi nằm, không liên quan gắng sức, ECG bình thường; không có troponin ngoài giờ nên phải dặn dấu hiệu quay lại (ESC 2023 mục 3.2)."
+    },
+    {
+     "t": "Loét thực quản",
+     "n": "Không nuốt đau, không nuốt nghẹn, không nôn máu, phân không đen. Biến chứng loét thực quản ít gặp ở Việt Nam (VNAGE 2026 KC 4); nội soi theo hẹn mới khẳng định hay loại trừ."
+    },
+    {
+     "t": "Viêm hoặc loét dạ dày – tá tràng do corticoid tự mua",
+     "n": "Ăn uống, đau không theo nhịp đói – no; không phân đen. Mối liên quan corticoid đơn độc với loét: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Mất nước cần truyền dịch",
+     "n": "Môi ẩm, nếp véo mất nhanh, tiểu bình thường, uống được, mạch 78 l/p."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi kỹ đặc điểm đau ngực, khám tim và làm ECG ngay để loại trừ tim trước khi quy cho trào ngược; vì không có troponin ngoài giờ nên giải thích rõ cho ông lý do chưa làm máu",
+     "v": "c",
+     "n": "ESC 2023 mục 3.2, Hình 5; ACG 2022 chẩn đoán KC 4. Không có troponin ngoài giờ: dựa vào bệnh sử và ECG; ngưỡng cụ thể để hẹn xét nghiệm hôm sau không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không truyền dịch; giải thích bằng lời dễ hiểu (ông uống được, không mất nước, rát là do acid ở thực quản, chai nước không chặn được acid) và đưa việc cụ thể thay thế",
+     "v": "c",
+     "n": "Không tài liệu GERD đã tải chỉ định truyền dịch; nguyên tắc chung bù dịch đường uống trước, truyền khi nôn nhiều/không uống được/mất nước (QĐ 2760/2023 Phần B2 mục 1.2, 1.4, từ bài Dengue)."
+    },
+    {
+     "t": "Ngưng prednisolon tự mua (đã dùng 10 ngày, không cần giảm liều); đau gối dùng paracetamol, chườm nóng",
+     "v": "c",
+     "n": "Dùng dưới 3–4 tuần: không giảm dần (ESE/ES 2024 R 2.1). Thoái hóa khớp gối: corticosteroid không có chỉ định đường toàn thân; paracetamol 1–2 g/ngày; chườm nóng (QĐ 361/2014 Thoái hóa khớp gối mục 4.2.1, 4.2.2)."
+    },
+    {
+     "t": "Omeprazol 20 mg uống 1 lần/ngày, 30–60 phút trước ăn sáng, 8 tuần",
+     "v": "c",
+     "n": "ACG 2022 chẩn đoán KC 1, điều trị KC 8; VNAGE 2026 KC 15; liều chuẩn VNAGE 2024 Bảng 4. Uống tối trước ngủ chấm a (QĐ 361/2014 Phụ lục NSAID mục 3.3)."
+    },
+    {
+     "t": "Thay đổi lối sống: không ăn trong 2–3 giờ trước khi nằm, kê cao đầu giường, giảm cân, giảm rồi bỏ bia, tránh thức ăn khởi phát",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 1, 2, 4, 5; VNAGE 2026 KC 12. Rượu bia: VNAGE 2026 nêu nên bỏ, ACG 2022 Bảng 3 bằng chứng yếu; không dặn bỏ chấm a."
+    },
+    {
+     "t": "Viết giấy giới thiệu nội soi dạ dày – thực quản, hẹn không khẩn, làm sau khi ngưng PPI 2–4 tuần ở cuối đợt 8 tuần",
+     "v": "c",
+     "n": "Nhiều yếu tố nguy cơ Barrett (nam, trên 50 tuổi, trào ngược ban đêm, thừa cân, từng hút thuốc): ACG 2022 chẩn đoán KC 3, 6; VNAGE 2026 KC 3. Nội soi ngay chấm a. Thời hạn hẹn cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại hoặc gọi cấp cứu: đau ngực dữ dội, kéo dài, lan, vã mồ hôi, khó thở; nuốt đau, nuốt nghẹn, nôn máu, phân đen, sụt cân",
+     "v": "c",
+     "n": "ACG 2022 chẩn đoán KC 6 (dấu báo động); ESC 2023 mục 3.2."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần để xem đáp ứng và cách uống thuốc; đánh giá đầy đủ ở tuần 8",
+     "v": "c",
+     "n": "Mốc 4 tuần là lựa chọn của ca (không có trong tài liệu đã tải). PPI 4–8 tuần cho NERD (VNAGE 2026 KC 15); đánh giá sau 8 tuần (ACG 2022 chẩn đoán KC 1, 3)."
+    },
+    {
+     "t": "Omeprazol 20 mg ngày 2 lần ngay từ đầu",
+     "v": "a",
+     "n": "VNAGE 2026 KC 17: tối ưu hóa, kiểm tra tuân thủ trước khi tăng liều; 2 lần/ngày chấm a (ghi nhận từ TH-0364)."
+    },
+    {
+     "t": "Thêm alginat hoặc thuốc kháng acid khi cần để giảm nhanh",
+     "v": "a",
+     "n": "VNAGE 2026 KC 14."
+    },
+    {
+     "t": "Hẹn lấy máu troponin sáng mai ngoài ECG",
+     "v": "a",
+     "n": "Không có trong tài liệu đã tải mốc hẹn; hợp lý khi còn lo (ESC 2023 mục 3.3.1)."
+    },
+    {
+     "t": "Đồng ý truyền một chai nước biển kèm thuốc bổ theo yêu cầu",
+     "v": "w",
+     "n": "Không có chỉ định (không mất nước); không tài liệu GERD chỉ định truyền dịch."
+    },
+    {
+     "t": "Đổi sang NSAID (meloxicam, celecoxib) hoặc cho tiếp prednisolon vì ông đau gối",
+     "v": "w",
+     "n": "Corticosteroid toàn thân không có chỉ định cho thoái hóa khớp gối (QĐ 361/2014 mục 4.2.2); NSAID ở người trên 65 tuổi cần thận trọng (Phụ lục NSAID mục 3.3)."
+    },
+    {
+     "t": "Cho sucralfat hoặc thuốc vận động đường tiêu hóa thay PPI",
+     "v": "w",
+     "n": "ACG 2022 điều trị KC 14, 15 khuyến cáo không dùng."
+    },
+    {
+     "t": "Chụp thực quản có cản quang để chẩn đoán trào ngược",
+     "v": "w",
+     "n": "ACG 2022 chẩn đoán KC 5."
+    },
+    {
+     "t": "Chỉ kê PPI, không làm ECG vì 'chắc là dạ dày'",
+     "v": "h",
+     "n": "Bỏ sót hội chứng vành cấp ở người 67 tuổi đau ngực; ESC 2023 mục 3.2."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trào ngược dạ dày – thực quản (GERD) triệu chứng điển hình, chưa có bằng chứng khách quan, khởi phát sau bữa ăn đường phố, bia và nằm ngay",
+     "Đã loại trừ lâm sàng bệnh mạch vành (ECG bình thường, đau không gắng sức); chưa có troponin do ngoài giờ",
+     "Chưa loại trừ hẳn loét thực quản: không có dấu báo động, hẹn nội soi không khẩn",
+     "Đang tự dùng prednisolon 10 ngày cho đau gối: ngưng",
+     "Thừa cân, trào ngược ban đêm, từng hút thuốc: nguy cơ Barrett; không mất nước"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám, đặc điểm rát (sau ăn, nằm, đỡ khi dùng kháng acid, không gắng sức) → khởi phát (bữa ăn, bia, nằm ngay) → dấu báo động → hỏi thuốc giảm đau, thuốc xương khớp mới lộ prednisolon → yếu tố tim mạch → lý do thật muốn truyền dịch.",
+     "Khám: tim, bụng, toàn trạng (môi ẩm, nếp véo, niêm mạc hồng). CLS: ECG; troponin không làm được ngoài giờ, glucose mao mạch, siêu âm, nội soi không cần ngay.",
+     "Ợ nóng, trào ngược là triệu chứng điển hình; thử PPI một mình không đủ xác định chẩn đoán (ACG 2022; VNAGE 2026 KC 1, 2). Lyon 2.0 Bảng 2: bằng chứng khách quan là viêm thực quản LA B trở lên, Barrett, AET > 6%.",
+     "Loại trừ tim: đau sau ăn, tăng khi nằm, đỡ khi dùng kháng acid, không gắng sức, ECG bình thường (ESC 2023 mục 3.2). Troponin: không có ngoài giờ; HEART cần chữ T (Backus 2013, TL-0110).",
+     "Loại trừ loét thực quản: không nuốt đau, không nôn máu; biến chứng loét thực quản ít gặp ở Việt Nam (VNAGE 2026 KC 4); khẳng định hay loại bằng nội soi."
+    ],
+    "phan_tich_xu_tri": [
+     "Không truyền dịch: không mất nước, uống được; QĐ 2760/2023 Phần B2 mục 1.2, 1.4 (bài Dengue, dùng làm nguyên tắc chung). Không tài liệu GERD đã tải chỉ định truyền dịch.",
+     "Ngưng prednisolon: dưới 3–4 tuần thì không cần giảm dần (ESE/ES 2024 R 2.1); không có chỉ định corticosteroid toàn thân cho thoái hóa khớp gối (QĐ 361/2014 mục 4.2.2).",
+     "PPI 8 tuần 1 lần/ngày trước ăn sáng 30–60 phút (ACG 2022 chẩn đoán KC 1, điều trị KC 8); VNAGE 2026 KC 15: 4–8 tuần cho NERD. Liều omeprazol 20 mg theo VNAGE 2024 Bảng 4 (VNAGE 2026 không ghi mg).",
+     "Nội soi không khẩn, sau ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3, 6): có nhiều yếu tố nguy cơ Barrett. Nội soi cấp cứu hoặc chuyển cấp cứu là quá tay.",
+     "Lối sống: ACG 2022 điều trị KC 1–5; VNAGE 2026 KC 12. Nội dung nhiễu: nói thẳng nguyên nhân rát là acid, thuốc uống đúng giờ mới có tác dụng; không hứa 'một chai là hết'."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng, không uống lúc đi ngủ",
+      "so_ngay": "8 tuần, đánh giá lại ở tuần 4 và 8",
+      "ghi_chu": "ACG 2022 chẩn đoán KC 1, điều trị KC 8; VNAGE 2026 KC 15; liều VNAGE 2024 Bảng 4."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần, 2–4 lần/ngày khi đau gối, tổng 1–2 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 361/2014 Thoái hóa khớp gối mục 4.2.2 (paracetamol 1–2 g/ngày); thay prednisolon."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn prednisolon, mang vỉ thuốc còn lại về hoặc bỏ; mua thuốc phải hỏi bác sĩ hoặc dược sĩ.",
+     "Uống omeprazol đều mỗi sáng trước ăn, đừng uống lúc đi ngủ.",
+     "Ăn tối trước khi ngủ ít nhất 2–3 giờ, kê cao đầu giường, giảm rồi bỏ bia, giảm cân (ACG 2022 điều trị KC 1, 2, 5; VNAGE 2026 KC 12).",
+     "Quay lại hoặc gọi 115 nếu đau ngực kéo dài, lan tay hàm, vã mồ hôi, khó thở; nuốt đau, nôn máu, phân đen.",
+     "Tái khám sau 4 tuần (mốc do ca chọn); giấy giới thiệu nội soi để sẵn, làm sau khi ngưng thuốc dạ dày 2–4 tuần ở cuối đợt 8 tuần (ACG 2022 chẩn đoán KC 3)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần",
+   "tiep_don": "Ông Thành tái khám sau 4 tuần uống omeprazol theo toa, cũng tối thứ bảy. Ợ nóng ban ngày đỡ khoảng một nửa, ban đêm vẫn rát họng. Sinh hiệu: HA 132/80 mmHg, mạch 74 l/p, nhiệt 36,7 °C, SpO₂ 98%. Cân nặng 73 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển ông Thành đi nội soi ngay hay đo pH 24 giờ vì 'thuốc không ăn thua' là quá sớm: mới 4 tuần, ông uống PPI sai giờ và ăn tối muộn nằm ngay, chưa tối ưu hóa điều trị (VNAGE 2026 KC 17); nội soi đang uống PPI dễ bỏ sót tổn thương và không chẩn đoán được NERD (ACG 2022 chẩn đoán KC 3 và phần Endoscopy). Ông tốn tiền đi tuyến trên, lại nghe 'dạ dày không sao' và bỏ thuốc.",
+    "theo_doi": "Giữ ông Thành lại truyền dịch kèm 'thuốc dạ dày' cho 'dứt cơn rát' tuy ông đòi lần nữa là không có căn cứ: ông ăn uống được, không mất nước, rát về đêm là do acid trào khi nằm. Tài liệu GERD đã tải không chỉ định truyền dịch; chai nước còn làm ông tin mình không cần đổi giờ ăn, giờ uống thuốc."
+   },
+   "loi_mo": "Bác sĩ ơi, uống thuốc đều 4 tuần mà ban đêm vẫn rát. Hay bác sĩ cho tôi chai nước biển có thuốc dạ dày, truyền một lần cho dứt hẳn.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "132/80",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khong_het",
+     "noi_dung": "Ợ nóng ban ngày đỡ khoảng một nửa. Ban đêm vẫn rát họng 3–4 đêm mỗi tuần, thức lúc 2–3 giờ sáng; ợ chua sau bữa tối. Không đau ngực kiểu thắt, không khó thở.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng một phần sau 4 tuần"
+    },
+    {
+     "id": "cach_uong",
+     "noi_dung": "Omeprazol uống mỗi ngày nhưng uống lúc 21 giờ ngay sau bữa tối, trước khi đi ngủ, vì buổi sáng hay quên. Ít nhất 5 ngày mỗi tuần.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc đều không' thì ông nói đều. Chỉ kể giờ uống khi bác sĩ hỏi uống lúc nào, trước hay sau ăn.",
+     "y": "Sai thời điểm uống PPI"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Vẫn ăn tối 21 giờ, nằm ngay 22 giờ, chưa kê cao đầu giường. Bia giảm còn 1 lon cuối tuần. Cân nặng 73 kg, giảm 1 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thói quen: ăn khuya, nằm ngay, chưa kê giường"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Vẫn không nuốt nghẹn, không đau khi nuốt, không nôn, phân vàng, không sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu báo động mới"
+    },
+    {
+     "id": "corticoid",
+     "noi_dung": "Đã ngưng prednisolon từ hôm khám. Hai gối vẫn đau nhưng chịu được với paracetamol; còn vỉ cũ trong tủ nhưng không dùng. Chưa đi nội soi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã ngưng corticoid; chưa nội soi"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Ông vẫn nghĩ truyền dịch 'đánh bay' hết trong một buổi và khỏi phải uống thuốc dạ dày mỗi sáng.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói thêm khi bác sĩ hỏi ông thấy thuốc uống mỗi ngày phiền chỗ nào.",
+     "y": "Nhiễu: vẫn đòi truyền dịch"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ăn uống bình thường, tiểu bình thường, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, môi ẩm. Cân 73 kg, BMI 26,8 kg/m².",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không khối, gan lách không to.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Hai gối lạo xạo, không sưng nóng đỏ, đi lại được.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "n",
+     "r": "Nhịp xoang 74 l/p, không biến đổi ST–T.",
+     "n": "Không có đau ngực mới; không cần lặp lại."
+    },
+    "noi_soi": {
+     "v": "u",
+     "r": "(Không có tại phòng khám.)",
+     "n": "Chưa có chỉ định làm lúc đang uống PPI: ACG 2022 chẩn đoán KC 3 (sau 8 tuần không đáp ứng, ngưng PPI 2–4 tuần trước). Giấy giới thiệu đã có từ lượt 1."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày – thực quản, đáp ứng một phần sau 4 tuần PPI do uống sai giờ và ăn tối muộn, nằm ngay; chưa phải kháng trị",
+     "ok": 1,
+     "n": "Mới 4 tuần, chưa tối ưu hóa điều trị; kháng trị chỉ xét khi có bằng chứng khách quan và đã tối ưu (VNAGE 2026 KC 10, 17)."
+    },
+    {
+     "t": "GERD kháng trị với PPI",
+     "n": "Chưa có bằng chứng khách quan GERD; tuân thủ và cách uống chưa đúng (VNAGE 2026 KC 17)."
+    },
+    {
+     "t": "Loét thực quản, Barrett, ung thư thực quản",
+     "n": "Không có dấu báo động mới; nội soi theo hẹn sau ngưng PPI (ACG 2022 chẩn đoán KC 3, 6)."
+    },
+    {
+     "t": "Bệnh mạch vành",
+     "n": "Không đau ngực kiểu thắt, ECG lượt 1 bình thường, triệu chứng đáp ứng với điều trị trào ngược."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi cụ thể giờ uống, tuân thủ và thói quen trước khi leo thang; sửa: omeprazol 20 mg uống 30–60 phút trước ăn sáng, không uống lúc đi ngủ",
+     "v": "c",
+     "n": "VNAGE 2026 KC 17 (tối ưu hóa, kiểm tra tuân thủ trước khi tăng liều); ACG 2022 điều trị KC 8."
+    },
+    {
+     "t": "Tiếp tục PPI liều chuẩn 1 lần/ngày cho đủ 8 tuần rồi đánh giá lại; chưa kết luận thất bại ở tuần 4",
+     "v": "c",
+     "n": "ACG 2022 chẩn đoán KC 1, 3 (mốc 8 tuần); VNAGE 2026 KC 15 (4–8 tuần cho NERD)."
+    },
+    {
+     "t": "Sửa thói quen: ăn tối trước ngủ 2–3 giờ, kê cao đầu giường khoảng 20 cm, bỏ bia, tiếp tục giảm cân",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 1, 2, 5; VNAGE 2026 KC 12 (kê cao đầu giường 20 cm: phần thảo luận)."
+    },
+    {
+     "t": "Không truyền dịch lần nữa; nghe vì sao ông ngại uống thuốc mỗi ngày và giải thích: thuốc chỉ chặn acid khi uống đúng giờ, chai nước không làm được việc đó",
+     "v": "c",
+     "n": "Không tài liệu GERD đã tải chỉ định truyền dịch; QĐ 2760/2023 Phần B2 mục 1.2, 1.4 (nguyên tắc chung)."
+    },
+    {
+     "t": "Giữ giấy giới thiệu nội soi không khẩn, làm sau khi ngưng omeprazol 2–4 tuần; trong thời gian ngưng dùng thuốc kháng acid khi rát",
+     "v": "c",
+     "n": "ACG 2022 chẩn đoán KC 3 và phần Endoscopy (kháng acid trong 2–4 tuần ngưng PPI); VNAGE 2026 KC 3."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại; hẹn tái khám sau khi có kết quả nội soi",
+     "v": "c",
+     "n": "Mốc hẹn là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng omeprazol lên 2 lần/ngày sau khi đã sửa giờ uống",
+     "v": "a",
+     "n": "ACG 2022 mục PPI không đáp ứng (thường tăng từ 1 lên 2 lần/ngày); VNAGE 2026 phần thảo luận KC 17: PPI 2 lần giữ pH dạ dày > 4 tốt hơn 1 lần."
+    },
+    {
+     "t": "Đổi sang P-CAB hoặc thêm alginat buổi tối",
+     "v": "a",
+     "n": "VNAGE 2026 KC 14, 18; ACG 2022 khuyên không thêm thường quy thuốc khác (điều trị KC 11)."
+    },
+    {
+     "t": "Thêm thuốc kháng H2 buổi tối khi cần cho rát đêm",
+     "v": "a",
+     "n": "ACG 2022 phần PPI không đáp ứng: dùng khi cần cho triệu chứng ban đêm."
+    },
+    {
+     "t": "Đổi sang PPI khác ngay hoặc thêm thuốc vận động, sucralfat",
+     "v": "w",
+     "n": "ACG 2022 điều trị KC 11, 14, 15."
+    },
+    {
+     "t": "Đồng ý truyền dịch kèm thuốc dạ dày",
+     "v": "w",
+     "n": "Không có chỉ định; không tài liệu GERD đã tải nêu truyền dịch."
+    },
+    {
+     "t": "Chuyển nội soi hoặc đo pH 24 giờ ngay khi còn đang uống PPI",
+     "v": "w",
+     "n": "Nội soi nên làm sau ngưng PPI 2–4 tuần (ACG 2022); chưa tối ưu hóa (VNAGE 2026 KC 17)."
+    },
+    {
+     "t": "Cho dùng lại prednisolon vì 'giảm viêm thực quản'",
+     "v": "h",
+     "n": "Không có chỉ định corticosteroid toàn thân cho GERD hay thoái hóa gối (QĐ 361/2014 mục 4.2.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "GERD triệu chứng điển hình, đáp ứng một phần sau 4 tuần PPI",
+     "Nguyên nhân chưa đáp ứng đủ: uống omeprazol lúc đi ngủ, ăn tối muộn nằm ngay, chưa kê cao đầu giường",
+     "Chưa phải GERD kháng trị; không có dấu báo động mới",
+     "Đã ngưng prednisolon; chờ nội soi sau ngưng PPI"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi (mốc 4 tuần: VNAGE 2026 KC 15): đáp ứng sau 4 tuần → giờ uống thuốc, trước hay sau ăn → ăn tối, giờ nằm, kê giường, bia, cân → dấu báo động → prednisolon đã ngưng chưa.",
+     "Đáp ứng một phần ở tuần 4 là bình thường chưa kết luận thất bại: PPI cho NERD 4–8 tuần (VNAGE 2026 KC 15); thử PPI 8 tuần rồi mới đánh giá (ACG 2022 chẩn đoán KC 1, 3). GERD kháng trị phải có bằng chứng khách quan và điều trị đã tối ưu (VNAGE 2026 KC 10, 17).",
+     "Vì sao chưa đủ: PPI chỉ gắn vào bơm đang hoạt động, bữa ăn kích hoạt bơm nên uống trước ăn; uống lúc đi ngủ kém hiệu quả (ACG 2022 điều trị KC 8; mục PPI). Không có dấu báo động nên chưa cần nội soi sớm.",
+     "CLS: không cần ECG hay máu lặp lại; phòng xét nghiệm ngoài giờ không ảnh hưởng quyết định."
+    ],
+    "phan_tich_xu_tri": [
+     "Tối ưu hóa trước (VNAGE 2026 KC 17; ACG 2022 mục PPI không đáp ứng): sửa giờ uống, ăn tối sớm, kê giường, bỏ bia, giảm cân. Tăng PPI 2 lần/ngày hoặc P-CAB sau khi đã tối ưu mà vẫn không đáp ứng: chấm chấp nhận (VNAGE 2026 KC 17, 18).",
+     "Giữ PPI liều chuẩn đủ 8 tuần; nội soi theo hẹn sau ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3).",
+     "Truyền dịch: không chỉ định; thay bằng việc ông làm được hằng ngày.",
+     "Những việc sai: đổi hoặc thêm thuốc ngay (ACG 2022 điều trị KC 11, 14, 15), nội soi hoặc đo pH khi còn dùng PPI, dùng lại corticoid."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng",
+      "so_ngay": "Tiếp tục thêm 4 tuần cho đủ 8 tuần, sau đó ngưng 2–4 tuần để nội soi",
+      "ghi_chu": "ACG 2022 điều trị KC 8; chẩn đoán KC 1, 3; liều VNAGE 2024 Bảng 4."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần khi đau gối, tổng 1–2 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 361/2014 Thoái hóa khớp gối mục 4.2.2."
+     }
+    ],
+    "dan_do": [
+     "Uống omeprazol mỗi sáng trước ăn 30–60 phút, đặt báo thức hoặc để thuốc cạnh bình nước.",
+     "Ăn tối trước 19 giờ, nằm sau ăn ít nhất 2–3 giờ (ACG 2022 điều trị KC 2), kê cao đầu giường khoảng 20 cm (VNAGE 2026 KC 12), bỏ bia.",
+     "Ngưng PPI đúng hẹn trước nội soi 2–4 tuần, khi rát dùng thuốc kháng acid (ACG 2022 chẩn đoán KC 3, mục Endoscopy).",
+     "Quay lại hoặc gọi 115 nếu nuốt đau, nuốt nghẹn, nôn máu, phân đen, đau ngực dữ dội."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau nội soi (tuần 12)",
+   "tiep_don": "Ông Thành mang kết quả nội soi từ bệnh viện tỉnh đến phòng khám tối thứ bảy. Đã uống omeprazol đủ 8 tuần, ngưng 2 tuần rồi nội soi; từ khi ngưng thuốc rát nhẹ trở lại. Sinh hiệu: HA 130/78 mmHg, mạch 72 l/p, nhiệt 36,6 °C, SpO₂ 98%. Cân nặng 71 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển ông Thành đi đo pH 24 giờ hoặc hội chẩn phẫu thuật chống trào ngược là quá tay: nội soi đã cho bằng chứng khách quan (LA B), ông đáp ứng PPI, chưa thử điều trị tối ưu kéo dài (Lyon 2.0 Bảng 2; VNAGE 2026 KC 5, 19). Ông tốn tiền, lo mình sắp phải mổ, và đòi truyền dịch 'cho chắc' trước ngày đi.",
+    "nhap_vien": "Nhập viện cho ông Thành truyền thuốc vì 'có viêm thực quản' là không cần: ông ăn uống được, không đau nuốt, không chảy máu; viêm này do acid, điều trị bằng PPI uống, không dùng kháng sinh hay truyền (VNAGE 2026 KC 13). Ông nằm viện vô ích, tin 'viêm là phải truyền', và bỏ ngang PPI khi ra viện."
+   },
+   "loi_mo": "Bác sĩ xem giúp kết quả nội soi. Nghe nói viêm là phải truyền thuốc mấy ngày cho sạch, đúng không bác sĩ?",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "130/78",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "noi_soi",
+     "noi_dung": "Phiếu nội soi bệnh viện tỉnh, làm sau ngưng omeprazol 2 tuần: thực quản đoạn thấp có 1 vết trợt dài khoảng 6 mm, không nối giữa đỉnh hai nếp niêm mạc (viêm thực quản trào ngược LA grade B). Không loét, không hẹp, không Barrett, không thoát vị hoành. Dạ dày viêm nhẹ, test urease âm tính.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Kết quả nội soi: GERD xác định, loại trừ loét thực quản và Barrett"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Ngưng thuốc 2 tuần nay ợ nóng nhẹ 2–3 lần/tuần sau ăn, dùng thuốc kháng acid là hết. Ban đêm không còn rát họng. Không nuốt đau, không nuốt nghẹn, không sụt cân ngoài việc đã giảm 3 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng sau ngưng PPI"
+    },
+    {
+     "id": "thoi_quen",
+     "noi_dung": "Ăn tối 19 giờ, nằm sau 22 giờ, kê cao đầu giường bằng gạch, bỏ bia từ tuần trước nội soi. Cân 71 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã đổi thói quen"
+    },
+    {
+     "id": "truyen",
+     "noi_dung": "Ông nghe bạn nói viêm thì phải truyền thuốc cho sạch. Nếu bác sĩ giải thích dễ hiểu thì ông chịu uống thuốc.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông hiểu 'viêm thực quản' là gì.",
+     "y": "Nhiễu: tin 'viêm phải truyền'"
+    },
+    {
+     "id": "corticoid",
+     "noi_dung": "Không dùng lại prednisolon hay thuốc tự mua; đau gối dùng paracetamol, chườm nóng.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, môi ẩm, BMI 26,1 kg/m².",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không khối.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 72 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 72 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "noi_soi": {
+     "v": "u",
+     "r": "(Không có tại phòng khám; kết quả bệnh viện tỉnh: viêm thực quản trào ngược LA grade B, không loét, không Barrett, urease âm.)",
+     "n": "Nội soi ngưng PPI 2–4 tuần cho kết quả đáng tin (ACG 2022). LA B là bằng chứng khách quan GERD (Lyon 2.0 Bảng 2; VNAGE 2026 KC 6)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày – thực quản có viêm thực quản trào ngược LA grade B (GERD xác định), không loét, không Barrett",
+     "ok": 1,
+     "n": "LA B kèm triệu chứng điển hình là bằng chứng khách quan (Lyon 2.0 Bảng 2; VNAGE 2026 KC 6; ACG 2022 mục Endoscopy)."
+    },
+    {
+     "t": "Loét thực quản",
+     "n": "Nội soi không loét."
+    },
+    {
+     "t": "Bệnh mạch vành",
+     "n": "Không đau ngực kiểu thắt; triệu chứng điển hình của trào ngược và đáp ứng PPI; ECG lượt 1 bình thường."
+    },
+    {
+     "t": "Barrett thực quản",
+     "n": "Nội soi không có Barrett."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích kết quả: viêm do acid trào, không phải nhiễm khuẩn; điều trị bằng thuốc uống, không cần kháng sinh hay truyền; không loét, không Barrett",
+     "v": "c",
+     "n": "VNAGE 2026 KC 13; không tài liệu GERD đã tải chỉ định truyền dịch hay kháng sinh; QĐ 2760/2023 Phần B2 mục 1.2, 1.4 (nguyên tắc chung)."
+    },
+    {
+     "t": "Omeprazol 20 mg uống 1 lần/ngày, 30–60 phút trước ăn sáng, 8 tuần",
+     "v": "c",
+     "n": "VNAGE 2026 KC 13 (8 tuần cho viêm thực quản đã soi); ACG 2022 điều trị KC 8; liều VNAGE 2024 Bảng 4."
+    },
+    {
+     "t": "Sau 8 tuần: tìm liều PPI thấp nhất kiểm soát được triệu chứng; không cần đo pH và không nội soi lại thường quy",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 10; VNAGE 2026 KC 6 (LA B đủ xác định GERD), phần thảo luận KC 13–15: nội soi lặp chỉ cho LA C hoặc D. Cách duy trì sau LA B, ngưng hay dùng theo nhu cầu: tài liệu chỉ nói rõ cho nhóm không có viêm thực quản (ACG 2022 điều trị KC 9, 16); không có trong tài liệu đã tải cho LA B."
+    },
+    {
+     "t": "Giữ thay đổi lối sống: ăn tối sớm, kê cao đầu giường, bỏ bia, giữ cân",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 1, 2, 5; VNAGE 2026 KC 12."
+    },
+    {
+     "t": "Dùng thuốc kháng acid hoặc alginat khi rát trong lúc chờ PPI phát huy",
+     "v": "c",
+     "n": "ACG 2022 (kháng acid trong lúc ngưng PPI); VNAGE 2026 KC 14."
+    },
+    {
+     "t": "Không dùng lại corticoid tự mua; đau gối dùng paracetamol, chườm nóng",
+     "v": "c",
+     "n": "QĐ 361/2014 Thoái hóa khớp gối mục 4.2.2."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại; hẹn tái khám sau 8 tuần",
+     "v": "c",
+     "n": "Mốc 8 tuần theo thời gian PPI (VNAGE 2026 KC 13); mốc tái khám do ca chọn, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng omeprazol lên 2 lần/ngày hoặc dùng P-CAB ngay",
+     "v": "a",
+     "n": "Chưa đáp ứng sai; VNAGE 2026 KC 17, 18 cho khi tối ưu mà vẫn kháng."
+    },
+    {
+     "t": "Ngưng PPI hẳn, chỉ dùng kháng acid khi cần",
+     "v": "a",
+     "n": "ACG 2022 điều trị KC 9, 16 chỉ cho người không có viêm thực quản; triệu chứng tái phát sau ngưng 2 tuần."
+    },
+    {
+     "t": "Nội soi lại sau 8 tuần PPI",
+     "v": "a",
+     "n": "Chỉ khuyến cáo cho LA C hoặc D (VNAGE 2026 phần thảo luận KC 13–15)."
+    },
+    {
+     "t": "Truyền dịch hoặc kháng sinh cho 'viêm'",
+     "v": "w",
+     "n": "Không có chỉ định; không có trong tài liệu GERD đã tải."
+    },
+    {
+     "t": "Chuyển đo pH 24 giờ hoặc phẫu thuật chống trào ngược",
+     "v": "w",
+     "n": "VNAGE 2026 KC 5, 19: chỉ khi không rõ GERD hay kháng trị đã tối ưu."
+    },
+    {
+     "t": "Cho sucralfat hoặc thuốc vận động đường tiêu hóa thay PPI",
+     "v": "w",
+     "n": "ACG 2022 điều trị KC 14, 15."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "GERD xác định: viêm thực quản trào ngược LA grade B kèm triệu chứng điển hình",
+     "Không loét thực quản, không Barrett",
+     "Trào ngược tái phát nhẹ sau ngưng PPI 2 tuần",
+     "Đau gối thoái hóa: không dùng corticoid toàn thân"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: kết quả nội soi (ngưng PPI bao lâu) → triệu chứng sau ngưng → thói quen đã đổi → ông hiểu 'viêm' là gì.",
+     "LA B là bằng chứng khách quan GERD (Lyon 2.0 Bảng 2; VNAGE 2026 KC 6), còn LA A thì chưa đủ (ACG 2022 mục Endoscopy). Nên không cần đo pH.",
+     "Loại trừ loét thực quản và Barrett nhờ nội soi sau ngưng PPI (ACG 2022 chẩn đoán KC 3, 6). Nguy cơ tim đã loại từ lượt 1; không đau ngực mới."
+    ],
+    "phan_tich_xu_tri": [
+     "PPI liều chuẩn 8 tuần cho viêm thực quản đã soi (VNAGE 2026 KC 13). Duy trì liều thấp nhất kiểm soát (ACG 2022 điều trị KC 10). Ngưng hay theo nhu cầu: tài liệu nêu rõ cho nhóm không có viêm thực quản (KC 9, 16), không nêu riêng cho LA B (không có trong tài liệu đã tải), nên đánh giá lại triệu chứng khi tái khám.",
+     "Phương án khác chấp nhận: PPI 2 lần/ngày hoặc P-CAB (VNAGE 2026 KC 17, 18) chỉ khi không đáp ứng sau tối ưu hóa.",
+     "Ca ổn định: trọng tâm là giữ lối sống, uống đúng giờ và không quay lại dùng corticoid tự mua."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng",
+      "so_ngay": "8 tuần, sau đó dùng liều thấp nhất kiểm soát triệu chứng",
+      "ghi_chu": "VNAGE 2026 KC 13; ACG 2022 điều trị KC 8, 10; liều VNAGE 2024 Bảng 4."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần khi đau gối, tổng 1–2 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 361/2014 Thoái hóa khớp gối mục 4.2.2."
+     }
+    ],
+    "dan_do": [
+     "Uống omeprazol mỗi sáng trước ăn trong 8 tuần (VNAGE 2026 KC 13).",
+     "Giữ ăn tối sớm, kê cao đầu giường, bỏ bia, giữ cân.",
+     "Không tự mua thuốc xương khớp; hỏi bác sĩ trước.",
+     "Quay lại sớm nếu nuốt đau, nuốt nghẹn, nôn máu, phân đen, sụt cân hoặc đau ngực.",
+     "Tái khám sau 8 tuần (mốc theo thời gian PPI, VNAGE 2026 KC 13)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Tám tuần sau, ông Thành uống omeprazol đều mỗi sáng, ăn tối sớm, kê cao đầu giường, bỏ bia, nặng 70 kg; hết ợ nóng. Ông không đòi truyền dịch nữa và nói với bạn đừng mua thuốc 'giảm đau khớp' không nhãn. Cách duy trì sau viêm thực quản LA B (liều thấp nhất, theo nhu cầu hay ngưng) không có trong tài liệu đã tải cho riêng nhóm này; ông được hẹn đánh giá lại triệu chứng khi tái khám.",
+ "nhieu": [
+  "Đòi truyền dịch ở cả 3 lượt: giải thích bằng lời đơn giản (acid ở thực quản, chai nước không chặn được acid), không có chỉ định, thay bằng việc ông làm được.",
+  "Ngoài giờ không kỹ thuật viên: không có troponin, công thức máu, urease; quyết định lượt 1 dựa vào đặc điểm đau và ECG, nội soi hẹn không khẩn.",
+  "Đau ngực dễ nhầm tim: ECG trong 10 phút; đau sau ăn, nằm, không gắng sức.",
+  "Prednisolon tự mua chỉ lộ khi hỏi riêng thuốc xương khớp; ngưng không cần giảm dần vì dùng 10 ngày.",
+  "Đáp ứng một phần ở tuần 4 là do uống PPI lúc đi ngủ và ăn tối muộn, không phải kháng trị."
+ ],
+ "bai_hoc_bien": [
+  "Hỏi riêng thuốc giảm đau, thuốc xương khớp, thuốc tự mua: người cao tuổi hay quên kể (corticoid ẩn).",
+  "Ợ nóng sau ăn, tăng khi nằm: vẫn làm ECG ở người 67 tuổi trước khi quy cho trào ngược (ESC 2023 mục 3.2).",
+  "Đáp ứng một phần sau 4 tuần: kiểm tra giờ uống và thói quen trước khi tăng liều (VNAGE 2026 KC 17).",
+  "Nội soi sau ngưng PPI 2–4 tuần cho ca có nhiều yếu tố nguy cơ Barrett (ACG 2022 chẩn đoán KC 3, 6).",
+  "LA B là bằng chứng khách quan; LA A chưa đủ (Lyon 2.0 Bảng 2; ACG 2022).",
+  "Truyền dịch theo yêu cầu: không có chỉ định, thay bằng lời giải thích và việc cụ thể."
+ ],
+ "diem_nho": [
+  "PPI uống 30–60 phút trước ăn sáng, không uống lúc đi ngủ (ACG 2022 điều trị KC 8).",
+  "Thử PPI 8 tuần cho ợ nóng, trào ngược không dấu báo động (ACG 2022 chẩn đoán KC 1); VNAGE 2026 KC 2: thử PPI một mình không đủ để chẩn đoán.",
+  "Kê cao đầu giường, giảm cân, không ăn trong 2–3 giờ trước ngủ (ACG 2022 điều trị KC 1, 2, 5; VNAGE 2026 KC 12).",
+  "Prednisolon dưới 3–4 tuần: ngưng không cần giảm dần (ESE/ES 2024 R 2.1); không có chỉ định corticosteroid toàn thân cho thoái hóa gối (QĐ 361/2014 mục 4.2.2).",
+  "Biến chứng loét thực quản ít gặp ở Việt Nam, nhưng vẫn hẹn nội soi khi có nhiều yếu tố nguy cơ (VNAGE 2026 KC 3, 4)."
+ ],
+ "nguon": [
+  "VNAGE 2026 – GERD – TL-0177 – KC 1–6, 10, 12–19 (Front Med 2026;13:1890726)",
+  "ACG 2022 – GERD – TL-0212 – chẩn đoán KC 1–6; điều trị KC 1–16; mục Endoscopy, PPI không đáp ứng",
+  "Lyon Consensus 2.0 (2024) – TL-0206 – Bảng 2",
+  "VNAGE 2024 – khó tiêu chức năng – TL-0178 – Bảng 4 (liều chuẩn PPI)",
+  "ESC 2023 – hội chứng vành cấp – TL-0069 – mục 3.1.2, 3.2, Hình 5, 3.3.1",
+  "Backus 2013 (HEART) – TL-0110 – bảng điểm",
+  "ESE/Endocrine Society 2024 – suy thượng thận do glucocorticoid – TL-0063 – R 2.1, R 2.10",
+  "BYT QĐ 361/2014 – bệnh cơ xương khớp – TL-0286 – Thoái hóa khớp gối mục 4.1–4.2.2; Phụ lục NSAID mục 3.3",
+  "BYT QĐ 2760/2023 – sốt xuất huyết Dengue – TL-0029 – Phần B2 mục 1.2, 1.4 (chỉ làm nguyên tắc bù dịch chung)",
+  "Không có trong tài liệu đã tải: troponin hoặc ngưỡng hẹn xét nghiệm hôm sau khi ngoài giờ; thời hạn hẹn nội soi; mốc tái khám 4 tuần và 8 tuần; duy trì PPI sau viêm thực quản LA B; liên quan corticoid đơn độc với trào ngược hay loét thực quản."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-13 (viết: Sonnet): GERD điển hình, nam 67 tuổi, hưu trí, 3 lượt (tuần 0, 4, 12), tối thứ bảy ngoài giờ (khoa_cls: xn). Khởi phát sau ăn đường phố, bia; corticoid tự mua (prednisolon 5 mg × 2 viên × 10 ngày cho đau gối); lý do thật: muốn truyền dịch.",
+  "Đã tra mau_thuan.md và áp dụng: thời điểm uống PPI (ACG 2022 KC 8), rượu bia (VNAGE 2026 KC 12 so ACG Bảng 3), nội soi sau ngưng PPI với nhiều yếu tố Barrett, truyền dịch theo yêu cầu (w), PPI 1 so 2 lần/ngày (a), ngưng corticoid ngắn ngày.",
+  "Tài liệu đã đọc: TL-0177 (KC 1–19), TL-0212, TL-0206 Bảng 2, TL-0178 Bảng 4, TL-0069 mục 3.1.2–3.2, TL-0110, TL-0063 R 2.1, TL-0286 (thoái hóa gối), TL-0029 B2. Thiếu: xem phần nguồn.",
+  "Chẩn đoán phải loại trừ có trong chan_doan mỗi lượt: bệnh mạch vành, loét thực quản (nội soi lượt 3)."
+ ]
+}
