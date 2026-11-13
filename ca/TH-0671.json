@@ -1,0 +1,534 @@
+{
+ "ma_ca": "TH-0671",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_tieu_chay_cap_nhiem_trung",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Tiêu chảy cấp nhiễm trùng",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Lỵ trực trùng",
+   "Viêm ruột thừa"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Nhân viên ngân hàng",
+  "yeu_to_khoi_phat": "Sau tự uống kháng sinh",
+  "thuoc_dang_dung": "Thuốc bôi ngoài da không rõ",
+  "ly_do_that_su_den_kham": "Sợ mắc lao"
+ },
+ "benh_nhan": {
+  "ten": "Võ Thị Thu Hà",
+  "tuoi": 29,
+  "gioi": "Nữ",
+  "nghe": "Giao dịch viên ngân hàng (chi nhánh huyện)",
+  "can_nang": 52,
+  "chieu_cao": 158,
+  "xung_ho": "Bác sĩ gọi chị 'chị Hà'. Chị tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhẹn, nói nhanh, hay lo xa, quen tra Google triệu chứng rồi tự kết luận. Đi khám một mình trong giờ nghỉ trưa, sốt ruột vì cuối tuần có đợt kiểm toán nên 'không được nghỉ'.",
+  "kieu_nhieu": "Đòi truyền dịch: chị xin 'một chai nước biển với thuốc mạnh' vì nhớ mẹ từng tiêu chảy được truyền nước thì khỏe nhanh. Hỏi ngược 'sao không truyền' nếu bị từ chối, nhưng chịu nghe khi bác sĩ giải thích cụ thể bằng tình trạng của chính chị và nêu mốc quay lại.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#e8c4a0",
+   "toc": "#2a211e",
+   "kieuToc": "dai",
+   "ao": "#dfe6ee",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Tiêu chảy, đau bụng, muốn truyền nước",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am",
+   "tham_do"
+  ],
+  "loi_bao": "Phòng khám tuyến cơ sở không làm được xét nghiệm nào (không máu, phân, nước tiểu, que thử, test nhanh, đường huyết mao mạch, thử thai) và không có máy siêu âm; vì vậy cũng không có X-quang, CT, nội soi. Chỉ có nhiệt kế, huyết áp kế, máy đo SpO₂, cân, ống nghe. Bệnh viện huyện cách 25 km, có xét nghiệm và siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 29 tuổi, giao dịch viên ngân hàng, đến một mình trong giờ nghỉ trưa vì đi ngoài phân lỏng từ sáng hôm qua, đau bụng và hơi sốt. Sinh hiệu lúc tiếp đón: nhiệt độ 37,8 °C, mạch 96 l/p, huyết áp 108/68 mmHg, nhịp thở 18 l/p, SpO₂ 99%. Chị nói nhanh, hơi lo lắng, xin được truyền nước.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Hà bị giữ lại nằm truyền tĩnh mạch dù mất nước độ 1, còn uống được. Truyền tĩnh mạch dành cho mất nước từ độ 2 trở lên hoặc không uống được (QĐ 5642/2015, Tiêu chảy do vi khuẩn, mục 4.2.3a); ORS là lựa chọn đầu tay cho mất nước nhẹ đến vừa ở người lớn (IDSA 2017 khuyến cáo 39, tr. e50). Chị mất hai ngày công đúng đợt kiểm toán, tốn viện phí, nằm chung khu với người bệnh nhiễm trùng khác và càng tin 'phải có chai nước biển mới khỏi'.",
+    "chuyen_tuyen": "Gửi chị Hà lên bệnh viện huyện ngay hôm nay để 'làm xét nghiệm, chụp phổi và loại trừ ruột thừa' là quá tay. Khám bụng chưa có đề kháng hay phản ứng dội, chưa có dấu hiệu nặng nên có thể theo dõi có mốc (WSES 2025, khuyến cáo 1–2, tr. 285: phân tầng nguy cơ rồi mới quyết định cần hình ảnh hay theo dõi); không tài liệu đã tải chỉ định chụp X-quang ngực cho ho 5 ngày chưa có dấu hiệu nghi lao (QĐ 162/2024, mục 1.1, Bảng 1). Chị mất nửa ngày, tốn kém, trong khi việc cần làm thật (bù dịch, dặn quay lại, hẹn sàng lọc người tiếp xúc lao) chưa ai làm."
+   },
+   "loi_mo": "Chào bác sĩ. Em bị tiêu chảy hai ngày nay, đau bụng bên phải dưới nữa, hơi sốt. Em nghĩ phải truyền nước mới khỏi nhanh, vì cuối tuần em có đợt kiểm toán, không nghỉ được. Bác sĩ truyền cho em một chai nước biển với thuốc mạnh nhé.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "108/68",
+    "nhiet": "37,8",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": [
+     "Sốt nhẹ 37,8 °C"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi ngoài phân lỏng từ sáng hôm qua (ngày thứ 2), kèm đau quặn bụng bên phải dưới và hơi sốt. Chị muốn được truyền nước cho mau khỏi vì cuối tuần có đợt kiểm toán, không nghỉ được.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, mong muốn truyền nước"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Sáng thứ Năm thấy sôi bụng rồi đi ngoài. Hôm qua khoảng 6–7 lần, hôm nay mới 3 lần tính đến trưa, lượng ít hơn hôm qua. Chị nghĩ mình 'đi cả chục lần' nhưng khi đếm lại thì chỉ có thế.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến, số lần đi ngoài",
+     "dieu_kien_lo": "Lúc đầu chỉ nói 'tiêu chảy dữ lắm'. Con số cụ thể từng ngày chỉ nói khi bác sĩ hỏi mỗi ngày đi ngoài bao nhiêu lần."
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Phân lỏng sệt như nước, vàng nâu, không có máu, không nhầy, không mót rặn, không có nước đục như nước vo gạo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân"
+    },
+    {
+     "id": "bua_an",
+     "noi_dung": "Trưa thứ Tư, cả nhóm đặt cơm hộp chung ở quán gần ngân hàng: cơm sườn, trứng, dưa leo, gỏi cuốn tôm thịt với rau sống. Chị ăn gỏi cuốn. Không ăn hải sản sống, không uống nước đá bên ngoài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ: bữa ăn nghi ngờ",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi chị đã ăn gì trong 2–3 ngày trước khi đi ngoài, có món nào ăn sống không."
+    },
+    {
+     "id": "dong_nghiep",
+     "noi_dung": "Hai đồng nghiệp ăn cùng hộp cơm hôm đó cũng đau bụng, đi ngoài từ thứ Năm. Một người xin nghỉ ở nhà. Những người không ăn gỏi cuốn thì không sao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghi ổ dịch nhỏ cùng bữa ăn",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi có ai cùng ăn bị bệnh không."
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Đau quặn từng cơn ở bụng dưới bên phải, bắt đầu sau khi đã đi ngoài lỏng vài lần, lên trước mỗi lần đi ngoài và đỡ khoảng 1–2 giờ sau đó. Không đau quanh rốn rồi chuyển xuống, không đau liên tục tăng dần, đi lại vẫn được.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Đặc điểm và thứ tự cơn đau (so với ruột thừa)",
+     "dieu_kien_lo": "Hỏi chung 'có đau bụng không' chị chỉ nói 'đau bên phải dưới, chắc ruột thừa'. Chỉ kể thứ tự đau sau tiêu chảy và đỡ sau khi đi ngoài khi bác sĩ hỏi đau trước hay đi ngoài trước, đau liên tục hay từng cơn, có di chuyển không."
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Chiều qua đo ở nhà 38,0 °C, không rét run, uống 1 viên paracetamol 500 mg thì hết. Sáng nay không đo, thấy người âm ấm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, mức sốt, không rét run"
+    },
+    {
+     "id": "non",
+     "noi_dung": "Buồn nôn nhẹ, nôn 1 lần tối thứ Năm. Từ đó uống được nước, ăn được cháo.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Khát hơn bình thường, miệng khô. Từ sáng chỉ đi tiểu 2 lần, nước tiểu vàng sậm. Chưa chóng mặt khi đứng dậy. Chị uống nước lọc là chính, chưa pha oresol.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu mất nước, uống được",
+     "dieu_kien_lo": "Hỏi 'có mệt không' thì chị nói 'cũng bình thường'. Chỉ kể chi tiết khát, nước tiểu ít và sẫm khi bác sĩ hỏi cụ thể."
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Chủ nhật vừa rồi đau họng, ho khan, sổ mũi. Tối thứ Hai chị ra nhà thuốc mua amoxicillin–clavulanat 625 mg (10 viên, người bán bảo 'uống cho mau khỏi'), uống 2 viên/ngày. Đến sáng nay đã uống 8 viên, còn 2 viên, chiều nay vẫn định uống nốt. Chị nghĩ tiêu chảy là do cơm hộp nên không coi đây là chuyện cần nói.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Kháng sinh tự mua trước khi tiêu chảy",
+     "dieu_kien_lo": "Chị không tự kể vì cho rằng thuốc ho cảm không liên quan. Chỉ nói khi bác sĩ hỏi gần đây đã uống thuốc gì, đặc biệt kháng sinh hay thuốc mua ở nhà thuốc."
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan 5 ngày, bớt nhiều rồi, còn ho vài tiếng buổi sáng, hơi đau họng. Không ho ra đờm, không ho ra máu, không khó thở, không đau ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng hô hấp, thời gian ho",
+     "nhieu": 1
+    },
+    {
+     "id": "lao_toan_than",
+     "noi_dung": "Không sụt cân (52 kg, cân tháng trước 52 kg), không ra mồ hôi đêm, không sốt kéo dài về chiều trước vụ này, không ho kéo dài trước đó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng toàn thân nghi lao"
+    },
+    {
+     "id": "tiep_xuc_lao",
+     "noi_dung": "Ba tuần trước, một đồng nghiệp ngồi bàn sát bên chị cùng phòng giao dịch được chẩn đoán lao phổi, công ty thông báo nội bộ và anh ấy đã nghỉ điều trị. Chị được dặn đi khám sàng lọc nhưng chưa đi vì ngại.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Tiếp xúc người bệnh lao phổi",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi có ai quanh chị bị bệnh lây nào không, hoặc hỏi điều gì làm chị lo nhất."
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật chị đi khám hôm nay: chị tra mạng thấy 'lao ruột: đau hố chậu phải, tiêu chảy, sốt nhẹ' nên sợ mình đã lây lao từ đồng nghiệp. Chị muốn được truyền nước, uống 'thuốc mạnh' và chụp phổi cho yên tâm.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Động cơ thật: sợ mắc lao",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chị nghĩ mình bị bệnh gì, điều gì làm chị lo nhất, hay vì sao hôm nay quyết định đi khám."
+    },
+    {
+     "id": "kinh",
+     "noi_dung": "Kinh đều 28–30 ngày, kỳ kinh vừa rồi bắt đầu cách đây 9 ngày, 4 ngày, lượng bình thường. Không ra máu âm đạo, không khí hư bất thường. Có chồng, dùng bao cao su, chưa có con.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kinh nguyệt, loại trừ nguyên nhân phụ khoa/thai"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Khỏe mạnh, không bệnh mạn tính, không dùng thuốc ức chế miễn dịch, chưa mổ bụng, không dị ứng thuốc. Chưa xét nghiệm HIV bao giờ, không có yếu tố nguy cơ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Miễn dịch bình thường, tiền sử"
+    },
+    {
+     "id": "du_lich",
+     "noi_dung": "Không đi xa, không đến vùng có dịch tả, không ăn hải sản sống, uống nước đóng bình.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ loại trừ tả"
+    },
+    {
+     "id": "thuoc_boi",
+     "noi_dung": "Hai tháng nay bôi lên má và trán một hộp kem mua online 'trị mụn, mờ thâm', không nhãn thành phần, bôi ngày hai lần. Không uống thuốc nào khác ngoài amoxicillin–clavulanat và 1 viên paracetamol.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Hồi trước mẹ chị tiêu chảy được truyền một chai nước biển thì khỏe liền; chị cần khỏe nhanh vì đợt kiểm toán. Sẵn sàng uống oresol nếu bác sĩ giải thích đây là cách tốt hơn cho chị.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do đòi truyền dịch",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh táo, nói nhanh, hơi lo lắng, dáng đi vững. Cân nặng 52 kg. Không vẻ mặt nhiễm độc.",
+     "k": 1,
+     "hien": "Tỉnh, hơi lo lắng. Cân nặng 52 kg."
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 108/68 mmHg, mạch 92 l/p. Đứng 3 phút: HA 104/66 mmHg, mạch 100 l/p, hơi choáng nhẹ, không ngất. Ngưỡng hạ huyết áp tư thế: không có trong tài liệu đã tải.",
+     "k": 1,
+     "hien": "Nằm 108/68 mmHg, mạch 92 l/p. Đứng 3 phút: 104/66 mmHg, mạch 100 l/p, hơi choáng."
+    },
+    "dau_mat_co": {
+     "a": "Môi khô nhẹ, lưỡi hơi khô, niêm mạc miệng kém ẩm. Mắt không trũng. Họng đỏ nhẹ. Hạch cổ không to, không đau.",
+     "k": 1,
+     "hien": "Môi khô nhẹ, lưỡi hơi khô. Mắt không trũng. Hạch cổ không sờ thấy."
+    },
+    "da": {
+     "a": "Véo da ở mu bàn tay trở lại nhanh. Tay chân ấm, mao mạch hồi sắc nhanh. Không ban, không vàng da. Má và trán có vài sẩn mụn nhỏ và vùng da đỏ mỏng nơi bôi kem.",
+     "k": 1,
+     "hien": "Véo da trở lại nhanh. Tay chân ấm. Không ban, không vàng da. Má và trán có vài sẩn mụn."
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không to, không mủ. Màng nhĩ bình thường. Niêm mạc mũi hơi phù.",
+     "k": 0,
+     "hien": "Họng đỏ nhẹ, amidan không to, không mủ."
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 96 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p, rì rào phế nang êm dịu hai phế trường, không ran. Không rung thanh bất thường.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p. Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng không chướng, di động theo nhịp thở, nhu động ruột tăng. Ấn nhẹ: đau lan tỏa quanh rốn và hố chậu phải. Ấn sâu hố chậu phải đau mức nhẹ đến vừa, không khu trú một điểm, không đề kháng, không co cứng, không phản ứng dội khi thả tay đột ngột. Rovsing và nghiệm pháp cơ thắt lưng chậu âm tính. Hố chậu trái, thượng vị ấn không đau. Gan lách không sờ thấy.",
+     "k": 1,
+     "hien": "Bụng không chướng, di động theo nhịp thở. Ấn nhẹ đau lan tỏa quanh rốn và hố chậu phải; ấn sâu hố chậu phải đau nhẹ đến vừa, không khu trú một điểm."
+    },
+    "truc_trang": {
+     "a": "Cơ thắt hậu môn bình thường. Trực tràng chứa phân nhão vàng nâu, găng sạch sau khám, không máu, không nhầy. Thăm trực tràng không đau thành bên phải.",
+     "k": 0,
+     "hien": "Hậu môn bình thường. Găng sạch, không máu, không nhầy."
+    },
+    "phu_khoa": {
+     "a": "Âm hộ, âm đạo, cổ tử cung bình thường, không ra máu, không dịch bất thường. Khám hai tay: lắc cổ tử cung không đau, tử cung và hai phần phụ không đau, không khối.",
+     "k": 0,
+     "hien": "Âm hộ, âm đạo, cổ tử cung bình thường. Khám hai tay không đau, không khối."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 11,2 G/L · Neutrophil 78% · Hb 138 g/L · TC 245 G/L",
+     "n": "Nơi đủ nguồn lực sẽ làm để phân tầng nguy cơ ruột thừa vì thang điểm AIR, AAS cần bạch cầu (WSES 2025 khuyến cáo 1–2, tr. 285); IDSA 2017 khuyến cáo 22 (tr. e49): không dùng để xác định căn nguyên tiêu chảy. Ở đây thay bằng khám bụng lặp lại và dặn quay lại."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 24 mg/L",
+     "n": "Là một thành phần của thang điểm AIR (WSES 2020, phần thang điểm lâm sàng, so sánh AIR với Alvarado và PAS); không thay đổi xử trí hôm nay vì chưa có dấu hiệu khu trú."
+    },
+    "soi_phan": {
+     "v": "u",
+     "r": "Soi phân tươi: phân lỏng vàng nâu; không hồng cầu; bạch cầu 2–3/vi trường; không ký sinh trùng; không thấy phẩy khuẩn di động.",
+     "n": "QĐ 5642/2015, mục 3.3 và 4.2.1 (hồng cầu, bạch cầu trong phân là tiêu chí cân nhắc kháng sinh); ngưỡng bạch cầu: không có trong tài liệu đã tải. IDSA 2017 khuyến cáo 20 (tr. e49): không dùng bạch cầu phân để xác định căn nguyên."
+    },
+    "cay_phan": {
+     "v": "u",
+     "r": "Cấy phân (kết quả sau 48–72 giờ): không mọc Salmonella, Shigella, Campylobacter, Vibrio.",
+     "n": "IDSA 2017 khuyến cáo 11, 16 (tr. e47): nghi ổ dịch cùng bữa ăn cần xét nghiệm theo hướng dẫn y tế công cộng; ACG 2016 khuyến cáo 1. Kết quả không về kịp để quyết định hôm nay; ở đây không làm được."
+    },
+    "cdiff": {
+     "v": "a",
+     "r": "Độc tố/NAAT C. difficile trong phân: chưa có kết quả (không làm được ở cơ sở).",
+     "n": "IDSA 2017 khuyến cáo 18 (tr. e48): có thể xét nghiệm ở người ≥ 2 tuổi tiêu chảy sau dùng kháng sinh (yếu, bằng chứng cao). Ca dặn quay lại và làm xét nghiệm ở tuyến trên nếu nặng lên hoặc kéo dài."
+    },
+    "test_thai": {
+     "v": "a",
+     "r": "(Phòng khám không có que thử thai.)",
+     "n": "WSES 2020 khuyến cáo 1.2.2 chỉ nêu cho thai phụ nghi viêm ruột thừa; chỉ định thử thai thường quy cho nữ đau hố chậu phải: không có trong tài liệu đã tải. Thay bằng hỏi kinh nguyệt và khám phụ khoa."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tiêu chảy cấp nhiễm trùng (viêm dạ dày – ruột cấp), thể phân nước, ngày thứ 2, mất nước độ 1, nghi ổ dịch nhỏ từ hộp cơm chung",
+     "ok": 1,
+     "n": "Tiêu chảy nhiều lần kèm buồn nôn, đau quặn, sốt nhẹ (QĐ 5642/2015, Tiêu chảy do vi khuẩn, mục 1, 3.1); phân nước không máu, không nhầy; khởi phát sau bữa ăn chung, 2 đồng nghiệp cùng bị (IDSA 2017 khuyến cáo 11, 16, Bảng 2 tr. e48); đang đỡ dần, mới ngày 2 nên ở mức cấp (< 7 ngày, IDSA 2017 tr. e53). Đau hố chậu phải kiểu quặn trong tiêu chảy là biểu hiện lệch chuẩn nhưng không loại trừ (IDSA 2017 khuyến cáo 10a, tr. e47 nêu Yersinia gây đau hố chậu phải giống viêm ruột thừa)."
+    },
+    {
+     "t": "Tả",
+     "n": "Không phân toàn nước như nước vo gạo, vài chục lần mỗi ngày; không nôn nhiều, có đau quặn, có sốt nhẹ, số lần đang giảm (QĐ 5642/2015, mục 3.2; QĐ 4178/2007, mục II.1a). Không ăn hải sản sống, không đi vùng dịch (IDSA 2017 khuyến cáo 10b, tr. e47)."
+    },
+    {
+     "t": "Lỵ trực trùng (Shigella)",
+     "n": "Không hội chứng lỵ: không sốt cao, không mót rặn, phân không nhầy máu (QĐ 5642/2015, mục 3.2). Cần theo dõi nếu về sau sốt cao, phân nhầy máu."
+    },
+    {
+     "t": "Viêm ruột thừa cấp",
+     "n": "Đau bắt đầu sau tiêu chảy, từng cơn, đỡ sau đi ngoài, không di chuyển từ rốn xuống; bụng chưa đề kháng, chưa phản ứng dội, Rovsing và cơ thắt lưng chậu âm tính; đau lan tỏa chứ không khu trú một điểm. Không có xét nghiệm, hình ảnh nên không loại trừ tuyệt đối; thang điểm AIR, AAS cần bạch cầu, CRP (WSES 2025 khuyến cáo 1–2, tr. 285) không tính được. Thay bằng theo dõi có mốc (khoảng thời gian khám lại: không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Tiêu chảy liên quan kháng sinh, kể cả Clostridioides difficile",
+     "n": "Có nguy cơ vì đã uống amoxicillin–clavulanat 4 ngày (IDSA 2017 Bảng 2, tr. e48; ACP/CDC 2016, tr. 425 và Bảng tr. 427: tiêu chảy là tác dụng phụ thường gặp của kháng sinh, C. difficile là biến chứng nặng). Nhưng sốt, đau quặn và 2 đồng nghiệp cùng bữa cùng bệnh nghiêng về nhiễm trùng từ thức ăn; không loại trừ hẳn được, dặn quay lại nếu kéo dài hoặc nặng lên (IDSA 2017 khuyến cáo 18)."
+    },
+    {
+     "t": "Lao ruột hoặc lao hoạt động",
+     "n": "Bệnh 2 ngày, cấp tính; không sụt cân, không ra mồ hôi đêm, không sốt kéo dài, ho mới 5 ngày chưa đủ 2 tuần (QĐ 162/2024, mục 1.1 Bảng 1; mục 3.2.1a). Tiêu chuẩn chẩn đoán lao ruột: không có trong tài liệu đã tải. Tuy vậy chị là người làm việc cùng phòng với bệnh nhân lao phổi nên thuộc nhóm tiếp xúc cần sàng lọc (QĐ 162/2024, mục 1.5; Phần IV mục 1.1.1)."
+    },
+    {
+     "t": "Đau hố chậu phải do thai ngoài tử cung hoặc bệnh phụ khoa",
+     "n": "Kinh đều, kỳ kinh vừa cách 9 ngày bình thường, không ra máu âm đạo; khám hai tay không đau, không khối. Tiêu chuẩn lâm sàng loại trừ thai ngoài tử cung và que thử thai: không có trong tài liệu đã tải; cơ sở không có. Dặn đi cấp cứu nếu chóng mặt, ra huyết âm đạo, đau tăng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá mức mất nước bằng lâm sàng (khát, niêm mạc, véo da, mạch, huyết áp kể cả tư thế, nước tiểu) và xếp mất nước độ 1",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 5 (tr. e47); QĐ 5642/2015, mục 3.1 (bảng mức độ mất nước), 4.2.3a. Chị khát ít, môi khô nhẹ, mạch 96, HA 108/68, tiểu ít, tay chân ấm nên độ 1."
+    },
+    {
+     "t": "Bù dịch đường uống: oresol (đúng thể tích ghi trên gói, hoặc 1 gói với 1 lít nước đun sôi để nguội) hoặc nước cháo muối, súp, nước dùng; uống theo nhu cầu, nôn thì uống từng ngụm nhỏ, đến khi tiểu đều, niêm mạc ẩm",
+     "v": "c",
+     "n": "QĐ 5642/2015, mục 4.2.3a (độ 1, uống được: oresol); IDSA 2017 khuyến cáo 39, 43 (tr. e50–e51) so với ACG 2016 khuyến cáo 5 (tr. 607: đa số người lớn bù đủ bằng nước, nước trái cây, súp, bánh quy mặn). Công thức oresol và dịch thay thế: QĐ 4178/2007, mục III.2.a. Lượng ml cho người lớn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ăn lại bình thường sớm, không nhịn ăn; ưu tiên cháo, súp, bánh quy mặn, món luộc hấp nướng",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 45 (tr. e51); ACG 2016, Hình 1 (tr. 603)."
+    },
+    {
+     "t": "Ngừng amoxicillin–clavulanat tự mua, không uống nốt 2 viên còn lại",
+     "v": "c",
+     "n": "Ho, đau họng 5 ngày là cảm lạnh, kháng sinh không có chỉ định (ACP/CDC 2016, Bảng tr. 427: cảm lạnh 'never indicated'; tr. 425: 5–25% người dùng kháng sinh có tác dụng phụ, tiêu chảy và C. difficile). Việc ngừng giữa chừng có làm hết tiêu chảy hay không: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê thêm kháng sinh điều trị tiêu chảy hôm nay (sốt 37,8–38,0 °C, phân nước không máu), theo dõi sát và quay lại sớm; hoặc cân nhắc kháng sinh kinh nghiệm vì có sốt: azithromycin 0,5 g/ngày × 5 ngày hoặc ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày",
+     "v": "c",
+     "n": "Hai cách đều đúng (sổ mâu thuẫn, mục ngưỡng kháng sinh khi có sốt): QĐ 5642/2015, mục 4.2.1 cho phép cân nhắc khi có sốt, liều ở mục 4.2.2a; IDSA 2017 khuyến cáo 36 (tr. e50) và ACG 2016 khuyến cáo 9–10 (tr. 610) không khuyến cáo ở tiêu chảy nước cộng đồng, ACG Hình 1 (tr. 603) chỉ dùng khi sốt ≥ 101 °F (38,3 °C). Hướng không kê thận trọng hơn."
+    },
+    {
+     "t": "Kê thêm kháng sinh khác (ceftriaxone tiêm, levofloxacin…) trong khi vẫn để chị uống tiếp amoxicillin–clavulanat",
+     "v": "w",
+     "n": "Không tài liệu đã tải khuyến cáo chồng hai kháng sinh; ACG 2016 khuyến cáo 10 (tr. 610) khuyên tránh kháng sinh ở tiêu chảy cộng đồng; fluoroquinolon có nguy cơ C. difficile (tr. 610)."
+    },
+    {
+     "t": "Truyền tĩnh mạch (NaCl 0,9%, Ringer lactat) cho mất nước độ 1, còn uống được, theo yêu cầu của người bệnh",
+     "v": "w",
+     "n": "QĐ 5642/2015, mục 4.2.3a: tĩnh mạch khi mất nước từ độ 2 trở lên hoặc không uống được; IDSA 2017 khuyến cáo 41 (tr. e51): khi mất nước nặng, sốc, rối loạn ý thức và thất bại với ORS. Truyền dịch theo yêu cầu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dùng loperamid để cầm đi ngoài khi đang sốt và đau quặn",
+     "v": "w",
+     "n": "IDSA 2017 khuyến cáo 47 (tr. e51): tránh ở mọi tuổi khi nghi tiêu chảy viêm hoặc có sốt (mạnh, chứng cứ thấp); QĐ 5642/2015, mục 4.2.3b: không lạm dụng loperamide. Chị còn sốt nhẹ nên chấm w (sổ mâu thuẫn, mục loperamide)."
+    },
+    {
+     "t": "Men vi sinh: không dùng",
+     "v": "a",
+     "n": "ACG 2016 khuyến cáo 6 (tr. 607): không khuyến cáo để điều trị tiêu chảy cấp người lớn, trừ bệnh sau kháng sinh. Hai cách đều chấp nhận (xem mục kế); ca này có tiêu chảy sau kháng sinh nên cả hai nguồn cho phép."
+    },
+    {
+     "t": "Men vi sinh: có thể dùng để giảm mức nặng và thời gian bệnh",
+     "v": "a",
+     "n": "IDSA 2017 khuyến cáo 49 (tr. e51): có thể cho ở người lớn miễn dịch bình thường (yếu, bằng chứng trung bình); ACG 2016 (tr. 608–609) có nêu bằng chứng cho phòng tiêu chảy sau kháng sinh. Chủng, liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ chị tại phòng khám 1–2 giờ cho uống thử oresol, khám lại bụng và đo lại sinh hiệu trước khi cho về",
+     "v": "a",
+     "n": "Nguyên tắc quan sát khi chưa loại trừ ruột thừa và chưa có hình ảnh: WSES 2025 khuyến cáo 1–2 (tr. 285: nhóm nguy cơ trung gian cần hình ảnh hoặc theo dõi có chủ đích). Thời lượng quan sát 1–2 giờ là cách làm của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn khám lại bụng sau 24 giờ và dặn quay lại NGAY khi đau tăng hoặc khu trú cố định ở hố chậu phải, sốt ≥ 38,3 °C hoặc rét run, phân có máu hoặc nhầy máu, nôn không uống được, tiểu rất ít, choáng khi đứng, chóng mặt hoặc ra huyết âm đạo",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 8 (tr. e47: sốt, phân máu hoặc nhầy, đau quặn nhiều), khuyến cáo 41 (tr. e51: không uống được, rối loạn ý thức); ACG 2016, Hình 1 (tr. 603: sốt ≥ 101 °F, phân máu); WSES 2025 khuyến cáo 1–2. Mốc 24 giờ và 'chóng mặt, ra huyết âm đạo' là cách dặn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nói rõ vì sao không truyền: chị uống được nên oresol đủ bù và an toàn hơn; truyền dịch dành cho người mất nước nặng hơn hoặc không uống được",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp xử trí nhiễu 'đòi truyền dịch'. Nội dung: QĐ 5642/2015, mục 4.2.3a; IDSA 2017 khuyến cáo 39, 41."
+    },
+    {
+     "t": "Hỏi động cơ thật, giải thích: ho mới 5 ngày chưa phải triệu chứng nghi lao phổi, nhưng chị là người tiếp xúc nên cần đến cơ sở chống lao khám sàng lọc người tiếp xúc; quay lại khi ho trên 2 tuần, sốt chiều, ra mồ hôi đêm, sụt cân, ho ra máu",
+     "v": "c",
+     "n": "QĐ 162/2024: mục 1.1 Bảng 1 (ho kéo dài trên 2 tuần là triệu chứng nghi lao quan trọng nhất; sốt nhẹ chiều, ra mồ hôi đêm, gầy sút); mục 1.5 (người làm việc cùng phòng với người bệnh lao phổi là người tiếp xúc); Phần IV mục 1.1.1, 1.2.2 (tiếp xúc ≥ 5 tuổi: xét nghiệm Mantoux hoặc IGRA và loại trừ lao hoạt động bằng khám lâm sàng, X-quang ngực, xét nghiệm đờm). Cơ sở này không có X-quang, xét nghiệm nên giới thiệu đi. Thời hạn nên đi khám sàng lọc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cân nhắc báo y tế dự phòng vì nghi ổ dịch nhỏ (≥ 2 người cùng bữa ăn bị bệnh)",
+     "v": "a",
+     "n": "IDSA 2017 khuyến cáo 11, 16 (tr. e47); ACG 2016 khuyến cáo 1 (tr. 604). Quy định báo cáo ở Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn vệ sinh: rửa tay bằng xà phòng sau đi vệ sinh và trước ăn, ăn chín uống sôi, rau sống rửa kỹ",
+     "v": "c",
+     "n": "IDSA 2017 khuyến cáo 52 (tr. e51); QĐ 5642/2015, mục 6 (ăn chín, uống nước đun sôi, rửa tay)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tiêu chảy cấp nhiễm trùng (viêm dạ dày – ruột cấp), thể phân nước, ngày thứ 2, nghi ổ dịch nhỏ từ hộp cơm chung (2 đồng nghiệp cùng bị)",
+     "Mất nước độ 1 (khát ít, môi khô nhẹ, véo da trở lại nhanh, mạch 96 < 100, HA 108/68, tiểu ít), còn uống được",
+     "Đau quặn hố chậu phải kèm tiêu chảy, lệch chuẩn; chưa có dấu hiệu viêm ruột thừa nhưng chưa loại trừ tuyệt đối vì không có xét nghiệm, hình ảnh",
+     "Yếu tố liên quan: đang dùng amoxicillin–clavulanat tự mua 4 ngày (có thể góp phần gây tiêu chảy, nguy cơ C. difficile chưa loại trừ)",
+     "Loại trừ: tả, lỵ trực trùng, viêm ruột thừa (theo dõi), thai ngoài tử cung, lao ruột; chưa có chỉ định kháng sinh thêm",
+     "Yếu tố gây nhiễu: đòi truyền dịch; lý do thật là sợ mắc lao vì đồng nghiệp cùng phòng bị lao phổi; ho 5 ngày không phải triệu chứng nghi lao"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: (1) hỏi số lần đi ngoài mỗi ngày, tính chất phân, sốt, vị trí và thứ tự cơn đau; (2) hỏi bữa ăn, người cùng bữa, thuốc đã dùng kể cả kháng sinh, kinh nguyệt, tiếp xúc người bệnh lây; (3) khám mất nước, bụng, trực tràng, phụ khoa; (4) cận lâm sàng: không làm được; (5) chẩn đoán, xử trí (IDSA 2017 khuyến cáo 1, 5; QĐ 5642/2015, mục 3.1, 3.4).",
+     "Vì sao nghĩ tiêu chảy nhiễm trùng: khởi phát cấp sau bữa ăn chung, phân nước không máu, buồn nôn, đau quặn, sốt nhẹ, 2 đồng nghiệp cùng ăn cũng bệnh, số lần giảm từ 6–7 xuống 3 (QĐ 5642/2015, mục 1, 3.1; IDSA 2017 khuyến cáo 11, 16). Thể không điển hình vì đau khu trú hố chậu phải.",
+     "Mất nước độ 1: khát ít, da bình thường, mạch < 100, huyết áp bình thường, nước tiểu ít; độ 2: khát vừa, da khô, mạch 100–120, HA < 90, thiểu niệu, tay chân lạnh (QĐ 5642/2015, mục 3.1; QĐ 4178/2007, Bảng 1). Đứng dậy mạch tăng 8 nhịp, hơi choáng: nhắc bù dịch nghiêm túc, chưa phải sốc; ngưỡng hạ HA tư thế: không có trong tài liệu đã tải.",
+     "Loại viêm ruột thừa chỉ bằng lâm sàng: đau xuất hiện sau tiêu chảy, từng cơn, đỡ sau đi ngoài (dữ kiện của ca, không phải khuyến cáo); không đề kháng, không phản ứng dội, Rovsing và cơ thắt lưng chậu âm tính. Không có bạch cầu, CRP, siêu âm, CT nên thang điểm AIR, AAS không tính được (WSES 2025 khuyến cáo 1–2, tr. 285). Vì vậy phải quan sát tại chỗ, khám lại bụng và dặn quay lại. Tiêu chí theo dõi lâm sàng khi không có xét nghiệm: không có trong tài liệu đã tải. IDSA 2017 khuyến cáo 10a (tr. e47) nêu Yersinia có thể gây đau hố chậu phải giống viêm ruột thừa.",
+     "Loại tả và lỵ: phân không như nước vo gạo, số lần ít, có đau quặn và sốt nhẹ (QĐ 5642/2015, mục 3.2; QĐ 4178/2007, mục II.1a); không hội chứng lỵ (mục 3.2), không đi vùng dịch hay ăn hải sản sống (IDSA 2017 khuyến cáo 10b).",
+     "Kháng sinh trước đó là điểm dễ bị bỏ sót vì chị không tự kể: kháng sinh làm tiêu chảy và có nguy cơ C. difficile (ACP/CDC 2016, tr. 425, Bảng tr. 427; IDSA 2017 Bảng 2, khuyến cáo 18). Không xét nghiệm được nên chẩn đoán dựa vào lâm sàng và diễn tiến; cần xét nghiệm khi nặng lên hoặc kéo dài.",
+     "Đồng nghiệp bị lao: ho dưới 2 tuần, không triệu chứng toàn thân nên chưa đủ nghi lao phổi (QĐ 162/2024, mục 1.1 Bảng 1), nhưng chị thuộc nhóm tiếp xúc (mục 1.5) cần sàng lọc (Phần IV mục 1.1.1, 1.2.2). Tiêu chuẩn chẩn đoán lao ruột: không có trong tài liệu đã tải. Hỏi 'điều gì làm chị lo nhất' mới ra động cơ thật.",
+     "Cạm bẫy: bị cuốn theo nỗi lo ruột thừa hay lao ruột để chuyển tuyến, truyền dịch, kê kháng sinh; bỏ sót kháng sinh tự uống và tiếp xúc lao vì chị không tự kể; quên hỏi kinh nguyệt ở nữ đau hố chậu phải."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch đường uống là điều trị chính: oresol hoặc nước/súp muối đều đúng, miễn bù đủ đến khi tiểu đều, niêm mạc ẩm (QĐ 5642/2015, mục 4.2.3a; IDSA 2017 khuyến cáo 39, 43; ACG 2016 khuyến cáo 5, tr. 607). Ăn lại bình thường (IDSA 2017 khuyến cáo 45).",
+     "Không truyền tĩnh mạch vì mất nước độ 1, còn uống được (QĐ 5642/2015, mục 4.2.3a; IDSA 2017 khuyến cáo 41). Câu nói gợi ý: 'Chị uống được nên uống oresol bù nước tốt và an toàn hơn; truyền nước dành cho người mất nước nặng hơn hoặc không uống được. Nếu sau vài giờ chị không uống được hoặc yếu đi, em truyền cho chị ngay.' Truyền theo yêu cầu: không có trong tài liệu đã tải.",
+     "Ngừng amoxicillin–clavulanat vì cảm lạnh không có chỉ định kháng sinh (ACP/CDC 2016, Bảng tr. 427). Không kê thêm kháng sinh cho tiêu chảy hôm nay vì sốt nhẹ, phân không máu (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9–10); QĐ 5642/2015, mục 4.2.1 cho phép cân nhắc khi có sốt, liều azithromycin 0,5 g/ngày × 5 ngày hoặc ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày (mục 4.2.2a). Hai cách đều đúng; ca chọn hướng thận trọng (sổ mâu thuẫn).",
+     "Quan sát, khám lại bụng và hẹn 24 giờ là công cụ duy nhất để phân biệt với viêm ruột thừa đang khởi phát khi không có xét nghiệm, hình ảnh (WSES 2025 khuyến cáo 1–2; IDSA 2017 khuyến cáo 8, 41; ACG 2016, Hình 1). Mốc 24 giờ là thiết kế của ca.",
+     "Loperamid chấm w vì có sốt (IDSA 2017 khuyến cáo 47). Sàng lọc người tiếp xúc lao: giới thiệu đến cơ sở chống lao vì phòng khám không có X-quang, xét nghiệm (QĐ 162/2024, Phần IV mục 1.2.2). Chuyển tuyến, nhập viện hôm nay đều thừa; tiêu chí nhập viện cho người lớn: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol (ORS)",
+      "ham_luong": "Gói theo công thức BYT: NaCl 3,5 g, NaHCO3 2,5 g, KCl 1,5 g, glucose 20 g (QĐ 4178/2007, mục III.2.a); gói ORS áp lực thẩm thấu thấp cũng dùng được (IDSA 2017 khuyến cáo 39)",
+      "lieu": "Pha 1 gói với 1 lít nước đun sôi để nguội (hoặc theo thể tích ghi trên gói); uống theo nhu cầu, thêm sau mỗi lần đi ngoài; nôn thì uống từng ngụm nhỏ. Lượng ml cụ thể cho người lớn: không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Uống rải đều cả ngày, không uống một lần",
+      "so_ngay": "Đến khi hết tiêu chảy, tiểu đều, niêm mạc ẩm",
+      "ghi_chu": "QĐ 5642/2015, mục 4.2.3a; QĐ 4178/2007, mục III.2.a; IDSA 2017 khuyến cáo 39, 43; ACG 2016 khuyến cáo 5 (tr. 607). Không pha đặc. Có thể thay bằng nước cháo muối, súp, nước dừa pha muối nếu chị không thích oresol (QĐ 4178/2007, mục III.2.a)."
+     },
+     {
+      "thuoc": "Men vi sinh (tùy chọn, không bắt buộc)",
+      "ham_luong": "Chủng, hàm lượng: không có trong tài liệu đã tải",
+      "lieu": "Theo hướng dẫn nhà sản xuất (IDSA 2017, tr. e51: chủng, liều theo nhà sản xuất)",
+      "duong": "Uống",
+      "thoi_diem": "Theo nhãn thuốc",
+      "so_ngay": "Đến khi hết tiêu chảy",
+      "ghi_chu": "IDSA 2017 khuyến cáo 49 (có thể dùng) so với ACG 2016 khuyến cáo 6 (không khuyến cáo, trừ sau kháng sinh). Dùng hay không đều chấm a."
+     }
+    ],
+    "dan_do": [
+     "Uống oresol pha đúng 1 gói với 1 lít nước đun sôi để nguội, không pha đặc; uống từng ngụm đều cả ngày, buồn nôn thì uống chậm hơn; đủ nước khi tiểu đều, nước tiểu vàng nhạt, miệng ẩm (QĐ 4178/2007, mục III.2.a; ACG 2016, tr. 607).",
+     "Không uống nốt 2 viên amoxicillin–clavulanat còn lại vì ho, đau họng do virus không cần kháng sinh (ACP/CDC 2016, Bảng tr. 427). Không tự uống thêm thuốc cầm tiêu chảy, kháng sinh hay thuốc giảm đau mạnh khi chưa khám lại (cách dặn của ca, không có trong tài liệu đã tải).",
+     "Ăn lại bình thường, cháo, súp, bánh quy mặn, món luộc hấp nướng (IDSA 2017 khuyến cáo 45; ACG 2016, Hình 1). Kiêng đồ dầu mỡ, rau sống: không có trong tài liệu đã tải.",
+     "Hẹn khám lại bụng sau 24 giờ (hoặc sớm hơn). Quay lại NGAY nếu: đau bụng tăng dần hoặc đau cố định một điểm ở hố chậu phải, sốt ≥ 38,3 °C hoặc ớn lạnh run, phân có máu hoặc nhầy máu, nôn không uống được, tiểu rất ít, choáng khi đứng, chóng mặt hoặc ra huyết âm đạo (IDSA 2017 khuyến cáo 8, 41; ACG 2016, Hình 1; WSES 2025 khuyến cáo 1–2). Mốc 24 giờ là cách dặn của ca.",
+     "Nếu còn đi ngoài lỏng sau 7 ngày hãy khám lại để xét nghiệm phân, có thể gồm C. difficile; từ 14 ngày là kéo dài, cần tìm nguyên nhân (ACG 2016 khuyến cáo 2, tr. 604, Hình 1 tr. 603; IDSA 2017 khuyến cáo 18, 28).",
+     "Về chuyện ho và đồng nghiệp bị lao: ho mới 5 ngày, không sụt cân, không ra mồ hôi đêm chưa phải triệu chứng nghi lao, nhưng chị là người làm việc cùng phòng nên nên đến cơ sở khám chữa lao tuyến huyện hoặc tỉnh để khám sàng lọc (xét nghiệm lao tiềm ẩn, X-quang) khi hết tiêu chảy (QĐ 162/2024, mục 1.5; Phần IV mục 1.1.1, 1.2.2). Quay lại khám sớm nếu ho trên 2 tuần, sốt về chiều, ra mồ hôi đêm, sụt cân, ho ra máu (QĐ 162/2024, mục 1.1 Bảng 1).",
+     "Rửa tay bằng xà phòng sau đi vệ sinh và trước khi ăn, ăn chín uống sôi (IDSA 2017 khuyến cáo 52; QĐ 5642/2015, mục 6). Báo hai đồng nghiệp ăn cùng hộp cơm để theo dõi và đi khám khi nặng; báo y tế dự phòng nếu có thêm người bệnh (IDSA 2017 khuyến cáo 11, 16). Số ngày nghỉ làm và giấy nghỉ ốm: không có trong tài liệu đã tải."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai kịch bản. (1) Xử trí đúng: chị Hà uống oresol đều, bỏ 2 viên amoxicillin–clavulanat còn lại, quan sát 1–2 giờ thì đau quặn bớt, bụng vẫn mềm. Sáng hôm sau khám lại: đi ngoài 2 lần, hết sốt, hố chậu phải không đau khu trú, hai đồng nghiệp cũng đỡ; ngày thứ 5 phân thành khuôn. Chị đến cơ sở chống lao tuyến huyện sàng lọc người tiếp xúc, không có dấu hiệu lao hoạt động. (2) Xử trí ẩu (NEAR MISS): chị đi nơi khác, được truyền hai chai nước biển, tiêm ceftriaxone, cho loperamid, uống nốt amoxicillin–clavulanat, không ai khám lại bụng. Tiêu chảy thưa dần sau 2 ngày vì bệnh tự giới hạn; chị không bị viêm ruột thừa, không C. difficile, nên tin là nhờ chai nước biển và thuốc mạnh. Cái sai vẫn còn: kháng sinh không chỉ định gây tác dụng phụ ở 5–25% người dùng, gồm tiêu chảy do C. difficile (ACP/CDC 2016, tr. 425); loperamid tránh khi có sốt (IDSA 2017 khuyến cáo 47); truyền tĩnh mạch cho mất nước độ 1 uống được là thừa (QĐ 5642/2015, mục 4.2.3a); không khám lại bụng sẽ bỏ sót viêm ruột thừa nếu bệnh khác diễn tiến. Kết cục tốt KHÔNG hợp thức hóa quy trình sai.",
+ "nhieu": [
+  "Đòi truyền dịch và 'thuốc mạnh' vì mẹ từng được truyền; cần lập luận bằng tình trạng của chính chị (mất nước độ 1, uống được) và hứa truyền ngay nếu uống không được.",
+  "Lý do thật là sợ mắc lao (đồng nghiệp cùng phòng bị lao phổi, tra mạng 'lao ruột: đau hố chậu phải, tiêu chảy'); chị không tự nói, chỉ lộ khi hỏi điều gì làm chị lo nhất.",
+  "Kháng sinh tự mua (amoxicillin–clavulanat) trước khi tiêu chảy: chị cho là không liên quan nên không kể; chỉ ra khi hỏi gần đây đã uống thuốc gì.",
+  "Đau hố chậu phải gây nghĩ ruột thừa; thứ tự cơn đau (sau tiêu chảy, từng cơn, đỡ sau đi ngoài) chỉ lộ khi hỏi đau trước hay đi ngoài trước."
+ ],
+ "bai_hoc_bien": [
+  "Không có xét nghiệm nào: không dùng được bạch cầu, CRP, siêu âm, cấy phân; ra quyết định dựa vào khám mất nước, khám bụng lặp lại và hẹn khám lại có mốc. Khi nhóm nguy cơ ruột thừa không phân tầng được bằng điểm số, theo dõi có mục tiêu là bước thay thế (WSES 2025 khuyến cáo 1–2, tr. 285).",
+  "Tiêu chảy kèm đau hố chậu phải không điển hình: thứ tự cơn đau (sau tiêu chảy, từng cơn, đỡ sau đi ngoài), khám bụng không đề kháng, nhiều người cùng bữa ăn cùng bệnh nghiêng về nhiễm trùng tiêu hóa; Yersinia có thể gây đau hố chậu phải giống ruột thừa (IDSA 2017 khuyến cáo 10a).",
+  "Hỏi kháng sinh tự mua: không có chỉ định cho cảm lạnh (ACP/CDC 2016, Bảng tr. 427), có thể gây tiêu chảy, gợi ý C. difficile (IDSA 2017 khuyến cáo 18).",
+  "Đòi truyền dịch: mất nước độ 1, uống được thì oresol (QĐ 5642/2015, mục 4.2.3a; IDSA 2017 khuyến cáo 39, 41); lời từ chối phải đi kèm cam kết 'nếu không uống được em truyền ngay'.",
+  "Lý do thật là sợ mắc lao: hỏi 'điều gì làm chị lo nhất'; trấn an bằng tiêu chí (ho > 2 tuần, sụt cân, ra mồ hôi đêm) và hướng dẫn sàng lọc người tiếp xúc, không chụp phổi hay cho kháng sinh 'cho yên tâm' (QĐ 162/2024, mục 1.1, 1.5; Phần IV mục 1.2.2)."
+ ],
+ "diem_nho": [
+  "Mất nước độ 1: khát ít, da bình thường, mạch < 100, HA bình thường, tiểu ít, 5–6% trọng lượng; độ 2: mạch 100–120, HA < 90, thiểu niệu, 7–9% (QĐ 5642/2015, mục 3.1). Độ 1 uống được: oresol; độ 2 trở lên hoặc không uống được: tĩnh mạch (mục 4.2.3a).",
+  "Người nghi lao: ho kéo dài trên 2 tuần là triệu chứng quan trọng nhất; người làm việc cùng phòng với người bệnh lao phổi là người tiếp xúc; từ 5 tuổi sàng lọc bằng Mantoux hoặc IGRA và loại trừ lao hoạt động (QĐ 162/2024, mục 1.1 Bảng 1, 1.5; Phần IV mục 1.2.2).",
+  "Câu nói gợi ý: 'Chị uống được nên oresol bù nước tốt và an toàn hơn; nếu sau vài giờ chị không uống được hoặc yếu đi, tôi truyền cho chị ngay.'"
+ ],
+ "nguon": [
+  "QĐ 5642/2015 – Bộ Y tế, QĐ 5642/QĐ-BYT ngày 31/12/2015, Hướng dẫn chẩn đoán và điều trị một số bệnh truyền nhiễm – TL-0038 – ĐÃ ĐỌC: Bệnh tiêu chảy do vi khuẩn mục 1–6 (mục 3.1 bảng mức độ mất nước, mục 3.2, 3.3, 4.2.1, 4.2.2a–b, 4.2.3a–b)",
+  "QĐ 4178/2007 – Bộ Y tế, QĐ 4178/QĐ-BYT ngày 31/10/2007, Hướng dẫn chẩn đoán, điều trị bệnh tả – TL-0176 – ĐÃ ĐỌC: mục II.1a (kể cả Bảng 1), III.2.a",
+  "IDSA 2017 – Shane AL, et al. IDSA Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea. Clin Infect Dis. 2017;65(12):e45-e80 – TL-0230 – ĐÃ ĐỌC: khuyến cáo 5, 8, 10a–b, 11, 16, 18, 20, 22, 28, 36, 39, 41, 43, 45, 47, 49, 52 (tr. e47–e51); Bảng 2 (tr. e48); phân loại thời gian (tr. e53)",
+  "ACG 2016 – Riddle MS, et al. ACG Clinical Guideline: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults. Am J Gastroenterol. 2016;111(5):602-622 – TL-0233 – ĐÃ ĐỌC: Hình 1 (tr. 603), Bảng 1 khuyến cáo 1–12 (tr. 604), khuyến cáo 5–6 (tr. 607), probiotic (tr. 608–609), khuyến cáo 9–10 (tr. 610)",
+  "WSES 2025 – Diagnosis and Treatment of Acute Appendicitis: 2025 Edition of the WSES Jerusalem Guidelines. JAMA Surg. 2026;161(3):283-295 – TL-0053 – ĐÃ ĐỌC: khuyến cáo 1–3.1 (tr. 285). WSES 2020 – World J Emerg Surg 2020;15:27 – TL-0263 – khuyến cáo 1.2.2",
+  "ACP/CDC 2016 – Harris AM, et al. Appropriate antibiotic use for acute respiratory tract infection in adults: advice for high-value care. Ann Intern Med. 2016;164(6):425-434 – TL-0156 – ĐÃ ĐỌC: tr. 425 (tác dụng phụ kháng sinh), Bảng tr. 427 (cảm lạnh: không dùng kháng sinh)",
+  "QĐ 162/2024 – Bộ Y tế, QĐ 162/QĐ-BYT ngày 19/01/2024, Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao – TL-0123 – ĐÃ ĐỌC: mục 1.1 (Bảng 1), 1.5, 3.2.1a; Phần IV mục 1.1.1, 1.2.2",
+  "Không có trong tài liệu đã tải (không dùng nguồn web): lượng oresol cụ thể cho người lớn; hàm lượng và liều smecta, men vi sinh; ngưỡng hạ huyết áp tư thế; ngưỡng bạch cầu trong soi phân; tiêu chuẩn chẩn đoán lao ruột; tiêu chuẩn lâm sàng loại trừ thai ngoài tử cung; chỉ định thử thai thường quy khi đau hố chậu phải; tiêu chí theo dõi lâm sàng và khoảng thời gian khám lại bụng khi không có xét nghiệm; quy định báo cáo ổ dịch ở Việt Nam; số ngày nghỉ, giấy nghỉ ốm; tiêu chí nhập viện chi tiết cho người lớn; thời hạn đi sàng lọc người tiếp xúc lao; xử trí kem bôi không nhãn."
+ ],
+ "phien_ban_ca": "1 – soạn từ kho tài liệu (2026-11-13)",
+ "ghi_chu_bien_tap": [
+  "Ngày viết: 2026-11-13; viết: Sonnet. Bản 1 (ca TH-0671).",
+  "Tài liệu đã đọc: TL-0038 (Tiêu chảy do vi khuẩn mục 1–6), TL-0176 (mục II.1a, III.2.a), TL-0230 (khuyến cáo 3–59, Bảng 2, tr. e53), TL-0233 (Hình 1, Bảng 1, khuyến cáo 5–10), TL-0053 (khuyến cáo 1–3.1), TL-0263 (khuyến cáo 1.2.2), TL-0156 (tr. 425, Bảng tr. 427), TL-0123 (mục 1.1, 1.5, 3.2.1; Phần IV mục 1).",
+  "Thiết kế tự quyết (n): đau hố chậu phải lệch chuẩn (không điển hình) nhưng thứ tự cơn đau và khám bụng nghiêng về tiêu chảy nhiễm trùng; kháng sinh tự mua là yếu tố khởi phát, hộp cơm chung và 2 đồng nghiệp là bằng chứng nhiễm trùng; lý do thật sợ lao do đồng nghiệp cùng phòng; ket_luan = ve_hen với quan sát 1–2 giờ và khám lại sau 24 giờ; ràng buộc nguồn lực khóa xn, sieu_am, tham_do.",
+  "Mâu thuẫn dùng lại mục có sẵn trong sổ (không mục mới): kháng sinh kinh nghiệm khi có sốt, probiotic, loperamid, dạng dịch bù, truyền dịch theo yêu cầu. Không có mục danh mục mới.",
+  "Chỗ thiếu tài liệu: xem mục cuối của nguon. Các mốc 24 giờ và 1–2 giờ quan sát là thiết kế của ca."
+ ]
+}
