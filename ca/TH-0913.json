@@ -1,0 +1,656 @@
+{
+ "ma_ca": "TH-0913",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_tao_bon_chuc_nang",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Táo bón chức năng",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư đại trực tràng",
+   "Tắc ruột"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Chủ quán ăn",
+  "yeu_to_khoi_phat": "Sau ăn đồ sống (gỏi cá)",
+  "thuoc_dang_dung": "Đông y đắp ngoài da",
+  "ly_do_that_su_den_kham": "Khó khăn tài chính, ngại xét nghiệm"
+ },
+ "benh_nhan": {
+  "ten": "Đỗ Thị Mỹ Hạnh",
+  "tuoi": 33,
+  "gioi": "Nữ",
+  "nghe": "Chủ quán ăn",
+  "can_nang": 54,
+  "chieu_cao": 158,
+  "xung_ho": "Bác sĩ gọi chị. Chị tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhẹn, nói nhanh, hay liếc đồng hồ vì còn phải mở quán. Tiết kiệm, ngại tốn tiền, nghe thuốc rẻ thì yên tâm. Hiểu biết y khoa ít, tin vào cao dán và ngải cứu rang muối.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: ban đầu chị chỉ nói 'em có uống ít thuốc cầm bụng'; phải hỏi cụ thể thuốc cầm tiêu chảy, tên, liều, số ngày thì mới kể loperamid, hoặc xin xem vỉ thuốc trong túi.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#e3b98f",
+   "toc": "#2b2420",
+   "kieuToc": "bui",
+   "ao": "#c9a58c",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Năm ngày không đi đại tiện, bụng đầy",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không làm được xét nghiệm nào (không máu, nước tiểu, phân, que thử, test nhanh) và không có máy siêu âm; vì vậy cũng không có X-quang, CT, nội soi. Chỉ có nhiệt kế, huyết áp kế, máy đo SpO₂, cân, ống nghe. Bệnh viện huyện cách 15 km, có xét nghiệm và nội soi."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Đỗ Thị Mỹ Hạnh, 33 tuổi, chủ quán ăn. Đến vì 5 ngày nay không đi đại tiện được, bụng đầy. Sinh hiệu: HA 110/70 mmHg, mạch 82 l/p, nhiệt độ 36,8 °C, SpO₂ 99%. Cân nặng 54 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Giữ chị Hạnh nhập viện để thụt tháo và truyền dịch là quá tay: chị vẫn trung tiện, không nôn, không đau quặn từng cơn, bụng mềm, không có dấu hiệu tắc ruột (WGO 2025 Bảng 6; Bologna 2018 mục History taking). Chị mất mấy ngày bán hàng đúng lúc quán vắng, phải trả viện phí, về nhà vẫn không biết cách dùng thuốc và thay đổi thói quen. Chị càng tin mình mắc bệnh nặng và ngại quay lại khám.",
+    "chuyen_tuyen": "Chuyển chị Hạnh lên bệnh viện làm nội soi đại tràng hoặc CT bụng ngay là quá tay: chị 33 tuổi, không ra máu, không sụt cân, không thiếu máu, thói quen ruột ổn định 2 năm, nên chưa có dấu hiệu báo động (WGO 2025 Bảng 6). Asia-Pacific 2022 (Statement 6) cũng chưa ủng hộ hạ tuổi tầm soát dưới 50. Với chị đang thiếu tiền, một chuyến đi tốn kém như vậy làm chị bỏ quán, nợ thêm, mà vẫn chưa có người chỉ cách dùng thuốc và đổi thói quen đại tiện."
+   },
+   "loi_mo": "Chào bác sĩ. Em bị năm hôm nay không đi cầu được, bụng đầy căng khó chịu lắm. Bác sĩ cho em ít thuốc nhuận tràng cho nhanh, quán em còn phải mở cửa.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "110/70",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Năm ngày nay không đi đại tiện được, bụng đầy hơi, căng tức, ăn không thấy ngon.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "thoi_quen_nen",
+     "noi_dung": "Khoảng 2 năm nay chị đi đại tiện chừng 2 lần mỗi tuần, phân khô cứng như hạt hoặc thành cục, hầu như lần nào cũng phải rặn nhiều và thấy chưa hết phân. Không phải dùng ngón tay hay ấn vào tầng sinh môn mới đi được. Trước đợt này chị gần như không bao giờ đi phân lỏng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử táo bón mạn: thỏa tiêu chuẩn Rome IV"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cuối tuần trước chị ăn tiệc, có gỏi cá, rau sống và nem chua. Sáng hôm sau đau bụng quặn, đi phân lỏng 2 lần, không sốt, không máu hay nhầy, không nôn. Từ lần đi lỏng thứ hai đó đến nay chưa đi lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: đợt tiêu chảy ngắn sau ăn đồ sống"
+    },
+    {
+     "id": "thuoc_cam",
+     "noi_dung": "Sau lần đi lỏng chị ra tiệm thuốc mua thuốc cầm tiêu chảy viên nang 2 mg (loperamid, tên người bán nói là Imodium), uống mỗi sáng 1–2 viên liên tục 5 ngày, kể cả khi đã hết lỏng vì sợ bị lại. Vỉ thuốc còn trong túi, đã hết khoảng 8 viên.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung \"có uống thuốc gì không\" thì chị chỉ nói \"dạ em có uống ít thuốc cầm bụng thôi\". Chỉ nói tên, liều, số ngày khi bác sĩ hỏi cụ thể thuốc cầm tiêu chảy, thuốc đã uống từ lúc đau bụng đi lỏng, hoặc xin xem vỉ thuốc.",
+     "k": 1,
+     "y": "Tự dùng loperamid 5 ngày (làm nặng táo bón)"
+    },
+    {
+     "id": "dong_y",
+     "noi_dung": "Chị không uống thuốc nam hay thuốc bắc. Hai hôm nay chị dán cao đông y quanh rốn và rang ngải cứu với muối chườm bụng buổi tối cho đỡ đầy; chỉ thấy ấm bụng, không đỡ hơn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đông y đắp ngoài da (không phải nguyên nhân)"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không đi ngoài ra máu, không phân đen, không đau hậu môn khi rặn. Cân nặng vẫn 54 kg như nửa năm nay, không sụt cân, không sốt, không xanh xao hay chóng mặt. Gia đình không ai bị ung thư đại tràng hay bệnh viêm ruột. Hai năm nay thói quen đại tiện không đổi, không bị đánh thức ban đêm vì đau bụng hay mắc đại tiện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu báo động"
+    },
+    {
+     "id": "khong_tac",
+     "noi_dung": "Vẫn trung tiện được, hay ợ hơi. Không nôn, không đau quặn từng cơn dữ dội, bụng căng nhẹ chứ không to dần. Chưa từng mổ bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu tắc ruột; không tiền sử mổ bụng"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Từ trước đến nay chị không có cơn đau bụng nào kéo dài hay tái đi tái lại liên quan đến việc đi đại tiện; chỉ thấy căng tức, đầy hơi những lúc không đi được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không đủ tiêu chuẩn hội chứng ruột kích thích"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Chị nấu và ăn cơm ngay tại quán, nhiều thịt cá, đồ chiên xào, rất ít rau và trái cây. Uống chừng 1 lít nước mỗi ngày, phần lớn là trà đá và cà phê. Ở quán từ sáng sớm đến tối, ít vận động ngoài đi lại trong bếp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ít xơ, ít nước, ít vận động"
+    },
+    {
+     "id": "nhin_dai_tien",
+     "noi_dung": "Nhà vệ sinh của quán dùng chung với khách. Giờ đông khách chị thường nhịn, tối mới đi nên nhiều khi không còn mắc nữa.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chị không nghĩ đây là chuyện đáng nói. Chỉ kể khi bác sĩ hỏi chị đi vệ sinh ở đâu, giờ nào trong ngày, có nhịn khi buồn đi không.",
+     "k": 1,
+     "y": "Nhịn đại tiện (thói quen đại tiện)"
+    },
+    {
+     "id": "kinh_nguyet",
+     "noi_dung": "Kinh nguyệt đều, kỳ gần nhất cách 12 ngày, ra bình thường. Vợ chồng dùng bao cao su; chị không uống thuốc tránh thai, không uống sắt hay canxi, không dùng vitamin bổ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ có thai và thuốc gây táo bón"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không bệnh mạn tính, không tiểu đường, chưa từng khám tuyến giáp, không trầm cảm, không dùng thuốc ngủ hay thuốc dị ứng. Không hút thuốc, không uống rượu bia.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Bệnh nền, thuốc khác"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Hai tuần nay mưa bão, quán vắng khách, chị đang thiếu tiền trả tiền mặt bằng. Chị sợ bác sĩ bắt đi xét nghiệm hay nội soi tốn kém. Trong lòng chị còn lo mình bị nhiễm sán từ gỏi cá hoặc có \"bệnh đại tràng nặng\", nhưng không dám hỏi vì sợ phải làm xét nghiệm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói thật khi bác sĩ hỏi chị lo lắng điều gì nhất, hoặc nhắc đến xét nghiệm, chi phí. Được trấn an là chưa cần xét nghiệm đắt tiền thì chị nói hết.",
+     "k": 1,
+     "y": "Lý do thật: ngại chi phí xét nghiệm, lo sán và bệnh nặng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nhanh nhẹn, tiếp xúc tốt. Niêm mạc mắt hồng, không vàng da, môi không khô, lưỡi ẩm. BMI 21,6 (54 kg, 158 cm).",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng chướng nhẹ đều, không sẹo mổ cũ, không quai ruột nổi. Có miếng cao dán đông y quanh rốn, da dưới miếng dán không đỏ, không phỏng. Nhu động ruột nghe được, bình thường. Gõ vang nhẹ theo khung đại tràng. Bụng mềm, ấn tức nhẹ hố chậu trái, sờ được khối mềm hơi cứng, di động, ấn lõm được ở hố chậu trái (khối phân); không phản ứng thành bụng, không khối u cố định, gan lách không to.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Hậu môn không nứt, không trĩ ngoại. Trương lực cơ thắt bình thường; khi bảo rặn cơ thắt giãn ra, khi bảo siết cơ thắt siết được. Bóng trực tràng có ít phân cứng, không khối u, không hẹp, không sa trực tràng. Găng không dính máu.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không hạch cổ.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 82 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 82 l/p."
+    },
+    "phoi": {
+     "a": "Phổi thông khí đều hai bên, không ran. Nhịp thở 16.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "(Phòng khám không làm được xét nghiệm máu.)",
+     "n": "Không bắt buộc: xét nghiệm máu chỉ làm khi có chỉ định (WGO 2025 mục 3.3, tr. 13); chị không thiếu máu trên lâm sàng, không dấu báo động. Cơ sở không làm được."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "(Phòng khám không làm được xét nghiệm hormon giáp.)",
+     "n": "Không bắt buộc: thử chức năng giáp \"nếu có chỉ định\" (WGO 2025 mục 3.3, tr. 13); suy giáp có trong danh sách bệnh gây táo bón (WGO 2025 Bảng 3) nhưng chưa có manh mối lâm sàng, tuyến giáp không to."
+    },
+    "test_thai": {
+     "v": "a",
+     "r": "(Phòng khám không có que thử thai.)",
+     "n": "Thay bằng khai thác kinh nguyệt (kỳ gần nhất cách 12 ngày, đều). Thai kỳ nằm trong nguyên nhân táo bón (WGO 2025 Bảng 3), và magie oxid cần thận trọng khi có thai (AGA-ACG 2023 Bảng 4)."
+    },
+    "noi_soi_dt": {
+     "v": "n",
+     "r": "(Phòng khám không có nội soi đại tràng.)",
+     "n": "Không có chỉ định: 33 tuổi, không dấu báo động (WGO 2025 Bảng 6); tầm soát bắt đầu từ 45 tuổi (USPSTF 2021, 45–49 tuổi mức B); Asia-Pacific 2022 Statement 6: hạ tuổi bắt đầu xuống dưới 50 chưa chứng minh hiệu quả chi phí ở châu Á. Thăm dò nâng cao chỉ khi đã loại trừ nguyên nhân thực thể và điều trị bước đầu thất bại (WGO 2025 mục 3.5, tr. 13)."
+    },
+    "xq_bung": {
+     "v": "n",
+     "r": "(Phòng khám không có X-quang.)",
+     "n": "Không có chỉ định: không có dấu hiệu tắc ruột (trung tiện được, không nôn, bụng mềm), chưa có dấu hiệu báo động (WGO 2025 Bảng 6)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng (tiêu chuẩn Rome IV) nặng lên sau tự dùng loperamid; chưa có dấu báo động, chưa có dấu tắc ruột",
+     "ok": 1,
+     "n": "Táo bón mạn 2 năm: rặn nhiều, phân cứng (Bristol 1–2) và đi dưới 3 lần/tuần, cảm giác đi chưa hết, nên đủ ≥ 2 tiêu chuẩn trong 3 tháng, khởi phát ≥ 6 tháng (WGO 2025 Bảng 5, tr. 11). Loperamid là thuốc gây táo bón (WGO 2025 Bảng 4, tr. 10)."
+    },
+    {
+     "t": "Táo bón thứ phát do thuốc (loperamid) đơn thuần",
+     "n": "Không đơn thuần: táo bón đã có từ trước khi dùng thuốc; thuốc chỉ làm nặng thêm, nhiều bệnh nhân là như vậy (AGA CPU 2026 Khuyến cáo 3). Vẫn phải ngưng thuốc (WGO 2025 mục 4.6, tr. 20)."
+    },
+    {
+     "t": "Ung thư đại trực tràng",
+     "n": "Chưa có dấu báo động: không ra máu, không sụt cân, không thiếu máu, không khối bụng cố định, thói quen đại tiện ổn định (WGO 2025 Bảng 6, tr. 13). Ung thư đại trực tràng ở người trẻ đang tăng ở châu Á (Asia-Pacific 2022 Statement 5) nên phải hỏi kỹ dấu báo động và dặn quay lại khi xuất hiện."
+    },
+    {
+     "t": "Tắc ruột",
+     "n": "Tắc ruột cơ học điển hình có đau quặn từng cơn, chướng, buồn nôn hoặc nôn, bí trung tiện (Bologna 2018 mục History taking; WGO 2025 Bảng 3, 6). Chị trung tiện được, không nôn, bụng mềm, chưa mổ bụng nên không có nguy cơ dính ruột."
+    },
+    {
+     "t": "Hội chứng ruột kích thích thể táo bón",
+     "n": "Cần đau bụng tái diễn trung bình ≥ 1 ngày/tuần trong 3 tháng và liên quan đại tiện (ACG IBS 2021 Bảng 1, Rome IV); chị không có đau như vậy. Táo bón chức năng Rome IV còn đòi hỏi không đủ tiêu chuẩn IBS (WGO 2025 Bảng 5). Tiêu chuẩn Rome V người lớn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm khuẩn hay ký sinh trùng sau ăn gỏi cá",
+     "n": "Đợt đi lỏng chỉ một buổi sáng, không sốt, không máu nhầy, đã tự hết; hiện không có biểu hiện nhiễm trùng. Chỉ định xét nghiệm phân hay thuốc tẩy sán trong tình huống này: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Táo bón thứ phát do bệnh toàn thân (suy giáp, rối loạn canxi, thai)",
+     "n": "Là nhóm nguyên nhân thứ phát (WGO 2025 Bảng 3, tr. 8–10) nhưng không có manh mối: kinh đều, không bệnh nền, tuyến giáp không to. Phòng khám không làm được xét nghiệm để khẳng định; theo dõi đáp ứng điều trị."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng loperamid và mọi thuốc cầm tiêu chảy",
+     "v": "c",
+     "n": "Loperamid nằm trong danh sách thuốc gây táo bón; xác định và ngưng thuốc góp phần là việc cần làm (WGO 2025 Bảng 4, tr. 10; mục 4.6, tr. 20)."
+    },
+    {
+     "t": "Giải thích đây là táo bón chức năng, chưa có dấu hiệu bệnh nặng; hiện chưa cần xét nghiệm hay nội soi; trấn an về chi phí",
+     "v": "c",
+     "n": "Trả lời đúng nỗi lo thật. Táo bón là bệnh dựa trên triệu chứng, chỉ làm ít xét nghiệm để loại trừ chẩn đoán khác (WGO 2025 mục 3.3, tr. 12); chưa có dấu báo động (Bảng 6)."
+    },
+    {
+     "t": "PEG 17 g mỗi ngày hòa nước, hoặc lactulose 15 g mỗi ngày",
+     "v": "c",
+     "n": "PEG: khuyến cáo mạnh (AGA-ACG 2023 Khuyến cáo 2; liều khởi đầu 17 g/ngày, Bảng 4). Lactulose: WGO 2025 mục 4.6 xếp cùng PEG là thuốc thẩm thấu hàng đầu, liều 15 g/ngày (Bảng 9); AGA-ACG 2023 Khuyến cáo 4 chỉ gợi ý khi thất bại hoặc không dung nạp thuốc không kê đơn (có điều kiện, chứng cứ rất thấp), dễ đầy hơi hơn. Đáp án chính: PEG."
+    },
+    {
+     "t": "Tăng chất xơ trong khẩu phần từ từ tới tổng 20–30 g/ngày, uống nhiều nước hơn, vận động đều",
+     "v": "c",
+     "n": "Xơ là điều trị đầu tay, tăng dần trong nhiều tuần để đỡ đầy hơi (WGO 2025 mục 4.2, tr. 17–18; AGA-ACG 2023 Khuyến cáo 1, Bảng 4); tăng nước, vận động (WGO 2025 mục 4.6). Lượng nước cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không nhịn khi buồn đi đại tiện, đi ngay khi mắc, tư thế ngồi xổm",
+     "v": "c",
+     "n": "Đáp ứng ngay khi mắc và tư thế ngồi xổm giúp đại tiện (WGO 2025 mục 4.6, tr. 20)."
+    },
+    {
+     "t": "Hẹn tái khám sau 1 tuần; dặn dấu hiệu phải quay lại ngay (nôn, không trung tiện, đau quặn dữ dội, bụng chướng nhanh, ra máu, sụt cân)",
+     "v": "c",
+     "n": "Dấu báo động và triệu chứng tắc ruột (WGO 2025 Bảng 6; Bologna 2018 mục History taking). Mốc tái khám sau 1 tuần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Magie oxid 400–500 mg/ngày thay cho PEG",
+     "v": "a",
+     "n": "Gợi ý có điều kiện, chứng cứ rất thấp (AGA-ACG 2023 Khuyến cáo 3, Bảng 4: thận trọng khi suy thận, có thai). Chị thận bình thường, không có thai; theo sổ mâu thuẫn mục magie oxid (TH-0870) chấm a."
+    },
+    {
+     "t": "Bisacodyl 5 mg uống buổi tối ngay từ lượt 1 làm thuốc cứu, tối đa 10 mg/ngày",
+     "v": "a",
+     "n": "Khuyến cáo mạnh cho ngắn hạn hoặc cứu, ≤ 4 tuần liên tục (AGA-ACG 2023 Khuyến cáo 5, Bảng 4; WGO 2025 mục 4.6, Bảng 9). Chưa bắt buộc ở lượt 1 vì thuốc thẩm thấu là bước đầu."
+    },
+    {
+     "t": "Bisacodyl hoặc senna dùng hằng ngày dài hạn, không giới hạn thời gian",
+     "v": "w",
+     "n": "Với táo bón bước đầu, stimulant chỉ dùng ngắt quãng hoặc cứu (WGO 2025 mục 4.6, tr. 21); lo ngại điện giải, đau quặn, dùng lâu chưa rõ an toàn (AGA-ACG 2023 Bảng 4). Theo sổ mâu thuẫn mục TH-0870 #2 chấm w."
+    },
+    {
+     "t": "Bisacodyl vượt 10 mg/ngày",
+     "v": "h",
+     "n": "Liều tối đa 10 mg/ngày (AGA-ACG 2023 Bảng 4; WGO 2025 Bảng 9, tr. 19); dùng quá mức gây tiêu chảy, rối loạn điện giải (AGA-ACG 2023 Bảng 4)."
+    },
+    {
+     "t": "Cho tiếp loperamid hoặc thuốc cầm tiêu chảy \"để phòng\"",
+     "v": "w",
+     "n": "Thuốc gây táo bón (WGO 2025 Bảng 4); chị đang không đi được 5 ngày."
+    },
+    {
+     "t": "Cho kháng sinh hoặc thuốc tẩy sán vì ăn gỏi cá",
+     "v": "w",
+     "n": "Không có triệu chứng nhiễm khuẩn hay ký sinh trùng; chỉ định này không có trong tài liệu đã tải (đánh giá suy luận, ghi rõ)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng (tiêu chuẩn Rome IV; Rome V người lớn: không có trong tài liệu đã tải), đợt nặng lên sau tự dùng loperamid 5 ngày",
+     "Ứ phân ở đại tràng xuống, chưa có dấu hiệu tắc ruột",
+     "Chưa có dấu báo động; chưa đủ tiêu chuẩn hội chứng ruột kích thích",
+     "Yếu tố góp phần: ít xơ, ít nước, ít vận động, nhịn đại tiện giờ đông khách, đợt tiêu chảy ngắn sau ăn đồ sống",
+     "Khó khăn tài chính, ngại xét nghiệm; cơ sở không làm được xét nghiệm nào"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh trước (thói quen đại tiện 2 năm, đợt tiêu chảy, thuốc cầm bụng, dấu báo động, dấu tắc ruột, kinh nguyệt, ăn uống), khám bụng và thăm trực tràng, rồi mới nghĩ đến cận lâm sàng; cơ sở không làm được xét nghiệm nào nên ra quyết định bằng lâm sàng.",
+     "Rome IV (WGO 2025 Bảng 5, tr. 11): ≥ 2 trong: rặn > 1/4 số lần, phân cứng Bristol 1–2 > 1/4, cảm giác chưa hết, cảm giác tắc nghẽn, cần thủ thuật tay, < 3 lần tự nhiên/tuần; ít khi phân lỏng nếu không dùng thuốc nhuận tràng; không đủ tiêu chuẩn IBS; có ≥ 3 tháng, khởi phát ≥ 6 tháng. Chị có rặn, phân cứng, < 3 lần/tuần, cảm giác chưa hết trong 2 năm. Tiêu chuẩn Rome V người lớn: không có trong tài liệu đã tải (sổ mâu thuẫn, mục TH-0870 #1).",
+     "Loperamid là thuốc gây táo bón (WGO 2025 Bảng 4); thuốc thường làm nặng thêm táo bón sẵn có chứ không phải nguyên nhân duy nhất (AGA CPU 2026 Khuyến cáo 3). Khẩu phần ít xơ, ít nước, ít vận động và nhịn đại tiện là yếu tố nguy cơ và điều chỉnh được (WGO 2025 Bảng 2, 3).",
+     "Dấu báo động (WGO 2025 Bảng 6, tr. 13): thay đổi thói quen, sụt cân, thiếu máu thiếu sắt, triệu chứng tắc ruột, khối bụng, khởi phát mới hoặc ban đêm, chảy máu trực tràng, sa trực tràng. Chị không có dấu nào. Thăm trực tràng ở mọi người táo bón mạn để tìm ứ phân, khối, hẹp, rối loạn đại tiện (WGO 2025 mục 3.3; AGA CPU 2026 Khuyến cáo 2).",
+     "Loại trừ tắc ruột bằng lâm sàng: trung tiện được, không nôn, không đau quặn từng cơn, bụng mềm, không sẹo mổ (Bologna 2018 mục History taking; WGO 2025 Bảng 3, 6). Phòng khám không có X-quang, CT, nội soi và siêu âm nên điều này càng phải dựa vào hỏi và khám.",
+     "Không cần xét nghiệm hay nội soi lúc này: 33 tuổi, không dấu báo động, xét nghiệm máu chỉ khi có chỉ định (WGO 2025 mục 3.3); thăm dò nâng cao chỉ sau khi loại trừ nguyên nhân thực thể và thất bại điều trị bước đầu (mục 3.5). Tầm soát ung thư đại trực tràng bắt đầu từ 45 tuổi (USPSTF 2021, mức B); Asia-Pacific 2022 Statement 6 chưa ủng hộ hạ tuổi bắt đầu xuống dưới 50 ở châu Á; ung thư người trẻ đang tăng (Statement 5) nên vẫn phải dặn dấu báo động."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng loperamid, giải thích rõ để chị yên tâm về chi phí: chưa cần xét nghiệm.",
+     "Thuốc: thuốc thẩm thấu là bước đầu. PEG 17 g/ngày (AGA-ACG 2023 Khuyến cáo 2 mạnh, Bảng 4). Mâu thuẫn nhẹ giữa hai nguồn về lactulose: WGO 2025 mục 4.6 xếp PEG và lactulose cùng là thuốc thẩm thấu hàng đầu (lactulose nhiều tác dụng phụ tiêu hóa hơn); AGA-ACG 2023 Khuyến cáo 4 chỉ gợi ý lactulose khi thất bại hoặc không dung nạp thuốc không kê đơn. Cả hai cách đều đúng; đơn kê PEG.",
+     "Chất xơ: tăng dần tới 20–30 g tổng xơ/ngày trong nhiều tuần (WGO 2025 mục 4.2; AGA-ACG 2023 Bảng 4); psyllium là loại xơ có bằng chứng (AGA-ACG 2023 Khuyến cáo 1; BDA 2025 khuyến cáo 1.1, 2.1 mạnh, chứng cứ thấp); BDA 2025 không khuyến cáo chế độ ăn giàu xơ nói chung vì thiếu bằng chứng. Liều psyllium cụ thể: không có trong tài liệu đã tải.",
+     "Bisacodyl và senna chỉ dùng cứu hoặc ngắn hạn (AGA-ACG 2023 Khuyến cáo 5, 6; WGO 2025 mục 4.6); chưa cần ở lượt 1.",
+     "Dặn chị đây là bệnh mạn, cần dùng thuốc đều và kiên nhẫn, không tự ngưng khi mới đi được vài lần (AGA CPU 2026 Khuyến cáo 4); đáp ứng PEG bền đến 6 tháng (AGA-ACG 2023 Khuyến cáo 2). Mốc tái khám: không có trong tài liệu đã tải, chọn 1 tuần để đánh giá đáp ứng và dặn dấu quay lại ngay."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Polyethylen glycol (PEG) 3350 hoặc 4000, dạng gói bột",
+      "ham_luong": "Liều 17 g bột mỗi lần; quy đổi số gói theo nhãn thuốc tại cơ sở (không có trong tài liệu đã tải)",
+      "lieu": "17 g × 1 lần/ngày",
+      "duong": "Uống, hòa trong 1 ly nước (8 ounce theo thử nghiệm, AGA-ACG 2023 mục PEG)",
+      "thoi_diem": "Buổi sáng, đều mỗi ngày",
+      "so_ngay": "Dùng đều, đánh giá lại sau 1 tuần; không tự ngưng khi mới đi được vài lần (đáp ứng bền 6 tháng, AGA-ACG 2023 Khuyến cáo 2)",
+      "ghi_chu": "Liều khởi đầu 17 g/ngày, chỉnh theo triệu chứng và tác dụng phụ, không có liều tối đa rõ (AGA-ACG 2023 Bảng 4; WGO 2025 Bảng 9, tr. 18). Phụ: đầy hơi, khó chịu bụng, đi lỏng (AGA-ACG 2023 Khuyến cáo 2)."
+     }
+    ],
+    "dan_do": [
+     "Bỏ hẳn thuốc cầm tiêu chảy (loperamid) và không tự mua thuốc cầm bụng; thuốc đã làm bụng đầy nặng hơn (WGO 2025 Bảng 4).",
+     "Dùng PEG đều mỗi sáng; thuốc giúp mềm phân chứ không xổ. Đừng ngưng khi mới đi được vài lần, bệnh này cần điều trị lâu (AGA CPU 2026 Khuyến cáo 4).",
+     "Tăng rau, trái cây, ngũ cốc nguyên hạt từ từ trong nhiều tuần để tới 20–30 g xơ/ngày, tránh tăng đột ngột gây đầy hơi (WGO 2025 mục 4.2). Uống thêm nước thay cho bớt trà đá, cà phê; đi bộ nhanh mỗi ngày (WGO 2025 mục 4.6).",
+     "Khi buồn đi đừng nhịn; nhờ người trông quán 5–10 phút hoặc dành một nhà vệ sinh riêng; tư thế ngồi xổm khi đi (WGO 2025 mục 4.6). Thời gian ngồi cụ thể: không có trong tài liệu đã tải.",
+     "Quay lại ngay nếu nôn, không trung tiện được, đau quặn dữ dội, bụng chướng nhanh, đi ngoài ra máu hoặc phân đen, sụt cân, sốt (WGO 2025 Bảng 6; Bologna 2018).",
+     "Hẹn tái khám sau 1 tuần (mốc không có trong tài liệu đã tải); mang theo vỉ thuốc và gói thuốc còn lại để bác sĩ xem chị dùng thế nào."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Chị Đỗ Thị Mỹ Hạnh tái khám sau 1 tuần theo hẹn. Bụng chướng hơn lần trước, mấy ngày nay đi đại tiện rất ít. Sinh hiệu: HA 108/68 mmHg, mạch 88 l/p, nhiệt độ 37,0 °C, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho chị Hạnh nhập viện thụt tháo, truyền dịch là quá tay: chị trung tiện được, không nôn, không đau quặn, bụng mềm, không dấu hiệu tắc ruột (WGO 2025 Bảng 6; Bologna 2018 mục History taking). Điều chị thực sự cần là dùng PEG đủ liều và đủ lâu tại nhà, mà nằm viện không dạy được điều đó. Chị mất thêm vài ngày bán hàng, trả viện phí khi tiền đã eo hẹp, rồi tin rằng mình mắc bệnh nặng, càng ngại dùng thuốc dài ngày.",
+    "chuyen_tuyen": "Chuyển chị Hạnh lên bệnh viện làm CT bụng hoặc nội soi đại tràng ngay là quá tay: chị 33 tuổi, không ra máu, không sụt cân, không thiếu máu, không dấu báo động (WGO 2025 Bảng 6), và thất bại điều trị bước đầu chưa thành lập vì chị chưa dùng thuốc đủ liều, đủ thời gian (AGA CPU 2026 Khuyến cáo 1). Thăm dò nâng cao chỉ làm khi thuốc đã dùng đủ mà vẫn thất bại (WGO 2025 mục 3.5). Chuyến đi tốn kém làm chị nợ thêm và có thể bỏ luôn việc dùng thuốc ở nhà."
+   },
+   "loi_mo": "Bác sĩ ơi, em bị nặng hơn rồi. Bụng căng cứng hơn lần trước, mấy bữa nay đi không ra. Em uống thuốc bác sĩ cho rồi mà không đỡ.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "108/68",
+    "nhiet": "37,0",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bụng đầy căng hơn lần trước, đi đại tiện rất ít và khó, ăn kém.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dung_thuoc",
+     "noi_dung": "Chị uống PEG đúng chỉ dẫn 3 ngày đầu và đi được 2 lần phân sệt, thấy khỏe hơn nên tự ngưng. Chị chỉ mua đủ 3 gói vì tiếc tiền, tính để dành, và nghĩ \"đi được rồi là hết bệnh\". Từ ngày thứ 4 không uống nữa.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung \"đã uống thuốc chưa\" thì chị nói \"em uống rồi mà không đỡ\". Chỉ kể thật khi bác sĩ hỏi uống mấy gói, mấy ngày, ngưng khi nào, còn gói nào không, hoặc vì sao ngưng.",
+     "k": 1,
+     "y": "Tự ngưng PEG sớm (điều trị chưa đủ), không phải thuốc thất bại"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Sau khi ngưng thuốc, ba ngày đầu còn đi được một lần phân cứng; bốn ngày nay chưa đi lại. Bụng căng tức tăng dần, chị ăn ít vì sợ đầy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến sau ngưng thuốc"
+    },
+    {
+     "id": "khong_tac",
+     "noi_dung": "Vẫn trung tiện nhiều lần mỗi ngày, không nôn, không đau quặn từng cơn, không đau dữ dội. Bụng căng nhưng không to lên nhanh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu tắc ruột"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không có máu trong phân hay phân đen, cân nặng vẫn 54 kg, không sốt, không xanh xao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đánh giá lại dấu báo động"
+    },
+    {
+     "id": "thoi_quen",
+     "noi_dung": "Chị có cố uống nước nhưng giờ đông khách lại quên, chừng 1,2 lít mỗi ngày. Ăn thêm vài bữa rau luộc rồi bỏ vì \"ăn rau đầy hơi\". Vẫn nhịn đi vệ sinh mấy buổi đông khách.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thói quen chưa đổi"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Chị đã bỏ thuốc cầm bụng từ lần khám trước và không uống thêm thuốc hay trà thảo mộc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Không dùng thuốc gây táo bón"
+    },
+    {
+     "id": "lo_lang",
+     "noi_dung": "Sau lần trước chị bớt lo bị sán hay bệnh nặng, nhưng vẫn ngại tốn tiền thuốc nên mới dè sẻn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lý do ngại chi phí"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt vì đầy bụng. Niêm mạc hồng, lưỡi ẩm, không dấu mất nước, không vàng da.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng chướng vừa, đều, mềm, không phản ứng thành bụng, không sẹo mổ. Nhu động ruột nghe được, âm sắc bình thường, không có tiếng kim loại. Gõ vang nhẹ. Sờ được khối phân dài, ấn lõm ở hố chậu trái và dọc đại tràng xuống, ấn tức nhẹ; không khối u cố định, gan lách không to.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Bóng trực tràng đầy phân cứng, không khối u, không hẹp, găng không dính máu. Trương lực cơ thắt bình thường; khi bảo rặn cơ thắt giãn, khi bảo siết cơ thắt siết được; không sa trực tràng.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p."
+    },
+    "phoi": {
+     "a": "Phổi thông khí đều hai bên, không ran. Nhịp thở 18.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "xq_bung": {
+     "v": "n",
+     "r": "(Phòng khám không có X-quang.)",
+     "n": "Không có chỉ định: trung tiện được, không nôn, bụng mềm, nhu động bình thường (WGO 2025 Bảng 6; Bologna 2018 mục History taking; mục Imaging studies, Plain X-rays: giá trị bổ sung hạn chế, độ nhạy khoảng 70%)."
+    },
+    "noi_soi_dt": {
+     "v": "n",
+     "r": "(Phòng khám không có nội soi đại tràng.)",
+     "n": "Chưa có chỉ định: chưa dùng thuốc đủ liều, đủ thời gian; không dấu báo động (WGO 2025 mục 3.5, Bảng 6)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "(Phòng khám không làm được xét nghiệm máu.)",
+     "n": "Không bắt buộc, cơ sở không làm được; không có dấu báo động (WGO 2025 mục 3.3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng (Rome IV) đợt nặng lên do tự ngưng PEG sớm, ứ phân đại tràng xuống và bóng trực tràng; chưa có dấu tắc ruột hay dấu báo động",
+     "ok": 1,
+     "n": "Ngưng thuốc sau 3 ngày, thói quen chưa đổi, khám thấy khối phân ở đại tràng xuống và bóng trực tràng; trung tiện được, không nôn, bụng mềm, nhu động bình thường (WGO 2025 Bảng 6; Bologna 2018 mục History taking)."
+    },
+    {
+     "t": "Táo bón kháng trị / thất bại điều trị",
+     "n": "Chưa đúng: kháng trị là còn triệu chứng dù đã thử đủ lối sống, thuốc và liệu pháp sàn chậu (AGA CPU 2026 Khuyến cáo 1). Chị mới dùng PEG 3 ngày. Chưa thể kết luận thất bại khi điều trị chưa đủ."
+    },
+    {
+     "t": "Tắc ruột (cơ học hay liệt ruột)",
+     "n": "Không đau quặn từng cơn, không nôn, còn trung tiện, bụng mềm, âm ruột bình thường, không sẹo mổ (Bologna 2018 mục History taking; WGO 2025 Bảng 6). Chướng bụng hơn lần trước là do ứ phân, nhưng phải dặn dấu hiệu chuyển ngay."
+    },
+    {
+     "t": "Rối loạn đại tiện (dyssynergia)",
+     "n": "Thăm trực tràng: cơ thắt siết và giãn bình thường, nhưng khám lâm sàng không loại trừ được; chẩn đoán cần đo áp lực hậu môn–trực tràng và test tống bóng (AGA CPU 2026 Khuyến cáo 2; WGO 2025 mục 3.5, Bảng 7). Chỉ nghĩ khi điều trị đủ mà vẫn thất bại."
+    },
+    {
+     "t": "Ung thư đại trực tràng",
+     "n": "Không máu trong phân, không sụt cân, không thiếu máu, không khối bụng cố định, khám trực tràng không khối u (WGO 2025 Bảng 6)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi cách dùng thuốc cụ thể (mấy gói, mấy ngày, ngưng khi nào, vì sao) trước khi kết luận thuốc không đáp ứng",
+     "v": "c",
+     "n": "Chưa dùng thuốc đủ thì chưa thể gọi là thất bại (AGA CPU 2026 Khuyến cáo 1, 4). Lý do ngưng là tài chính và hiểu sai \"đi được là khỏi\"."
+    },
+    {
+     "t": "Đánh giá lại dấu báo động và dấu tắc ruột (trung tiện, nôn, đau quặn, máu, cân nặng), thăm trực tràng",
+     "v": "c",
+     "n": "Bệnh nặng hơn thì phải đánh giá lại toàn diện trước khi tiếp tục điều trị ngoại trú (WGO 2025 mục 3.3, Bảng 6; Bologna 2018 mục History taking; AGA CPU 2026 Khuyến cáo 2)."
+    },
+    {
+     "t": "PEG 17 g × 2 lần/ngày (sáng, tối) cho tới khi đi phân mềm, rồi giảm về 17 g × 1 lần/ngày duy trì",
+     "v": "c",
+     "n": "Khởi đầu 17 g/ngày, chỉnh theo đáp ứng, không có liều tối đa rõ (AGA-ACG 2023 Bảng 4; WGO 2025 Bảng 9). Thử nghiệm đã dùng PEG có điện giải 17,5 g × 2 lần/ngày, 8 tuần (AGA-ACG 2023 mục PEG, tóm tắt bằng chứng). Liều chuyển PEG từ 2 xuống 1 lần: theo đáp ứng, không có mốc cụ thể trong tài liệu đã tải."
+    },
+    {
+     "t": "Thêm bisacodyl 5 mg uống buổi tối làm thuốc cứu, tối đa 10 mg/ngày, ≤ 4 tuần liên tục",
+     "v": "c",
+     "n": "Khuyến cáo mạnh cho dùng ngắn hạn hoặc cứu, phối hợp thuốc khác (AGA-ACG 2023 Khuyến cáo 5, Bảng 4); khởi đầu 5 mg, tối đa 10 mg/ngày (WGO 2025 Bảng 9, tr. 19). Thuốc cứu, không phải thuốc duy trì (WGO 2025 mục 4.6, tr. 21)."
+    },
+    {
+     "t": "Lactulose 15 g/ngày thay cho PEG (nếu chị muốn thuốc rẻ hơn hoặc không dung nạp PEG)",
+     "v": "a",
+     "n": "WGO 2025 mục 4.6, Bảng 9: lactulose là thuốc thẩm thấu hàng đầu; AGA-ACG 2023 Khuyến cáo 4: gợi ý khi thất bại hoặc không dung nạp thuốc không kê đơn, hay đầy hơi."
+    },
+    {
+     "t": "Tiếp tục tăng xơ dần, uống nước, vận động, không nhịn đại tiện; nhờ người trông quán lúc buồn đi",
+     "v": "c",
+     "n": "Xơ tăng dần 20–30 g/ngày (WGO 2025 mục 4.2); nước, vận động, thói quen đi vệ sinh (mục 4.6). Fiber: không dùng khi tắc nghẽn hoặc rối loạn đại tiện (mục 4.2); hiện chưa có dấu hiệu đó."
+    },
+    {
+     "t": "Giải thích kỳ vọng thực tế: bệnh mạn, cần dùng thuốc đều, đỡ chậm, không tự ngưng khi mới đi được",
+     "v": "c",
+     "n": "Bệnh nhân cần biết táo bón mạn là bệnh mạn tính cần điều trị liên tục (AGA CPU 2026 Khuyến cáo 4). Mốc thời gian đáp ứng cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thụt tháo hoặc làm sạch ruột tại phòng khám nếu bóng trực tràng đầy phân cứng",
+     "v": "a",
+     "n": "Thụt, thuốc đạn và làm sạch ruột có thể có ích, nhất là khi khối phân lớn, nhưng dữ liệu hạn chế và không nên lạm dụng (AGA CPU 2026 Khuyến cáo 7). Cách thụt, thuốc, liều cụ thể: không có trong tài liệu đã tải. Chị trung tiện được và PEG xử trí được khối phân nên không bắt buộc."
+    },
+    {
+     "t": "Hẹn tái khám sau 1–2 tuần, dặn dấu hiệu chuyển ngay (nôn, không trung tiện, đau quặn dữ dội, bụng chướng nhanh, ra máu, sụt cân); nếu đã dùng thuốc đủ mà vẫn thất bại thì chuyển tuyến đo áp lực hậu môn–trực tràng",
+     "v": "c",
+     "n": "Thất bại sau điều trị đầy đủ: nghĩ rối loạn đại tiện, đo áp lực hậu môn–trực tràng và test tống bóng (AGA CPU 2026 Khuyến cáo 2; WGO 2025 mục 3.5, Hình 3). Mốc tái khám và thời gian thử thuốc \"đủ\": không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bisacodyl hoặc senna dùng hằng ngày dài hạn thay thuốc thẩm thấu",
+     "v": "w",
+     "n": "Stimulant chỉ ngắt quãng hoặc cứu ở táo bón bước đầu (WGO 2025 mục 4.6; sổ mâu thuẫn mục TH-0870 #2). Táo bón kháng trị thì khác (AGA CPU 2026 Khuyến cáo 7), nhưng chị chưa thử đủ thuốc."
+    },
+    {
+     "t": "Bisacodyl vượt 10 mg/ngày",
+     "v": "h",
+     "n": "Tối đa 10 mg/ngày (AGA-ACG 2023 Bảng 4; WGO 2025 Bảng 9, tr. 19); dùng quá mức gây tiêu chảy, rối loạn điện giải."
+    },
+    {
+     "t": "Dùng lại loperamid hoặc thuốc cầm tiêu chảy",
+     "v": "w",
+     "n": "Thuốc gây táo bón (WGO 2025 Bảng 4, tr. 10)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng (Rome IV) đợt nặng lên do tự ngưng PEG sớm, kèm ứ phân đại tràng xuống và bóng trực tràng",
+     "Chưa có dấu tắc ruột; chưa có dấu báo động; chưa thể gọi là kháng trị vì chưa điều trị đủ",
+     "Yếu tố duy trì: thói quen chưa đổi (ít nước, ít xơ, nhịn đại tiện), lo chi phí nên dùng thuốc dè sẻn"
+    ],
+    "phan_tich_chan_doan": [
+     "Bệnh nặng hơn thì đánh giá lại toàn diện: hỏi cách dùng thuốc, dấu báo động, dấu tắc ruột; khám bụng và thăm trực tràng (WGO 2025 mục 3.3, Bảng 6; AGA CPU 2026 Khuyến cáo 2). Câu \"em uống thuốc rồi mà không đỡ\" chỉ đáng tin sau khi hỏi chi tiết: thực tế chị ngưng sau 3 ngày.",
+     "Chưa phải thất bại điều trị: kháng trị đòi hỏi đã thử đủ lối sống, thuốc và, khi cần, liệu pháp sàn chậu (AGA CPU 2026 Khuyến cáo 1). Nghĩ đến thứ phát, xét nghiệm máu, chẩn đoán hình ảnh khi điều trị bước đầu thất bại (WGO 2025 Hình 3, mục 4.1) chỉ đặt ra sau khi chị dùng thuốc đúng.",
+     "Không phải tắc ruột: còn trung tiện, không nôn, không đau quặn từng cơn, bụng mềm, âm ruột bình thường, không sẹo mổ (Bologna 2018 mục History taking; WGO 2025 Bảng 6). Chướng bụng do khối phân.",
+     "Rối loạn đại tiện chưa loại trừ hẳn nhưng không có manh mối; cần đo áp lực hậu môn–trực tràng nếu điều trị đủ vẫn thất bại (AGA CPU 2026 Khuyến cáo 2). Phòng khám không có thiết bị."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị ngoại trú nâng bậc, không nhập viện, không chuyển tuyến vì không dấu hiệu tắc ruột hay dấu báo động.",
+     "PEG: thử nghiệm dùng 17,5 g × 2 lần/ngày (AGA-ACG 2023 mục PEG), không có liều tối đa rõ (Bảng 4; WGO 2025 Bảng 9); đáp án: 17 g × 2 lần/ngày cho đến khi đi phân mềm rồi 17 g/ngày duy trì. Kê PEG 17 g × 1 lần/ngày tiếp chấm a.",
+     "Bisacodyl 5 mg tối làm thuốc cứu, tối đa 10 mg/ngày, ≤ 4 tuần liên tục (AGA-ACG 2023 Khuyến cáo 5; WGO 2025 Bảng 9). Không dùng dài hạn khi chưa kháng trị.",
+     "Thụt tháo, thuốc đạn hoặc làm sạch ruột: có thể có ích khi khối phân lớn, dữ liệu hạn chế, không nên lạm dụng (AGA CPU 2026 Khuyến cáo 7); cách làm cụ thể không có trong tài liệu đã tải; không bắt buộc ở chị.",
+     "Chi phí: PEG chị mua vài gói một lần nên dễ ngưng. Dặn dùng liên tục, nếu quá tốn thì dùng lactulose 15 g/ngày (WGO 2025 Bảng 9; AGA-ACG 2023 Khuyến cáo 4) thay vì tự ngưng; so sánh giá thuốc trong nước: không có trong tài liệu đã tải.",
+     "Hẹn tái khám 1–2 tuần (mốc không có trong tài liệu đã tải). Điều trị đủ mà vẫn thất bại: nghĩ rối loạn đại tiện, đo áp lực hậu môn–trực tràng (AGA CPU 2026 Khuyến cáo 2; WGO 2025 mục 3.5)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Polyethylen glycol (PEG) 3350 hoặc 4000, dạng gói bột",
+      "ham_luong": "Liều 17 g bột mỗi lần; quy đổi số gói theo nhãn thuốc tại cơ sở",
+      "lieu": "17 g × 2 lần/ngày cho tới khi đi phân mềm, sau đó 17 g × 1 lần/ngày",
+      "duong": "Uống, hòa trong 1 ly nước",
+      "thoi_diem": "Sáng và tối",
+      "so_ngay": "Dùng liên tục, mua đủ cho ít nhất 2 tuần đến lúc tái khám; không ngưng khi mới đi được",
+      "ghi_chu": "AGA-ACG 2023 Bảng 4 (khởi đầu 17 g/ngày, không có liều tối đa rõ), mục PEG (17,5 g × 2 lần/ngày trong thử nghiệm); WGO 2025 Bảng 9. Giảm liều nếu đi lỏng nhiều. Mốc chuyển từ 2 xuống 1 lần: theo đáp ứng, không có mốc trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Bisacodyl",
+      "ham_luong": "5 mg viên",
+      "lieu": "5 mg × 1 lần, chỉ khi 24 giờ sau PEG vẫn chưa đi; tối đa 10 mg/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Ngắn hạn: không quá 4 tuần liên tục, dùng cứu",
+      "ghi_chu": "AGA-ACG 2023 Khuyến cáo 5 (mạnh, ngắn hạn hoặc cứu), Bảng 4 (5 mg, tối đa 10 mg/ngày); WGO 2025 Bảng 9. Khoảng 24 giờ chờ PEG trước khi dùng thuốc cứu: không có trong tài liệu đã tải, là gợi ý lâm sàng của ca. Đau quặn, tiêu chảy: ngưng."
+     }
+    ],
+    "dan_do": [
+     "Thuốc không phải dùng để \"đi được rồi là thôi\": đây là bệnh mạn tính cần dùng đều trong thời gian dài, đỡ dần chứ không khỏi ngay (AGA CPU 2026 Khuyến cáo 4). Nếu tiền thuốc là gánh nặng, nói với bác sĩ để đổi thuốc (lactulose), đừng tự ngưng.",
+     "Uống PEG sáng và tối đến khi phân mềm, sau đó sáng một lần (AGA-ACG 2023 Bảng 4). Chỉ uống bisacodyl tối khi vẫn chưa đi, mỗi lần 5 mg, không quá 10 mg/ngày (AGA-ACG 2023 Bảng 4; WGO 2025 Bảng 9).",
+     "Tăng xơ từ từ (rau, trái cây, ngũ cốc nguyên hạt), uống nước đều trong ngày: để ly nước ở quầy, uống mỗi lần đi qua (WGO 2025 mục 4.2, 4.6). Lượng nước cụ thể: không có trong tài liệu đã tải.",
+     "Khi buồn đi thì đi, không nhịn giờ đông khách; nhờ người trông quán (WGO 2025 mục 4.6).",
+     "Quay lại ngay nếu nôn, không trung tiện, đau quặn dữ dội, bụng chướng nhanh, ra máu hoặc phân đen, sụt cân (WGO 2025 Bảng 6; Bologna 2018).",
+     "Tái khám sau 1–2 tuần; mang theo vỉ thuốc, nhật ký đại tiện (số lần, hình dạng phân theo thang Bristol, WGO 2025 mục 3.3)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hạnh kể lại là mua PEG đủ dùng 2 tuần, uống sáng và tối 2 ngày thì đi được phân mềm, bụng xẹp, rồi giảm về một gói mỗi sáng. Vẫn đi chậm hơn dự kiến: tuần đầu còn 3 ngày mới đi một lần, có hai lần phải uống thêm bisacodyl buổi tối; tuần thứ hai chị bận quán đông, quên gói thuốc hai buổi sáng liền thì bụng đầy lại ngay. Sang tuần thứ ba, khi chị để ly nước ở quầy, nhờ nhân viên trông quán lúc buồn đi và ăn rau thêm từ từ, mới đi đều cách ngày, phân mềm. Chị hiểu cần dùng thuốc dài ngày, hẹn khám lại khi hết thuốc hoặc khi có dấu báo động, không cần xét nghiệm hay nội soi.",
+ "nhieu": [
+  "Tự dùng loperamid 5 ngày: làm táo bón sẵn có nặng hơn và che mất bệnh sử; chị chỉ kể khi được hỏi cụ thể thuốc cầm tiêu chảy (WGO 2025 Bảng 4).",
+  "Đợt đi lỏng sau gỏi cá: tự hết trong một buổi sáng, không sốt, không máu nhầy; dễ khiến người khám nghĩ đến nhiễm khuẩn hay sán và cho xét nghiệm hay thuốc không cần.",
+  "Cao dán và ngải cứu chườm bụng: đắp ngoài da, không liên quan nguyên nhân; chỉ cần ghi nhận, không cần cấm.",
+  "Không có xét nghiệm nào: ra quyết định thuần lâm sàng; hỏi tiền sử thai kỳ, kinh nguyệt thay que thử thai; không có thể loại trừ ung thư hay suy giáp bằng xét nghiệm nhưng không có dấu báo động nên không cần.",
+  "Lượt 2 nói \"uống thuốc rồi mà không đỡ\": thật ra chị ngưng PEG sau 3 ngày vì tiếc tiền và nghĩ đi được là hết bệnh. Không hỏi cặn kẽ thì dễ kết luận thuốc thất bại và chuyển tuyến vô ích."
+ ],
+ "bai_hoc_bien": [
+  "Táo bón mạn Rome IV: ≥ 2 tiêu chuẩn (rặn, phân cứng, cảm giác chưa hết, < 3 lần/tuần) trong ≥ 3 tháng, khởi phát ≥ 6 tháng, không đủ tiêu chuẩn IBS (WGO 2025 Bảng 5). Rome V người lớn: không có trong tài liệu đã tải.",
+  "Hỏi cụ thể từng nhóm thuốc: thuốc cầm tiêu chảy tự mua (loperamid) là thủ phạm làm táo bón nặng thêm (WGO 2025 Bảng 4).",
+  "Dấu báo động và tắc ruột đều hỏi và khám được tại phòng khám không có xét nghiệm; không cần xét nghiệm hay nội soi khi 33 tuổi không dấu báo động (WGO 2025 Bảng 6, mục 3.3).",
+  "Điều trị bước đầu: thuốc thẩm thấu (PEG 17 g/ngày) cộng chất xơ từ từ, nước, vận động; stimulant chỉ cứu, ngắn hạn, tối đa 10 mg/ngày bisacodyl (AGA-ACG 2023 Khuyến cáo 2, 5; WGO 2025 mục 4.6).",
+  "Ca nặng hơn ở lượt 2: trước khi kết luận thuốc thất bại, hỏi cách dùng thuốc. Dùng thuốc chưa đủ không gọi là kháng trị (AGA CPU 2026 Khuyến cáo 1).",
+  "Nói rõ táo bón mạn là bệnh mạn tính cần dùng thuốc đều; chi phí là lý do bỏ thuốc thường gặp, hỏi và trấn an (AGA CPU 2026 Khuyến cáo 4)."
+ ],
+ "diem_nho": [
+  "Rome IV (WGO 2025 Bảng 5): ≥ 2 trong 6 tiêu chuẩn; ≥ 3 tháng, khởi phát ≥ 6 tháng.",
+  "Dấu báo động táo bón (WGO 2025 Bảng 6): thay đổi thói quen, sụt cân, thiếu máu thiếu sắt, tắc ruột, khối bụng, khởi phát mới hoặc ban đêm, máu, sa trực tràng.",
+  "PEG 17 g/ngày, khuyến cáo mạnh (AGA-ACG 2023 Khuyến cáo 2); lactulose 15 g/ngày (WGO 2025 Bảng 9).",
+  "Bisacodyl ngắn hạn hoặc cứu, ≤ 4 tuần, 5–10 mg/ngày (AGA-ACG 2023 Khuyến cáo 5, Bảng 4).",
+  "Xơ tổng 20–30 g/ngày, tăng từ từ (WGO 2025 mục 4.2); psyllium có bằng chứng (AGA-ACG 2023 Khuyến cáo 1; BDA 2025 khuyến cáo 1.1).",
+  "Thất bại điều trị đủ: nghĩ rối loạn đại tiện, đo áp lực hậu môn–trực tràng (AGA CPU 2026 Khuyến cáo 2)."
+ ],
+ "nguon": [
+  "WGO 2025 – Chronic constipation global guideline – kho cũ tltk-10000-ca/02 Tiêu hóa – Bảng 2–6, 9, mục 3.3, 3.5, 4.1, 4.2, 4.6, Hình 3",
+  "AGA-ACG 2023 – CIC pharmacological management – TL-0208 – Khuyến cáo 1–6, Bảng 4, mục PEG",
+  "AGA CPU 2026 – Refractory constipation – TL-0184 – Best Practice Advice (Khuyến cáo) 1–4, 7",
+  "BDA 2025 – Dietary management of chronic constipation – kho cũ tltk-10000-ca/02 Tiêu hóa – Summary, khuyến cáo 1.1, 2.1",
+  "Bologna 2018 – Adhesive small bowel obstruction – TL-0093 – mục History taking and physical examination",
+  "Asia-Pacific 2022 – Colorectal cancer screening – TL-0217 – Statement 5, 6; USPSTF 2021 – TL-0221",
+  "ACG IBS 2021 – kho cũ tltk-10000-ca/02 Tiêu hóa – Bảng 1 (tiêu chuẩn Rome IV của IBS)",
+  "Rome V 2026 – TL-0187: bản đã tải là khảo sát dịch tễ, không có tiêu chuẩn táo bón người lớn",
+  "Không có trong tài liệu đã tải: tiêu chuẩn Rome V người lớn; liều psyllium cụ thể; lượng nước uống/ngày; mốc tái khám 1 và 2 tuần; thời gian thử thuốc \"đủ\" trước khi gọi là thất bại; cách thụt tháo/làm sạch ruột cụ thể; xử trí tiêu chảy ngắn sau ăn gỏi cá và nguy cơ sán; quy đổi PEG theo chế phẩm trong nước"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-14 (bản 1, viết: Sonnet). Ca 2 lượt, lượt 1 cho về hẹn, lượt 2 nặng hơn vì tự ngưng PEG sớm, vẫn ngoại trú nâng bậc. Đã đọc: WGO 2025 (Bảng 2–6, 9, mục 3.3, 3.5, 4.1–4.6), AGA-ACG 2023 (Khuyến cáo 1–6, Bảng 4), AGA CPU 2026 (TL-0184, Khuyến cáo 1–4, 7), BDA 2025 (Summary, 1.1, 2.1), Bologna 2018 (mục History taking), Asia-Pacific 2022 (Statement 5, 6), USPSTF 2021 (TL-0221), ACG IBS 2021 (Bảng 1).",
+  "Theo sổ mâu thuẫn: Rome IV (TH-0870 #1), magie oxid (TH-0870 #3, chấm a), stimulant (TH-0870 #2). Mâu thuẫn mới đề xuất: vị trí lactulose giữa WGO 2025 và AGA-ACG 2023 (ghi trong TH-0913_mau_thuan.md); xu_tri gộp \"PEG hoặc lactulose\" mục c.",
+  "Chỗ thiếu tài liệu: xem mục nguồn (dòng cuối). Hai mục w (kháng sinh/tẩy sán vì gỏi cá; cho tiếp loperamid) là đánh giá suy luận, ghi rõ trong ca."
+ ]
+}
