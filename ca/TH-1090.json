@@ -1,0 +1,560 @@
+{
+ "ma_ca": "TH-1090",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_gan_nhiem_mo_khong_do_ruou",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Gan nhiễm mỡ không do rượu (NAFLD)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm gan virus",
+   "Viêm gan do rượu"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng",
+  "loai_ket_cuc": "Biến chứng do bỏ sót"
+ },
+ "benh_nhan": {
+  "ten": "Lê Văn Tư",
+  "tuoi": 79,
+  "gioi": "Nam",
+  "nghe": "Nội trợ (nghỉ làm ruộng, ở nhà nấu cơm, trông cháu nội)",
+  "can_nang": 74,
+  "chieu_cao": 164,
+  "xung_ho": "Bác sĩ gọi ông là 'ông'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ', hay thêm 'à' 'nha' cuối câu.",
+  "tinh_cach": "Hiền, hay cười trừ, câu cửa miệng 'tôi không sao đâu bác sĩ'. Sợ làm phiền con cháu nên đi khám một mình. Ngại nói chuyện cơ thể, nhất là chuyện 'đàn ông gì mà như đàn bà'. Tai hơi nghễnh ngãng, nghe rõ khi bác sĩ nói chậm. Hiểu biết y khoa thấp: biết mình 'huyết áp cao', còn 'gan nhiễm mỡ' ông nhớ là 'mỡ trong gan, kiêng ăn mỡ'.",
+  "kieu_nhieu": "Kể lể lộn xộn: được hỏi một câu thì kể sang chuyện khác (bà nhà đau gối, cháu nội học lớp 3, giá heo, cái nồi cơm điện hư), nhảy mốc thời gian ('năm kia hay năm kìa gì đó'), trả lời 'có' 'không' lẫn lộn khi bị hỏi dồn. Hỏi từng ý ngắn, có mốc thời gian, tóm tắt lại thì ông chốt được ý.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c9996f",
+   "toc": "#d8d8d8",
+   "kieuToc": "ngan",
+   "ao": "#8f9a8a",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Mệt, ăn không ngon, hay đầy bụng mấy tháng nay",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản: công thức máu, sinh hóa nền (đường, mỡ máu, men gan, bilirubin–albumin–INR, ure–creatinin, điện giải), tổng phân tích nước tiểu và test sàng lọc HBsAg, anti-HCV, HIV; có ECG. Không có X-quang, siêu âm (kể cả đo độ đàn hồi gan), CT, nội soi và không làm được xét nghiệm chuyên sâu (HBV DNA, anti-HBc, ferritin–bão hòa transferrin, AFP, tự kháng thể). Bệnh viện tỉnh cách 35 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Lê Văn Tư, 79 tuổi, nội trợ, tăng huyết áp đang uống amlodipin. Ông đi xe đạp đến một mình vì 'mệt, ăn không ngon, hay đầy bụng' mấy tháng nay, kể chuyện rất lan man. Sinh hiệu: HA 136/78 mmHg, mạch 74 l/p, nhiệt 36,7 °C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 74 kg, cao 164 cm.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Hẹn ông Tư về 'kiêng mỡ' rồi tái khám sau 6–12 tháng là bỏ qua FIB-4 3,35, vượt ngưỡng 2,67 mà EASL-EASD-EASO 2024 (Hình 2) cho chuyển chuyên khoa gan và AASLD 2023 (chú thích Hình 2) cho cân nhắc chuyển thẳng. Ông không có triệu chứng 'đáng sợ' nên dễ không quay lại như lần trước; ở người đã xơ gan, tiến triển đến mất bù là 3–20% mỗi năm (AASLD 2023, mục Natural history of disease progression) và xơ gan MASLD hay bị bỏ sót, chưa tới 1 trong 4 người được giám sát ung thư gan (EASL-EASD-EASO 2024, tr.508). Ông vẫn giấu chuyện ngực sưng đau, ôm nỗi sợ 'ung thư như ông Sáu' thêm nhiều tháng.",
+    "nhap_vien": "Nhập viện ông Tư là quá tay: không vàng da, cổ trướng, phân đen, nôn máu hay lú lẫn; bilirubin 15 µmol/L, albumin 37 g/L, INR 1,1, tức chưa mất bù. Đường đúng là đo độ đàn hồi gan và khám chuyên khoa gan theo hẹn, ngoại trú (EASL-EASD-EASO 2024, Hình 2); tiêu chuẩn nhập viện bệnh gan mạn không có trong tài liệu đã tải. Ông nấu cơm cho vợ đau gối và trông cháu, nằm viện thì cả nhà rối, ông lại đang sợ con biết bệnh nên dễ bỏ viện về hoặc từ chối kiểm tra tiếp."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi không sao đâu, chỉ hơi mệt, ăn không thấy ngon, ăn xong hay đầy bụng. À mà bà nhà tôi đau cái gối mấy tháng nay, tôi nấu cơm cho bả, cái nồi cơm điện hư tôi phải đi sửa nữa... Hồi đó, năm kia hay năm kìa gì đó, tôi có đi khám người ta nói gan có mỡ, mà tôi thấy khỏe nên thôi.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "136/78",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mệt, ăn không ngon, hay đầy bụng sau bữa cơm, mấy tháng nay. Ông kể vòng vo: bà nhà đau gối, cháu nội, cái nồi cơm điện hư. Chen vào một câu: 'hồi đó đi khám người ta nói gan có mỡ, thấy khỏe nên thôi'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và gợi ý tiền sử gan nhiễm mỡ"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Mệt tăng dần chừng 4–5 tháng, không có ngày nào đột ngột; ông không nhớ lúc nào bắt đầu ('già rồi ai chẳng vậy'). Không có việc gì xảy ra trước đó: không ngã, không đổi thuốc, không ăn gì lạ. Ăn mau no, ăn ít hơn; cân ở trạm y tế xã nhẹ đi khoảng 2 kg so với đầu năm. Đầy bụng sau ăn, không đau bụng dữ dội, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến, không có yếu tố khởi phát rõ"
+    },
+    {
+     "id": "tien_su_gan",
+     "noi_dung": "Hai năm trước khám sức khỏe ở phòng khám tư gần nhà: siêu âm 'gan nhiễm mỡ độ 2'; AST 32, ALT 40 U/L, tiểu cầu 184 G/L. Bác sĩ dặn 'bớt ăn mỡ', cho 2 hộp thuốc bổ gan, không hẹn tái khám. Ông thấy khỏe nên không đi lại. Tờ kết quả cũ còn gấp trong túi áo, ông chỉ lấy ra khi bác sĩ hỏi đã từng siêu âm hay xét nghiệm gan chưa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gan nhiễm mỡ, kết quả cũ (siêu âm, men gan, tiểu cầu)"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Uống rượu đế khoảng 4 chén nhỏ (chừng 30 ml, 40 độ) mỗi tuần, chủ yếu bữa cơm chiều ngày nghỉ và dịp giỗ chạp. Không uống say, không uống buổi sáng, không thấy 'thèm'. Hồi làm ruộng cũng chỉ vậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng rượu (loại trừ bệnh gan do rượu)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Amlodipin 5 mg mỗi sáng đã 6 năm. Paracetamol 500 mg 1–2 viên mỗi ngày, khoảng 3–4 ngày mỗi tuần, do đau lưng. Hai năm trước uống hết 2 hộp thuốc bổ gan của phòng khám tư. Không dùng NSAID, corticoid, thuốc nam, thực phẩm chức năng, thuốc chống đông.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng, thuốc/thảo dược độc gan"
+    },
+    {
+     "id": "an_uong_van_dong",
+     "noi_dung": "Ông nấu ăn cho cả nhà: kho, chiên, xào nhiều mỡ, cơm ngày 3 chén lớn, ít rau; uống 1 lon nước ngọt có ga mỗi ngày từ lúc nghỉ làm ruộng. Cả ngày ở nhà, chỉ đi chợ sáng. Năm năm nay tăng khoảng 6 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn uống, vận động, tăng cân (nền chuyển hóa)"
+    },
+    {
+     "id": "nguy_co_virus",
+     "noi_dung": "Chưa từng vàng da, chưa truyền máu, không xăm, không tiêm chích; vợ không bị viêm gan. Chưa từng thử viêm gan B, C, chưa tiêm ngừa viêm gan B.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ viêm gan virus"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không vàng da, nước tiểu vàng bình thường, phân vàng, không phân đen, không nôn ra máu, không chảy máu cam hay chân răng. Bụng không to lên nhanh, không lú lẫn, không ngủ đảo lộn ngày đêm. Không ho, không sốt chiều, không mồ hôi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu hiệu mất bù và dấu báo động"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Tự lo ăn mặc, tắm rửa, đi chợ, nấu cơm; đi bộ được, không dùng gậy, chưa té lần nào trong năm qua. Mắt hơi mờ, tai nghễnh ngãng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chức năng, yếu tố suy yếu (rất cao tuổi)"
+    },
+    {
+     "id": "nguc_sung",
+     "noi_dung": "Chừng 8 tháng nay hai bên ngực sưng và đau tức, nhất là khi áo cọ vào hoặc nằm nghiêng; sờ thấy một cục cứng dưới đầu vú hai bên. Ông xấu hổ ('đàn ông gì mà ngực như đàn bà'), sợ bị cười, sợ là ung thư, không kể với ai, kể cả vợ con.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng về ngực/vú, hoặc hỏi 'có chỗ nào trên người sưng, đau, thay đổi mà ông ngại nói', hoặc khi bác sĩ đề nghị khám ngực và giải thích nhẹ nhàng, kín đáo, nói đây là chuyện hay gặp. Hỏi chung 'còn gì khác nữa không' thì ông trả lời không.",
+     "k": 1,
+     "y": "Triệu chứng giấu: ngực to đau hai bên (nữ hóa tuyến vú)"
+    },
+    {
+     "id": "ham_muon",
+     "noi_dung": "Hai năm nay ông không còn ham muốn chuyện vợ chồng, ông cho là 'già rồi'. Chưa nói với ai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói sau khi ông đã kể chuyện ngực, khi bác sĩ hỏi riêng, kín đáo về sinh hoạt vợ chồng hoặc ham muốn.",
+     "k": 0,
+     "y": "Giảm ham muốn (kèm ngực to)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Cuối năm ngoái ông Sáu hàng xóm, người cũng ăn kém, mệt, rồi bụng to lên, mất vì 'ung thư gan' sau 3 tháng. Ông sợ mình cũng thế nên hôm nay đạp xe đi khám, không dám nói con vì sợ con bỏ việc về lo, tốn tiền.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông lo điều gì nhất, vì sao đi khám đúng lúc này, hoặc có ai quen bị bệnh giống ông không.",
+     "k": 1,
+     "y": "Động cơ thật: sợ ung thư gan, sợ làm phiền con"
+    },
+    {
+     "id": "dau_lung",
+     "noi_dung": "Đau lưng dưới âm ỉ nhiều năm, đau khi cúi lâu; không lan xuống chân, không tê yếu. Đây là lý do ông uống paracetamol.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "phu_chan",
+     "noi_dung": "Chiều tối hai mắt cá hơi phù, sáng dậy hết, từ khi uống amlodipin; không phù mặt, không khó thở khi nằm.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nghe hơi kém nên phải nói chậm; định hướng đúng. Tay chân gầy, bụng to bè. Cân 74 kg, cao 164 cm, BMI 27,5 kg/m²; vòng eo 98 cm. Củng mạc trắng, không vàng da, niêm mạc hồng nhạt. Không hạch ngoại biên.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng to bè, nhiều mỡ thành bụng, mềm, không điểm đau. Gan sờ được bờ dưới khoảng 2 cm dưới bờ sườn phải, bờ tù, mật độ chắc, không đau. Không sờ thấy lách, không khối. Gõ không đục vùng thấp, không sóng vỗ: không cổ trướng. Không tuần hoàn bàng hệ.",
+     "k": 1
+    },
+    "vu": {
+     "a": "Hai bên vú to đối xứng, sờ thấy đĩa mô tuyến chắc, di động, đồng tâm quanh núm vú, đường kính khoảng 3 cm, ấn đau nhẹ. Da không co kéo, núm vú không tiết dịch, không loét. Hạch nách không sờ thấy. Đây là nữ hóa tuyến vú hai bên, không có dấu hiệu gợi ý ác tính.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không vàng da. Có 3–4 sao mạch nhỏ ở cổ và ngực trên; lòng bàn tay (mô cái) hồng đỏ. Không bầm máu, không ban, không ngứa trầy.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Phù ấn lõm nhẹ hai mắt cá, không phù cẳng chân hay đùi, không giãn tĩnh mạch, bắp chân mềm.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran. Nhịp thở 18 lần/phút.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đúng thời gian, nơi chốn. Không run vẩy tay khi duỗi tay, không dấu thần kinh khu trú, sức cơ bốn chi 5/5.",
+     "k": 0
+    },
+    "bui_tinh_hoan": {
+     "a": "Hai bìu cân đối. Hai tinh hoàn mềm, nhỏ hơn bình thường (ước chừng 12 mL), không khối, mào tinh và thừng tinh không to, không thoát vị bẹn.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Co cứng cơ cạnh cột sống thắt lưng hai bên, cúi hơi hạn chế, Lasègue âm tính, không yếu chân.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 5,8 G/L · Hb 134 g/L · MCV 94 fL · TC 148 G/L",
+     "bang": {
+      "wbc": 5.8,
+      "neu_pct": 58.0,
+      "neu": 3.36,
+      "lym_pct": 32.0,
+      "lym": 1.86,
+      "mono_pct": 7.0,
+      "mono": 0.41,
+      "eos_pct": 2.5,
+      "eos": 0.15,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.3,
+      "hgb": 134,
+      "hct": 0.4,
+      "mcv": 94.0,
+      "mch": 31.2,
+      "mchc": 332,
+      "rdw": 14.2,
+      "plt": 148
+     },
+     "n": "Tiểu cầu 148 G/L (< 150) là biến số của FIB-4 và gợi ý cường lách nếu có xơ hóa tiến triển (EASL-EASD-EASO 2024, Bảng 6); hai năm trước 184 G/L. Hb 134 g/L không thiếu máu; MCV 94 fL không gợi ý uống nhiều rượu (Bảng 5)."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 36 U/L (tham chiếu < 40) · ALT 33 U/L (< 41)",
+     "n": "Men gan trong giới hạn phòng xét nghiệm nhưng không loại trừ bệnh gan tiến triển: aminotransferase thường bình thường ở NASH xơ hóa nặng; ALT > 30 U/L nên coi là bất thường (AASLD 2023, Bảng 7, pearls). AST/ALT 1,09 (hai năm trước 0,8; ngưỡng F3: 0,8 loại trừ, 1,0 khẳng định; EASL-EASD-EASO 2024, Bảng 6). FIB-4 = 79 × 36 / (148 × √33) = 3,35 (công thức: EASL-EASD-EASO 2024, tr.501), trên ngưỡng 2,67 (Bảng 6). Phiếu cũ (77 tuổi, AST 32, ALT 40, tiểu cầu 184): 2,12."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "Bilirubin toàn phần 15 · trực tiếp 4 µmol/L · ALP 98 U/L · GGT 62 U/L · Albumin 37 g/L · INR 1,1",
+     "n": "Chưa có dấu mất bù: bilirubin, albumin, INR trong giới hạn. Nên đo thêm bilirubin, albumin, ALP, GGT khi men gan bất thường (BSG 2018 khuyến cáo 1)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose đói 6,2 mmol/L",
+     "bang": {
+      "glu": 6.2
+     },
+     "ab": 1,
+     "ghi_chu_mau": "Mẫu lấy lúc đói trên 8 giờ.",
+     "n": "Glucose đói 5,6–6,9 mmol/L là tiêu chí chuyển hóa (EASL-EASD-EASO 2024, Bảng 3)."
+    },
+    "hba1c": {
+     "v": "u",
+     "r": "HbA1c 6,1% (43 mmol/mol)",
+     "ab": 1,
+     "n": "Tiền đái tháo đường 5,7–6,4% (EASL-EASD-EASO 2024, Bảng 3); lặp FIB-4 mỗi 1–2 năm (AASLD 2023, Bảng 7)."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol toàn phần 5,2 · Triglycerid 1,9 · HDL-C 0,95 · LDL-C 3,4 mmol/L",
+     "ab": 1,
+     "n": "TG ≥ 1,7 và HDL-C ≤ 1,0 mmol/L ở nam là tiêu chí chuyển hóa (EASL-EASD-EASO 2024, Bảng 3). Người NAFLD chết chủ yếu vì tim mạch và ung thư ngoài gan (AASLD 2023, mục Association between disease stage and adverse outcomes)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 6,1 mmol/L · Creatinin 92 µmol/L · eGFR 71 mL/ph/1,73m²",
+     "bang": {
+      "ure": 6.1,
+      "creat": 92,
+      "egfr": 71
+     },
+     "n": "Bệnh thận là bệnh đồng mắc cần đánh giá khi có MASLD (EASL-EASD-EASO 2024, mục Screening, case-finding, diagnosis and monitoring)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 138 · K 4,3 · Cl 102 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 4.3,
+      "cl": 102
+     },
+     "n": "Bình thường."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Tỷ trọng 1,018 · pH 6 · không bạch cầu, nitrit, protein, glucose, ceton, hồng cầu · bilirubin âm tính · urobilinogen bình thường",
+     "bang": {
+      "u_sg": 1.018,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Không bilirubin niệu, không protein niệu (AASLD 2023, Bảng 1: đánh giá protein niệu ở người NAFLD)."
+    },
+    "virus_mau": {
+     "v": "e",
+     "r": "HBsAg âm tính · anti-HCV âm tính · HIV âm tính",
+     "n": "Men gan dưới 5 lần giới hạn trên vẫn phải tìm viêm gan B, C (ACG 2017 khuyến cáo 2, 3, 16); anti-HCV cho người 18–79 tuổi (USPSTF 2020), ông 79 tuổi."
+    },
+    "anti_hbs_hbc": {
+     "v": "a",
+     "r": "(Phòng khám không làm được anti-HBc và anti-HBs.)",
+     "n": "HBsAg âm nên làm anti-HBc, anti-HBs (QĐ 1740/2026 mục II); làm cùng đợt ở tuyến trên, không đổi quyết định hôm nay."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "(Phòng khám không có máy siêu âm.)",
+     "n": "Nhiễm mỡ đã xác định trên siêu âm hai năm trước (EASL-EASD-EASO 2024, Hình 1). Siêu âm thường quy không dùng phân tầng xơ hóa (AASLD 2023, Bảng 7); làm ở tuyến trên cùng đợt đàn hồi."
+    },
+    "fibroscan": {
+     "v": "e",
+     "r": "(Phòng khám không có máy đo độ đàn hồi gan.)",
+     "thay_the": "liver",
+     "n": "Bước 2 sau FIB-4 là đàn hồi gan: VCTE < 8 kPa loại trừ F3, ≥ 12 kPa gợi ý (EASL-EASD-EASO 2024, Hình 2, Bảng 6). Cơ sở không có: thay bằng FIB-4 từ men gan và tiểu cầu, chuyển tuyến đo."
+    },
+    "afp": {
+     "v": "a",
+     "r": "(Phòng khám không làm được AFP.)",
+     "n": "Giám sát HCC cho người xơ gan do MASLD (EASL-EASD-EASO 2024, tr.506–507); chưa xác định xơ gan thì do chuyên khoa quyết định sau đàn hồi."
+    },
+    "noi_soi": {
+     "n": "Cơ sở không có nội soi. Tầm soát giãn tĩnh mạch thực quản là việc của chuyên khoa khi LSM > 20 kPa và/hoặc tiểu cầu < 150 G/L (EASL-EASD-EASO 2024, phụ lục tr.525–529, mục End-stage liver disease)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Gan nhiễm mỡ không do rượu (NAFLD; tên mới MASLD) ở người 79 tuổi thừa cân bụng, tiền đái tháo đường, rối loạn lipid, tăng huyết áp; nguy cơ xơ hóa tiến triển CAO (FIB-4 3,35 > 2,67), nghi bệnh gan mạn tiến triển còn bù, cần đo độ đàn hồi gan ở tuyến trên để xác nhận; kèm nữ hóa tuyến vú hai bên",
+     "ok": 1,
+     "n": "Nhiễm mỡ trên siêu âm cũ + ≥ 1 tiêu chí chuyển hóa (BMI 27,5 ≥ 23 ở người châu Á, vòng eo 98 cm ≥ 90, HbA1c 6,1%, glucose đói 6,2, TG 1,9, HDL-C 0,95, đang điều trị THA) + không nguyên nhân khác + rượu dưới 30 g/ngày ở nam (EASL-EASD-EASO 2024, Hình 1, Bảng 3). AASLD 2023 dùng tên NAFLD, chấp nhận cả hai. FIB-4 chỉ ước tính nguy cơ, giá trị dự đoán dương thấp (tr.502): chưa gọi là xơ gan khi chưa đo đàn hồi."
+    },
+    {
+     "t": "Viêm gan virus B hoặc C",
+     "n": "Loại: HBsAg, anti-HCV âm; men gan trong giới hạn, không vàng da, không sốt (ACG 2017 khuyến cáo 2, 3, 16; QĐ 1740/2026 mục II). Anti-HBc, anti-HBs không làm được ở cơ sở."
+    },
+    {
+     "t": "Bệnh gan do rượu / MetALD",
+     "n": "Loại: khoảng 4 chén × 9,5 g (30 ml × 40% × 0,789; công thức đổi thể tích là kiến thức phổ thông) ≈ 5 g/ngày, dưới ngưỡng MetALD 30–60 g/ngày ở nam (EASL-EASD-EASO 2024, Hình 1). Viêm gan rượu (NIAAA) cần > 50 g/ngày ≥ 6 tháng, vàng da, bilirubin > 3 mg/dL, AST/ALT > 1,5 (ACG 2024, Bảng 5): không hợp. Rượu ít vẫn phải bỏ nếu nghi xơ hóa tiến triển (EASL-EASD-EASO 2024, phụ lục tr.525–529)."
+    },
+    {
+     "t": "Tổn thương gan do thuốc hoặc thảo dược (paracetamol, thuốc bổ gan cũ, amlodipin)",
+     "n": "Phải hỏi mọi thuốc, thảo dược khi men gan bất thường (ACG 2017 khuyến cáo 11, 16). Paracetamol dưới 1 g/ngày, thuốc bổ gan đã hết hai năm, men gan trong giới hạn: không gợi ý. Độc tính gan của amlodipin không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ung thư gan hoặc ung thư tiêu hóa gây mệt, ăn kém, sụt cân",
+     "n": "Chưa loại trừ hoàn toàn tại cơ sở (không siêu âm, AFP). Gan chắc nhưng không khối, không đau, không vàng da; Hb 134 g/L. Nguy cơ HCC tăng khi FIB-4 > 3,25 ở người chưa xơ gan (EASL-EASD-EASO 2024, tr.506–507, Bảng 8): chuyên khoa quyết định sau đàn hồi gan. Dặn quay lại sớm nếu sụt cân nhanh, đau hạ sườn phải."
+    },
+    {
+     "t": "Mệt do thiếu máu, suy thận, rối loạn điện giải, nhiễm trùng, suy giáp hoặc suy tim",
+     "n": "Loại phần lớn bằng xét nghiệm cơ bản: Hb 134 g/L, eGFR 71, Na 138, K 4,3. TSH không làm được ở cơ sở: cân nhắc khi nghi suy giáp (EASL-EASD-EASO 2024, Bảng 7)."
+    },
+    {
+     "t": "Nữ hóa tuyến vú do thuốc (spironolacton) hoặc suy sinh dục",
+     "n": "Ông không dùng spironolacton (ESH 2023 mục 12.4 nêu gây nữ hóa tuyến vú). Nữ hóa tuyến vú là một dấu hiệu bệnh gan tiến triển (AASLD 2023, Bảng 1); xơ gan/rượu cũng gây suy sinh dục (EAU 2026, Bảng 3.1). Định lượng testosteron không làm được ở cơ sở, không ưu tiên hôm nay. Tiêu chuẩn phân biệt ung thư vú nam không có trong tài liệu đã tải: chuyển khám khi vú một bên, cứng, dính, tiết dịch."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giới thiệu ông đến khoa tiêu hóa – gan mật bệnh viện tỉnh để đo độ đàn hồi gan (VCTE) và khám chuyên khoa theo hẹn (không cấp cứu); kèm giấy giới thiệu ghi FIB-4 3,35, kết quả cũ hai năm trước, các xét nghiệm hôm nay",
+     "v": "c",
+     "n": "FIB-4 > 2,67: chuyển chuyên khoa gan (EASL-EASD-EASO 2024, Hình 2, tr.501; AASLD 2023, chú thích Hình 2: cân nhắc chuyển thẳng khi FIB-4 > 2,67; Bảng 7). Hai nguồn cùng hướng. VCTE < 8 kPa loại trừ F3, ≥ 12 kPa gợi ý (Bảng 6). Thời hạn hẹn không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bỏ hẳn rượu, kể cả vài chén mỗi tuần",
+     "v": "c",
+     "n": "Người xơ hóa tiến triển hoặc xơ gan phải ngưng rượu hoàn toàn, vĩnh viễn (EASL-EASD-EASO 2024, phụ lục tr.525–529, LoE 3, mạnh); người bệnh gan nhiễm mỡ nên được khuyên bỏ rượu (cùng nguồn). Chưa biết ông đã xơ hóa tiến triển chưa nên dặn bỏ từ bây giờ."
+    },
+    {
+     "t": "Lối sống vừa sức cho người 79 tuổi: bỏ nước ngọt có ga, bớt chiên xào và cơm, thêm rau cá (kiểu Địa Trung Hải); đi bộ đều mỗi ngày, thêm bài tập sức cơ nhẹ; giữ đủ đạm, không nhịn ăn, không giảm cân nhanh",
+     "v": "c",
+     "n": "Giảm cân bền vững khuyến cáo cho MASLD: ≥ 5% giảm mỡ gan, 7–10% giảm viêm, > 10% cải thiện xơ hóa (EASL-EASD-EASO 2024, LoE 1–2, mạnh); ăn Địa Trung Hải, tránh đồ uống có đường (LoE 2, mạnh); > 150 phút/tuần cường độ vừa (LoE 1, mạnh). Xơ gan còn bù kèm béo phì: giảm cân vừa phải, nhấn mạnh đạm và vận động giữ cơ (LoE 3, yếu). Người cao tuổi: lợi ích giảm cân phải cân nhắc với nguy cơ mất cơ (ICOPE 2025, mục 7.3.3); đạm 1,2–1,5 g/kg/ngày (AASLD 2025, Bảng 3). Mục tiêu cân nặng riêng cho ≥ 75 tuổi không có trong tài liệu đã tải: mục tiêu chức năng (giữ cơ, giảm vòng bụng) hoặc giảm khoảng 5% từ từ đều đúng."
+    },
+    {
+     "t": "Hỏi lại thuốc và thảo dược; giữ amlodipin như cũ, không tự ngưng; đau lưng dùng paracetamol liều thấp, không dùng NSAID",
+     "v": "c",
+     "n": "Paracetamol: người cao tuổi, bệnh gan dưới 3 g/ngày, tránh NSAID (QĐ 361/2014, Phụ lục NSAID mục 3.3) hoặc 4 g/ngày ở người lớn (Phụ lục thuốc giảm đau mục 3.1; AHA/ACC 2025, Bảng 11): ghi cả hai, bên thận trọng hơn là dưới 3 g/ngày. Amlodipin giữ nguyên; phù mắt cá nhẹ do chẹn kênh canxi (ESH 2023 mục 11.10.2)."
+    },
+    {
+     "t": "Giải thích kết quả cho ông bằng lời đơn giản: gan nhiễm mỡ đã nhiều năm, có dấu hiệu gan đang bị tổn thương nhiều hơn, cần đo độ cứng gan; chưa phải ung thư; ngực to là chuyện thường gặp khi gan có bệnh; hỏi ông muốn báo cho con hay không",
+     "v": "c",
+     "n": "Trả lời đúng nỗi sợ thật (ung thư gan như ông Sáu) và nỗi ngại ngùng. FIB-4 > 3,25 tăng nguy cơ HCC nhưng chưa phải ung thư (EASL-EASD-EASO 2024, tr.506–507, Bảng 8). Không mắng chuyện rượu."
+    },
+    {
+     "t": "Dặn dấu hiệu cần đến ngay trạm y tế hoặc bệnh viện: vàng da, tiểu sẫm, phân đen, nôn ra máu, bụng to nhanh, phù chân nhiều, lú lẫn, ngủ gà; và dặn quay lại nếu sụt cân nhanh, đau hạ sườn phải",
+     "v": "c",
+     "n": "Xơ gan cần theo dõi dấu hiệu mất bù (AASLD 2023, Bảng 7); danh sách đầy đủ không có trong tài liệu đã tải, các dấu nêu là cảnh báo chung."
+    },
+    {
+     "t": "Hẹn tái khám tại phòng khám sau 4–6 tuần (hoặc khi có kết quả tuyến trên) để xem kết quả đàn hồi gan, hỏi lại rượu, cân nặng, ngực, thuốc",
+     "v": "c",
+     "n": "Mốc 4–6 tuần là lựa chọn của người soạn, không có trong tài liệu đã tải. Mục đích: ông không mất theo dõi như hai năm trước (EASL-EASD-EASO 2024, tr.508: xơ gan MASLD bị bỏ sót, dưới 1 trong 4 người được giám sát HCC)."
+    },
+    {
+     "t": "Hẹn siêu âm bụng + AFP mỗi 6 tháng và nội soi tầm soát giãn tĩnh mạch thực quản ngay từ bây giờ",
+     "v": "a",
+     "n": "Giám sát HCC cho xơ gan do MASLD (EASL-EASD-EASO 2024, tr.506–507, LoE 3, mạnh), F3 cân nhắc theo từng người (LoE 4, yếu); nội soi khi LSM > 20 kPa và/hoặc tiểu cầu < 150 G/L ở bệnh gan mạn còn bù tiến triển (phụ lục tr.525–529). Ông có tiểu cầu 148 G/L nhưng chưa có đàn hồi gan: làm sớm không sai, chuyên khoa quyết định."
+    },
+    {
+     "t": "Kê thuốc bổ gan (silymarin), thảo dược hoặc vitamin E để 'bảo vệ gan'",
+     "v": "a",
+     "n": "Nutraceutical không khuyến cáo vì chưa đủ bằng chứng hiệu quả và an toàn (EASL-EASD-EASO 2024, LoE 2, mở); vitamin E không khuyến cáo làm thuốc đích MASH (LoE 2, yếu), AASLD 2023 (Bảng 7) chỉ cân nhắc ở NASH chọn lọc không đái tháo đường. Không nguồn nào nói gây hại ở người chưa có men gan tăng do thuốc nên chấm a."
+    },
+    {
+     "t": "Khởi trị ngay semaglutide hoặc resmetirom tại phòng khám",
+     "v": "w",
+     "n": "Thuốc đích MASH cho F2–F3 xác định, không xơ gan (EASL-EASD-EASO 2024, 2026; AASLD 2025); ông chưa được phân tầng. Semaglutide làm mất khối cơ, rõ ở người cao tuổi và thiếu cơ (AASLD 2025, Bảng 3): ông 79 tuổi, tay chân gầy. Tình trạng lưu hành ở Việt Nam không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho ibuprofen hoặc diclofenac khi đau lưng",
+     "v": "w",
+     "n": "Tránh NSAID ở người cao tuổi, bệnh gan (QĐ 361/2014, Phụ lục NSAID mục 3.3); NSAID có thể làm tăng men gan (ACG 2017, mục Drug and supplement-induced liver injury)."
+    },
+    {
+     "t": "Hẹn ông về nhà, tái khám sau 6–12 tháng, lặp lại FIB-4",
+     "v": "w",
+     "n": "Lặp FIB-4 mỗi 1–3 năm (EASL-EASD-EASO 2024) hay 1–2 năm (AASLD 2023, Bảng 7) là cho nguy cơ thấp/trung gian; FIB-4 > 2,67 phải chuyển chuyên khoa (EASL-EASD-EASO 2024, Hình 2; AASLD 2023, chú thích Hình 2). Hai năm trước FIB-4 của ông 2,12 (trung gian) và không ai tính, không hẹn: điểm gãy của ca; xơ gan MASLD bị bỏ sót, dưới 1 trong 4 người được giám sát HCC (tr.508)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Gan nhiễm mỡ không do rượu (NAFLD), nay gọi MASLD (EASL-EASD-EASO 2024, Hình 1): nhiễm mỡ trên siêu âm hai năm trước + ≥ 1 tiêu chí chuyển hóa (BMI 27,5, vòng eo 98 cm, HbA1c 6,1%, glucose đói 6,2, TG 1,9, HDL-C 0,95, tăng huyết áp; Bảng 3) + không nguyên nhân khác + rượu dưới 30 g/ngày.",
+     "Nguy cơ xơ hóa tiến triển CAO: FIB-4 = 79 × 36 / (148 × √33) = 3,35 > 2,67 (EASL-EASD-EASO 2024, Hình 2, Bảng 6); tiểu cầu 148 G/L, gan chắc, sao mạch, nữ hóa tuyến vú: nghi bệnh gan mạn tiến triển còn bù, chờ đàn hồi gan (chưa gọi là xơ gan).",
+     "Đã loại trừ viêm gan B, C (HBsAg, anti-HCV âm) và bệnh gan do rượu (khoảng 5 g/ngày).",
+     "Chưa có dấu mất bù: không vàng da, cổ trướng, xuất huyết tiêu hóa, bệnh não gan; bilirubin 15 µmol/L, albumin 37 g/L, INR 1,1.",
+     "Bệnh kèm: tiền đái tháo đường, rối loạn lipid, tăng huyết áp, đau lưng mạn; nữ hóa tuyến vú hai bên, giảm ham muốn. Rất cao tuổi còn tự lập: xem ghi chú khả năng áp dụng."
+    ],
+    "phan_tich_chan_doan": [
+     "THỨ TỰ HỎI BỆNH. Ông kể lộn xộn: hỏi từng ý ngắn, có mốc thời gian, tóm tắt lại. Mệt, ăn mau no, mốc bắt đầu, sụt cân; tiền sử gan (ông lấy tờ cũ ra khi được hỏi đã siêu âm, xét nghiệm gan chưa); rượu: ghi lượng, kiểu uống ở mọi người có bệnh gan nhiễm mỡ bằng lời không phán xét, dùng AUDIT hoặc AUDIT-C (EASL-EASD-EASO 2024, LoE 3, mạnh; Bảng 5); mọi thuốc, thảo dược (ACG 2017 khuyến cáo 11); nguy cơ virus, ăn uống, vận động (AASLD 2023, Bảng 1). Rồi mở cửa cho điều ông giấu: 'có chỗ nào trên người ông ngại nói', 'điều gì làm ông lo nhất', 'vì sao hôm nay mới đi khám'.",
+     "KHÁM VÀ CẬN LÂM SÀNG. Cân, vòng eo; tìm dấu bệnh gan mạn: gan chắc, lách to, tuần hoàn bàng hệ, cổ trướng, nữ hóa tuyến vú, sao mạch, ban đỏ lòng bàn tay (AASLD 2023, Bảng 1): phải khám vú dù ông không kể. Công thức máu có tiểu cầu, AST/ALT, bilirubin–albumin–INR (BSG 2018 khuyến cáo 1), HBsAg, anti-HCV (ACG 2017 khuyến cáo 2, 3, 16), glucose, HbA1c, lipid, creatinin, nước tiểu (AASLD 2023, Bảng 1). Phân tầng xơ hóa bắt đầu bằng FIB-4 (EASL-EASD-EASO 2024, Hình 2): không cần siêu âm, CT, X-quang để quyết định hôm nay.",
+     "VÌ SAO MASLD. Siêu âm cũ nhiễm mỡ, ≥ 1 tiêu chí chuyển hóa, rượu thấp, virus âm, không thuốc gây nhiễm mỡ. Bệnh thường không triệu chứng hoặc mơ hồ (AASLD 2023, mục How should NAFLD be managed in primary care...). EASL-EASD-EASO 2024 gọi MASLD, AASLD 2023 còn dùng NAFLD: chấp nhận cả hai tên.",
+     "PHÂN TẦNG XƠ HÓA. Người có đái tháo đường, hoặc béo bụng kèm yếu tố chuyển hóa, hoặc men gan bất thường phải tìm xơ hóa bằng FIB-4 = tuổi × AST / (tiểu cầu × √ALT) (EASL-EASD-EASO 2024, Hình 2, tr.501); nam > 50 tuổi nguy cơ xơ hóa tiến triển cao hơn (mục Definition, prevalence and natural course). Ngưỡng cho > 65 tuổi: EASL-EASD-EASO 2024 (Hình 2) ngưỡng thấp 2,0 thay 1,3; AASLD 2023 (Bảng 7) ghi ≥ 1,3 thì đo đàn hồi, còn chú thích Hình 2 của AASLD ghi > 2,0 cho > 65 tuổi. Khác nhau vì AASLD viết cho dân số chung, EASL hiệu chỉnh vì FIB-4 tăng theo tuổi và cho nhiều dương tính giả (tr.502). Ông 3,35 vượt cả hai ngưỡng lẫn 2,67: EASL (Hình 2) chuyển chuyên khoa gan, AASLD (chú thích Hình 2) cân nhắc chuyển thẳng khi > 2,67; cách nào cũng đến đo đàn hồi (VCTE < 8 kPa loại trừ F3, ≥ 12 kPa gợi ý: Bảng 6). AST/ALT 0,8 → 1,09 và tiểu cầu 184 → 148 G/L cùng chiều tiến triển (Bảng 6). FIB-4 > 3,25 gắn với nguy cơ HCC > 1%/năm ở người chưa xơ gan (tr.506–507, Bảng 8).",
+     "LOẠI TRỪ VIRUS VÀ RƯỢU. HBsAg, anti-HCV âm; men gan không tăng, không vàng da, không sốt (ACG 2017 khuyến cáo 16; QĐ 1740/2026 mục II). Rượu khoảng 5 g/ngày: dưới 30 g/ngày ở nam, không phải MetALD (30–60 g/ngày) hay bệnh gan do rượu (> 60 g/ngày) (EASL-EASD-EASO 2024, Hình 1); không hợp tiêu chuẩn viêm gan rượu (ACG 2024, Bảng 5). Rượu mức nhẹ không có bằng chứng bảo vệ, nhất là khi có yếu tố chuyển hóa (EASL-EASD-EASO 2024, phụ lục).",
+     "ĐIỂM GÃY (biến chứng do bỏ sót). Hai năm trước đã đủ dữ liệu: 77 tuổi, AST 32, ALT 40, tiểu cầu 184 G/L cho FIB-4 2,12, trên ngưỡng 2,0 của > 65 tuổi (trung gian): cần đo đàn hồi, hoặc một năm lối sống rồi lặp FIB-4 (EASL-EASD-EASO 2024, tr.502); AASLD 2023 (Bảng 7): lặp mỗi 1–2 năm khi tiền đái tháo đường. Không ai tính FIB-4, chỉ dặn 'bớt ăn mỡ' kèm thuốc bổ gan (không khuyến cáo: EASL-EASD-EASO 2024, nutraceuticals), không hẹn; ông thấy khỏe nên mất theo dõi. Gãy thứ hai: ông giấu ngực to, sợ ung thư, nên triệu chứng thật chỉ lộ khi bác sĩ chủ động hỏi và khám vú.",
+     "GHI CHÚ KHẢ NĂNG ÁP DỤNG (≥ 75 tuổi). (1) Không có ngưỡng FIB-4 riêng cho ≥ 75 tuổi trong tài liệu đã tải; hiệu chỉnh duy nhất là ngưỡng thấp 2,0 cho > 65 tuổi (EASL-EASD-EASO 2024, Hình 2). (2) Thử nghiệm thuốc chủ yếu ở người trẻ hơn: MAESTRO-NASH tuổi trung bình 56,6 ± 10,9 (NEJM 2024), ESSENCE 56,0 ± 11,6 (NEJM 2025). (3) Giảm cân mất khối cơ, rõ ở người cao tuổi (AASLD 2025, Bảng 3; ICOPE 2025, mục 7.3.3). (4) Ông còn tự lập, đến vì mệt nên tìm xơ hóa là hợp lý; mốc tuổi ngừng tầm soát không có trong tài liệu đã tải. (5) Dễ bị bỏ qua: 'già rồi ai chẳng mệt'.",
+     "DIAGNOSTIC TIMEOUT. (a) Điều gì khiến tôi chốt nhanh? 'Gan nhiễm mỡ lành tính', men gan trong giới hạn, ông cười trừ 'không sao'. (b) Dữ kiện nào chưa giải thích? Tiểu cầu giảm, AST/ALT tăng, ngực to hai bên, hết ham muốn, gan chắc: không giải thích bằng mỡ gan đơn thuần. (c) Điều gì làm tôi đổi ý? Vàng da, cổ trướng, phân đen, lú lẫn (nhập viện hoặc cấp cứu); VCTE < 8 kPa (nguy cơ thấp hơn); sụt cân nhanh, đau hạ sườn phải (nghĩ HCC). (d) Ông còn giấu gì? Ngực sưng đau, nỗi sợ ung thư, chuyện chưa nói với con."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: chuyển khoa tiêu hóa – gan mật bệnh viện tỉnh theo hẹn để đo độ đàn hồi gan (EASL-EASD-EASO 2024, Hình 2; AASLD 2023, chú thích Hình 2), không cấp cứu, không nhập viện (chưa mất bù). Giấy giới thiệu ghi FIB-4 hôm nay và hai năm trước. Thời hạn hẹn không có trong tài liệu đã tải.",
+     "Bỏ hẳn rượu (EASL-EASD-EASO 2024, phụ lục: xơ hóa tiến triển hoặc xơ gan bỏ hoàn toàn, vĩnh viễn). Lối sống: giảm khoảng 5% cân nặng từ từ, ưu tiên giữ cơ (EASL-EASD-EASO 2024: ≥ 5% giảm mỡ gan, > 10% cải thiện xơ hóa; xơ gan còn bù kèm béo phì giảm vừa phải, đủ đạm và vận động; ICOPE 2025 mục 7.3.3). Hai cách: mục tiêu cân nặng theo EASL hoặc mục tiêu chức năng cho ≥ 75 tuổi: cả hai đều đúng. Ăn Địa Trung Hải, bỏ nước ngọt, đi bộ và sức cơ nhẹ tăng dần.",
+     "Paracetamol dưới 3 g/ngày theo QĐ 361/2014 (Phụ lục NSAID mục 3.3) hoặc 4 g/ngày theo Phụ lục thuốc giảm đau mục 3.1 và AHA/ACC 2025 (Bảng 11): cả hai đúng; chọn dưới 3 g/ngày, thực tế 1–1,5 g/ngày cho đau lưng.",
+     "Không thuốc đặc hiệu gan hôm nay: semaglutide, resmetirom cần F2–F3 xác định, không áp dụng cho xơ gan (EASL-EASD-EASO 2024, 2026; AASLD 2025); thuốc bổ gan, vitamin E không khuyến cáo (EASL-EASD-EASO 2024; AASLD 2023, Bảng 7). Statin theo nguy cơ tim mạch, dùng được ở xơ gan còn bù (EASL-EASD-EASO 2024, phụ lục); quyết định cho ≥ 75 tuổi không có trong tài liệu đã tải.",
+     "Giám sát HCC mỗi 6 tháng khi đã xơ gan do MASLD (EASL-EASD-EASO 2024, tr.506–507); nội soi tầm soát giãn tĩnh mạch khi LSM > 20 kPa và/hoặc tiểu cầu < 150 G/L (phụ lục). Hai việc do chuyên khoa quyết định sau đàn hồi gan (AASLD 2023, Bảng 7: xơ gan cần giám sát HCC, giãn tĩnh mạch thực quản, theo dõi mất bù).",
+     "Nỗi ngại ngùng và nỗi sợ ung thư: nữ hóa tuyến vú thường gặp khi gan có bệnh (AASLD 2023, Bảng 1); chuyển khám nếu vú một bên, cứng, dính, tiết dịch (tiêu chuẩn phân biệt không có trong tài liệu đã tải). Nói rõ lộ trình để ông không bỏ dở; hỏi ông muốn báo con thế nào.",
+     "Những việc sai: hẹn về lặp FIB-4 sau 6–12 tháng (bỏ qua ngưỡng chuyển khoa: EASL-EASD-EASO 2024, Hình 2); nhập viện khi chưa mất bù (ngoại trú là đủ); NSAID; semaglutide hoặc resmetirom ngay; mắng ông vì rượu (lần sau ông giấu thêm)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg (1 viên) mỗi lần khi đau lưng; tối đa 3 viên/ngày (1,5 g)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Khi cần; thời gian dùng không có trong tài liệu đã tải",
+      "ghi_chu": "QĐ 361/2014 Phụ lục NSAID mục 3.3 (người cao tuổi, bệnh gan: dưới 3 g/ngày, tránh NSAID); Phụ lục thuốc giảm đau mục 3.1 và AHA/ACC 2025 Bảng 11 (4 g/ngày ở người lớn): chọn bên thận trọng."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp, không tự ngưng",
+      "ghi_chu": "Giữ nguyên hôm nay: HA 136/78 mmHg, men gan trong giới hạn; độc tính gan của amlodipin không có trong tài liệu đã tải. Phù mắt cá nhẹ do chẹn kênh canxi (ESH 2023 mục 11.10.2)."
+     },
+     {
+      "thuoc": "Thuốc đặc hiệu gan (silymarin, vitamin E, semaglutide, resmetirom)",
+      "ham_luong": "Không kê",
+      "lieu": "Không dùng",
+      "duong": "Không",
+      "thoi_diem": "Không",
+      "so_ngay": "Không",
+      "ghi_chu": "Thuốc đích MASH cho F2–F3, không xơ gan (EASL-EASD-EASO 2024, 2026; AASLD 2025); nutraceutical không khuyến cáo (EASL-EASD-EASO 2024); vitamin E chỉ cân nhắc chọn lọc (AASLD 2023 Bảng 7). Chuyên khoa quyết định sau đàn hồi gan."
+     }
+    ],
+    "dan_do": [
+     "Gan ông nhiễm mỡ đã lâu, kết quả hôm nay cho thấy gan tổn thương nhiều hơn hai năm trước; chưa phải ung thư. Cần lên bệnh viện tỉnh đo độ cứng gan (EASL-EASD-EASO 2024, Hình 2).",
+     "Cầm giấy giới thiệu, tờ kết quả hôm nay và tờ cũ hai năm trước; đi trong vài tuần, đừng để lâu như lần trước (thời hạn cụ thể không có trong tài liệu đã tải).",
+     "Bỏ hẳn rượu, kể cả vài chén; bác sĩ không mắng, giữ kín nếu ông muốn (EASL-EASD-EASO 2024).",
+     "Ngực sưng đau là chuyện thường gặp khi gan có bệnh, không phải ung thư; mặc áo rộng cho đỡ cọ.",
+     "Đau lưng: paracetamol 1 viên 500 mg mỗi lần, tối đa 3 viên mỗi ngày; không mua thuốc kháng viêm, thuốc nam, thuốc bổ gan khi chưa hỏi bác sĩ (QĐ 361/2014).",
+     "Ăn: bỏ nước ngọt có ga, bớt chiên xào và cơm, thêm rau cá, đủ đạm; không nhịn ăn (EASL-EASD-EASO 2024; AASLD 2025, Bảng 3). Đi bộ mỗi ngày, tăng dần; thêm bài ngồi–đứng.",
+     "Vẫn uống amlodipin mỗi sáng, đừng tự ngưng.",
+     "Đến ngay trạm y tế hoặc bệnh viện nếu vàng da, tiểu sẫm, phân đen, nôn ra máu, bụng to nhanh, phù chân nhiều, lú lẫn hoặc ngủ gà (cảnh báo chung; danh sách đầy đủ không có trong tài liệu đã tải). Quay lại sớm nếu sụt cân nhanh, đau hạ sườn phải.",
+     "Tái khám ở đây sau 4–6 tuần hoặc khi có kết quả tuyến trên (mốc do người soạn, không có trong tài liệu đã tải), mang mọi chai thuốc. Nếu ông muốn, bác sĩ nói giúp với con."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai tuần sau, ông kể với chị Hoa (con gái) khi bác sĩ nói giúp, và chị chở ông lên bệnh viện tỉnh. Độ đàn hồi gan 21,6 kPa, CAP 296 dB/m; siêu âm gan thô, lách 12,8 cm, không cổ trướng, không khối; AFP 5 ng/mL; nội soi giãn tĩnh mạch thực quản độ nhỏ, chưa có dấu đỏ. Chuyên khoa kết luận bệnh gan mạn còn bù tiến triển, nhiều khả năng xơ gan do MASLD, hẹn giám sát HCC mỗi 6 tháng. Ông bỏ rượu, bỏ nước ngọt, đi bộ mỗi sáng; sau 6 tháng giảm 3 kg, ngực bớt đau, không mất bù. Các số đo trong kết cục là tình tiết của ca, không từ tài liệu. Đây là ca 'biến chứng do bỏ sót': hai năm trước FIB-4 2,12 (trên ngưỡng 2,0 của > 65 tuổi) mà không ai tính, chỉ dặn bớt mỡ, cho thuốc bổ gan, không hẹn; bệnh âm thầm tiến tới xơ hóa nặng. Điểm gãy: dừng ở nhãn 'gan nhiễm mỡ lành tính' vì men gan trong giới hạn (AASLD 2023, Bảng 7), không phân tầng bằng FIB-4 (EASL-EASD-EASO 2024, Hình 2), không hẹn theo dõi; hôm nay vẫn có thể bỏ sót nếu chỉ nghe 'mệt, đầy bụng' mà không khám vú, không hỏi nỗi lo, không tính FIB-4.",
+ "nhieu": [
+  "Ông kể lộn xộn (bà nhà đau gối, nồi cơm điện hư, giá heo) và nhảy mốc thời gian: hỏi từng ý ngắn, có mốc, tóm tắt lại; cắt ngang thô bạo thì ông im.",
+  "Amlodipin và phù mắt cá nhẹ: ông tưởng thuốc huyết áp 'hại gan hại thận' định tự ngưng. Men gan trong giới hạn, phù nhẹ do chẹn kênh canxi (ESH 2023 mục 11.10.2); độc tính gan của amlodipin không có trong tài liệu đã tải.",
+  "Men gan trong giới hạn, ông 'khỏe': dễ kết luận mỡ gan lành tính; thực ra men gan thường bình thường ở xơ hóa nặng (AASLD 2023, Bảng 7)."
+ ],
+ "bai_hoc_bien": [
+  "Kể lể lộn xộn và ngại ngùng: hỏi từng câu ngắn, tóm tắt lại; sau đó hỏi mở cửa 'có chỗ nào ông ngại nói', 'điều gì làm ông lo nhất'. Ngực to đau, hết ham muốn là manh mối bệnh gan tiến triển (AASLD 2023, Bảng 1); gỡ được nỗi sợ ung thư thì ông mới chịu đi chuyên khoa.",
+  "Người ≥ 75 tuổi: mệt, ăn kém, đầy bụng bị coi là 'già'. Không có ngưỡng FIB-4 riêng cho ≥ 75 tuổi; FIB-4 tăng theo tuổi nên dương tính giả nhiều (EASL-EASD-EASO 2024, tr.502), nhưng vượt cả ngưỡng cao thì phải chuyển.",
+  "Ca an toàn người bệnh: hai năm trước đã đủ dữ liệu tính FIB-4 (2,12); không tính, không hẹn, thuốc bổ gan thay cho phân tầng. Mọi người nhiễm mỡ gan kèm chuyển hóa cần FIB-4 và lịch lặp lại (AASLD 2023, Bảng 7; EASL-EASD-EASO 2024, Hình 2)."
+ ],
+ "diem_nho": [
+  "MASLD: nhiễm mỡ gan (hình ảnh hoặc sinh thiết) + ≥ 1 tiêu chí chuyển hóa + không nguyên nhân khác; rượu dưới 30 g/ngày nam, dưới 20 g/ngày nữ (EASL-EASD-EASO 2024, Hình 1, Bảng 3).",
+  "FIB-4 = tuổi × AST / (tiểu cầu × √ALT): < 1,3 thấp (> 65 tuổi dùng 2,0), 1,3–2,67 trung gian, > 2,67 cao: chuyển chuyên khoa gan; VCTE < 8 kPa loại trừ F3, ≥ 12 kPa gợi ý (EASL-EASD-EASO 2024, Hình 2, Bảng 6; AASLD 2023, Bảng 7).",
+  "Men gan bình thường không loại trừ xơ hóa nặng; ALT > 30 U/L nên coi là bất thường (AASLD 2023, Bảng 7, pearls). FIB-4 bỏ sót khoảng 10% xơ hóa tiến triển: lặp 1–3 năm (EASL-EASD-EASO 2024, tr.502), 1–2 năm nếu tiền đái tháo đường (AASLD 2023).",
+  "Dấu bệnh gan tiến triển khi khám: gan chắc, lách to, tuần hoàn bàng hệ, cổ trướng, nữ hóa tuyến vú, sao mạch, ban đỏ lòng bàn tay (AASLD 2023, Bảng 1)."
+ ],
+ "nguon": [
+  "EASL-EASD-EASO 2024, MASLD (J Hepatol 81:492–542) – TL-0204 – Hình 1, 2; Bảng 3, 5, 6, 7, 8; tr.498 (rượu); tr.501–502 (FIB-4); tr.506–508 (HCC); phụ lục khuyến cáo tr.525–529 (rượu, giảm cân, nutraceuticals, thuốc, statin, giãn tĩnh mạch)",
+  "AASLD 2023, NAFLD (Hepatology 77:1797–1835) – TL-0207 – Bảng 1; Hình 2 và chú thích (FIB-4 > 2,0 cho > 65 tuổi; chuyển thẳng khi > 2,67); mục Association between disease stage and adverse outcomes; Bảng 7 (key concepts, pearls)",
+  "AASLD 2025, semaglutide cho MASH (Hepatology 2026;83:1326) – TL-0201 – Bảng 3; EASL-EASD-EASO 2026 – TL-0188; MAESTRO-NASH (NEJM 2024) – TL-0237 (tuổi nền 56,6 ± 10,9); ESSENCE (NEJM 2025) – TL-0236 (tuổi nền 56,0 ± 11,6)",
+  "ACG 2024, bệnh gan do rượu – TL-0202 – Bảng 5; ACG 2017, men gan bất thường (kho cũ) – Bảng 1 khuyến cáo 2, 3, 11, 16; BSG 2018 (kho cũ) – khuyến cáo 1; BYT QĐ 1740/2026 – TL-0164 – mục II; USPSTF 2020 – TL-0686",
+  "BYT QĐ 361/2014 – TL-0286 – Phụ lục NSAID mục 3.3, Phụ lục thuốc giảm đau mục 3.1; AHA/ACC 2025 – TL-0297 – Bảng 11; ESH 2023 – TL-0312 – mục 11.10.2 (phù do chẹn kênh canxi), mục 12.4 (spironolacton gây nữ hóa tuyến vú); WHO ICOPE 2025 – TL-0016 – mục 7.3.3; EAU 2026 sức khỏe tình dục và sinh sản – TL-0509 – Bảng 3.1",
+  "Không có trong tài liệu đã tải: ngưỡng FIB-4 và mốc tuổi ngừng tầm soát xơ hóa cho ≥ 75 tuổi; mục tiêu giảm cân cho ≥ 75 tuổi; thời hạn hẹn chuyên khoa gan; mốc tái khám 4–6 tuần; thời gian dùng paracetamol; danh sách đầy đủ dấu mất bù; tiêu chuẩn nhập viện bệnh gan mạn; tiêu chuẩn phân biệt nữ hóa tuyến vú với ung thư vú nam; statin cho ≥ 75 tuổi; độc tính gan của amlodipin; lưu hành semaglutide, resmetirom ở Việt Nam; công thức đổi thể tích rượu (kiến thức phổ thông). Số đo ở phần kết cục là tình tiết của ca."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-18 (bản 1, TH-1090): đã đọc TL-0204, TL-0207, TL-0201, TL-0188, TL-0236/0237, TL-0202, ACG 2017, BSG 2018 (kho cũ), TL-0164, TL-0686, TL-0016 (mục 7.3.3), TL-0509 (Bảng 3.1), TL-0312 (mục 11.10.2); TL-0286, TL-0297 qua mục mâu thuẫn paracetamol. Chỗ thiếu: xem 'Không có trong tài liệu đã tải' ở nguon.",
+  "Đã tra mau_thuan.md: ngưỡng FIB-4 > 65 tuổi (mục 'Từ ca TH-1105'): ghi cả hai, với FIB-4 3,35 cùng dẫn đến chuyển chuyên khoa; paracetamol dưới 3 g so với 4 g/ngày: ghi cả hai, cùng chấm a; silymarin chưa có men gan tăng do thuốc: a (mục 'Từ ca TH-1113'); mục tiêu giảm cân ≥ 75 tuổi (mục 'Từ ca TQ-0088' số 2): ghi cả EASL và ICOPE 2025.",
+  "Ràng buộc 'chỉ có xét nghiệm cơ bản': khoa_cls khóa xquang, sieu_am (CT, nội soi tự theo); coi test nhanh HBsAg/anti-HCV/HIV, bilirubin–albumin–INR, HbA1c là xét nghiệm nền (nêu trong loi_bao); đàn hồi gan không có nên thay bằng FIB-4 (thay_the: liver). Nhiễm mỡ gan dựa vào siêu âm hai năm trước ông mang theo.",
+  "Mức chấm: chuyển chuyên khoa, bỏ rượu, lối sống, paracetamol thận trọng, tái khám, dặn dấu mất bù: c. Siêu âm + AFP + nội soi sớm, silymarin/vitamin E: a. Semaglutide/resmetirom ngay (AASLD 2025: mất khối cơ), NSAID (QĐ 361/2014; ACG 2017), hẹn về lặp FIB-4 sau 6–12 tháng (EASL-EASD-EASO 2024 tr.506–507): w. Không có mục h. Mốc 4–6 tuần, tên nhân vật, 35 km, số đo kết cục là lựa chọn của người soạn. Ảnh da: không dùng (khám da k:0)."
+ ]
+}
