@@ -1,0 +1,603 @@
+{
+ "ma_ca": "CX-0941",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "CX_dau_co_sau_nhiem_virus",
+ "so_cai": {
+  "chuyen_khoa": "Cơ xương khớp - đau",
+  "chan_doan_dich": "Đau cơ sau nhiễm virus",
+  "chan_doan_phai_loai_tru": [
+   "Viêm cơ",
+   "Tiêu cơ vân"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Chủ quán ăn (quán cơm – bún bò, đứng bếp 12–14 giờ/ngày)",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục (đêm vợ chồng gần nhau, sáng hôm sau ớn lạnh, sốt, đau mình mẩy)",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài (tự mua, khoảng 3,5 g/ngày trong 6 ngày)",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân (vợ đang mang thai 22 tuần, con trai 3 tuổi)"
+ },
+ "benh_nhan": {
+  "ten": "Trần Quốc Khánh",
+  "tuoi": 33,
+  "gioi": "Nam",
+  "nghe": "Chủ quán ăn (quán cơm – bún bò)",
+  "can_nang": 72,
+  "chieu_cao": 168,
+  "xung_ho": "Anh Khánh xưng 'em', gọi bác sĩ là 'bác sĩ'. Mẹ là bà Lụa, xưng 'tôi' hoặc 'bác', gọi bác sĩ là 'bác sĩ' hoặc 'cháu'; bác sĩ gọi mẹ là 'bác' và gọi anh là 'anh'.",
+  "tinh_cach": "Anh Khánh hiền, chiều mẹ, ít nói, hay cười trừ 'em không sao', ngại làm phiền. Bà Lụa 61 tuổi, nói nhanh, lo xa, tin 'làm quá sức thì phải bồi bổ, truyền nước', sợ con bệnh nặng, hay chen lời.",
+  "kieu_nhieu": "Thân nhân trả lời thay: mẹ trả lời hầu hết các câu, ngắt lời con và nói thay cả cảm giác ('nó mệt lắm, đi không nổi'), nói ít đi lượng thuốc và bia ('1–2 viên', 'chút ít'), không biết con sợ lây cho vợ và chuyện đêm vợ chồng gần nhau. Chỉ khi bác sĩ mời mẹ ra ngoài một lát hoặc hỏi thẳng anh thì anh tự kể số viên paracetamol thật, số lon bia, nỗi lo và mốc khởi phát.",
+  "nguoi_nha": "Mẹ anh, bà Lụa, 61 tuổi, đi cùng. Mẹ trả lời phần lớn các câu hỏi về diễn tiến, thuốc, rượu bia (nguoi_noi = nguoi_nha). Anh Khánh tự trả lời khi bác sĩ hỏi thẳng cảm giác đau, thuốc đã uống, bia, vợ con, khởi phát (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ anh (bà Lụa)",
+  "ngoai_hinh": {
+   "da": "#c99b73",
+   "toc": "#1c1512",
+   "kieuToc": "ngan",
+   "ao": "#7a8fa6",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d4a27a",
+    "toc": "#b9b9b9",
+    "kieuToc": "bui",
+    "ao": "#8f6f8c",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 3,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đau mình mẩy 6 ngày, nhất là đùi, bắp chân, lưng, dù đã hết sốt",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám tuyến cơ sở chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền gồm CK, men gan, ure – creatinin, điện giải, đường huyết, CRP) và tổng phân tích nước tiểu. Không có X-quang, siêu âm, CT, MRI, nội soi; không làm được NS1 Dengue, test cúm, PCR virus, định lượng paracetamol máu, kháng thể viêm cơ. Bệnh viện đa khoa tỉnh cách 35 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · đau cơ ngày thứ 6 sau sốt",
+   "tiep_don": "Nam 33 tuổi, chủ quán ăn, được mẹ dìu vào khám vì đau mình mẩy 6 ngày, nhất là hai đùi, hai bắp chân và lưng, dù đã hết sốt từ hôm kia. Anh ngồi cúi, nói nhỏ, để mẹ trả lời hầu hết các câu hỏi. Cân nặng 72 kg. Sinh hiệu: mạch 84, HA 118/74, nhiệt 37,3 °C, nhịp thở 18, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Anh ở lại phòng khám 5–6 giờ, truyền NaCl 0,9% và đo mạch, huyết áp 'cho chắc', rồi vẫn cho về. Quán đóng cả ngày, mẹ tưởng bệnh nặng, còn anh thì vẫn chưa được hỏi riêng về thuốc và bia. Truyền dịch tích cực chỉ có lợi trong tiêu cơ vân đã xác định (Chavez 2016; EAST 2021), mà CK 286 U/L chưa gần ngưỡng 1.000 U/L (QĐ 1493/2015 mục 4.1).",
+    "nhap_vien": "Anh nhập bệnh viện huyện 2–3 ngày, truyền dịch, đo CK mỗi ngày và không ai nhắc anh bỏ thuốc cảm trùng paracetamol và bia. Tốn thời gian và chi phí khi không có tiêu chuẩn nhập viện: CK dưới 5 lần giới hạn trên, nước tiểu bình thường, creatinin bình thường (Chavez 2016; ENMC 2025, dòng 452–454). Vợ mang thai ở nhà không có ai dặn đeo khẩu trang hay khi nào đi khám.",
+    "chuyen_tuyen": "Mẹ đòi 'xét nghiệm cho kỹ', anh được chuyển lên bệnh viện tỉnh làm điện cơ, MRI cơ, kháng thể viêm cơ. Những thăm dò này dành cho người yếu cơ gốc chi đối xứng, CK tăng cao, có ban (QĐ 361/2014, Viêm da cơ và viêm đa cơ mục 3.1–3.3; TL-0381 Bảng 2) mà anh không có; mất cả ngày, tốn kém, trong khi việc cần làm là ngừng paracetamol liều cao, bỏ bia và đo lại men gan sau 3 ngày. Xét nghiệm chiều lòng.",
+    "cap_cuu": "Anh được gọi xe cấp cứu vì 'sợ tiêu cơ vân'. Ở bệnh viện, CK 286 U/L vẫn thấp xa 1.000 U/L, nước tiểu bình thường, thận bình thường (QĐ 1493/2015 mục 4.1; Chavez 2016); không dấu đỏ nào (ENMC 2025, dòng 452–454). Cả nhà hoảng, vợ mang thai lo thêm, còn anh vẫn chưa được dặn bỏ thuốc cảm trùng paracetamol; cấp cứu cho nguy cơ gan chỉ cần khi trên 4 g/ngày ở người uống bia hoặc AST, ALT trên 50 IU/L (QĐ 3610/2015 mục 3, tr. 26), anh chưa đạt."
+   },
+   "loi_mo": "Chào bác sĩ. Thằng Khánh nhà tôi đau nhức cả người cả tuần nay, đi đứng nặng nề, uống thuốc hoài mà không hết. Chắc nó làm quá sức. Bác sĩ khám rồi cho nó thuốc bổ, truyền chai nước cho khỏe lại nghe.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "118/74",
+    "nhiet": "37,3",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau mình mẩy 6 ngày, nhất là hai đùi, hai bắp chân và lưng; đi lại, lên cầu thang thấy nặng, ngồi nghỉ thì đỡ. Mẹ thấy con uống thuốc hoài không hết nên bắt đi khám, mẹ nghĩ do 'làm quá sức'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám bề ngoài"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Điều anh sợ nhất là mình đã lây bệnh cho vợ đang mang thai 22 tuần và con trai 3 tuổi; con trai ho nhẹ 2 hôm nay, còn vợ hiện chưa có triệu chứng gì. Anh không dám nói trước mặt mẹ vì bà sẽ hoảng, bắt vợ nghỉ hẳn và trách anh.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: sợ lây bệnh cho người thân",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ mời mẹ ra ngoài một lát hoặc hỏi riêng anh 'điều anh lo nhất là gì', 'ở nhà có ai bị giống anh không'. Trước mặt mẹ chỉ nói 'chắc không sao đâu'."
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Vợ hắt hơi, sổ mũi nhẹ từ trước đó 2 ngày. Sáng hôm sau anh ớn lạnh, sốt 38,8 °C, nhức đầu, rát họng, đau ê ẩm khắp người, rã rời. Sốt 38–39 °C trong 3 ngày, hết sốt từ ngày thứ 4 (hôm kia); từ đó chỉ còn đau mình mẩy. Hôm nay là ngày thứ 6 của bệnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát, diễn tiến sốt, dịch tễ trong nhà"
+    },
+    {
+     "id": "quan_he",
+     "noi_dung": "Đêm trước hôm ớn lạnh hai vợ chồng có gần nhau (lúc đó vợ đang hắt hơi sổ mũi). Anh nghĩ 'bị từ hôm đó' và ngại nói trước mẹ. Chỉ có vợ, không có bạn tình khác; không tiết dịch hay loét ở bộ phận sinh dục, không tiểu buốt.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Yếu tố khởi phát: chỉ là mốc thời gian, không phải nguyên nhân; loại nguy cơ lây truyền qua đường tình dục",
+     "dieu_kien_lo": "Mẹ không biết chuyện này (bà chỉ nói 'chắc do làm quá sức'). Anh chỉ kể khi bác sĩ hỏi riêng về yếu tố khởi phát, quan hệ vợ chồng hoặc nguy cơ lây truyền qua đường tình dục."
+    },
+    {
+     "id": "het_sot",
+     "noi_dung": "Hết sốt 2 ngày nay (hôm nay đo 37,3 °C). Không đau bụng, không nôn, không chảy máu chân răng hay máu mũi, không đi ngoài phân đen, không chóng mặt khi đứng dậy, ăn được cơm, tiểu bình thường, không nổi ban.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hết sốt ngày 4 với đau cơ: rà dấu hiệu cảnh báo sốt xuất huyết Dengue"
+    },
+    {
+     "id": "dau_co",
+     "noi_dung": "Đau ê ẩm, căng nhức hai bên đối xứng: hai đùi, hai bắp chân, hai bên thắt lưng và hai vai. Đau tăng khi đi bộ, leo cầu thang, đứng lâu; đỡ khi nằm nghỉ và khi tắm nước ấm. Cơ không sưng, không nóng đỏ, không có chỗ đau rõ một điểm. Đêm vẫn ngủ được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất đau cơ lan tỏa, đối xứng, không khu trú"
+    },
+    {
+     "id": "yeu_co",
+     "noi_dung": "Đau chứ không yếu: bê nồi nước lèo, leo hai tầng cầu thang (chậm vì đau), ngồi xổm rồi đứng lên được, không rớt dép, không khó nuốt, giọng không khàn, mi mắt không sụp, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không yếu cơ gốc chi, không khó nuốt (loại viêm cơ)"
+    },
+    {
+     "id": "nuoc_tieu",
+     "noi_dung": "Nước tiểu vàng nhạt như thường, đi 5–6 lần/ngày, không sẫm như nước trà hay nước ngọt có ga, không ít đi. Uống nước khoảng 1,5 lít/ngày, ít hơn mọi khi vì bận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không nước tiểu sẫm (loại tiêu cơ vân)"
+    },
+    {
+     "id": "pcm",
+     "noi_dung": "Từ hôm đầu anh uống paracetamol 500 mg, 2 viên mỗi lần, 3 lần/ngày (6 viên, 3 g), kể cả sau khi hết sốt vì còn đau; thêm 1 viên thuốc cảm tổng hợp mua ở tiệm thuốc (hộp ghi có paracetamol 500 mg). Tổng khoảng 3,5 g/ngày trong 6 ngày, không ngày nào quá 4 g; sáng nay vẫn uống 2 viên. Mẹ chỉ biết 'mỗi lần 1–2 viên'.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Paracetamol liều cao kéo dài, kèm thuốc cảm trùng hoạt chất",
+     "dieu_kien_lo": "Mẹ nói 'ít thôi, 1–2 viên'. Chỉ nói số thật khi bác sĩ hỏi tổng số viên mỗi ngày, xem hộp thuốc, hỏi thuốc cảm đi kèm hoặc hỏi riêng anh."
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Uống bia với khách gần như mỗi tối, 3–4 lon; nghỉ 1 tối lúc sốt cao rồi uống lại 2 tối nay (mỗi tối 2 lon) 'cho dễ ngủ'. Không uống rượu mạnh.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Rượu bia cộng với paracetamol liều cao: nguy cơ gan",
+     "dieu_kien_lo": "Mẹ nói 'có uống chút ít'. Chỉ khai số lon khi hỏi cụ thể số lượng và số đêm, hoặc hỏi riêng anh."
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không dùng statin, fibrat, thuốc kháng lao, thuốc an thần; không thuốc bắc hay thuốc tăng cơ, creatine; không dùng ma túy. Khỏe mạnh trước giờ, không bệnh nền, chưa từng đau cơ như vậy, nhà không ai có bệnh cơ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại nguyên nhân thuốc và bệnh cơ nền gây tiêu cơ vân"
+    },
+    {
+     "id": "gang_suc",
+     "noi_dung": "Công việc thường ngày: đứng bếp 12–14 giờ, bê nồi nước lèo khoảng 15 kg vài lần/ngày. Không tập thể thao, không mang vác bất thường trong tuần trước khi ốm, không té ngã, không co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không gắng sức bất thường"
+    },
+    {
+     "id": "da_khop",
+     "noi_dung": "Không ban đỏ hay tím quanh mắt, không nốt ở khớp ngón tay, không sưng khớp, không phát ban sau khi hết sốt, không sốt lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu da – khớp của viêm da cơ"
+    },
+    {
+     "id": "ho_hap",
+     "noi_dung": "Ho khan nhẹ vài hôm đầu, nay gần hết; rát họng đã bớt. Không khó thở, không đau ngực.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Triệu chứng hô hấp của nhiễm virus"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Con trai ho nhẹ 2 hôm nay; mẹ anh khỏe; một nhân viên trong quán nghỉ vì cảm tuần trước. Khu phố có vài ca sốt xuất huyết (loa phường báo). Vợ khám thai đều, chưa tiêm vắc xin cúm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dịch tễ trong nhà và khu phố"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Anh nói 'mai còn mở quán', không ai thay bếp được, và hỏi nghỉ 1–2 ngày có sao không.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Ràng buộc công việc, ảnh hưởng thời gian nghỉ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, dáng đi hơi chậm và cứng. Da niêm hồng, mắt không vàng, không phù, không vã mồ hôi. Cân nặng 72 kg.",
+     "k": 0,
+     "hien": "Dáng ngồi hơi cúi, đứng dậy chậm, nói nhỏ."
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ nhẹ, amidan không to, không mủ. Màng nhĩ và mũi bình thường.",
+     "k": 0,
+     "hien": "Họng hơi đỏ nhẹ."
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch cổ. Tuyến giáp không to. Không dấu màng não.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm. Không đau hạ sườn phải, gan không to dưới bờ sườn, lách không sờ thấy, không cổ trướng.",
+     "k": 1,
+     "hien": "Bụng mềm, không điểm đau."
+    },
+    "co_xuong_khop": {
+     "a": "Ấn đau lan tỏa, mức độ nhẹ–vừa, hai bên đối xứng ở cơ tứ đầu đùi, cơ khoeo, bắp chân và cơ cạnh sống thắt lưng. Các cơ mềm, không căng cứng, không sưng, không nóng đỏ, không điểm đau khu trú, không đau gõ xương hay mỏm gai cột sống. Khớp không sưng, tầm vận động đủ.",
+     "k": 1,
+     "hien": "Các cơ đùi, bắp chân, lưng ấn đau lan tỏa hai bên; không sưng đỏ."
+    },
+    "suc_co": {
+     "a": "Sức cơ 5/5 đối xứng: dạng vai, gập háng, duỗi gối, gập cổ chân. Gập cổ chống lực tốt (không yếu hơn duỗi cổ). Ngồi xổm đứng lên không cần vịn, chậm vì đau. Không dấu ghế đẩu.",
+     "k": 1,
+     "hien": "Ngồi xổm đứng lên được, chậm vì đau."
+    },
+    "than_kinh": {
+     "a": "Phản xạ gân gối, gân gót đều hai bên. Cảm giác nông bình thường. Không dấu thần kinh khu trú.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không ban quanh mi mắt, không sẩn hay ban ở mặt duỗi khớp ngón tay, không chấm xuất huyết, không nổi ban.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Hai bắp chân cùng chu vi, mềm, ấn đau lan tỏa nhẹ như các cơ khác; không phù, không nóng đỏ, không căng chắc, mạch mu chân rõ.",
+     "k": 1,
+     "hien": "Hai chân không phù, bắp chân mềm."
+    },
+    "nuoc_tieu_mau": {
+     "a": "Nước tiểu mẫu mới vàng nhạt, trong, không đục, không đỏ nâu.",
+     "k": 1,
+     "hien": "Vàng nhạt, trong."
+    },
+    "tiet_nieu": {
+     "a": "Không đau góc sườn lưng, không cầu bàng quang.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 4,6 G/L · Neutrophil 52% · Lympho 36% · Hb 146 g/L · Hct 0,43 · TC 176 G/L",
+     "bang": {
+      "wbc": 4.6,
+      "neu_pct": 52.0,
+      "neu": 2.39,
+      "lym_pct": 36.0,
+      "lym": 1.66,
+      "mono_pct": 9.0,
+      "mono": 0.41,
+      "eos_pct": 2.5,
+      "eos": 0.12,
+      "baso_pct": 0.5,
+      "baso": 0.02,
+      "rbc": 4.9,
+      "hgb": 146,
+      "hct": 0.43,
+      "mcv": 88.0,
+      "mch": 29.8,
+      "mchc": 340,
+      "rdw": 13.2,
+      "plt": 176
+     },
+     "n": "Cần làm: đang hết sốt ngày 4, nằm trong giai đoạn nguy hiểm của sốt xuất huyết (ngày 3–7, QĐ 2760/2023 mục II.2). Tiểu cầu 176 G/L (trên 100.000/mm³) và Hct 0,43 không cô đặc máu (mục II.1.2, II.2: nguy hiểm khi Hct tăng trên 20% hoặc tiểu cầu dưới 100.000) nên Dengue không còn phù hợp. Bạch cầu ở mức thấp–bình thường, lympho tương đối cao: phù hợp nhiễm virus."
+    },
+    "ck": {
+     "v": "e",
+     "r": "CK 286 U/L (tham chiếu phòng xét nghiệm: nam 25–190 U/L)",
+     "ab": 1,
+     "n": "Xét nghiệm then chốt. CK tăng nhẹ, khoảng 1,5 lần giới hạn trên, thấp xa ngưỡng chẩn đoán tiêu cơ vân: CK trên 1.000 U/L (gấp 5 lần bình thường; QĐ 1493/2015 mục 3.2, 4.1; Chavez 2016 dòng 136–139, 347–349). Ngưỡng của ENMC 2025 còn cao hơn: CK tăng nhanh trên 5.000 U/L khi không do gắng sức (TL-0052, dòng 436–440); hai nguồn cùng cho kết luận không tiêu cơ vân. CK tăng nhẹ đi kèm đau cơ sau nhiễm virus không đặc hiệu; tiêu chuẩn để gọi là 'đau cơ sau virus' không có trong tài liệu đã tải. Ghi lại để so với lần đo sau."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Tổng phân tích nước tiểu: tỷ trọng 1,020 · pH 6,0 · không protein, glucose, ceton, bilirubin, hồng cầu, bạch cầu, nitrit.",
+     "bang": {
+      "u_sg": 1.02,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Que thử nước tiểu dương tính 'máu' mà ít hồng cầu dưới kính hiển vi gợi myoglobin niệu (Chavez 2016, dòng 350–356); ở đây ERY âm tính, không protein: không có myoglobin niệu. Phản ứng ngược lại với tiêu cơ vân (QĐ 1493/2015 mục 4.1: có hemoglobin hoặc myoglobin trong nước tiểu)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 4,6 mmol/L · Creatinin 78 µmol/L · eGFR 108 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.6,
+      "creat": 78,
+      "egfr": 108
+     },
+     "n": "Thận bình thường: không có tổn thương thận cấp do cơ hay do thiếu dịch (QĐ 1493/2015 mục 3.2 nêu ure, creatinin tăng trong tiêu cơ vân)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 138 · K 4,0 · Cl 101 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 4.0,
+      "cl": 101
+     },
+     "n": "Kali bình thường (tiêu cơ vân có thể tăng kali nhanh, QĐ 1493/2015 mục 3.2). Không bắt buộc nhưng rẻ và loại trừ biến chứng."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 46 · ALT 38 U/L",
+     "ab": 1,
+     "n": "AST tăng rất nhẹ, ALT trong giới hạn, cả hai dưới 50 IU/L. Cơ vân giải phóng AST, ALT nên AST có thể do cơ (QĐ 1493/2015 mục 1, 3.2), đồng thời anh uống paracetamol 3,5 g/ngày cộng bia. QĐ 3610/2015 (Ngộ độc paracetamol, mục 3 'Dùng paracetamol quá liều điều trị nhiều lần', tr. 26): AST hoặc ALT dưới 50 IU/L có tiên lượng tốt; trên 50 IU/L là nguy cơ cao, cần dùng NAC ngay. Anh chưa đạt ngưỡng, nhưng sát ngưỡng nên phải đo lại. Nhiễm độc gan khi trên 1.000 (mục 3.2)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 9 mg/L",
+     "bang": {
+      "crp": 9
+     },
+     "ab": 1,
+     "n": "Tăng nhẹ sau nhiễm virus; không gợi viêm cơ nhiễm khuẩn (tăng CRP rõ, sốt 39–40 °C, một cơ sưng đau: QĐ 361/2014, Viêm cơ nhiễm khuẩn mục 3.1–3.2)."
+    },
+    "glu": {
+     "v": "n",
+     "r": "5,2 mmol/L",
+     "bang": {
+      "glu": 5.2
+     },
+     "n": "Không đổi quyết định."
+    },
+    "paracetamol_mau": {
+     "v": "u",
+     "r": "(Phòng khám không làm được định lượng paracetamol máu.)",
+     "n": "QĐ 3610/2015 mục 3 (tr. 26): người dùng paracetamol quá liều kéo dài cần xét nghiệm nền và dùng ngay NAC trong khi chờ; AST, ALT trên 50 IU/L hoặc paracetamol máu trên 66 µmol/L là nguy cơ cao, cần NAC ngay. Cơ sở không làm được định lượng paracetamol, nhưng anh chưa đạt tiêu chí: 3,5 g/ngày (không quá 4 g), AST 46, ALT 38 (dưới 50), không triệu chứng độc gan. Do đó chỉ ngừng thuốc, bỏ bia, đo lại men gan sau 48–72 giờ (mục 3.2); nếu trên 4 g/ngày hoặc AST, ALT trên 50 thì NAC và chuyển tuyến. Mốc paracetamol máu thấp nhất để đổi xử trí ở người không đạt tiêu chí: không có trong tài liệu đã tải."
+    },
+    "ns1": {
+     "v": "n",
+     "r": "(Phòng khám không làm được NS1, IgM, IgG Dengue.)",
+     "n": "Không cần: tiểu cầu và Hct bình thường, không dấu cảnh báo. NS1 chỉ có giá trị trong 7 ngày đầu, ưu tiên 5 ngày đầu (QĐ 2760/2023 mục III.1.1), ngày 6 là muộn."
+    },
+    "flu": {
+     "v": "n",
+     "r": "(Phòng khám không làm được test nhanh cúm hay PCR virus hô hấp.)",
+     "n": "Không đổi xử trí: đã ngày 6, người bệnh khỏe, không yếu tố nguy cơ nên không dùng kháng virus (QĐ 1840/2025 mục III.2.2). Test nhanh chỉ để sàng lọc ở người có yếu tố nguy cơ (mục II.2.1)."
+    },
+    "ecg": {
+     "v": "n",
+     "r": "Nhịp xoang 84 l/p, không biến đổi ST–T.",
+     "n": "Không cần: kali bình thường, không đau ngực, không loạn nhịp."
+    },
+    "pcr_ho_hap": {
+     "v": "n",
+     "r": "(Phòng khám không làm được RT-PCR virus hô hấp.)",
+     "n": "Xem mục test nhanh cúm: không đổi xử trí."
+    },
+    "ana": {
+     "v": "n",
+     "r": "(Phòng khám không làm được ANA, kháng thể đặc hiệu viêm cơ.)",
+     "n": "Không cần: không yếu cơ, không ban, CK gần bình thường. Các kháng thể kháng Jo-1, Mi-2 chỉ có giá trị khi nghi viêm cơ tự miễn (QĐ 361/2014, Viêm da cơ và viêm đa cơ mục 3.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau cơ sau nhiễm virus (có thể cúm), kèm tăng nhẹ CK, AST, ALT",
+     "ok": 1,
+     "n": "Đau ê ẩm cơ lan tỏa đối xứng, sau đợt ớn lạnh, sốt 3 ngày, đau đầu, rát họng, vợ có triệu chứng hô hấp trước đó (khởi phát đột ngột với sốt, ớn lạnh, đau đầu, đau cơ, mệt mỏi; ủ bệnh 1–4 ngày: QĐ 1840/2025 mục II.1.1); sức cơ 5/5, nước tiểu bình thường, CK 286 U/L (dưới 5 lần giới hạn trên), không tiểu cầu thấp. Tài liệu đã tải không có tiêu chuẩn riêng cho 'đau cơ sau virus': đây là chẩn đoán lâm sàng sau khi loại các bệnh dưới."
+    },
+    {
+     "t": "Nguy cơ tổn thương gan do paracetamol liều cao kéo dài kèm bia",
+     "ok": 1,
+     "n": "3,5 g/ngày × 6 ngày: không vượt 4 g/24 giờ (QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1) nhưng vượt 'không nên quá 3 g/ngày' (QĐ 3610/2015, Ngộ độc paracetamol mục 6); uống bia trong 5 ngày trước và phối hợp nhiều thuốc có paracetamol là yếu tố nguy cơ (mục 2; mục 3 tr. 26). Chưa đạt ngưỡng cần NAC: nguy cơ khi uống trên 4 g/ngày ở người có yếu tố nguy cơ, hoặc AST, ALT trên 50 IU/L (mục 3 tr. 26); anh 3,5 g/ngày, AST 46, ALT 38. Dòng 'uống ít nhất 6 g trong vòng ≥ 48 giờ' cùng mục viết không rõ cộng dồn hay trong 48 giờ, nên ca dựa vào hai tiêu chí rõ ràng trên. Cần đo lại sau 48–72 giờ (mục 3.2)."
+    },
+    {
+     "t": "Viêm cơ (viêm đa cơ, viêm da cơ tự miễn; viêm cơ nhiễm khuẩn)",
+     "n": "Viêm đa cơ đặc trưng bằng yếu cơ gốc chi đối xứng, ghế đẩu dương tính, có thể ban quanh mắt, ban Gottron, CK tăng cao (QĐ 361/2014, Viêm da cơ và viêm đa cơ mục 3.1–3.2); tiêu chuẩn EULAR/ACR 2017 tính điểm cho yếu cơ gốc chi, yếu gập cổ, ban và kháng thể (TL-0381, Bảng 2). Anh đau mà không yếu, gập cổ tốt, không ban, tuổi 33. Viêm cơ nhiễm khuẩn thường ở một cơ, sốt 39–40 °C liên tục (QĐ 361/2014 Viêm cơ nhiễm khuẩn mục 3.1): anh đau lan tỏa, đã hết sốt. Nghĩ lại nếu xuất hiện yếu cơ hoặc CK tăng cao."
+    },
+    {
+     "t": "Tiêu cơ vân",
+     "n": "Bộ ba đau cơ, yếu cơ, nước tiểu sẫm màu trà và CK gấp 5–10 lần giới hạn trên (Chavez 2016, dòng 40–43); xác định khi CK trên 1.000 U/L và có hemoglobin hoặc myoglobin trong nước tiểu (QĐ 1493/2015 mục 4.1). Anh: CK 286 U/L, nước tiểu vàng nhạt, que thử không máu, creatinin và kali bình thường. Nguyên nhân có thể có: nhiễm virus, rượu, nhưng không gắng sức hay dùng statin (Chavez 2016, Bảng 3). Hai nguồn về ngưỡng CK khác nhau (1.000 U/L theo QĐ 1493 và Chavez; trên 5.000 U/L không do gắng sức theo ENMC 2025); ca không gần bất kỳ ngưỡng nào."
+    },
+    {
+     "t": "Sốt xuất huyết Dengue (giai đoạn nguy hiểm hoặc hồi phục)",
+     "n": "Đau cơ gặp ở giai đoạn sốt; hết sốt vào ngày 3–7 là lúc dễ bị cảnh báo (QĐ 2760/2023 mục II.1, II.2). Anh không đau bụng, nôn, chảy máu, li bì, gan không to, tiểu cầu 176 G/L, Hct 0,43 (không cô đặc máu): không phù hợp. Vẫn dặn dấu hiệu quay lại vì NS1 không làm được và mới ngày 6."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích chẩn đoán đau cơ sau nhiễm virus, lành tính: không yếu cơ, CK dưới 5 lần giới hạn trên, nước tiểu bình thường, thận bình thường; kèm lý do ngừng thuốc và bia",
+     "v": "c",
+     "n": "Tiêu chuẩn loại tiêu cơ vân: QĐ 1493/2015 mục 4.1; Chavez 2016 dòng 347–349. Loại viêm cơ tự miễn: QĐ 361/2014 Viêm da cơ mục 3.1; TL-0381 Bảng 2."
+    },
+    {
+     "t": "Ngừng paracetamol liều cao và thuốc cảm tổng hợp; nếu còn đau nhiều chỉ dùng liều thấp ngắn ngày (tối đa 3 viên 500 mg/ngày) hoặc không dùng, chờ men gan đo lại",
+     "v": "c",
+     "n": "Sổ mâu thuẫn (TH-1329, TM-0250): ghi cả hai mức. Tối đa 4 g/24 giờ, chống chỉ định khi đang tăng men gan (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1, tr. 202); dưới 3 g/ngày khi có bệnh gan (Phụ lục NSAID mục 3.3, tr. 199) và 'không nên quá 3 g/ngày' (QĐ 3610/2015 mục 6). Anh đã vượt mức 3 g/ngày (chưa vượt 4 g) và uống bia, AST tăng rất nhẹ: chọn mức thận trọng 1,5 g/ngày; 3 g/ngày chấm a, trên 4 g/ngày chấm w. Cần NAC và chuyển tuyến khi trên 4 g/ngày ở người uống bia hoặc AST, ALT trên 50 IU/L (QĐ 3610/2015 mục 3, tr. 26)."
+    },
+    {
+     "t": "Ngừng bia rượu hoàn toàn đến khi men gan và CK về bình thường",
+     "v": "c",
+     "n": "Nghiện rượu là yếu tố nguy cơ ngộ độc paracetamol ở liều điều trị (QĐ 3610/2015 mục 2); rượu là nguyên nhân tiêu cơ vân mắc phải (Chavez 2016, Bảng 3). Thời gian kiêng cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 ngày: đo lại AST, ALT, CK, creatinin",
+     "v": "c",
+     "n": "AST, ALT đạt đỉnh sau 48–72 giờ (QĐ 3610/2015 mục 3.2). CK đỉnh 3–5 ngày rồi về nền sau 6–10 ngày (Chavez 2016, dòng 344–346); ENMC 2025 CK trở về bình thường trong 1–2 tuần nghỉ ngơi (dòng 443). Lịch hẹn cụ thể là thực hành, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Uống đủ nước (nước lọc, oresol), theo dõi màu nước tiểu; nghỉ ngơi, hoạt động nhẹ dần, chưa đứng bếp liên tục và bê nồi nặng cho tới khi hết đau",
+     "v": "c",
+     "n": "Nước tiểu sẫm màu là dấu hiệu phải nghĩ tới tiêu cơ vân (QĐ 1493/2015 mục 7; Chavez 2016, dòng 322). ENMC 2025 (dòng 443, 467; bối cảnh tiêu cơ vân): chưa trở lại mức vận động bình thường khi CK và đau chưa về nền (≥ 1 tuần). Lượng nước/ngày và thời gian nghỉ cho đau cơ sau virus: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay: nước tiểu sẫm màu trà hoặc ít đi, yếu cơ, một cơ sưng căng đau nhiều, vàng da, đau hạ sườn phải, nôn, sốt lại, đau bụng, chảy máu, li bì",
+     "v": "c",
+     "n": "Chavez 2016 dòng 317–323; ENMC 2025 dòng 452–454 (nước tiểu sẫm, sinh hiệu bất thường là dấu đỏ). Dengue: QĐ 2760/2023 mục II.2.1. Độc gan: QĐ 3610/2015 mục 3.2 (đau hạ sườn phải, vàng da)."
+    },
+    {
+     "t": "Dặn anh đeo khẩu trang, rửa tay, ngủ tách vợ vài ngày; mời vợ đi khám sản sớm nếu sốt, ho, đau họng tăng vì thai phụ là nhóm nguy cơ cúm nặng, không kê kháng virus dự phòng cho vợ đang không triệu chứng",
+     "v": "c",
+     "n": "QĐ 1840/2025 mục I (phụ nữ mang thai là nhóm nguy cơ nặng), mục IV.2 (hạn chế tiếp xúc, khẩu trang, vệ sinh tay); oseltamivir an toàn ở phụ nữ mang thai và dùng càng sớm càng tốt khi cúm nhẹ có yếu tố nguy cơ (mục III.2.1). Dự phòng sau phơi nhiễm trong vòng 2 ngày (QĐ 1840 mục IV.2, bối cảnh nội trú); CDC (TL-0139, dòng 594): thường không khuyến cáo nếu quá 48 giờ từ lần phơi nhiễm đầu: phơi nhiễm đã 6 ngày. Hai nguồn không mâu thuẫn."
+    },
+    {
+     "t": "Chườm ấm, xoa bóp nhẹ, tắm nước ấm để dễ chịu",
+     "v": "a",
+     "n": "Hiệu quả và an toàn của chườm ấm, xoa bóp cho đau cơ sau virus: không có trong tài liệu đã tải; chấp nhận nếu da còn lành."
+    },
+    {
+     "t": "Cho uống paracetamol tối đa 3 g/ngày thay vì 1,5 g/ngày",
+     "v": "a",
+     "n": "Đủ nguồn (QĐ 361/2014 Phụ lục NSAID mục 3.3: dưới 3 g/ngày khi có bệnh gan) nhưng anh uống bia và AST tăng rất nhẹ; xem mục sổ mâu thuẫn paracetamol."
+    },
+    {
+     "t": "Truyền NaCl 0,9% tĩnh mạch tại phòng khám để 'thải độc, bù nước' theo ý mẹ",
+     "v": "w",
+     "n": "Bù dịch tích cực là điều trị tiêu cơ vân đã xác định (Chavez 2016 dòng 395–440; EAST 2021 dòng 53–54, khuyến cáo có điều kiện, bằng chứng rất thấp). Anh không tiêu cơ vân, ăn uống được, thận bình thường; ENMC 2025 (dòng 457–460): CK dưới 15.000 U/L, không bệnh nền thì điều trị tích cực có thể không cần. Chỉ thêm nguy cơ quá tải dịch."
+    },
+    {
+     "t": "Kê thuốc chống viêm không steroid (diclofenac, meloxicam, ibuprofen) vì đau cơ",
+     "v": "w",
+     "n": "Sổ mâu thuẫn (HH-0737): ibuprofen, aspirin khi sốt xuất huyết chưa loại trừ hẳn chấm w; QĐ 2760/2023 mục IV.A.1: không dùng aspirin, analgin, ibuprofen vì có thể gây xuất huyết; mục II.2.1 nêu xuất huyết nặng ở người dùng thuốc chống viêm. Anh còn trong ngày 6, uống ít nước, AST tăng nhẹ. ENMC 2025 (dòng 470, bối cảnh tiêu cơ vân): không khuyến khích NSAID. Chỉ định NSAID trong QĐ 361/2014 không gồm đau cơ sau virus."
+    },
+    {
+     "t": "Kê prednisolon hoặc corticoid tiêm cho đỡ đau",
+     "v": "w",
+     "n": "QĐ 361/2014 Phụ lục glucocorticoid mục 1: chỉ dùng khi chẩn đoán chính xác và thật cần thiết. Không có chẩn đoán viêm cơ tự miễn."
+    },
+    {
+     "t": "Kê kháng sinh hoặc kháng virus (oseltamivir) cho anh",
+     "v": "w",
+     "n": "Không dùng kháng sinh cho cúm nhẹ; kháng virus chỉ cho cúm nhẹ có yếu tố nguy cơ nặng (QĐ 1840/2025 mục III.2.2). Anh khỏe mạnh, ngày 6, đã hết sốt. Viêm cơ nhiễm khuẩn không phù hợp (QĐ 361/2014 mục 3.1)."
+    },
+    {
+     "t": "Tiếp tục paracetamol quá 4 g/ngày (hoặc giữ 3,5 g/ngày cộng thuốc cảm) vì còn đau",
+     "v": "w",
+     "n": "Quá 4 g/24 giờ vượt mức tối đa (QĐ 361/2014 Phụ lục mục 3.1) và là nguy cơ cao ở người uống bia (QĐ 3610/2015 mục 3, tr. 26); giữ 3,5 g/ngày vẫn quá 3 g (mục 6); phối hợp nhiều biệt dược cùng có paracetamol (QĐ 3610/2015 mục 2, 6). Sổ mâu thuẫn (TM-0250): trên 4 g/ngày chấm w."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau cơ lan tỏa đối xứng ngày thứ 6 sau nhiễm virus (nhiều khả năng cúm, vợ có triệu chứng hô hấp trước 2 ngày), đã hết sốt từ ngày 4, không yếu cơ, CK 286 U/L (dưới 5 lần giới hạn trên), nước tiểu bình thường, thận và kali bình thường",
+     "Paracetamol liều cao kéo dài (3,5 g/ngày × 6 ngày, trùng hoạt chất thuốc cảm) kèm bia 2–4 lon/ngày: AST 46, ALT 38 U/L (dưới 50 IU/L), chưa có dấu độc gan",
+     "Đã loại: viêm cơ tự miễn và nhiễm khuẩn, tiêu cơ vân, sốt xuất huyết Dengue (tiểu cầu 176 G/L, Hct 0,43)",
+     "Lý do thật đến khám: sợ lây cho vợ mang thai 22 tuần và con trai 3 tuổi"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: mời mẹ ra ngoài hỏi riêng anh; hỏi mốc khởi phát và sốt, tính chất đau (đối xứng, đau hay yếu), nước tiểu, tổng số thuốc đã uống mỗi ngày (kể cả thuốc cảm), bia rượu, statin và gắng sức, dấu cảnh báo Dengue, nguy cơ cho người nhà. Mẹ nói 'ít thôi' vì không biết số thật.",
+     "Khám: sức cơ 5/5, gập cổ tốt, không ban (loại viêm cơ; TL-0381 Bảng 2; QĐ 361/2014 Viêm da cơ mục 3.1); ấn đau cơ lan tỏa, cơ mềm, không sưng căng (không hội chứng khoang); bụng không đau hạ sườn phải, gan không to (không độc gan nặng, không dấu cảnh báo Dengue, QĐ 2760/2023 mục II.2.1); nước tiểu bằng mắt vàng nhạt.",
+     "Xét nghiệm (cơ sở có CTM, sinh hóa, nước tiểu; ngưỡng theo QĐ 1493/2015 mục 4.1, QĐ 2760/2023 mục II.1.2, QĐ 3610/2015 mục 3): CK 286 U/L; nước tiểu không máu; creatinin, kali bình thường; CTM tiểu cầu 176, Hct 0,43; AST tăng rất nhẹ (do cơ và có thể cả gan), ALT bình thường, cả hai dưới 50 IU/L. Xét nghiệm chuyên sâu (kháng thể viêm cơ, NS1, test cúm, định lượng paracetamol) không có ở cơ sở và không đổi xử trí hôm nay.",
+     "Vì sao đau cơ sau virus: sốt, ớn lạnh, đau cơ khởi phát đột ngột sau tiếp xúc người nhà có triệu chứng hô hấp (QĐ 1840/2025 mục II.1.1); đau không yếu, CK dưới ngưỡng tiêu cơ vân (QĐ 1493/2015 mục 4.1). Tiêu chuẩn riêng cho đau cơ sau virus và thời gian tự hết: không có trong tài liệu đã tải.",
+     "Vì sao 'sau quan hệ tình dục' chỉ là mốc: đêm đó là vợ đang có triệu chứng hô hấp; anh lây từ vợ, không phải do 'hao sức' sau gần nhau; không có bạn tình khác, không triệu chứng sinh dục nên không cần xét nghiệm bệnh lây qua đường tình dục. Mối quan hệ nhân quả giữa quan hệ vợ chồng và đau cơ: không có trong tài liệu đã tải.",
+     "Vì sao không tiêu cơ vân: CK 286 U/L so với ngưỡng trên 1.000 U/L (QĐ 1493/2015 mục 4.1; Chavez 2016) hoặc trên 5.000 U/L (ENMC 2025, dòng 436–440); nước tiểu không máu, không yếu cơ. Hai nguồn khác ngưỡng vì loại bằng chứng và bối cảnh (hồi sức, đồng thuận chuyên gia cho tiêu cơ vân nặng), nhưng cả hai đều dẫn tới cùng kết luận.",
+     "Vì sao paracetamol là vấn đề thật: 3,5 g/ngày vượt mức 'không nên quá 3 g/ngày' (QĐ 3610/2015 mục 6) dù chưa quá 4 g (QĐ 361/2014), lại kèm bia và thuốc cảm trùng hoạt chất (mục 2). Chưa đạt ngưỡng nguy cơ cần NAC: trên 4 g/ngày ở người có yếu tố nguy cơ (uống rượu trong 5 ngày trước), hoặc AST, ALT trên 50 IU/L (mục 3, tr. 26); anh AST 46, ALT 38. Vì sao không chuyển tuyến hay NAC: chưa đạt ngưỡng, không triệu chứng gan; nhưng sát ngưỡng nên ngừng thuốc, bỏ bia, đo lại sau 48–72 giờ (mục 3.2). Hết sốt từ ngày 4 mà vẫn uống 7 viên/ngày vì đau."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn tái khám sau 3 ngày, vì không có tiêu chuẩn nhập viện hay chuyển tuyến: không yếu cơ, nước tiểu bình thường, thận bình thường, CK không gần ngưỡng; dấu đỏ ưu tiên (sinh hiệu bất thường, nước tiểu sẫm hoặc vô niệu, hội chứng khoang) đều không có (ENMC 2025, dòng 452–454).",
+     "Thuốc: ngừng paracetamol liều cao và thuốc cảm; chỉ cho paracetamol 500 mg tối đa 3 viên/ngày (1,5 g) khi đau nhiều, ngắn ngày; chọn mức thận trọng vì AST tăng rất nhẹ, uống bia (sổ mâu thuẫn TH-1329 và TM-0250: ghi cả mức 4 g và 3 g). Không NSAID (Dengue chưa loại hẳn; QĐ 2760/2023), không corticoid, không kháng sinh, không kháng virus.",
+     "Không truyền dịch: dịch tích cực dành cho tiêu cơ vân đã xác định (Chavez 2016; EAST 2021, bằng chứng rất thấp). Anh uống được; chỉ cần uống đủ nước và theo dõi màu nước tiểu.",
+     "Ngừng bia và hoạt động nhẹ dần; không trở lại đứng bếp 14 giờ ngay. Thời gian nghỉ cụ thể không có trong tài liệu đã tải; ENMC 2025 chỉ nêu mốc cho tiêu cơ vân (≥ 1 tuần), nên xem là tham khảo.",
+     "Người nhà: anh đeo khẩu trang, rửa tay, tách vợ vài ngày (QĐ 1840/2025 mục IV.2). Vợ đang mang thai nên là nhóm nguy cơ cúm nặng (mục I); nếu vợ sốt hoặc ho thì đi khám sớm vì kháng virus dùng sớm và an toàn ở thai phụ (mục III.2.1). Chưa kê dự phòng cho vợ vì không triệu chứng và đã quá 48 giờ từ phơi nhiễm (TL-0139, dòng 594).",
+     "Hẹn tái khám sau 3 ngày đo lại AST, ALT, CK, creatinin: men gan đạt đỉnh sau 48–72 giờ (QĐ 3610/2015 mục 3.2); CK về nền sau 6–10 ngày (Chavez 2016). Nếu CK, men gan hay yếu cơ tăng, hoặc đau tái phát, cần tìm nguyên nhân khác (ENMC 2025, dòng 464: tiêu cơ vân tái phát hoặc không rõ nguyên nhân cần đánh giá thêm)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên/lần khi đau nhiều, cách nhau ít nhất 6 giờ, tối đa 3 viên (1,5 g)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, chỉ khi đau",
+      "so_ngay": "Tối đa 3 ngày, đến khi tái khám",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1: 500–1.000 mg/lần, cách 6–8 giờ, tối đa 4 g/24 giờ, chống chỉ định khi đang tăng men gan; Phụ lục NSAID mục 3.3: dưới 3 g/ngày khi có bệnh gan; QĐ 3610/2015 mục 6: không quá 3 g/ngày. Chọn 1,5 g vì AST tăng rất nhẹ và uống bia (phán đoán thận trọng; 3 g chấm a). Ngừng mọi thuốc cảm tổng hợp có paracetamol."
+     },
+     {
+      "thuoc": "Oresol (nước hoặc dung dịch uống bù nước)",
+      "ham_luong": "Gói theo hướng dẫn nhà sản xuất",
+      "lieu": "Uống từng ngụm, xen với nước lọc, uống đủ để nước tiểu vàng nhạt",
+      "duong": "Uống",
+      "thoi_diem": "Trong ngày",
+      "so_ngay": "Đến khi hết đau",
+      "ghi_chu": "Bù dịch bằng đường uống (QĐ 2760/2023 mục IV.A.2, dùng làm tham chiếu). Lượng nước/ngày cho đau cơ sau virus: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Anh không bị 'hao sức sau gần vợ': đau cơ do virus, sẽ dần đỡ. Gần vợ chỉ là mốc thời gian anh nhớ, không phải nguyên nhân. Hiệu quả và thời gian tự hết: không có trong tài liệu đã tải, nên cần theo dõi.",
+     "Chỉ uống paracetamol khi đau nhiều và không quá 3 viên 500 mg/ngày; nếu đã lỡ uống trên 4 g/ngày, hoặc vàng da, đau hạ sườn phải, nôn nhiều thì đến bệnh viện ngay để dùng NAC (QĐ 3610/2015 mục 3, tr. 26); bỏ thuốc cảm tổng hợp; đọc thành phần mọi loại thuốc vì nhiều biệt dược cùng chứa paracetamol (QĐ 3610/2015 mục 6). Không tự mua thuốc chống viêm.",
+     "Không uống bia, rượu cho đến khi xét nghiệm lại bình thường; uống nước đều, theo dõi màu nước tiểu.",
+     "Nghỉ đứng bếp liên tục và bê nồi nặng cho tới khi hết đau; hỏi quán có ai thay ca vài ngày; quay lại sớm hơn hẹn nếu đau tăng khi bắt đầu làm lại.",
+     "Quay lại hoặc đi cấp cứu ngay khi: nước tiểu sẫm như trà hoặc ít đi, yếu chân tay, một chỗ sưng căng đau nhiều, vàng da hay đau hạ sườn phải, nôn nhiều, sốt lại, đau bụng, chảy máu chân răng hay máu mũi, li bì.",
+     "Với vợ: mang khẩu trang, rửa tay, tách giường vài ngày; nếu vợ sốt, ho, đau họng tăng thì đi khám sản hoặc nội ngay (thai phụ nằm trong nhóm nguy cơ cúm nặng)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Khánh về nhà, bỏ thuốc cảm, chỉ dùng paracetamol vài lần trong 2 ngày, tạm kiêng bia. Sau 3 ngày đến tái khám: đau cơ giảm một nửa, CK 190 U/L, AST 38, ALT 36 U/L, nước tiểu bình thường. Vợ anh không sốt. Nhưng quán đông khách nên anh trở lại đứng bếp 14 giờ từ ngày thứ 5, uống bia với khách 'cho đỡ mỏi', và đến ngày thứ 12 đau căng hai bắp chân, lưng tái phát, lại tự uống 6 viên paracetamol mỗi ngày kèm thuốc cảm. Lần này anh quay lại sớm theo dặn: CK 240 U/L, AST 44, ALT 36 U/L (dưới 50 IU/L), không yếu cơ, nước tiểu bình thường; bác sĩ xác định nguyên nhân tái phát là về làm nặng quá sớm, bia và thuốc, không phải chẩn đoán sai. Nếu CK tăng cao hoặc đau tái phát tiếp không rõ lý do thì phải tìm nguyên nhân khác (ENMC 2025, dòng 464).",
+ "nhieu": [
+  "Thân nhân trả lời thay: mẹ nói 'ít thôi, 1–2 viên', 'chút ít bia'; anh nói riêng khoảng 3,5 g paracetamol mỗi ngày và 2–4 lon bia; mẹ cũng không biết nỗi sợ lây cho vợ mang thai và chuyện đêm trước khi bệnh.",
+  "Mốc 'sau quan hệ tình dục': mẹ và anh dễ gán 'hao sức sau gần vợ'; thực ra đêm đó vợ đang có triệu chứng hô hấp, anh bị lây. Không có nguy cơ lây truyền qua đường tình dục để phải xét nghiệm.",
+  "Hết sốt ngày 4 nhưng còn đau cơ: dễ bỏ qua giai đoạn nguy hiểm của sốt xuất huyết (ngày 3–7); phải rà dấu hiệu cảnh báo và xem CTM.",
+  "CK tăng nhẹ và AST, ALT tăng nhẹ: dễ bị gọi là tiêu cơ vân hoặc viêm gan; thật ra dưới xa ngưỡng và tăng AST, ALT có cả nguồn cơ.",
+  "Mẹ đòi 'thuốc bổ, truyền nước': xin xét nghiệm và điều trị chiều lòng, không có chỉ định."
+ ],
+ "bai_hoc_bien": [
+  "Thân nhân trả lời thay: mời người nhà ra ngoài hỏi riêng; hỏi tổng số viên mỗi ngày, xem hộp thuốc, hỏi cả thuốc cảm, bia rượu bằng con số.",
+  "Chỉ có xét nghiệm cơ bản: CK, men gan, creatinin, kali, nước tiểu, CTM đủ để loại tiêu cơ vân, viêm cơ nặng, Dengue; xét nghiệm chuyên sâu không đổi xử trí hôm nay.",
+  "Paracetamol liều cao kéo dài trùng hoạt chất thuốc cảm là một vấn đề thật hơn cả đau cơ; xử trí thuốc là phần quan trọng của lượt khám.",
+  "Mốc khởi phát không phải nguyên nhân: 'sau quan hệ tình dục' chỉ cho biết ngày, hỏi riêng để loại nguy cơ và tìm nguồn lây (vợ).",
+  "Kết cục tái phát: nguyên nhân nền chưa xử lý (làm lại quá sớm, bia, thuốc), không phải chẩn đoán sai; dặn mốc nghỉ và dấu hiệu quay lại."
+ ],
+ "diem_nho": [
+  "Chẩn đoán tiêu cơ vân: CK trên 1.000 U/L (gấp 5 lần bình thường), có hemoglobin hoặc myoglobin trong nước tiểu (QĐ 1493/2015, mục 4.1; Chavez 2016); ENMC 2025: CK tăng nhanh trên 5.000 U/L khi không do gắng sức.",
+  "Viêm cơ tự miễn: yếu cơ gốc chi đối xứng, ban quanh mắt, ban Gottron, CK tăng cao (QĐ 361/2014, Viêm da cơ và viêm đa cơ mục 3.1–3.2; TL-0381 Bảng 2).",
+  "Hết sốt ngày 3–7 là giai đoạn nguy hiểm của Dengue; tiểu cầu dưới 100.000/mm³ hoặc Hct tăng trên 20% là cảnh báo (QĐ 2760/2023, mục II.2).",
+  "Paracetamol: tối đa 4 g/24 giờ, chống chỉ định khi tăng men gan (QĐ 361/2014 Phụ lục mục 3.1); không quá 3 g/ngày, tránh nhiều biệt dược cùng chứa paracetamol (QĐ 3610/2015 mục 6); nguy cơ cao cần NAC khi trên 4 g/ngày ở người uống rượu trong 5 ngày trước hoặc AST, ALT trên 50 IU/L (mục 3, tr. 26); AST, ALT đạt đỉnh sau 48–72 giờ (mục 3.2).",
+  "Cúm: khởi phát đột ngột sốt, ớn lạnh, đau đầu, đau cơ; thai phụ là nhóm nguy cơ nặng; kháng virus cho cúm nhẹ chỉ khi có yếu tố nguy cơ (QĐ 1840/2025, mục I, II.1.1, III.2.2)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 1493/QĐ-BYT 2015, Hướng dẫn chẩn đoán và xử trí hồi sức tích cực – TL-0034 – Hội chứng tiêu cơ vân cấp mục 1, 2.1, 3.1, 3.2, 4.1, 4.2, 7 (dòng 4557–4686).",
+  "Chavez LO, et al. Beyond muscle destruction: a systematic review of rhabdomyolysis for clinical practice. Crit Care 2016 – TL-0386 – dòng 40–43, 136–152, 313, 317–323, 344–356, 395–440.",
+  "276th ENMC International Workshop 2025 – recommendations on rhabdomyolysis. Neuromuscul Disord 2025 – TL-0052 – dòng 436–470.",
+  "EAST 2021, Management of rhabdomyolysis. Am J Surg 2022 – TL-0082 – tóm tắt (dòng 40–54).",
+  "Lundberg IE, et al. EULAR/ACR classification criteria for idiopathic inflammatory myopathies. Ann Rheum Dis 2017 – TL-0381 – Bảng 2.",
+  "Bộ Y tế – QĐ 361/QĐ-BYT 2014, Bệnh cơ xương khớp – TL-0286 – Viêm da cơ và viêm đa cơ mục 1, 3.1–3.3; Viêm cơ, áp xe cơ nhiễm khuẩn mục 3.1–3.2; Phụ lục thuốc giảm đau mục 3.1 (tr. 202); Phụ lục NSAID mục 3.3 (tr. 199); Phụ lục glucocorticoid mục 1.",
+  "Bộ Y tế – QĐ 3610/QĐ-BYT 2015, Hướng dẫn chẩn đoán và xử trí ngộ độc – TL-0035 – Ngộ độc paracetamol mục 2, 3.2, 4.3.2, 6 (tr. 20–28); mục 3 'Dùng paracetamol quá liều điều trị nhiều lần' (tr. 26).",
+  "Bộ Y tế – QĐ 2760/QĐ-BYT 2023, Sốt xuất huyết Dengue – TL-0029 – mục II.1–II.2, III.1.1, IV.A.2.",
+  "Bộ Y tế – QĐ 1840/QĐ-BYT 2025, Hướng dẫn chẩn đoán và điều trị cúm mùa – TL-0122 – mục I, II.1.1, II.2.1, III.2.1–III.2.2, IV.2.",
+  "CDC 2026, Influenza Antiviral Medications: Summary for Clinicians – TL-0139 – mục Chemoprophylaxis (dòng 570–600)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: 18/11/2026. Tài liệu đã đọc: TL-0034 (tiêu cơ vân cấp mục 1–7), TL-0386 (Definition, Diagnosis, Treatment), TL-0052 (Discussion), TL-0082 (tóm tắt), TL-0381 (Bảng 2), TL-0286 (Viêm da cơ/đa cơ; Viêm cơ nhiễm khuẩn; Phụ lục thuốc giảm đau, NSAID, glucocorticoid), TL-0035 (Ngộ độc paracetamol), TL-0029 (mục II), TL-0122 (toàn bài), TL-0139 (Chemoprophylaxis).",
+  "Thiếu tài liệu: không có tiêu chuẩn chẩn đoán và thời gian tự hết của 'đau cơ sau nhiễm virus'; không có thời gian nghỉ trước khi làm việc nặng lại; không có liệu pháp không dùng thuốc (chườm ấm, xoa bóp); không có mốc paracetamol máu thấp hơn để đổi xử trí khi chưa đạt tiêu chí nguy cơ của QĐ 3610 mục 3; dòng 'uống ít nhất 6 g trong vòng ≥ 48 giờ' của mục này viết không rõ; không có giới hạn paracetamol riêng cho người uống bia khi men gan tăng nhẹ ngoài các mục sổ mâu thuẫn; không có lượng nước/ngày.",
+  "Dữ liệu thiết kế: tên nhân vật, giá trị CK, men gan, CTM, kết cục và thời điểm tái khám là tình huống thiết kế; tham chiếu CK (25–190 U/L, nam) là của phòng xét nghiệm giả định. Sổ mâu thuẫn: áp dụng mục 'Ngưỡng CK để chẩn đoán tiêu cơ vân' (CX-0952, ghi cả hai ngưỡng), mục paracetamol cho người uống bia và cho người men gan tăng (TM-0250, TH-1329); không có mâu thuẫn mới."
+ ]
+}
