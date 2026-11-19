@@ -1,0 +1,647 @@
+{
+ "ma_ca": "TH-0798",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới (2026-11-19)",
+ "benh": "TH_ibs_d_sau_nsaid",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Hội chứng ruột kích thích (IBS)",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư đại trực tràng",
+   "Bệnh viêm ruột (IBD)"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Lập trình viên",
+  "yeu_to_khoi_phat": "Sau dùng NSAID",
+  "thuoc_dang_dung": "Thuốc bắc không rõ",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Hoàng Minh Quân",
+  "tuoi": 27,
+  "gioi": "Nam",
+  "nghe": "Lập trình viên (công ty phần mềm, ngồi máy 10–11 giờ mỗi ngày, dự án sắp phát hành)",
+  "can_nang": 66,
+  "chieu_cao": 172,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói gọn, chính xác, quen làm việc bằng dữ liệu; hay tự tra cứu trước khi đi khám và dùng từ chuyên môn (calprotectin, Crohn, nội soi, MRI ruột). Không thô lỗ, không cãi, nhưng nếu thấy bị gạt đi bằng câu 'trẻ thế này làm gì có bệnh nặng' thì im lặng và mất tin. Dễ chấp nhận khi được giải thích có số liệu và mốc rõ ràng.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: anh cầm vài trang in sẵn, cho rằng mình bị bệnh Crohn hoặc viêm loét đại tràng và muốn nội soi, CT hoặc MRI ruột 'để loại trừ cho chắc'. Anh không nói thẳng nỗi sợ; chỉ khi bác sĩ hỏi anh đọc được gì, sợ điều gì và mong điều gì ở buổi khám thì anh mới nói. Anh cũng đúng một phần (thuốc giảm đau có thể làm ruột xấu đi), nên bác sĩ cần ghi nhận phần đúng đó thay vì gạt đi.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#e0b48f",
+   "toc": "#1c1a18",
+   "kieuToc": "ngan",
+   "ao": "#3d4b5c",
+   "aoKieu": "thun",
+   "kinh": true,
+   "nep": 0,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đau bụng, đi ngoài phân lỏng, tái khám theo hẹn; nghi bệnh Crohn do tự tra mạng",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Hoàng Minh Quân, 27 tuổi, lập trình viên. Đến theo giấy hẹn tái khám của một phòng khám tư (giấy ghi 'viêm đại tràng – tái khám sau 2 tuần') vì đau quặn bụng dưới và đi ngoài phân lỏng, nặng lên ba tuần nay. Anh mang theo vài trang tự in từ mạng. Sinh hiệu: mạch 74 l/p, HA 118/72 mmHg, nhiệt độ 36,8 °C, nhịp thở 16 l/p, SpO₂ 99%. Cân nặng 66 kg, cao 172 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Quân 27 tuổi, đau quặn bụng dưới và đi ngoài lỏng nhiều tháng, không máu, không sốt, không sụt cân, huyết động ổn: nhập viện để 'làm cho đủ' là không cần. Anh nằm viện, nghỉ việc đúng lúc dự án gấp, chịu chi phí giường và hàng loạt xét nghiệm, trong khi BSG 2021 khuyến cáo khi các xét nghiệm máu và phân đơn giản bình thường thì hạn chế thêm các thăm dò khác (mục Investigation in primary care). Việc nhập viện còn củng cố niềm tin rằng anh mắc bệnh nặng, làm nỗi lo vốn do tự tra mạng tăng thêm.",
+    "chuyen_tuyen": "Gửi anh Quân đi nội soi đại tràng hoặc chụp CT/MRI ruột ngay không có chỉ định: ACG IBS 2021 khuyến cáo 4 không nội soi đại tràng thường quy ở người IBS dưới 45 tuổi không có dấu báo động (có điều kiện, chứng cứ thấp), và BSG 2021 (mục Investigations in secondary care) nêu hiệu suất nội soi ở IBS rất thấp và người bệnh không thấy yên tâm hơn nhờ kết quả bình thường. Anh phải nhịn ăn, uống thuốc xổ, nghỉ làm một đến hai ngày và chịu nguy cơ của thủ thuật, còn hướng điều trị thật (bỏ thuốc làm nặng, chế độ ăn, theo dõi) bị chậm lại."
+   },
+   "loi_mo": "Chào bác sĩ. Em có giấy hẹn tái khám của phòng khám bên kia. Bụng em đau quặn, đi ngoài lỏng mấy tuần nay, em tra mạng thấy giống bệnh Crohn. Bác sĩ cho em xét nghiệm, nội soi cho chắc.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "118/72",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau quặn bụng dưới và đi ngoài phân lỏng, nặng lên ba tuần nay. Anh đến theo giấy hẹn tái khám của phòng khám tư (ghi 'viêm đại tràng'), mang theo vài trang in từ mạng nói giống bệnh Crohn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "tu_tra",
+     "noi_dung": "Anh tự tra: đau bụng và tiêu chảy kéo dài khớp với 'Crohn'; nói gọn, dùng từ chuyên môn, muốn 'làm đủ để loại trừ'. Không thô lỗ, chỉ muốn có dữ liệu.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu: chẩn đoán tự tra trên mạng"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Đau quặn vùng bụng dưới, rõ ở hố chậu trái, mỗi cơn 15–30 phút, đỡ sau khi đi ngoài; không lan, không đau về đêm. Vào ngày đau anh đi 2–4 lần phân nhão đến lỏng như bùn (Bristol 6), ngày không đau phân thành khuôn bình thường (Bristol 4); chưa bao giờ phân cứng từng viên. Hay sôi bụng, đầy hơi. Không mót rặn, không cảm giác đi chưa hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau liên quan đại tiện, đổi tần số và hình dạng phân; thể tiêu chảy"
+    },
+    {
+     "id": "thoi_gian",
+     "noi_dung": "Thật ra bụng anh không ổn khoảng 8 tháng: ban đầu 2–3 ngày mỗi tuần, tự hết tự tái. Ba tuần nay gần như ngày nào cũng đau và đi ngoài lỏng. Anh quen nên không kể với phòng khám trước.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bụng như vậy từ bao giờ, trước đợt này đã từng bị chưa, hoặc mỗi tuần mấy ngày.",
+     "k": 1,
+     "y": "Thời gian thật (≥ 6 tháng) và tần suất"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Ba tuần trước anh đau lưng và vai gáy do ngồi máy lâu, uống ibuprofen 400 mg ngày 2 lần trong 10 ngày; bụng nặng lên từ đợt đó. Giờ vẫn uống ibuprofen mỗi khi đau lưng, khoảng 3 lần mỗi tuần. Anh không nghĩ thuốc giảm đau liên quan tới bụng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì anh chỉ đưa giấy hẹn và nói gói bột. Chỉ kể ibuprofen khi bác sĩ hỏi cụ thể thuốc giảm đau, thuốc xương khớp, hoặc đau lưng vai gáy uống gì.",
+     "k": 1,
+     "y": "Dùng NSAID (yếu tố làm nặng)"
+    },
+    {
+     "id": "thuoc_bac",
+     "noi_dung": "Phòng khám trước cho 14 gói bột thuốc bắc 'đại tràng', ngày 2 gói, không nhãn, bác sĩ nói là thuốc 'mát ruột'. Anh đã uống 11 ngày, đỡ vài ngày đầu rồi như cũ. Còn 3 gói trong túi. Phòng khám đó chưa làm xét nghiệm nào.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi bác sĩ trước đã cho thuốc gì, có thuốc Đông y, thuốc bột hay thuốc ngoài toa không.",
+     "k": 1,
+     "y": "Thuốc bắc không rõ thành phần"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không thấy máu trong phân, không phân đen, không sụt cân (cân 66 kg, ba tháng trước 66–67 kg), không sốt, không thức giấc vì đi ngoài, không mệt lả. Không loét miệng, không đau khớp, không đỏ mắt, không áp xe hay rò quanh hậu môn. Gia đình không ai bị ung thư đại tràng, Crohn, viêm loét đại tràng hay celiac.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động và biểu hiện ngoài ruột"
+    },
+    {
+     "id": "nhiem_khuan",
+     "noi_dung": "Không đi du lịch hay ra nước ngoài, không ăn đồ nghi ngộ độc trước khi bệnh bắt đầu, không dùng kháng sinh trong năm nay, không ai cùng ăn bị tiêu chảy. Không dùng thuốc ức chế bơm proton, thuốc chống trầm cảm hay statin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nhiễm trùng, thuốc khác"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Uống 3–4 ly cà phê sữa mỗi ngày và một lon nước tăng lực buổi chiều; hay bỏ bữa sáng, ăn muộn, ăn đêm đồ giao tận nơi. Ngủ 5–6 giờ. Gần như không tập thể dục. Thỉnh thoảng uống bia cuối tuần, không hút thuốc. Sữa, gluten không thấy liên quan rõ. Dự án sắp phát hành, bụng đau nặng vào ngày họp; anh lo lắng nhưng không buồn chán, không có ý nghĩ tự hại. Chưa từng mổ bụng, chưa cắt túi mật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn uống, lối sống, căng thẳng"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thật ra nếu không có giấy hẹn và mẹ nhắc, anh đã định tự theo các bài trên mạng, vì phòng khám trước chỉ cho gói bột mà không làm xét nghiệm nào nên anh mất tin. Anh đến vì lịch hẹn, và muốn có kết quả cụ thể để biết có phải bệnh viêm ruột không.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao hôm nay anh đến, anh thấy lần khám trước thế nào, hoặc anh đọc được gì trên mạng và mong gì ở buổi khám này.",
+     "k": 1,
+     "y": "Lý do thật: tái khám theo hẹn, cần dữ liệu"
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng phẳng, hơi chướng nhẹ, mềm. Ấn đau nhẹ ở hố chậu trái và dọc khung đại tràng, không có điểm đau khu trú, không phản ứng thành bụng, không dội. Không sờ thấy khối; gan lách không to.",
+     "k": 1,
+     "hien": "Bụng phẳng, di động theo nhịp thở."
+    },
+    "truc_trang": {
+     "a": "Cơ thắt hậu môn bình thường, không trĩ, không nứt kẽ, không lỗ rò, không khối trong lòng trực tràng. Găng có phân vàng nâu mềm, không máu, không nhầy.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, niêm hồng, không vàng da. Thể trạng bình thường, 66 kg, cao 172 cm (BMI 22,3). Không phù, không hạch.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc miệng hồng, không loét áp-tơ. Kết mạc không đỏ. Tuyến giáp không to, không hạch cổ; không ban đỏ nốt ở cẳng chân.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Co cứng cơ thang và cơ cạnh cột sống thắt lưng hai bên, ấn đau; không đau khớp cùng chậu, không sưng khớp ngoại biên, Lasègue âm tính, không yếu chi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 148 g/L · BC 6,8 G/L · TC 265 G/L · MCV 89 fL",
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 58.0,
+      "neu": 3.94,
+      "lym_pct": 31.0,
+      "lym": 2.11,
+      "mono_pct": 7.0,
+      "mono": 0.48,
+      "eos_pct": 3.5,
+      "eos": 0.24,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 5.0,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 89.0,
+      "mch": 29.6,
+      "mchc": 336,
+      "rdw": 12.8,
+      "plt": 265
+     },
+     "n": "Xét nghiệm tối thiểu lần đầu: công thức máu, CRP, huyết thanh celiac và calprotectin phân nếu < 45 tuổi có tiêu chảy (BSG IBS 2021, Recommendations; ACG IBS 2021 khuyến cáo 1, 2). Không thiếu máu."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 1,2 mg/L (< 5)",
+     "bang": {
+      "crp": 1.2
+     },
+     "n": "ACG IBS 2021 khuyến cáo 2: CRP và calprotectin phân ở người nghi IBS có tiêu chảy, không dấu báo động (mạnh, chứng cứ trung bình)."
+    },
+    "celiac": {
+     "v": "e",
+     "r": "Anti-tTG IgA âm tính; IgA toàn phần bình thường",
+     "n": "ACG IBS 2021 khuyến cáo 1: huyết thanh celiac ở người IBS có tiêu chảy (mạnh, chứng cứ trung bình); bệnh celiac xét nghiệm bằng anti-tTG IgA kèm IgA toàn phần (ACG IBS 2021, phần giải thích khuyến cáo 1)."
+    },
+    "calprotectin": {
+     "v": "e",
+     "r": "Calprotectin phân 38 µg/g (< 50)",
+     "n": "Dưới 45 tuổi có tiêu chảy (BSG IBS 2021, mục Recommendations). BSG ghi < 100 µg/g coi là bình thường, 100–249 là biên giới cần làm lại, ≥ 250 cần chuyển tuyến; calprotectin có thể tăng giả do NSAID, PPI (BSG, mục Investigation in primary care), nên kết quả 38 µg/g khi vẫn đang dùng ibuprofen càng đáng tin."
+    },
+    "fit": {
+     "v": "a",
+     "r": "FIT định lượng dưới 10 µg Hb/g phân (âm tính)",
+     "n": "BSG IBS 2021 (Investigation in primary care): FIT không dùng thường quy ở người nghi IBS; BSG/ACPGBI FIT 2022 khuyến cáo 17 (yếu): có thể dùng để phân tầng người < 50 tuổi có triệu chứng nghi ung thư. Không dấu báo động nên làm hay không đều chấp nhận."
+    },
+    "soi_phan": {
+     "n": "Không cần soi phân hay cấy phân: ACG IBS 2021 khuyến cáo 3 không xét nghiệm tác nhân đường ruột thường quy ở người IBS (có điều kiện, chứng cứ thấp); anh không sốt, không máu, không du lịch, không dùng kháng sinh, không tiêu chảy cấp."
+    },
+    "abdus": {
+     "n": "Không cần: nếu công thức máu, CRP và huyết thanh celiac bình thường thì nên hạn chế thêm các thăm dò khác (BSG IBS 2021, mục Investigation in primary care)."
+    },
+    "ct_bung": {
+     "n": "Không có chỉ định: không dấu báo động, bụng mềm không khối (BSG IBS 2021, Box 1)."
+    },
+    "noi_soi_dt": {
+     "n": "Chưa có chỉ định hôm nay: ACG IBS 2021 khuyến cáo 4 và BSG IBS 2021 (Recommendations) không nội soi đại tràng ở IBS dưới 45 tuổi không dấu báo động. Chỉ định lại nếu có dấu báo động hoặc còn tiêu chảy sau khi ngưng thuốc làm nặng (xem lượt 2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng ruột kích thích thể tiêu chảy (IBS-D), đợt nặng lên sau dùng NSAID; không có dấu báo động",
+     "ok": 1,
+     "n": "Đau bụng ≥ 1 ngày/tuần trong 3 tháng kèm liên quan đại tiện, đổi tần số và hình dạng phân, khởi phát ≥ 6 tháng (ACG IBS 2021, Bảng 1: Rome IV); Bristol 6 vào ngày bất thường, không có phân cứng → thể D (ACG IBS 2021, phần phân nhóm). Máu, CRP, celiac, calprotectin bình thường: chẩn đoán dương tính (ACG KC 5, 6; BSG Recommendations)."
+    },
+    {
+     "t": "Bệnh viêm ruột (Crohn, viêm loét đại tràng)",
+     "n": "Không máu, không sụt cân, không đi ngoài đêm, không biểu hiện ngoài ruột; CRP 1,2 mg/L và calprotectin 38 µg/g; xác suất IBD ở người có triệu chứng IBS và không dấu báo động thấp (ACG IBS 2021 khuyến cáo 2: < 0,5–1,2%). Chẩn đoán viêm loét đại tràng cần nội soi và sinh thiết (ACG UC 2025, Bảng 3, nhận định 3)."
+    },
+    {
+     "t": "Ung thư đại trực tràng",
+     "n": "27 tuổi, không máu trong phân, không sụt cân, Hb 148 g/L, thăm trực tràng bình thường, không tiền sử gia đình; chưa tới tuổi sàng lọc (USPSTF 2021 từ 45 tuổi; Asia-Pacific 2022 từ 50 tuổi), không đủ tiêu chí nghi ung thư (BSG IBS 2021, Box 1)."
+    },
+    {
+     "t": "Bệnh celiac",
+     "n": "Anti-tTG IgA âm tính, IgA toàn phần bình thường (ACG IBS 2021 khuyến cáo 1)."
+    },
+    {
+     "t": "Viêm đại tràng vi thể hoặc tổn thương đại tràng do NSAID",
+     "n": "Anh dùng ibuprofen và tiêu chảy chưa tới 12 tháng là hai yếu tố cảnh báo (BSG IBS 2021, mục Investigations in secondary care). Chưa chỉ định nội soi sinh thiết khi còn đang dùng NSAID; ngưng NSAID rồi theo dõi."
+    },
+    {
+     "t": "Nhiễm trùng ruột hoặc tiêu chảy do thuốc bắc, cà phê",
+     "n": "Không sốt, không máu, không du lịch, kéo dài nhiều tháng (không phải tiêu chảy cấp; ACG IBS 2021 khuyến cáo 3). Thuốc bắc không rõ thành phần và cà phê có thể làm nặng, không giải thích 8 tháng bệnh."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nói rõ chẩn đoán dương tính 'hội chứng ruột kích thích thể tiêu chảy'; ghi nhận phần đúng của anh (thuốc giảm đau có thể làm ruột xấu đi) và giải thích vì sao Crohn, ung thư không phù hợp; không gạt bản in của anh",
+     "v": "c",
+     "n": "Chẩn đoán dương tính dựa trên triệu chứng khi không có dấu báo động và xét nghiệm đơn giản bình thường (BSG IBS 2021 Recommendations: mạnh, chứng cứ trung bình; ACG KC 6). Người bệnh cần sự đồng cảm và thông tin (BSG: mạnh, chứng cứ thấp). IBS không làm tăng nguy cơ ung thư hay tử vong (BSG, mục Communicating a positive diagnosis)."
+    },
+    {
+     "t": "Hỏi để lấy bệnh sử đủ: bụng không ổn từ bao giờ, mỗi tuần mấy ngày, đỡ sau đi ngoài không, hình dạng phân (Bristol), thuốc giảm đau, thuốc bắc; hỏi anh đọc được gì, sợ gì, hôm nay mong gì",
+     "v": "c",
+     "n": "Bệnh sử mô tả triệu chứng và mối liên quan đau với đại tiện, dùng thang Bristol (BSG IBS 2021, mục Clinical history; ACG IBS 2021 phần phân nhóm). Người bệnh thường đến mong tìm bệnh thực thể bị bỏ sót, cần nói rõ nỗi lo (BSG, mục The first consultation in secondary care)."
+    },
+    {
+     "t": "Làm xét nghiệm tối thiểu: công thức máu, CRP, huyết thanh celiac (anti-tTG IgA kèm IgA toàn phần) và calprotectin phân (dưới 45 tuổi có tiêu chảy)",
+     "v": "c",
+     "n": "BSG IBS 2021 Recommendations (mạnh, chứng cứ trung bình); ACG IBS 2021 khuyến cáo 1, 2 (ACG không giới hạn tuổi, BSG chỉ cho người < 45 tuổi: ca này dưới 45 nên cả hai cùng làm; xem sổ mâu thuẫn TH-0837 #3)."
+    },
+    {
+     "t": "Ngưng ibuprofen và mọi thuốc giảm đau chống viêm cùng nhóm; đau lưng, vai gáy dùng paracetamol đúng liều, sửa tư thế ngồi, nghỉ xen kẽ, tập cơ lưng–bụng",
+     "v": "c",
+     "n": "NSAID làm tăng nguy cơ viêm đại tràng vi thể ở người tiêu chảy và có thể làm calprotectin tăng giả (BSG IBS 2021). NSAID có nhiều tác dụng không mong muốn trên tiêu hóa, PPI ít hiệu quả dự phòng đường tiêu hóa dưới (QĐ 361/2014, Phụ lục NSAID). Paracetamol 0,5 g × 4–6 viên/24 giờ chia 3 lần, tối đa 4.000 mg/ngày; phòng tái phát: làm việc đúng tư thế, bơi hàng tuần, tập cơ bụng, cơ lưng (QĐ 361/2014, Hội chứng đau thắt lưng, mục 4.2.1 và mục 5)."
+    },
+    {
+     "t": "Tạm ngưng gói bột thuốc bắc không rõ thành phần; dặn mang gói thuốc theo khi tái khám",
+     "v": "c",
+     "n": "Thành phần không rõ, không có khuyến cáo thuốc thảo dược nào trong ACG/BSG ngoài dầu bạc hà (ACG KC 13); thuốc có thể trộn thành phần khác hay không: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lời khuyên ăn uống bước một và vận động: ăn đều bữa, giảm cà phê, nước tăng lực, rượu bia, đồ chiên cay; tập thể dục đều; ghi nhật ký triệu chứng và phân 2 tuần",
+     "v": "c",
+     "n": "Lời khuyên ăn uống truyền thống là bước một, không cần chuyên viên dinh dưỡng: ăn đều bữa, hạn chế rượu và caffeine, điều chỉnh chất xơ, bớt đồ béo cay (BSG IBS 2021, mục Dietary therapies; mạnh, chứng cứ yếu). Tập thể dục đều đặn cho mọi người IBS (BSG: mạnh, chứng cứ yếu). Nhật ký 2 tuần để phân nhóm (ACG IBS 2021, phần phân nhóm)."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần; dặn quay lại ngay nếu thấy máu trong phân, phân đen, sụt cân, đi ngoài làm thức giấc ban đêm, sốt, mệt lả",
+     "v": "c",
+     "n": "Theo dõi trong vòng 2 tháng để bảo đảm triệu chứng không nặng dần (BSG IBS 2021, mục Investigation in primary care); mốc 4 tuần là lựa chọn của ca, không có trong tài liệu đã tải. Dấu báo động: ACG IBS 2021 (phần giải thích khuyến cáo 4), BSG Box 1."
+    },
+    {
+     "t": "Thuốc triệu chứng tùy chọn: loperamid liều thấp khi cần, vỏ hạt mã đề 3–4 g/ngày tăng dần, dầu bạc hà, thuốc chống co thắt, men vi sinh tối đa 12 tuần",
+     "v": "a",
+     "n": "Loperamid: ACG IBS 2021 (phần eluxadoline) không khuyến cáo đầu tay vì chỉ cải thiện tiêu chảy; BSG IBS 2021 (First line drugs) có thể hiệu quả với tiêu chảy, chỉnh liều cẩn thận (sổ mâu thuẫn TH-0812 #1). Xơ hòa tan 3–4 g/ngày, tránh xơ không tan (BSG IBS 2021: mạnh, chứng cứ trung bình; ACG KC 11). Dầu bạc hà (ACG KC 13). Chống co thắt: ACG KC 12 gợi ý không dùng, BSG yếu cho phép; men vi sinh: ACG KC 14 gợi ý không dùng, BSG thử tối đa 12 tuần (sổ mâu thuẫn TH-0837 #1, #2). Không bên nào nói có hại nên dùng hay không đều chấp nhận."
+    },
+    {
+     "t": "Amitriptylin liều thấp 10 mg buổi tối ngay từ lượt đầu hoặc thử chế độ ăn ít FODMAP có chuyên viên dinh dưỡng",
+     "v": "a",
+     "n": "ACG IBS 2021 khuyến cáo 23 (TCA, mạnh) và 10 (ít FODMAP, có điều kiện); BSG IBS 2021 xếp cả hai vào bước hai, sau lời khuyên bước một. Chưa thử bước một thì chưa cần, nhưng không có hại (sổ mâu thuẫn TH-0830, TH-0836 #1)."
+    },
+    {
+     "t": "Hẹn nội soi đại tràng có sinh thiết nếu sau khi ngưng NSAID và thuốc bắc vẫn còn tiêu chảy",
+     "v": "a",
+     "n": "BSG IBS 2021 (Investigations in secondary care): cân nhắc nội soi loại viêm đại tràng vi thể ở người tiêu chảy có yếu tố nguy cơ như NSAID, tiêu chảy < 12 tháng. Mốc thời gian không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nội soi đại tràng ngay hôm nay hoặc chụp CT/MRI ruột 'để loại trừ chắc chắn'",
+     "v": "w",
+     "n": "ACG IBS 2021 khuyến cáo 4 và BSG IBS 2021: không có vai trò ở IBS dưới 45 tuổi không dấu báo động; người bệnh không thấy yên tâm hơn nhờ nội soi bình thường (BSG). Không dấu báo động theo BSG Box 1."
+    },
+    {
+     "t": "Kê kháng sinh (rifaximin, ciprofloxacin, metronidazol...) hoặc mesalazin, corticoid cho 'viêm đại tràng' theo lời anh đòi",
+     "v": "w",
+     "n": "Rifaximin là thuốc bước hai, không dùng đầu tay (ACG KC 20; BSG IBS 2021; sổ mâu thuẫn TH-0812 #2); kháng sinh thông thường không có chỉ định ở IBS (ACG KC 3). Chưa có chẩn đoán IBD: viêm loét đại tràng cần nội soi kèm sinh thiết (ACG UC 2025, Bảng 3, nhận định 3)."
+    },
+    {
+     "t": "Xét nghiệm IgG dị ứng thức ăn, thử thở hydro, hoặc kiêng gluten cho anh yên tâm",
+     "v": "w",
+     "n": "Chế độ ăn loại trừ theo IgG không khuyến cáo (BSG IBS 2021: mạnh, chứng cứ trung bình); không xét nghiệm dị ứng hay nhạy cảm thức ăn cho mọi người IBS (ACG KC 8); không có vai trò của thử thở hydro ở IBS điển hình (BSG, Recommendations); không kiêng gluten thường quy (BSG: yếu, chứng cứ rất thấp)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng ruột kích thích thể tiêu chảy (IBS-D), đợt nặng lên sau dùng ibuprofen",
+     "Đã loại trừ bằng bệnh sử, khám và xét nghiệm tối thiểu: bệnh viêm ruột, bệnh celiac, thiếu máu, viêm; không có dấu báo động ung thư đại trực tràng",
+     "Yếu tố làm nặng: NSAID, bột thuốc bắc không rõ thành phần, cà phê và nước tăng lực, bỏ bữa, thiếu ngủ, căng thẳng công việc",
+     "Đau lưng, vai gáy cơ học do ngồi lâu",
+     "Nỗi lo bệnh nặng do tự tra mạng, đến khám vì lịch hẹn"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (thời gian thật 8 tháng, liên quan đại tiện, Bristol, thuốc giảm đau, thuốc bắc, dấu báo động, gia đình) → khám bụng và thăm trực tràng → xét nghiệm tối thiểu (BSG IBS 2021) → chẩn đoán dương tính → xử trí.",
+     "Tiêu chuẩn: đau bụng trung bình ≥ 1 ngày/tuần trong 3 tháng gần nhất, kèm ≥ 2 trong 3 yếu tố (liên quan đại tiện, đổi tần số, đổi hình dạng phân), khởi phát ≥ 6 tháng trước (ACG IBS 2021, Bảng 1: Rome IV). Anh đau 2–3 ngày/tuần trong 8 tháng, đỡ sau đi ngoài, đổi tần số và hình dạng: đủ. Rome V: tiêu chuẩn đầy đủ không có trong tài liệu đã tải (TL-0187 là khảo sát dịch tễ Rome V, Gut 2026); mức đau của ca lớn hơn mọi ngưỡng Rome V đã biết. Thể D: > 25% lần đại tiện Bristol 6–7 và < 25% Bristol 1–2, xác định vào những ngày phân bất thường (ACG IBS 2021, phần phân nhóm).",
+     "Chiến lược dương tính: không chẩn đoán loại trừ tràn lan (ACG IBS 2021 khuyến cáo 5, 6; BSG IBS 2021, Recommendations). Dấu báo động theo ACG: đi ngoài ra máu, phân đen, sụt cân không chủ ý, tuổi khởi phát lớn, tiền sử gia đình IBD hay ung thư đại tràng; theo BSG Box 1: ≥ 40 tuổi sụt cân kèm đau bụng, ≥ 50 tuổi chảy máu trực tràng, ≥ 60 tuổi thiếu máu thiếu sắt hay đổi thói quen đại tiện. Anh 27 tuổi, không có dấu nào.",
+     "Loại IBD: xác suất IBD ở người có triệu chứng IBS không dấu báo động rất thấp (ACG IBS 2021 khuyến cáo 2); CRP 1,2 mg/L và calprotectin 38 µg/g (BSG ghi < 100 µg/g là bình thường), không biểu hiện ngoài ruột. Celiac: anti-tTG IgA âm tính (ACG KC 1; tỷ lệ celiac cao nhất ở IBS-D, 5,7%). Loại ung thư: tuổi, không máu, Hb 148 g/L, không khối. Nội soi đại tràng không thường quy dưới 45 tuổi (ACG KC 4; BSG).",
+     "NSAID: làm nặng đợt này và là yếu tố nguy cơ của viêm đại tràng vi thể ở người tiêu chảy (BSG IBS 2021); calprotectin có thể tăng giả do NSAID (BSG). Bệnh nhân đúng khi nghi thuốc giảm đau gây hại cho ruột, nhưng không phải Crohn. IBS là bệnh mạn tính, triệu chứng dao động, khởi phát bởi căng thẳng, bệnh lý xen kẽ, thuốc và việc ăn (BSG, mục Communicating a positive diagnosis).",
+     "Chẩn đoán tự tra mạng: ghi nhận bản in, hỏi nỗi lo và mong đợi, trả lời bằng chính các xét nghiệm anh quan tâm (CRP, calprotectin) thay vì nội soi ngay (BSG IBS 2021: người bệnh thường mong tìm ra bệnh thực thể, cần đồng cảm và thông tin)."
+    ],
+    "phan_tich_xu_tri": [
+     "Giải thích cơ chế rối loạn tương tác ruột–não, tác nhân khởi phát (căng thẳng, ăn, thuốc), nhấn mạnh bệnh mạn tính dao động, cải thiện nhiều là có thể nhưng khó khỏi hẳn (BSG IBS 2021, mục Communicating a positive diagnosis).",
+     "Tại sao không CT, MRI ruột, siêu âm bụng, cấy phân, soi phân, nội soi, thử hơi thở, IgG thức ăn: xét nghiệm máu, CRP, celiac và calprotectin bình thường thì hạn chế thăm dò thêm (BSG, mục Investigation in primary care); ACG KC 3 (không xét nghiệm tác nhân đường ruột thường quy), KC 4 (không nội soi); BSG: không vai trò của thử hơi thở và IgG. Nội soi chỉ khi có dấu báo động hoặc triệu chứng kéo dài dù đã ngưng thuốc làm nặng.",
+     "Ngưng NSAID: paracetamol 0,5 g × 4–6 viên/24 giờ chia 3 lần, tối đa 4.000 mg/ngày (QĐ 361/2014, Hội chứng đau thắt lưng, mục 4.2.1); chống tái phát đau lưng bằng tư thế, bơi, tập cơ bụng lưng (mục 5). Thuốc bắc: ngưng, không có trong tài liệu đã tải.",
+     "Bước một: lời khuyên ăn uống, tập thể dục (BSG IBS 2021: mạnh, chứng cứ yếu), nhật ký triệu chứng. Thuốc triệu chứng chỉ là lựa chọn: loperamid khi cần, xơ hòa tan 3–4 g/ngày tăng dần (BSG IBS 2021: mạnh, chứng cứ trung bình), dầu bạc hà, chống co thắt, men vi sinh tối đa 12 tuần. Khi ACG và BSG khác nhau (chống co thắt, men vi sinh, loperamid) cả hai cách đều chấp nhận: sổ mâu thuẫn TH-0837, TH-0812. Liều loperamid trong IBS không có trong tài liệu đã tải; trần 8 mg/ngày lấy từ tiêu chảy cấp (ACG 2016, TL-0233), chọn bên thận trọng.",
+     "Thuốc bước hai (amitriptylin 10 mg tối; TCA hoặc ít FODMAP) để dành khi bước một không đủ (BSG IBS 2021: bước hai; ACG IBS 2021 khuyến cáo 23, 10). Rifaximin là thuốc bước hai, không dùng đầu tay (ACG IBS 2021 khuyến cáo 20; BSG IBS 2021).",
+     "Hẹn tái khám 4 tuần (BSG IBS 2021 khuyên theo dõi trong 2 tháng; mốc 4 tuần là lựa chọn của ca, không có trong tài liệu đã tải), dặn dấu báo động bằng văn bản."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên mỗi lần, ngày 2–3 lần khi đau lưng hoặc vai gáy (tổng 4–6 viên/24 giờ)",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, cách nhau ít nhất 6 giờ",
+      "so_ngay": "Khi cần, tối đa 4.000 mg/24 giờ",
+      "ghi_chu": "Thay ibuprofen. QĐ 361/2014, Hội chứng đau thắt lưng, mục 4.2.1 (liều, tối đa 4.000 mg/ngày)."
+     },
+     {
+      "thuoc": "Loperamid (tùy chọn)",
+      "ham_luong": "2 mg",
+      "lieu": "1 viên khi cần vào ngày phải di chuyển hoặc họp; tăng từ từ nếu cần, tổng không quá 8 mg/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi có tiêu chảy, không uống đều mỗi ngày",
+      "so_ngay": "Khi cần; ngừng ngay nếu táo bón hoặc đau bụng tăng",
+      "ghi_chu": "BSG IBS 2021 (First line drugs; mạnh, chứng cứ rất thấp); ACG IBS 2021 không khuyến cáo là thuốc đầu tay. Liều trong IBS không có trong tài liệu đã tải, trần 8 mg/ngày theo ACG 2016 tiêu chảy cấp (TL-0233), chọn thận trọng."
+     }
+    ],
+    "dan_do": [
+     "Kết quả máu, CRP, celiac, calprotectin bình thường: hiện không có bằng chứng bệnh viêm ruột hay ung thư; đây là hội chứng ruột kích thích, là bệnh thật, hay tái phát theo đợt (BSG IBS 2021).",
+     "Ngưng ibuprofen và các thuốc giảm đau chống viêm khác; đau lưng, vai gáy dùng paracetamol đúng liều, tối đa 4.000 mg/24 giờ (QĐ 361/2014); đứng dậy đi lại sau mỗi 45–60 phút ngồi máy, tập cơ lưng–bụng, bơi.",
+     "Ngưng gói thuốc bắc; mang gói còn lại khi tái khám.",
+     "Ăn đều ba bữa, ăn sáng, giảm cà phê và nước tăng lực, bớt đồ chiên cay, rượu bia; ngủ đủ; vận động đều (BSG IBS 2021).",
+     "Ghi nhật ký 2 tuần: ngày đau, số lần đi ngoài, hình dạng phân theo thang Bristol, thuốc đã uống, bữa ăn (ACG IBS 2021, phần phân nhóm).",
+     "Quay lại ngay nếu có máu trong phân, phân đen, sụt cân, đi ngoài làm thức giấc ban đêm, sốt, mệt lả (BSG IBS 2021, Box 1).",
+     "Tái khám sau 4 tuần (mốc của ca, không có trong tài liệu đã tải), mang nhật ký và các loại thuốc đang dùng."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần",
+   "tiep_don": "Anh Quân tái khám sau 4 tuần theo hẹn, mang bảng nhật ký tự lập trên máy tính. Anh nói đã ngưng ibuprofen và bột thuốc bắc, bớt cà phê, 'làm đúng hết' mà bụng không đỡ. Kết quả lượt trước: công thức máu, CRP, anti-tTG IgA, calprotectin phân đều bình thường. Sinh hiệu: mạch 78 l/p, HA 120/74 mmHg, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%. Cân nặng 66 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Quân vẫn đau quặn bụng dưới và đi ngoài lỏng 3–5 lần vào ngày đau, nhưng không máu, không sốt, không sụt cân, cân vẫn 66 kg: nhập viện chỉ vì 'bốn tuần không đỡ' là quá tay, không có dấu hiệu nặng nào cần theo dõi nội trú. Anh phải nghỉ việc đúng lúc dự án gấp, tốn chi phí, trong khi điều cần làm là tìm lý do không đỡ (thuốc đang dùng, thói quen) và đặt kế hoạch có mốc (BSG IBS 2021, Management of severe or refractory IBS: xem lại chẩn đoán, điều trị đa ngành, tránh can thiệp không cần thiết).",
+    "chuyen_tuyen": "Chuyển anh Quân đi nội soi đại tràng hoặc chụp CT/MRI ruột ngay hôm nay là sớm: đã có CRP và calprotectin bình thường, không dấu báo động mới, và ACG IBS 2021 khuyến cáo 4 không nội soi thường quy dưới 45 tuổi. BSG 2021 chỉ cân nhắc nội soi sinh thiết khi tiêu chảy còn kéo dài và có yếu tố nguy cơ như NSAID; việc chưa loại hết thuốc làm nặng sẽ làm kết quả khó diễn giải. Anh phải nhịn ăn, uống thuốc xổ, nghỉ làm 1–2 ngày, chịu nguy cơ thủ thuật, và kết quả bình thường cũng không khiến người bệnh IBS yên tâm hơn (BSG, mục Investigations in secondary care)."
+   },
+   "loi_mo": "Bác sĩ, em làm đúng hết những gì bác sĩ dặn mà bụng vẫn y như cũ. Có khi xét nghiệm lần trước bỏ sót gì đó. Em nghĩ phải nội soi thôi.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "120/74",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khong_do",
+     "noi_dung": "Đau quặn bụng dưới khoảng 5 ngày mỗi tuần, ngày đau đi ngoài 3–5 lần phân nhão đến lỏng; ngày không đau phân bình thường. Không thấy đỡ chút nào sau 4 tuần. Anh hơi bực vì 'làm đúng hết'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đỡ sau điều trị bước một"
+    },
+    {
+     "id": "da_lam",
+     "noi_dung": "Đã bỏ hẳn gói bột thuốc bắc, uống 1–2 ly cà phê mỗi ngày (trước 3–4 ly), ăn sáng đều hơn. Chưa tập thể dục vì dự án gấp, vẫn ngủ 5 giờ. Nhật ký: đau 5/7 ngày, phân Bristol 6 vào ngày đau, Bristol 4 ngày không đau, không có phân cứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức tuân thủ và nhật ký (phân nhóm)"
+    },
+    {
+     "id": "nsaid_moi",
+     "noi_dung": "Đau lưng, vai gáy vẫn tái đi tái lại. Anh thấy paracetamol 'không ăn thua' (mỗi lần uống một viên). Anh bỏ ibuprofen nhưng mua viên 'giảm đau xương khớp' diclofenac 50 mg ở hiệu thuốc, nghĩ chỉ ibuprofen mới hại ruột; đã uống khoảng 10 viên trong 4 tuần, mỗi lần một viên khi đau nhiều.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đã ngưng thuốc giảm đau chưa' thì anh trả lời 'ngưng rồi, hết ibuprofen'. Chỉ kể diclofenac khi bác sĩ hỏi cụ thể hiện đang uống thuốc gì cho đau lưng, thuốc xương khớp nào khác, hoặc có thuốc nào thay ibuprofen.",
+     "k": 1,
+     "y": "Vẫn dùng NSAID khác (nguyên nhân không đỡ)"
+    },
+    {
+     "id": "bao_dong_lai",
+     "noi_dung": "Không có máu trong phân, không phân đen, không sụt cân, không thức giấc vì đi ngoài, không sốt, không mệt lả. Không loét miệng, đau khớp, đỏ mắt, rò hậu môn mới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hỏi lại dấu báo động"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không dùng thuốc ức chế bơm proton, thuốc chống trầm cảm, statin; không bệnh tự miễn; không dùng kháng sinh trong thời gian qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc khác và yếu tố nguy cơ viêm đại tràng vi thể"
+    },
+    {
+     "id": "cang_thang_lai",
+     "noi_dung": "Dự án vẫn chạy nước rút, đau bụng nặng vào ngày họp. Lo lắng nhưng không buồn chán, không ý nghĩ tự hại.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Căng thẳng"
+    },
+    {
+     "id": "mong_doi",
+     "noi_dung": "Anh tin xét nghiệm lần trước có thể bỏ sót và muốn nội soi. Nếu bác sĩ giải thích rõ lý do và hẹn mốc cụ thể (sau khi ngưng hẳn thuốc giảm đau), anh đồng ý chờ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao anh nghĩ cần nội soi, hoặc anh mong điều gì hôm nay.",
+     "k": 1,
+     "y": "Kỳ vọng nội soi, sẵn lòng chờ nếu có mốc"
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng phẳng, mềm, ấn đau nhẹ dọc khung đại tràng và hố chậu trái, không phản ứng thành bụng, không khối, gan lách không to.",
+     "k": 1,
+     "hien": "Bụng phẳng, di động theo nhịp thở."
+    },
+    "toan_than": {
+     "a": "Tỉnh, niêm hồng, không vàng da. Cân nặng 66 kg, không đổi so với lượt trước. Không phù, không hạch.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Co cứng cơ cạnh cột sống thắt lưng và cơ thang hai bên, ấn đau; không đau khớp cùng chậu, không sưng khớp ngoại biên, không yếu chi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "n": "Không cần làm lại công thức máu, CRP, celiac (bình thường 4 tuần trước, cân nặng không đổi, không dấu báo động mới): BSG IBS 2021, Investigation in primary care, hạn chế thăm dò thêm khi xét nghiệm đơn giản bình thường; ACG IBS 2021 khuyến cáo 3 không xét nghiệm phân thường quy. Không cần CT bụng hay siêu âm: không dấu báo động (BSG IBS 2021, Box 1)."
+    },
+    "calprotectin": {
+     "n": "Không cần làm lại: 38 µg/g, dưới ngưỡng 100 µg/g (BSG IBS 2021). BSG chỉ yêu cầu làm lại khi kết quả biên giới 100–249 µg/g."
+    },
+    "noi_soi_dt": {
+     "n": "Chưa có chỉ định hôm nay: không dấu báo động (ACG IBS 2021 khuyến cáo 4). Chỉ định hẹn sau khi ngưng hẳn NSAID mà còn tiêu chảy (BSG IBS 2021, Investigations in secondary care)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng ruột kích thích thể tiêu chảy chưa đáp ứng bước một, vì còn dùng NSAID (diclofenac) và các yếu tố khởi phát chưa kiểm soát",
+     "ok": 1,
+     "n": "Triệu chứng không đổi, không dấu báo động mới, xét nghiệm lượt trước bình thường, Bristol 6 vào ngày bất thường (ACG IBS 2021, Bảng 1 và phần phân nhóm). Bước một bị nhiễu: vẫn dùng NSAID, ngủ 5 giờ, chưa vận động. BSG: triệu chứng nặng hoặc không đỡ cần xem lại chẩn đoán và yếu tố làm nặng (Management of severe or refractory IBS)."
+    },
+    {
+     "t": "Viêm đại tràng vi thể hoặc tổn thương đại tràng do NSAID",
+     "n": "NSAID, tiêu chảy dưới 12 tháng là yếu tố nguy cơ (BSG IBS 2021); chưa thể kết luận khi chưa ngưng hẳn NSAID. Nếu còn tiêu chảy sau khi ngưng hẳn: nội soi đại tràng có sinh thiết."
+    },
+    {
+     "t": "Bệnh viêm ruột (Crohn, viêm loét đại tràng)",
+     "n": "CRP, calprotectin bình thường 4 tuần trước; không máu, không đi ngoài đêm, không sụt cân, không biểu hiện ngoài ruột (ACG IBS 2021 khuyến cáo 2; ACG UC 2025, Bảng 3)."
+    },
+    {
+     "t": "Ung thư đại trực tràng",
+     "n": "27 tuổi, không dấu báo động (BSG IBS 2021, Box 1); chưa tới tuổi sàng lọc (USPSTF 2021; Asia-Pacific 2022)."
+    },
+    {
+     "t": "Bệnh celiac",
+     "n": "Anti-tTG IgA âm tính (ACG IBS 2021 khuyến cáo 1), không cần làm lại."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi lại có hệ thống vì không đỡ: đã làm gì, thuốc nào đang uống (hỏi cụ thể thuốc giảm đau, thuốc xương khớp, thuốc bắc), dấu báo động, nhật ký, căng thẳng; hỏi vì sao anh muốn nội soi",
+     "v": "c",
+     "n": "BSG IBS 2021, Management of severe or refractory IBS: triệu chứng nặng hoặc không đáp ứng cần xem lại chẩn đoán; hiểu lý do khám và nỗi lo (BSG, mục The first consultation in secondary care); NSAID là thuốc có thể làm nặng (BSG, Investigations in secondary care)."
+    },
+    {
+     "t": "Ngưng hẳn mọi NSAID kể cả diclofenac (giải thích khác tên nhưng cùng nhóm với ibuprofen); đau lưng, vai gáy dùng paracetamol đủ liều đều đặn, sửa tư thế, nghỉ xen kẽ, tập cơ lưng–bụng, bơi",
+     "v": "c",
+     "n": "NSAID làm tăng nguy cơ viêm đại tràng vi thể (BSG IBS 2021) và có nhiều tác dụng không mong muốn trên tiêu hóa (QĐ 361/2014, Phụ lục NSAID). Paracetamol 0,5 g × 4–6 viên/24 giờ chia 3 lần, tối đa 4.000 mg/ngày; phòng tái phát bằng tư thế, bơi, tập cơ (QĐ 361/2014, Hội chứng đau thắt lưng, mục 4.2.1 và 5)."
+    },
+    {
+     "t": "Giải thích vì sao chưa cần nội soi hay CT lúc này, và nêu mốc rõ: còn tiêu chảy sau 4–8 tuần ngưng hẳn NSAID, hoặc xuất hiện dấu báo động thì nội soi có sinh thiết",
+     "v": "c",
+     "n": "ACG IBS 2021 khuyến cáo 4; BSG IBS 2021, Recommendations (không nội soi trừ dấu báo động hoặc IBS-D có yếu tố nguy cơ viêm đại tràng vi thể). Mốc 4–8 tuần là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Củng cố bước một: ăn đều bữa, giảm hẳn cà phê và nước tăng lực, ngủ đủ, tập thể dục đều; tiếp tục nhật ký 2 tuần; nói rõ việc bớt căng thẳng và liệu pháp tâm lý là lựa chọn nếu cần",
+     "v": "c",
+     "n": "BSG IBS 2021: lời khuyên ăn uống và tập thể dục là bước một (mạnh, chứng cứ yếu); liệu pháp tâm lý nên nhắc sớm để không bị xem là biện pháp cuối cùng (BSG, mục Communicating a positive diagnosis; khuyến cáo cân nhắc khi triệu chứng không đỡ sau 12 tháng dùng thuốc, có thể giới thiệu sớm hơn tùy sở thích)."
+    },
+    {
+     "t": "Hẹn tái khám 4–6 tuần; dặn dấu báo động bằng văn bản",
+     "v": "c",
+     "n": "BSG IBS 2021: đánh giá hiệu quả điều trị đã chọn ở 3 tháng, ngưng nếu không đáp ứng; theo dõi trong 2 tháng để bảo đảm không nặng dần. Mốc 4–6 tuần là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bắt đầu bước hai ngay: amitriptylin 10 mg buổi tối, tăng chậm 10 mg mỗi lần, hoặc chế độ ăn ít FODMAP có chuyên viên dinh dưỡng",
+     "v": "a",
+     "n": "ACG IBS 2021 khuyến cáo 23 (TCA, mạnh, chứng cứ trung bình, khởi đầu 10 mg amitriptylin) và 10 (ít FODMAP, có điều kiện); BSG IBS 2021: TCA là thuốc bước hai, khởi đầu 10 mg, tối đa 30–50 mg/ngày, tiếp tục ≥ 6–12 tháng nếu có lợi; ACG Bảng 7: 50–100 mg/ngày (chọn số thận trọng của BSG). Ít FODMAP cần chuyên viên dinh dưỡng (BSG: yếu). Vì còn nhiễu (NSAID chưa ngưng hẳn) nên chờ 4–6 tuần cũng đúng; chọn một, cả hai chấp nhận (sổ mâu thuẫn TH-0836 #1)."
+    },
+    {
+     "t": "Loperamid liều thấp khi cần, vỏ hạt mã đề 3–4 g/ngày, dầu bạc hà, thuốc chống co thắt, men vi sinh tối đa 12 tuần",
+     "v": "a",
+     "n": "BSG IBS 2021 (First line drugs, Dietary therapies) và ACG IBS 2021 khuyến cáo 11–14: các lựa chọn mức yếu hoặc điều kiện; không bên nào nói có hại (sổ mâu thuẫn TH-0837 #1, #2; TH-0812 #1)."
+    },
+    {
+     "t": "Hẹn nội soi đại tràng có sinh thiết nếu sau 4–8 tuần ngưng hẳn NSAID còn tiêu chảy; hoặc giới thiệu chuyên khoa tiêu hóa nếu bệnh nhân yêu cầu",
+     "v": "a",
+     "n": "BSG IBS 2021: nội soi loại trừ viêm đại tràng vi thể ở người tiêu chảy có yếu tố nguy cơ; chuyển chuyên khoa khi chẩn đoán còn nghi ngờ, bệnh nặng hoặc kháng trị với điều trị bước một, hoặc người bệnh yêu cầu (yếu, chứng cứ thấp). Mốc 4–8 tuần không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nội soi đại tràng khẩn hoặc chụp CT/MRI ruột ngay hôm nay vì 'không đỡ sau 4 tuần'",
+     "v": "w",
+     "n": "Không dấu báo động (BSG IBS 2021, Box 1), calprotectin và CRP bình thường, chưa ngưng hẳn NSAID (ACG IBS 2021 khuyến cáo 4; BSG Recommendations)."
+    },
+    {
+     "t": "Cho tiếp diclofenac nhưng kèm omeprazol 'để bảo vệ', hoặc đổi sang celecoxib, etoricoxib",
+     "v": "w",
+     "n": "PPI ít hiệu quả dự phòng tác dụng không mong muốn đường tiêu hóa dưới (QĐ 361/2014, Phụ lục NSAID); NSAID và PPI đều là yếu tố nguy cơ viêm đại tràng vi thể (BSG IBS 2021)."
+    },
+    {
+     "t": "Kê rifaximin, kháng sinh hoặc thuốc điều trị viêm ruột (mesalazin, corticoid) vì không đỡ, hay làm lại hàng loạt xét nghiệm cho chắc",
+     "v": "w",
+     "n": "Rifaximin là thuốc bước hai, hiệu quả khiêm tốn (BSG: yếu; ACG KC 20: mạnh), không dùng thay cho bước một chưa đủ (sổ mâu thuẫn TH-0812 #2). Chưa có chẩn đoán IBD (ACG UC 2025, Bảng 3, nhận định 3: cần nội soi sinh thiết)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng ruột kích thích thể tiêu chảy (IBS-D), chưa đáp ứng bước một",
+     "Nguyên nhân không đỡ: vẫn dùng NSAID (diclofenac thay ibuprofen), ngủ thiếu, căng thẳng, chưa vận động; paracetamol dùng chưa đủ liều",
+     "Không có dấu báo động; chưa có chỉ định nội soi; theo dõi khả năng viêm đại tràng vi thể liên quan NSAID",
+     "Nhu cầu của người bệnh: được tin tưởng, có mốc rõ ràng cho nội soi nếu cần"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: nghe kể và xem nhật ký → hỏi từng bước điều đã làm, hỏi cụ thể thuốc giảm đau → hỏi lại dấu báo động và thuốc nguy cơ → khám bụng, cân nặng → không xét nghiệm lại → chẩn đoán → xử trí. Câu hỏi 'anh còn uống thuốc giảm đau nào' là mấu chốt: anh trả lời 'ngưng rồi' cho ibuprofen nhưng vẫn dùng diclofenac cùng nhóm.",
+     "Quy trình khi không đỡ: chẩn đoán đúng không? (không dấu báo động mới, CRP và calprotectin bình thường, Bristol 6 vào ngày bất thường: vẫn IBS-D); thuốc đúng không? (NSAID vẫn làm nặng ruột, BSG IBS 2021); có tuân thủ không? (bỏ thuốc bắc, bớt cà phê nhưng chưa vận động, ngủ 5 giờ); có biến chứng không? (không).",
+     "Vì sao không nội soi ngay: không dấu báo động, ACG IBS 2021 khuyến cáo 4. Tuy nhiên BSG IBS 2021 cân nhắc nội soi sinh thiết để loại viêm đại tràng vi thể ở người IBS-D có yếu tố nguy cơ (NSAID, tiêu chảy < 12 tháng): làm sau khi ngưng hẳn NSAID mà vẫn tiêu chảy để kết quả có ý nghĩa; mốc 4–8 tuần là lựa chọn của ca, không có trong tài liệu đã tải.",
+     "Đáp lại mong muốn nội soi: ghi nhận nỗi lo, nói rõ nội soi không thường quy và người IBS không yên tâm hơn khi kết quả bình thường (BSG IBS 2021), nêu mốc cụ thể để anh chấp nhận chờ.",
+     "Mâu thuẫn nguồn (đã có mục trong sổ, không quyết lại): chống co thắt, men vi sinh, loperamid, bước hai TCA hoặc ít FODMAP: cả hai cách đều chấp nhận (sổ mâu thuẫn TH-0837, TH-0812, TH-0836)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng hẳn NSAID (cả diclofenac), thay bằng paracetamol đủ liều đều đặn (0,5 g × 4–6 viên/24 giờ chia 3 lần, tối đa 4.000 mg/ngày; QĐ 361/2014, Hội chứng đau thắt lưng, mục 4.2.1) và biện pháp không dùng thuốc cho đau lưng (mục 5).",
+     "Chọn một trong hai hướng, cả hai đều đúng: bước hai ngay (amitriptylin 10 mg tối, tăng 10 mg mỗi lần, tối đa 30–50 mg theo BSG IBS 2021 hoặc 50–100 mg theo ACG IBS 2021 Bảng 7, chọn số thận trọng; hoặc chế độ ít FODMAP có chuyên viên dinh dưỡng, ACG IBS 2021 khuyến cáo 10) hoặc chờ 4–6 tuần sau khi bỏ NSAID rồi mới thêm thuốc (BSG IBS 2021: bước hai sau bước một đủ). Lý do khác: ACG xếp theo hiệu quả, BSG theo trình tự chăm sóc.",
+     "Thuốc khác chỉ là lựa chọn (loperamid khi cần, xơ hòa tan, bạc hà, chống co thắt, men vi sinh tối đa 12 tuần; BSG IBS 2021, ACG IBS 2021 khuyến cáo 11–14).",
+     "Mốc nội soi sinh thiết: còn tiêu chảy sau 4–8 tuần ngưng hẳn NSAID, hoặc xuất hiện dấu báo động bất kỳ lúc nào (BSG Box 1; mốc thời gian không có trong tài liệu đã tải). Giới thiệu chuyên khoa nếu người bệnh mong muốn hoặc triệu chứng nặng, không đáp ứng điều trị bước một (BSG: yếu).",
+     "Đánh giá lại hiệu quả của thuốc ở 3 tháng, ngưng nếu không đáp ứng (BSG IBS 2021)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "2 viên mỗi lần, ngày 2–3 lần, uống đều khi còn đau lưng (tổng 4–6 viên/24 giờ)",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, cách nhau ít nhất 6 giờ",
+      "so_ngay": "Trong đợt đau lưng; tối đa 4.000 mg/24 giờ",
+      "ghi_chu": "Thay diclofenac. QĐ 361/2014, Hội chứng đau thắt lưng, mục 4.2.1 (0,5 g × 4–6 viên/24 giờ chia 3 lần; tối đa 4.000 mg/ngày)."
+     },
+     {
+      "thuoc": "Amitriptylin (tùy chọn nếu anh đồng ý bước hai)",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg mỗi tối, tăng 10 mg mỗi lần theo đáp ứng và dung nạp, tối đa 30–50 mg/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối trước khi ngủ",
+      "so_ngay": "Đánh giá lại ở 3 tháng; nếu có lợi dùng tối thiểu 6–12 tháng",
+      "ghi_chu": "BSG IBS 2021, Second-line (10 mg khởi đầu, tối đa 30–50 mg, ≥ 6–12 tháng); ACG IBS 2021 khuyến cáo 23, Bảng 7 (khởi đầu 10 mg; liều 50–100 mg/ngày, chọn số thận trọng). Tác dụng phụ: khô miệng, táo bón, buồn ngủ, bí tiểu, rối loạn nhịp."
+     }
+    ],
+    "dan_do": [
+     "Ngưng hẳn diclofenac và mọi thuốc 'giảm đau xương khớp' cùng nhóm; mang các vỉ thuốc đang có để kiểm tra; đau lưng dùng paracetamol đủ liều đều đặn, tối đa 4.000 mg/24 giờ (QĐ 361/2014).",
+     "Hôm nay chưa cần nội soi; nếu sau 4–8 tuần ngưng hẳn thuốc giảm đau mà còn tiêu chảy thì hẹn nội soi và sinh thiết (BSG IBS 2021). Quay lại ngay nếu có máu trong phân, phân đen, sụt cân, đi ngoài làm thức giấc ban đêm, sốt, mệt lả.",
+     "Ngủ đủ, ăn đều bữa, giảm cà phê và nước tăng lực, đi lại sau mỗi 45–60 phút ngồi máy, tập thể dục đều (BSG IBS 2021).",
+     "Nếu dùng amitriptylin: uống buổi tối, báo khô miệng, táo bón, chóng mặt; không tự tăng liều; đánh giá lại sau 3 tháng (BSG IBS 2021).",
+     "Tiếp tục nhật ký triệu chứng và phân; tái khám sau 4–6 tuần (mốc của ca, không có trong tài liệu đã tải), mang nhật ký và thuốc đang dùng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Quân chịu ngưng diclofenac sau khi nghe giải thích 'khác tên nhưng cùng nhóm', dùng paracetamol đều và bắt đầu đi bộ sau giờ làm. Sau 5 tuần cơn đau thưa dần, phân thành khuôn hơn; anh không phải nội soi. Hơn ba tháng sau, dự án phát hành, anh thức khuya, uống lại nhiều cà phê, đau lưng nặng nên tự uống thuốc giảm đau chống viêm; bụng đau và đi ngoài lỏng trở lại trong hai tuần. Lần này anh không hoảng và không tự tra mạng nữa: anh ghi nhật ký, ngưng thuốc giảm đau, trở lại bữa ăn đều và hẹn tái khám. Bác sĩ nhắc đây là bệnh mạn tính dao động, tái phát khi căng thẳng, dùng thuốc và thay đổi ăn uống; mục tiêu là kiểm soát đợt và tránh kích hoạt, không phải chữa dứt (BSG IBS 2021, mục Communicating a positive diagnosis).",
+ "nhieu": [
+  "Chẩn đoán tự tra trên mạng: anh Quân mang bản in 'Crohn' và đòi nội soi, MRI ruột. Cách xử lý đúng: ghi nhận phần đúng (thuốc giảm đau có thể hại ruột), hỏi nỗi lo, trả lời bằng CRP và calprotectin thay vì nội soi ngay.",
+  "Gói bột thuốc bắc không rõ thành phần và ibuprofen: hai yếu tố làm nặng bị giấu cho tới khi hỏi cụ thể; ở lượt 2 diclofenac thay ibuprofen vì anh nghĩ 'chỉ ibuprofen mới hại'.",
+  "Giấy hẹn ghi 'viêm đại tràng' của phòng khám trước, không kèm xét nghiệm: không phải chẩn đoán đã xác lập; không chê đồng nghiệp, chỉ dựng lại từ đầu."
+ ],
+ "bai_hoc_bien": [
+  "Chẩn đoán tự tra trên mạng: người bệnh không sai hoàn toàn; trả lời bằng dữ liệu (xét nghiệm tối thiểu) và đồng cảm, không gạt đi vì 'trẻ thế này không thể có bệnh nặng'.",
+  "Sau dùng NSAID: NSAID làm nặng IBS-D và là yếu tố nguy cơ viêm đại tràng vi thể; hỏi cụ thể thuốc giảm đau và hỏi lại ở mọi lần tái khám (kể cả khi bệnh nhân nói 'ngưng rồi').",
+  "Thuốc bắc không rõ: tạm ngưng, mang gói thuốc theo; không có trong tài liệu đã tải về an toàn hay thành phần.",
+  "Tái khám theo hẹn là cơ hội kiểm tra lại dữ kiện: nhật ký, tuân thủ, thuốc đang dùng, dấu báo động, kỳ vọng thật của người bệnh.",
+  "Không đỡ ở lượt 2: chạy quy trình thất bại điều trị (đúng chẩn đoán? đúng thuốc? tuân thủ? biến chứng?) trước khi nghĩ tới kháng trị hay nội soi.",
+  "Tái phát: IBS là bệnh mạn tính dao động; chuẩn bị cho người bệnh kế hoạch tự xử trí đợt tái phát."
+ ],
+ "diem_nho": [
+  "Chẩn đoán dương tính IBS dựa trên Rome IV (ACG IBS 2021, Bảng 1) khi không có dấu báo động; xét nghiệm tối thiểu: công thức máu, CRP, celiac, calprotectin phân nếu < 45 tuổi có tiêu chảy (BSG IBS 2021; ACG KC 1, 2).",
+  "Không nội soi đại tràng thường quy ở IBS < 45 tuổi không dấu báo động (ACG KC 4; BSG); nội soi sinh thiết loại viêm đại tràng vi thể khi còn tiêu chảy và có yếu tố nguy cơ như NSAID (BSG).",
+  "Calprotectin: < 100 µg/g bình thường, 100–249 làm lại sau khi ngưng NSAID, PPI, ≥ 250 chuyển tuyến (BSG IBS 2021, Hình 1).",
+  "Bước một: lời khuyên ăn uống và tập thể dục; bước hai: TCA liều thấp (10 mg amitriptylin) hoặc ít FODMAP có chuyên viên dinh dưỡng (BSG; ACG KC 23, 10).",
+  "Paracetamol thay NSAID cho đau lưng: tối đa 4.000 mg/ngày (QĐ 361/2014, Hội chứng đau thắt lưng, mục 4.2.1).",
+  "Dấu báo động quay lại ngay: máu trong phân, phân đen, sụt cân, đi ngoài đêm, sốt, thiếu máu (BSG IBS 2021, Box 1)."
+ ],
+ "nguon": [
+  "ACG 2021 – Management of Irritable Bowel Syndrome (Am J Gastroenterol 2021;116:17-44) – TL-0218 (bản chữ của TL-0218 là nhãn thuốc Viberzi; dùng bản chữ kho cũ tltk-10000-ca/…/02 Tiêu hóa - gan mật/Quốc tế/ACG 2021) – Bảng 1 (Rome IV), Bảng 2 (khuyến cáo 1–25), Bảng 7 (TCA), phần phân nhóm, phần giải thích khuyến cáo 4, 22, 23",
+  "BSG 2021 – Guidelines on the management of IBS (Gut 2021;70:1214-1240) – TL-0220 – Executive summary, Recommendations, Box 1, Hình 1, mục Investigation in primary care, Investigations in secondary care, Dietary therapies, First line drugs, Second-line, Communicating a positive diagnosis, Management of severe or refractory IBS",
+  "Rome V (Sperber, Gut 2026, khảo sát dịch tễ) – TL-0187: tiêu chuẩn Rome V đầy đủ không có trong tài liệu đã tải",
+  "BSG/ACPGBI 2022 – FIT ở người có triệu chứng nghi ung thư đại trực tràng – TL-0214 – khuyến cáo 17",
+  "ACG 2025 – Ulcerative Colitis in Adults – TL-0195 – Bảng 3, nhận định 1–3",
+  "USPSTF 2021 – Sàng lọc ung thư đại trực tràng – TL-0221; Asia-Pacific 2022 – TL-0217 (tuổi bắt đầu sàng lọc)",
+  "BYT QĐ 361/2014 – bệnh cơ xương khớp – TL-0286 – Hội chứng đau thắt lưng (mục 4.2.1, 5), Phụ lục NSAID",
+  "ACG 2016 – tiêu chảy cấp nhiễm khuẩn ở người lớn – TL-0233 – liều loperamid trần 8 mg/ngày (tiêu chảy cấp)",
+  "Không có trong tài liệu đã tải: liều loperamid cho IBS; mốc thời gian nội soi sau ngưng NSAID (4–8 tuần); mốc tái khám 4 tuần và 4–6 tuần; thuốc bắc không rõ thành phần; vai trò cường giáp trong tiêu chảy; tiêu chuẩn Rome V đầy đủ."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-19: viết mới. Đã đọc: ACG IBS 2021 (Bảng 1, 2, 7, phần phân nhóm, phần calprotectin/celiac), BSG IBS 2021 (Executive summary, Box 1, Hình 1, Investigation in primary care, Investigations in secondary care, Dietary therapies, First line drugs, Second-line), BSG/ACPGBI FIT 2022 (KC 17), ACG UC 2025 (Bảng 3), QĐ 361/2014 (Hội chứng đau thắt lưng mục 4.2.1, 5; Phụ lục NSAID).",
+  "Đối chiếu sổ mâu thuẫn, áp dụng đúng các mục cũ: TH-0837 #1 chống co thắt (a), #2 men vi sinh (a, tối đa 12 tuần), #3 calprotectin < 45 tuổi có tiêu chảy (c), #4 Rome IV/V; TH-0812 #1 loperamid (a), #2 rifaximin đầu tay (w); TH-0836 #1 TCA hoặc ít FODMAP (a); TH-0840 thứ tự ít FODMAP.",
+  "Thiết kế: IBS-D 8 tháng, đợt nặng sau ibuprofen; thuốc bắc không rõ; lượt 1 ve_hen (xét nghiệm tối thiểu, không nội soi); lượt 2 'không đỡ' vì chuyển sang diclofenac cùng nhóm; kết cục tái phát sau hơn 3 tháng. Không cài bẫy cấu trúc, không cờ đỏ.",
+  "Phát hiện kho: TL-0218 bản chữ là nhãn Viberzi (đã có trong sổ mâu thuẫn); dùng bản ACG 2021 của kho cũ. Mốc thời gian nội soi sau ngưng NSAID, mốc tái khám và liều loperamid trong IBS không có trong tài liệu đã tải."
+ ]
+}
