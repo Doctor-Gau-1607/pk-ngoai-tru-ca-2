@@ -1,0 +1,725 @@
+{
+ "ma_ca": "TH-1012",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1",
+ "benh": "TH_viem_gan_b_man",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Viêm gan B mạn",
+  "chan_doan_phai_loai_tru": [
+   "Xơ gan",
+   "Ung thư gan (HCC)"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nông dân (làm ruộng lúa)",
+  "yeu_to_khoi_phat": "Sau bữa ăn hải sản (tiệc đám cưới)",
+  "thuoc_dang_dung": "Không dùng thuốc nào thường xuyên",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư gan như cha"
+ },
+ "benh_nhan": {
+  "ten": "Lê Văn Tuấn",
+  "tuoi": 31,
+  "gioi": "Nam",
+  "nghe": "Nông dân (làm 2 sào ruộng lúa)",
+  "can_nang": 62,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Điềm đạm, nói rõ ràng, trả lời đủ ý, mang theo giấy tờ cũ và làm theo mọi chỉ định. Hay tự trách 'tại mình ăn uống'. Nghe chữ 'ung thư' là lặng đi vì cha mất bệnh này.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: kể đầy đủ, không giấu, không cãi. Chỉ nói thẳng nỗi sợ ung thư khi bác sĩ hỏi anh lo nhất điều gì; chuyện cha mất vì ung thư gan chỉ kể khi được hỏi tiền sử gia đình.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a73",
+   "toc": "#1c1a18",
+   "kieuToc": "ngan",
+   "ao": "#6b7d52",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Mệt, đau tức hạ sườn phải sau bữa tiệc hải sản; lo bị bệnh gan như cha",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Lê Văn Tuấn, 31 tuổi, nông dân, đi khám một mình. Hai tuần nay anh mệt, chán ăn, đau tức vùng hạ sườn phải, bắt đầu sau bữa tiệc hải sản ở đám cưới người quen; anh nghĩ mình bị 'độc hải sản' làm nóng gan. Sinh hiệu: HA 118/72 mmHg, mạch 76 l/p, nhiệt độ 36,9 °C, nhịp thở 16 l/p, SpO₂ 99%. Cân nặng 62 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện cho anh Tuấn là quá tay: anh tỉnh, ăn uống được, không vàng da, bilirubin 20 µmol/L, albumin 44 g/L, INR 1,0, không dấu mất bù. Viêm gan B mạn chưa xơ gan được quản lý và điều trị ngoại trú ở cấp ban đầu, cấp cơ bản (QĐ 1740/2026 mục 4.5); tiêu chuẩn nhập viện cho viêm gan B mạn ổn định không có trong tài liệu đã tải. Anh bỏ dở vụ gặt, mất thu nhập nhiều ngày, và nằm viện càng củng cố nỗi sợ 'bệnh nặng như cha'.",
+    "chuyen_tuyen": "Chuyển anh Tuấn lên tuyến trên ngay hôm nay là không cần: đủ xét nghiệm để chẩn đoán và khởi trị tại chỗ, chưa xơ gan, chưa thấy khối gan, thuốc TDF, TAF, ETV bắt đầu được ở cấp ban đầu, cấp cơ bản; chỉ chuyển cấp chuyên sâu khi xơ gan mất bù hoặc nghi thất bại điều trị (QĐ 1740/2026 mục 4.5). Anh phải làm lại xét nghiệm, chậm khởi trị vài tuần, tốn đi lại, và dễ bỏ giữa chừng.",
+    "theo_doi": "Cho anh về, hẹn xét nghiệm men gan lại sau 3–6 tháng mà chưa dùng thuốc kháng vi rút là bỏ lỡ chỉ định: HBV DNA trên 2.000 IU/mL, ALT gấp 3,9 lần ULN, cha mất vì ung thư gan (QĐ 1740/2026 mục 4.2.3a; EASL 2025 mục Treatment indications). Vi rút tiếp tục nhân lên, ALT tăng liên quan nguy cơ HCC (EASL 2025), mục tiêu ngăn xơ gan và ung thư gan không đạt (QĐ 1740/2026 mục 4.2.1). Nông dân bận mùa gặt dễ không quay lại, nỗi sợ ung thư vẫn không được giải đáp."
+   },
+   "loi_mo": "Chào bác sĩ. Hai tuần nay em mệt, ăn không ngon, hay đau tức bên sườn phải. Em nghĩ do bữa tiệc hải sản hôm đám cưới, chắc hải sản độc nên nóng gan. Bác sĩ xem giùm em.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "118/72",
+    "nhiet": "36,9",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mệt, chán ăn, đau tức âm ỉ hạ sườn phải khoảng 2 tuần, tăng khi vác lúa nặng, không lan. Vài hôm nay nước tiểu sẫm màu, không vàng da, không sốt, phân bình thường.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Hôm đám cưới ăn ốc hấp, nghêu hấp, tôm, cua; không ăn gỏi, không ăn sống. Mấy người ngồi cùng bàn ăn y vậy, không ai bệnh. Khoảng hai ngày sau anh bắt đầu mệt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hải sản: chín, người cùng bàn không bệnh (ít nghĩ viêm gan A, E)"
+    },
+    {
+     "id": "phieu_cu",
+     "noi_dung": "Ba năm trước khám sức khỏe xin vào làm công ty: phiếu ghi HBsAg dương tính, ALT 48 U/L. Trạm y tế dặn theo dõi, nhưng anh không có triệu chứng nên không đi lại. Anh mang theo tờ phiếu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "HBsAg dương từ 3 năm trước: nhiễm mạn, không phải viêm gan cấp"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Cha mất cách đây 3 năm, 58 tuổi, vì ung thư gan phát hiện muộn; cha có viêm gan B nhưng không điều trị. Mẹ 56 tuổi chưa xét nghiệm gan bao giờ. Anh có một em gái 27 tuổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình ung thư gan (cờ đỏ, tiêu chuẩn điều trị)"
+    },
+    {
+     "id": "sut_can",
+     "noi_dung": "Sụt 3 kg trong 2 tháng (từ 65 xuống 62 kg), nặng nhất hai tuần nay vì ăn rất ít. Không sốt kéo dài, không ra mồ hôi đêm, không ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sụt cân (cờ đỏ)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Anh sợ mình bị ung thư gan như cha: cha cũng bắt đầu bằng mệt, đau tức sườn phải rồi sụt cân. Anh mất ngủ hai đêm, chưa dám nói với vợ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh lo nhất điều gì, hoặc vì sao đi khám đúng lúc này.",
+     "y": "Động cơ thật: sợ mắc ung thư"
+    },
+    {
+     "id": "ruou_thuoc",
+     "noi_dung": "Không uống rượu thường xuyên, bia 1–2 lon dịp lễ, hai tuần nay không uống. Không hút thuốc. Không dùng thuốc thường xuyên, không thuốc nam, không thực phẩm chức năng, không paracetamol hay thuốc giảm đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rượu, thuốc, thảo dược (nguyên nhân tăng men gan khác)"
+    },
+    {
+     "id": "mat_bu",
+     "noi_dung": "Không bụng to, không phù chân, không ngứa, không nôn ra máu, không đi cầu phân đen, không lú lẫn, không chảy máu chân răng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu hiệu xơ gan mất bù"
+    },
+    {
+     "id": "vo_con",
+     "noi_dung": "Vợ 29 tuổi chưa xét nghiệm viêm gan B và chưa biết chuyện này. Con gái 5 tuổi đã tiêm đủ 3 mũi vắc xin viêm gan B lúc nhỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người thân tiếp xúc cần xét nghiệm, tiêm vắc xin"
+    },
+    {
+     "id": "nguy_co",
+     "noi_dung": "Không tiêm chích, không xăm trổ, không truyền máu, chỉ có vợ, không phẫu thuật hay nhổ răng gần đây. Không biết mình nhiễm từ lúc nào.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không tiểu đường, không tăng huyết áp, không đau khớp, không phát ban, tiểu không bọt. Cao 168 cm, nặng 62 kg.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "phun_thuoc",
+     "noi_dung": "Làm 2 sào lúa, thỉnh thoảng phun thuốc sâu có đeo khẩu trang, gần đây không phun. Mùa gặt đang bận nhưng chịu nghỉ vài ngày; nhà cách phòng khám 12 km, tái khám được.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vẻ lo lắng. Củng mạc không vàng, niêm mạc hồng, không sao mạch, không ban đỏ lòng bàn tay, không phù, không hạch.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ hạ sườn phải, Murphy âm tính. Bờ dưới gan dưới bờ sườn 1 cm, mềm, bờ đều, mặt nhẵn. Lách không sờ thấy, không cổ trướng, không tuần hoàn bàng hệ.",
+     "k": 1
+    },
+    "da": {
+     "a": "Không vàng da, không sao mạch, không ban đỏ lòng bàn tay, không bầm máu, không ban.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "virus_mau": {
+     "v": "e",
+     "r": "HBsAg dương tính · anti-HCV âm tính · anti-HIV âm tính",
+     "ab": 1,
+     "n": "HBsAg dương ở người lớn là nhiễm HBV mạn (QĐ 1740/2026 mục 4.1.1), khớp phiếu cũ 3 năm trước. Anti-HCV cho mọi người nhiễm HBV (mục 4.2.6a); đồng nhiễm HIV, HCV, HDV cần tìm (mục 4.1.2c); EASL 2025 bảng xét nghiệm ban đầu: anti-HDV, anti-HCV, anti-HIV nên làm (khuyến cáo mạnh)."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 48 · ALT 118 U/L (ALT gấp 3,9 lần ULN 30 U/L của nam)",
+     "ab": 1,
+     "n": "ULN ALT nam 30 U/L (QĐ 1740/2026 mục 4.1.2b); EASL 2025 mục Treatment indications coi trên 40 U/L là cao; AASLD/IDSA 2025 Core Concepts: bình thường dưới 35 U/L ở nam. ALT 118 vượt cả ba ngưỡng nên không chạm khác biệt. ALT dưới 5 lần ULN: không gợi ý viêm gan B cấp điển hình (mục 3.1) và cho phép đo FibroScan (Bảng 5)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 146 g/L · MCV 86 fL · Tiểu cầu 262 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 56.0,
+      "neu": 3.81,
+      "lym_pct": 34.0,
+      "lym": 2.31,
+      "mono_pct": 7.0,
+      "mono": 0.48,
+      "eos_pct": 2.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 5.0,
+      "hgb": 146,
+      "hct": 0.43,
+      "mcv": 86.0,
+      "mch": 29.2,
+      "mchc": 340,
+      "rdw": 12.8,
+      "plt": 262
+     },
+     "n": "Tiểu cầu để tính APRI (QĐ 1740/2026 Phụ lục 2) và gợi ý tăng áp cửa (mục 4.1.2b): 262 G/L không gợi ý xơ gan."
+    },
+    "hbv_dna": {
+     "v": "e",
+     "r": "HBV DNA 6,8 × 10^7 IU/mL (7,8 log10)",
+     "ab": 1,
+     "n": "HBV DNA trên 2.000 IU/mL kèm ALT trên ULN là tiêu chuẩn điều trị (QĐ 1740/2026 mục 4.2.3a); làm sớm sau khi có HBsAg dương (mục 4.5) và là mốc nền để so đáp ứng tuần 12, 24, 48 (Bảng 5). Danh mục ghi kết quả sau vài ngày; trong ca có ngay để luyện quyết định."
+    },
+    "hbv_huyet_thanh": {
+     "v": "e",
+     "r": "HBeAg dương · anti-HBe âm · anti-HBc IgM âm · anti-HBc toàn phần dương · HBsAg định lượng 25.000 IU/mL (4,4 log10) · anti-HDV âm",
+     "ab": 1,
+     "n": "HBeAg dương, anti-HBe âm, HBV DNA cao, ALT tăng: viêm gan B HBeAg dương thể hoạt động (QĐ 1740/2026 Phụ lục 1; AASLD/IDSA 2025 Core Concepts: HBeAg-positive immune active). Anti-HBc IgM âm kèm HBsAg dương từ 3 năm trước: không phải viêm gan B cấp (mục 3.1); IgM chỉ thấp hoặc có thể hiện diện trong đợt bùng phát mạn (EASL 2025 mục Diagnosis). Anti-HDV: mọi người HBsAg dương cần sàng lọc HDV ít nhất một lần (EASL 2025 mục HDV; WHO 2024 Chapter 12)."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "Bilirubin toàn phần 20, trực tiếp 7 µmol/L · ALP 88 · GGT 64 U/L · Albumin 44 g/L · INR 1,0",
+     "ab": 1,
+     "n": "Bilirubin, albumin, INR để chấm Child-Pugh khi nghi xơ gan (QĐ 1740/2026 mục 4.1.2b, Phụ lục 2): bình thường, không có dấu mất bù."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 4,8 mmol/L · Creatinin 80 µmol/L · eGFR 117 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.8,
+      "creat": 80,
+      "egfr": 117
+     },
+     "n": "Bắt buộc đánh giá creatinin, mức lọc cầu thận và yếu tố nguy cơ thận trước khi chọn TDF, ETV hay TAF (QĐ 1740/2026 mục 4.2.3b, Bảng 3). Anh không tăng huyết áp, đái tháo đường, nặng 62 kg (trên 50 kg), eGFR 117: TDF dùng được."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Gan kích thước bình thường, bờ đều, nhu mô echo hơi thô đều, không nốt, không khối. Tĩnh mạch cửa 10 mm, lách 92 mm, không dịch ổ bụng. Túi mật, đường mật, thận bình thường.",
+     "n": "Siêu âm tìm xơ gan, tăng áp cửa và khối gan (QĐ 1740/2026 mục 4.1.2b, Bảng 5; QĐ 3129/2020 mục 3.2). Cha ung thư gan và sụt cân là lý do làm ngay hôm nay."
+    },
+    "afp": {
+     "v": "e",
+     "r": "AFP 5,8 ng/mL (giới hạn trên của phòng xét nghiệm 20)",
+     "n": "Chỉ dấu ung thư gan phối hợp siêu âm (QĐ 1740/2026 mục 4.1.2b, Bảng 5; QĐ 3129/2020 mục 3.2). Bình thường kèm siêu âm không khối: chưa gợi ý HCC, nhưng vẫn theo dõi định kỳ."
+    },
+    "fibroscan": {
+     "v": "u",
+     "r": "Độ đàn hồi gan 6,4 kPa (F0–F1)",
+     "n": "6,4 kPa không quá 7,0 nên chưa xơ hóa đáng kể (QĐ 1740/2026 Phụ lục 2), cũng dưới mốc 8 kPa của EASL 2025 mục Treatment indications. APRI = 48/40 × 100/262 = 0,46 (không quá 0,5); FIB-4 = 31 × 48/(262 × √118) = 0,52 (dưới 1,3, APASL 2026 mục đánh giá xơ hóa không xâm lấn). Chỉ đo khi ALT dưới 5 lần ULN (QĐ 1740/2026 Bảng 5): ALT 118 là 3,9 lần ULN."
+    },
+    "huyet_thanh_hav_hev": {
+     "v": "u",
+     "r": "IgM anti-HAV âm · IgM anti-HEV âm · IgM anti-HBc âm",
+     "n": "Tăng men gan sau hải sản: loại trừ viêm gan cấp do HAV, HEV và đợt cấp viêm gan B (QĐ 1740/2026 mục 3.2). Thử HEV cùng lúc với HAV (EASL 2018 mục Laboratory diagnosis) hoặc sau khi HAV, HBV, HCV cấp âm (ACG 2017 KC 4): cả hai cách chấp nhận, đã có mục trong sổ mâu thuẫn."
+    },
+    "ct_bung": {
+     "n": "Không cần: siêu âm không khối, AFP bình thường. CT hoặc MRI chỉ khi nghi ngờ u gan (QĐ 1740/2026 Bảng 5; QĐ 3129/2020 mục 3.2)."
+    },
+    "noi_soi": {
+     "n": "Không cần: không xơ gan (tiểu cầu 262, FibroScan 6,4 kPa); nội soi thực quản–dạ dày chỉ khi nghi xơ gan (QĐ 1740/2026 Bảng 5)."
+    },
+    "hbv_khang_thuoc": {
+     "n": "Không cần ở người chưa điều trị: giải trình tự gen kháng thuốc chỉ làm khi nghi thất bại điều trị (QĐ 1740/2026 mục 4.4.1; EASL 2025 mục partial virological response)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm gan B mạn HBeAg dương tính, thể hoạt động (HBV DNA 6,8 × 10^7 IU/mL, ALT gấp 3,9 lần ULN), chưa xơ gan, chưa phát hiện ung thư gan; tiền sử gia đình có người ung thư gan",
+     "ok": 1,
+     "n": "HBsAg dương từ 3 năm trước, HBeAg dương, DNA cao, ALT tăng (QĐ 1740/2026 mục 4.1.1, Phụ lục 1); FibroScan 6,4 kPa, APRI 0,46; siêu âm và AFP không gợi ý khối."
+    },
+    {
+     "t": "Xơ gan",
+     "n": "Tiểu cầu 262, albumin 44, INR 1,0, không sao mạch, lách không to, FibroScan 6,4 kPa, APRI 0,46. Xơ gan khi có triệu chứng lâm sàng và/hoặc F4 (APRI trên 1, FibroScan trên 12,5 kPa) (QĐ 1740/2026 mục 4.1.2b)."
+    },
+    {
+     "t": "Ung thư gan (HCC)",
+     "n": "Cha mất vì ung thư gan, đau hạ sườn phải và sụt cân buộc phải loại trừ; siêu âm không khối, AFP 5,8. HCC chỉ nghi khi chỉ dấu tăng hoặc siêu âm có khối (QĐ 1740/2026 mục 4.1.2b). Vẫn tầm soát định kỳ."
+    },
+    {
+     "t": "Viêm gan B cấp, viêm gan cấp do HAV hoặc HEV (sau bữa hải sản)",
+     "n": "HBsAg dương từ 3 năm trước, anti-HBc IgM âm, ALT dưới 5 lần ULN (mục 3.1); IgM anti-HAV, IgM anti-HEV âm; không ăn sống, người cùng bàn không bệnh."
+    },
+    {
+     "t": "Viêm gan do rượu, thuốc, thảo dược hoặc gan nhiễm mỡ",
+     "n": "Bia ít, không thuốc, không thảo dược, BMI 22, FibroScan không xơ hóa; HBV DNA cao đã giải thích đợt tăng ALT. Thuốc, thảo dược gây độc gan: QĐ 1740/2026 mục 4.2.3b."
+    },
+    {
+     "t": "Đồng nhiễm HDV, HCV, HIV",
+     "n": "Anti-HDV, anti-HCV, anti-HIV đều âm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: đây là viêm gan B mạn đang hoạt động, đã có từ trước (phiếu 3 năm), không phải do hải sản; hiện chưa thấy xơ gan hay ung thư gan; bệnh điều trị và theo dõi lâu dài được; ăn uống hợp lý, không cần kiêng hải sản nấu chín",
+     "v": "c",
+     "n": "Cung cấp thông tin về bệnh, tiên lượng, kế hoạch dài hạn ngay sau chẩn đoán, dinh dưỡng hợp lý (QĐ 1740/2026 mục 4.2.3b). Hải sản gây tăng men gan: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bắt đầu thuốc kháng vi rút uống dài hạn: tenofovir disoproxil (TDF) 300 mg mỗi ngày (entecavir 0,5 mg hoặc TAF 25 mg cũng chấp nhận được)",
+     "v": "c",
+     "n": "Đủ tiêu chuẩn theo hai cách: HBV DNA trên 2.000 IU/mL và ALT trên ULN; hoặc tiền sử gia đình ung thư gan kèm HBV DNA phát hiện được (QĐ 1740/2026 mục 4.2.3a, Phụ lục 5). EASL 2025 mục Treatment indications: HBV DNA trên 2.000 và ALT tăng (LoE 1, mạnh), HBeAg dương nguy cơ HCC cao nên điều trị (LoE 3, mạnh); APASL 2026 mục How should treatment decisions be guided, KC 1 (B1). Thuốc: TDF, TAF hoặc ETV (Phụ lục 5, Bảng 3: TDF 300 mg/ngày). Không yếu tố nguy cơ thận nên TDF hợp lý."
+    },
+    {
+     "t": "Tư vấn tuân thủ: uống mỗi ngày cùng giờ, cùng bữa ăn, không tự ngưng, lấy thuốc đúng hẹn; nói rõ điều trị dài hạn, có thể suốt đời",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.2.2, 4.2.3b, 4.2.5a. Tenofovir uống cùng thức ăn, ETV lúc đói (EASL 2025 mục partial virological response)."
+    },
+    {
+     "t": "Tránh rượu bia; không dùng thuốc nam, thực phẩm chức năng không rõ nguồn; thận trọng paracetamol và thuốc độc gan; báo nhân viên y tế mình nhiễm HBV",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.2.3b (tư vấn sống khỏe mạnh)."
+    },
+    {
+     "t": "Xét nghiệm HBsAg cho vợ, con, mẹ, em gái; ai âm tính thì tiêm vắc xin; vợ dùng bao cao su cho tới khi có miễn dịch; không dùng chung dao cạo, bàn chải",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.2.3b, Phụ lục 5 (xét nghiệm HBsAg cho người trong gia đình, bạn tình, tiêm vắc xin nếu âm tính)."
+    },
+    {
+     "t": "Hẹn creatinin và tổng phân tích nước tiểu sau 4 tuần; tái khám và cấp thuốc 12 tuần/lần năm đầu, HBV DNA tuần 12, 24, 48; siêu âm bụng và AFP mỗi 6 tháng (hoặc siêu âm 12–24 tuần, AFP 24 tuần)",
+     "v": "c",
+     "n": "QĐ 1740/2026 Bảng 5: creatinin ở tháng đầu, HBV DNA tuần 12, 24, 48, tái khám 12 tuần/lần năm đầu, siêu âm 12–24 tuần, chỉ dấu 24 tuần. Tầm soát mỗi 6 tháng: QĐ 3129/2020 mục 3.2; EASL 2025 mục HCC surveillance. Gộp một mục vì hai khoảng chồng nhau."
+    },
+    {
+     "t": "Dặn dấu hiệu phải khám ngay: vàng da, bụng to, phù, nôn máu hoặc phân đen, lú lẫn, sốt; ghi số điện thoại phòng khám",
+     "v": "c",
+     "n": "Dấu hiệu bệnh gan tiến triển và xơ gan mất bù (QĐ 1740/2026 mục 4.1.2a)."
+    },
+    {
+     "t": "Hỏi nỗi lo thật và nói rõ kết quả siêu âm, AFP, FibroScan hiện không thấy ung thư hay xơ gan; khuyên nói với vợ",
+     "v": "c",
+     "n": "Nỗi sợ thật là ung thư như cha; trả lời bằng dữ kiện của chính anh. Cách nói chuyện không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm thêm IgM anti-HAV, IgM anti-HEV",
+     "v": "a",
+     "n": "Hữu ích khi ăn hải sản, nhưng HBsAg đã dương từ 3 năm trước nên không đổi quyết định điều trị (QĐ 1740/2026 mục 3.2)."
+    },
+    {
+     "t": "Chụp CT bụng có cản quang để loại trừ ung thư gan",
+     "v": "w",
+     "n": "Siêu âm không khối, AFP bình thường: CT chỉ khi nghi ngờ u (QĐ 1740/2026 Bảng 5; QĐ 3129/2020 mục 3.2); thêm tốn kém và phơi nhiễm cản quang, không đổi quyết định."
+    },
+    {
+     "t": "Chỉ cho thuốc bổ gan, thuốc hạ men gan và hẹn xem lại men gan sau 3 tháng, chưa dùng thuốc kháng vi rút",
+     "v": "w",
+     "n": "Đã đủ tiêu chuẩn điều trị (QĐ 1740/2026 mục 4.2.3a; EASL 2025 mục Treatment indications); điều trị viêm gan B mạn là thuốc kháng vi rút (mục 4.2.2); thảo dược, thực phẩm chức năng không rõ nguồn có thể độc gan (mục 4.2.3b)."
+    },
+    {
+     "t": "Truyền dịch, kê kháng sinh để 'thải độc hải sản'",
+     "v": "w",
+     "n": "Không có nhiễm khuẩn; kháng sinh không có chỉ định trong viêm gan B mạn, điều trị là thuốc kháng vi rút (QĐ 1740/2026 mục 4.2.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm gan B mạn HBeAg dương tính, thể hoạt động (đợt tăng ALT)",
+     "HBV DNA 6,8 × 10^7 IU/mL, ALT 118 U/L (gấp 3,9 lần ULN 30 U/L của nam): đủ tiêu chuẩn điều trị",
+     "Chưa xơ gan (FibroScan 6,4 kPa, APRI 0,46, tiểu cầu 262, siêu âm không dấu tăng áp cửa); chưa phát hiện ung thư gan (siêu âm, AFP 5,8)",
+     "Yếu tố nguy cơ: cha mất vì ung thư gan",
+     "Không đồng nhiễm HCV, HIV, HDV; không phải viêm gan cấp do HAV, HEV hay viêm gan B cấp"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: phiếu cũ HBsAg dương tính 3 năm trước nghĩa là nhiễm mạn, không phải bệnh cấp (QĐ 1740/2026 mục 4.1.1). Bữa hải sản chỉ là yếu tố trùng thời điểm: hải sản chín, người cùng bàn không bệnh; IgM anti-HAV, HEV, anti-HBc âm. Chẩn đoán phân biệt viêm gan cấp (HAV, HEV...) và đợt cấp viêm gan B mạn: mục 3.2.",
+     "Cờ đỏ: cha mất vì ung thư gan, đau hạ sườn phải, sụt 3 kg. Tiền sử gia đình ung thư gan là yếu tố nguy cơ độc lập của HCC ở mọi giai đoạn (EASL 2025 mục Treatment indications) và là tiêu chuẩn điều trị (QĐ 1740/2026 mục 4.2.3a). Loại trừ HCC bằng siêu âm và AFP (mục 4.1.2b; QĐ 3129/2020 mục 3.2): bình thường.",
+     "Giai đoạn: HBeAg dương, anti-HBe âm, HBV DNA cao, ALT tăng là viêm gan B HBeAg dương thể hoạt động (QĐ 1740/2026 Phụ lục 1; AASLD/IDSA 2025 Core Concepts: HBeAg-positive immune active). Không phải pha dung nạp miễn dịch vì ALT đang tăng.",
+     "Xơ hóa: FibroScan 6,4 kPa (không quá 7,0: F0–F1, QĐ 1740/2026 Phụ lục 2; dưới 8 kPa của EASL 2025), APRI 0,46 (BYT, WHO: ngưỡng 0,5), FIB-4 0,52 (APASL 2026: ngưỡng 1,3). EASL 2025 lưu ý APRI, FIB-4 độ chính xác hạn chế ở HBV nên phối hợp đàn hồi gan: cả ba cùng kết luận chưa xơ hóa đáng kể. Không cần CT, nội soi, sinh thiết gan.",
+     "ULN ALT: QĐ 1740/2026 mục 4.1.2b: 30 U/L nam; EASL 2025: trên 40; AASLD/IDSA 2025: dưới 35 ở nam. ALT 118 vượt cả ba nên quyết định như nhau."
+    ],
+    "phan_tich_xu_tri": [
+     "Bắt đầu thuốc ngay: HBV DNA trên 2.000 IU/mL kèm ALT trên ULN (QĐ 1740/2026 mục 4.2.3a; EASL 2025 LoE 1) và tiền sử gia đình ung thư gan (QĐ 1740/2026 mục 4.2.3a; EASL 2025 LoE 3; APASL 2026 B1). Chọn TDF 300 mg/ngày vì không bệnh thận, không nhẹ cân, không loãng xương; ETV hoặc TAF vẫn đúng (Bảng 3, Phụ lục 5; EASL 2025: ETV, TDF hoặc TAF, LoE 1).",
+     "Uống TDF cùng bữa ăn (EASL 2025 mục partial virological response). Điều trị lâu dài, có thể suốt đời; chưa xơ gan thì chỉ cân nhắc ngưng khi đạt tiêu chuẩn (QĐ 1740/2026 mục 4.2.5).",
+     "Theo dõi: tái khám và cấp thuốc 12 tuần/lần năm đầu; HBV DNA tuần 12, 24, 48; creatinin, nước tiểu tháng đầu (QĐ 1740/2026 Bảng 5). EASL 2025: HBV DNA và ALT mỗi 3–6 tháng đến khi đáp ứng vi rút.",
+     "Tầm soát HCC: siêu âm và AFP mỗi 6 tháng (QĐ 3129/2020 mục 3.2; EASL 2025 mục HCC surveillance) hoặc siêu âm 12–24 tuần, chỉ dấu 24 tuần (QĐ 1740/2026 Bảng 5); tiếp tục dù đã dùng thuốc (EASL 2025).",
+     "Người thân: xét nghiệm HBsAg cho vợ, con, mẹ, em gái; tiêm vắc xin nếu âm tính (QĐ 1740/2026 Phụ lục 5). Lịch tiêm cụ thể: không có trong tài liệu đã tải.",
+     "Những việc sai: chờ không thuốc, thuốc bổ gan thay thuốc kháng vi rút, CT không cần, kháng sinh 'thải độc'."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Tenofovir disoproxil fumarate (TDF)",
+      "ham_luong": "300 mg",
+      "lieu": "300 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng một giờ mỗi tối, sau bữa ăn",
+      "so_ngay": "Cấp 12 tuần đến lần tái khám; điều trị lâu dài, có thể suốt đời",
+      "ghi_chu": "QĐ 1740/2026 Bảng 3 (300 mg/ngày), mục 4.2.5a (thời gian), Bảng 5 (cấp thuốc 12 tuần/lần năm đầu); uống cùng bữa ăn: EASL 2025. Thay bằng ETV 0,5 mg/ngày lúc đói hoặc TAF 25 mg/ngày nếu cần."
+     }
+    ],
+    "dan_do": [
+     "Bệnh của anh là viêm gan B mạn đang hoạt động, đã có từ trước; không phải do ăn hải sản. Hiện chưa thấy xơ gan hay ung thư gan.",
+     "Uống tenofovir 1 viên mỗi tối sau ăn, đúng giờ, không bỏ, không tự ngưng; điều trị lâu dài (QĐ 1740/2026 mục 4.2.2).",
+     "Không rượu bia; không thuốc nam, thực phẩm chức năng 'bổ gan'; hỏi bác sĩ trước khi uống paracetamol (QĐ 1740/2026 mục 4.2.3b).",
+     "Đưa vợ đi xét nghiệm viêm gan B; mẹ và em gái cũng nên xét nghiệm; ai chưa nhiễm thì tiêm vắc xin; dùng bao cao su với vợ cho tới khi vợ có miễn dịch; không dùng chung dao cạo, bàn chải.",
+     "Hẹn xét nghiệm creatinin sau 4 tuần; tái khám sau 12 tuần có HBV DNA; siêu âm và AFP mỗi 6 tháng (QĐ 1740/2026 Bảng 5; QĐ 3129/2020 mục 3.2).",
+     "Đến ngay nếu vàng da, bụng to, phù chân, nôn ra máu hoặc đi cầu phân đen, lú lẫn, sốt (QĐ 1740/2026 mục 4.1.2a)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 12 tuần",
+   "tiep_don": "Anh Tuấn tái khám sau 12 tuần uống tenofovir, đi một mình, mang theo hộp thuốc và phiếu xét nghiệm. Anh hết mệt, ăn ngon, tăng 1 kg, nhưng sốt ruột vì 'uống ba tháng rồi vẫn chưa khỏi hẳn'. Sinh hiệu: HA 116/70 mmHg, mạch 72 l/p, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%. Cân nặng 63 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển anh Tuấn lên tuyến trên giải trình tự gen kháng thuốc vì 'còn phát hiện HBV DNA' là quá tay: tải lượng đã giảm 3,7 log10 trong 12 tuần, anh uống đều (còn dư 1 viên). Thất bại điều trị ban đầu là giảm dưới 1 log10 trong 3 tháng (QĐ 1740/2026 mục 4.4.1) hay dưới 1 log10 sau 6 tháng (EASL 2025 Box 1), và giải trình tự chỉ làm khi nghi thất bại, đã xác nhận tuân thủ; cấp cơ bản vẫn quản lý được bệnh chưa xơ gan (QĐ 1740/2026 mục 4.5). Anh mất ngày công vụ gặt, tốn tiền, và dễ hiểu 'thuốc không hiệu quả' rồi tự bỏ thuốc.",
+    "nhap_vien": "Nhập viện để theo dõi là quá tay: anh khỏe, hết triệu chứng, không dấu mất bù, các chỉ số theo dõi đang cải thiện; theo dõi ngoại trú 12–24 tuần/lần (QĐ 1740/2026 Bảng 5). Tiêu chuẩn nhập viện cho viêm gan B mạn ổn định: không có trong tài liệu đã tải. Anh mất thêm công ruộng, chi phí, và nỗi sợ 'bệnh nặng như cha' quay lại."
+   },
+   "loi_mo": "Chào bác sĩ. Em uống thuốc đều ba tháng rồi, hết đau tức, ăn ngon lại. Nhưng em nghe nói uống vài tháng là khỏi, sao bác sĩ vẫn bảo uống tiếp? Mà em vẫn lo, ba em hồi trước cũng bắt đầu như vậy.",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "116/70",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hết đau tức hạ sườn phải, hết chán ăn, tăng 1 kg, nước tiểu trong. Sốt ruột vì 'uống ba tháng rồi mà bác sĩ vẫn bảo uống tiếp, chưa khỏi hẳn'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và kỳ vọng 'khỏi hẳn'"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống mỗi tối sau ăn cơm, đặt báo thức điện thoại. Được cấp 84 viên, còn dư 1 viên; quên một lần hôm đi giỗ, không uống bù. Không mua thêm hay đổi thuốc ở hiệu thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc (đếm viên)"
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Không buồn nôn, không tiêu chảy, không đau xương hay đau cơ, tiểu không bọt. Tuần 4 làm creatinin 82 µmol/L, nước tiểu bình thường ở trạm y tế (có phiếu).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác dụng phụ, thận"
+    },
+    {
+     "id": "y_dinh_ngung",
+     "noi_dung": "Anh định hết khỏe là bớt thuốc: hàng xóm cũng bị viêm gan B kể uống vài tháng thấy khỏe thì ngưng. Anh chưa bỏ viên nào.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh nghĩ phải uống thuốc bao lâu, hoặc có ý định bớt, ngưng thuốc không.",
+     "y": "Ý định ngưng thuốc sớm (nguy cơ bùng phát)"
+    },
+    {
+     "id": "ruou_thao",
+     "noi_dung": "Không uống rượu bia từ lần khám trước, không thuốc nam, không thực phẩm chức năng, không thuốc giảm đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguyên nhân khác làm ALT còn cao"
+    },
+    {
+     "id": "ung_thu",
+     "noi_dung": "Vẫn lo ung thư gan như cha; hỏi 'siêu âm lần trước sạch rồi thì sau này có chắc không'. Nhớ bác sĩ dặn siêu âm lại nhưng quên bao lâu một lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi sợ ung thư còn; nhắc lịch siêu âm, AFP"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Vợ xét nghiệm HBsAg âm, anti-HBs âm, đã tiêm mũi đầu; mẹ hẹn đi xét nghiệm tuần sau. Vợ đã biết bệnh và ủng hộ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người thân: xét nghiệm, tiêm vắc xin"
+    },
+    {
+     "id": "mat_bu",
+     "noi_dung": "Không vàng da, không bụng to, không phù, không nôn máu, không phân đen.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vẻ nhẹ nhõm hơn. Củng mạc không vàng, không sao mạch, không ban đỏ lòng bàn tay, không phù, không hạch.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau. Bờ dưới gan không sờ thấy dưới bờ sườn, lách không sờ thấy, không cổ trướng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "hbv_dna": {
+     "v": "e",
+     "r": "HBV DNA 1,2 × 10^4 IU/mL (4,1 log10); giảm 3,7 log10 so với 6,8 × 10^7 IU/mL (7,8 log10) lúc đầu",
+     "ab": 1,
+     "n": "Mốc tuần 12 (QĐ 1740/2026 Bảng 5). Giảm hơn 1 log10 nên chưa phải thất bại điều trị ban đầu (giảm dưới 1 log10 trong 3 tháng: mục 4.4.1; dưới 1 log10 sau 6 tháng: EASL 2025 Box 1): chưa nguồn nào chạm. Còn trên 2.000 IU/mL và chưa dưới ngưỡng phát hiện là bình thường khi tải lượng nền cao: EASL 2025 mục partial virological response nêu ức chế hoàn toàn có thể mất nhiều năm (ở người HBeAg dương, DNA cao, ALT bình thường chỉ 55% dưới ngưỡng phát hiện sau 4 năm TDF; quần thể khác bệnh nhân này), chỉ coi là không đủ khi DNA đạt bình nguyên không giảm thêm."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 34 · ALT 52 U/L (ALT còn gấp 1,7 lần ULN 30 U/L của nam, vẫn trên 40 U/L của EASL)",
+     "ab": 1,
+     "n": "ALT giảm từ 118 xuống 52 nhưng chưa về bình thường: đỡ một phần. ULN 30 U/L (QĐ 1740/2026 mục 4.1.2b), trên 40 U/L (EASL 2025): ALT 52 vượt cả hai nên không chạm khác biệt. Bình thường hóa ALT là mục tiêu bổ sung (EASL 2025, bảng khuyến cáo mục tiêu điều trị). AST/ALT 12–24 tuần/lần (Bảng 5)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 148 g/L · MCV 86 fL · Tiểu cầu 256 G/L",
+     "bang": {
+      "wbc": 6.5,
+      "neu_pct": 55.0,
+      "neu": 3.58,
+      "lym_pct": 35.0,
+      "lym": 2.28,
+      "mono_pct": 7.0,
+      "mono": 0.46,
+      "eos_pct": 2.5,
+      "eos": 0.16,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 5.1,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 86.3,
+      "mch": 29.0,
+      "mchc": 336,
+      "rdw": 12.7,
+      "plt": 256
+     },
+     "n": "Công thức máu 12–24 tuần/lần; tiểu cầu để tính APRI = 34/40 × 100/256 = 0,33 (QĐ 1740/2026 Bảng 5, Phụ lục 2): thấp hơn 0,46 lần đầu, không gợi ý xơ hóa."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 4,6 mmol/L · Creatinin 82 µmol/L · eGFR 116 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.6,
+      "creat": 82,
+      "egfr": 116
+     },
+     "n": "Đã làm ở tuần 4 (bình thường); sau đó 24–48 tuần/lần (QĐ 1740/2026 Bảng 5): chưa đến hạn, làm lại được nhưng không bắt buộc."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Gan kích thước bình thường, bờ đều, nhu mô echo hơi thô đều, không nốt, không khối. Tĩnh mạch cửa 10 mm, lách 90 mm, không dịch ổ bụng.",
+     "n": "Siêu âm 12–24 tuần/lần (QĐ 1740/2026 Bảng 5) hoặc 6 tháng (QĐ 3129/2020 mục 3.2; EASL 2025 mục HCC surveillance): làm hôm nay chấp nhận được, đến hạn chính thức ở tuần 24."
+    },
+    "afp": {
+     "v": "a",
+     "r": "AFP 5,4 ng/mL (giới hạn trên của phòng xét nghiệm 20)",
+     "n": "Chỉ dấu HCC 24 tuần/lần (QĐ 1740/2026 Bảng 5): chưa đến hạn."
+    },
+    "hbv_huyet_thanh": {
+     "v": "a",
+     "r": "HBeAg dương · anti-HBe âm · HBsAg định lượng 22.000 IU/mL (4,3 log10)",
+     "n": "HBeAg 48 tuần/lần (QĐ 1740/2026 Bảng 5); EASL 2025: mỗi 12 tháng. HBeAg còn dương ở tuần 12 là bình thường; ngưng thuốc chỉ cân nhắc sau điều trị thêm 12 tháng kể từ khi chuyển đổi huyết thanh HBeAg (mục 4.2.5b)."
+    },
+    "fibroscan": {
+     "n": "Chưa cần: đánh giá xơ hóa 24–48 tuần/lần (QĐ 1740/2026 Bảng 5; EASL 2025: 12–24 tháng); lần đầu 6,4 kPa, APRI nay 0,33."
+    },
+    "hbv_khang_thuoc": {
+     "n": "Không cần: HBV DNA đang giảm 3,7 log10, tuân thủ tốt. Giải trình tự chỉ khi nghi thất bại và đã xác nhận tuân thủ (QĐ 1740/2026 mục 4.4.1; EASL 2025: LoE 2, khuyến cáo yếu)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm gan B mạn HBeAg dương đang điều trị tenofovir 12 tuần: đáp ứng vi rút tốt nhưng chưa hoàn toàn (HBV DNA giảm 3,7 log10 còn 1,2 × 10^4 IU/mL; ALT còn gấp 1,7 lần ULN; HBeAg còn dương); chưa xơ gan, chưa thấy ung thư gan",
+     "ok": 1,
+     "n": "Đáp ứng đúng hướng, chưa đủ tiêu chí thất bại (QĐ 1740/2026 mục 4.4.1; EASL 2025 Box 1); APRI 0,33, siêu âm không khối."
+    },
+    {
+     "t": "Thất bại điều trị ban đầu hoặc không đáp ứng vi rút",
+     "n": "HBV DNA giảm 3,7 log10, vượt mốc 1 log10 (3 tháng theo QĐ 1740/2026 mục 4.4.1; 6 tháng theo EASL 2025 Box 1)."
+    },
+    {
+     "t": "Kháng thuốc hoặc tuân thủ kém",
+     "n": "Còn dư 1 viên trên 84, quên 1 lần; kháng thuốc nghĩ khi HBV DNA tăng ≥ 1 log10 so với mức thấp nhất, hoặc bình nguyên (EASL 2025 Box 1; QĐ 1740/2026 mục 4.4.1). DNA đang giảm."
+    },
+    {
+     "t": "Độc tính thận hoặc xương do TDF",
+     "n": "Creatinin 82 µmol/L, eGFR 116, nước tiểu bình thường, không đau xương (QĐ 1740/2026 Bảng 3, Bảng 5)."
+    },
+    {
+     "t": "Bệnh gan khác làm ALT còn cao (rượu, thuốc, thảo dược, gan nhiễm mỡ)",
+     "n": "Không rượu, không thuốc, BMI 22; ALT đang giảm song song HBV DNA. ALT còn cao dai dẳng khi DNA đã thấp thì phải nghĩ bệnh gan khác (EASL 2025 mục Treatment indications)."
+    },
+    {
+     "t": "Ung thư gan (HCC), xơ gan",
+     "n": "Siêu âm và AFP lần đầu bình thường, APRI 0,33, không triệu chứng; vẫn theo dõi 6 tháng/lần vì cha mất vì ung thư gan (QĐ 1740/2026 Bảng 5)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi tuân thủ cụ thể trước hết (giờ uống, quên mấy lần, đếm viên dư, nguồn thuốc) và hỏi ý định bớt, ngưng thuốc; không buộc tội",
+     "v": "c",
+     "n": "Đánh giá tuân thủ mọi lần tái khám (QĐ 1740/2026 Bảng 5, mục 4.4.1); EASL 2025: đánh giá tuân thủ đầu tiên (LoE 1, mạnh)."
+    },
+    {
+     "t": "Kết luận đáp ứng đúng hướng; tiếp tục nguyên tenofovir 300 mg/ngày, không đổi thuốc, không tăng liều, không chuyển tuyến; giải thích vì sao 'chưa khỏi hẳn' vẫn bình thường: HBV DNA nền rất cao nên hạ xuống dưới ngưỡng phát hiện cần thời gian, ALT và HBeAg về sau",
+     "v": "c",
+     "n": "Chỉ thay thuốc sau khi xác định thất bại (QĐ 1740/2026 mục 4.4.2); HBV DNA nền cao thì ức chế hoàn toàn mất nhiều thời gian, chỉ lo khi bình nguyên (EASL 2025 mục partial virological response). Tốc độ HBeAg mất theo thời gian: không có số liệu trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn không tự bớt, ngưng thuốc: điều trị dài hạn, có thể suốt đời; ngưng chỉ khi đủ tiêu chuẩn và theo dõi được vì nguy cơ bùng phát viêm gan B, mất bù, ung thư gan",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.2.5a, 4.2.5b (HBeAg dương: thêm 12 tháng sau chuyển đổi huyết thanh)."
+    },
+    {
+     "t": "Hẹn lịch: tái khám, cấp thuốc 12 tuần/lần năm đầu; HBV DNA, ALT ở tuần 24 và 48; HBeAg, HBsAg định lượng 48 tuần; siêu âm bụng và AFP mỗi 6 tháng (hoặc siêu âm 12–24 tuần, AFP 24 tuần), hẹn ngay tuần 24",
+     "v": "c",
+     "n": "QĐ 1740/2026 Bảng 5 và Phụ lục 5; EASL 2025: HBV DNA, ALT mỗi 3–6 tháng đến khi đáp ứng, HBeAg mỗi 12 tháng; tầm soát 6 tháng: QĐ 3129/2020 mục 3.2, EASL 2025 mục HCC surveillance. Gộp một mục vì khoảng chồng nhau."
+    },
+    {
+     "t": "Nói rõ khi nào phải lo: HBV DNA giảm dưới 1 log10 (sau 3 tháng theo BYT, sau 6 tháng theo EASL), HBV DNA tăng ≥ 1 log10 so với mức thấp nhất, ALT tăng lại, quên thuốc nhiều; khi đó đánh giá tuân thủ, đo lại, giải trình tự và chuyển chuyên sâu trong tối đa 4 tuần",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.4.1 (thất bại ban đầu, thứ cấp, không kéo dài quá 4 tuần), mục 4.5 (chuyển cấp chuyên sâu khi nghi kháng thuốc); EASL 2025 Box 1 và khuyến cáo partial virological response."
+    },
+    {
+     "t": "Trả lời nỗi sợ ung thư: siêu âm, AFP định kỳ vẫn cần dù đã dùng thuốc; nhắc lịch cụ thể, ghi sổ hẹn",
+     "v": "c",
+     "n": "EASL 2025 mục HCC surveillance: tiếp tục tầm soát ở người có nguy cơ dù điều trị hiệu quả (LoE 2, mạnh)."
+    },
+    {
+     "t": "Hoàn tất vắc xin cho vợ, đưa mẹ và em gái đi xét nghiệm HBsAg",
+     "v": "c",
+     "n": "QĐ 1740/2026 mục 4.2.3b, Phụ lục 5."
+    },
+    {
+     "t": "Làm siêu âm bụng và AFP ngay hôm nay",
+     "v": "a",
+     "n": "Chưa đến hạn chính thức (tuần 24) nhưng nằm trong khoảng 12–24 tuần của QĐ 1740/2026 Bảng 5."
+    },
+    {
+     "t": "Đổi sang TAF hoặc ETV, hoặc thêm thuốc thứ hai, cho 'mạnh hơn'",
+     "v": "w",
+     "n": "Chưa có thất bại điều trị; chỉ đổi sau khi xác định thất bại, phối hợp không khuyến cáo thường quy (QĐ 1740/2026 mục 4.4.2)."
+    },
+    {
+     "t": "Chuyển tuyến chuyên sâu giải trình tự gen kháng thuốc vì 'còn phát hiện HBV DNA'",
+     "v": "w",
+     "n": "Giải trình tự khi nghi thất bại và đã xác nhận tuân thủ (QĐ 1740/2026 mục 4.4.1; EASL 2025); anh được quản lý ở cấp cơ bản khi chưa xơ gan (mục 4.5)."
+    },
+    {
+     "t": "Tăng liều tenofovir lên 2 viên mỗi ngày",
+     "v": "w",
+     "n": "Liều chuẩn 300 mg/ngày (QĐ 1740/2026 Bảng 3); tài liệu đã tải không có liều cao hơn."
+    },
+    {
+     "t": "Cho ngưng thuốc vì đã hết triệu chứng và ALT gần bình thường",
+     "v": "h",
+     "n": "Chưa đủ tiêu chuẩn ngưng: HBeAg còn dương, HBV DNA còn phát hiện (QĐ 1740/2026 mục 4.2.5b); ngưng có nguy cơ bùng phát viêm gan B, mất bù và ung thư gan."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm gan B mạn HBeAg dương đang điều trị tenofovir 12 tuần: đáp ứng vi rút một phần (HBV DNA giảm 3,7 log10, còn 1,2 × 10^4 IU/mL), ALT còn 52 U/L, HBeAg còn dương",
+     "Không thất bại điều trị, không kháng thuốc, tuân thủ tốt",
+     "Chưa xơ gan (APRI 0,33), chưa thấy ung thư gan; tiếp tục tầm soát vì cha mất vì ung thư gan",
+     "Ý định bớt thuốc cần sửa"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: hết triệu chứng, tuân thủ tốt (còn dư 1 viên trên 84, quên 1 lần), không tác dụng phụ; anh có ý định ngưng sớm. Đánh giá tuân thủ là bước đầu (QĐ 1740/2026 Bảng 5; EASL 2025 LoE 1).",
+     "HBV DNA giảm 3,7 log10 trong 12 tuần: vượt xa mốc thất bại ban đầu giảm dưới 1 log10 trong 3 tháng (QĐ 1740/2026 mục 4.4.1) hay dưới 1 log10 sau 6 tháng (EASL 2025 Box 1): hai mốc khác nhau (3 tháng và 6 tháng) nhưng cả hai chưa chạm. Mốc EASL cho đáp ứng một phần (DNA không giảm đều và còn trên 2.000) cũng chưa áp dụng vì DNA vẫn đang giảm.",
+     "ALT 52 U/L: giảm 56% nhưng chưa bình thường (trên cả ULN 30 và 40); HBeAg còn dương. Đây là quỹ đạo đỡ một phần bình thường: tải lượng vi rút giảm trước, ALT về sau, HBeAg mất sau cùng. Con số phần trăm HBeAg mất mỗi năm: không có trong tài liệu đã tải.",
+     "Nguy cơ cần nghĩ nếu đi lệch: HBV DNA bình nguyên hoặc tăng ≥ 1 log10 so với nadir, ALT tăng lại, quên thuốc; ALT cao dai dẳng khi DNA đã thấp: tìm bệnh gan khác (EASL 2025 mục Treatment indications).",
+     "Không cần FibroScan, giải trình tự, CT, nội soi hôm nay (QĐ 1740/2026 Bảng 5, mục 4.4.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục TDF 300 mg/ngày; không đổi thuốc khi chưa có thất bại (QĐ 1740/2026 mục 4.4.2). Sai: thêm hoặc đổi thuốc, tăng liều, chuyển tuyến giải trình tự, ngưng thuốc.",
+     "Ngưng thuốc ở HBeAg dương chỉ cân nhắc sau thêm 12 tháng kể từ chuyển đổi huyết thanh và khi không xơ hóa tiến triển, theo dõi được dài hạn (QĐ 1740/2026 mục 4.2.5b).",
+     "Lịch: tái khám 12 tuần/lần năm đầu; HBV DNA tuần 24, 48 (QĐ 1740/2026 Bảng 5); EASL 2025: mỗi 3–6 tháng đến khi đáp ứng, sau đó 6–12 tháng. Siêu âm, AFP 6 tháng một lần (QĐ 3129/2020 mục 3.2; EASL 2025) hoặc siêu âm 12–24 tuần, AFP 24 tuần (QĐ 1740/2026 Bảng 5).",
+     "Trả lời nỗi sợ ung thư bằng lịch cụ thể; nhắc anh 'khỏi chậm' không có nghĩa thuốc không hiệu quả."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Tenofovir disoproxil fumarate (TDF)",
+      "ham_luong": "300 mg",
+      "lieu": "300 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng một giờ mỗi tối, sau bữa ăn như cũ",
+      "so_ngay": "Cấp 12 tuần đến lần tái khám; điều trị lâu dài",
+      "ghi_chu": "QĐ 1740/2026 Bảng 3 (300 mg/ngày), Bảng 5 (cấp thuốc 12 tuần/lần), mục 4.4.2 (không đổi khi chưa thất bại); uống cùng bữa ăn: EASL 2025."
+     }
+    ],
+    "dan_do": [
+     "Thuốc đang có tác dụng: HBV DNA từ 6,8 × 10^7 xuống 1,2 × 10^4 IU/mL, men gan giảm hơn một nửa (mốc theo dõi: QĐ 1740/2026 Bảng 5). 'Khỏi hẳn' cần thêm thời gian, vi rút nhiều nên xuống chậm.",
+     "Không bớt, không ngưng thuốc dù thấy khỏe; ngưng sớm có thể làm viêm gan bùng phát nặng (QĐ 1740/2026 mục 4.2.5b).",
+     "Uống đều mỗi tối, quên thì uống ngay khi nhớ trong ngày, không uống gấp đôi. Mang vỉ thuốc khi tái khám.",
+     "Hẹn xét nghiệm HBV DNA và men gan sau 12 tuần nữa (tuần 24); siêu âm và AFP đúng hẹn 6 tháng, ghi vào sổ (QĐ 1740/2026 Bảng 5; QĐ 3129/2020 mục 3.2).",
+     "Vợ tiêm đủ các mũi vắc xin; mẹ và em gái đi xét nghiệm. Không rượu bia, không thuốc nam.",
+     "Đến ngay nếu vàng da, bụng to, phù, nôn máu, phân đen, lú lẫn (QĐ 1740/2026 mục 4.1.2a)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Tuấn tiếp tục tenofovir. Tuần 24: HBV DNA 3,1 × 10^2 IU/mL, ALT 34 U/L. Tuần 48: HBV DNA dưới ngưỡng phát hiện, ALT 26 U/L, HBeAg vẫn dương; siêu âm và AFP mỗi 6 tháng bình thường (diễn tiến minh họa, không trích từ tài liệu). Hơn hai năm sau HBeAg mới chuyển âm; theo QĐ 1740/2026 mục 4.2.5b anh còn phải uống thêm 12 tháng nữa mới cân nhắc ngưng. Anh sốt ruột nhưng vì được giải thích sớm về đường cong đáp ứng nên không tự bớt thuốc; vợ đủ vắc xin, mẹ xét nghiệm HBsAg dương và được chuyển quản lý. Khỏi chậm hơn anh tưởng, nhưng không bỏ dở.",
+ "nhieu": [
+  "Bệnh nhân hợp tác tốt: kể đủ, mang phiếu cũ, làm đúng chỉ định; không nhiễu hành vi. Thử thách nằm ở chỗ bác sĩ có hỏi tiền sử gia đình và hỏi nỗi lo thật hay không; ở lượt 2, ở ý định bớt thuốc chỉ lộ khi hỏi 'nghĩ phải uống bao lâu'.",
+  "Nguồn lực đầy đủ (khoa_cls null): vẫn không chỉ định CT bụng, MRI, sinh thiết gan, nội soi thực quản, giải trình tự kháng thuốc ở lượt 1; lượt 2 không làm FibroScan, giải trình tự, vì không đổi quyết định.",
+  "Nông dân, mùa gặt: ảnh hưởng thời gian nghỉ, đi lại; phơi nhiễm thuốc sâu hỏi ở k:0.",
+  "Hải sản: yếu tố khởi phát giả; chín, người cùng bàn không bệnh, IgM HAV, HEV âm; HBsAg dương từ 3 năm trước làm mọi người nghĩ nhầm 'độc hải sản'.",
+  "Lý do thật: sợ ung thư gan như cha; bộc lộ khi hỏi tiền sử gia đình và nỗi lo; quay lại ở lượt 2 dưới dạng 'siêu âm sạch có chắc không'.",
+  "Cờ đỏ: cha mất vì ung thư gan, đau hạ sườn phải, sụt 3 kg: buộc siêu âm, AFP, đánh giá xơ hóa; nhận diện là tiêu chuẩn điều trị."
+ ],
+ "bai_hoc_bien": [
+  "Ca điển hình nhưng chặt: nhiễm HBV mạn đã biết 3 năm bị bỏ quên; đợt tăng ALT sau một sự kiện ăn uống dễ bị gán nhầm cho thức ăn.",
+  "Hỏi tiền sử gia đình ung thư gan: là tiêu chuẩn điều trị độc lập và là yếu tố nguy cơ HCC, đồng thời là nguồn của nỗi sợ.",
+  "Chọn xét nghiệm đổi quyết định hôm nay; nguồn lực đủ không có nghĩa là làm CT, nội soi, giải trình tự.",
+  "Đáp ứng một phần ở tuần 12 không phải thất bại: so HBV DNA với mốc nền (giảm ít nhất 1 log10), hỏi tuân thủ cụ thể, chỉ lo khi bình nguyên, tăng lại hoặc quên thuốc.",
+  "Bệnh nhân sốt ruột vì 'khỏi chậm': giải thích quỹ đạo (tải lượng giảm trước, ALT sau, HBeAg sau cùng) để phòng việc tự bớt, ngưng thuốc."
+ ],
+ "diem_nho": [
+  "HBsAg dương ở người lớn là nhiễm HBV mạn; ULN ALT nam 30 U/L, nữ 19 U/L (QĐ 1740/2026 mục 4.1.1, 4.1.2b).",
+  "Tiêu chuẩn điều trị: HBV DNA trên 2.000 IU/mL kèm ALT trên ULN; hoặc yếu tố nguy cơ (tiền sử gia đình ung thư gan) kèm HBV DNA phát hiện được; hoặc xơ hóa ≥ F2 (QĐ 1740/2026 mục 4.2.3a).",
+  "Thuốc: TDF 300 mg, ETV 0,5 mg, TAF 25 mg mỗi ngày (QĐ 1740/2026 Bảng 3); tenofovir uống cùng bữa ăn (EASL 2025).",
+  "Theo dõi: HBV DNA tuần 12, 24, 48; tái khám 12 tuần/lần năm đầu; siêu âm 12–24 tuần, chỉ dấu 24 tuần (QĐ 1740/2026 Bảng 5); tầm soát HCC 6 tháng (QĐ 3129/2020 mục 3.2; EASL 2025).",
+  "Thất bại ban đầu: HBV DNA giảm dưới 1 log10 trong 3 tháng (QĐ 1740/2026 mục 4.4.1) hay sau 6 tháng (EASL 2025 Box 1).",
+  "Ngưng thuốc ở HBeAg dương: sau 12 tháng kể từ chuyển đổi huyết thanh, không xơ hóa tiến triển (QĐ 1740/2026 mục 4.2.5b)."
+ ],
+ "nguon": [
+  "BYT QĐ 1740/2026 (QĐ 1740/QĐ-BYT) – TL-0164 – mục 3.1, 3.2, 4.1.1, 4.1.2, 4.2.1–4.2.6, 4.4.1, 4.4.2, 4.5, Bảng 3, 5, 6, Phụ lục 1, 2, 5",
+  "BYT QĐ 3129/2020 ung thư biểu mô tế bào gan – TL-0169 – mục 3.2",
+  "EASL 2025 viêm gan B – TL-0197 – mục Treatment indications, Diagnosis (anti-HBc IgM, HDV), What is the procedure in case of partial virological response (Box 1), HCC surveillance, bảng khuyến cáo điều trị",
+  "AASLD/IDSA 2025 viêm gan B – TL-0194 – Core Concepts, Table 1 (ULN, pha HBeAg dương)",
+  "APASL 2026 viêm gan B – TL-0185 – mục How should treatment decisions be guided (KC 1), mục đánh giá xơ hóa phi xâm lấn (FIB-4)",
+  "WHO 2024 viêm gan B mạn – TL-0180 – Chapter 12 (anti-HDV)",
+  "EASL 2018 viêm gan E – TL-0227 – mục Laboratory diagnosis; ACG 2017 men gan bất thường – TL-0231 – khuyến cáo 4 (qua sổ mâu thuẫn)",
+  "Không có trong tài liệu đã tải: hải sản gây tăng men gan; tiêu chuẩn nhập viện cho viêm gan B mạn ổn định; lịch tiêm các mũi vắc xin viêm gan B; tỉ lệ HBeAg mất mỗi năm khi dùng tenofovir; quy trình SBAR chuyển tuyến."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-19 (bản 1): viết mới theo sổ cái TH-1012. Tài liệu đã đọc: TL-0164 mục 3.1–3.2, 4.1–4.5, Bảng 3, 5, 6, Phụ lục 1, 2, 5; TL-0169 mục 3.2; TL-0197 Treatment indications, Box 1, mục partial virological response, HCC surveillance, bảng khuyến cáo; TL-0194 Core Concepts; TL-0185 treatment, FIB-4; TL-0180 Chapter 12.",
+  "Đã áp dụng các mục cũ trong sổ mâu thuẫn: ULN ALT 30/19 và trên 40 (ALT 118 và 52 vượt cả hai); khoảng cách tầm soát HCC (6 tháng và 12–24 tuần, một mục c); ngưỡng APRI, FIB-4 (TH-1085); ngưỡng FibroScan; mốc không đáp ứng 3 tháng và 6 tháng (TH-1057, tuần 12 chưa chạm); HEV (TH-1353). Không có mâu thuẫn mới; xem TH-1012_mau_thuan.md.",
+  "Số liệu minh họa không trích tài liệu: toàn bộ kết quả xét nghiệm, HBV DNA nền 7,8 log10 và 4,1 log10 ở tuần 12, ket_cuc (tuần 24, 48). Ca không có ảnh da, âm thanh tim/phổi."
+ ]
+}
