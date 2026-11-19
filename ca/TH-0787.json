@@ -1,0 +1,713 @@
+{
+ "ma_ca": "TH-0787",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_hoi_chung_ruot_kich_thich",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Hội chứng ruột kích thích (IBS)",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư đại trực tràng",
+   "Bệnh viêm ruột (IBD)"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Công nhân may mặc",
+  "yeu_to_khoi_phat": "Sau uống nước không sạch",
+  "thuoc_dang_dung": "Tự truyền dịch tại nhà",
+  "ly_do_that_su_den_kham": "Mâu thuẫn gia đình"
+ },
+ "benh_nhan": {
+  "ten": "Bùi Thị Lan",
+  "tuoi": 46,
+  "gioi": "Nữ",
+  "nghe": "Công nhân may mặc",
+  "can_nang": 52,
+  "chieu_cao": 154,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Hiền, nhẫn nhịn, ít khi than phiền chuyện nhà. Trả lời đủ ý, nhớ rõ ngày giờ, có ghi số lần đi ngoài vào điện thoại. Làm khoán theo sản phẩm nên tính từng buổi công; lo tiền hơn lo bệnh.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: kể mạch lạc, trung thực khi được hỏi cụ thể, nghe dặn và làm theo. Chị từ chối xét nghiệm là một quyết định có lý do (mất công khoán, tốn tiền, sợ kim), không phải thiếu hợp tác; chị không tự kể chuyện tự truyền dịch và chuyện cãi nhau với chồng nếu bác sĩ không hỏi tới.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d6a984",
+   "toc": "#2e2723",
+   "kieuToc": "buoc",
+   "ao": "#9aa9b5",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Đau quặn bụng, đi ngoài phân lỏng 5 ngày",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Bùi Thị Lan, 46 tuổi, công nhân may, đến một mình sau ca làm. Đau quặn bụng dưới và đi ngoài phân lỏng nhiều lần 5 ngày nay, nặng lên sau khi uống nước giếng chưa đun. Sinh hiệu: HA 112/70 mmHg, mạch 84 l/p, nhiệt độ 36,8 °C, nhịp thở 17 l/p, SpO₂ 99%. Cân nặng 52 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện truyền dịch và làm đủ xét nghiệm cho chị Lan là quá tay: chị mất nước độ 1, còn uống được, HA và mạch ổn, nên bù dịch bằng đường uống (QĐ 5642/2015, mục 3.1, 4.2.3a). Chị làm khoán, nằm viện là mất nhiều ngày công và thêm viện phí trong khi chị đã từ chối xét nghiệm vì tiền; chồng càng cho là bệnh vặt tốn kém. Căng thẳng gia đình tăng, mà stress làm IBS nặng thêm (BSG 2021, mục Pathophysiology).",
+    "chuyen_tuyen": "Chuyển chị Lan đi nội soi đại tràng khẩn là không có chỉ định: chị 46 tuổi, không máu trong phân, không sụt cân, không thiếu máu, không đi ngoài đêm. BSG 2021 nêu không có vai trò của nội soi trong IBS không dấu báo động; ACG 2021 khuyến cáo 5, 6 ưu tiên chẩn đoán dương tính. Chị vốn từ chối xét nghiệm đơn giản nên rất có thể không đi, mất niềm tin và không quay lại, còn nỗi sợ 'bệnh nặng' làm triệu chứng ruột nặng thêm."
+   },
+   "loi_mo": "Chào bác sĩ. Năm hôm nay tôi đau quặn bụng, đi ngoài lỏng suốt, người rã rời. Bụng tôi hay như vậy cả năm nay rồi, nhưng lần này nặng hơn.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "112/70",
+    "nhiet": "36,8",
+    "nhip_tho": 17,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau quặn bụng dưới, đi ngoài phân lỏng 5–6 lần mỗi ngày trong 5 ngày nay, mệt rã rời. Bụng 'hay bị như vậy' từ lâu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien_man",
+     "noi_dung": "Khoảng 14 tháng nay chị đau quặn bụng dưới 2–3 ngày mỗi tuần; đau dịu đi sau khi đi ngoài. Trước đây mỗi ngày đi 1 lần, nay 3–5 lần vào ngày đau. Khoảng 6 trong 10 lần đi ngoài bất thường là phân lỏng nhão, thỉnh thoảng 1–2 ngày phân cứng từng cục. Hay chướng bụng, trung tiện nhiều. Đau hay xuất hiện lúc căng thẳng, ăn cay béo, uống nhiều cà phê.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chuẩn Rome: đau tái diễn liên quan đại tiện, đổi tần suất và hình dạng phân, ≥ 6 tháng; thể tiêu chảy"
+    },
+    {
+     "id": "dot_nay",
+     "noi_dung": "Năm hôm trước, mất điện không đun được nước, chị uống nước giếng khoan ở khu trọ chưa đun sôi. Tối hôm sau đau quặn nhiều hơn và đi lỏng 5–6 lần/ngày. Một chị ở phòng bên cũng đau bụng một ngày rồi hết. Bình thường chị uống nước đun sôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: nước không sạch; đợt tiêu chảy cấp chồng lên bệnh nền"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Phân lỏng vàng, có ít nhầy trong, không có máu, không phân đen, không sốt, không rét run. Không nôn. Vẫn uống được, tiểu hơi ít và sậm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân, sàng lọc nhiễm khuẩn xâm nhập, mất nước"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không sụt cân (52 kg từ năm ngoái), không đi ngoài ban đêm, không thấy máu trong phân, không mệt hay xanh xao bất thường, không sờ thấy khối ở bụng. Trong nhà không ai bị ung thư đại tràng, bệnh viêm ruột hay bệnh celiac. Không dùng thuốc giảm đau, không uống kháng sinh gần đây. Kinh nguyệt còn đều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động (ung thư đại trực tràng, viêm ruột)"
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Hai đêm nay chị tự mua 3 chai dịch truyền (natri clorid 0,9% và glucose 5%, mỗi chai 500 ml) ở tiệm thuốc rồi tự cắm kim cánh bướm vào mu bàn tay trái để truyền cho 'đỡ đuối'. Cả năm nay khoảng mỗi tháng một lần, lúc mệt quá chị cũng tự truyền như vậy ở nhà. Chị nghĩ truyền thì khỏe nhanh, không biết có hại không.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' chị chỉ nói không uống thuốc gì. Chỉ kể khi bác sĩ hỏi cụ thể chị có truyền nước, chích hay mua thuốc, vitamin ở tiệm thuốc không, hoặc làm gì cho đỡ mệt, hoặc khi bác sĩ hỏi về vết kim ở mu bàn tay.",
+     "k": 1,
+     "y": "Tự truyền dịch tại nhà (thuốc đang dùng)"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Làm khoán, ăn vội ở căng-tin, hay bỏ bữa sáng, ngày uống 3–4 ly cà phê sữa. Ngồi may cả ngày. Ngủ 4–5 giờ vì lo nghĩ.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Chị lắc đầu: 'Thôi bác sĩ, để lần sau. Nghỉ buổi làm là mất tiền khoán, xét nghiệm lại tốn, chồng càng nói. Tôi cũng sợ kim.' Đã giải thích; chị hiểu và tự quyết, không làm hôm nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Từ chối xét nghiệm: tôn trọng, ghi hồ sơ, phương án B"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Mấy tháng nay chị hay lo, khó ngủ, ăn không ngon khi căng thẳng. Không có ý nghĩ tự làm hại mình. Không nghe thấy hay nhìn thấy gì lạ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố tâm lý, sàng lọc ý tưởng tự hại"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Mấy tối nay chị cãi nhau với chồng chuyện tiền, anh nói chị 'giả bệnh để nghỉ làm cho nhàn', mẹ chồng ở cùng nhà cũng nói theo. Chị muốn có bác sĩ nói rằng chị bệnh thật, và muốn được nghỉ vài ngày, không phải về nhà sớm. Chồng chỉ nặng lời, không đánh, không dọa; chị không sợ về nhà, chỉ mệt vì bị trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi chuyện căng thẳng, gia đình, tâm trạng, hoặc hỏi vì sao hôm nay chị chọn đến khám hay chị mong muốn gì khi đến.",
+     "k": 1,
+     "y": "Lý do thật: mâu thuẫn gia đình"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, môi hơi khô, niêm mạc hồng, không vàng da. Cân nặng 52 kg, chỉ số khối cơ thể 21,9 kg/m².",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 112/70 mmHg, mạch 84 l/p; đứng 3 phút 108/68 mmHg, mạch 90 l/p. Không hạ huyết áp tư thế.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng căng, ấn đau nhẹ khắp hạ vị và hố chậu trái, không phản ứng thành bụng, không khối, gan lách không to, âm ruột hơi tăng.",
+     "k": 1
+    },
+    "da": {
+     "a": "Mu bàn tay trái có hai vết kim cũ, không sưng, không đỏ, không nóng, không rỉ dịch. Da khác bình thường.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Cơ thắt hậu môn bình thường, không khối ở trực tràng, không máu, phân vàng lỏng dính găng.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Hợp tác, khí sắc hơi trầm, lo âu nhẹ khi nhắc chuyện nhà, tư duy mạch lạc, không ý tưởng tự hại.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "ab": 0,
+     "r": "(Chị từ chối, đã giải thích, hiểu và tự quyết; ghi nhận hồ sơ.)",
+     "n": "Mọi người có triệu chứng IBS lần đầu nên làm công thức máu, CRP hoặc máu lắng, huyết thanh celiac (BSG 2021, tóm tắt khuyến cáo, mục chẩn đoán và thăm dò; mạnh, chứng cứ trung bình). Chị từ chối: không ép, ghi hồ sơ, hẹn đề nghị lại."
+    },
+    "crp": {
+     "v": "e",
+     "ab": 0,
+     "r": "(Chị từ chối, đã giải thích, hiểu và tự quyết; ghi nhận hồ sơ.)",
+     "n": "ACG 2021 khuyến cáo 2: CRP (kèm calprotectin phân) ở người nghi IBS có tiêu chảy, không dấu báo động, để loại viêm ruột (mạnh). BSG 2021: CRP hoặc máu lắng."
+    },
+    "celiac": {
+     "v": "e",
+     "ab": 0,
+     "r": "(Chị từ chối, đã giải thích, hiểu và tự quyết; ghi nhận hồ sơ.)",
+     "n": "ACG 2021 khuyến cáo 1: huyết thanh celiac ở người IBS có tiêu chảy (mạnh, chứng cứ trung bình); celiac gặp nhiều nhất ở IBS-D. BSG 2021: cho mọi người IBS lần đầu."
+    },
+    "soi_phan": {
+     "v": "u",
+     "ab": 0,
+     "r": "(Chị từ chối, đã giải thích, hiểu và tự quyết; ghi nhận hồ sơ.)",
+     "n": "ACG 2021 khuyến cáo 3: không soi phân thường quy ở IBS, trừ khi có yếu tố nguy cơ Giardia; Bảng 5 nêu uống nước giếng chưa xử lý (chị có). ACG 2016 khuyến cáo 2: soi phân khi tiêu chảy > 7 ngày hoặc nặng; chị mới 5 ngày nên chưa bắt buộc hôm nay."
+    },
+    "calprotectin": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Chị từ chối, đã giải thích, hiểu và tự quyết; ghi nhận hồ sơ.)",
+     "n": "ACG 2021 khuyến cáo 2 gợi ý làm; BSG 2021 chỉ ở người < 45 tuổi có tiêu chảy. Chị 46 tuổi: làm hay không đều chấp nhận (mục sổ TH-0837)."
+    },
+    "fit": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Chị từ chối, đã giải thích, hiểu và tự quyết; ghi nhận hồ sơ.)",
+     "n": "FIT không dùng chẩn đoán IBS; sàng lọc ung thư đại trực tràng: USPSTF 2021 từ 45 tuổi, Asia-Pacific 2022 Statement 3. Mẫu phân tự lấy, rẻ, là phương án B để đề nghị lại. TL-0214 khuyến cáo 5: người từ chối FIT cần được tư vấn là đánh giá chưa hoàn tất."
+    },
+    "noi_soi_dt": {
+     "n": "Không có chỉ định: không dấu báo động (BSG 2021 Hộp 1); BSG 2021: không vai trò của nội soi đại tràng trong IBS không dấu báo động; ACG 2021 khuyến cáo 5, 6: chẩn đoán dương tính."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng ruột kích thích thể tiêu chảy (IBS-D) theo triệu chứng, đợt nặng lên sau tiêu chảy cấp nhẹ do uống nước giếng chưa đun; mất nước độ 1; chưa có dấu báo động; chưa xét nghiệm vì người bệnh từ chối",
+     "ok": 1,
+     "n": "Đau 14 tháng, liên quan đại tiện, đổi tần suất và hình dạng phân, phân lỏng chiếm ưu thế (ACG 2021 Bảng 1, khuyến cáo 7). Không dấu báo động (BSG 2021 Hộp 1)."
+    },
+    {
+     "t": "Ung thư đại trực tràng",
+     "n": "Không máu, không sụt cân, không thiếu máu triệu chứng, không khối trực tràng; 46 tuổi, không có tiêu chí chuyển khẩn (BSG 2021 Hộp 1). Chưa có xét nghiệm hỗ trợ vì chị từ chối: dặn dấu hiệu quay lại."
+    },
+    {
+     "t": "Bệnh viêm ruột (IBD)",
+     "n": "Không máu, không đi ngoài đêm, không sụt cân; CRP và calprotectin sẽ giúp loại thêm (ACG 2021 khuyến cáo 2; ACG UC 2025, phần chẩn đoán, mục calprotectin). Chưa làm được vì chị từ chối."
+    },
+    {
+     "t": "Tiêu chảy cấp nhiễm khuẩn hoặc nhiễm Giardia",
+     "n": "5 ngày, phân nước vàng, không máu, không sốt: phần lớn do virus, không cần kháng sinh (ACG 2016 khuyến cáo 10). Giardia là yếu tố nguy cơ (ACG 2021 Bảng 5); soi phân khi kéo dài > 7 ngày (ACG 2016 khuyến cáo 2)."
+    },
+    {
+     "t": "Bệnh celiac",
+     "n": "Gặp nhiều nhất ở IBS-D, nên làm huyết thanh (ACG 2021 khuyến cáo 1); chưa có kết quả vì chị từ chối."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nói rõ chẩn đoán dương tính 'hội chứng ruột kích thích thể tiêu chảy' bằng lời tự tin, giải thích đây là rối loạn tương tác ruột – não, không phải ung thư, không phải nhiễm trùng mạn",
+     "v": "c",
+     "n": "Chẩn đoán dương tính dựa trên triệu chứng khi không có dấu báo động (BSG 2021, tóm tắt khuyến cáo, mạnh; ACG 2021 khuyến cáo 5, 6). Giải thích trục ruột – não, vai trò của ăn uống, căng thẳng, nhiễm khuẩn (BSG 2021, mục Diagnosis, investigation and education; mạnh)."
+    },
+    {
+     "t": "Đề nghị xét nghiệm tối thiểu (công thức máu, CRP, celiac; mẫu phân cho FIT, calprotectin) và nói rõ lợi ích; khi chị từ chối thì tôn trọng, không ép, ghi hồ sơ lý do, nội dung đã giải thích, chị hiểu và tự quyết; chuyển phương án B và hẹn đề nghị lại",
+     "v": "c",
+     "n": "Phương án B: điều trị triệu chứng, theo dõi có mốc, dặn dấu hiệu quay lại, mời làm lại. TL-0214 khuyến cáo 5: người từ chối FIT cần được tư vấn là đánh giá triệu chứng chưa hoàn tất; khuyến cáo 8: chỉ quản lý ở tuyến ban đầu khi FIT dưới 10 µg Hb/g kèm lưới an toàn. Quan hệ đồng cảm giúp tuân thủ (BSG 2021, mạnh)."
+    },
+    {
+     "t": "Bù dịch bằng đường uống: uống nước và ORESOL, ăn nhẹ (cháo, canh, bánh quy mặn) từng ít một",
+     "v": "c",
+     "n": "Mất nước độ I, uống được: ORESOL (QĐ 5642/2015, mục 4.2.3a). Đa số người lớn bù đủ nước, muối bằng nước, canh, bánh quy mặn (ACG 2016 khuyến cáo 5). Lượng ORESOL người lớn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng tự truyền dịch tại nhà; hỏi cách làm (kim, dịch, vệ sinh), xem vết kim, giải thích không có chỉ định khi còn uống được",
+     "v": "c",
+     "n": "Truyền tĩnh mạch dành cho mất nước từ độ II trở lên, không uống được (QĐ 5642/2015, mục 4.2.3a); chị mất nước độ 1. Nguy cơ của việc tự truyền dịch tại nhà (nhiễm khuẩn, tai biến): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không dùng kháng sinh",
+     "v": "c",
+     "n": "Phần lớn tiêu chảy cộng đồng do virus, kháng sinh không rút ngắn bệnh (ACG 2016 khuyến cáo 9, 10); chị không có sốt, phân nhầy máu, bạch cầu tăng như tiêu chí của QĐ 5642/2015 mục 4.2.1."
+    },
+    {
+     "t": "Lời khuyên ăn uống và lối sống bước một: ăn đều ba bữa (không bỏ bữa sáng), giảm cà phê và đồ béo cay, vận động mỗi ngày (đi bộ sau ca), đi vệ sinh khi buồn đi",
+     "v": "c",
+     "n": "BSG 2021, tóm tắt khuyến cáo và mục Fibre and dietary therapies: ăn đều bữa, hạn chế caffeine, giảm đồ béo cay; vận động đều (mạnh, chứng cứ yếu). Số ly cà phê tối đa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi về căng thẳng, giấc ngủ, chuyện gia đình; lắng nghe, nói rằng triệu chứng của chị là thật; không bịa 'bệnh nặng' để chứng minh với chồng; cấp giấy xác nhận khám đúng với tình trạng thật nếu chị cần",
+     "v": "c",
+     "n": "Đồng cảm, thông tin là nhu cầu của người IBS; stress là yếu tố khởi phát cần khai thác (BSG 2021, mục Doctor-patient communication; mạnh). Quy định giấy nghỉ ốm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay (đi ngoài ra máu hoặc phân đen, sụt cân, đi ngoài ban đêm, sốt cao, không uống được, tiêu chảy quá 7 ngày) và hẹn tái khám sau 2 tuần",
+     "v": "c",
+     "n": "Dấu báo động đường tiêu hóa dưới (BSG 2021 Hộp 1); tiêu chảy > 7 ngày cần xét nghiệm phân (ACG 2016 khuyến cáo 2). Mốc 2 tuần là lựa chọn của ca, không có nguồn trong tài liệu đã tải."
+    },
+    {
+     "t": "Loperamid liều thấp khi thật cần (ngày đi làm xa nhà vệ sinh), không dùng đều hằng ngày; ngưng khi phân thành khuôn",
+     "v": "a",
+     "n": "ACG 2016: 4 mg lần đầu, 2 mg sau mỗi lần phân lỏng, tối đa 8 mg/ngày, không quá 48 giờ; táo bón sau điều trị thường gặp. BSG 2021 (mạnh, chứng cứ rất thấp): có thể giảm tiêu chảy, chỉnh liều cẩn thận. QĐ 5642/2015 mục 4.2.3b: không lạm dụng. ACG 2021 không xem là đầu tay (mục sổ TH-0812). Dùng hay không đều chấp nhận."
+    },
+    {
+     "t": "Thuốc chống co thắt khi quặn đau, hoặc men vi sinh tối đa 12 tuần",
+     "v": "a",
+     "n": "ACG 2021 khuyến cáo 12, 14: không khuyến cáo (có điều kiện); BSG 2021: có thể hiệu quả, men vi sinh thử tối đa 12 tuần (yếu). Liều chống co thắt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khuyên sàng lọc ung thư đại trực tràng theo tuổi bằng FIT hoặc nội soi khi chị sẵn sàng",
+     "v": "a",
+     "n": "USPSTF 2021: từ 45 tuổi (loại B); Asia-Pacific 2022 Statement 3: FIT mỗi 1–2 năm, Statement 6: hạ tuổi dưới 50 chưa chứng minh hiệu quả chi phí ở châu Á. Trả lời câu hỏi sàng lọc, không phải chẩn đoán IBS."
+    },
+    {
+     "t": "Cho ciprofloxacin hoặc kháng sinh khác cho 'sạch ruột'",
+     "v": "w",
+     "n": "Không có tiêu chí kháng sinh (QĐ 5642/2015 mục 4.2.1; ACG 2016 khuyến cáo 9, 10); kháng sinh còn là yếu tố nguy cơ IBS sau nhiễm khuẩn (ACG 2021, phần khuyến cáo 3)."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch ngay tại phòng khám, hoặc dặn chị tiếp tục tự truyền cho khỏe nhanh",
+     "v": "w",
+     "n": "Mất nước độ 1, uống được: ORESOL (QĐ 5642/2015 mục 4.2.3a); không tài liệu đã tải nêu chỉ định truyền ở ca này (mục sổ truyền dịch theo yêu cầu: w)."
+    },
+    {
+     "t": "Chuyển khẩn nội soi đại tràng hoặc nhập viện làm xét nghiệm",
+     "v": "w",
+     "n": "BSG 2021: không có vai trò của nội soi đại tràng trong IBS, trừ dấu báo động hoặc tiêu chảy không điển hình kèm yếu tố nguy cơ viêm đại tràng vi thể; ACG 2021 khuyến cáo 5, 6: chẩn đoán dương tính."
+    },
+    {
+     "t": "Điều kiện hóa: 'Không làm xét nghiệm thì tôi không điều trị' hoặc dọa chị bị ung thư để chị đồng ý",
+     "v": "w",
+     "n": "Người bệnh có quyền từ chối; xử trí đúng là tư vấn, ghi hồ sơ, theo dõi (TL-0214 khuyến cáo 5). Dọa nạt hỏng quan hệ thầy thuốc – người bệnh, tăng lo âu làm IBS nặng thêm (BSG 2021)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng ruột kích thích thể tiêu chảy (IBS-D) theo tiêu chuẩn triệu chứng: đau bụng tái diễn 14 tháng liên quan đại tiện, đổi tần suất và hình dạng phân",
+     "Đợt nặng lên sau tiêu chảy cấp nhẹ do uống nước giếng chưa đun, đang mất nước độ 1",
+     "Chưa có dấu báo động; chưa loại trừ bằng xét nghiệm celiac, viêm ruột, ung thư đại trực tràng vì chị từ chối: nói rõ đây là chẩn đoán lâm sàng tạm thời",
+     "Thuốc tự dùng: tự truyền dịch tĩnh mạch tại nhà, không có chỉ định",
+     "Yếu tố tâm lý và gia đình: căng thẳng do mâu thuẫn với chồng, ngủ ít"
+    ],
+    "phan_tich_chan_doan": [
+     "Rome IV (ACG 2021 Bảng 1): đau tái diễn trung bình ≥ 1 ngày/tuần trong 3 tháng gần nhất, kèm ≥ 2 trong 3: liên quan đại tiện, đổi tần suất, đổi hình dạng phân; khởi phát ≥ 6 tháng trước. Chị đau 2–3 ngày/tuần trong 14 tháng, dịu sau đi ngoài, đi 3–5 lần so với 1 lần trước, có phân lỏng lẫn cứng: đủ tiêu chuẩn.",
+     "Rome V chỉ biết qua khảo sát dịch tễ (Gut 2026, TL-0187, phần Discussion): ngưỡng đau hạ xuống ≥ 3 ngày/tháng, thêm lại 'khó chịu', loại người đau liên tục. Chị đủ cả hai; bài tiêu chuẩn Rome V đầy đủ không có trong tài liệu đã tải. Định nghĩa của NICE (đau hoặc khó chịu kèm đổi thói quen đi ngoài ≥ 6 tháng, không dấu báo động) thực dụng hơn ở tuyến ban đầu (BSG 2021, yếu).",
+     "Thể IBS-D khi > 25% lần đi ngoài bất thường là phân lỏng (Bristol 6–7) và < 25% là phân cứng (Bristol 1–2) (ACG 2021 khuyến cáo 7): chị khoảng 6/10 lần lỏng, 1/10 cứng. Ghi nhật ký 2 tuần để xác định chắc thể (khuyến cáo 7).",
+     "Đợt này: tiêu chảy cấp 5 ngày sau uống nước chưa đun, không sốt, không máu, người cùng khu trọ cũng bị, thường do virus, không cần kháng sinh (ACG 2016 khuyến cáo 9, 10). Nhiễm khuẩn ruột khởi phát hoặc làm nặng IBS, nhất là ở nữ (ACG 2021, phần khuyến cáo 3). Mất nước độ 1: HA, mạch ổn, không hạ huyết áp tư thế (QĐ 5642/2015 mục 3.1).",
+     "Loại ung thư đại trực tràng và viêm ruột chủ yếu bằng hỏi và khám: không máu, không sụt cân, không đi ngoài đêm, không thiếu máu triệu chứng, không khối (BSG 2021 Hộp 1). Công thức máu, CRP, celiac, calprotectin sẽ chắc hơn nhưng chị từ chối: cần theo dõi sát, mời làm lại. Giardia: nước giếng chưa xử lý là yếu tố nguy cơ (ACG 2021 Bảng 5); soi phân nếu kéo dài > 7 ngày (ACG 2016 khuyến cáo 2).",
+     "Vì sao hôm nay chị đến: căng thẳng gia đình kéo dài (chồng và mẹ chồng cho là giả bệnh), muốn có người xác nhận bệnh thật; chỉ lộ khi bác sĩ hỏi về căng thẳng và mong muốn của chị."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị: chẩn đoán dương tính, giải thích, ăn uống, vận động, bù dịch uống; không kháng sinh. Loperamid, chống co thắt, men vi sinh là lựa chọn không bắt buộc (mục sổ TH-0837, TH-0812); QĐ 5642/2015 mục 4.2.3b nhắc không lạm dụng thuốc cầm tiêu chảy.",
+     "Từ chối xét nghiệm: giải thích lợi ích bằng lời giản dị (một lần lấy máu, một mẫu phân tự lấy), nghe lý do (công khoán, tiền, sợ kim), tôn trọng, ghi hồ sơ. Phương án B: điều trị theo triệu chứng, tái khám 2 tuần, dặn dấu hiệu quay lại, đề nghị lại (TL-0214 khuyến cáo 5, 8). Tuyệt đối không dọa.",
+     "Tự truyền dịch: hỏi không phán xét, giải thích không có chỉ định khi uống được (QĐ 5642/2015 mục 4.2.3a), xem vết kim; nguy cơ cụ thể không có trong tài liệu đã tải.",
+     "Hẹn 2 tuần để xem đáp ứng và xét nghiệm lại; mốc này không có nguồn trong tài liệu đã tải (BSG 2021 Hình 2 nêu đánh giá hiệu quả ở 3 tháng).",
+     "Những việc sai: kháng sinh, truyền dịch tại phòng khám, nội soi hoặc nhập viện khẩn, dọa nạt để ép xét nghiệm; kiêng gluten hay loại thực phẩm theo IgG (BSG 2021: không khuyến cáo)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "ORESOL (muối bù nước đường uống)",
+      "ham_luong": "Gói, theo nhà sản xuất",
+      "lieu": "Pha theo hướng dẫn trên gói; uống từng ngụm nhỏ sau mỗi lần đi phân lỏng và khi khát",
+      "duong": "Uống",
+      "thoi_diem": "Rải đều trong ngày",
+      "so_ngay": "Đến khi hết tiêu chảy cấp",
+      "ghi_chu": "QĐ 5642/2015 mục 4.2.3a (mất nước độ I, uống được); ACG 2016 khuyến cáo 5. Lượng ORESOL người lớn và số ngày cụ thể: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Loperamid (không bắt buộc)",
+      "ham_luong": "2 mg",
+      "lieu": "Lần đầu 2 viên (4 mg); sau đó 1 viên (2 mg) sau mỗi lần đi phân lỏng; tối đa 4 viên (8 mg)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi cần, ví dụ trước khi vào chuyền may",
+      "so_ngay": "Tối đa 48 giờ liên tục; ngưng ngay khi phân thành khuôn",
+      "ghi_chu": "Liều và giới hạn 48 giờ theo ACG 2016 (mục loperamid); BSG 2021: chỉnh liều cẩn thận vì táo bón, đau, chướng; QĐ 5642/2015 mục 4.2.3b. Liều trong IBS: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Ngưng tự truyền dịch ở nhà. Uống ORESOL, nước đun sôi để nguội, ăn cháo, canh, bánh quy mặn từng ít một (QĐ 5642/2015 mục 4.2.3a; ACG 2016 khuyến cáo 5).",
+     "Chỉ uống nước đã đun sôi, ăn chín, rửa tay trước ăn và sau khi đi vệ sinh (QĐ 5642/2015 mục 6).",
+     "Ăn đều ba bữa, đừng bỏ bữa sáng, giảm cà phê, đồ béo cay; đi bộ mỗi ngày (BSG 2021). Ghi nhật ký giờ ăn, số lần đi ngoài, thang Bristol trong 2 tuần (ACG 2021 khuyến cáo 7).",
+     "Loperamid nếu dùng: chỉ khi cần, không quá 2 ngày liên tục, ngưng khi phân thành khuôn, không uống 'phòng' hằng ngày (ACG 2016).",
+     "Đến ngay cơ sở y tế nếu đi ngoài ra máu hoặc phân đen, sốt cao, không uống được, tiểu rất ít, chóng mặt khi đứng, sụt cân, đi ngoài ban đêm (BSG 2021 Hộp 1); tiêu chảy quá 7 ngày thì quay lại xét nghiệm phân (ACG 2016 khuyến cáo 2).",
+     "Khi sẵn sàng, xét nghiệm máu một lần và mẫu phân tự lấy giúp loại trừ bệnh nặng; lần tới nếu chị đồng ý thì làm.",
+     "Tái khám sau 2 tuần (mốc do bác sĩ chọn, không có nguồn)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Chị Lan tái khám sau 2 tuần, đi một mình. Tiêu chảy đã hết nhưng 4 ngày nay đi ngoài khó, 3 ngày chưa đi, bụng chướng và đau âm ỉ. Sinh hiệu: HA 116/72 mmHg, mạch 78 l/p, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%. Cân nặng 52 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện thụt tháo và làm đủ xét nghiệm cho chị Lan là quá tay: chị còn trung tiện, ăn uống được, không nôn, bụng chỉ chướng nhẹ, phân ứ do thuốc cầm tiêu chảy dùng kéo dài nên chỉ cần ngưng thuốc, uống đủ nước và chất xơ hòa tan (BSG 2021, mục Drugs used first line; ACG 2016, mục loperamid). Chị làm khoán, nằm viện mất công, thêm chi phí, căng thẳng ở nhà tăng, làm triệu chứng IBS nặng hơn (BSG 2021, mục Pathophysiology).",
+    "chuyen_tuyen": "Chuyển chị Lan đi nội soi đại tràng khẩn vì 'táo bón mới' là không cần: chị 46 tuổi, không máu, không sụt cân, Hb bình thường, FIT dưới 10 µg Hb/g, calprotectin dưới 100 µg/g; táo bón có nguyên nhân rõ là thuốc. BSG 2021 không có vai trò của nội soi trong IBS không dấu báo động; TL-0214 khuyến cáo 8 cho quản lý ở tuyến ban đầu khi FIT dưới 10 µg Hb/g kèm lưới an toàn. Chị mất ngày công, tốn kém, dễ tin mình có bệnh nặng hơn."
+   },
+   "loi_mo": "Bác sĩ ơi, hết tiêu chảy rồi, nhưng giờ tôi đi ngoài không được, ba hôm rồi chưa đi, bụng chướng đau âm ỉ. Đợt trước tôi lo quá, giờ đỡ lo thì lại bị chuyện này.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "116/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bốn ngày nay phân cứng như viên, phải rặn; ba ngày chưa đi. Bụng chướng, đau âm ỉ. Tiêu chảy đã hết từ ngày thứ 4 sau lần khám trước.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: triệu chứng mới là táo bón và chướng bụng"
+    },
+    {
+     "id": "loperamid",
+     "noi_dung": "Từ hôm khám trước chị uống loperamid 2 mg, mỗi sáng 1–2 viên 'cho khỏi chạy nhà vệ sinh lúc đang may', đến nay 12 ngày. Tiêu chảy hết từ ngày thứ 4 nhưng chị vẫn uống vì sợ tái, còn bao thuốc nên uống tiếp. Chị nghĩ bác sĩ dặn 'khi cần' là 'khi đi làm'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có dùng thuốc gì' chị chỉ nói 'thuốc bác sĩ cho'. Chỉ kể số viên và số ngày khi bác sĩ hỏi cụ thể cách uống loperamid hoặc hỏi chị uống thuốc đó bao lâu, bao nhiêu viên mỗi ngày.",
+     "k": 1,
+     "y": "Nguyên nhân táo bón: dùng loperamid đều kéo dài"
+    },
+    {
+     "id": "khong_tac",
+     "noi_dung": "Vẫn trung tiện được, không nôn, ăn uống bình thường dù hơi no sớm, đau âm ỉ không dữ dội, không sốt. Bụng chướng nhẹ từng đợt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt táo bón do thuốc với tắc ruột"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không có máu trong phân, không sụt cân (52 kg), không đi ngoài ban đêm, không sốt, không thấy khối. Kinh nguyệt còn đều, vừa hết hôm kia.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Từ hôm khám trước chị đã ngưng tự truyền dịch. Vết kim ở mu bàn tay lành rồi. Chị uống ORESOL 2 ngày thì hết lỏng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ lời dặn; ngưng tự truyền dịch"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Ở chuyền may chị ngại đi vệ sinh nên chỉ uống chừng 800 ml nước mỗi ngày, ăn ít rau, vẫn 2–3 ly cà phê sữa. Chưa đi bộ được vì tăng ca.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "xet_nghiem",
+     "noi_dung": "Từ lần trước chị suy nghĩ lại. Nếu bác sĩ đề nghị, chị đồng ý lấy máu một lần và nộp một mẫu phân tự lấy ở nhà, vì chị đã nhờ đổi ca và thấy làm một lần cho yên tâm. Chị vẫn chưa muốn nội soi. Nếu bác sĩ không nhắc lại thì chị không tự nói.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đề nghị lại xét nghiệm tối thiểu; chị đã đồng ý"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Sau lần khám, chị kể với chồng chị đi khám và bác sĩ nói bệnh là thật; anh bớt trách. Mẹ chồng về quê nửa tháng. Chị ngủ được 5–6 giờ. Vẫn lo khi nghĩ chuyện tiền.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, không vàng da, không mất nước. Cân nặng 52 kg.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng hơi chướng, gõ vang nhẹ, mềm, ấn đau nhẹ dọc khung đại tràng trái, không phản ứng thành bụng, không khối, âm ruột có, không âm ruột tăng kiểu tắc.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Phân cứng ở bóng trực tràng, trương lực cơ thắt bình thường, không khối, không máu trên găng.",
+     "k": 1
+    },
+    "da": {
+     "a": "Mu bàn tay trái: vết kim cũ đã lành, không sưng đỏ.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Khí sắc khá hơn lần trước, nói chuyện thoải mái, lo nhẹ về tiền bạc, không ý tưởng tự hại.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 128 g/L · BC 6,8 G/L · TC 280 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 60.0,
+      "neu": 4.08,
+      "lym_pct": 31.0,
+      "lym": 2.11,
+      "mono_pct": 6.5,
+      "mono": 0.44,
+      "eos_pct": 2.0,
+      "eos": 0.14,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.2,
+      "hgb": 128,
+      "hct": 0.38,
+      "mcv": 89.0,
+      "mch": 30.5,
+      "mchc": 337,
+      "rdw": 13.1,
+      "plt": 280
+     },
+     "n": "Làm khi chị đồng ý: người có triệu chứng IBS lần đầu nên làm công thức máu, CRP hoặc máu lắng, huyết thanh celiac (BSG 2021, mạnh). Hb 128 g/L ở nữ: không thiếu máu."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 1,8 mg/L (< 5)",
+     "bang": {
+      "crp": 1.8
+     },
+     "n": "ACG 2021 khuyến cáo 2 và BSG 2021: CRP bình thường làm viêm ruột rất khó xảy ra."
+    },
+    "celiac": {
+     "v": "e",
+     "r": "Anti-tTG IgA âm tính",
+     "n": "ACG 2021 khuyến cáo 1 (mạnh, chứng cứ trung bình) cho IBS có tiêu chảy; BSG 2021 cho mọi người IBS lần đầu. Âm tính loại celiac."
+    },
+    "calprotectin": {
+     "v": "a",
+     "r": "Calprotectin phân 38 µg/g (dưới 100)",
+     "n": "ACG 2021 khuyến cáo 2 gợi ý làm; BSG 2021 chỉ ở người < 45 tuổi (dưới 100 µg/g thường bình thường, từ 250 µg/g bất thường, Hình 1). Chị 47 tuổi: làm hay không đều chấp nhận."
+    },
+    "fit": {
+     "v": "a",
+     "r": "FIT định lượng dưới 10 µg Hb/g phân (âm tính)",
+     "n": "Sàng lọc theo tuổi (USPSTF 2021 từ 45 tuổi; Asia-Pacific 2022 Statement 3), không dùng chẩn đoán IBS. TL-0214 khuyến cáo 8: dưới 10 µg Hb/g, quản lý ở tuyến ban đầu kèm lưới an toàn được."
+    },
+    "soi_phan": {
+     "v": "a",
+     "r": "Không thấy trứng hay ký sinh trùng, không hồng cầu, không bạch cầu",
+     "n": "ACG 2021 khuyến cáo 3, Bảng 5: soi phân khi có yếu tố nguy cơ Giardia (nước giếng chưa xử lý). Tiêu chảy đã hết: làm hay không đều chấp nhận; kháng nguyên Giardia không có trong danh mục."
+    },
+    "noi_soi_dt": {
+     "n": "Không có chỉ định: không dấu báo động, FIT, Hb, CRP, calprotectin bình thường, táo bón mới do thuốc (BSG 2021). Sàng lọc không khẩn theo tuổi: Asia-Pacific 2022 Statement 3."
+    },
+    "xq_bung": {
+     "n": "Không cần: đã thăm trực tràng thấy phân ứ, trung tiện được, không nôn. BSG 2021 (mục Investigation in primary care) chỉ nêu X-quang bụng khi táo bón là triệu chứng chính."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng ruột kích thích thể tiêu chảy (IBS-D), xét nghiệm tối thiểu bình thường, kèm táo bón thứ phát do dùng loperamid kéo dài; chưa có dấu báo động",
+     "ok": 1,
+     "n": "Rome IV và V đủ từ lượt 1; Hb, CRP, celiac, FIT, calprotectin bình thường. Táo bón mới sau 12 ngày dùng loperamid, thăm trực tràng thấy phân ứ; táo bón sau điều trị thường gặp (ACG 2016; BSG 2021)."
+    },
+    {
+     "t": "Táo bón do thuốc (loperamid)",
+     "ok": 1,
+     "n": "Tác dụng phụ của loperamid dùng dài; BSG 2021 (Drugs used first line): đau, chướng, buồn nôn, táo bón hay gặp, chỉnh liều cẩn thận."
+    },
+    {
+     "t": "Tắc ruột hoặc bán tắc ruột",
+     "n": "Còn trung tiện, không nôn, bụng mềm không phản ứng, không quai ruột nổi; ngưỡng chẩn đoán tắc ruột: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đổi sang IBS thể hỗn hợp hoặc táo bón (IBS-M, IBS-C)",
+     "n": "Thể IBS có thể đổi theo thời gian; không gán lại thể chỉ vì táo bón sau thuốc; ghi nhật ký 2 tuần trước (ACG 2021 khuyến cáo 7)."
+    },
+    {
+     "t": "Ung thư đại trực tràng",
+     "n": "Không máu, không sụt cân, không thiếu máu, FIT dưới 10 µg Hb/g (TL-0214 khuyến cáo 8); 47 tuổi không đủ tiêu chí báo động (BSG 2021 Hộp 1)."
+    },
+    {
+     "t": "Bệnh viêm ruột (IBD)",
+     "n": "CRP và calprotectin phân bình thường (ACG 2021 khuyến cáo 2; ACG UC 2025, phần chẩn đoán, mục calprotectin); không máu, không đi ngoài đêm."
+    },
+    {
+     "t": "Bệnh celiac",
+     "n": "Anti-tTG IgA âm tính (ACG 2021 khuyến cáo 1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi kỹ cách dùng loperamid; nhận ra táo bón do thuốc dùng kéo dài; ngưng hẳn loperamid, giải thích 'khi cần' nghĩa là chỉ lúc đang tiêu chảy và không quá 2 ngày",
+     "v": "c",
+     "n": "ACG 2016 (mục loperamid): 4 mg lần đầu rồi 2 mg sau mỗi lần phân lỏng, tối đa 8 mg/ngày, không quá 48 giờ, dùng liều thấp nhất để tránh táo bón sau điều trị. BSG 2021 (mạnh, chứng cứ rất thấp): táo bón, đau, chướng hay gặp, chỉnh liều cẩn thận. QĐ 5642/2015 mục 4.2.3b. Dùng đều kéo dài chấm w (mục sổ TH-0812)."
+    },
+    {
+     "t": "Thăm trực tràng và khám bụng, hỏi trung tiện, nôn, đau dữ dội để phân biệt phân ứ do thuốc với tắc ruột; không cần X-quang bụng",
+     "v": "c",
+     "n": "BSG 2021 (mục Investigation in primary care): khám bụng và thăm trực tràng giúp loại trừ chẩn đoán khác, xác định phân ứ. Ngưỡng chẩn đoán tắc ruột: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đề nghị lại xét nghiệm tối thiểu: lấy máu một lần (công thức máu, CRP, celiac) và mẫu phân tự lấy (FIT, soi phân, calprotectin); chị đồng ý nên thực hiện",
+     "v": "c",
+     "n": "BSG 2021 (mạnh): công thức máu, CRP hoặc máu lắng, celiac cho IBS lần đầu; ACG 2021 khuyến cáo 1, 2; TL-0214 khuyến cáo 5: khuyến khích người từ chối làm tiếp. FIT, calprotectin, soi phân chấm a (mục sổ cũ)."
+    },
+    {
+     "t": "Giải thích kết quả bình thường: ung thư, viêm ruột, celiac rất khó xảy ra; chẩn đoán IBS-D nay chắc hơn; không cần nội soi",
+     "v": "c",
+     "n": "Xét nghiệm đơn giản bình thường thì tối thiểu hóa thăm dò khác (BSG 2021, mục Investigation in primary care). TL-0214 khuyến cáo 8, 9: FIT dưới 10 µg Hb/g quản lý tại tuyến ban đầu kèm lưới an toàn, chuyển nếu triệu chứng dai dẳng không giải thích được."
+    },
+    {
+     "t": "Điều trị táo bón bước đầu: uống đủ nước, chất xơ hòa tan (vỏ hạt mã đề) bắt đầu 3–4 g/ngày rồi tăng dần, tránh cám lúa mì, vận động mỗi ngày, đi vệ sinh khi buồn đi dù đang ở chuyền may",
+     "v": "c",
+     "n": "BSG 2021 (mạnh, chứng cứ trung bình): chất xơ hòa tan 3–4 g/ngày tăng dần, tránh chất xơ không hòa tan; vận động (mạnh); ACG 2021 khuyến cáo 11. Lượng nước mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ghi nhật ký ăn uống, đại tiện (thang Bristol) 2 tuần và không đổi nhãn thể bệnh ngay",
+     "v": "c",
+     "n": "ACG 2021 khuyến cáo 7: nhật ký 2 tuần cho đánh giá chính xác nhất; phân thể theo Bristol; gán sai thể có thể cho thuốc làm triệu chứng nặng thêm."
+    },
+    {
+     "t": "Hỏi lại căng thẳng, giấc ngủ, mâu thuẫn gia đình; khích lệ việc chị đã nói với chồng; nhắc có liệu pháp tâm lý hướng ruột (CBT, thôi miên hướng ruột) nếu triệu chứng dai dẳng",
+     "v": "c",
+     "n": "ACG 2021 khuyến cáo 24 (có điều kiện); BSG 2021: CBT và thôi miên hướng ruột (mạnh, chứng cứ thấp), xét sau 12 tháng thuốc không đỡ, sớm hơn nếu có sẵn tại địa phương. Nơi cung cấp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay (máu trong phân, phân đen, sụt cân, đau dữ dội, nôn, bụng chướng căng không trung tiện, đi ngoài đêm) và hẹn tái khám sau 8 tuần",
+     "v": "c",
+     "n": "BSG 2021 Hộp 1 và mục chuyển tuyến. Mốc 8 tuần là lựa chọn của ca (tròn 3 tháng kể từ lượt 1; BSG 2021 Hình 2 đánh giá ở 3 tháng), không có nguồn riêng trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc chống co thắt khi quặn đau, hoặc nhuận tràng thẩm thấu macrogol (PEG) ngắn ngày nếu chất xơ chưa đủ",
+     "v": "a",
+     "n": "Chống co thắt: ACG 2021 khuyến cáo 12 không khuyến cáo, BSG 2021 có thể giúp (yếu). PEG: ACG 2021 khuyến cáo 15 gợi ý không dùng cho IBS-C (có điều kiện); BSG 2021 nêu PEG có thể giúp táo bón trong IBS (yếu), đau bụng thường gặp. Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khuyên sàng lọc ung thư đại trực tràng định kỳ theo tuổi bằng FIT (hoặc nội soi) vì chị đã 47 tuổi",
+     "v": "a",
+     "n": "USPSTF 2021 từ 45 tuổi; Asia-Pacific 2022 Statement 3: FIT mỗi 1–2 năm hoặc nội soi mỗi 10 năm; Statement 6. FIT vừa làm âm tính; nội soi sàng lọc không khẩn chấp nhận."
+    },
+    {
+     "t": "Dùng tiếp loperamid mỗi ngày để 'phòng' tiêu chảy khi đi làm",
+     "v": "w",
+     "n": "Dùng liên tục kéo dài vượt giới hạn 48 giờ (ACG 2016); BSG 2021 cảnh báo táo bón; QĐ 5642/2015 mục 4.2.3b không lạm dụng. Chính cách dùng này gây táo bón hiện tại."
+    },
+    {
+     "t": "Đổi nhãn sang IBS-C hoặc IBS-M và cho thuốc điều trị thể táo bón (linaclotid, lubiprostone) ngay",
+     "v": "w",
+     "n": "ACG 2021 khuyến cáo 7: gán sai thể có thể làm triệu chứng nặng thêm; táo bón nay có nguyên nhân thuốc rõ ràng. Thuốc IBS-C là chỉ định cho đúng thể (ACG 2021 khuyến cáo 16, 17)."
+    },
+    {
+     "t": "Chuyển nội soi đại tràng khẩn hoặc nhập viện thụt tháo vì táo bón mới",
+     "v": "w",
+     "n": "BSG 2021: không nội soi trong IBS không dấu báo động; TL-0214 khuyến cáo 8: FIT dưới 10 µg Hb/g, có lưới an toàn thì quản lý tại tuyến ban đầu. Không có tắc ruột."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng ruột kích thích thể tiêu chảy (IBS-D) được xác nhận bằng triệu chứng và xét nghiệm tối thiểu bình thường (Hb, CRP, celiac, FIT, calprotectin)",
+     "Táo bón thứ phát do dùng loperamid đều 12 ngày (triệu chứng mới), có phân ứ ở trực tràng",
+     "Không có dấu hiệu tắc ruột, không có dấu báo động",
+     "Yếu tố tâm lý: căng thẳng gia đình đang giảm sau khi chị nói chuyện với chồng"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao táo bón: loperamid 2 mg mỗi sáng 12 ngày dù tiêu chảy hết từ ngày thứ 4, vượt giới hạn 48 giờ của ACG 2016; táo bón sau điều trị là phàn nàn thường gặp (ACG 2016, mục loperamid; BSG 2021, Drugs used first line). Thăm trực tràng thấy phân cứng ứ.",
+     "Vì sao không phải tắc ruột: còn trung tiện, không nôn, ăn uống được, bụng mềm không phản ứng; tiêu chí chẩn đoán tắc ruột không có trong tài liệu đã tải.",
+     "Vì sao không đổi thể bệnh: IBS-D chẩn đoán từ lượt 1 (6/10 lần lỏng); táo bón ngắn ngày có nguyên nhân thuốc; ACG 2021 khuyến cáo 7 khuyên nhật ký 2 tuần và cảnh báo gán sai thể có thể làm điều trị nặng thêm.",
+     "Kết quả: Hb 128 g/L, CRP 1,8 mg/L, anti-tTG IgA âm tính, FIT dưới 10 µg Hb/g, calprotectin 38 µg/g (dưới 100 là bình thường, BSG 2021), soi phân không ký sinh trùng. Xét nghiệm đơn giản bình thường thì tối thiểu hóa thăm dò khác (BSG 2021); FIT dưới 10 µg Hb/g quản lý tại tuyến ban đầu kèm lưới an toàn (TL-0214 khuyến cáo 8, 9). Nội soi đại tràng không có chỉ định.",
+     "Chị đồng ý xét nghiệm nhờ quan hệ tin cậy ở lượt 1 (tôn trọng việc từ chối, không dọa): quan hệ tốt giúp tuân thủ và giảm lần đi khám (BSG 2021, mạnh)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng loperamid, chất xơ hòa tan, nước, vận động; chưa cần nhuận tràng mạnh vì còn trung tiện và phân ứ do thuốc thường tự hết khi ngưng thuốc (suy luận từ cơ chế, không có trong tài liệu đã tải).",
+     "Chất xơ hòa tan 3–4 g/ngày tăng dần (BSG 2021, mạnh), tránh cám lúa mì. PEG và chống co thắt là lựa chọn không bắt buộc vì hai nguồn khác nhau: ACG 2021 gợi ý không dùng, BSG 2021 cho phép (yếu); không bên nào nói gây hại.",
+     "Chưa cần thuốc ba vòng liều thấp vì triệu chứng đang nhẹ; nếu cần sau này, bắt đầu amitriptylin 10 mg buổi tối, tăng chậm tới tối đa 30–50 mg (BSG 2021, mạnh, chứng cứ trung bình). Nhắc liệu pháp hướng ruột (ACG 2021 khuyến cáo 24; BSG 2021).",
+     "Hẹn 8 tuần để đánh giá lại khoảng 3 tháng (BSG 2021 Hình 2); mốc là lựa chọn của ca.",
+     "Những việc sai: tiếp tục loperamid đều, đổi nhãn sang IBS-C rồi cho thuốc táo bón, nội soi hoặc nhập viện khẩn, tự truyền dịch lại (QĐ 5642/2015 mục 4.2.3a)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Loperamid (NGƯNG)",
+      "ham_luong": "2 mg",
+      "lieu": "Không dùng nữa; chỉ dùng lại khi tiêu chảy và không quá 2 ngày liên tục",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng hằng ngày",
+      "so_ngay": "Ngưng từ hôm nay",
+      "ghi_chu": "Giới hạn 48 giờ và tối đa 8 mg/ngày theo ACG 2016 (mục loperamid); BSG 2021: táo bón là tác dụng phụ hay gặp."
+     },
+     {
+      "thuoc": "Vỏ hạt mã đề (ispaghula), chất xơ hòa tan",
+      "ham_luong": "Gói bột theo nhà sản xuất",
+      "lieu": "Bắt đầu 3–4 g/ngày, tăng dần để tránh chướng bụng; hòa với một ly nước đầy",
+      "duong": "Uống",
+      "thoi_diem": "Sau bữa tối, uống thêm nước",
+      "so_ngay": "Dùng duy trì, đánh giá lại ở lần tái khám",
+      "ghi_chu": "BSG 2021, tóm tắt khuyến cáo (mạnh, chứng cứ trung bình); ACG 2021 khuyến cáo 11. Tránh cám lúa mì."
+     }
+    ],
+    "dan_do": [
+     "Ngưng loperamid; nếu tiêu chảy lại thì chỉ dùng 1–2 ngày khi cần, không dùng 'phòng' hằng ngày (ACG 2016).",
+     "Uống đủ nước, mang chai nước vào chuyền may; đi vệ sinh ngay khi buồn, đừng nhịn. Lượng nước mỗi ngày: không có trong tài liệu đã tải.",
+     "Chất xơ hòa tan 3–4 g/ngày rồi tăng từ từ, ăn thêm rau chín, trái cây mềm; tránh cám lúa mì (BSG 2021). Đi bộ sau ca nếu có thể, giảm cà phê, đồ béo cay (BSG 2021); thời lượng đi bộ không có trong tài liệu đã tải.",
+     "Tiếp tục nhật ký đại tiện, thang Bristol 2 tuần (ACG 2021 khuyến cáo 7).",
+     "Đến ngay cơ sở y tế nếu bụng chướng căng, nôn, không trung tiện, đau dữ dội, đi ngoài ra máu hoặc phân đen, sụt cân, đi ngoài ban đêm (BSG 2021 Hộp 1).",
+     "Nếu còn đau bụng hay căng thẳng ảnh hưởng đời sống, hỏi về liệu pháp tâm lý hướng ruột (ACG 2021 khuyến cáo 24); sàng lọc ung thư đại trực tràng định kỳ bằng FIT mỗi 1–2 năm (Asia-Pacific 2022 Statement 3).",
+     "Tái khám sau 8 tuần (mốc do bác sĩ chọn, không có nguồn), sớm hơn nếu có dấu hiệu trên."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Lan ngưng loperamid, uống thêm nước và chất xơ hòa tan; sau khoảng 1 tuần đi ngoài mỗi ngày một lần, phân mềm thành khuôn. Ba tháng sau, đau quặn còn khoảng 1 lần mỗi tuần và nhẹ, chị đi làm đều và biết những thứ làm bụng nặng lên (cà phê, bỏ bữa, thức khuya). Chồng đi cùng chị một lần để nghe bác sĩ giải thích bệnh là thật, mâu thuẫn trong nhà dịu đi. Chị không tự truyền dịch nữa. Không cần nội soi.",
+ "nhieu": [
+  "Tiêu chảy cấp sau uống nước giếng chưa đun: dễ tưởng cần kháng sinh hoặc truyền dịch; thực ra tiêu chảy nước không sốt, không máu, mất nước độ 1 chỉ cần bù dịch uống (QĐ 5642/2015 mục 4.2.3a; ACG 2016 khuyến cáo 9, 10), nằm chồng lên IBS nền.",
+  "Tự truyền dịch tại nhà: chị không tự kể, chỉ lộ khi hỏi cụ thể hoặc thấy vết kim ở mu bàn tay.",
+  "Từ chối xét nghiệm lượt 1: do tiền, công khoán, sợ kim, không phải thiếu hợp tác; tôn trọng, ghi hồ sơ, đề nghị lại nên lượt 2 chị đồng ý.",
+  "Táo bón mới ở lượt 2: dễ nghĩ ung thư hoặc đổi thể bệnh; thực ra do loperamid dùng đều, không dấu báo động."
+ ],
+ "bai_hoc_bien": [
+  "Chẩn đoán IBS là chẩn đoán dương tính theo tiêu chuẩn triệu chứng, không phải chẩn đoán loại trừ (ACG 2021 khuyến cáo 5, 6; BSG 2021): nói chắc chắn, giải thích trục ruột – não.",
+  "Người bệnh từ chối xét nghiệm: giải thích, tôn trọng, ghi hồ sơ, dùng phương án B có mốc theo dõi, đề nghị lại (TL-0214 khuyến cáo 5). Không dọa, không điều kiện hóa.",
+  "Hỏi thuốc phải hỏi cụ thể: tự truyền dịch, loperamid mua sẵn; 'đang dùng thuốc gì' thường chỉ nhận lại thuốc bác sĩ kê.",
+  "Triệu chứng mới ở lượt tái khám là dữ kiện đắt nhất: trước khi nghĩ bệnh mới, hỏi lại thuốc vừa dùng; loperamid dùng quá 48 giờ gây táo bón (ACG 2016).",
+  "Lý do thật đến khám là mâu thuẫn gia đình: hỏi về căng thẳng và mong muốn của người bệnh; xử lý căng thẳng là một phần điều trị IBS (BSG 2021). Hợp tác tốt không có nghĩa là hiểu đúng 'khi cần': dặn cụ thể số viên, số ngày, dấu hiệu ngưng."
+ ],
+ "diem_nho": [
+  "Rome IV (ACG 2021 Bảng 1): đau ≥ 1 ngày/tuần trong 3 tháng, ≥ 2/3 yếu tố, khởi phát ≥ 6 tháng. Rome V (Gut 2026, TL-0187): đau ≥ 3 ngày/tháng, thêm 'khó chịu'; tiêu chuẩn đầy đủ không có trong tài liệu đã tải.",
+  "Thể IBS: > 25% phân lỏng (Bristol 6–7) và < 25% phân cứng là IBS-D; ghi nhật ký 2 tuần (ACG 2021 khuyến cáo 7).",
+  "Xét nghiệm tối thiểu: công thức máu, CRP/máu lắng, celiac; calprotectin ở người < 45 tuổi có tiêu chảy (BSG 2021); ACG 2021 khuyến cáo 1, 2.",
+  "Uống nước giếng chưa xử lý là yếu tố nguy cơ Giardia: soi phân khi nguy cơ hoặc tiêu chảy > 7 ngày (ACG 2021 Bảng 5; ACG 2016 khuyến cáo 2).",
+  "Mất nước độ I: ORESOL; truyền tĩnh mạch khi từ độ II, không uống được (QĐ 5642/2015 mục 4.2.3a).",
+  "FIT dưới 10 µg Hb/g cho phép quản lý ở tuyến ban đầu kèm lưới an toàn; người từ chối FIT cần được tư vấn đánh giá chưa hoàn tất (TL-0214 khuyến cáo 5, 8)."
+ ],
+ "nguon": [
+  "ACG Clinical Guideline: Management of Irritable Bowel Syndrome 2021 (Lacy, Am J Gastroenterol 2021;116:17-44) – bản chữ lấy từ tltk-10000-ca 'ACG 2021 - Management of irritable bowel syndrome' (bản chữ TL-0218 trong tltk-10000-ca-2 bị nhầm là nhãn thuốc Viberzi) – Bảng 1, Bảng 5, khuyến cáo 1–8, 10–12, 14–17, 23, 24, phần giải thích khuyến cáo 3 (nhiễm khuẩn, Giardia) và 7 (thể bệnh, nhật ký)",
+  "BSG 2021 – Guidelines on the management of IBS (Vasant, Gut 2021;70:1214-1240) – TL-0220 – tóm tắt khuyến cáo, Hộp 1, mục Pathophysiology, mục Investigation in primary care, mục Fibre and dietary therapies, mục Drugs used first line, mục Psychological therapies, Hình 1, Hình 2",
+  "ACPGBI/BSG 2022 – FIT in patients with signs or symptoms of suspected colorectal cancer – TL-0214 – khuyến cáo 5, 8, 9, 17 và mục FIT ở người < 50 tuổi",
+  "ACG Clinical Guideline: Diagnosis, Treatment and Prevention of Acute Diarrheal Infections in Adults 2016 – TL-0233 – Bảng 1 (khuyến cáo 2, 5, 9, 10), mục loperamid",
+  "BYT QĐ 5642/QĐ-BYT/2015 – Hướng dẫn chẩn đoán và điều trị một số bệnh truyền nhiễm – TL-0038 – Bệnh tiêu chảy do vi khuẩn, mục 3.1, 4.2.1, 4.2.3, 6",
+  "ACG Ulcerative Colitis in Adults 2025 – TL-0195 – phần chẩn đoán, mục calprotectin phân",
+  "USPSTF 2021 – Colorectal cancer screening – TL-0221 – khuyến cáo theo tuổi; Asia-Pacific Working Group 2022 – CRC screening – TL-0217 – Statement 3, 6",
+  "Rome V global epidemiology survey (Sperber, Gut 2026) – TL-0187 – phần Discussion, Bảng 3 (tệp là khảo sát dịch tễ, không phải bài tiêu chuẩn Rome V Bowel Disorders)",
+  "Không có trong tài liệu đã tải: tiêu chuẩn Rome V đầy đủ; liều ORESOL người lớn; liều chống co thắt và macrogol cho IBS; nguy cơ tự truyền dịch tại nhà; ngưỡng chẩn đoán tắc ruột; mốc tái khám 2 tuần và 8 tuần; số ly cà phê, lượng nước mỗi ngày, thời lượng đi bộ; quy định giấy nghỉ ốm; nơi cung cấp liệu pháp tâm lý hướng ruột."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-19 (bản 1): viết theo đặc tả sổ cái TH-0787 (IBS-D, nữ 46 tuổi, công nhân may, 2 lượt, từ chối xét nghiệm, triệu chứng mới ở lượt 2). Tài liệu đã đọc: TL-0218 (bản kho cũ: Bảng 1, 2, 5, khuyến cáo 1–25), TL-0220 (tóm tắt khuyến cáo, Hộp 1, Hình 1–2), TL-0214 (khuyến cáo 1–17), TL-0233 (Bảng 1, mục loperamid, ORS), TL-0038 (Bệnh tiêu chảy do vi khuẩn mục 3–6), TL-0195, TL-0217, TL-0221, TL-0187.",
+  "Ràng buộc 'từ chối xét nghiệm': khoa_cls null như các ca TH-0645, HH-1035; lượt 1 từ chối thể hiện ở su_that, cls (r ghi từ chối, ab 0) và xu_tri; lượt 2 chị đồng ý làm bộ tối thiểu (kết quả là số liệu phụ do biên soạn, nhất quán bệnh cảnh).",
+  "Áp dụng mục sổ mâu thuẫn cũ: TH-0837 (chống co thắt, men vi sinh, calprotectin ≥ 45 tuổi, Rome IV/V), TH-0812 (loperamid lượt 1 a, dùng đều w, lượt 2 chỉnh c), truyền dịch theo yêu cầu, sàng lọc theo tuổi. Mâu thuẫn mới: PEG cho táo bón trong IBS (xem _mau_thuan.md). Không có trong tài liệu đã tải: xem mục nguon cuối."
+ ]
+}
