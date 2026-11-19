@@ -1,0 +1,442 @@
+{
+ "ma_ca": "TH-0446",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_gerd_tai_phat",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Trào ngược dạ dày thực quản (GERD)",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh mạch vành",
+   "Loét thực quản"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Thợ cắt tóc",
+  "yeu_to_khoi_phat": "Sau bữa ăn hải sản",
+  "thuoc_dang_dung": "Không",
+  "ly_do_that_su_den_kham": "Mâu thuẫn gia đình"
+ },
+ "benh_nhan": {
+  "ten": "Lê Hoàng Khang",
+  "tuoi": 29,
+  "gioi": "Nam",
+  "nghe": "Thợ cắt tóc",
+  "can_nang": 72,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi anh. Anh xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói nhanh, tự tin, hay chen 'em đọc trên mạng'. Ngoài cứng nhưng trong lòng nặng chuyện nhà. Rất ngại bị coi là làm bộ.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: tự nói 'em bị GERD, có khi Barrett', đòi nội soi và thuốc vonoprazan, chê omeprazol 'nhờn thuốc'. Nếu bị gạt đi thì cáu; nếu được công nhận phần đúng thì nghe và nói thật chuyện nhà.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9ab85",
+   "toc": "#1d1a17",
+   "kieuToc": "ngan",
+   "ao": "#2f3a4a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đau rát sau xương ức, chua miệng sau bữa lẩu hải sản; nghi trào ngược",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Lê Hoàng Khang, 29 tuổi, thợ cắt tóc. Đến vì đau rát sau xương ức và chua miệng hai ngày nay, sau bữa lẩu hải sản. Đã từng bị tương tự bảy tháng trước. Sinh hiệu: HA 118/72 mmHg, mạch 76 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Khang 29 tuổi, đau nóng rát sau ăn, ECG bình thường, không dấu báo động, huyết động ổn: nhập viện là không cần vì GERD điều trị ngoại trú (VNAGE 2026 KC 11, 13), biến chứng nặng ít gặp ở Việt Nam (KC 4). Anh nằm viện vài ngày, mất công việc ở tiệm, tốn chi phí, cha càng cho là 'làm bộ', còn thói quen ăn tối muộn, hút thuốc và việc tự ngưng thuốc vẫn nguyên nên ra viện vài tuần sau lại tái phát.",
+    "chuyen_tuyen": "Chuyển anh đi nội soi ngay hôm nay như một ca cấp cứu là quá tay: không có dấu báo động nên nội soi không khẩn (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3). Anh mất nửa ngày, tốn kém, vẫn chưa có thuốc nên đêm vẫn thức vì chua, và nghe kết quả nội soi mà không có ai dặn chuyện ăn tối muộn, thuốc lá, bia nên bệnh vẫn quay lại.",
+    "cap_cuu": "Gọi cấp cứu 115 vì sợ nhồi máu ở người 29 tuổi đau ợ nóng sau ăn, ECG bình thường là quá tay (ESC 2023 mục 3.1.1 chỉ cần cấp cứu khi đau ngực gợi hội chứng vành cấp). Anh lo thêm bệnh nặng, tốn kém, tin rằng mình 'bệnh tim', và vẫn không được giải thích về trào ngược, thuốc đủ 8 tuần và lối sống."
+   },
+   "loi_mo": "Chào bác sĩ. Hai hôm nay em rát sau ngực, chua lên tận họng. Em tra mạng thì giống trào ngược dạ dày thực quản, em muốn nội soi và xin thuốc vonoprazan.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "118/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau rát sau xương ức và chua miệng hai ngày nay, sau bữa lẩu hải sản chủ nhật. Anh tự tra mạng thấy giống trào ngược dạ dày thực quản.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "tra_mang",
+     "noi_dung": "Anh đọc trên mạng: trào ngược dạ dày thực quản, lâu ngày có thể thành Barrett rồi ung thư thực quản. Anh muốn được nội soi và xin thuốc vonoprazan 'thế hệ mới' thấy mọi người nhắc trên diễn đàn, không muốn uống lại omeprazol 'đã nhờn'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Chẩn đoán tự tra mạng, nỗi lo ung thư"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Nóng rát sau xương ức, kèm nước chua trào lên họng, rõ nhất 30–60 phút sau ăn, khi nằm hoặc cúi người. Hai đêm nay thức giấc lúc 1–2 giờ sáng vì chua. Ợ hơi nhiều. Đau không lan tay, hàm, lưng; không vã mồ hôi, không khó thở; đi bộ, leo cầu thang không làm đau hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm triệu chứng: ợ nóng, trào ngược, không liên quan gắng sức"
+    },
+    {
+     "id": "tai_phat",
+     "noi_dung": "Bảy tháng trước anh khám ở phòng khám huyện, được bảo là trào ngược, uống omeprazol 20 mg khoảng 3 tuần. Hết triệu chứng nên anh tự ngưng, không tái khám, chưa nội soi lần nào. Khoảng hai tháng nay thỉnh thoảng một hai lần mỗi tuần lại chua, anh chịu đựng, không dùng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tái phát sau ngưng PPI sớm, chưa thăm dò"
+    },
+    {
+     "id": "bua_lau",
+     "noi_dung": "Tối chủ nhật ăn lẩu hải sản chua cay ở nhà anh cả, ăn rất no, uống ba lon bia, rồi nằm xem ti vi ngay. Không nôn, không tiêu chảy, không nổi mề đay hay khó thở sau khi ăn hải sản.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: bữa ăn no, chua cay, bia, nằm sớm"
+    },
+    {
+     "id": "thoi_quen",
+     "noi_dung": "Đóng tiệm khoảng 21 giờ 30, về ăn tối muộn hoặc ăn khuya rồi đi ngủ sau chừng một giờ. Hút nửa gói thuốc lá mỗi ngày, ba năm nay. Cà phê 2–3 ly mỗi ngày, bia 2–3 lon mỗi cuối tuần. Không tập thể dục.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguyên nhân nền chưa xử lý: ăn sát giờ ngủ, thuốc lá, bia"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không nuốt nghẹn, không nuốt đau, không nôn, không sụt cân, không đi cầu phân đen, không nôn ra máu, không mệt xanh xao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Chưa từng đau ngực khi gắng sức; cha mẹ không ai bị bệnh tim hay đột tử sớm. Không tăng huyết áp, không tiểu đường. Chưa từng xét nghiệm mỡ máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc tim mạch"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Hiện không dùng thuốc thường xuyên, không uống thuốc giảm đau, không aspirin. Hai ngày nay chưa uống thuốc gì cho dạ dày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Làm thợ cắt tóc cùng cha ở tiệm nhà, đứng và cúi nhiều giờ liền, hay bỏ bữa trưa khi đông khách, ăn bù buổi tối.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "gia_dinh_ung_thu",
+     "noi_dung": "Không ai trong nhà bị ung thư thực quản hay dạ dày.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "mau_thuan",
+     "noi_dung": "Cha anh, chủ tiệm, cho rằng anh 'làm bộ bệnh để trốn việc' mỗi lần kêu đau; anh nghỉ khám lần trước còn bị trừ tiền công. Bữa lẩu hôm chủ nhật hai anh em cãi nhau chuyện chia tiệm, anh bỏ bữa giữa chừng, cơn chua rát nặng lên từ lúc đó. Anh đến khám một phần để có kết luận của bác sĩ rằng mình bệnh thật, đưa cho cha xem, và để cha cho anh nghỉ buổi sáng đi khám lại.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi về căng thẳng, chuyện ở nhà, ai thúc đi khám, hoặc anh mong điều gì từ buổi khám này.",
+     "y": "Động cơ thật: mâu thuẫn gia đình, cần được tin là bệnh thật"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, thể trạng thừa cân (BMI 25,5), niêm mạc hồng, không vàng da.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1, T2 rõ, không âm thổi, không T3/T4.",
+     "k": 1,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran. Nhịp thở 16.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ khu vực thượng vị, không phản ứng thành bụng, không sờ thấy khối, gan lách không to.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Ấn dọc xương ức và các sườn không đau; cử động vai, hít sâu không làm đau.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng hơi đỏ nhẹ, không loét, không đọng mủ; amidan không to; không hạch cổ.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 76 l/p. Trục bình thường. Không ST chênh, không sóng T đảo, không sóng Q bệnh lý.",
+     "n": "Đau ngực kiểu nóng rát vẫn có thể là biểu hiện của hội chứng vành cấp: 'burning' nằm trong mô tả triệu chứng (ESC 2023 mục 3.1.1); ECG trong 10 phút đầu tiếp xúc (ESC 2023 Hình 5). Ở người 29 tuổi, đau sau ăn, nặng khi nằm thì xác suất thấp, nhưng ECG rẻ và nhanh nên vẫn làm để có căn cứ loại trừ."
+    },
+    "trop": {
+     "v": "u",
+     "r": "hs-TnT 3 ng/L (ngưỡng bình thường < 14)",
+     "n": "Không bắt buộc: người trẻ, đau điển hình ợ nóng, ECG bình thường (nhận định của tác giả ca). Làm cũng không sai nếu bác sĩ muốn chắc (ESC 2023 mục 3.3)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 7,0 G/L · Hb 150 g/L · MCV 88 fL · TC 255 G/L",
+     "bang": {
+      "wbc": 7.0,
+      "neu_pct": 58.0,
+      "neu": 4.06,
+      "lym_pct": 32.0,
+      "lym": 2.24,
+      "mono_pct": 7.0,
+      "mono": 0.49,
+      "eos_pct": 2.5,
+      "eos": 0.18,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 5.0,
+      "hgb": 150,
+      "hct": 0.44,
+      "mcv": 88.0,
+      "mch": 30.0,
+      "mchc": 341,
+      "rdw": 13.0,
+      "plt": 255
+     },
+     "n": "Không bắt buộc khi không có dấu báo động; thiếu máu là dấu báo động cần nội soi (ACG 2022 chẩn đoán KC 6). Kết quả bình thường."
+    },
+    "noi_soi": {
+     "v": "u",
+     "r": "Thực quản đoạn dưới có một vết trợt niêm mạc ngắn (viêm thực quản trào ngược độ LA A), không loét, không hẹp, không niêm mạc Barrett. Dạ dày, hành tá tràng bình thường.",
+     "n": "Không cấp cứu, không bắt buộc ngay hôm nay. Có chỉ định hẹn nội soi: triệu chứng tái phát sau khi ngưng PPI (ACG 2022 chẩn đoán KC 3), nhiều yếu tố nguy cơ Barrett: trào ngược ban đêm, thừa cân, hút thuốc (VNAGE 2026 KC 3; ACG 2022 chẩn đoán KC 6). Anh đang không dùng PPI từ nhiều tháng nên làm lúc này không bị PPI che tổn thương (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2: nên nội soi 2–4 tuần sau ngưng PPI). Viêm thực quản LA A chưa đủ để kết luận GERD, cần LA B trở lên, Barrett hoặc đo pH có AET > 6% (Lyon 2.0 Bảng 2; VNAGE 2026 KC 6)."
+    },
+    "xq_thuc_quan": {
+     "n": "Không chụp thực quản cản quang chỉ để chẩn đoán GERD (ACG 2022 chẩn đoán KC 5)."
+    },
+    "hp_ubt": {
+     "n": "Không có chỉ định riêng cho GERD trong các tài liệu GERD đã tải (không có trong tài liệu đã tải); thử khi có chỉ định khác, ví dụ lúc nội soi (VNAGE 2023 Statement 3, 4)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Trào ngược dạ dày thực quản (GERD) tái phát sau ngưng PPI sớm; chẩn đoán lâm sàng, chưa có bằng chứng khách quan; yếu tố làm nặng: bữa ăn no, chua cay, bia, nằm sớm sau ăn, thừa cân, hút thuốc; đã loại trừ bệnh mạch vành tại thời điểm khám",
+     "ok": 1,
+     "n": "Ợ nóng, trào chua điển hình, nặng sau ăn và khi nằm, thức giấc ban đêm; không dấu báo động; ECG bình thường. Triệu chứng điển hình đủ để thử thuốc kháng tiết nhưng chưa đủ để kết luận GERD khách quan (Lyon 2.0 Bảng 2; VNAGE 2026 KC 2)."
+    },
+    {
+     "t": "Bệnh mạch vành / hội chứng vành cấp",
+     "n": "Đau nóng rát ở người 29 tuổi vẫn phải nghĩ tới (ESC 2023 mục 3.1.1); nhưng đau không liên quan gắng sức, nặng khi nằm, kèm chua miệng, không lan, không vã mồ hôi, ECG bình thường, không yếu tố nguy cơ tim mạch trừ hút thuốc."
+    },
+    {
+     "t": "Loét thực quản",
+     "n": "Không nuốt đau, không nuốt nghẹn, không chảy máu. Chỉ nội soi mới khẳng định hay loại trừ; biến chứng loét ít gặp ở Việt Nam, 1,3–5% (VNAGE 2026 KC 4). Hẹn nội soi vì nhiều yếu tố nguy cơ Barrett, không phải vì nghi loét."
+    },
+    {
+     "t": "Ung thư thực quản / Barrett",
+     "n": "Nỗi lo của anh. Không có dấu báo động (nuốt nghẹn, sụt cân, xuất huyết, thiếu máu) (ACG 2022 chẩn đoán KC 6). Tuổi 29 và biến chứng nặng ít gặp ở Việt Nam (VNAGE 2026 KC 4). Nội soi sẽ cho câu trả lời chắc chắn."
+    },
+    {
+     "t": "Loét dạ dày – tá tràng / khó tiêu chức năng",
+     "n": "Triệu chứng chủ yếu là ợ nóng, trào ngược chứ không phải đau thượng vị lúc đói; không dùng NSAID; ấn đau thượng vị nhẹ. Nội soi sẽ phân biệt."
+    },
+    {
+     "t": "Dị ứng hải sản",
+     "n": "Không nổi mề đay, không phù, không khó thở, không tiêu chảy sau bữa ăn; chỉ có triệu chứng ợ nóng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi kỹ tính chất đau, làm ECG trước khi quy cho trào ngược",
+     "v": "c",
+     "n": "Đau nóng rát sau ức vẫn có thể là hội chứng vành cấp (ESC 2023 mục 3.1.1); ECG trong 10 phút (ESC 2023 Hình 5). Lyon 2.0 (đoạn Symptoms) và ACG 2022 chẩn đoán KC 4 đều đặt điều kiện đã loại trừ nguyên nhân tim trước khi quy đau ngực cho thực quản."
+    },
+    {
+     "t": "Nghe anh trình bày điều anh tra trên mạng, công nhận phần đúng (nghĩ tới trào ngược), giải thích rõ chỗ chưa chắc: triệu chứng chưa đủ để khẳng định GERD, cần nội soi hoặc đo pH; đáp thẳng nỗi lo ung thư",
+     "v": "c",
+     "n": "Triệu chứng điển hình đủ để thử thuốc, nhưng bảng câu hỏi hay thử PPI đơn thuần không đủ để chẩn đoán xác định (VNAGE 2026 KC 2; Lyon 2.0 Bảng 2). Cách giao tiếp: nhận định của tác giả ca."
+    },
+    {
+     "t": "Omeprazol 20 mg uống 1 lần/ngày, 30–60 phút trước ăn sáng, 8 tuần; không tự ngưng giữa chừng, đánh giá lại ở tuần 8",
+     "v": "c",
+     "n": "Triệu chứng điển hình, không dấu báo động: PPI 1 lần/ngày trước bữa ăn 8 tuần (ACG 2022 chẩn đoán KC 1; điều trị KC 8); NERD 4–8 tuần liều chuẩn (VNAGE 2026 KC 15); liều chuẩn omeprazol 20 mg (VNAGE 2024 Bảng 4). Uống buổi tối chấm a (xem sổ mâu thuẫn, mục 'Thời điểm uống PPI')."
+    },
+    {
+     "t": "Sau 8 tuần nếu hết triệu chứng và chưa có viêm thực quản nặng hay Barrett: giảm dần, ngưng hoặc dùng PPI khi cần; nếu phải duy trì thì dùng liều thấp nhất kiểm soát được triệu chứng",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 9, 10, 16. Anh đã tự ngưng sớm sau 3 tuần rồi tái phát: cần nói rõ đây là lý do tái phát (không có trong tài liệu đã tải: tỉ lệ tái phát theo thời gian dùng PPI)."
+    },
+    {
+     "t": "Thay đổi lối sống: không ăn trong 2–3 giờ trước khi ngủ, ăn bữa nhỏ hơn, bớt ăn mỡ, canh chua cay, nước có ga, kê cao đầu giường, giảm cân, bỏ thuốc lá, giảm rồi bỏ bia",
+     "v": "c",
+     "n": "ACG 2022 điều trị KC 1–5 và Bảng 3 (giảm cân khi thừa cân, tránh ăn trong 2–3 giờ trước ngủ, bỏ thuốc lá, tránh thức ăn gây triệu chứng, kê cao đầu giường); VNAGE 2026 KC 11, 12 (giảm cân, bỏ thuốc lá và rượu, đổi chế độ ăn, kê cao đầu giường) và khảo sát 4.400 người Việt liên quan ăn quá no, stress, mất ngủ, canh chua cay, đồ ăn nhiều mỡ, bia. Hải sản riêng không có trong tài liệu đã tải: không cấm hải sản, chỉ tránh bữa quá no, chua cay. Rượu bia: theo sổ mâu thuẫn, đáp án giảm rồi bỏ (VNAGE 2026); chỉ giảm chấm a."
+    },
+    {
+     "t": "Viết giấy giới thiệu nội soi dạ dày – thực quản, không khẩn: làm khi chưa dùng PPI, hoặc sau 8 tuần PPI và ngưng thuốc 2–4 tuần",
+     "v": "c",
+     "n": "Triệu chứng tái phát khi ngưng PPI: nội soi chẩn đoán, lý tưởng sau ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3); nhiều yếu tố nguy cơ Barrett (trào ngược ban đêm, thừa cân, hút thuốc) (VNAGE 2026 KC 3; ACG 2022 chẩn đoán KC 6). VNAGE 2026 KC 3 và ACG 2022 cùng hướng. Thời hạn hẹn cụ thể: không có trong tài liệu đã tải. Nếu nội soi bình thường hoặc chỉ LA A mà vẫn triệu chứng: đo pH (VNAGE 2026 KC 5; ACG 2022 chẩn đoán KC 7)."
+    },
+    {
+     "t": "Hỏi thăm chuyện căng thẳng ở nhà, nói rõ căng thẳng làm triệu chứng nặng hơn; đề nghị anh đưa cha đi cùng lần sau hoặc ghi lại kết luận khám đúng sự thật cho anh đưa cha xem",
+     "v": "c",
+     "n": "Stress là yếu tố liên quan triệu chứng trong khảo sát người Việt (VNAGE 2026, phần điều trị, đoạn 'Diet'). Việc ghi kết luận trung thực, không thổi phồng: nhận định của tác giả ca; tài liệu không có hướng dẫn về giấy tờ."
+    },
+    {
+     "t": "Dặn dấu hiệu cần quay lại sớm: nuốt nghẹn, nuốt đau, nôn kéo dài, nôn ra máu, phân đen, sụt cân; đau ngực dữ dội, kéo dài, vã mồ hôi, khó thở thì đi cấp cứu; hẹn tái khám sau 4 tuần và đánh giá tuần 8",
+     "v": "c",
+     "n": "Dấu báo động chuyển nội soi sớm (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3); đau ngực gợi hội chứng vành cấp (ESC 2023 mục 3.1.1). Mốc tái khám 4 tuần: lựa chọn của ca, không có trong tài liệu đã tải; tuần 8 theo ACG 2022 chẩn đoán KC 1, 2."
+    },
+    {
+     "t": "Không chụp thực quản cản quang, không làm xét nghiệm tràn lan",
+     "v": "c",
+     "n": "ACG 2022 chẩn đoán KC 5 không chụp thực quản cản quang chỉ để chẩn đoán GERD. Biện luận vì sao không chỉ định: tim mạch đã loại trừ bằng ECG, không dấu báo động nên không cần công thức máu, siêu âm bụng hay thử H. pylori hôm nay (nhận định của tác giả ca)."
+    },
+    {
+     "t": "Cho vonoprazan (thuốc ức chế acid kiểu P-CAB) theo ý anh",
+     "v": "a",
+     "n": "VNAGE 2026 KC 18: P-CAB có thể xem xét; nhưng ở GERD nhẹ hiệu quả tương đương PPI liều chuẩn và bản hướng dẫn ghi P-CAB chưa được cấp phép hoặc bán ở Việt Nam (tình trạng hiện hành: không có trong tài liệu đã tải). PPI vẫn là nền tảng (VNAGE 2026 KC 13)."
+    },
+    {
+     "t": "Thêm alginat (hoặc thuốc kháng acid) uống khi cần để giảm triệu chứng nhanh",
+     "v": "a",
+     "n": "VNAGE 2026 KC 14: alginat khởi phát trong 1 giờ, dùng đơn độc hoặc kèm PPI cho GERD nhẹ – vừa. Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chỉ giới thiệu nội soi, chưa kê thuốc cho tới khi có kết quả",
+     "v": "a",
+     "n": "Vì anh đang không dùng PPI, nội soi sớm có giá trị chẩn đoán cao (ACG 2022 chẩn đoán KC 3; Lyon 2.0 Bảng 2), nhưng anh đang khó chịu hằng đêm; thử PPI vẫn phù hợp (ACG 2022 chẩn đoán KC 1)."
+    },
+    {
+     "t": "Dùng thuốc vận động đường tiêu hóa (domperidon, metoclopramid) hoặc sucralfat cho trào ngược",
+     "v": "w",
+     "n": "ACG 2022 điều trị KC 14 không dùng prokinetic nếu không có liệt dạ dày; KC 15 không dùng sucralfat trừ khi có thai."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển cấp cứu vì sợ nhồi máu hoặc ung thư",
+     "v": "w",
+     "n": "Huyết động ổn, ECG bình thường, không dấu báo động; GERD điều trị ngoại trú (VNAGE 2026 KC 11, 13); biến chứng nặng ít gặp ở Việt Nam (VNAGE 2026 KC 4)."
+    },
+    {
+     "t": "Kê giấy xác nhận 'bệnh nặng, cần nghỉ dài ngày' theo ý anh để đưa cho cha",
+     "v": "w",
+     "n": "Không đúng thực tế: GERD không dẫn tới nghỉ dài ngày; nhận định của tác giả ca, tài liệu không có hướng dẫn về giấy tờ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Trào ngược dạ dày thực quản (GERD) tái phát, chẩn đoán lâm sàng, triệu chứng điển hình ợ nóng và trào chua; chưa có bằng chứng khách quan (chưa nội soi, chưa đo pH)",
+     "Nguyên nhân tái phát: tự ngưng PPI sau 3 tuần, chưa đổi thói quen (ăn tối muộn rồi ngủ sớm, hút thuốc, thừa cân, bia); bữa lẩu hải sản chua cay no kèm bia và nằm sớm là yếu tố khởi phát",
+     "Đã loại trừ bệnh mạch vành tại thời điểm khám (đau không liên quan gắng sức, ECG bình thường)",
+     "Chưa có dấu báo động; cần nội soi theo hẹn vì triệu chứng tái phát khi ngưng PPI và có nhiều yếu tố nguy cơ Barrett",
+     "Yếu tố tâm lý: căng thẳng do mâu thuẫn gia đình làm nặng triệu chứng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: (1) đặc điểm đau nóng rát: vị trí, liên quan bữa ăn, tư thế, gắng sức, lan, kèm vã mồ hôi, khó thở; (2) hỏi cụ thể trào chua, đắng lên họng, thức giấc ban đêm; (3) dấu báo động; (4) tiền sử điều trị trước: thuốc gì, bao lâu, ngưng khi nào, đã nội soi chưa; (5) thói quen ăn, giờ ngủ, thuốc lá, rượu bia, cà phê; (6) yếu tố tim mạch; (7) anh lo điều gì, mong gì từ buổi khám. Khám: tim, phổi, bụng, thành ngực; làm ECG.",
+     "Vì sao nghĩ GERD: ợ nóng, trào ngược và đau ngực thực quản là ba triệu chứng điển hình (Lyon 2.0 Bảng 2; VNAGE 2026 KC 1). Triệu chứng điển hình đơn độc đủ để thử thuốc kháng tiết, nhưng bảng câu hỏi hay thử PPI không đủ để xác định chẩn đoán (Lyon 2.0 Bảng 2; VNAGE 2026 KC 2). Chẩn đoán xác định cần LA B/C/D, Barrett, hoặc AET > 6% (VNAGE 2026 KC 6).",
+     "Loại trừ tim: 'nóng rát' vẫn nằm trong mô tả triệu chứng hội chứng vành cấp (ESC 2023 mục 3.1.1) và ECG trong 10 phút (Hình 5). Ở anh: 29 tuổi, đau sau ăn, nặng khi nằm, kèm chua miệng, không gắng sức, ECG bình thường. Hút thuốc là yếu tố nguy cơ duy nhất; lipid chưa kiểm tra (không có trong tài liệu GERD đã tải).",
+     "Dấu báo động không có (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 3) nên không nội soi cấp cứu. Vẫn nên nội soi theo hẹn vì (1) triệu chứng tái phát khi ngưng PPI (ACG 2022 chẩn đoán KC 3, khuyến cáo mạnh) và (2) có yếu tố nguy cơ Barrett: trào ngược ban đêm, thừa cân, hút thuốc (VNAGE 2026 KC 3). Hai nguồn cùng hướng, khác nhau ở chỗ ACG nhấn thời điểm nội soi so với PPI.",
+     "Về nỗi lo từ mạng: anh đoán đúng hướng (GERD), nên công nhận. Ung thư thực quản và loét là biến chứng ít gặp ở Việt Nam, loét 1,3–5% (VNAGE 2026 KC 4), và chưa có dấu báo động. Không nên nói 'bệnh nhân tra mạng nên lo thừa'.",
+     "Hải sản: tài liệu GERD đã tải không nêu hải sản là thức ăn gây trào ngược (không có trong tài liệu đã tải). Điều gây khởi phát ở anh là bữa ăn quá no, chua cay, bia, nằm ngay sau ăn (VNAGE 2026 khảo sát 4.400 người Việt; ACG 2022 điều trị KC 2, Bảng 3).",
+     "Động cơ ẩn: anh đến một phần để có người tin mình bệnh thật. Cơn nặng lên sau cãi nhau; stress là yếu tố liên quan triệu chứng (VNAGE 2026). Nếu chỉ kê thuốc, bác sĩ bỏ lỡ lý do chính khiến anh bực bội và dễ tái phát."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về, hẹn tái khám (ve_hen). Không có chỉ định nhập viện hay chuyển cấp cứu: huyết động ổn, ECG bình thường, không dấu báo động.",
+     "PPI liều chuẩn 8 tuần, 1 lần/ngày trước ăn sáng 30–60 phút (ACG 2022 chẩn đoán KC 1; điều trị KC 8; VNAGE 2026 KC 15). QĐ 361/2014 từng ghi uống buổi tối cho ca NSAID; ACG 2022 mới hơn: đáp án trước ăn sáng, uống tối chấm a (sổ mâu thuẫn).",
+     "Nguyên nhân tái phát phải được xử lý: tự ngưng sau 3 tuần, ăn tối muộn, thuốc lá, thừa cân, bia. Lối sống: ACG 2022 điều trị KC 1–5; VNAGE 2026 KC 11, 12. Rượu bia: theo sổ mâu thuẫn mục 'Rượu bia trong lối sống của GERD': giảm rồi bỏ (VNAGE 2026); ACG 2022 Bảng 3 ghi không khuyến cáo chung.",
+     "Sau 8 tuần: nếu đáp ứng thì thử ngưng hoặc dùng PPI khi cần (ACG 2022 chẩn đoán KC 2; điều trị KC 9, 16); nếu cần duy trì thì liều thấp nhất kiểm soát được (KC 10). Nếu tái phát lần nữa sau ngưng thì nội soi càng cần (ACG 2022 chẩn đoán KC 3).",
+     "Nội soi: theo sổ mâu thuẫn mục 'Nội soi khi GERD ≥ 40/50 tuổi không dấu báo động', cùng hướng với VNAGE 2026 KC 3 và ACG 2022 KC 3, 6. Làm sau ngưng PPI 2–4 tuần (ACG 2022; Lyon 2.0 Bảng 2); anh đang không dùng PPI nên có thể nội soi trước khi bắt đầu thuốc nếu có lịch sớm. Thời hạn cụ thể: không có trong tài liệu đã tải.",
+     "Vonoprazan: P-CAB có thể xem xét (VNAGE 2026 KC 18) nhưng ở GERD nhẹ tương đương PPI liều chuẩn; hướng dẫn ghi chưa được cấp phép ở Việt Nam. PPI vẫn là nền tảng (KC 13). Sai: dùng prokinetic hoặc sucralfat (ACG 2022 điều trị KC 14, 15).",
+     "Không X-quang thực quản cản quang (ACG 2022 chẩn đoán KC 5). Không cần công thức máu, siêu âm bụng, thử H. pylori hôm nay khi không có dấu báo động (nhận định của tác giả ca)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng",
+      "so_ngay": "8 tuần; đánh giá lại ở tuần 8",
+      "ghi_chu": "ACG 2022 chẩn đoán KC 1, điều trị KC 8; VNAGE 2026 KC 13, 15; liều chuẩn VNAGE 2024 Bảng 4. Không uống lúc đi ngủ; không tự ngưng sớm."
+     }
+    ],
+    "dan_do": [
+     "Anh nghĩ đúng hướng: đây rất có thể là trào ngược. Muốn chắc chắn hẳn thì cần nội soi, nên bác sĩ viết giấy giới thiệu; hiện chưa có dấu hiệu nào gợi ý ung thư (ACG 2022 chẩn đoán KC 6; VNAGE 2026 KC 4).",
+     "Uống omeprazol 20 mg mỗi sáng 30–60 phút trước khi ăn, đều đủ 8 tuần dù hết triệu chứng sớm; lần trước ngưng sau 3 tuần nên bị lại (ACG 2022 chẩn đoán KC 1, điều trị KC 8).",
+     "Không ăn trong 2–3 giờ trước khi ngủ, ăn tối sớm hơn, bữa nhỏ hơn; bớt đồ chua cay, nhiều mỡ, nước có ga; kê cao đầu giường; giảm cân dần; bỏ thuốc lá; giảm rồi bỏ bia (ACG 2022 điều trị KC 1–5; VNAGE 2026 KC 11, 12).",
+     "Hải sản không cần kiêng hẳn; tránh những bữa ăn quá no, chua cay và nằm ngay sau ăn.",
+     "Cầm giấy giới thiệu đi nội soi; báo nơi nội soi anh đã dùng thuốc dạ dày, họ sẽ dặn ngưng thuốc 2–4 tuần trước nội soi (ACG 2022 chẩn đoán KC 3).",
+     "Chuyện ở nhà đang làm anh căng thẳng, bệnh nặng thêm. Anh có thể đưa cha đi khám cùng lần sau để bác sĩ giải thích; kết luận hôm nay: bệnh thật, điều trị được, không phải làm bộ.",
+     "Quay lại sớm nếu nuốt nghẹn, nuốt đau, nôn kéo dài, nôn ra máu, đi cầu phân đen, sụt cân. Đau ngực dữ dội, kéo dài, vã mồ hôi, khó thở thì đến cấp cứu (ACG 2022 chẩn đoán KC 6; ESC 2023 mục 3.1.1).",
+     "Tái khám sau 4 tuần (mốc của ca; không có trong tài liệu đã tải) và đánh giá lại ở tuần 8."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Khang uống omeprazol đủ 8 tuần, không còn thức giấc vì chua sau tuần thứ ba, không ăn tối sát giờ ngủ, bớt hút thuốc. Anh đưa cha đi khám cùng một lần; sau khi nghe bác sĩ giải thích, cha thôi nói anh làm bộ. Nội soi (sau ngưng thuốc 2 tuần) có một vết trợt ngắn LA A, không Barrett, không loét; vì LA A chưa đủ để kết luận GERD khách quan, bác sĩ hẹn thêm theo dõi và đo pH nếu triệu chứng quay lại sau ngưng thuốc (Lyon 2.0 Bảng 2; VNAGE 2026 KC 5, 6). Nếu anh ngưng sớm hoặc trở lại ăn khuya, bệnh sẽ tái phát lần nữa.",
+ "nhieu": [
+  "Chẩn đoán tự tra trên mạng: anh đoán đúng hướng (trào ngược) nhưng chưa đủ để kết luận khách quan; công nhận phần đúng, giải thích phần chưa chắc, trả lời thẳng nỗi lo ung thư.",
+  "Đòi vonoprazan và chê omeprazol 'nhờn': thuốc không nhờn, anh dùng chưa đủ 8 tuần; P-CAB chưa phải lựa chọn đầu tay hay có sẵn ở Việt Nam (VNAGE 2026 KC 13, 18).",
+  "Nguồn lực đầy đủ không có nghĩa là làm hết: vẫn phải biện luận vì sao không chụp thực quản cản quang, không siêu âm bụng, không thử H. pylori hôm nay (ACG 2022 chẩn đoán KC 5)."
+ ],
+ "bai_hoc_bien": [
+  "Tái phát: hỏi ngay 'lần trước dùng thuốc gì, bao lâu, ngưng khi nào, đã nội soi chưa' vì nguyên nhân là ngưng PPI sớm và thói quen chưa đổi (ACG 2022 chẩn đoán KC 2, 3).",
+  "Bệnh nhân tự tra mạng: nghe họ nói trước, công nhận phần đúng; 'đôi khi họ đúng'.",
+  "Động cơ thật là mâu thuẫn gia đình và cần được tin là bệnh thật; chỉ hiện ra khi hỏi về stress, chuyện ở nhà, mong muốn của người bệnh.",
+  "Đau nóng rát sau ức ở người trẻ vẫn cần ECG trước khi kết luận trào ngược (ESC 2023 mục 3.1.1, Hình 5).",
+  "Viêm thực quản LA A chưa đủ để kết luận GERD khách quan (Lyon 2.0 Bảng 2; VNAGE 2026 KC 6)."
+ ],
+ "diem_nho": [
+  "Triệu chứng điển hình đủ để thử PPI nhưng không đủ để xác định chẩn đoán (Lyon 2.0 Bảng 2; VNAGE 2026 KC 2).",
+  "PPI liều chuẩn 1 lần/ngày trước bữa ăn 30–60 phút, 8 tuần; ngưng thì thử ngưng hoặc dùng khi cần, duy trì thì liều thấp nhất (ACG 2022 chẩn đoán KC 1, 2; điều trị KC 8–10, 16).",
+  "Nội soi khi triệu chứng tái phát lúc ngưng PPI hoặc có yếu tố nguy cơ Barrett; nên làm sau ngưng PPI 2–4 tuần (ACG 2022 chẩn đoán KC 3, 6; VNAGE 2026 KC 3).",
+  "Không ăn trong 2–3 giờ trước ngủ, giảm cân, bỏ thuốc lá, kê cao đầu giường (ACG 2022 điều trị KC 1–5; VNAGE 2026 KC 12).",
+  "Không dùng prokinetic hay sucralfat cho GERD thông thường (ACG 2022 điều trị KC 14, 15)."
+ ],
+ "nguon": [
+  "VNAGE 2026 – hướng dẫn GERD – TL-0177 – KC 1–6, 11–15, 18; phần Diet",
+  "Lyon Consensus 2.0 2024 – TL-0206 – Bảng 2 (Statements)",
+  "ACG 2022 GERD – TL-0212 – phần chẩn đoán KC 1–7; phần điều trị KC 1–5, 8–10, 14–16; Bảng 3",
+  "VNAGE 2024 khó tiêu chức năng – TL-0178 – Bảng 4 (liều PPI chuẩn)",
+  "VNAGE 2023 H. pylori – TL-0179 – Statement 3, 4",
+  "ESC 2023 hội chứng vành cấp – TL-0069 – mục 3.1.1, 3.3; Hình 5",
+  "Không có trong tài liệu đã tải: hải sản là thức ăn gây trào ngược, liều alginat, thời hạn hẹn nội soi, mốc tái khám 4 tuần, tình trạng cấp phép hiện hành của P-CAB tại Việt Nam, quy định về giấy xác nhận."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-19): theo sổ cái TH-0446 (GERD, nam 29 tuổi, thợ cắt tóc, 1 lượt, tái phát, tự tra mạng, mâu thuẫn gia đình, nguồn lực đầy đủ). Tài liệu đã đọc: TL-0177 (KC 1–6, 11–15, 18, phần Diet), TL-0206 (Bảng 2), TL-0212 (chẩn đoán KC 1–8, điều trị KC 1–16, Bảng 3), TL-0069 (mục 3.1.1, Hình 5).",
+  "Theo các mục có sẵn trong sổ mâu thuẫn: thời điểm uống PPI, rượu bia trong GERD, nội soi khi GERD có yếu tố nguy cơ Barrett. Không có mâu thuẫn mới.",
+  "Chỗ thiếu tài liệu: hải sản làm nặng GERD, liều alginat, thời hạn hẹn nội soi, mốc tái khám 4 tuần, tình trạng cấp phép P-CAB hiện nay, giấy xác nhận bệnh.",
+  "Tuổi 29 nên 'nhiều yếu tố nguy cơ Barrett' chỉ dựa vào danh sách của VNAGE 2026 KC 3 (trào ngược ban đêm, thừa cân, hút thuốc); ACG 2022 không liệt kê trong phần đã tải."
+ ]
+}
