@@ -1,0 +1,699 @@
+{
+ "ma_ca": "TH-1427",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1.0",
+ "benh": "TH_xuat_huyet_tieu_hoa_nhe_ngoai_tru",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Xuất huyết tiêu hóa (nhẹ/ngoại trú)",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư tiêu hóa",
+   "Vỡ giãn TM thực quản"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nhân viên ngân hàng",
+  "yeu_to_khoi_phat": "Sau dùng thực phẩm chức năng",
+  "thuoc_dang_dung": "Kháng sinh đã dùng 3 ngày",
+  "ly_do_that_su_den_kham": "Đọc thông tin trên mạng lo lắng"
+ },
+ "benh_nhan": {
+  "ten": "Lương Văn Thịnh",
+  "tuoi": 46,
+  "gioi": "Nam",
+  "nghe": "Nhân viên ngân hàng (giao dịch viên)",
+  "can_nang": 68,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Cẩn thận, hay tra Google, nói nhỏ nhẹ và hay trấn an (\"chắc không sao đâu\"); sợ mất ngày công, ngại nghỉ làm. Lo ung thư sau khi đọc trên mạng nhưng giấu nỗi lo.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: anh giảm nhẹ mọi thứ (\"hơi sẫm màu\", \"bình thường\", \"hơi mệt\"). Chỉ kể phân đen dính, tối sầm khi đứng, hụt hơi khi leo cầu thang khi bác sĩ hỏi cụ thể màu và độ dính của phân hoặc hỏi chức năng; vợ có thể kể thêm nếu được hỏi.",
+  "nguoi_nha": "Vợ",
+  "ten_nguoi_nha": "Chị Trần Thị Thu Hương",
+  "ngoai_hinh": {
+   "da": "#e0b48f",
+   "toc": "#2a2623",
+   "kieuToc": "ngan",
+   "ao": "#9fb6cf",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e3b995",
+    "toc": "#241a15",
+    "kieuToc": "dai",
+    "ao": "#b56a7a",
+    "aoKieu": "blouse",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Rát thượng vị, đầy bụng một tuần",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ, kỹ thuật viên đã về: tối nay phòng khám không làm được xét nghiệm máu, siêu âm; vì vậy cũng không có X-quang, CT, nội soi. Mẫu gửi đi (nếu có) chỉ có kết quả sáng hôm sau. Còn dùng được: ống nghe, nhiệt kế, huyết áp kế, máy đo SpO₂, máy điện tim, máy đo đường huyết mao mạch, que thử nước tiểu, tủ thuốc cấp cứu. Bệnh viện đa khoa khu vực có xét nghiệm và nội soi 24/24, cách 8 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Lương Văn Thịnh, 46 tuổi, nhân viên ngân hàng, đến lúc 19 giờ 30 (ngoài giờ, kỹ thuật viên xét nghiệm đã về). Đi cùng vợ. Đến vì rát thượng vị và đầy bụng một tuần. Sinh hiệu: HA 118/74 mmHg, mạch 92 l/p, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 98%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Anh Thịnh đi cầu phân đen 3 lần trong 2 ngày, tối sầm khi đứng nhanh và hụt hơi khi leo cầu thang; cho về với omeprazol và hẹn lấy máu sáng mai nghĩa là tối nay không ai biết Hb và ure của anh. ACG 2021 (khuyến cáo 1) và ESGE 2026 (mục 1.3) chỉ cho xử trí ngoại trú khi Glasgow-Blatchford ≤ 1, mà riêng phân đen đã là 1 điểm nên thiếu Hb và ure thì không loại được điểm cao hơn (ACG 2021 Bảng 2). Nếu đêm đó chảy thêm, anh ở nhà không ai đo mạch và huyết áp, nội soi trong 24 giờ (ACG 2021 khuyến cáo 5) bị lùi theo giờ có kết quả xét nghiệm, và anh vốn tin \"chắc không sao\" nên có thể vẫn đi làm sáng mai.",
+    "theo_doi": "Giữ anh Thịnh lại phòng khám qua đêm chỉ để đo mạch, huyết áp là không đủ: ngoài giờ không có xét nghiệm nên vẫn không có Hb, ure để tính điểm Glasgow-Blatchford (ACG 2021 Bảng 2), và phòng khám không có nội soi nên mốc ≤ 24 giờ (ACG 2021 khuyến cáo 5; ESGE 2026 mục 2.1) chỉ còn lại để chuyển sáng mai. Anh mất nửa đêm trong khi cần vào bệnh viện có xét nghiệm và nội soi, nếu chảy thêm giữa đêm chỉ có nhân viên trực xử trí ban đầu.",
+    "cap_cuu": "Gọi xe cấp cứu, đặt đường truyền, truyền dịch hoặc truyền máu cho anh Thịnh là quá tay: anh tỉnh, HA 118/74, mạch 92, không nôn máu. Hồi sức huyết động dành cho người mất ổn định (ESGE 2026 mục 1.1); truyền máu khi Hb dưới 7 g/dL (ACG 2021 khuyến cáo 2; ESGE 2026 mục 1.2), mà hiện chưa ai biết Hb. Bệnh viện cách 8 km, vợ chở ô tô khoảng 20 phút là đủ, gọi cấp cứu chỉ tốn kém và chiếm xe của người nặng hơn."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi bị rát ở bụng trên một tuần nay, hơi đầy bụng thôi. Vợ tôi cứ bắt đi khám chứ tôi thấy chắc không sao đâu.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "118/74",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Rát vùng trên rốn và đầy bụng một tuần. Anh nghĩ \"chắc không sao\", vợ bắt đi khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem_dau",
+     "noi_dung": "Rát âm ỉ trên rốn, tăng khi đói và hay thức giấc lúc 2–3 giờ sáng, ăn vào thì dịu. Không lan ngực hay lưng, không đau khi gắng sức, không khó thở, không vã mồ hôi. Không nôn, không nuốt nghẹn, không sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau và dấu báo động (ung thư)"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Hai ngày nay đi cầu 3 lần, phân đen bóng, dính như nhựa đường, mùi rất khắm; lần gần nhất 6 giờ sáng nay. Anh nghĩ do viên than hoạt tính trong lọ thực phẩm chức năng nên không nói.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung \"đi cầu bình thường không\" thì anh đáp \"hơi sẫm màu\". Chỉ kể đủ khi bác sĩ hỏi cụ thể màu, độ dính, mùi, số lần; vợ cũng kể nếu được hỏi: \"sáng nay em thấy bồn cầu đen sì\".",
+     "y": "Phân đen (melena)"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Chiều qua đứng dậy nhanh khỏi quầy giao dịch thì tối sầm vài giây, phải vịn bàn, không ngã, không ngất. Sáng nay leo 3 tầng cầu thang lên phòng họp phải dừng nghỉ một lần, hụt hơi hơn thường ngày.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi \"có mệt không, có sao không\" thì anh đáp \"bình thường\". Chỉ kể khi bác sĩ hỏi chức năng: leo cầu thang, đứng dậy nhanh, làm việc cả ngày có khác thường không.",
+     "y": "Dấu hiệu mất máu (hỏi chức năng)"
+    },
+    {
+     "id": "khong_nong",
+     "noi_dung": "Không nôn ra máu hay bã cà phê. Chưa từng ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn máu, ngất (thành phần điểm Glasgow-Blatchford)"
+    },
+    {
+     "id": "tpcn",
+     "noi_dung": "Ba tuần trước anh đầy bụng nên mua lọ thực phẩm chức năng \"nghệ + than hoạt tính hỗ trợ dạ dày\" trên mạng, uống 2 viên × 2 lần/ngày; rát bụng rõ hơn từ một tuần nay. Lọ không ghi rõ hàm lượng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thực phẩm chức năng (yếu tố khởi phát, gây nhiễu)"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Bốn ngày trước đau họng, tự mua amoxicillin–acid clavulanic 625 mg uống 2 lần/ngày được 3 ngày, ngưng hôm qua vì hết đau họng. Không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kháng sinh vừa dùng (ảnh hưởng test H. pylori)"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Không dùng ibuprofen, diclofenac, aspirin, corticoid hay thuốc chống đông. Thỉnh thoảng uống paracetamol khi đau đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ NSAID, thuốc chống đông"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không có bệnh gan, tim, thận, tiểu đường; chưa từng loét hay nội soi. Không hút thuốc; bia 2–3 lon vào cuối tuần. Gia đình không ai ung thư dạ dày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền (gan, tim: thành phần điểm Glasgow-Blatchford)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Mấy hôm trước đọc mạng thấy \"phân đen là ung thư dạ dày giai đoạn muộn\" nên hoảng, nhưng sợ nói ra sẽ bị bắt nội soi và nghỉ làm, nên tự trấn an là do viên than.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh lo nhất điều gì, hoặc anh đã đọc gì trên mạng về triệu chứng này.",
+     "y": "Động cơ thật: lo ung thư sau khi đọc trên mạng"
+    },
+    {
+     "id": "gan_vien",
+     "noi_dung": "Bệnh viện đa khoa khu vực cách nhà 8 km, ô tô khoảng 20 phút; vợ lái được.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt. Da niêm hơi nhạt. Không vàng da, không sao mạch, lòng bàn tay không son, không phù, không bầm máu.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 120/74 mmHg, mạch 88 l/p. Đứng sau 1 phút: HA 112/72 mmHg, mạch 104 l/p (tăng 16 l/p), chóng mặt thoáng qua.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ thượng vị lệch phải, không phản ứng thành bụng, không co cứng, gan lách không sờ thấy, không cổ trướng.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Một ít phân sệt đen bóng dính găng, mùi hắc đặc trưng như nhựa đường; không khối, không trĩ chảy máu.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 124 g/L · BC 8,6 G/L · TC 268 G/L",
+     "n": "Cần ngay nhưng tối nay phòng khám không làm được; gửi mẫu chỉ có kết quả sáng mai. Hb là thành phần của điểm Glasgow-Blatchford: nam 120–129 g/L cho 1 điểm (ACG 2021 Bảng 2; Blatchford 2000). Không chờ được nên phải chuyển bệnh viện tối nay."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 5,8 mmol/L · Creatinin 82 µmol/L · eGFR > 90 mL/ph/1,73m²",
+     "n": "Ure là thành phần của điểm: dưới 6,5 mmol/L cho 0 điểm (Blatchford 2000; ACG 2021 Bảng 2 dùng BUN 18,2 mg/dL cùng mốc). Tối nay không làm được."
+    },
+    "inr": {
+     "v": "u",
+     "r": "INR 1,0 (bình thường 0,8–1,2).",
+     "n": "Loại rối loạn đông máu khi có chảy máu; không đổi hướng xử trí. Tối nay không làm được."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 92 l/p, không ST chênh, không biến đổi ST–T.",
+     "n": "Hữu ích để không bỏ sót thiếu máu cơ tim khi mất máu; không thay đổi hướng chuyển tuyến. Chỉ định ECG thường quy trong XHTH không có trong tài liệu đã tải."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "5,4 mmol/L",
+     "ab": 0
+    },
+    "hp_ubt": {
+     "v": "n",
+     "r": "Âm tính (có thể âm giả).",
+     "n": "Không nên làm hôm nay: vừa dùng kháng sinh (cần ≥ 4 tuần không kháng sinh trước test: VNAGE 2023 Statement 6) và đang chảy máu cấp (test urease nhanh, mô bệnh có thể âm giả: Statement 7). Test H. pylori làm lúc nội soi (ESGE 2026 mục 3.5)."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Tối nay phòng khám không có nội soi.)",
+     "n": "Có chỉ định: XHTH, dấu báo động (VNAGE 2024 KC 2). Người nằm hoặc theo dõi tại viện nội soi trong 24 giờ (ACG 2021 khuyến cáo 5; ESGE 2026 mục 2.1: sớm ≤ 24 giờ); nội soi cấp ≤ 12 giờ không cần khi huyết động ổn (ESGE 2026 mục 2.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Xuất huyết tiêu hóa trên mức nhẹ (phân đen, huyết động ổn), nghi nguồn loét dạ dày – tá tràng; chưa xếp được nguy cơ vì chưa có Hb, ure; cần xét nghiệm và nội soi trong 24 giờ ở bệnh viện",
+     "ok": 1,
+     "n": "Phân hắc ín dính trên găng, tối sầm khi đứng, mạch tăng 16 l/p khi đứng, rát đói/đêm đỡ khi ăn. GBS tối thiểu 1 điểm (ACG 2021 Bảng 2)."
+    },
+    {
+     "t": "Ung thư tiêu hóa",
+     "n": "Chưa loại hẳn: chỉ nội soi mới khẳng định. Khởi phát một tuần, không sụt cân, không nuốt nghẹn, không nôn, nên không phải ưu tiên; XHTH là dấu báo động cần nội soi (VNAGE 2024 KC 2)."
+    },
+    {
+     "t": "Vỡ giãn tĩnh mạch thực quản",
+     "n": "Không bệnh gan, không dấu xơ gan (sao mạch, lòng bàn tay son, cổ trướng, lách to), không nôn máu. Baveno VIII (TL-0186) bàn xuất huyết do tăng áp cửa ở người xơ gan: không thuộc bệnh nhân này; nội soi sẽ xác nhận."
+    },
+    {
+     "t": "Phân đen do viên than hoạt tính hoặc kháng sinh (không phải chảy máu)",
+     "n": "Không chấp nhận: phân sệt, bóng dính, mùi hắc trên găng kèm chóng mặt đứng và hụt hơi là melena. Tài liệu đã tải không nêu thực phẩm chức năng này làm đen phân hay gây chảy máu."
+    },
+    {
+     "t": "Khó tiêu chức năng hoặc viêm dạ dày đơn thuần",
+     "n": "Có dấu báo động (XHTH) nên không còn chẩn đoán khó tiêu chức năng (VNAGE 2024 KC 2)."
+    },
+    {
+     "t": "Rối loạn tiêu hóa do kháng sinh",
+     "n": "Phân không lỏng, không tiêu chảy; không giải thích được phân đen, chóng mặt đứng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển ngay tối nay đến bệnh viện đa khoa có xét nghiệm và nội soi 24/24 (8 km, vợ chở bằng ô tô, anh không tự lái) để làm Hb, ure, tính Glasgow-Blatchford và nội soi trong 24 giờ",
+     "v": "c",
+     "n": "Ngoại trú chỉ khi GBS ≤ 1 (ACG 2021 khuyến cáo 1; ESGE 2026 mục 1.3; Ann Intern Med 2019 A2a). Phân đen đã 1 điểm, Hb và ure chỉ có thể làm điểm tăng nên tại phòng khám không kết luận được ≤ 1 (suy ra từ Bảng 2; ACG không nói riêng ca thiếu xét nghiệm). Nội soi ≤ 24 giờ: ACG 2021 khuyến cáo 5; ESGE 2026 mục 2.1. Thời hạn chuyển cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viết giấy giới thiệu ngắn: phân đen 3 lần/2 ngày, mạch tăng 16 l/p khi đứng, đã dùng amoxicillin–clavulanat 3 ngày và thực phẩm chức năng; điện thoại báo trước cho bệnh viện",
+     "v": "c",
+     "n": "Giao tiếp chuyển tuyến; mẫu giấy chuyển không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho 1 liều thuốc ức chế bơm proton trước khi đi nếu không làm chậm chuyển",
+     "v": "a",
+     "n": "ESGE 2026 mục 1.5: cân nhắc PPI liều cao tĩnh mạch trước nội soi nhưng không được làm chậm nội soi sớm; Ann Intern Med 2019 A9: có thể cân nhắc; ACG 2021 khuyến cáo 4: chưa đạt khuyến cáo ủng hộ hay phản đối. Không có con số liều trước nội soi trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng thực phẩm chức năng; mang lọ và vỉ kháng sinh theo; không ăn uống thêm tới khi bác sĩ bệnh viện cho phép",
+     "v": "c",
+     "n": "Loại yếu tố gây nhiễu; tài liệu đã tải không nêu thực phẩm chức năng này gây chảy máu. Nhịn ăn chờ nội soi là thực hành chung, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dừng xe gọi 115 nếu nôn máu, choáng, ngất trên đường",
+     "v": "c",
+     "n": "Dấu hiệu mất ổn định huyết động cần hồi sức (ESGE 2026 mục 1.1)."
+    },
+    {
+     "t": "Cho về, kê omeprazol, hẹn lấy máu sáng mai",
+     "v": "w",
+     "n": "Không biết Hb, ure thì không chứng minh được GBS ≤ 1 (ACG 2021 khuyến cáo 1; ESGE 2026 mục 1.3); tối nay không có xét nghiệm."
+    },
+    {
+     "t": "Truyền dịch hoặc truyền máu tại phòng khám, gọi xe cấp cứu",
+     "v": "w",
+     "n": "Huyết động ổn; truyền máu khi Hb < 7 g/dL (ACG 2021 khuyến cáo 2; ESGE 2026 mục 1.2) hoặc < 80 g/L (Ann Intern Med 2019 A4); ESGE ≤ 8 g/dL nếu có bệnh tim mạch."
+    },
+    {
+     "t": "Làm test thở urê hoặc cho phác đồ diệt H. pylori ngay",
+     "v": "w",
+     "n": "Chưa chẩn đoán loét; kháng sinh trong 4 tuần, chảy máu cấp làm âm giả (VNAGE 2023 Statement 6, 7)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Xuất huyết tiêu hóa trên mức nhẹ: phân đen 3 lần trong 2 ngày, chưa nôn máu, huyết động ổn (HA 118/74 mmHg, mạch 92 l/p, mạch tăng 16 l/p khi đứng).",
+     "Nghi nguồn loét dạ dày – tá tràng (rát lúc đói, thức giấc 2–3 giờ sáng, ăn vào dịu); chỉ nội soi xác định.",
+     "Điểm Glasgow-Blatchford tối thiểu từ lâm sàng 1 (phân đen); Hb, ure chưa biết nên chưa xếp được nguy cơ rất thấp.",
+     "Đã loại trừ trên lâm sàng: ung thư tiêu hóa, vỡ giãn tĩnh mạch thực quản; chỉ nội soi loại hẳn.",
+     "Yếu tố gây nhiễu: thực phẩm chức năng (nghệ, than hoạt tính), kháng sinh 3 ngày; bệnh nhân giảm nhẹ triệu chứng."
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi cụ thể, không hỏi chung: màu, độ dính, mùi, số lần của phân. Phân bóng dính mùi hắc trên găng thăm trực tràng xác nhận melena, tính 1 điểm Glasgow-Blatchford (ACG 2021 Bảng 2; Blatchford 2000).",
+     "Hỏi chức năng thay câu hỏi cảm giác: dừng khi leo 3 tầng, tối sầm khi đứng nhanh, mạch tăng 16 l/p khi đứng cho thấy mất máu dù anh nói \"bình thường\". Không ngất (0 điểm), HA tâm thu ≥ 110 (0 điểm), mạch < 100 (0 điểm), không bệnh gan, không suy tim (ACG 2021 Bảng 2).",
+     "Chưa xếp được nguy cơ: điểm tối thiểu 1 chỉ từ lâm sàng, Hb và ure chỉ làm điểm tăng. ACG 2021 khuyến cáo 1, ESGE 2026 mục 1.3 và Ann Intern Med 2019 A2a cho ngoại trú khi ≤ 1 (suy ra từ Bảng 2: không đủ dữ kiện kết luận ≤ 1 tại phòng khám).",
+     "Ung thư và giãn tĩnh mạch thực quản: không sụt cân, nuốt nghẹn, nôn; không bệnh gan, không dấu xơ gan, không nôn máu; XHTH là dấu báo động cần nội soi (VNAGE 2024 KC 2). Baveno VIII (TL-0186) nói về tăng áp cửa ở xơ gan; ngưỡng loại trừ giãn tĩnh mạch ở người không bệnh gan không có trong tài liệu đã tải.",
+     "Thực phẩm chức năng và kháng sinh chỉ gây nhiễu: không dùng để gạt bỏ melena. Kháng sinh vừa dùng làm test H. pylori hôm nay không tin cậy (VNAGE 2023 Statement 6)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tối nay, không chờ sáng: cần Hb, ure để tính điểm và nội soi trong 24 giờ cho người nằm hoặc theo dõi viện (ACG 2021 khuyến cáo 1, 5; ESGE 2026 mục 1.3, 2.1). Nội soi cấp trong 12 giờ không cần khi huyết động ổn (ESGE 2026 mục 2.1).",
+     "Không cần xe cấp cứu, truyền dịch, truyền máu: huyết động ổn; ngưỡng truyền Hb < 7 g/dL (ACG 2021 khuyến cáo 2; ESGE 2026 mục 1.2) hoặc < 80 g/L (Ann Intern Med 2019 A4); ESGE ≤ 8 g/dL nếu có bệnh tim mạch.",
+     "PPI trước nội soi: ESGE 2026 mục 1.5 và Ann Intern Med 2019 A9 cho phép cân nhắc, ACG 2021 khuyến cáo 4 chưa có khuyến cáo; ba nguồn không chống nhau, chấm a. Liều trước nội soi không có trong tài liệu đã tải (80 mg tiêm tĩnh mạch rồi 8 mg/giờ là phác đồ sau cầm máu nội soi, ESGE 2026 mục 3.2).",
+     "Không làm test H. pylori hôm nay; làm lúc nội soi và thử lại nếu âm tính (ESGE 2026 mục 3.5; VNAGE 2023 Statement 6, 7).",
+     "Ngưng thực phẩm chức năng, mang lọ và vỉ kháng sinh; dặn dấu hiệu dừng xe gọi 115; vợ đi cùng, anh không tự lái."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Thuốc ức chế bơm proton (omeprazol hoặc pantoprazol) trước nội soi",
+      "ham_luong": "Do bệnh viện chọn",
+      "lieu": "Liều cao đường tĩnh mạch (ESGE 2026 mục 1.5); con số liều trước nội soi không có trong tài liệu đã tải",
+      "duong": "Tĩnh mạch tại bệnh viện; phòng khám chỉ cho nếu không làm chậm chuyển",
+      "thoi_diem": "Ngay khi tới bệnh viện, không làm chậm nội soi",
+      "so_ngay": "Theo bác sĩ nội soi",
+      "ghi_chu": "ESGE 2026 mục 1.5; Ann Intern Med 2019 A9; ACG 2021 khuyến cáo 4 (chưa có khuyến cáo)."
+     },
+     {
+      "thuoc": "Thực phẩm chức năng nghệ + than hoạt tính",
+      "ham_luong": "Lọ không ghi hàm lượng",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Từ tối nay",
+      "so_ngay": "Ngưng; mang lọ theo",
+      "ghi_chu": "Không có trong tài liệu đã tải: thực phẩm chức năng này gây chảy máu hay đen phân; ngưng để loại yếu tố gây nhiễu."
+     },
+     {
+      "thuoc": "Amoxicillin–acid clavulanic (đã dùng 3 ngày)",
+      "ham_luong": "625 mg",
+      "lieu": "Đã ngưng, không dùng tiếp",
+      "duong": "Uống",
+      "thoi_diem": "Không",
+      "so_ngay": "Không",
+      "ghi_chu": "Đã hết đau họng. Ghi ngày ngưng kháng sinh để tính mốc thử lại H. pylori ≥ 4 tuần (VNAGE 2023 Statement 6)."
+     }
+    ],
+    "dan_do": [
+     "Đi bệnh viện ngay tối nay cùng vợ, không tự lái; mang giấy giới thiệu, lọ thực phẩm chức năng và vỉ kháng sinh.",
+     "Không ăn uống thêm cho tới khi bác sĩ bệnh viện cho phép (thực hành chung; không có trong tài liệu đã tải).",
+     "Dừng xe, gọi 115 nếu nôn ra máu, choáng, ngất hoặc phân đen nhiều hơn trên đường.",
+     "Nói thật với bác sĩ bệnh viện về phân đen, chóng mặt, thực phẩm chức năng và kháng sinh; giải thích: đây là việc cần làm ngay vì có thể chảy máu, không phải bệnh nan y như anh sợ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Anh Lương Văn Thịnh, 46 tuổi, tái khám lúc 19 giờ, ngoài giờ như lần trước, vợ đi cùng, mang giấy ra viện. Sau lần khám trước anh đã vào bệnh viện đa khoa theo giấy giới thiệu. Hôm nay anh nói đã hết đau bụng, chỉ hơi mệt. Sinh hiệu: HA 114/72 mmHg, mạch 88 l/p, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện anh Thịnh tối nay chỉ vì phân đen và mệt là quá tay: huyết động ổn, không hạ huyết áp tư thế, phân thành khuôn không hắc ín, ổ loét đáy sạch (Forrest III) ít nguy cơ và ESGE 2026 (mục 2.2) cho xuất viện sớm. Anh vừa nghỉ nhiều ngày, nằm viện thêm làm anh càng sợ bệnh nặng và tốn chi phí, trong khi điều cần làm là kiểm Hb sáng mai: chỉ khi Hb giảm ≥ 2 g/dL sau khi đã ổn định hoặc có nôn máu, mạch nhanh, tụt huyết áp mới là chảy máu lại (ESGE 2026 mục 3.3).",
+    "chuyen_tuyen": "Chuyển anh Thịnh đi nội soi lại ngay là không có chỉ định: chưa có bằng chứng lâm sàng chảy máu lại (ESGE 2026 mục 3.3), mới nội soi cách đây vài ngày thấy ổ loét đáy sạch không cần can thiệp (ESGE 2026 mục 2.2; Ann Intern Med 2019 B4). Anh phải đi lại lần nữa trong đêm, nghỉ thêm ngày làm, và vẫn chưa ai kiểm Hb là điều cần biết."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi hết đau bụng rồi, chỉ hơi mệt một chút thôi. Vợ tôi cứ bảo phải đi khám lại cho chắc.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "114/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám sau ra viện. Hết đau bụng; dạo này hơi mệt, \"chắc không sao\".",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "giay_ra_vien",
+     "noi_dung": "Giấy ra viện: vào viện tối hôm khám trước, Hb 124 g/L, ure 5,8 mmol/L, INR 1,0, tiểu cầu 268 G/L; Glasgow-Blatchford 2 (phân đen 1, Hb 1) nên nằm theo dõi. Sáng hôm sau nội soi: loét hành tá tràng 8 mm, đáy sạch (Forrest III), không chảy máu, không giãn tĩnh mạch thực quản – dạ dày, không khối u; test urease nhanh âm tính. Hb ngày thứ hai 108 g/L. Ra viện ngày thứ hai với omeprazol 20 mg uống sáng và sắt sulfat 200 mg × 1 viên/ngày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Kết quả nội soi, Hb nền, thuốc ra viện"
+    },
+    {
+     "id": "sat",
+     "noi_dung": "Vợ mua viên sắt theo đơn ra viện; anh uống từ 2 ngày nay mỗi sáng lúc đói. Phân đã vàng nâu 3 ngày trước đó, đen lại từ hôm bắt đầu uống sắt. Omeprazol uống đều mỗi sáng; không còn dùng thực phẩm chức năng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sắt uống: tác dụng phụ làm đen phân"
+    },
+    {
+     "id": "phan_mo_ta",
+     "noi_dung": "Phân hiện đen xám, thành khuôn, khô, hơi táo, không bóng, không dính, mùi như thường, 1 lần/ngày. Không còn như \"nhựa đường\" của lần trước.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung \"phân thế nào\" thì anh đáp \"đen đen\". Chỉ mô tả khi bác sĩ hỏi cụ thể màu, độ dính, mùi, thành khuôn hay sệt, hoặc khi thăm trực tràng.",
+     "y": "Phân hiện nay: sắt hay chảy máu lại"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Hai ngày nay leo 3 tầng cầu thang phải dừng một lần, tim đập nhanh; ngủ dậy hơi choáng nhẹ nhưng không tối sầm, chưa ngất. Vẫn đi làm hết ca, trưa nằm nghỉ lâu hơn.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi \"mệt thế nào\" thì anh đáp \"hơi mệt\". Chỉ kể khi bác sĩ hỏi leo cầu thang, đứng dậy nhanh, làm việc cả ngày có khác trước không.",
+     "y": "Triệu chứng thiếu máu (hỏi chức năng)"
+    },
+    {
+     "id": "khong_nong",
+     "noi_dung": "Không nôn máu, không đau thượng vị trở lại, không sốt; ăn uống bình thường. Không rượu, không thuốc giảm đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu chảy máu lại"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Anh đọc mạng thấy \"sắt làm đen phân\" nên tự trấn an. Không báo sớm vì sợ phải nhập viện lại và nghỉ làm thêm (đã nghỉ 4 ngày).",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao không đến sớm hơn hoặc anh lo điều gì.",
+     "y": "Động cơ thật: sợ nhập viện lại"
+    },
+    {
+     "id": "ket_qua_sang",
+     "noi_dung": "Sáng mai 7 giờ anh ghé khoa xét nghiệm bệnh viện trước giờ làm được; nhà cách 8 km.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng lấy máu sáng mai"
+    }
+   ],
+   "kham": {
+    "ha_tu_the": {
+     "a": "Nằm: HA 114/72 mmHg, mạch 84 l/p. Đứng 1 phút: HA 112/72 mmHg, mạch 92 l/p, không chóng mặt. Không hạ huyết áp tư thế.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Phân trên găng nâu đen xám, thành khuôn, khô, không bóng dính, mùi bình thường; không có phân hắc ín. Không khối.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt. Da niêm và lòng bàn tay hơi nhạt, không vàng da, không phù.",
+     "k": 1
+    },
+    "di_bo_spo2": {
+     "a": "Đi nhanh 40 m: mạch tăng từ 88 lên 108 l/p, hụt hơi nhẹ, SpO₂ 98% không đổi, hồi phục sau 2 phút.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị, không phản ứng thành bụng, gan lách không sờ thấy.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 104 g/L · MCV 82 fL · TC 290 G/L",
+     "n": "Cần để phân biệt chảy máu lại với thiếu máu hồi phục: so với Hb ra viện 108 g/L, giảm ≥ 2 g/dL sau khi đã ổn định mới là bằng chứng chảy máu lại (ESGE 2026 mục 3.3). Tối nay không làm được; lấy sáng mai lúc 7 giờ."
+    },
+    "ferritin_sat": {
+     "v": "u",
+     "r": "Ferritin 14 ng/mL · bão hòa transferrin 12%",
+     "n": "Ferritin < 30 ng/mL hoặc bão hòa transferrin < 30% là thiếu sắt (QĐ 1832/2022 Thiếu máu thiếu sắt mục 4.1). Tối nay không làm được; làm cùng mẫu sáng mai."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 88 l/p, không loạn nhịp, không biến đổi ST–T.",
+     "n": "Hồi hộp khi gắng sức: loại loạn nhịp; không đổi hướng xử trí."
+    },
+    "hp_ubt": {
+     "v": "n",
+     "r": "Âm tính (có thể âm giả).",
+     "n": "Đang dùng PPI và mới dùng kháng sinh trong 4 tuần: làm bây giờ không đáng tin (VNAGE 2023 Statement 6). Test urease âm tính lúc nội soi cũng có thể giả (Statement 7), phải thử lại (ESGE 2026 mục 3.5)."
+    },
+    "noi_soi": {
+     "v": "n",
+     "r": "(Tối nay phòng khám không có nội soi.)",
+     "n": "Không cần nội soi lại: chưa có bằng chứng lâm sàng chảy máu lại (ESGE 2026 mục 3.3); ổ loét đáy sạch không cần can thiệp (ESGE 2026 mục 2.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Loét hành tá tràng (Forrest III) gây xuất huyết tiêu hóa nhẹ, đang hồi phục; thiếu máu nhẹ sau mất máu (Hb ra viện 108 g/L); phân đen lại do sắt uống, chưa có bằng chứng chảy máu lại, xác nhận bằng Hb sáng mai",
+     "ok": 1,
+     "n": "Phân thành khuôn, khô, không bóng dính, không hắc ín; mạch, HA ổn, HA tư thế âm tính; đen lại đúng hôm bắt đầu sắt; mệt, mạch tăng khi gắng sức, da niêm nhạt là thiếu máu. Sắt uống làm phân đen, táo, không phải XHTH (QĐ 1832/2022 mục 5.2a); thuốc thường nhuộm phân (BSG 2021, mục Oral IRT)."
+    },
+    {
+     "t": "Chảy máu lại từ ổ loét",
+     "n": "Chưa loại hẳn tối nay: phân đen sau khi phân đã bình thường được ESGE 2026 mục 3.3 xếp là bằng chứng lâm sàng chảy lại; nhưng đặc điểm phân, mạch, HA không ủng hộ và ổ loét Forrest III ít nguy cơ. Quyết định bằng Hb sáng mai."
+    },
+    {
+     "t": "Nhiễm H. pylori chưa xác định",
+     "n": "Test urease âm lúc chảy máu có thể giả (VNAGE 2023 Statement 7); phải thử lại (ESGE 2026 mục 3.5) sau khi ngưng PPI ≥ 2 tuần và kháng sinh ≥ 4 tuần (VNAGE 2023 Statement 6)."
+    },
+    {
+     "t": "Hồi hộp do lo âu hoặc tác dụng phụ PPI",
+     "n": "Không giải thích được da niêm nhạt và mạch tăng 20 l/p khi đi nhanh; thiếu máu là lý do hợp lý hơn."
+    },
+    {
+     "t": "Ung thư dạ dày",
+     "n": "Nội soi vừa qua không thấy khối u; ổ loét là lành tính trên nội soi, không có dấu báo động mới."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Phân biệt phân đen do sắt với chảy máu lại bằng đặc điểm phân, thăm trực tràng, mạch và HA tư thế; lấy máu CTM sáng mai 7 giờ tại bệnh viện, bác sĩ gọi báo kết quả trước giờ làm",
+     "v": "c",
+     "n": "Chảy máu lại: nôn máu, nhịp tim nhanh hoặc tụt huyết áp, phân đen sau khi phân đã bình thường, hoặc Hb giảm ≥ 2 g/dL sau khi ổn định (ESGE 2026 mục 3.3). Sắt làm phân đen, táo, không phải XHTH (QĐ 1832/2022 mục 5.2a). Tối nay không có xét nghiệm nên quyết định bằng lâm sàng và hẹn Hb sáng mai."
+    },
+    {
+     "t": "Tiếp tục omeprazol 20 mg × 1 lần/ngày uống sáng 30–60 phút trước ăn (uống tối trước ngủ cũng chấp nhận), theo hẹn của bệnh viện",
+     "v": "c",
+     "n": "Xuất viện với PPI uống 1 lần/ngày, thời gian theo nguyên nhân (Ann Intern Med 2019 C5); liều chuẩn omeprazol 20 mg (VNAGE 2024 Bảng 4). Thời điểm: 30–60 phút trước ăn (ACG 2022 GERD khuyến cáo 8) hoặc buổi tối (QĐ 361/2014 Phụ lục NSAID mục 3.3). Thời gian PPI cho loét tá tràng Forrest III không có trong tài liệu đã tải: theo bác sĩ tiêu hóa."
+    },
+    {
+     "t": "Tiếp tục sắt uống: 1 viên sắt sulfat 200 mg (65 mg sắt nguyên tố)/ngày lúc đói, nếu cồn cào dạ dày thì uống cùng bữa hoặc cách ngày; hoặc 2 mg sắt/kg/ngày (khoảng 136 mg/ngày); uống tiếp khoảng 3 tháng sau khi Hb về bình thường",
+     "v": "c",
+     "n": "BSG 2021 khuyến cáo 18, 20 (1 viên/ngày; theo dõi Hb trong 4 tuần đầu; tiếp tục khoảng 3 tháng sau Hb bình thường). QĐ 1832/2022 Thiếu máu thiếu sắt mục 5.2a (2 mg sắt/kg/ngày, uống lúc đói, kích ứng dạ dày thì uống trong bữa), mục 5.1 (thêm 3 tháng sau Hb bình thường). Hai nguồn khác liều; BSG ít tác dụng phụ tiêu hóa hơn. ESGE 2026 mục 3.6: bắt đầu sắt khi thiếu máu."
+    },
+    {
+     "t": "Giải thích phân đen do sắt: thành khuôn, khô, không bóng dính, không mùi hắc; nếu phân sệt như nhựa đường, nôn máu, choáng, ngất thì đến cấp cứu ngay",
+     "v": "c",
+     "n": "QĐ 1832/2022 mục 5.2a; ESGE 2026 mục 3.3 (dấu hiệu chảy máu lại)."
+    },
+    {
+     "t": "Hẹn thử lại H. pylori (test thở urê hoặc kháng nguyên phân) khi đã ngưng PPI ≥ 2 tuần và kháng sinh ≥ 4 tuần; thời điểm ngưng PPI do bác sĩ tiêu hóa quyết; dương tính thì diệt",
+     "v": "c",
+     "n": "VNAGE 2023 Statement 6, 7; ESGE 2026 mục 3.5 (thử lại khi âm tính lúc nội soi; ghi nhận diệt thành công). Thời điểm ngưng PPI an toàn sau loét tá tràng không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không dùng thuốc giảm đau nhóm NSAID, aspirin tự mua; không rượu; đau đầu dùng paracetamol",
+     "v": "c",
+     "n": "Tiền sử loét và xuất huyết tiêu hóa là nhóm nguy cơ cao khi dùng NSAID (QĐ 361/2014 Phụ lục NSAID mục 3.3)."
+    },
+    {
+     "t": "Hẹn kiểm lại Hb sau 2–4 tuần sắt, sau đó mỗi 4 tuần cho tới khi Hb bình thường; tái khám khi có kết quả sáng mai",
+     "v": "c",
+     "n": "BSG 2021 khuyến cáo 20 và mục Oral IRT (Hb thường tăng trong 2 tuần; theo dõi mỗi 4 tuần tới khi bình thường). Mốc tái khám sau kết quả sáng mai là lựa chọn của ca."
+    },
+    {
+     "t": "Nhập viện hoặc nội soi lại ngay tối nay",
+     "v": "w",
+     "n": "Chưa có bằng chứng chảy máu lại; nội soi lặp khi có bằng chứng lâm sàng (ESGE 2026 mục 3.3)."
+    },
+    {
+     "t": "Truyền máu",
+     "v": "w",
+     "n": "Chưa có chỉ định: Hb ra viện 108 g/L, ngưỡng truyền < 7 g/dL (ACG 2021 khuyến cáo 2; ESGE 2026 mục 1.2) hoặc < 80 g/L (Ann Intern Med 2019 A4)."
+    },
+    {
+     "t": "Ngưng sắt hoặc ngưng omeprazol vì sợ đen phân hoặc vì đã hết đau",
+     "v": "w",
+     "n": "Sắt cần cho thiếu máu sau XHTH (ESGE 2026 mục 3.6; BSG 2021 khuyến cáo 20); hết đau chưa là lành loét, PPI theo hẹn bác sĩ tiêu hóa (Ann Intern Med 2019 C5)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Loét hành tá tràng 8 mm, đáy sạch (Forrest III), đã gây xuất huyết tiêu hóa nhẹ; đang hồi phục, hết đau.",
+     "Thiếu máu nhẹ sau mất máu (Hb ra viện 108 g/L), có triệu chứng khi gắng sức; chưa kiểm sắt.",
+     "Phân đen lại 2 ngày do sắt uống: phân thành khuôn, không hắc ín, huyết động ổn; chưa có bằng chứng chảy máu lại.",
+     "H. pylori chưa xác định: test urease âm lúc nội soi có thể giả, cần thử lại đúng điều kiện.",
+     "Yếu tố tâm lý: lo âu sau khi đọc trên mạng, che giấu triệu chứng vì sợ nhập viện lại."
+    ],
+    "phan_tich_chan_doan": [
+     "Triệu chứng mới là điểm khó: phân đen trở lại sau 3 ngày phân bình thường theo ESGE 2026 mục 3.3 có thể là chảy máu lại; đen lại đúng hôm bắt đầu sắt, sắt làm phân đen (QĐ 1832/2022 mục 5.2a; BSG 2021 mục Oral IRT). Phải phân biệt bằng đặc điểm phân, không bằng màu.",
+     "Thăm trực tràng: phân thành khuôn, khô, không bóng dính, không hắc ín, khác hẳn lần trước (QĐ 1832/2022 mục 5.2a); mạch 88 l/p, HA 114/72, HA tư thế âm tính; không nôn máu: không ủng hộ chảy máu lại (ESGE 2026 mục 3.3).",
+     "Nhưng mệt, da niêm nhạt, mạch tăng 88 → 108 l/p khi đi nhanh là thiếu máu thật. Không có Hb tối nay nên không loại hẳn chảy máu lại; cách an toàn là lấy Hb sáng mai và so với 108 g/L (giảm ≥ 2 g/dL là chảy lại: ESGE 2026 mục 3.3).",
+     "Ổ loét Forrest III không cần cầm máu nội soi, ít nguy cơ chảy lại (ESGE 2026 mục 2.2; Ann Intern Med 2019 B4). Không cần nội soi lại.",
+     "H. pylori: test urease nhanh có thể âm giả khi chảy máu (VNAGE 2023 Statement 7); phải thử lại (ESGE 2026 mục 3.5; Ann Intern Med 2019 D6) khi đã ngưng PPI ≥ 2 tuần, kháng sinh ≥ 4 tuần (VNAGE 2023 Statement 6)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về có hẹn rõ: Hb sáng mai 7 giờ, bác sĩ gọi báo kết quả; nếu Hb giảm ≥ 2 g/dL hoặc có nôn máu, mạch nhanh, tụt huyết áp, phân hắc ín thì vào viện (ESGE 2026 mục 3.3).",
+     "Tiếp tục PPI uống 1 lần/ngày (Ann Intern Med 2019 C5; VNAGE 2024 Bảng 4). Thời gian cho loét tá tràng và thời điểm ngưng để thử lại H. pylori không có trong tài liệu đã tải: theo bác sĩ tiêu hóa.",
+     "Sắt uống theo BSG 2021 hoặc QĐ 1832/2022 (hai liều khác nhau, ghi cả hai): khoảng 3 tháng sau Hb bình thường (BSG 2021) hay thêm 3 tháng sau Hb bình thường và dùng 6–12 tháng (QĐ 1832/2022 mục 5.1, 5.2a); mục 5.2a nhắc phân đen, táo.",
+     "Không NSAID (QĐ 361/2014 Phụ lục NSAID mục 3.3); không rượu; ngưng thực phẩm chức năng.",
+     "Nói thẳng nỗi sợ nhập viện lại: hứa báo kết quả trước giờ làm và chỉ vào viện nếu có dấu hiệu rõ."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "20 mg",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "30–60 phút trước ăn sáng (hoặc buổi tối)",
+      "so_ngay": "Theo hẹn bác sĩ tiêu hóa; thời gian cho loét tá tràng không có trong tài liệu đã tải",
+      "ghi_chu": "Ann Intern Med 2019 C5; VNAGE 2024 Bảng 4; thời điểm: ACG 2022 GERD khuyến cáo 8 hoặc QĐ 361/2014 Phụ lục NSAID mục 3.3."
+     },
+     {
+      "thuoc": "Sắt sulfat",
+      "ham_luong": "200 mg (65 mg sắt nguyên tố)",
+      "lieu": "1 viên/ngày (BSG 2021) hoặc 2 mg sắt/kg/ngày ≈ 136 mg (QĐ 1832/2022)",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng lúc đói; khó chịu dạ dày thì uống cùng bữa hoặc cách ngày",
+      "so_ngay": "Tiếp tục tới khi Hb bình thường rồi khoảng 3 tháng nữa",
+      "ghi_chu": "BSG 2021 khuyến cáo 18, 20; QĐ 1832/2022 mục 5.1, 5.2a. Phân đen, táo do sắt không phải XHTH."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên mỗi lần khi đau đầu, cách ≥ 6 giờ, không quá 4 g/24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi cần",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "Thay NSAID; QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1 (không quá 4 g/24 giờ)."
+     }
+    ],
+    "dan_do": [
+     "Sáng mai 7 giờ lấy máu công thức máu (và ferritin) tại bệnh viện; bác sĩ gọi báo kết quả trước giờ làm; Hb giảm ≥ 2 g/dL so với 108 g/L là dấu chảy máu lại (ESGE 2026 mục 3.3).",
+     "Phân đen do sắt thường thành khuôn, khô, không bóng dính, không mùi hắc; nếu phân sệt như nhựa đường, nôn ra máu, choáng hoặc ngất thì đến cấp cứu ngay (QĐ 1832/2022 mục 5.2a; ESGE 2026 mục 3.3).",
+     "Uống omeprazol và sắt đều; không tự ngưng; không thuốc giảm đau NSAID, aspirin; không rượu.",
+     "Khi ngưng PPI để thử lại H. pylori phải theo hướng dẫn của bác sĩ tiêu hóa, không tự ngưng.",
+     "Nếu còn mệt hoặc hồi hộp khi leo cầu thang, nói thật ngay, không chờ đến hẹn."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Tối hôm đó vợ chở anh Thịnh đến bệnh viện: Hb 124 g/L, ure 5,8 mmol/L, Glasgow-Blatchford 2 nên nằm theo dõi; sáng hôm sau nội soi thấy loét hành tá tràng 8 mm đáy sạch, không cần cầm máu. Sáng sau lượt 2 anh lấy máu: Hb 104 g/L, giảm 4 g/L so với 108 g/L lúc ra viện (chưa tới mốc giảm ≥ 2 g/dL), ferritin 14 ng/mL; bác sĩ gọi báo trước giờ làm, anh không chảy máu lại. Anh hồi phục chậm hơn dự kiến: Hb sau 4 tuần sắt mới lên 111 g/L vì anh buồn nôn nên hay bỏ liều, phải đổi sang uống cùng bữa và hẹn kiểm lại; mệt khi leo cầu thang kéo dài gần 3 tuần, anh chỉ làm nửa ngày tuần đầu. Hết đợt PPI do bác sĩ tiêu hóa quyết và ngưng thuốc 2 tuần, test thở urê dương tính nên anh được diệt H. pylori. Nhờ chuyển ngay tối đầu và hỏi kỹ phân khi tái khám, hai lần phân đen đều được xử trí đúng.",
+ "nhieu": [
+  "Phủ nhận triệu chứng nặng: anh nói \"hơi sẫm màu\", \"bình thường\", \"hơi mệt\"; câu hỏi chức năng (leo cầu thang, đứng nhanh) và hỏi cụ thể màu, độ dính, mùi của phân mới lộ melena; thăm trực tràng xác nhận, không phụ thuộc lời kể.",
+  "Ngoài giờ, không kỹ thuật viên: không có Hb, ure nên không tính được điểm Glasgow-Blatchford; quyết định chuyển bệnh viện phải đưa ra trước khi có kết quả. Điểm tối thiểu từ lâm sàng 1 (không có trong tài liệu: cách tính khi thiếu xét nghiệm, suy ra từ ACG 2021 Bảng 2).",
+  "Thực phẩm chức năng (nghệ, than hoạt tính) và kháng sinh 3 ngày: yếu tố gây nhiễu, không phải nguyên nhân chứng minh được; kháng sinh làm test H. pylori hôm nay thiếu tin cậy (VNAGE 2023 Statement 6).",
+  "Lượt 2: phân đen lại do sắt uống là triệu chứng mới dễ nhầm với chảy máu lại; hạ huyết áp tư thế âm tính, phân thành khuôn, Hb sáng mai quyết định.",
+  "Lo ung thư sau khi đọc trên mạng: nội soi thấy loét lành tính, không u; nỗi lo là lý do anh giấu triệu chứng."
+ ],
+ "bai_hoc_bien": [
+  "Phân đen ở người nói \"không sao\": hỏi màu, độ dính, mùi, số lần và thăm trực tràng; đừng tin câu \"hơi sẫm màu\".",
+  "Khi bệnh nhân giảm nhẹ triệu chứng, dùng câu hỏi chức năng: leo bao nhiêu tầng thì dừng, đứng dậy nhanh có tối sầm không.",
+  "Không có xét nghiệm thì không tính được điểm Glasgow-Blatchford: ngoại trú chỉ khi chứng minh được ≤ 1 (ACG 2021 khuyến cáo 1; ESGE 2026 mục 1.3). Điểm tối thiểu từ lâm sàng đã là 1; thiếu dữ kiện thì chuyển.",
+  "Điểm Glasgow-Blatchford 2 chỉ vượt ngưỡng 1 điểm vì Hb 124 g/L: ngưỡng là con số tuyệt đối, không phải cảm giác \"nhẹ\".",
+  "Thực phẩm chức năng và kháng sinh vừa dùng là nhiễu: không dùng để gạt bỏ melena; ghi ngày ngưng kháng sinh vì ảnh hưởng test H. pylori (VNAGE 2023 Statement 6, 7).",
+  "Phân đen lại khi đang uống sắt: phân biệt bằng đặc điểm phân, mạch, HA tư thế và Hb so với mức ra viện (ESGE 2026 mục 3.3; QĐ 1832/2022 mục 5.2a).",
+  "Quỹ đạo hồi phục bình thường: hết đau nhanh, Hb ổn định hoặc tăng; chậm hơn dự kiến thường là thiếu sắt kéo dài và bỏ liều sắt, không phải chảy máu lại."
+ ],
+ "diem_nho": [
+  "GBS 0–1 mới xử trí ngoại trú, nam Hb 120–129 g/L cho 1 điểm, phân đen 1 điểm, ngất 2, HA tâm thu 100–109 cho 1, mạch ≥ 100 cho 1 (ACG 2021 Bảng 2; Blatchford 2000).",
+  "Nội soi sớm ≤ 24 giờ sau hồi sức; không cần cấp ≤ 12 giờ nếu huyết động ổn (ESGE 2026 mục 2.1).",
+  "Ngưỡng truyền máu: Hb < 7 g/dL (ACG 2021, ESGE 2026), < 80 g/L (Ann Intern Med 2019); ≤ 8 g/dL nếu bệnh tim mạch (ESGE 2026 mục 1.2).",
+  "Loét Forrest IIc/III đáy sạch: không cần cầm máu nội soi, có thể xuất viện sớm (ESGE 2026 mục 2.2; Ann Intern Med 2019 B4).",
+  "H. pylori: test lúc nội soi, âm tính thì thử lại; không kháng sinh ≥ 4 tuần, không PPI ≥ 2 tuần trước test (ESGE 2026 mục 3.5; VNAGE 2023 Statement 6, 7).",
+  "Sắt uống sau XHTH khi thiếu máu (ESGE 2026 mục 3.6), 1 viên/ngày khoảng 3 tháng sau Hb bình thường (BSG 2021); phân đen do sắt không phải XHTH (QĐ 1832/2022 mục 5.2a)."
+ ],
+ "nguon": [
+  "ACG 2021 – XHTH trên và loét chảy máu – TL-0076 – Bảng 2 (Glasgow-Blatchford), khuyến cáo 1, 2, 4, 5",
+  "Blatchford 2000 – TL-0116 – bảng điểm (Hb nam, ure mmol/L, HA, mạch)",
+  "ESGE 2026 – XHTH do loét – TL-0189 – mục 1.1, 1.2, 1.3, 1.5, 2.1, 2.2, 3.2, 3.3, 3.5, 3.6 (Endoscopy 2026;58:899)",
+  "Ann Intern Med 2019 – Đồng thuận quốc tế XHTH trên không do giãn TM – TL-0226 – A2a, A4, A9, B4, C5, D6",
+  "VNAGE 2023 – H. pylori – TL-0179 – Statement 6, 7; VNAGE 2024 – TL-0178 – KC 2 (dấu báo động), Bảng 4 (liều PPI chuẩn)",
+  "BSG 2021 – thiếu sắt – TL-0219 – khuyến cáo 17, 18, 20, mục Oral IRT; BYT QĐ 1832/2022 (kho cũ tltk-10000-ca) – Thiếu máu thiếu sắt mục 4.1, 5.1, 5.2a",
+  "ACG 2022 GERD – TL-0212 – khuyến cáo 8; BYT QĐ 361/2014 – TL-0286 – Phụ lục NSAID mục 3.3, Phụ lục thuốc giảm đau mục 3.1",
+  "Baveno VIII 2026 – TL-0186 – phạm vi (xuất huyết do tăng áp cửa ở xơ gan; không áp dụng ca này)",
+  "Không có trong tài liệu đã tải: thời hạn chuyển tuyến cụ thể, liều PPI trước nội soi, thời gian PPI cho loét tá tràng Forrest III, thời điểm ngưng PPI để thử lại H. pylori, cách tính GBS khi thiếu xét nghiệm, tác dụng của thực phẩm chức năng nghệ/than hoạt tính lên chảy máu hoặc màu phân"
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 19/11/2026. Cặp tương phản P-0183 vai B (ca đối TH-1407 viêm tụy cấp): cùng đau thượng vị nam trung niên; ở đây đau rát đói, phân đen, không đau dữ dội xuyên lưng.",
+  "Tài liệu đã đọc: TL-0076 (Bảng 2, khuyến cáo 1–5), TL-0116 (bảng điểm), TL-0189 (mục 1.2–1.5, 2.1, 2.2, 3.2–3.6), TL-0226 (A2a, A4, A9, B4, C5, D6), TL-0179 (Statement 6, 7), TL-0178 (Bảng 4), TL-0219 (khuyến cáo 17–20), QĐ 1832/2022 (mục 5.2a), QĐ 361/2014 (Phụ lục NSAID 3.3).",
+  "Thiết kế: xét nghiệm tối nay bị khóa nên GBS không tính được; Hb 124 g/L + phân đen = 2 điểm khi tính ở bệnh viện, vừa vượt ngưỡng ≤ 1. Hb 124 → 108 g/L (ngày 2) → 104 g/L (sau lượt 2) nhất quán với ESGE 2026 mục 3.3 (giảm < 2 g/dL sau khi ổn định).",
+  "Mâu thuẫn: không có mới. Dùng mục cũ về liều sắt uống (TH-0990: BSG 2021 hoặc QĐ 1832/2022), thời điểm PPI (TH-0295), ngưỡng truyền máu (HH-1192).",
+  "Chưa dùng ảnh da, âm thanh bất thường; âm thanh tim, phổi bình thường (mạch < 100)."
+ ]
+}
