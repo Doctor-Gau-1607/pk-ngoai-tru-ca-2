@@ -1,0 +1,512 @@
+{
+ "ma_ca": "TH-1421",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_xuat_huyet_tieu_hoa_tren_chuyen_tuyen",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Xuất huyết tiêu hóa (nhẹ/ngoại trú)",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư tiêu hóa",
+   "Vỡ giãn TM thực quản"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Thợ cắt tóc",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Văn Hậu",
+  "tuoi": 52,
+  "gioi": "Nam",
+  "nghe": "Thợ cắt tóc",
+  "can_nang": 64,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh tự xưng 'tôi', ngắn gọn, hay nhìn vợ. Vợ là chị Lụa, 49 tuổi, xưng 'em' với bác sĩ, gọi chồng là 'ảnh'; bác sĩ gọi chị là 'chị'.",
+  "tinh_cach": "Ít nói, hiền, ngại phiền người khác, coi thường triệu chứng của mình; nhiều năm tối nào cũng uống bia ở tiệm sau giờ khách. Rất sợ làm hại vợ con. Hiểu biết y khoa ít.",
+  "kieu_nhieu": "Thân nhân trả lời thay: chị Lụa ngồi sát, trả lời trước cả khi hỏi xong, tự giải thích bệnh ('hao sức', 'do viên sắt'), giảm nhẹ rượu và thuốc ('nhậu xã giao', 'thuốc đau lưng ít thôi'). Anh ngồi im, chỉ gật. Hỏi riêng anh (mời chị ra ngoài) thì anh khai số bia, số viên paracetamol, ibuprofen và nỗi sợ lây viêm gan cho vợ con.",
+  "nguoi_nha": "Vợ, chị Đỗ Thị Lụa, 49 tuổi, bán rau ở chợ, đi cùng. Chị biết: anh mệt, phân đen 3 ngày, xây xẩm, uống 'thuốc đau lưng', mua viên sắt cho anh. Chị KHÔNG biết: lượng bia thật, số viên paracetamol, ibuprofen, và nỗi sợ lây viêm gan của anh.",
+  "ten_nguoi_nha": "Chị Lụa (vợ)",
+  "ngoai_hinh": {
+   "da": "#c4936a",
+   "toc": "#1f1a17",
+   "kieuToc": "ngan",
+   "ao": "#4a5d7a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9a982",
+    "toc": "#2a1f19",
+    "kieuToc": "bui",
+    "ao": "#b5656f",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt, xây xẩm, đi cầu phân đen ba ngày (vợ kể)",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám tuyến cơ sở chỉ làm được xét nghiệm cơ bản (công thức máu, ure – creatinin, AST – ALT, đường huyết, điện giải đồ, tổng phân tích nước tiểu) và điện tim; không có X-quang, siêu âm, CT, nội soi; không làm PT/INR, nhóm máu, định lượng paracetamol, HBsAg. Có dịch truyền NaCl 0,9%, đặt được đường truyền, gọi được xe cấp cứu; không có máu, không có giường lưu qua đêm. Bệnh viện đa khoa tỉnh cách 28 km có nội soi, ngân hàng máu."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Phạm Văn Hậu, 52 tuổi, thợ cắt tóc, vợ đưa đến vì mệt, xây xẩm và đi cầu phân đen mấy hôm nay. Sinh hiệu: mạch 96 l/p, HA 108/68 mmHg, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 98%. Cân nặng 64 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Anh Hậu được cho về với omeprazol uống và dặn nghỉ ngơi, trong khi điểm Glasgow-Blatchford 8 (Hb 104 g/L, ure 8,6 mmol/L, HA tâm thu 108 mmHg, phân đen), không thuộc nhóm nguy cơ rất thấp để ngoại trú (ACG 2021 KC 1, Bảng 2; ESGE 2026 mục 1.3). Anh đứng tiệm cả ngày, vẫn bia và ibuprofen, nên xây xẩm, ngất hoặc nôn máu ở nhà cách bệnh viện tỉnh 28 km là nguy cơ thật. Nội soi bị trễ quá 24 giờ (ESGE 2026 mục 2.1) nên không biết ổ loét còn chảy hay không, và khi chảy lại thì nhóm máu, thử chéo mới bắt đầu.",
+    "theo_doi": "Giữ anh nằm truyền dịch vài giờ rồi cho về, hẹn tái khám 1–2 ngày sau: phòng khám không có nội soi, máu hay giường lưu qua đêm, trong khi anh cần nội soi trong 24 giờ sau hồi sức (ESGE 2026 mục 2.1; ACG 2021 KC 5). Chuyến đi bị hoãn; nếu chảy lại giữa chừng thì anh được chuyển trong tình trạng nặng hơn, đi xe máy hoặc xe nhà, có thể ngất dọc đường. Mất thêm một ngày công của anh và nỗi lo ‘gan hư lây vợ con’ vẫn còn nguyên vì chưa có xét nghiệm nào trả lời.",
+    "cap_cuu": "Gọi 115 chuyển ngay như ca sốc và đòi nội soi cấp cứu trong 6 giờ là quá tay: anh tỉnh, HA nằm 108/68, mạch 96 l/p, hồi sức dịch tinh thể xong còn ổn. Nội soi cấp cứu (≤ 6 giờ) hoặc khẩn (≤ 12 giờ) không được khuyến cáo trừ khi huyết động còn bất ổn dù đã hồi sức đủ (ESGE 2026 mục 2.1); nội soi sớm trong 24 giờ là đủ. Vợ chồng hoảng sợ, chi phí tăng, và đội cấp cứu bị chiếm cho người nặng hơn."
+   },
+   "loi_mo": "Bác sĩ ơi, ảnh mệt rã rời, đứng lên là xây xẩm, đi cầu ra đen thui mấy bữa nay. Em nghĩ ảnh hao sức, với lại do viên sắt em mới mua cho ảnh uống. Bác sĩ coi giúp rồi cho ảnh ít thuốc bổ.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "108/68",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "(Vợ kể) Anh mệt, đứng lên là xây xẩm, đi cầu phân đen ba ngày nay. Chị nghĩ anh 'hao sức' vì sáng hôm đó vừa có chuyện vợ chồng, và nghĩ phân đen do viên sắt chị mua cho anh uống. Sáng nay anh xây xẩm suýt ngã khi bưng ghế ở tiệm nên chị lôi đi khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "phan_den",
+     "noi_dung": "Phân đen như nhựa đường, sệt, bóng dính, mùi rất thối, khác hẳn mùi phân thường; 4–5 lần trong 3 ngày, mỗi lần khá nhiều. Lần đầu là sáng 3 ngày trước. Không máu đỏ tươi, không nhầy, không đau quặn bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm phân đen (melena)"
+    },
+    {
+     "id": "sat",
+     "noi_dung": "Chị Lụa mua viên sắt 'bổ máu' từ 2 ngày trước; anh uống mỗi ngày 1 viên, được 2 ngày. Phân đen đã có từ sáng 3 ngày trước, tức là trước khi uống sắt. Không ăn tiết canh, huyết, không uống bismuth hay than hoạt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt phân đen do sắt/thức ăn: mốc thời gian"
+    },
+    {
+     "id": "choang",
+     "noi_dung": "Sáng 3 ngày trước, sau đêm vợ chồng gần nhau bình thường (không dùng thuốc kích dục), anh dậy đi cầu thì choáng váng, tối sầm mắt, phải vịn tường ngồi xuống, không ngất hẳn. Từ đó mệt, hồi hộp, đứng lên là xây xẩm. Không đau ngực, không khó thở khi nằm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát: choáng là dấu mất máu, quan hệ chỉ là mốc thời gian"
+    },
+    {
+     "id": "dau_thuong_vi",
+     "noi_dung": "Hai đến ba tuần nay đau rát thượng vị, hay đau lúc đói và nửa đêm, ăn vào đỡ. Ba ngày nay bớt đau hẳn. Không nôn ra máu, không nôn cà phê, không nôn nhiều, không ợ nghẹn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau thượng vị kiểu loét; không nôn máu"
+    },
+    {
+     "id": "thuoc_giau",
+     "noi_dung": "Đau lưng, vai gáy vì đứng cắt tóc cả ngày. Hai tháng nay anh uống paracetamol 500 mg 8–10 viên mỗi ngày (khoảng 4–5 g). Ba tuần nay thêm ibuprofen 400 mg 1–2 viên mỗi ngày mua ở tiệm thuốc những hôm paracetamol chưa đỡ. Không aspirin, không thuốc chống đông, không corticoid.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chị Lụa đáp 'thuốc đau lưng, ảnh uống ít thôi'. Anh chỉ nói số viên thật và ibuprofen khi bác sĩ hỏi riêng anh (mời chị ra ngoài) hoặc hỏi cụ thể tên thuốc giảm đau, số viên mỗi ngày, có loại nào khác paracetamol không.",
+     "k": 1,
+     "y": "Paracetamol liều cao kéo dài và NSAID"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Uống bia 3–4 lon mỗi ngày từ nhiều năm, chủ yếu buổi tối ở tiệm sau giờ khách. Hút nửa gói thuốc lá mỗi ngày. Chưa từng vàng da, bụng to, nôn ra máu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chị Lụa nói 'ảnh nhậu xã giao thôi'. Anh chỉ khai số lượng khi hỏi riêng anh hoặc hỏi lại cụ thể mỗi ngày mấy lon, mấy năm.",
+     "k": 1,
+     "y": "Rượu bia (nguy cơ loét, nguy cơ gan)"
+    },
+    {
+     "id": "gan",
+     "noi_dung": "Không từng vàng da, nước tiểu vàng sậm, bụng to lên, phù chân, chảy máu cam hay bầm da dễ. Chưa bao giờ xét nghiệm viêm gan B, C nên không biết mình có nhiễm không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc bệnh gan, tăng áp tĩnh mạch cửa"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Cân nặng vẫn 64 kg như năm ngoái, ăn uống bình thường, không nuốt nghẹn, không đau khi nuốt, không nôn nhiều. Cha mẹ không ai bị ung thư dạ dày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động (ung thư)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng nội soi, chưa từng bị loét dạ dày; không tăng huyết áp, tiểu đường, bệnh tim; không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Anh sợ mình mắc bệnh lây: một khách quen vừa được báo viêm gan B, anh nhớ có lần dao cạo cứa vào tay mình khi cạo râu cho khách đó. Nay thấy phân đen, anh nghĩ 'gan hư' và sợ đã lây cho vợ, hai con (ăn chung mâm, vợ chồng mới gần nhau). Anh ngại nói trước mặt vợ vì sợ chị hoảng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng anh (mời chị Lụa ra ngoài), hoặc hỏi 'anh lo nhất điều gì', 'vì sao anh nghĩ vậy'.",
+     "k": 1,
+     "y": "Động cơ thật: sợ lây bệnh cho người thân"
+    },
+    {
+     "id": "nguon_luc",
+     "noi_dung": "Bệnh viện đa khoa tỉnh cách 28 km, có nội soi và ngân hàng máu; phòng khám gọi được xe cấp cứu của trạm. Anh ngại nằm viện vì tiệm đang đông khách nhưng nghe giải thích rõ thì đồng ý đi, chị Lụa đi cùng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng chuyển tuyến, thái độ người bệnh"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, da niêm mạc nhợt, lòng bàn tay nhợt nhẹ, môi khô. Không vàng da, không vàng củng mạc, không sao mạch, không lòng bàn tay son, không phù. Cân nặng 64 kg, cao 165 cm.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: 108/68 mmHg, mạch 96 l/p. Đứng sau 3 phút: 88/58 mmHg, mạch 114 l/p, choáng váng, phải vịn ghế.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 96 l/p."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm, không ran. Nhịp thở 18 l/p.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ vùng thượng vị, không phản ứng thành bụng, không co cứng. Không tuần hoàn bàng hệ, không cổ trướng, gan không to, lách không sờ thấy, không khối.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Găng dính phân sệt màu đen như nhựa đường, mùi rất thối; không máu đỏ tươi, không khối, không trĩ nội.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không hạch thượng đòn, không hạch cổ; tuyến giáp không to.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Co cứng cơ cạnh sống thắt lưng hai bên, ấn đau; không đau điểm xương; nâng chân thẳng âm tính hai bên.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 104 g/L · MCV 86 fL · TC 238 G/L · BC 10,8 G/L",
+     "bang": {
+      "wbc": 10.8,
+      "neu_pct": 72.0,
+      "neu": 7.78,
+      "lym_pct": 20.0,
+      "lym": 2.16,
+      "mono_pct": 6.0,
+      "mono": 0.65,
+      "eos_pct": 1.5,
+      "eos": 0.16,
+      "baso_pct": 0.5,
+      "baso": 0.05,
+      "rbc": 3.6,
+      "hgb": 104,
+      "hct": 0.31,
+      "mcv": 86.0,
+      "mch": 28.9,
+      "mchc": 336,
+      "rdw": 13.4,
+      "plt": 238
+     },
+     "n": "Hb cho điểm Glasgow-Blatchford: nam 10,0 đến dưới 12,0 g/dL = 3 điểm (ACG 2021, Bảng 2). Hb 104 g/L còn trên ngưỡng truyền máu (dưới 7 g/dL theo ACG 2021 KC 2 và ESGE 2026 mục 1.2; dưới 80 g/L theo ICG 2019 A4). Ngày đầu chảy máu cấp, Hb có thể chưa phản ánh hết lượng mất (ICG 2019, phần bàn A4). Tiểu cầu bình thường, không ủng hộ tăng áp cửa."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 8,6 mmol/L · Creatinin 82 µmol/L · eGFR 99 mL/ph/1,73m²",
+     "bang": {
+      "ure": 8.6,
+      "creat": 82,
+      "egfr": 99
+     },
+     "n": "Ure là một thành phần của điểm Glasgow-Blatchford: 8,6 mmol/L tương đương BUN khoảng 24 mg/dL (quy đổi nhân 2,8, không có trong tài liệu đã tải), thuộc mức 22,4 đến dưới 28,0 mg/dL = 3 điểm (ACG 2021, Bảng 2). Creatinin bình thường: ure tăng không do suy thận."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 46 · ALT 34 U/L",
+     "n": "Paracetamol 4–5 g/ngày kèm rượu: AST hoặc ALT dưới 50 IU/L là tiên lượng tốt (QĐ 3610/2015, Ngộ độc paracetamol, Các trường hợp đặc biệt 3). Paracetamol chống chỉ định khi đang tăng men gan (QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1). Bệnh gan là một thành phần điểm Glasgow-Blatchford (ACG 2021, Bảng 2)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "5,6 mmol/L",
+     "bang": {
+      "glu": 5.6
+     }
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 138 · K 4,0 · Cl 102 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 4.0,
+      "cl": 102
+     }
+    },
+    "ua": {
+     "v": "a",
+     "r": "Tỉ trọng 1,022; không protein, glucose, ketone, hồng cầu, bạch cầu; bilirubin và urobilinogen bình thường.",
+     "n": "Có trong bộ xét nghiệm cơ bản của cơ sở; không đổi xử trí."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 94 l/p, trục bình thường, không ST chênh, không sóng Q, không block.",
+     "n": "Mệt, xây xẩm ở 52 tuổi: loại trừ rối loạn nhịp hay thiếu máu cơ tim nặng kèm theo; không đổi hướng chuyển tuyến. Chỉ định ECG riêng cho XHTH không có trong tài liệu đã tải."
+    },
+    "inr": {
+     "v": "u",
+     "r": "(Phòng khám không làm được PT/INR; bệnh viện tỉnh làm khi tiếp nhận.)",
+     "n": "Uống rượu nhiều, paracetamol liều cao: nên ghi trong thư chuyển để tuyến trên kiểm tra. Không chờ INR mới chuyển (ESGE 2026, Bảng 1: không dùng ngưỡng INR định trước để trì hoãn nội soi ở người dùng kháng đông; việc dùng cho người không dùng kháng đông không có trong tài liệu đã tải)."
+    },
+    "paracetamol_mau": {
+     "v": "a",
+     "r": "(Phòng khám không định lượng được paracetamol máu.)",
+     "n": "Dùng lặp lại trên 4 g/ngày: xử trí dựa vào lượng đã uống, AST/ALT và nồng độ paracetamol máu; paracetamol máu dưới 120 µmol/L hoặc AST/ALT dưới 50 IU/L tiên lượng tốt (QĐ 3610/2015, Các trường hợp đặc biệt 3). Không cần chờ trước khi chuyển."
+    },
+    "nhom_mau": {
+     "v": "a",
+     "r": "(Phòng khám không làm được nhóm máu, thử chéo; bệnh viện tỉnh làm khi tiếp nhận.)",
+     "n": "Chưa có chỉ định truyền máu (Hb 104 g/L; ESGE 2026 mục 1.2) nhưng bệnh viện cần nhóm máu dự phòng. Việc làm nhóm máu thường quy không có trong tài liệu đã tải."
+    },
+    "virus_mau": {
+     "v": "a",
+     "r": "(Phòng khám không làm được HBsAg, anti-HCV, HIV; làm ở bệnh viện tỉnh.)",
+     "n": "Trả lời nỗi lo lây bệnh của anh, nhưng không bắt buộc trước khi chuyển. Chỉ định xét nghiệm virus viêm gan trong XHTH không do giãn tĩnh mạch không có trong tài liệu đã tải."
+    },
+    "hp_ubt": {
+     "n": "Chưa làm: trong lúc đang chảy máu, urease nhanh và mô bệnh học có thể âm tính giả, phải xác nhận lại sau khi ổn định (VNAGE 2023, Statement 7). Tuyến trên tìm H. pylori ngay lần nội soi đầu (ESGE 2026 mục 3.5)."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi; làm tại bệnh viện tỉnh cách 28 km.)",
+     "n": "Cần nội soi sớm trong 24 giờ sau hồi sức (ESGE 2026 mục 2.1; ACG 2021 KC 5). Nội soi cấp cứu trong 6 giờ hoặc khẩn trong 12 giờ không khuyến cáo trừ khi huyết động còn bất ổn dù đã hồi sức (ESGE 2026 mục 2.1). Nội soi cũng loại trừ ung thư (VNAGE 2024, KC 2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Xuất huyết tiêu hóa trên (phân đen) do nghi loét dạ dày – tá tràng liên quan ibuprofen, paracetamol liều cao và rượu; mất máu mức vừa (Hb 104 g/L, ure 8,6 mmol/L, hạ huyết áp tư thế), điểm Glasgow-Blatchford 8, không đủ điều kiện ngoại trú, cần nội soi trong 24 giờ ở tuyến tỉnh",
+     "ok": 1,
+     "n": "Phân đen sệt hôi (thăm trực tràng xác nhận), choáng váng, Hb thấp, ure tăng, đau thượng vị kiểu loét, có ibuprofen và bia. Nguyên nhân chính xác chỉ khẳng định bằng nội soi."
+    },
+    {
+     "t": "Ung thư dạ dày – thực quản",
+     "n": "Không sụt cân, nuốt nghẹn, nôn nhiều, hạch thượng đòn hay khối; đau có chu kỳ đói và đêm. Nhưng nam 52 tuổi có XHTH và thiếu máu thuộc dấu báo động, nên nội soi vẫn bắt buộc (VNAGE 2024, KC 2; VNAGE 2023, Bảng 2)."
+    },
+    {
+     "t": "Vỡ giãn tĩnh mạch thực quản (tăng áp tĩnh mạch cửa)",
+     "n": "Không nôn máu; không vàng da, sao mạch, lòng bàn tay son, cổ trướng, tuần hoàn bàng hệ, lách to; tiểu cầu 238 G/L; AST/ALT dưới 50. Uống bia nhiều năm và chưa xét nghiệm viêm gan nên chỉ nội soi mới loại hẳn. Nếu nghi thì phải dùng thuốc co mạch tạng và kháng sinh dự phòng sớm, nội soi trong 12 giờ (Baveno VIII 2026, mục 5.7, 5.10, 5.18)."
+    },
+    {
+     "t": "Phân đen do viên sắt hoặc thức ăn",
+     "n": "Phân đen có từ sáng 3 ngày trước, trước khi uống sắt; kèm choáng, hạ huyết áp tư thế, Hb 104 g/L và ure tăng. Không ăn tiết canh, huyết, bismuth."
+    },
+    {
+     "t": "Thiếu máu thiếu sắt mạn",
+     "n": "MCV 86 fL, Hb giảm cấp trong vài ngày, có phân đen; sắt huyết thanh, ferritin không làm được ở cơ sở."
+    },
+    {
+     "t": "Viêm gan do paracetamol liều cao kéo dài",
+     "n": "Không đau hạ sườn phải, không vàng da; AST 46, ALT 34 U/L dưới 50 IU/L (QĐ 3610/2015, Các trường hợp đặc biệt 3). Anh vẫn có nguy cơ vì dùng trên 4 g/ngày và uống rượu (QĐ 3610/2015, mục 2)."
+    },
+    {
+     "t": "Nhiễm virus viêm gan B (nỗi lo của anh)",
+     "n": "Không vàng da, men gan không tăng, không giải thích được phân đen. Chưa có xét nghiệm nên để tuyến trên làm HBsAg."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tính điểm Glasgow-Blatchford: 8 (Hb 104 g/L = 3, ure 8,6 mmol/L = 3, HA tâm thu 108 mmHg = 1, phân đen = 1); không thuộc nhóm nguy cơ rất thấp nên không điều trị ngoại trú",
+     "v": "c",
+     "n": "Chỉ bệnh nhân điểm 0–1 mới cho về theo dõi ngoại trú (ACG 2021 KC 1 và Bảng 2; ESGE 2026 mục 1.3; ICG 2019 A2a). Ca tiêu hóa ‘nhẹ’ nhìn bề ngoài (đi bộ vào, huyết áp nằm bình thường) vẫn có thể điểm cao."
+    },
+    {
+     "t": "Chuyển anh đến bệnh viện tỉnh để nội soi dạ dày – tá tràng trong vòng 24 giờ sau hồi sức",
+     "v": "c",
+     "n": "Nội soi sớm ≤ 24 giờ sau hồi sức (ESGE 2026 mục 2.1; ACG 2021 KC 5). Phòng khám không có nội soi, không có máu, không lưu bệnh qua đêm."
+    },
+    {
+     "t": "Đặt đường truyền tĩnh mạch, truyền NaCl 0,9% hồi sức dịch tinh thể; đo lại mạch, huyết áp, tri giác trước và trong khi chuyển; anh nằm, có người y tế đi kèm bằng xe cấp cứu, không tự đi xe máy",
+     "v": "c",
+     "n": "Đánh giá huyết động ngay và bù thể tích bằng dịch tinh thể khi có bất ổn (ESGE 2026 mục 1.1). Đứng 88/58, mạch 114 đã chạm mức thường dùng để định nghĩa bất ổn huyết động (HA tâm thu dưới 100 mmHg, mạch trên 100 l/p; ESGE 2026 mục 1.1). Xe cấp cứu và người đi kèm là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chưa truyền máu tại phòng khám",
+     "v": "c",
+     "n": "Hb 104 g/L cao hơn ngưỡng truyền máu: dưới 7 g/dL (ACG 2021 KC 2; ESGE 2026 mục 1.2, người không bệnh tim mạch) hoặc dưới 80 g/L (ICG 2019 A4). Bệnh viện tỉnh theo dõi Hb tiếp."
+    },
+    {
+     "t": "Ngưng ngay ibuprofen và mọi thuốc chống viêm giảm đau tự mua; bỏ rượu bia; paracetamol không dùng thêm trong lúc chờ, về sau không quá 4 g/24 giờ và chỉ khi men gan bình thường",
+     "v": "c",
+     "n": "NSAID chống chỉ định khi loét dạ dày – tá tràng đang tiến triển hoặc bệnh lý chảy máu (QĐ 361/2014, Phụ lục NSAID mục 3.2); uống rượu và nhiễm H. pylori là yếu tố nguy cơ biến chứng tiêu hóa (mục 3.3). Paracetamol: 500–1.000 mg mỗi lần, không quá 4 g/24 giờ, chống chỉ định khi tăng men gan (QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1); trên 4 g/ngày ở người có yếu tố nguy cơ (rượu) là mức nguy cơ ngộ độc (QĐ 3610/2015, Các trường hợp đặc biệt 3). Nhóm nguy cơ cao có bệnh gan: dưới 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3), thận trọng hơn mức 4 g. Anh đang uống 4–5 g/ngày, vượt cả hai."
+    },
+    {
+     "t": "Giải thích nỗi lo lây bệnh: chảy máu dạ dày do thuốc và rượu không phải bệnh lây; riêng vi khuẩn H. pylori nếu có thì có thể lây trong gia đình và sẽ được xét nghiệm, điều trị khi ổn định; hiện không có dấu viêm gan (không vàng da, men gan bình thường), HBsAg sẽ làm ở tuyến trên",
+     "v": "c",
+     "n": "H. pylori truyền từ người sang người, nhất là trong gia đình (VNAGE 2023, Statement 22); xét nghiệm lại sau ổn định chảy máu vì urease nhanh có thể âm giả (Statement 7); tìm H. pylori ở lần nội soi đầu, điều trị nếu dương tính (ESGE 2026 mục 3.5). Câu ‘chảy máu không lây’ và việc không cần cách ly là suy luận lâm sàng, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viết thư chuyển tuyến bàn giao: điểm Glasgow-Blatchford 8, Hb 104 g/L, ure 8,6 mmol/L, HA nằm 108/68 và đứng 88/58, phân đen, ibuprofen + paracetamol 4–5 g/ngày + bia 3–4 lon/ngày; chưa có INR, nhóm máu, HBsAg; xin nội soi kèm tìm H. pylori",
+     "v": "c",
+     "n": "Bàn giao thông tin cần cho tuyến trên: nguy cơ (ACG 2021 Bảng 2), thuốc và rượu (QĐ 3610/2015, mục 3.1: hỏi chính xác thuốc chứa paracetamol, liều), H. pylori (ESGE 2026 mục 3.5). Dạng thư SBAR không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiêm tĩnh mạch chậm omeprazol 40 mg một liều trước khi chuyển (nếu có sẵn), không để việc này làm chậm chuyển tuyến",
+     "v": "a",
+     "n": "ESGE 2026 mục 1.5 và ICG 2019 A9: có thể cân nhắc PPI tĩnh mạch liều cao trước nội soi nhưng không được làm chậm nội soi; ACG 2021 KC 4: không có khuyến cáo ủng hộ hay phản đối. Cả hai cách (tiêm hoặc không) đều chấp nhận. Liều trước nội soi không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn nhịn ăn, chỉ nhấp nước trong lúc chờ chuyển",
+     "v": "a",
+     "n": "Chờ nội soi nên nhịn là thông lệ; không có trong tài liệu đã tải (ESGE 2026 mục 3.7 chỉ bàn ăn lại sớm sau nội soi)."
+    },
+    {
+     "t": "Đề nghị làm HBsAg ở tuyến trên để trấn an anh",
+     "v": "a",
+     "n": "Trả lời nỗi lo thật; chỉ định xét nghiệm này không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về với omeprazol 20 mg mỗi ngày, hẹn nội soi theo lịch",
+     "v": "w",
+     "n": "Điểm Glasgow-Blatchford 8, không đủ điều kiện ngoại trú (ACG 2021 KC 1; ESGE 2026 mục 1.3); nội soi sớm trong 24 giờ (ESGE 2026 mục 2.1)."
+    },
+    {
+     "t": "Truyền máu ngay tại chỗ hoặc chuyển chỉ để truyền máu",
+     "v": "w",
+     "n": "Hb 104 g/L, chưa đến ngưỡng (ACG 2021 KC 2; ESGE 2026 mục 1.2; ICG 2019 A4); truyền máu quá tay làm tăng nguy cơ (ESGE 2026 mục 1.2 bàn chiến lược hạn chế)."
+    },
+    {
+     "t": "Tiêm acid tranexamic để cầm máu trước khi chuyển",
+     "v": "w",
+     "n": "ESGE 2026, Bảng 1: không khuyến cáo acid tranexamic trong XHTH trên không do giãn tĩnh mạch (mạnh, bằng chứng cao)."
+    },
+    {
+     "t": "Gọi xe cấp cứu 115 đòi nội soi trong 6 giờ như bệnh nhân sốc",
+     "v": "w",
+     "n": "Không có sốc; nội soi cấp cứu ≤ 6 giờ và khẩn ≤ 12 giờ không được khuyến cáo trừ khi huyết động còn bất ổn dù đã hồi sức (ESGE 2026 mục 2.1)."
+    },
+    {
+     "t": "Cho thuốc giảm đau lưng nhóm chống viêm (diclofenac, ibuprofen) để anh đỡ đau trong lúc chờ",
+     "v": "h",
+     "n": "NSAID chống chỉ định khi bệnh lý chảy máu chưa kiểm soát, loét tiến triển (QĐ 361/2014, Phụ lục NSAID mục 3.2): làm tiếp tục chảy máu."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Xuất huyết tiêu hóa trên (đi cầu phân đen), mất máu mức vừa: Hb 104 g/L, ure 8,6 mmol/L, hạ huyết áp tư thế",
+     "Phân tầng nguy cơ: điểm Glasgow-Blatchford 8, không thuộc nhóm ≤ 1 để ngoại trú",
+     "Nguyên nhân nghi: loét dạ dày – tá tràng do ibuprofen và rượu (± H. pylori); chưa khẳng định khi chưa nội soi",
+     "Chưa loại hẳn nếu chưa nội soi: ung thư dạ dày (khả năng thấp), giãn tĩnh mạch thực quản (khả năng thấp)",
+     "Yếu tố đi kèm: paracetamol 4–5 g/ngày kéo dài 2 tháng (vượt 4 g/24 giờ), bia 3–4 lon/ngày, đau lưng do nghề đứng lâu",
+     "Nỗi lo thật của anh: sợ đã lây bệnh (viêm gan B) cho vợ con"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh và khám: phân đen sệt, dính, hôi như nhựa đường, thăm trực tràng xác nhận; choáng váng; hạ huyết áp tư thế (nằm 108/68, mạch 96; đứng 88/58, mạch 114). XHTH là dấu báo động ở người khó tiêu (VNAGE 2024, KC 2; VNAGE 2023, Bảng 2). Mốc thời gian chứng minh không phải do sắt: phân đen có trước viên sắt 1 ngày.",
+     "Vì sao nghĩ loét do thuốc và rượu: đau rát thượng vị lúc đói và nửa đêm 2–3 tuần, ibuprofen 3 tuần, bia 3–4 lon/ngày. Rượu và nhiễm H. pylori là yếu tố nguy cơ biến chứng tiêu hóa của NSAID (QĐ 361/2014, Phụ lục NSAID mục 3.3). Liên quan giữa paracetamol liều cao và loét hay XHTH không có trong tài liệu đã tải; điều cần lưu ý ở paracetamol là độc tính gan.",
+     "Vì sao phải hỏi riêng anh: chị Lụa nói ‘nhậu xã giao’, ‘thuốc đau lưng ít thôi’, ‘do viên sắt’; chỉ khi hỏi riêng anh mới khai bia 3–4 lon/ngày, paracetamol 8–10 viên, ibuprofen, và nỗi sợ lây viêm gan B. Khai thật liều paracetamol quyết định đánh giá độc tính gan (QĐ 3610/2015, mục 3.1: hỏi chính xác thuốc, liều).",
+     "Tính điểm Glasgow-Blatchford (ACG 2021, Bảng 2): ure 8,6 mmol/L ≈ BUN 24 mg/dL = 3; Hb 104 g/L (10,4 g/dL, nam) = 3; HA tâm thu nằm 108 = 1; phân đen = 1; mạch 96 (< 100) = 0; không ngất, không bệnh gan, không suy tim = 0. Tổng 8. Chỉ điểm 0–1 mới ngoại trú (ACG 2021 KC 1; ESGE 2026 mục 1.3; ICG 2019 A2a). Nếu tính theo HA đứng 88 và mạch 114 điểm còn cao hơn.",
+     "Mức mất máu: đứng HA tâm thu dưới 100 mmHg và mạch trên 100 l/p là mức thường dùng để gọi bất ổn huyết động (ESGE 2026 mục 1.1); Hb chưa phản ánh hết lượng mất ở ngày đầu (ICG 2019, phần bàn A4) nên Hb 104 g/L không được trấn an.",
+     "Loại trừ: giãn tĩnh mạch thực quản thấp vì không có nôn máu, dấu bệnh gan mạn, tiểu cầu bình thường, men gan dưới 50; nếu nghi thì thêm thuốc co mạch tạng, kháng sinh dự phòng và nội soi trong 12 giờ (Baveno VIII 2026, mục 5.7, 5.10, 5.18). Ung thư: không dấu báo động ngoài XHTH và thiếu máu, vẫn cần nội soi. Viêm gan do paracetamol: AST/ALT dưới 50 IU/L (QĐ 3610/2015, Các trường hợp đặc biệt 3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không ngoại trú vì điểm 8 (ACG 2021 KC 1; ESGE 2026 mục 1.3). Chuyển bệnh viện tỉnh để nội soi sớm trong 24 giờ sau hồi sức (ESGE 2026 mục 2.1; ACG 2021 KC 5); không cần nội soi cấp cứu vì huyết động không còn bất ổn sau hồi sức (ESGE 2026 mục 2.1).",
+     "Trước chuyển: đường truyền tĩnh mạch, NaCl 0,9% (dịch tinh thể, ESGE 2026 mục 1.1), đo lại sinh hiệu, anh nằm, có người đi kèm. Tốc độ và thể tích dịch không có trong tài liệu đã tải; ca chọn 500 mL truyền trong 30–60 phút rồi đo lại, theo đáp ứng.",
+     "Truyền máu: ACG 2021 KC 2 và ESGE 2026 mục 1.2 ngưỡng Hb dưới 7 g/dL (ESGE: ≤ 8 g/dL nếu có bệnh tim mạch); ICG 2019 A4 dưới 80 g/L. Ba nguồn gần nhau, Hb 104 g/L đều chưa truyền; không phải mâu thuẫn. Hb dưới ngưỡng thì tuyến tỉnh quyết định.",
+     "PPI trước nội soi: ESGE 2026 mục 1.5 và ICG 2019 A9 gợi ý có thể cân nhắc PPI tĩnh mạch liều cao, không làm chậm nội soi; ACG 2021 KC 4 không có khuyến cáo. Ghi cả hai: tiêm hoặc không tiêm đều đúng. Sau nội soi cầm máu: PPI liều cao 3 ngày (ACG 2021 KC 13; ESGE 2026 Bảng 1: 80 mg tiêm rồi 8 mg/giờ trong 72 giờ hoặc bolus 2 lần/ngày), do tuyến tỉnh quyết định.",
+     "Việc tuyến trên làm: tìm H. pylori ngay lần nội soi đầu và điều trị nếu dương tính (ESGE 2026 mục 3.5; VNAGE 2023, Statement 7); bù sắt trước khi xuất viện nếu thiếu sắt hoặc thiếu máu (ESGE 2026 mục 3.6); cho ăn sớm sau nội soi (ESGE 2026 mục 3.7). Không dùng acid tranexamic (ESGE 2026, Bảng 1).",
+     "Thuốc đau lưng: ngưng ibuprofen (QĐ 361/2014, Phụ lục NSAID mục 3.2); không kê giảm đau trước chuyển. Về sau, paracetamol không quá 4 g/24 giờ (QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1), hoặc dưới 3 g/ngày nếu xếp anh vào nhóm nguy cơ cao có bệnh gan (Phụ lục NSAID mục 3.3); con số 3 g thận trọng hơn. Anh đang uống 4–5 g/ngày. Xử trí đau lưng lâu dài hẹn sau nội soi.",
+     "Nỗi lo lây bệnh: nói riêng với anh trước, rồi giải thích cho cả hai vợ chồng. H. pylori (nếu có) lây trong gia đình (VNAGE 2023, Statement 22) và sẽ được xét nghiệm, điều trị; HBsAg làm ở tuyến trên. Không có dấu viêm gan lâm sàng hay men gan tăng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9%",
+      "ham_luong": "chai 500 mL",
+      "lieu": "500 mL",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Ngay tại phòng khám và trong khi chuyển",
+      "so_ngay": "Một lần trước chuyển; tuyến tỉnh tiếp tục",
+      "ghi_chu": "Dịch tinh thể hồi sức (ESGE 2026 mục 1.1). Thể tích và tốc độ là lựa chọn của ca, không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Omeprazol",
+      "ham_luong": "lọ tiêm 40 mg",
+      "lieu": "40 mg",
+      "duong": "Tiêm tĩnh mạch chậm",
+      "thoi_diem": "Một liều trước khi chuyển (không làm chậm chuyển)",
+      "so_ngay": "Một liều; tuyến tỉnh quyết định liệu trình",
+      "ghi_chu": "Tùy chọn: ESGE 2026 mục 1.5, ICG 2019 A9 cho phép; ACG 2021 KC 4 không đưa ra khuyến cáo ủng hộ hay phản đối. Liều trước nội soi không có trong tài liệu đã tải; sau nội soi dùng 80 mg rồi 8 mg/giờ trong 72 giờ (ESGE 2026, Bảng 1)."
+     }
+    ],
+    "dan_do": [
+     "Anh nằm, đi xe cấp cứu có người y tế đi kèm, chị Lụa đi cùng; không tự chạy xe máy. Mang theo vỉ paracetamol, ibuprofen và viên sắt cho bác sĩ tuyến tỉnh xem để biết liều thật anh đã uống.",
+     "Nhịn ăn, chỉ nhấp nước từng ngụm cho đến khi nội soi.",
+     "Trên đường đi, báo ngay người đi kèm nếu nôn ra máu, phân đen nhiều hơn, choáng, tim đập nhanh, vã mồ hôi, da lạnh hoặc ngất: dấu hiệu bất ổn huyết động (ESGE 2026 mục 1.1).",
+     "Ngưng hẳn ibuprofen và mọi thuốc giảm đau chống viêm tự mua; không uống rượu bia; không tự dùng thêm paracetamol quá 4 g/ngày (QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1).",
+     "Giải thích riêng với anh rồi với chị Lụa: chảy máu này do thuốc và rượu làm tổn thương dạ dày, không phải bệnh gan lây; nếu có vi khuẩn H. pylori sẽ được điều trị và bác sĩ tuyến tỉnh tư vấn thêm cho người nhà (VNAGE 2023, Statement 22). HBsAg sẽ làm ở bệnh viện.",
+     "Sau khi ra viện, quay lại phòng khám với kết quả nội soi để bàn cách giảm đau lưng an toàn và xử trí tư thế đứng cắt tóc. Mốc tái khám cụ thể không có trong tài liệu đã tải; tuyến tỉnh hẹn."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Hậu được chuyển bằng xe cấp cứu đến bệnh viện tỉnh ngay chiều hôm đó, truyền NaCl 0,9% trên đường đi, không cần truyền máu. Nội soi sáng hôm sau (trong 24 giờ): loét hành tá tràng 8 mm, đáy sạch, không chảy máu tiếp, không cần cầm máu qua nội soi; sinh thiết không ác tính; test urease nhanh dương tính nên anh được điều trị tiệt trừ H. pylori. HBsAg âm tính, nỗi lo viêm gan được giải tỏa, vợ con được tư vấn. Anh ngưng ibuprofen, bỏ bia, được dặn về liều paracetamol, tái khám để bàn cách giảm đau lưng. Chuyển tuyến sớm giúp nội soi kịp thời trước khi ổ loét chảy lại.",
+ "nhieu": [
+  "Thân nhân trả lời thay: chị Lụa giảm nhẹ rượu, thuốc và đưa ra lời giải thích ‘hao sức’, ‘do viên sắt’; chỉ hỏi riêng anh mới ra bia 3–4 lon/ngày, paracetamol 4–5 g/ngày, ibuprofen và nỗi sợ lây viêm gan.",
+  "Viên sắt: phân đen có trước viên sắt 1 ngày, kèm choáng và hạ huyết áp tư thế nên không phải do sắt.",
+  "Khởi phát sau quan hệ tình dục: choáng sáng hôm sau là biểu hiện mất máu, không phải do gắng sức tim mạch; ECG bình thường.",
+  "Paracetamol liều cao kéo dài: AST 46, ALT 34 U/L dưới 50 IU/L, nên chưa có dấu viêm gan do thuốc, nhưng anh vượt 4 g/24 giờ và uống rượu.",
+  "Chỉ có xét nghiệm cơ bản: không INR, nhóm máu, HBsAg; điểm Glasgow-Blatchford tính được ngay với Hb, ure, huyết áp, mạch và phân đen, không cần xét nghiệm đặc biệt."
+ ],
+ "bai_hoc_bien": [
+  "Chảy máu tiêu hóa ‘nhẹ’ nhìn bề ngoài (bệnh nhân tự đi vào, HA nằm bình thường) vẫn có thể điểm Glasgow-Blatchford cao; tính điểm trước khi quyết định ngoại trú (ACG 2021 KC 1; ESGE 2026 mục 1.3).",
+  "Đo HA, mạch tư thế đứng khi nghi mất máu: HA nằm 108/68 che mất tình trạng thể tích.",
+  "Khi người nhà trả lời thay, mời người nhà ra ngoài để hỏi riêng bệnh nhân về rượu, thuốc tự mua và nỗi sợ thật; câu trả lời đổi cả điểm nguy cơ lẫn nguyên nhân.",
+  "Hỏi cụ thể từng loại thuốc giảm đau, số viên mỗi ngày: paracetamol trên 4 g/ngày và NSAID cùng uống rượu là bộ ba nguy hiểm (QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1, Phụ lục NSAID mục 3.2, 3.3; QĐ 3610/2015).",
+  "Chuyển tuyến kịp thời là hồi sức trước (đường truyền, dịch tinh thể), bàn giao đầy đủ, nội soi trong 24 giờ; không cần cấp cứu khi huyết động ổn (ESGE 2026 mục 1.1, 2.1).",
+  "Nỗi sợ lây bệnh cho người thân cần được trả lời bằng chính xác thông tin: chảy máu loét không lây, H. pylori có thể lây trong gia đình (VNAGE 2023, Statement 22)."
+ ],
+ "diem_nho": [
+  "Glasgow-Blatchford ≤ 1: ngoại trú được; > 1: nội soi (ACG 2021 KC 1; ESGE 2026 mục 1.3; ICG 2019 A2a).",
+  "Nội soi sớm ≤ 24 giờ sau hồi sức; không cấp cứu ≤ 6 giờ hay khẩn ≤ 12 giờ nếu huyết động ổn (ESGE 2026 mục 2.1).",
+  "Truyền máu khi Hb dưới 7 g/dL (ACG 2021 KC 2; ESGE 2026 mục 1.2), dưới 80 g/L (ICG 2019 A4); không dùng acid tranexamic (ESGE 2026, Bảng 1).",
+  "PPI tĩnh mạch trước nội soi có thể cân nhắc (ESGE 2026 mục 1.5; ICG 2019 A9), ACG 2021 KC 4 không đưa ra khuyến cáo ủng hộ hay phản đối; không được làm chậm nội soi.",
+  "Paracetamol không quá 4 g/24 giờ, chống chỉ định khi tăng men gan (QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1); NSAID chống chỉ định khi loét tiến triển (Phụ lục NSAID mục 3.2).",
+  "Tìm H. pylori ở lần nội soi đầu, xét nghiệm lại nếu âm tính khi đang chảy máu (ESGE 2026 mục 3.5; VNAGE 2023, Statement 7)."
+ ],
+ "nguon": [
+  "ACG 2021 – Upper GI and ulcer bleeding – TL-0076 – Bảng 1 (KC 1–5, 13), Bảng 2 (Glasgow-Blatchford)",
+  "ESGE 2026 – Peptic ulcer bleeding – TL-0189 – Bảng 1; mục 1.1, 1.2, 1.3, 1.5, 2.1, 3.5, 3.6, 3.7",
+  "ICG 2019 – Nonvariceal UGIB (Ann Intern Med) – TL-0226 – A1–A9, phần bàn A4",
+  "Baveno VIII 2026 – TL-0186 – mục 5.3, 5.4, 5.7, 5.10, 5.18",
+  "VNAGE 2024 – khó tiêu chức năng – TL-0178 – KC 2 và đoạn dấu báo động; VNAGE 2023 – H. pylori – TL-0179 – Bảng 2, Statement 7, 22",
+  "BYT QĐ 3610/2015 – ngộ độc paracetamol – TL-0035 – mục 1–3, Các trường hợp đặc biệt 2, 3",
+  "BYT QĐ 361/2014 – bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID mục 3.2, 3.3; Phụ lục thuốc giảm đau mục 3.1",
+  "Không có trong tài liệu đã tải: liều PPI tiêm trước nội soi; thể tích, tốc độ dịch truyền ngoại trú; nhịn ăn trước nội soi; mối liên quan paracetamol liều cao với loét hay XHTH; xét nghiệm virus viêm gan trong XHTH không do giãn tĩnh mạch; quy đổi ure sang BUN; mốc tái khám sau nội soi."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-19: viết mới, 1 lượt, chuyển tuyến kịp thời. Tài liệu đã đọc: TL-0076 (Bảng 1, 2), TL-0189 (Bảng 1, mục 1.1–1.5, 2.1, 3.5–3.7), TL-0226 (A1–A9), TL-0186 (mục 5.3–5.18), TL-0178, TL-0179 (Statement 7, 22, Bảng 2), TL-0035 (Ngộ độc paracetamol), TL-0286 (Phụ lục NSAID, thuốc giảm đau).",
+  "Thiết kế: điểm Glasgow-Blatchford 8 để ‘nhẹ’ về dáng vẻ nhưng không đủ điều kiện ngoại trú; HA tư thế là dấu mất thể tích; giãn tĩnh mạch loại bằng lâm sàng, tiểu cầu, men gan; viên sắt là nhiễu có mốc thời gian; rượu, ibuprofen, nỗi sợ lây chỉ khai khi hỏi riêng. Các chi tiết cơ sở (xe cấp cứu, bệnh viện tỉnh 28 km, có dịch truyền và thuốc tiêm omeprazol) là thiết kế của ca.",
+  "Kết cục (loét hành tá tràng, H. pylori dương tính, HBsAg âm tính) là tình tiết của ca, không phải số liệu của tài liệu."
+ ]
+}
