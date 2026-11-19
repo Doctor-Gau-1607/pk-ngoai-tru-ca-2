@@ -1,0 +1,901 @@
+{
+ "ma_ca": "TH-1209",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soạn mới (2026-11-19)",
+ "benh": "TH_soi_mat_con_dau_quan_mat",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Sỏi mật / cơn đau quặn mật",
+  "chan_doan_phai_loai_tru": [
+   "Viêm túi mật cấp",
+   "Viêm tụy cấp"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Bảo vệ",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất",
+  "thuoc_dang_dung": "Vitamin, thực phẩm chức năng",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc"
+ },
+ "benh_nhan": {
+  "ten": "Trần Quang Hiển",
+  "tuoi": 78,
+  "gioi": "Nam",
+  "nghe": "Bảo vệ ca đêm kho hóa chất ở khu công nghiệp (hợp đồng gần hết hạn)",
+  "can_nang": 56,
+  "chieu_cao": 163,
+  "xung_ho": "Bác sĩ gọi ông. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Cẩn thận, kiệm lời, cựu quân nhân, quen ngồi trực suốt đêm. Hay đọc kỹ tờ hướng dẫn và tin nhắn trên mạng rồi tự lo xa. Sợ mất việc nếu công ty biết mình bệnh, ngại làm phiền con gái ở xa. Nói 'tức' chứ không nói 'đau'.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: hỏi 'thuốc gì' ông chỉ nói 'thuốc dạ dày, thuốc bổ'. Chỉ lấy vỏ thuốc ra khi bác sĩ hỏi từng loại, bao nhiêu viên, uống lúc nào. Khi nói ông luôn quy cho hóa chất ở chỗ làm hay viên thuốc mới.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#b98a66",
+   "toc": "#d8d4cc",
+   "kieuToc": "ngan",
+   "ao": "#5f7a63",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Tức nặng bụng trên, ăn không ngon 5 ngày, sợ nhiễm hóa chất hay thuốc bổ làm hại gan",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Trần Quang Hiển, 78 tuổi, bảo vệ ca đêm kho hóa chất, tự đi xe máy đến khám sau ca trực. Ông tức bụng trên, ăn không ngon 5 ngày, nghi do hóa chất hay thuốc bổ. Sinh hiệu: HA 142/84 mmHg, mạch 82 l/p, nhiệt độ 36,9 °C, nhịp thở 18 l/p, SpO₂ 96%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Giữ ông Hiển nằm viện từ hôm nay là quá tay: không sốt, bạch cầu 8,1 G/L, CRP 3 mg/L, thành túi mật 2,5 mm, không dịch quanh túi mật, men gan và bilirubin bình thường (Tokyo Guidelines 2018, Table 1; EASL 2016 tr. 7). Ông sợ mất việc, nằm viện không rõ lý do dễ khiến ông tự xin về và ngại quay lại khi cơn tái diễn.",
+    "chuyen_tuyen": "Chuyển ông lên bệnh viện tỉnh trong ngày là chưa cần: chưa đủ tiêu chuẩn nghi ngờ viêm túi mật cấp (Tokyo Guidelines 2018, Table 1), siêu âm làm được ngay tại chỗ và đã có kết quả (EASL 2016 tr. 6). Ông bỏ ca trực, tốn tiền đi lại mà vẫn chỉ được hẹn mổ chương trình, còn nỗi lo về thuốc và hóa chất vẫn chưa được trả lời."
+   },
+   "loi_mo": "Chào bác sĩ. Mấy hôm nay tôi tức tức ở bụng trên, ăn không thấy ngon. Chỗ tôi trực có bồn hóa chất rò, tôi sợ bị nhiễm độc, hay là mấy viên thuốc bổ làm hại gan. Bác sĩ xem giúp tôi.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "142/84",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tức nặng vùng mỏm ức và bụng trên, ợ hơi, ăn không ngon 5 ngày. Ông sợ nhiễm hóa chất ở chỗ làm hoặc viên thuốc bổ làm hại gan, muốn biết gan thận có sao không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Đêm trước hôm bắt đầu tức, bồn dung dịch tẩy ở kho rò, ông ngửi mùi gắt khoảng một giờ, cay mắt, rát họng, hết trong đêm. Sáng hôm sau bắt đầu tức bụng nên ông tin do hóa chất. Không ho, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát: tiếp xúc hóa chất (dữ kiện gây nhiễu, không nối được nhân quả)"
+    },
+    {
+     "id": "bua_an",
+     "noi_dung": "Tối hôm bồn rò, ông ăn cơm đám giỗ ở xóm: giò heo, thịt quay, xôi nhiều mỡ, ăn nhiều hơn thường rồi mới đi trực. Đêm đó tức nặng bụng trên khoảng hai giờ rồi dịu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi bữa ăn chung chung ông nói 'ăn cơm bình thường'. Chỉ kể đám giỗ khi bác sĩ hỏi bữa tối trước cơn đầu tiên ăn gì, bao nhiêu, hoặc cơn đầu xảy ra lúc nào so với bữa ăn.",
+     "k": 1,
+     "y": "Bữa nhiều mỡ trước cơn đầu: yếu tố khởi phát thật"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Ông không gọi là đau mà là 'tức nặng' (khoảng 4/10) ở mỏm ức và dưới sườn phải, lan nhẹ ra lưng phải và ngực dưới. Mỗi cơn 1–2 giờ rồi dịu hẳn, 2–3 cơn mỗi ngày, hay vào đêm sau ăn, tăng khi ăn nhiều mỡ. Không liên quan gắng sức, không vã mồ hôi, không khó thở, không hồi hộp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn mật nhẹ, không điển hình ở người rất cao tuổi"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Buồn nôn nhẹ sau bữa mỡ, không nôn. Không sốt, rét run, vàng da, ngứa. Phân vàng, không đen; nước tiểu vàng bình thường. Cân nặng không đổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu báo động âm tính"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Tháng trước có một đêm tức giống vậy khoảng hai giờ, tự hết, ông không đi khám. Không đái tháo đường, loét dạ dày, bệnh tim, thận. Huyết áp chưa từng đo. Không rượu bia, bỏ thuốc lá 20 năm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn trước đó và tiền sử"
+    },
+    {
+     "id": "tu_uong",
+     "noi_dung": "5 ngày nay ông tự mua ở tiệm thuốc viên ibuprofen 400 mg, uống 2–3 viên mỗi ngày khi tức nhiều, lúc bụng đói, và gói gel dạ dày uống 2 gói mỗi ngày. Ibuprofen dịu 1–2 giờ rồi tức lại; gel chỉ dịu 20 phút. Chưa uống paracetamol.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'thuốc gì' ông chỉ nói 'thuốc dạ dày'. Chỉ lấy vỏ thuốc ra khi bác sĩ hỏi từng loại thuốc giảm đau, tên, số viên, mỗi ngày mấy lần, uống lúc nào.",
+     "k": 1,
+     "y": "Nhiễu: tự uống thuốc trước 5 ngày (ibuprofen)"
+    },
+    {
+     "id": "tpcn",
+     "noi_dung": "Ông uống vitamin tổng hợp và viên dầu cá hằng ngày gần một năm. Ba tuần trước, nghe đồng nghiệp bảo làm kho hóa chất phải 'giải độc gan', ông mua viên bổ gan thảo dược, uống 2 viên mỗi ngày, vẫn đang uống. Không có thuốc kê đơn nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: vitamin, thực phẩm chức năng"
+    },
+    {
+     "id": "ly_that",
+     "noi_dung": "Điều ông thật sự lo: tức bụng bắt đầu sau khi ngửi hóa chất và uống viên bổ gan mới, nên ông sợ gan thận đã hỏng mà không biết; đọc trên mạng thấy ibuprofen, thuốc bổ 'hại gan thận'. Ông sợ công ty biết sẽ cho nghỉ việc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông lo nhất điều gì, ông nghĩ nguyên nhân là gì, hoặc hỏi về cảm giác của ông khi uống các thuốc bổ. Hỏi chung 'có lo gì không' ông nói 'không có gì'.",
+     "k": 1,
+     "y": "Lý do thật: nghi tác dụng phụ của thuốc"
+    },
+    {
+     "id": "hoan_canh",
+     "noi_dung": "Ông sống với vợ 74 tuổi (không lái xe), con gái ở thành phố khác. Trực đêm 12 giờ, không muốn nghỉ vì cần tiền, hợp đồng sắp hết.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng mềm, không chướng. Ấn sâu đau nhẹ thượng vị và dưới sườn phải, không phản ứng thành bụng, không co cứng. Dấu Murphy lâm sàng không rõ: ông nhăn mặt nhẹ nhưng vẫn hít sâu được. Không sờ thấy túi mật to hay khối, gan lách không to, nhu động ruột bình thường, không đau McBurney.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gầy (BMI 21,1), môi hơi khô, niêm mạc hồng, củng mạc không vàng, không ban, không phù, đi lại vững.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 82 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 82 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai bên, không ran, không rít. Nhịp thở 18 lần/phút. Không ho, không rát họng.",
+     "k": 0,
+     "hien": "Hai phổi thông khí đều, nhịp thở 18 lần/phút.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "truc_trang": {
+     "a": "Cơ vòng bình thường, phân vàng trên găng, không máu, không phân đen.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 8,1 G/L · Neutrophil 62% · Hb 131 g/L · TC 218 G/L",
+     "n": "Bạch cầu là dấu hiệu nhóm B (Tokyo Guidelines 2018, Table 1): bình thường. Hb 131 g/L: chưa thiếu máu sau 5 ngày ibuprofen (QĐ 361/2014 Phụ lục NSAID mục 2: theo dõi tai biến dạ dày). Một lần bình thường không loại trừ giai đoạn sớm (WSES 2020 khuyến cáo 1.1).",
+     "bang": {
+      "wbc": 8.1,
+      "neu_pct": 62.0,
+      "neu": 5.02,
+      "lym_pct": 28.0,
+      "lym": 2.27,
+      "mono_pct": 7.0,
+      "mono": 0.57,
+      "eos_pct": 2.5,
+      "eos": 0.2,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.32,
+      "hgb": 131,
+      "hct": 0.4,
+      "mcv": 91.0,
+      "mch": 30.3,
+      "mchc": 333,
+      "rdw": 13.5,
+      "plt": 218
+     }
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 3 mg/L (ngưỡng < 5)",
+     "n": "CRP tăng thuộc nhóm B (Tokyo Guidelines 2018, Table 1; EASL 2016 tr. 7): bình thường, chưa nghi viêm túi mật cấp. Ảnh hưởng của ibuprofen lên sốt và CRP: không có trong tài liệu đã tải.",
+     "bang": {
+      "crp": 3
+     }
+    },
+    "lipase": {
+     "v": "e",
+     "r": "Lipase 42 U/L (tham chiếu 13–60)",
+     "n": "Loại trừ viêm tụy cấp: cần men tụy ≥ 3 lần giới hạn trên (Atlanta 2012, định nghĩa chẩn đoán; ACG 2024 mục Diagnosis)."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 27 · ALT 24 U/L (ngưỡng < 40)",
+     "n": "Men gan bình thường: không tổn thương tế bào gan, trả lời nỗi lo 'hại gan'. Liên quan hóa chất ở kho, viên bổ gan với cơn đau: không có trong tài liệu đã tải."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "Bilirubin toàn phần 13 µmol/L (trực tiếp 4) · ALP 84 U/L · GGT 34 U/L · Albumin 40 g/L · INR 1,0",
+     "n": "Không vàng da, men gan và bilirubin bình thường: xác suất sỏi ống mật chủ rất thấp khi ống mật chủ không giãn (EASL 2016 tr. 16–17; WSES 2020 khuyến cáo 2.4)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 7,4 mmol/L · Creatinin 112 µmol/L · eGFR 58 mL/ph/1,73m²",
+     "n": "Phải xét chức năng thận trước NSAID (EASL 2016 tr. 8; QĐ 361/2014 Phụ lục NSAID mục 2). eGFR 58 chưa chạm ngưỡng CrCl < 30 phải tránh NSAID (AGS Beers 2023, Bảng 6) nhưng ông ≥ 75 tuổi và đã dùng ibuprofen 5 ngày.",
+     "bang": {
+      "ure": 7.4,
+      "creat": 112,
+      "egfr": 58
+     }
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 78 l/p, trục trung gian, không ST chênh, không sóng Q, không biến đổi ST–T.",
+     "n": "Đau thượng vị là triệu chứng tương đương đau ngực (ESC 2023 mục 3.1.1): ở tuổi 78 phải có điện tim loại trừ nguyên nhân tim trước khi gán nguyên nhân tiêu hóa."
+    },
+    "abdus": {
+     "v": "e",
+     "ab": 1,
+     "r": "Túi mật kích thước bình thường, nhiều sỏi 5–8 mm, bóng cản âm, di động khi đổi tư thế. Thành túi mật 2,5 mm, không dịch quanh túi mật, Murphy siêu âm âm tính. Ống mật chủ 5 mm, không thấy sỏi. Gan không to, thận hai bên bình thường; tụy thấy một phần do hơi.",
+     "n": "Siêu âm là chỉ định đầu tay, chính xác > 95%; người cao tuổi đau bụng không điển hình cũng nên siêu âm (EASL 2016 tr. 6). Viêm túi mật cấp có thành > 4 mm, dịch quanh túi mật, Murphy siêu âm (EASL 2016 tr. 7): ở đây không có."
+    },
+    "ct_bung": {
+     "v": "n",
+     "r": "Sỏi túi mật; thành túi mật không dày, không dịch quanh túi mật.",
+     "n": "Không cần: siêu âm đã đủ, CT ít giá trị để chẩn đoán sỏi mật (EASL 2016 tr. 6); chỉ cân nhắc khi nghi ngờ mạnh viêm túi mật cấp (EASL 2016 tr. 7)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cơn đau quặn mật do sỏi túi mật (nhiều sỏi nhỏ), biểu hiện không điển hình ở người 78 tuổi (tức nặng nhẹ, ợ hơi, ăn kém), chưa biến chứng",
+     "ok": 1,
+     "n": "Cơn 1–2 giờ, mỏm ức và dưới sườn phải, lan lưng phải, sau bữa mỡ, dịu hẳn giữa cơn (EASL 2016 tr. 6); siêu âm có sỏi (độ chính xác > 95%, tr. 6). Không có nhóm B (Tokyo Guidelines 2018, Table 1), không vàng da, men gan bình thường."
+    },
+    {
+     "t": "Viêm túi mật cấp",
+     "n": "Cần một mục nhóm A cộng một mục nhóm B (Tokyo Guidelines 2018, Table 1). Ông có A nhẹ nhưng không sốt, bạch cầu, CRP bình thường, thành 2,5 mm, không dịch (EASL 2016 tr. 7). Tuổi ≥ 70 liên quan thất bại điều trị bảo tồn (EASL 2016 tr. 8) nên dặn dấu hiệu quay lại."
+    },
+    {
+     "t": "Viêm tụy cấp",
+     "n": "Cần 2/3: đau phù hợp, men tụy ≥ 3 lần, hình ảnh (Atlanta 2012; ACG 2024 mục Diagnosis). Lipase 42 U/L; đau từng cơn (colicky) không phù hợp viêm tụy (ACG 2024 mục Diagnosis)."
+    },
+    {
+     "t": "Hội chứng vành cấp (đau thượng vị là triệu chứng tương đương đau ngực)",
+     "n": "Điện tim bình thường, cơn không liên quan gắng sức, không khó thở (ESC 2023 mục 3.1.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "v": "c",
+     "t": "Giải thích kết quả siêu âm: cơn tức do sỏi túi mật, không phải do hóa chất hay thuốc bổ; cho ông xem men gan, bilirubin bình thường và eGFR 58 để bớt lo",
+     "n": "Trả lời đúng lý do thật của ông (nghi tác dụng phụ của thuốc). Men gan, bilirubin bình thường (EASL 2016 tr. 16); liên quan giữa hóa chất ở kho, viên bổ gan và cơn đau mật: không có trong tài liệu đã tải."
+    },
+    {
+     "v": "c",
+     "t": "Ngừng ibuprofen tự mua; giảm đau bằng paracetamol (500–1.000 mg mỗi lần, tối đa 3 g/ngày) hoặc NSAID liều thấp ngắn ngày nếu thận và dạ dày cho phép",
+     "n": "Hai nguồn cùng đúng, khác bối cảnh (sổ mâu thuẫn, mục TH-1221). EASL 2016 tr. 8: NSAID đầu tay (chứng cứ trung bình, khuyến cáo yếu), phải xét thận và biến chứng tiêu hóa; paracetamol có thể đủ ở từng người. QĐ 361/2014 Phụ lục NSAID mục 3.3 (người cao tuổi): paracetamol dưới 3 g/ngày, tránh NSAID nếu có thể; AGS Beers 2023 Bảng 2: tránh NSAID kéo dài. Ông ≥ 75 tuổi, eGFR 58, đã dùng ibuprofen 5 ngày nên chọn paracetamol (Phụ lục thuốc giảm đau mục 3.1: 500–1.000 mg/lần, 1–4 lần/ngày, không quá 4 g/24 giờ; dưới 3 g thận trọng hơn). Không dùng hai NSAID cùng lúc (Phụ lục NSAID mục 2)."
+    },
+    {
+     "v": "c",
+     "t": "Giới thiệu khám ngoại khoa gan mật để bàn cắt túi mật nội soi chương trình (không cấp cứu); không dùng thuốc tan sỏi",
+     "n": "Cắt túi mật là điều trị ưu tiên cho sỏi có triệu chứng (EASL 2016 tr. 8, khuyến cáo mạnh): khoảng một nửa số người tái cơn, biến chứng 0,5–3%/năm. Không từ chối chỉ vì tuổi nhưng cân nhắc từng người (tr. 14). Tan sỏi bằng UDCA không khuyến cáo (tr. 7). Thời hạn mổ chương trình: không có trong tài liệu đã tải."
+    },
+    {
+     "v": "c",
+     "t": "Dặn dấu hiệu phải quay lại ngay (đau liên tục quá 5 giờ, sốt, rét run, vàng da, nôn nhiều) và hẹn tái khám sau 1 tuần",
+     "n": "Viêm túi mật cấp: đau nặng dần quá 5 giờ kèm sốt (EASL 2016 tr. 7); tam chứng đau, sốt rét run, vàng da gợi viêm đường mật (EASL 2016 tr. 17). Mốc tái khám 1 tuần là lựa chọn của ca; thời điểm tái khám: không có trong tài liệu đã tải."
+    },
+    {
+     "v": "a",
+     "t": "Thêm butylscopolamin vào thuốc giảm đau",
+     "n": "EASL 2016 tr. 8: chống co thắt (ví dụ butylscopolamin) có thể thêm (chứng cứ thấp, khuyến cáo mạnh); AGS Beers 2023 Bảng 2 tránh nhóm chống co thắt kháng cholin mạnh, butylscopolamin không nêu tên (sổ mâu thuẫn, mục TH-1221). Liều butylscopolamin: không có trong tài liệu đã tải; cơn chỉ 4/10 nên không cần."
+    },
+    {
+     "v": "a",
+     "t": "Tạm ngưng viên bổ gan thảo dược trong lúc theo dõi",
+     "n": "Không có trong tài liệu đã tải bằng chứng viên bổ gan gây hay chữa cơn đau mật; tạm ngưng không hại, giúp gỡ nhiễu."
+    },
+    {
+     "v": "w",
+     "t": "Kê kháng sinh uống cho chắc",
+     "n": "Chưa chẩn đoán viêm túi mật cấp; kháng sinh không được khuyến cáo ở mọi trường hợp nhẹ (EASL 2016 tr. 8); WHO AWaRe 2022 mục 29 chỉ nêu cho viêm túi mật cấp. Sổ mâu thuẫn, mục TH-1253."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cơn đau quặn mật do sỏi túi mật (nhiều sỏi 5–8 mm), biểu hiện không điển hình ở người 78 tuổi (tức nặng nhẹ, ợ hơi, ăn kém), chưa biến chứng",
+     "Đã loại trừ viêm túi mật cấp (không sốt, bạch cầu và CRP bình thường, thành 2,5 mm, không dịch), viêm tụy cấp (lipase 42 U/L), nguyên nhân tim (điện tim bình thường), sỏi ống mật chủ (không vàng da, men gan và bilirubin bình thường, ống mật chủ 5 mm)",
+     "Yếu tố gây nhiễu: ibuprofen 400 mg tự uống 5 ngày, hơi hóa chất ở kho, viên bổ gan thảo dược; không thấy tổn thương gan (AST 27, ALT 24 U/L); eGFR 58 mL/ph/1,73m² cần theo dõi lại"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: cơn 1–2 giờ ở mỏm ức và dưới sườn phải, lan lưng phải, sau bữa mỡ, dịu hẳn giữa cơn, có một cơn tương tự tháng trước. Đúng đặc điểm cơn đau mật (EASL 2016 tr. 6). Ông gọi là 'tức' và khai tiếp xúc hóa chất để giải thích; phải hỏi bữa ăn tối trước cơn đầu mới thấy bữa mỡ.",
+     "Khám: nhiệt 36,9 °C, bụng mềm, Murphy không rõ, không vàng da, không phản ứng thành bụng. Murphy đơn độc không đủ để chẩn đoán hay loại trừ (WSES 2020 khuyến cáo 1.1).",
+     "Cận lâm sàng: bạch cầu 8,1 G/L, CRP 3 mg/L, lipase 42 U/L, men gan, bilirubin, điện tim bình thường; siêu âm thấy nhiều sỏi, thành 2,5 mm, ống mật chủ 5 mm. Chưa đủ nhóm B nên chưa nghi viêm túi mật cấp (Tokyo Guidelines 2018, Table 1). Không cần CT hay nội soi lúc này.",
+     "Lưu ý áp dụng (≥ 75 tuổi): EASL 2016 nêu người cao tuổi hay đau bụng không điển hình (tr. 6), tuổi ≥ 70 liên quan thất bại điều trị bảo tồn viêm túi mật (tr. 8); thử nghiệm mổ ở người cao tuổi thường loại người không đủ điều kiện mổ (tr. 14). Không có ngưỡng riêng cho ≥ 75 tuổi trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về có hẹn: chưa biến chứng, huyết động ổn, ăn uống được, đau nhẹ kiểm soát bằng thuốc uống; dặn bằng văn bản.",
+     "Giảm đau: paracetamol vì ông ≥ 75 tuổi, eGFR 58, vừa dùng ibuprofen 5 ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3; AGS Beers 2023 Bảng 2). NSAID liều thấp ngắn ngày vẫn là lựa chọn của EASL 2016 tr. 8 nên chấm chấp nhận.",
+     "Gỡ nhiễu: ngừng ibuprofen, gel, tạm ngưng viên bổ gan; không kháng sinh vì chưa là viêm túi mật cấp (EASL 2016 tr. 8).",
+     "Điều trị căn nguyên là cắt túi mật (EASL 2016 tr. 8): giấy giới thiệu ngoại khoa ngay hôm nay vì ông ngại mổ và tốn tiền."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1–2 viên mỗi lần (500–1.000 mg), cách ít nhất 6 giờ, tối đa 3 lần/ngày (tối đa 3 g/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Ngay khi bắt đầu cơn tức, uống sau ăn",
+      "so_ngay": "Khi tức, tối đa 7 ngày đến lúc tái khám",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1: 500–1.000 mg/lần, 1–4 lần/ngày, cách 6–8 giờ, không quá 4 g/24 giờ; chống chỉ định khi đang tăng men gan (ông men gan bình thường). Người cao tuổi dưới 3 g/ngày (Phụ lục NSAID mục 3.3). Số ngày: không có trong tài liệu đã tải, ca chọn đến lúc tái khám."
+     }
+    ],
+    "dan_do": [
+     "Ngừng ibuprofen và gel tự mua; không uống hai thuốc giảm đau chống viêm cùng lúc (QĐ 361/2014 Phụ lục NSAID mục 2). Tạm ngưng viên bổ gan; vitamin, dầu cá chưa thấy liên quan cơn đau mật trong tài liệu đã tải.",
+     "Paracetamol theo đơn, không quá 6 viên 500 mg mỗi ngày; men gan của ông bình thường nên chưa có chống chỉ định (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1).",
+     "Bữa nhỏ, bớt món nhiều mỡ (bằng chứng riêng về kiêng mỡ: không có trong tài liệu đã tải).",
+     "Quay lại ngay nếu đau liên tục quá 5 giờ, sốt, rét run, vàng da, nước tiểu sẫm, nôn nhiều (EASL 2016 tr. 7, tr. 17). Mang giấy giới thiệu khám ngoại khoa gan mật; tái khám sau 1 tuần, mang vỏ mọi thuốc đang uống."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Ông Trần Quang Hiển, 78 tuổi, quay lại sau 7 ngày. Ông nói chưa đỡ, đêm qua lại tức nặng gần 4 giờ nên đến khám ngay sau ca trực, mang theo túi thuốc đang uống. Sinh hiệu: HA 138/82 mmHg, mạch 80 l/p, nhiệt độ 37,2 °C, nhịp thở 18 l/p, SpO₂ 96%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện ngay vì 'không đỡ' là quá tay: cơn dài nhất dưới 5 giờ, không sốt, bạch cầu 8,6 G/L, CRP 4 mg/L, thành túi mật 3 mm, không dịch (EASL 2016 tr. 7; Tokyo Guidelines 2018, Table 1). Ông ngại nghỉ việc và sợ mổ, nằm viện vài ngày rồi vẫn chỉ được hẹn mổ chương trình, càng tin 'bệnh nặng, thuốc hại' và dễ bỏ hẹn ngoại khoa.",
+    "chuyen_tuyen": "Chuyển khẩn lên tuyến trên là chưa cần: không vàng da, bilirubin 14 µmol/L, lipase 47 U/L, không sốt (Tokyo Guidelines 2018, Table 1; EASL 2016 tr. 17). Chuyển 'xem sao' mà không có hẹn ngoại khoa cụ thể thì ông về nhà, nỗi lo thuốc chưa được giải và vẫn chưa có lịch mổ."
+   },
+   "loi_mo": "Thưa bác sĩ, tôi uống thuốc rồi mà vẫn không hết, đêm qua lại tức gần 4 tiếng. Hay là thuốc không hợp với tôi, hay còn cái gì mà bác sĩ chưa tìm ra?",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "138/82",
+    "nhiet": "37,2",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sau 7 ngày vẫn còn 4 cơn tức nặng bụng trên, đêm qua kéo dài gần 4 giờ. Ông sợ thuốc 'không hợp' hoặc bệnh nặng hơn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: không đỡ"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "4 cơn từ lần khám trước, đều vào buổi tối sau bữa có thịt mỡ, mỗi cơn 1–4 giờ, giữa các cơn ăn uống bình thường. Đêm qua cơn gần 4 giờ, nôn một lần, dịu hẳn khi nằm nghiêng trái. Không sốt, không rét run, không vàng da. Vẫn ở mỏm ức và dưới sườn phải, lan lưng phải, mức 5/10.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn dài nhất dưới 5 giờ, dịu hẳn giữa cơn: chưa phải viêm túi mật cấp"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Ông ngừng ibuprofen và gel đúng dặn. Nhưng mỗi cơn chỉ uống 1 viên paracetamol 500 mg rồi chờ, cả tuần 4 viên, vì tờ hướng dẫn ghi 'có thể gây hại cho gan'. Viên bổ gan, vitamin, dầu cá vẫn uống đều. Đêm qua đau mãi nên uống thêm 2 viên ibuprofen còn thừa.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống thuốc đều không' ông nói 'có chứ'. Chỉ kể chi tiết khi bác sĩ hỏi từng loại: paracetamol mỗi cơn mấy viên, cả tuần mấy viên, có uống thuốc nào khác sau lần khám trước không, hoặc hỏi vì sao ông uống ít.",
+     "k": 1,
+     "y": "Nguyên nhân 'không đỡ': dùng thuốc thiếu vì sợ hại gan, dùng lại NSAID"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Sợ 'yếu người', ông ăn bồi bổ hơn: cháo lòng, giò, thịt kho; các cơn đều nối sau những bữa này. Con gái gọi điện dặn ăn cho khỏe.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi từ lần trước ông ăn gì, bữa tối trước mỗi cơn ăn gì; hỏi chung ông nói 'ăn nhẹ thôi'.",
+     "k": 1,
+     "y": "Yếu tố làm tái cơn"
+    },
+    {
+     "id": "ngoai_khoa",
+     "noi_dung": "Ông chưa đi khám ngoại khoa: sợ 'già rồi mổ không qua nổi', sợ tốn tiền nghỉ làm, và còn nghĩ đau do thuốc nên chờ xem sau khi ngưng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa xử lý nguyên nhân nền vì sợ mổ"
+    },
+    {
+     "id": "ly_that",
+     "noi_dung": "Điều ông thật sự lo: tức bụng không hết dù đã ngưng ibuprofen nên ông nghĩ thuốc hoặc hóa chất đã làm hỏng gan thận không hồi phục. Ông muốn bác sĩ nói thẳng gan thận còn tốt không và có nên uống tiếp thuốc không.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông hiểu kết quả lần trước thế nào, ông nghĩ vì sao chưa hết, hoặc hỏi ông lo nhất điều gì.",
+     "k": 1,
+     "y": "Lý do thật (tiếp): nghi tác dụng phụ của thuốc"
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng mềm. Ấn sâu đau nhẹ dưới sườn phải, ít hơn lần trước, không phản ứng thành bụng. Murphy lâm sàng âm tính (ông hít sâu được, không ngừng thở). Không sờ thấy túi mật to hay khối, gan lách không to.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, mệt nhẹ, môi hơi khô, củng mạc không vàng, không ban, không phù. Cân nặng 55,5 kg.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai bên, không ran. Nhịp thở 18 lần/phút.",
+     "k": 0,
+     "hien": "Hai phổi thông khí đều, nhịp thở 18 lần/phút.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 8,6 G/L · Neutrophil 63% · Hb 130 g/L · TC 225 G/L",
+     "n": "Kiểm lại nhóm B vì tuổi ≥ 70 liên quan thất bại điều trị bảo tồn (EASL 2016 tr. 8): không tăng. Thời điểm xét nghiệm lặp lại: không có trong tài liệu đã tải.",
+     "bang": {
+      "wbc": 8.6,
+      "neu_pct": 63.0,
+      "neu": 5.42,
+      "lym_pct": 27.0,
+      "lym": 2.32,
+      "mono_pct": 7.0,
+      "mono": 0.6,
+      "eos_pct": 2.5,
+      "eos": 0.21,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.3,
+      "hgb": 130,
+      "hct": 0.4,
+      "mcv": 91.0,
+      "mch": 30.2,
+      "mchc": 331,
+      "rdw": 13.6,
+      "plt": 225
+     }
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 4 mg/L (ngưỡng < 5)",
+     "n": "Không tăng: không có mục nhóm B (Tokyo Guidelines 2018, Table 1).",
+     "bang": {
+      "crp": 4
+     }
+    },
+    "lipase": {
+     "v": "u",
+     "r": "Lipase 47 U/L (tham chiếu 13–60)",
+     "n": "Vẫn không đạt ≥ 3 lần giới hạn trên (Atlanta 2012; ACG 2024 mục Diagnosis); sau cơn 4 giờ cần loại trừ sỏi trôi gây viêm tụy (EASL 2016 tr. 17)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 29 · ALT 27 U/L (ngưỡng < 40)",
+     "n": "Bình thường: không có chống chỉ định paracetamol theo QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1."
+    },
+    "chuc_nang_gan": {
+     "v": "u",
+     "r": "Bilirubin toàn phần 14 µmol/L (trực tiếp 4) · ALP 86 U/L · GGT 36 U/L · Albumin 40 g/L · INR 1,0",
+     "n": "Không ứ mật: xác suất sỏi ống mật chủ rất thấp khi men gan bình thường và ống mật chủ không giãn (EASL 2016 tr. 16–17)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 6,9 mmol/L · Creatinin 108 µmol/L · eGFR 61 mL/ph/1,73m²",
+     "n": "Kiểm lại sau khi ông uống thêm ibuprofen đêm qua (QĐ 361/2014 Phụ lục NSAID mục 2: theo dõi tai biến thận; AGS Beers 2023, Bảng 6).",
+     "bang": {
+      "ure": 6.9,
+      "creat": 108,
+      "egfr": 61
+     }
+    },
+    "abdus": {
+     "v": "e",
+     "ab": 1,
+     "r": "Nhiều sỏi 5–8 mm trong túi mật, bóng cản âm, di động. Thành túi mật 3 mm, không dịch quanh túi mật, Murphy siêu âm âm tính. Ống mật chủ 5 mm, không thấy sỏi. Tụy không to.",
+     "n": "Làm lại vì không đỡ: thành > 4 mm, dịch quanh túi mật, Murphy siêu âm là dấu hiệu viêm túi mật (EASL 2016 tr. 7); thành 3 mm vẫn dưới ngưỡng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cơn đau quặn mật tái diễn do sỏi túi mật, nguyên nhân nền chưa xử lý; 'không đỡ' vì dùng thuốc giảm đau quá thưa do sợ hại gan, ăn bữa mỡ lặp lại, chưa gặp ngoại khoa; chưa biến chứng",
+     "ok": 1,
+     "n": "Cơn 1–4 giờ, dịu hẳn, sau bữa mỡ, không sốt; xét nghiệm và siêu âm không đổi. Khoảng một nửa số người có sỏi triệu chứng tái cơn (EASL 2016 tr. 8). Paracetamol đơn độc 500 mg một viên cho cơn 5/10 có thể không đủ (EASL 2016 tr. 8: thuốc yếu 'có thể đủ ở từng người')."
+    },
+    {
+     "t": "Viêm túi mật cấp (nghi vì không đỡ)",
+     "n": "Cơn dài nhất dưới 5 giờ, dịu hẳn, không sốt, bạch cầu, CRP bình thường, thành 3 mm, không dịch (EASL 2016 tr. 7; Tokyo Guidelines 2018, Table 1: có A nhẹ, không có B). Dặn dấu hiệu quay lại."
+    },
+    {
+     "t": "Viêm tụy cấp do sỏi",
+     "n": "Lipase 47 U/L, đau từng cơn (ACG 2024 mục Diagnosis; Atlanta 2012). Sỏi trôi thường có giai đoạn tắc thoáng qua trước đó (EASL 2016 tr. 17): cần theo dõi."
+    },
+    {
+     "t": "Sỏi ống mật chủ hoặc viêm đường mật cấp",
+     "n": "Không sốt, không vàng da, bilirubin 14 µmol/L, men gan bình thường, ống mật chủ 5 mm: xác suất rất thấp (EASL 2016 tr. 16–17); chưa có tam chứng Charcot (tr. 17)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "v": "c",
+     "t": "Chạy quy trình 'không đỡ': hỏi từng thuốc, thử lại viêm toàn thân, men tụy, men gan, bilirubin và siêu âm để kiểm tra sai chẩn đoán, biến chứng, dùng thuốc sai hay không tuân thủ",
+     "n": "Ở tuổi ≥ 70 nguy cơ thất bại điều trị bảo tồn cao hơn nên phải kiểm lại viêm túi mật (EASL 2016 tr. 8). Kết quả không có mục nhóm B (Tokyo Guidelines 2018, Table 1), kết luận không đổi. Thời điểm kiểm lại: không có trong tài liệu đã tải."
+    },
+    {
+     "v": "c",
+     "t": "Giải thích cơn đau do sỏi chứ không do thuốc hay hóa chất, men gan thận cho thấy chưa hỏng; hướng dẫn uống paracetamol đủ liều ngay khi bắt đầu cơn (1.000 mg, tối đa 3 g/ngày) hoặc NSAID liều thấp ngắn ngày nếu thận cho phép",
+     "n": "Paracetamol 500–1.000 mg/lần, cách 6–8 giờ, không quá 4 g/24 giờ; chống chỉ định khi đang tăng men gan (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1); người cao tuổi dưới 3 g/ngày (Phụ lục NSAID mục 3.3). EASL 2016 tr. 8: NSAID đầu tay nhưng xét thận; ông eGFR 61 và vừa dùng lại ibuprofen nên ưu tiên paracetamol (sổ mâu thuẫn, mục TH-1221)."
+    },
+    {
+     "v": "c",
+     "t": "Hủy ibuprofen còn thừa, dặn không dùng hai thuốc chống viêm cùng lúc",
+     "n": "Không dùng đồng thời hai NSAID (QĐ 361/2014 Phụ lục NSAID mục 2); người cao tuổi nhóm nguy cơ cao: tránh NSAID nếu có thể (mục 3.3); AGS Beers 2023 Bảng 2."
+    },
+    {
+     "v": "c",
+     "t": "Gửi khám ngoại khoa gan mật trong tuần này để bàn cắt túi mật nội soi, giấy có ngày giờ; nói rõ nguy cơ nếu không mổ",
+     "n": "Cắt túi mật là điều trị ưu tiên, đã tái cơn nhiều lần (EASL 2016 tr. 8: biến chứng 0,5–3%/năm); tuổi không phải lý do từ chối (tr. 14). Thời hạn mổ: không có trong tài liệu đã tải."
+    },
+    {
+     "v": "c",
+     "t": "Dặn ăn: không kiêng khem quá mức nhưng tránh bữa nhiều thịt mỡ, ăn đủ chất; dặn dấu hiệu quay lại; hẹn tái khám sau 2 tuần",
+     "n": "Dấu hiệu viêm túi mật và viêm đường mật: EASL 2016 tr. 7, tr. 17. Bằng chứng riêng về kiêng mỡ: không có trong tài liệu đã tải; mốc 2 tuần là lựa chọn của ca."
+    },
+    {
+     "v": "a",
+     "t": "Chỉ định MRCP hoặc siêu âm nội soi ngay để tìm sỏi ống mật chủ",
+     "n": "Chưa cần: men gan, bilirubin bình thường, ống mật chủ không giãn (EASL 2016 tr. 16–17). WSES 2020 Bảng 2 tính tuổi > 55 là yếu tố trung bình nhưng viết cho viêm túi mật cấp, áp dụng ở đây là suy rộng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cơn đau quặn mật tái diễn do sỏi túi mật chưa được điều trị nguyên nhân, chưa biến chứng",
+     "Nguyên nhân 'không đỡ': giảm đau quá thưa vì sợ hại gan, dùng lại ibuprofen, bữa mỡ lặp lại, chưa khám ngoại khoa vì sợ mổ",
+     "Đã loại trừ viêm túi mật cấp (không sốt, bạch cầu 8,6 G/L, CRP 4 mg/L, thành 3 mm), viêm tụy cấp (lipase 47 U/L), sỏi ống mật chủ (bilirubin 14 µmol/L, men gan bình thường, ống mật chủ 5 mm); eGFR 61"
+    ],
+    "phan_tich_chan_doan": [
+     "Khi không đỡ: sai chẩn đoán? (không: siêu âm và xét nghiệm không đổi); sai thuốc? (paracetamol 500 mg một viên cho cơn 5/10 có thể thiếu, EASL 2016 tr. 8); không tuân thủ? (có: 4 viên cả tuần, ăn mỡ, chưa gặp ngoại khoa); biến chứng? (không).",
+     "Hỏi bệnh: chỉ khi hỏi từng thuốc mới lộ ông uống 1 viên mỗi cơn vì tờ hướng dẫn ghi 'có thể gây hại cho gan' và uống thêm ibuprofen thừa; hỏi bữa tối trước cơn mới lộ cháo lòng, giò, thịt kho.",
+     "Khám và xét nghiệm: Murphy âm tính, không sốt, bạch cầu, CRP, lipase, men gan, bilirubin bình thường, thành 3 mm: không đủ nhóm B (Tokyo Guidelines 2018, Table 1).",
+     "Lưu ý áp dụng (≥ 75 tuổi): nguy cơ bảo tồn thất bại ở tuổi ≥ 70 (EASL 2016 tr. 8); tài liệu đã tải không nêu khoảng thời gian an toàn để hoãn mổ ở người ≥ 75 tuổi, nên ngưỡng quay lại thấp hơn người trẻ là cách làm của ca (không có trong tài liệu đã tải)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về có hẹn: chưa biến chứng, ăn uống được. Khác lượt 1: sửa nguyên nhân 'không đỡ' và chốt lịch ngoại khoa vì cơn đã tái nhiều lần (EASL 2016 tr. 8).",
+     "Paracetamol đủ liều ngay đầu cơn; không chống chỉ định vì men gan bình thường (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1). NSAID liều thấp ngắn ngày là cách khác (EASL 2016 tr. 8), chọn paracetamol vì ông vừa dùng lại ibuprofen.",
+     "Không MRCP lúc này (EASL 2016 tr. 16–17); không kháng sinh vì không có viêm túi mật cấp (EASL 2016 tr. 8).",
+     "Gỡ nỗi lo 'hại gan' bằng chính số liệu men gan; gỡ nỗi sợ mổ bằng việc EASL 2016 tr. 14 không từ chối mổ chỉ vì tuổi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "2 viên (1.000 mg) mỗi cơn, cách ít nhất 6 giờ, tối đa 3 lần/ngày (tối đa 3 g/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Ngay khi bắt đầu cơn tức, uống sau ăn",
+      "so_ngay": "Khi tức, tối đa 14 ngày đến lúc tái khám",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1 (500–1.000 mg/lần, cách 6–8 giờ, không quá 4 g/24 giờ; chống chỉ định khi tăng men gan) và Phụ lục NSAID mục 3.3 (người cao tuổi dưới 3 g/ngày). Số ngày: không có trong tài liệu đã tải, ca chọn đến lúc tái khám."
+     }
+    ],
+    "dan_do": [
+     "Không uống ibuprofen hay thuốc chống viêm nào khác; bỏ số ibuprofen còn thừa (QĐ 361/2014 Phụ lục NSAID mục 2, 3.3).",
+     "Uống 2 viên paracetamol ngay khi bắt đầu tức, không chờ đau nhiều; men gan của ông bình thường nên thuốc ở liều này chưa có chống chỉ định.",
+     "Ăn bữa nhỏ, tránh giò, cháo lòng, thịt kho mỡ; vẫn ăn đủ chất, không kiêng đến sút cân.",
+     "Quay lại ngay nếu đau liên tục quá 5 giờ, sốt, rét run, vàng da, nước tiểu sẫm, nôn nhiều (EASL 2016 tr. 7, tr. 17). Đi khám ngoại khoa đúng ngày hẹn; tái khám sau 2 tuần, mang túi thuốc."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Ông Trần Quang Hiển, 78 tuổi, quay lại sau 3 tuần, đi xe ôm đến sau ca trực. Chiều qua sau bữa tiệc ông tức nặng bụng trên khoảng 3 giờ, nôn 3 lần, nay đã dịu nhưng ông lo. Sinh hiệu: HA 134/80 mmHg, mạch 84 l/p, nhiệt độ 37,3 °C, nhịp thở 18 l/p, SpO₂ 96%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho về uống paracetamol, chờ lịch mổ 3 tuần nữa là bỏ sót nguy cơ sỏi ống mật chủ: ống mật chủ 7,5 mm, bilirubin 24 µmol/L, ALP 138, GGT 96 U/L, nước tiểu sẫm (EASL 2016 tr. 16–17; WSES 2020 Bảng 2). Cơn báo trước vắng ở 50% ca sỏi trôi (EASL 2016 tr. 17); có thể thành viêm tụy cấp hoặc viêm đường mật (tam chứng Charcot, tr. 17) khi ông trực đêm một mình, vợ không lái xe, con gái ở xa.",
+    "cap_cuu": "Gọi cấp cứu chuyển khẩn trong đêm là quá tay: không sốt, không rét run, bilirubin 24 µmol/L chưa tới 29 µmol/L (1,7 mg/dL, EASL 2016 tr. 16), chưa có tam chứng Charcot (tr. 17). Ông vẫn chỉ cần MRCP hoặc siêu âm nội soi theo kế hoạch, nhưng tốn phí cấp cứu, càng ngại đến khám sớm lần sau."
+   },
+   "loi_mo": "Bác sĩ ơi, hôm qua tôi lại bị thêm một trận, nặng hơn mấy lần trước, nôn mấy lần. Bây giờ hết rồi mà tôi sợ lắm. Chắc tại tôi lỡ ăn mỡ trong đám tiệc.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "134/80",
+    "nhiet": "37,3",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chiều qua, sau tiệc mừng thọ họ hàng (chân giò, thịt mỡ), tức nặng bụng trên khoảng 3 giờ, nôn 3 lần, lan ra lưng phải nhiều hơn mọi lần. Sáng nay đã dịu, ông vẫn lo.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: cơn mới, nặng hơn"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Sau lần khám trước 3 tuần: ông uống paracetamol 2 viên đầu cơn như dặn, đỡ rõ, chỉ có 1 cơn nhẹ tuần đầu. Ông đã đi khám ngoại khoa, bác sĩ xác nhận sỏi túi mật, hẹn mổ nội soi sau khoảng 3 tuần nữa; ông sợ nhưng đã đồng ý. Chưa làm xét nghiệm nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến: đã đỡ, đã gặp ngoại khoa, chờ lịch mổ"
+    },
+    {
+     "id": "nuoc_tieu",
+     "noi_dung": "Từ sáng hôm kia (trước cơn chiều qua) nước tiểu vàng sậm như nước trà loãng; phân vẫn vàng. Ông không thấy vàng mắt, không ngứa, không sốt, không rét run.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'còn gì khác không' ông nói 'không'. Chỉ kể khi bác sĩ hỏi màu nước tiểu, màu phân, vàng da vàng mắt, ngứa.",
+     "k": 1,
+     "y": "Nước tiểu sẫm: gợi tắc mật thoáng qua"
+    },
+    {
+     "id": "ngung_thuoc",
+     "noi_dung": "Hai ngày nay ông không uống paracetamol: thấy nước tiểu sẫm, ông tin đó là thuốc 'hại gan' như tờ hướng dẫn nói và sợ uống thêm sẽ vàng da. Bữa tiệc ông chịu đau không uống thuốc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông có uống thuốc giảm đau không, vì sao ngưng, hoặc ông nghĩ gì về nước tiểu sẫm.",
+     "k": 1,
+     "y": "Lý do thật: nghi tác dụng phụ của thuốc, đổ lỗi cho paracetamol"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Từ lần khám trước ông kiêng mỡ gần 3 tuần; hôm tiệc ăn nhiều chân giò, thịt mỡ vì 'lâu rồi mới được ăn'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố làm tái phát"
+    }
+   ],
+   "kham": {
+    "bung": {
+     "a": "Bụng mềm, không chướng. Ấn thượng vị đau mơ hồ, không đau rõ dưới sườn phải. Murphy lâm sàng âm tính, không phản ứng thành bụng, không sờ thấy túi mật to hay khối, gan lách không to.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, môi khô nhẹ, củng mạc và da không vàng, không vết gãi, không phù.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai bên, không ran. Nhịp thở 18 lần/phút.",
+     "k": 0,
+     "hien": "Hai phổi thông khí đều, nhịp thở 18 lần/phút.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 9,4 G/L · Neutrophil 65% · Hb 129 g/L · TC 230 G/L",
+     "n": "Không tăng bạch cầu (nhóm B, Tokyo Guidelines 2018, Table 1).",
+     "bang": {
+      "wbc": 9.4,
+      "neu_pct": 65.0,
+      "neu": 6.11,
+      "lym_pct": 26.0,
+      "lym": 2.44,
+      "mono_pct": 7.0,
+      "mono": 0.66,
+      "eos_pct": 1.5,
+      "eos": 0.14,
+      "baso_pct": 0.5,
+      "baso": 0.05,
+      "rbc": 4.28,
+      "hgb": 129,
+      "hct": 0.39,
+      "mcv": 91.0,
+      "mch": 30.1,
+      "mchc": 331,
+      "rdw": 13.7,
+      "plt": 230
+     }
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 4 mg/L (ngưỡng < 5)",
+     "n": "Không tăng: chưa nghi viêm túi mật cấp (Tokyo Guidelines 2018, Table 1).",
+     "bang": {
+      "crp": 4
+     }
+    },
+    "lipase": {
+     "v": "u",
+     "r": "Lipase 52 U/L (tham chiếu 13–60)",
+     "n": "Không đạt ≥ 3 lần giới hạn trên (Atlanta 2012; ACG 2024 mục Diagnosis). Sỏi trôi có thể gây tăng men tụy (EASL 2016 tr. 17), ở đây chưa."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 31 · ALT 36 U/L (ngưỡng < 40)",
+     "n": "Bình thường: không tổn thương tế bào gan, nên paracetamol không có chống chỉ định theo QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "ab": 1,
+     "r": "Bilirubin toàn phần 24 µmol/L (trực tiếp 13) · ALP 138 U/L · GGT 96 U/L · Albumin 39 g/L · INR 1,0",
+     "n": "Bilirubin ≥ 1,7 mg/dL (29 µmol/L) mới đặc hiệu 60% cho sỏi ống mật chủ; bilirubin, ALP, GGT bất thường chỉ có giá trị dự báo dương 25–50% (EASL 2016 tr. 16). WSES 2020 Bảng 2: bilirubin > 1,8 mg/dL là yếu tố mạnh (chưa đạt); men gan khác bilirubin bất thường và tuổi > 55 là yếu tố trung bình."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Bilirubin niệu (+), urobilinogen bình thường, không protein, glucose, nitrit, bạch cầu, hồng cầu.",
+     "n": "Bilirubin niệu dương tính khớp nước tiểu sẫm và xét nghiệm ứ mật; không do paracetamol (men gan bình thường).",
+     "bang": {
+      "u_sg": 1.024,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "+",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     }
+    },
+    "abdus": {
+     "v": "e",
+     "ab": 1,
+     "r": "Nhiều sỏi 5–8 mm trong túi mật, thành 3 mm, không dịch quanh túi mật, Murphy siêu âm âm tính. Ống mật chủ 7,5 mm (lần trước 5 mm), không thấy sỏi trong lòng ống (nhìn không rõ đoạn cuối do hơi). Tụy không to.",
+     "n": "Siêu âm là hình ảnh đầu tay khi nghi sỏi ống mật chủ; ống mật chủ giãn là yếu tố mạnh (EASL 2016 tr. 16; WSES 2020 Bảng 2: > 6 mm khi còn túi mật), độ nhạy thấp hơn sỏi túi mật nên âm không loại trừ (EASL 2016 tr. 17)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cơn đau quặn mật tái phát lần thứ ba do sỏi túi mật, kèm nguy cơ trung gian sỏi ống mật chủ (ống mật chủ giãn 7,5 mm, bilirubin 24 µmol/L, ALP 138, GGT 96 U/L, nước tiểu sẫm, bilirubin niệu +); chưa viêm túi mật, viêm tụy, viêm đường mật",
+     "ok": 1,
+     "n": "Cơn mới sau bữa mỡ khi chưa mổ (nguyên nhân nền còn). Ống mật chủ giãn là yếu tố mạnh (EASL 2016 tr. 16; WSES 2020 Bảng 2); ứ mật nhẹ; nguy cơ trung gian cần siêu âm nội soi hoặc MRCP (EASL 2016 tr. 16–17; WSES 2020 khuyến cáo 2.5–2.6, viết cho viêm túi mật cấp, áp dụng ở đây là suy rộng)."
+    },
+    {
+     "t": "Viêm túi mật cấp",
+     "n": "Không sốt, bạch cầu và CRP bình thường, Murphy âm tính, thành 3 mm, không dịch (Tokyo Guidelines 2018, Table 1; EASL 2016 tr. 7)."
+    },
+    {
+     "t": "Viêm tụy cấp do sỏi",
+     "n": "Lipase 52 U/L chưa đạt ≥ 3 lần giới hạn trên, đau từng cơn không phù hợp (Atlanta 2012; ACG 2024 mục Diagnosis). Sỏi trôi gây viêm tụy ở 4–8% người có sỏi túi mật (EASL 2016 tr. 17): dặn quay lại."
+    },
+    {
+     "t": "Viêm đường mật cấp",
+     "n": "Không sốt, không rét run, không vàng da: chưa có tam chứng Charcot (EASL 2016 tr. 17). Tiêu chuẩn Tokyo 2018 viêm đường mật (Kiriyama): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tổn thương gan do paracetamol hoặc viên bổ gan gây nước tiểu sẫm",
+     "n": "AST 31, ALT 36 bình thường; ứ mật chứ không tổn thương tế bào gan, bilirubin niệu dương tính. Paracetamol chống chỉ định khi đang tăng men gan (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1), ông không có."
+    }
+   ],
+   "xu_tri": [
+    {
+     "v": "c",
+     "t": "Giải thích nước tiểu sẫm và xét nghiệm ứ mật là do sỏi có thể đang đi xuống ống mật chủ chứ không do paracetamol; cho ông uống paracetamol lại khi đau",
+     "n": "Men gan bình thường nên paracetamol không có chống chỉ định (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1); 500–1.000 mg/lần, tối đa 3 g/ngày ở người cao tuổi (Phụ lục NSAID mục 3.3). Sỏi di chuyển thường có giai đoạn tắc mật trước đó (EASL 2016 tr. 17)."
+    },
+    {
+     "v": "c",
+     "t": "Chuyển tuyến có MRCP hoặc siêu âm nội soi và ngoại khoa trong vài ngày, giấy chuyển ghi bilirubin, ALP, GGT, ống mật chủ 7,5 mm; báo ngoại khoa đã hẹn mổ để gộp kế hoạch",
+     "n": "Nguy cơ trung gian sỏi ống mật chủ cần siêu âm nội soi hoặc MRCP (EASL 2016 tr. 16–17, độ nhạy tương đương với sỏi > 5 mm; WSES 2020 khuyến cáo 2.6). Số ngày 'vài ngày': không có trong tài liệu đã tải."
+    },
+    {
+     "v": "c",
+     "t": "Dặn gọi cấp cứu ngay nếu sốt, rét run, vàng da, đau liên tục quá 5 giờ, nước tiểu sẫm hơn, phân bạc màu; có người đi cùng, không tự lái",
+     "n": "Tam chứng Charcot: đau hạ sườn phải, sốt cao rét run, vàng da (EASL 2016 tr. 17); đau liên tục quá 5 giờ kèm sốt gợi viêm túi mật cấp (tr. 7). Cơn báo trước vắng ở 50% ca sỏi trôi (tr. 17)."
+    },
+    {
+     "v": "c",
+     "t": "Hẹn tái khám 1 tuần sau khi có kết quả MRCP hoặc siêu âm nội soi; nói rõ ngoại khoa cần cắt túi mật sớm nhất có thể khi thể trạng cho phép",
+     "n": "EASL 2016 tr. 14: cắt túi mật ở người cao tuổi khi có biến chứng sỏi nên sớm nhất có thể nếu tình trạng cho phép, không loại bỏ nội soi chỉ vì tuổi. Thời điểm tái khám: không có trong tài liệu đã tải."
+    },
+    {
+     "v": "w",
+     "t": "Chuyển thẳng ERCP chẩn đoán",
+     "n": "ERCP chỉ làm đầu tiên khi xác suất sỏi ống mật chủ cao (EASL 2016 tr. 17); WSES 2020 khuyến cáo 2.5 chỉ ERCP ngay khi thấy sỏi ống mật chủ trên siêu âm; ở nguy cơ trung gian làm bước hai để tránh biến chứng ERCP (khuyến cáo 2.6)."
+    },
+    {
+     "v": "w",
+     "t": "Cho về chờ lịch mổ đã hẹn, không làm thêm gì",
+     "n": "Bỏ sót nguy cơ trung gian sỏi ống mật chủ và nguy cơ viêm tụy, viêm đường mật trong thời gian chờ (EASL 2016 tr. 16–17)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cơn đau quặn mật tái phát lần thứ ba do sỏi túi mật chưa được cắt, kèm nguy cơ trung gian sỏi ống mật chủ (ống mật chủ 7,5 mm, bilirubin 24 µmol/L, ALP 138 U/L, GGT 96 U/L, bilirubin niệu dương tính)",
+     "Đã loại trừ viêm túi mật cấp (không sốt, bạch cầu 9,4 G/L, CRP 4 mg/L, thành 3 mm), viêm tụy cấp (lipase 52 U/L), viêm đường mật (không sốt, không vàng da), tổn thương gan do thuốc (AST 31, ALT 36 U/L)",
+     "Nguyên nhân tái phát: sỏi túi mật chưa xử lý, bữa tiệc mỡ, ông tự ngưng paracetamol vì sợ hại gan"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: hỏi màu nước tiểu mới lộ nước tiểu sẫm, hỏi vì sao ngưng thuốc mới lộ nỗi sợ hại gan. Sỏi trôi thường có giai đoạn tắc mật trước, cơn báo trước vắng ở 50% ca (EASL 2016 tr. 17).",
+     "Khám và xét nghiệm: không sốt, Murphy âm tính, củng mạc không vàng; bilirubin 24 µmol/L (< 29), ALP 138, GGT 96, bilirubin niệu (+), ống mật chủ 7,5 mm so với 5 mm: ứ mật nhẹ, không phải viêm gan do thuốc. Giá trị dự báo dương của bilirubin, ALP, GGT bất thường chỉ 25–50% (EASL 2016 tr. 16).",
+     "Nguy cơ trung gian: ống mật chủ giãn (yếu tố mạnh), ứ mật nhẹ, tuổi > 55 (WSES 2020 Bảng 2; EASL 2016 tr. 16). Chưa nguy cơ cao: siêu âm chưa thấy sỏi ống mật chủ, chưa viêm đường mật nên chưa ERCP ngay.",
+     "Lưu ý áp dụng (≥ 75 tuổi): WSES 2020 Bảng 2 tính tuổi > 55 như một yếu tố, không có ngưỡng riêng cho ≥ 75 tuổi; mổ ở tuổi 75–80 an toàn theo một số nghiên cứu nhưng mổ mở và biến chứng nhiều hơn ở > 65–70 tuổi (EASL 2016 tr. 14)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến có hẹn trong vài ngày, không cấp cứu: không sốt, bilirubin dưới 29 µmol/L, huyết động ổn. Nguy cơ trung gian cần siêu âm nội soi hoặc MRCP trước khi quyết định ERCP và mổ (EASL 2016 tr. 16–17; WSES 2020 khuyến cáo 2.6).",
+     "Không ERCP chẩn đoán ngay vì chưa có bằng chứng sỏi ống mật chủ (WSES 2020 khuyến cáo 2.5).",
+     "Paracetamol dùng lại vì men gan bình thường (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1); không kháng sinh (EASL 2016 tr. 8).",
+     "Nếu có sỏi ống mật chủ: lấy sỏi rồi cắt túi mật, không làm cùng ngày (EASL 2016 tr. 13–14)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "2 viên (1.000 mg) mỗi cơn, cách ít nhất 6 giờ, tối đa 3 lần/ngày (tối đa 3 g/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Ngay khi bắt đầu cơn tức, uống sau ăn",
+      "so_ngay": "Khi tức, cho đến khi gặp tuyến trên",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1 (500–1.000 mg/lần, cách 6–8 giờ, không quá 4 g/24 giờ; chống chỉ định khi tăng men gan, ông AST 31, ALT 36 U/L) và Phụ lục NSAID mục 3.3 (người cao tuổi dưới 3 g/ngày). Số ngày: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Nước tiểu sẫm là do ứ mật chứ không phải do paracetamol; ông uống lại thuốc theo đơn, không ngưng vì sợ hại gan (men gan bình thường).",
+     "Đi tuyến có MRCP hoặc siêu âm nội soi trong vài ngày, mang giấy chuyển và kết quả hôm nay; báo ngoại khoa đã hẹn mổ để gộp kế hoạch.",
+     "Gọi cấp cứu ngay nếu sốt, rét run, vàng da, đau liên tục quá 5 giờ, nôn nhiều, phân bạc màu (EASL 2016 tr. 7, tr. 17); không tự lái xe, có người đi cùng.",
+     "Tránh bữa nhiều mỡ cho đến khi mổ xong; xin giấy xác nhận bệnh để báo công ty; tái khám sau khi có kết quả (thời điểm: không có trong tài liệu đã tải)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Hiển được chuyển sang bệnh viện tỉnh trong 2 ngày. Siêu âm nội soi thấy một sỏi 5 mm ở đoạn cuối ống mật chủ cùng nhiều sỏi túi mật; ông được nội soi mật tụy lấy sỏi, rồi mổ nội soi cắt túi mật ở một đợt khác, không làm cùng ngày (EASL 2016 tr. 13–14). Bác sĩ ngoại khoa nói cơn tái phát là do sỏi chưa xử lý, không do thuốc hay hóa chất, và ông không phải bỏ việc. Chống thiên kiến kết cục: không biết trước cơn nào thành sỏi ống mật chủ; kết cục tốt không biện minh cho việc bỏ bước kiểm tra nguy cơ ở lượt 3. Khoảng cách thời gian ERCP đến mổ: không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Tự uống thuốc trước 5 ngày: ông chỉ nói 'thuốc dạ dày'; hỏi từng loại mới ra ibuprofen 400 mg 2–3 viên/ngày và gel; ở người ≥ 75 tuổi eGFR 58 phải theo dõi tai biến (QĐ 361/2014 Phụ lục NSAID mục 2, 3.3).",
+  "Tiếp xúc hóa chất ở kho là yếu tố gây nhiễu ông tin là nguyên nhân; bữa tiệc mỡ mới là thật. Liên quan hóa chất với cơn đau mật: không có trong tài liệu đã tải; men gan bình thường, phổi sạch.",
+  "Vitamin, dầu cá, viên bổ gan thảo dược: tài liệu đã tải không nêu liên quan với cơn đau mật; là nguồn lo lắng và lý do ông ngại uống thuốc.",
+  "Lý do thật (sợ thuốc hại gan thận) không lộ khi hỏi chung; ở lượt 2–3 thành uống thuốc thiếu rồi ngưng paracetamol, dù paracetamol chỉ chống chỉ định khi đang tăng men gan (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1).",
+  "Nguồn lực đầy đủ: vẫn phải biện luận vì sao không CT hay MRCP ở lượt 1–2 (EASL 2016 tr. 6, tr. 16–17) và vì sao lượt 3 cần MRCP hoặc siêu âm nội soi."
+ ],
+ "bai_hoc_bien": [
+  "Người rất cao tuổi biểu hiện cơn mật nhẹ ('tức', ợ hơi, ăn kém) dễ bị gán cho dạ dày hay hóa chất; đau thượng vị ở tuổi 78 vẫn phải loại trừ tim (ESC 2023 mục 3.1.1) rồi siêu âm (EASL 2016 tr. 6).",
+  "Không đỡ: kiểm sai chẩn đoán, sai thuốc, không tuân thủ, biến chứng; ở đây là dùng thuốc thưa vì sợ hại gan và sỏi chưa xử lý.",
+  "Tái phát nghĩa là sỏi vẫn còn: khoảng một nửa số người tái cơn, biến chứng 0,5–3%/năm (EASL 2016 tr. 8).",
+  "Nước tiểu sẫm và ống mật chủ giãn sau cơn là dấu hiệu tắc thoáng qua; bilirubin chưa tới 29 µmol/L không loại trừ sỏi ống mật chủ (EASL 2016 tr. 16).",
+  "Lý do thật chỉ lộ khi hỏi 'ông nghĩ vì sao' và hỏi từng thuốc; giải thích bằng số liệu men gan của chính người bệnh."
+ ],
+ "diem_nho": [
+  "Cơn đau mật: hạ sườn phải hoặc thượng vị ≥ 15–30 phút, lan lưng hoặc vai phải (EASL 2016 tr. 6); siêu âm chính xác > 95%.",
+  "Viêm túi mật cấp nghi ngờ khi một mục nhóm A cộng một mục nhóm B, xác định khi có hình ảnh (Tokyo Guidelines 2018, Table 1); thành > 4 mm, dịch quanh túi mật (EASL 2016 tr. 7).",
+  "Cắt túi mật là điều trị ưu tiên cho sỏi có triệu chứng (EASL 2016 tr. 8); không từ chối chỉ vì tuổi (tr. 14).",
+  "Giảm đau cơn mật ở người rất cao tuổi: paracetamol dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3) hoặc NSAID liều thấp ngắn ngày (EASL 2016 tr. 8); không dùng hai NSAID (Phụ lục NSAID mục 2).",
+  "Nguy cơ sỏi ống mật chủ trung gian: siêu âm nội soi hoặc MRCP, chưa ERCP ngay (EASL 2016 tr. 16–17; WSES 2020 khuyến cáo 2.5–2.6).",
+  "Tam chứng Charcot: đau hạ sườn phải, sốt rét run, vàng da (EASL 2016 tr. 17)."
+ ],
+ "nguon": [
+  "Tokyo Guidelines 2018 – Diagnostic criteria and severity grading of acute cholecystitis (J Hepatobiliary Pancreat Sci 2018;25:41-54) – TL-0229 – Table 1, Table 7",
+  "EASL 2016 – Clinical Practice Guidelines on gallstones (J Hepatol 2016;65:146-181) – TL-0234 – tr. 6–8, 13–14, 16–17",
+  "WSES 2020 – Acute calculus cholecystitis (World J Emerg Surg 2020;15:61) – TL-0223 – khuyến cáo 1.1, 2.4–2.6, Bảng 2",
+  "Atlanta 2012 – Classification of acute pancreatitis (Gut 2013;62:102-11) – TL-0104; ACG 2024 – Acute pancreatitis (Am J Gastroenterol 2024;119:419-437) – TL-0060 – mục Diagnosis",
+  "ESC 2023 – Acute coronary syndromes – TL-0069 – mục 3.1.1",
+  "BYT QĐ 361/QĐ-BYT 2014 – TL-0286 – Phụ lục NSAID (mục 2, 3.2, 3.3, bảng liều), Phụ lục thuốc giảm đau (mục 2, 3.1)",
+  "AGS Beers 2023 – TL-0022 – Bảng 2, Bảng 6; WHO AWaRe antibiotic book 2022 – TL-0018 – mục 29"
+ ],
+ "ghi_chu_bien_tap": [
+  "Ngày viết 19/11/2026. Tài liệu đã đọc: TL-0229 (Table 1, 7), TL-0234 (tr. 6–8, 13–14, 16–17), TL-0223 (khuyến cáo 2.4–2.6, Bảng 2), TL-0060 và TL-0104 (tiêu chuẩn chẩn đoán), TL-0069 (mục 3.1.1), TL-0286 (Phụ lục NSAID, thuốc giảm đau), TL-0022 (Bảng 2, 6). TL-0018 mục 29: chỉ dùng theo sổ mâu thuẫn (TH-1253).",
+  "Thiết kế: 3 lượt, chẩn đoán đích không đổi. L1 cơn không điển hình ở tuổi 78, ve_hen có giấy ngoại khoa; L2 'không đỡ' do dùng paracetamol thưa vì sợ hại gan, ve_hen; L3 tái phát, ống mật chủ giãn 7,5 mm, ứ mật nhẹ, nước tiểu sẫm: nguy cơ trung gian sỏi ống mật chủ, chuyen_tuyen có hẹn. Nguồn lực đầy đủ nên khoa_cls null.",
+  "Mâu thuẫn đã có trong sổ và áp dụng: giảm đau cơn mật ở người rất cao tuổi và butylscopolamin (TH-1221), kháng sinh viêm túi mật nhẹ (TH-1253), liều paracetamol tối đa ở người cao tuổi. Mâu thuẫn mới: không có.",
+  "Chỗ thiếu tài liệu: liều butylscopolamin; số ngày tối đa thuốc giảm đau cho cơn mật; thời hạn mổ chương trình; thời điểm tái khám và xét nghiệm lại; bằng chứng kiêng mỡ; liên quan hóa chất, vitamin, dầu cá, viên bổ gan với cơn đau mật; tiêu chuẩn Tokyo 2018 viêm đường mật; chỉ định nội soi dạ dày ở người dùng NSAID. WSES 2020 Bảng 2 viết cho viêm túi mật cấp, áp dụng cho cơn đau mật là suy rộng (đã ghi trong ca). MRCP, siêu âm nội soi chưa có trong danh mục CLS."
+ ]
+}
