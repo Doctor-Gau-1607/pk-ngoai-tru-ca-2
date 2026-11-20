@@ -1,0 +1,847 @@
+{
+ "ma_ca": "TH-0896",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo kho tài liệu (2026-11-20)",
+ "benh": "TH_tao_bon_chuc_nang",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Táo bón chức năng",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư đại trực tràng",
+   "Tắc ruột"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Sau căng thẳng công việc",
+  "thuoc_dang_dung": "Thuốc dị ứng tự mua theo mùa",
+  "ly_do_that_su_den_kham": "Sợ đột quỵ"
+ },
+ "benh_nhan": {
+  "ten": "Trần Văn Hai",
+  "tuoi": 68,
+  "gioi": "Nam",
+  "nghe": "Nông dân (trồng lúa và rau màu)",
+  "can_nang": 58,
+  "chieu_cao": 164,
+  "xung_ho": "Bác sĩ gọi ông là 'bác Hai'. Bác tự xưng 'tui', gọi bác sĩ là 'bác sĩ'. Chị Hồng xưng 'em', gọi bác sĩ 'bác sĩ'.",
+  "tinh_cach": "Trầm, ít nói, hay lo nhưng giấu, sợ làm con lo thêm. Coi thuốc dị ứng mua ở tiệm không phải 'thuốc uống'. Không thích thuốc uống lâu dài vì sợ 'hại ruột', tốn tiền.",
+  "kieu_nhieu": "Thân nhân trả lời thay: chị Hồng ngồi sát ba, hỏi gì chị cũng trả lời trước, hay chen 'ba em không sao đâu, ba uống thuốc đều'. Chị kể đúng điều chị thấy nhưng không biết thuốc dị ứng, chuyện nhịn đi cầu, việc tự ngưng PEG và nỗi sợ của ba. Bác chỉ nói thật khi bác sĩ hỏi thẳng bác hoặc mời chị ra ngoài.",
+  "nguoi_nha": "Con gái, chị Trần Thị Hồng, 41 tuổi, bán tạp hóa đầu ngõ, đưa ba đi cả ba lượt bằng xe máy. Thương ba, nói nhanh, hay trả lời hộ. Chị biết: ba bón, ăn kém, lo chuyện lúa, giá phân bón. Chị KHÔNG biết: thuốc dị ứng ba tự mua, chuyện ba nhịn đi cầu ngoài ruộng, ba tự ngưng PEG (lượt 3), nỗi sợ đột quỵ của ba. Khi bác sĩ hỏi sinh hoạt, ăn uống, thuốc, chị thường là người trả lời (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Chị Hồng (con gái)",
+  "ngoai_hinh": {
+   "da": "#c49a72",
+   "toc": "#cfcac2",
+   "kieuToc": "ngan",
+   "ao": "#6f7f5f",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d3a37d",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#a0646b",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đi cầu khó, ít, bụng đầy hai tháng",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám không có máy X-quang (kéo theo không có CT và không có nội soi tiêu hóa; nội soi làm ở bệnh viện tỉnh, hẹn trước được). Làm được tại phòng khám: xét nghiệm máu cơ bản, FIT, siêu âm bụng, điện tim, đường huyết mao mạch."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bác Trần Văn Hai, 68 tuổi, nông dân, con gái là chị Hồng đưa đến. Chị nói ba đi cầu khó, ít, bụng đầy khoảng hai tháng nay. Sinh hiệu: HA 138/82 mmHg, mạch 78 l/p, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 58 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho bác Hai nhập viện vì sợ tắc ruột là quá tay: bác còn trung tiện, không nôn, không đau quặn, không sẹo mổ, bụng mềm (WSES 2018, mục History taking and physical examination). Việc cần làm là lấy bớt phân ứ, bắt đầu PEG, bỏ thuốc làm nặng, làm được ngoại trú (AGA-ACG 2023 Khuyến cáo 2; WGO 2025 mục 4.6). Bác nghỉ ruộng nhiều ngày giữa vụ lúa, tốn kém, mà vẫn chưa biết cách dùng thuốc duy trì ở nhà.",
+    "chuyen_tuyen": "Chuyển bác Hai lên tỉnh nội soi, đo áp lực hậu môn–trực tràng ngay lượt đầu là sớm: thăm dò chuyên sâu dành cho người đã thất bại với lối sống và thuốc chuẩn (WGO 2025 mục 3.5; AGA CPU 2026 BPA 1), mà bác chưa dùng thuốc nhuận tràng ngày nào. Nhà xa tỉnh, đi lại mất cả ngày, tốn xe và viện phí, và quay về bác vẫn uống thuốc dị ứng làm bón nặng thêm (Beers 2023 Bảng 2; WGO 2025 Bảng 4)."
+   },
+   "loi_mo": "Chào bác sĩ. Ba em đi cầu khó hai tháng nay, ba cứ nói không sao mà em thấy ba ăn không ngon, ngủ không yên. Bác sĩ khám giúp ba em.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "138/82",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị Hồng kể ba đi cầu khó, ít, bụng đầy khoảng 2 tháng, ăn không ngon. Bác Hai gật đầu: 'chắc tại bón, không sao đâu'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám do người nhà kể"
+    },
+    {
+     "id": "tan_suat",
+     "noi_dung": "Bác bón từ ngoài 50 tuổi, thường 2–3 ngày đi một lần. Hai tháng nay khoảng 4 ngày một lần, phân từng cục cứng như phân dê, rặn nhiều, ngồi 15–20 phút, đi xong vẫn thấy chưa hết. Không phải móc bằng tay, không có cảm giác bị chặn ở hậu môn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tần số, rặn, phân cứng, chưa hết (Rome IV); chưa có dấu rối loạn đại tiện"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không đi cầu ra máu, không phân đen. Không sụt cân (58 kg như năm ngoái). Không nôn, còn trung tiện, bụng chỉ đầy tức nhẹ, không đau quặn từng cơn. Chưa mổ bụng lần nào. Nhà không ai bị ung thư đại tràng. Chưa từng nội soi đại tràng hay thử phân tìm máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động; loại ung thư và tắc ruột; chưa sàng lọc"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Vụ Hè Thu năm nay giá lúa tụt, thương lái ép giá, bác còn nợ tiền phân bón. Hơn hai tháng nay bác thức khuya tính toán, ngủ 4–5 tiếng, ăn qua loa, hay cáu. Từ đó bón nặng hơn. Chị Hồng biết ba lo chuyện lúa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát: căng thẳng công việc"
+    },
+    {
+     "id": "nuoc_xo",
+     "noi_dung": "Ăn cơm với cá khô, mắm, rau ít. Uống khoảng 4 ly nước mỗi ngày, sáng một ly cà phê đậm. Làm ruộng cả ngày nên đi lại nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nước, xơ, vận động"
+    },
+    {
+     "id": "nhin",
+     "noi_dung": "Ra ruộng từ 5 giờ sáng. Ngoài ruộng không có nhà vệ sinh nên buồn đi cũng cố nhịn đến tối. Gần đây bác nhịn cả ở nhà vì sợ rặn.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Nhịn đi cầu",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi bác có hay nhịn đi cầu không, ở ruộng đi cầu ở đâu, hoặc hỏi riêng bác."
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Hơn ba tháng nay mỗi tối bác uống 1–2 viên thuốc dị ứng mua ở tiệm thuốc (vỉ ghi chlorpheniramin 4 mg) vì hắt hơi, ngứa mũi theo mùa gió, và vì uống vô dễ ngủ. Bác coi đó là thuốc dị ứng chứ không phải 'thuốc uống' nên không kể. Chị Hồng không biết.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Kháng histamin thế hệ 1 gây táo bón (thuốc đang dùng)",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi từng loại thuốc, kể cả thuốc dị ứng, thuốc ngủ, thuốc tự mua ở tiệm; hoặc hỏi riêng bác."
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không tăng huyết áp, không tiểu đường (HA ở trạm y tế năm ngoái 130/80; đường huyết chưa kiểm tra). Không bệnh tim, không bệnh tuyến giáp. Rượu đế thỉnh thoảng, không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền; nguyên nhân thứ phát"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ba tuần trước ông Tám hàng xóm (66 tuổi) ngã trong nhà vệ sinh, nghe nói bị đột quỵ 'do rặn'. Từ đó bác sợ mỗi lần rặn, hay nhịn; thỉnh thoảng nặng đầu khi thức khuya, không chóng mặt, không yếu liệt. Bác đến khám chủ yếu để bác sĩ xem đầu và mạch máu có sao không, nhưng ngại nói vì sợ con lo thêm.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Động cơ thật: sợ đột quỵ",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi thẳng bác (mời chị Hồng ra ngoài) bác lo nhất điều gì, vì sao hôm nay mới đi khám, hoặc quanh nhà có ai bị bệnh gì gần đây."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gầy vừa (58 kg, 164 cm, BMI 21,6), niêm mạc hồng, môi hơi khô, không vàng da.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng chướng nhẹ, mềm, không đau, không phản ứng thành bụng. Sờ được khối chắc, ấn lõm được dọc đại tràng xuống ở hố chậu trái (khối phân), không khối khác, gan lách không to. Nhu động 5 lần/phút. Không sẹo mổ.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Trương lực cơ thắt bình thường. Bóng trực tràng có khối phân rắn cỡ vừa, đẩy được; khi bảo rặn như đi cầu, cơ thắt giãn và đáy chậu hạ nhẹ. Không sờ thấy khối u hay chỗ hẹp. Găng không dính máu.",
+     "k": 1
+    },
+    "soi_hau_mon": {
+     "a": "Trĩ nội độ I nhỏ, không chảy máu, không nứt kẽ, không sa niêm mạc.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói rõ, mặt cân đối. Sức cơ 5/5 bốn chi, cảm giác bình thường, phản xạ gân xương hai bên đều, không dấu thần kinh khu trú.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "Hb 138 g/L · BC 6,9 G/L · TC 246 G/L.",
+     "n": "Không thiếu máu: loại thiếu máu thiếu sắt, một dấu báo động (WGO 2025 Bảng 6)."
+    },
+    "glu": {
+     "v": "a",
+     "r": "5,4 mmol/L.",
+     "n": "Đái tháo đường là nguyên nhân thứ phát (WGO 2025 Bảng 3); xét nghiệm máu làm nếu có chỉ định (WGO 2025 mục 3.3)."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 2,0 mUI/L · FT4 14 pmol/L.",
+     "n": "Suy giáp là nguyên nhân thứ phát (WGO 2025 Bảng 3) nhưng lâm sàng không gợi ý; WGO 2025 Hình 3 bước 4 để xét nghiệm khi điều trị ban đầu thất bại."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 5,0 mmol/L · Creatinin 82 µmol/L · eGFR 87 mL/ph/1,73m².",
+     "n": "Biết eGFR trước khi cân nhắc magie oxid, vì AGA-ACG 2023 Khuyến cáo 3 khuyên tránh khi suy thận; chọn PEG thì không cần."
+    },
+    "fit": {
+     "v": "a",
+     "r": "FIT định lượng 4 µg Hb/g phân (âm tính).",
+     "n": "Chưa từng sàng lọc: FIT mỗi 1–2 năm hoặc nội soi đại tràng mỗi 10 năm là xét nghiệm ưu tiên ở châu Á (APCS 2022 Statement 3); sàng lọc 50–75 tuổi hạng A (USPSTF 2021). Làm hôm nay hay hẹn đều chấp nhận."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Gan, mật, tụy, lách, thận bình thường; nhiều hơi và phân ở đại tràng xuống; không quai ruột giãn, không dịch tự do.",
+     "n": "Không bắt buộc, lâm sàng đã đủ để loại tắc ruột. Là cách thay thế khi không có X-quang (lập luận của ca)."
+    },
+    "xq_bung": {
+     "n": "Cơ sở không có X-quang. Không cần: không nôn, còn trung tiện, bụng mềm; X-quang bụng chỉ có giá trị hạn chế trong đánh giá tắc ruột và không được khuyến cáo (WSES 2018, bảng Recommendations, Level IIC)."
+    },
+    "noi_soi_dt": {
+     "n": "Cơ sở không làm được (bệnh viện tỉnh, hẹn trước). Chưa có chỉ định khẩn vì không có dấu báo động; sàng lọc 50–75 tuổi theo kế hoạch (APCS 2022 Statement 3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng mạn tính (thỏa Rome IV), nặng lên sau căng thẳng công việc, uống ít nước, nhịn đi cầu và dùng kháng histamin thế hệ 1 (chlorpheniramin) tự mua; ứ phân cứng ở đại tràng xuống và trực tràng; chưa có dấu báo động",
+     "ok": 1,
+     "n": "Đi dưới 3 lần/tuần, rặn, phân cứng, cảm giác chưa hết, từ nhiều năm: đủ ≥ 2 tiêu chuẩn, khởi phát hơn 6 tháng (WGO 2025 Bảng 5). Thăm trực tràng thấy khối phân rắn. Tiêu chuẩn Rome V người lớn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ung thư đại trực tràng",
+     "n": "Không máu trong phân, không sụt cân, không khối bụng hay trực tràng, nền bón từ hơn mười năm, đợt nặng lên giải thích được (WGO 2025 Bảng 6; Hb 138 g/L nếu đã làm). Chưa loại trừ hoàn toàn bằng hình ảnh: 68 tuổi chưa từng sàng lọc nên cần FIT hoặc nội soi đại tràng (APCS 2022 Statement 3; USPSTF 2021)."
+    },
+    {
+     "t": "Tắc ruột",
+     "n": "Tắc ruột có đau quặn từng cơn, chướng, buồn nôn hoặc nôn, bí đại tiện, tiền sử mổ (WSES 2018, mục Definitions, History taking). Bác không mổ, không nôn, còn trung tiện, bụng mềm, nhu động có."
+    },
+    {
+     "t": "Táo bón thứ phát (thuốc, đái tháo đường, suy giáp, tăng canxi)",
+     "n": "Chlorpheniramin là kháng histamin thế hệ 1, kháng cholinergic mạnh, gây táo bón (Beers 2023 Bảng 2; WGO 2025 Bảng 4 nêu nhóm kháng histamin). Đái tháo đường, suy giáp, tăng canxi là nguyên nhân thứ phát (WGO 2025 Bảng 3) nhưng lâm sàng không gợi ý; làm xét nghiệm khi điều trị ban đầu thất bại (WGO 2025 Hình 3 bước 4)."
+    },
+    {
+     "t": "Rối loạn đại tiện (dyssynergic defecation)",
+     "n": "Không dùng tay, không cảm giác chặn, khi rặn thử cơ thắt giãn bình thường. Đo áp lực hậu môn–trực tràng dành cho người đã thất bại điều trị chuẩn (WGO 2025 mục 3.5; AGA CPU 2026 BPA 2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Mời con gái ra ngoài hoặc hỏi thẳng bác về thuốc đang dùng (kể cả thuốc tự mua), thói quen nhịn, nỗi lo",
+     "v": "c",
+     "n": "Tiền sử phải gồm thuốc đã dùng, kể cả thuốc tự mua (WGO 2025 mục 3.3); AGA CPU 2026 BPA 3 nêu rà thuốc, bệnh thần kinh kèm theo. Nỗi sợ đột quỵ là động cơ thật của ca."
+    },
+    {
+     "t": "Thăm trực tràng bằng tay trước khi kê thuốc",
+     "v": "c",
+     "n": "Mọi người táo bón mạn cần thăm trực tràng để tìm ứ phân, khối, hẹp, gợi ý rối loạn đại tiện (AGA CPU 2026 BPA 2; WGO 2025 mục 3.3)."
+    },
+    {
+     "t": "Ngưng chlorpheniramin; nếu còn hắt hơi thì dùng xịt mũi corticosteroid hoặc kháng histamin thế hệ 2",
+     "v": "c",
+     "n": "Tránh kháng histamin thế hệ 1 ở người ≥ 65 tuổi (Beers 2023 Bảng 2); ngưng thuốc làm nặng là một phần điều trị bước đầu (WGO 2025 mục 4.6). ARIA-EAACI 2024–2025 Part II, Bảng 1: xịt mũi corticosteroid hơn kháng histamin uống và thế hệ 2 hơn thế hệ 1 (cùng khuyến cáo mạnh, áp dụng cho người cao tuổi). Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "PEG 17 g mỗi ngày hoặc lactulose 15 g mỗi ngày làm thuốc nền",
+     "v": "c",
+     "n": "PEG khuyến cáo mạnh, khởi đầu 17 g/ngày, đáp ứng bền 6 tháng (AGA-ACG 2023 Khuyến cáo 2, Bảng 4). Lactulose 15 g/ngày là thuốc thẩm thấu hàng đầu theo WGO 2025 mục 4.6, Bảng 9 nhưng chỉ gợi ý có điều kiện sau khi thất bại thuốc không kê đơn theo AGA-ACG 2023 Khuyến cáo 4: khác năm và cách đánh giá bằng chứng. Ghi cả hai."
+    },
+    {
+     "t": "Bisacodyl 5 mg khi 3 ngày liền không đi (tối đa 10 mg/ngày), chỉ ngắn hạn hoặc cứu",
+     "v": "c",
+     "n": "Bisacodyl khởi đầu 5 mg, tối đa 10 mg/ngày, dùng ngắn hạn (hằng ngày không quá 4 tuần) hoặc cứu (AGA-ACG 2023 Khuyến cáo 5, Bảng 4; WGO 2025 mục 4.6). Mốc '3 ngày' là lựa chọn của ca."
+    },
+    {
+     "t": "Chỉnh thói quen: uống nước đều, tăng rau xơ dần, đi cầu ngay khi buồn (không nhịn ngoài ruộng), ngồi xổm hoặc kê chân",
+     "v": "c",
+     "n": "Tăng nước, vận động, đáp ứng sớm khi buồn đi, tư thế ngồi xổm; xơ tăng dần tới tổng 20–30 g/ngày (WGO 2025 mục 4.2, 4.6; AGA-ACG 2023 Bảng 4). BDA 2025 (mục Additional fluids) nói chỉ tăng nước riêng lẻ chưa đủ bằng chứng, nhưng xơ nên đi kèm thêm nước: ghi cả hai."
+    },
+    {
+     "t": "Giải thích: đây là bệnh mạn, cần chăm lâu dài; khám thần kinh và huyết áp bình thường nên trấn an về nỗi sợ đột quỵ",
+     "v": "c",
+     "n": "Người bệnh cần biết táo bón mạn cần điều trị lâu dài, đặt kỳ vọng thực tế (AGA CPU 2026 BPA 4). Liên quan giữa rặn và đột quỵ: không có trong tài liệu đã tải; trấn an dựa trên khám (HA 138/82 mmHg, thần kinh bình thường)."
+    },
+    {
+     "t": "Lập kế hoạch sàng lọc đại trực tràng: FIT hằng năm hoặc nội soi đại tràng mỗi 10 năm, hẹn không khẩn",
+     "v": "c",
+     "n": "FIT mỗi 1–2 năm hoặc nội soi mỗi 10 năm (APCS 2022 Statement 3); sàng lọc 50–75 tuổi hạng A (USPSTF 2021). Hai nguồn không mâu thuẫn ở tuổi 68. Thời hạn hẹn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần kèm nhật ký đi cầu; dặn đến ngay nếu nôn, chướng bụng to, bí trung tiện, đau quặn, ra máu hoặc phân đen",
+     "v": "c",
+     "n": "Dấu tắc ruột: đau quặn, chướng, nôn, bí đại tiện (WSES 2018). Máu, tắc, sụt cân là dấu báo động (WGO 2025 Bảng 6). Mốc 2 tuần là lựa chọn của ca; vì không có X-quang nên theo dõi có mốc thay cho hình ảnh."
+    },
+    {
+     "t": "Xét nghiệm máu cơ bản (công thức máu, đường huyết, TSH, creatinin) hoặc siêu âm bụng",
+     "v": "a",
+     "n": "Xét nghiệm máu nếu có chỉ định (WGO 2025 mục 3.3); Hình 3 bước 4 đặt khi điều trị ban đầu thất bại. Làm hay không đều chấp nhận."
+    },
+    {
+     "t": "Chuyển tuyến tỉnh nội soi đại tràng ngay hôm nay",
+     "v": "a",
+     "n": "Có thể chấp nhận vì chưa sàng lọc (APCS 2022 Statement 3) nhưng không có dấu báo động nên chưa cần khẩn (WGO 2025 Bảng 6)."
+    },
+    {
+     "t": "Magie oxid 400–500 mg/ngày thay PEG",
+     "v": "a",
+     "n": "Là thuốc thẩm thấu bước đầu (AGA-ACG 2023 Khuyến cáo 3, Bảng 4) nhưng tránh khi suy thận; chưa biết eGFR nên ưu tiên PEG."
+    },
+    {
+     "t": "Kê thêm thuốc dị ứng kháng histamin thế hệ 1 hoặc thuốc ngủ cho bác dễ ngủ",
+     "v": "w",
+     "n": "Beers 2023 Bảng 2: tránh kháng histamin thế hệ 1 ở người ≥ 65 tuổi (lú lẫn, khô miệng, táo bón); WGO 2025 Bảng 4."
+    },
+    {
+     "t": "Kê men tiêu hóa, thuốc bổ, dặn uống nhiều nước, không thăm trực tràng",
+     "v": "w",
+     "n": "Bỏ qua ứ phân và thuốc làm nặng; không giải quyết nguyên nhân (WGO 2025 mục 3.3, 4.6)."
+    },
+    {
+     "t": "Bisacodyl 15–20 mg mỗi ngày cho nhanh",
+     "v": "h",
+     "n": "Tối đa 10 mg/ngày; dùng ngắn hạn hoặc cứu (AGA-ACG 2023 Khuyến cáo 5, Bảng 4; WGO 2025 mục 4.6)."
+    },
+    {
+     "t": "Nhập viện hoặc làm CT vì nghi tắc ruột",
+     "v": "w",
+     "n": "Không có dấu tắc ruột (WSES 2018); thuốc uống làm được ngoại trú. CT cũng không làm được ở cơ sở không có X-quang."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng mạn (Rome IV), nặng lên sau căng thẳng vụ lúa, uống ít nước, nhịn đi cầu",
+     "Yếu tố thuốc: chlorpheniramin tự mua mỗi tối (kháng histamin thế hệ 1)",
+     "Ứ phân cứng ở đại tràng xuống và trực tràng; chưa có dấu rối loạn đại tiện",
+     "Chưa có dấu báo động; ung thư đại trực tràng và tắc ruột chưa có dấu hiệu; chưa sàng lọc đại trực tràng",
+     "Nỗi lo thật: sợ đột quỵ khi rặn; HA 138/82 mmHg, khám thần kinh bình thường"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: (1) tần số, rặn, hình dạng phân, chưa hết, thủ thuật hỗ trợ; (2) dấu báo động, tiền sử mổ, đã sàng lọc chưa; (3) từng loại thuốc kể cả thuốc tự mua; (4) nước, xơ, vận động, thói quen nhịn; (5) khởi phát và lý do đi khám hôm nay, hỏi riêng bác. Khám: toàn trạng, bụng, thăm trực tràng bắt buộc (AGA CPU 2026 BPA 2; WGO 2025 mục 3.3), thần kinh khi bác lộ nỗi lo. CLS: không cần X-quang; xét nghiệm máu, FIT, siêu âm là tùy chọn.",
+     "Nhiễu thân nhân: chị Hồng kể đúng điều chị thấy (bón, ăn kém, lo chuyện lúa) nhưng không biết thuốc dị ứng, chuyện nhịn đi cầu, nỗi sợ của ba: phải tách bác ra hỏi riêng.",
+     "Rome IV: ≥ 2 tiêu chuẩn trong 3 tháng, khởi phát ≥ 6 tháng (WGO 2025 Bảng 5). Tiêu chuẩn Rome V người lớn: không có trong tài liệu đã tải (TL-0187 là khảo sát dịch tễ).",
+     "Loại ung thư đại trực tràng: dấu báo động gồm đổi thói quen, sụt cân, thiếu máu thiếu sắt, tắc, khối bụng, ra máu, mới khởi phát (WGO 2025 Bảng 6). Bác chỉ nặng lên, nền bón từ lâu, không dấu nào khác: đánh giá lâm sàng của ca. Vẫn hẹn sàng lọc vì 68 tuổi chưa làm (APCS 2022 Statement 3; USPSTF 2021).",
+     "Loại tắc ruột: không nôn, còn trung tiện, bụng mềm, không mổ (WSES 2018). X-quang bụng không được khuyến cáo (WSES 2018, Level IIC) nên không có máy X-quang không làm mất gì; theo dõi có mốc là cách thay thế.",
+     "Mối liên quan rặn và đột quỵ: không có trong tài liệu đã tải. Trấn an dựa trên khám bình thường và việc làm phân mềm để không phải rặn."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng chlorpheniramin ngay (Beers 2023 Bảng 2; WGO 2025 mục 4.6, Bảng 4). Hắt hơi theo mùa: xịt mũi corticosteroid hoặc kháng histamin thế hệ 2 (ARIA-EAACI 2024–2025 Part II, Bảng 1; Part I mục 5.3.1). Liều: không có trong tài liệu đã tải.",
+     "PEG là thuốc nền, 17 g/ngày, không có liều tối đa rõ (AGA-ACG 2023 Khuyến cáo 2, Bảng 4); lactulose 15 g/ngày là lựa chọn khác (WGO 2025 Bảng 9). Bisacodyl chỉ ngắn hạn hoặc cứu, tối đa 10 mg/ngày (Khuyến cáo 5, Bảng 4).",
+     "Magie oxid tránh khi suy thận (AGA-ACG 2023 Khuyến cáo 3), chưa biết eGFR nên ưu tiên PEG. Psyllium chờ sau khi hết ứ phân, tăng xơ dần tới 20–30 g/ngày (WGO 2025 mục 4.2; BDA 2025 khuyến cáo 1.1, 2.1).",
+     "Giải thích bệnh mạn, kỳ vọng thực tế (AGA CPU 2026 BPA 4). Tái khám 2 tuần với nhật ký đi cầu: mốc của ca."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Macrogol (polyethylene glycol, PEG)",
+      "ham_luong": "Gói bột pha uống (17 g PEG mỗi liều)",
+      "lieu": "17 g × 1 lần/ngày, hòa trong nước",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng đều; đánh giá lại sau 2 tuần",
+      "ghi_chu": "AGA-ACG 2023 Khuyến cáo 2, Bảng 4 (17 g/ngày, không có liều tối đa rõ, đáp ứng bền 6 tháng); WGO 2025 Bảng 9. Tác dụng phụ: chướng, phân lỏng, đau quặn. Lactulose 15 g/ngày thay thế (WGO 2025 Bảng 9). Thể tích nước pha, quy đổi gói trong nước: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Bisacodyl",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên khi 3 ngày liền không đi cầu; tối đa 2 viên (10 mg)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Khi cần, ngắn hạn",
+      "ghi_chu": "AGA-ACG 2023 Khuyến cáo 5, Bảng 4; WGO 2025 mục 4.6. Tác dụng phụ: đau quặn, tiêu chảy. Mốc '3 ngày' là lựa chọn của ca."
+     },
+     {
+      "thuoc": "Chlorpheniramin (thuốc dị ứng bác tự mua)",
+      "ham_luong": "4 mg",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng",
+      "so_ngay": "Ngưng hẳn",
+      "ghi_chu": "Beers 2023 Bảng 2 (tránh ở ≥ 65 tuổi); WGO 2025 Bảng 4. Hắt hơi theo mùa: xịt mũi corticosteroid hoặc kháng histamin thế hệ 2 (ARIA-EAACI 2024–2025 Part II, Bảng 1); liều: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Ngưng thuốc dị ứng đang uống; mang hộp, vỉ thuốc đang dùng khi tái khám.",
+     "Uống PEG mỗi sáng đều kể cả ngày đi được; bisacodyl chỉ khi 3 ngày liền không đi, tối đa 2 viên (10 mg)/ngày (AGA-ACG 2023 Khuyến cáo 5, Bảng 4).",
+     "Buồn đi là đi ngay, đừng nhịn ngoài ruộng; ngồi xổm hoặc kê chân, ngồi cầu sau bữa sáng, không rặn gắng sức (WGO 2025 mục 4.6).",
+     "Uống nước đều trong ngày, mang chai nước ra ruộng; tăng rau, trái cây từ từ (WGO 2025 mục 4.2, 4.6).",
+     "Đến ngay nếu nôn, bụng chướng to, không trung tiện, đau quặn, ra máu hoặc phân đen, sụt cân (WSES 2018; WGO 2025 Bảng 6). Méo miệng, yếu hoặc tê một bên, nói khó, đau đầu dữ dội: đi cấp cứu (lời dặn thông thường, không có trong tài liệu tiêu hóa đã tải).",
+     "FIT hằng năm hoặc nội soi đại tràng mỗi 10 năm, hẹn khi có điều kiện (APCS 2022 Statement 3). Tái khám sau 2 tuần, mang nhật ký đi cầu."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Bác Hai tái khám sau 2 tuần, chị Hồng chở đến, nói 'ba đỡ nhiều rồi'. Sinh hiệu: HA 136/80 mmHg, mạch 76 l/p, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%. Cân nặng 58 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bác Hai đi đo áp lực hậu môn–trực tràng và tống bóng ngay hôm nay chưa phải hướng tối ưu: AGA CPU 2026 BPA 2 cho phép làm sớm, nhưng WGO 2025 mục 3.5 và Hình 3 bước 5 để dành cho người đã thất bại với thuốc chuẩn, mà bác mới dùng PEG hai tuần, còn uống lại thuốc làm bón. Đi tỉnh mất cả ngày giữa vụ gặt, tốn xe và viện phí, quay về vẫn chưa bỏ được thuốc cũ ban đêm.",
+    "nhap_vien": "Nhập viện thụt tháo cho bác Hai là quá tay: bụng mềm, không còn khối phân lớn, còn trung tiện, không dấu tắc (WSES 2018). Làm sạch ruột chỉ nên dùng thưa để khỏi tạo kỳ vọng sai về điều trị lặp lại (AGA CPU 2026 BPA 7). Bác mất ngày công, tốn kém, mà thuốc dị ứng và thói quen nhịn vẫn chưa được giải quyết."
+   },
+   "loi_mo": "Bác sĩ ơi, ba đỡ nhiều rồi, ba nói vậy. Em thấy ba ăn được, vui hơn. Em nói thuốc ba uống đều lắm. Bác sĩ coi thêm giùm.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "136/80",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "do_mot_phan",
+     "noi_dung": "Đi cầu 3 lần/tuần, tăng từ 1 lần/4 ngày. Phân bớt cứng nhưng vẫn còn khúc cứng, vẫn rặn, đi xong vẫn thấy chưa hết. Bụng bớt đầy, ăn ngon hơn; bác nói 'đỡ được nửa'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần sau 2 tuần"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống PEG mỗi sáng 17 g, quên 2 hôm khi đi gặt sớm. Chưa dùng bisacodyl vì 'có hôm 2 ngày không đi chứ chưa tới 3 ngày'. Uống khoảng 5 ly nước, bớt cà phê còn 1 ly. Chị Hồng nói 'ba uống đều'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ PEG gần đủ; bisacodyl chưa tới mốc"
+    },
+    {
+     "id": "thuoc_lai",
+     "noi_dung": "Tuần rồi gió trở, hắt hơi nhiều, bác uống lại thuốc dị ứng cũ 3 buổi tối vì 'hắt hơi không ngủ được'; vỉ thuốc còn trong túi áo. Chị Hồng không biết.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Dùng lại kháng histamin thế hệ 1",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi lại từng loại thuốc kể từ lần trước (kể cả thuốc dị ứng, thuốc ngủ), có bỏ hẳn thuốc dị ứng chưa, hoặc hỏi riêng bác."
+    },
+    {
+     "id": "nhin_lai",
+     "noi_dung": "Ra ruộng gặt sớm, vẫn nhịn đi cầu 2–3 buổi mỗi tuần vì không có nhà vệ sinh gần.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Nhịn đi cầu còn",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi ngoài ruộng bác đi cầu ở đâu, có nhịn không."
+    },
+    {
+     "id": "noi_lo",
+     "noi_dung": "Sau khi bác sĩ khám đầu và nói bình thường, bác bớt lo nhiều. Còn lúc rặn lâu thì vẫn thấp thỏm nên ngồi cầu chóng vánh rồi thôi.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Nỗi lo còn dư",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng bác về nỗi lo còn lại."
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không ra máu, không phân đen, không nôn, còn trung tiện bình thường, không đau quặn. Cân nặng vẫn 58 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu báo động vẫn âm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, môi ẩm hơn, cân nặng 58 kg (không đổi).",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không đau; hết khối phân rõ ở hố chậu trái, chỉ còn đại tràng xuống hơi chắc. Nhu động 6 lần/phút.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Bóng trực tràng còn ít phân vón cứng, không thành khối. Khi bảo rặn, cơ thắt và cơ mu–trực tràng giãn bình thường, đáy chậu hạ nhẹ. Không khối, không hẹp, găng không máu.",
+     "k": 1
+    }
+   },
+   "cls": {},
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng mạn tính, đáp ứng một phần sau 2 tuần điều trị (PEG dùng gần đủ); còn yếu tố làm nặng: dùng lại chlorpheniramin, nhịn đi cầu, uống ít nước; chưa phải táo bón kháng trị",
+     "ok": 1,
+     "n": "Từ 1 lần/4 ngày lên 3 lần/tuần nhưng còn rặn, phân cứng: đáp ứng chậm, chưa đạt. Gọi là kháng trị chỉ khi đã thử đủ lối sống và thuốc chuẩn (AGA CPU 2026 BPA 1); bác còn thuốc làm nặng chưa bỏ và dùng PEG chưa đủ ngày."
+    },
+    {
+     "t": "Rối loạn đại tiện (dyssynergic defecation)",
+     "n": "Thăm trực tràng: cơ thắt giãn bình thường khi rặn, không dùng tay, không cảm giác chặn. Chưa chuyển đo áp lực hậu môn–trực tràng: AGA CPU 2026 BPA 2 cho phép sớm, WGO 2025 mục 3.5 để sau thất bại điều trị chuẩn."
+    },
+    {
+     "t": "Táo bón thứ phát do thuốc (kháng histamin thế hệ 1)",
+     "n": "Bác dùng lại chlorpheniramin 3 buổi tối (Beers 2023 Bảng 2; WGO 2025 Bảng 4); đây là lý do chính khiến chỉ đỡ một phần."
+    },
+    {
+     "t": "Ung thư đại trực tràng và tắc ruột",
+     "n": "Không dấu báo động mới (không máu, không sụt cân, không nôn, còn trung tiện; WGO 2025 Bảng 6; WSES 2018), bụng mềm, đáp ứng với điều trị."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi lại từng thuốc kể từ lần trước, hỏi riêng bác về thuốc dị ứng, chuyện nhịn đi cầu ngoài ruộng",
+     "v": "c",
+     "n": "Kiểm tra tuân thủ và thuốc làm nặng trước khi gọi là kháng trị (AGA CPU 2026 BPA 1, 3; WGO 2025 mục 3.3)."
+    },
+    {
+     "t": "Đánh giá đáp ứng và tuân thủ: đỡ chậm, chưa phải thất bại, tiếp tục điều trị",
+     "v": "c",
+     "n": "Kháng trị chỉ khi đã thử đủ lối sống, thuốc chuẩn (AGA CPU 2026 BPA 1)."
+    },
+    {
+     "t": "Ngưng hẳn chlorpheniramin; hắt hơi thì xịt mũi corticosteroid hoặc kháng histamin thế hệ 2",
+     "v": "c",
+     "n": "Beers 2023 Bảng 2; WGO 2025 mục 4.6, Bảng 4. ARIA-EAACI 2024–2025 Part II, Bảng 1 (xịt mũi corticosteroid hơn kháng histamin uống, thế hệ 2 hơn thế hệ 1, khuyến cáo mạnh). Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Uống PEG đủ 17 g mỗi ngày, nếu 1 tuần sau phân còn cứng thì tăng dần theo đáp ứng",
+     "v": "c",
+     "n": "PEG 17 g/ngày, không có liều tối đa rõ, chỉnh theo đáp ứng (AGA-ACG 2023 Bảng 4). Mức tăng cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bisacodyl 5 mg khi 3 ngày liền không đi (tối đa 10 mg/ngày), dùng cứu",
+     "v": "c",
+     "n": "AGA-ACG 2023 Khuyến cáo 5, Bảng 4; WGO 2025 mục 4.6. Phối hợp thẩm thấu với kích thích khi một thuốc chưa đủ (AGA CPU 2026 BPA 7)."
+    },
+    {
+     "t": "Tăng xơ, nước, đi cầu ngay khi buồn; thêm psyllium khi hết ứ phân",
+     "v": "c",
+     "n": "Xơ tổng 20–30 g/ngày, tăng dần (WGO 2025 mục 4.2; AGA-ACG 2023 Khuyến cáo 1, Bảng 4); psyllium (BDA 2025 khuyến cáo 1.1, 2.1)."
+    },
+    {
+     "t": "Tối ưu thuốc thêm 4 tuần, hẹn tái khám có nhật ký; nếu vẫn không đạt thì mới chuyển đo áp lực hậu môn–trực tràng và tống bóng",
+     "v": "c",
+     "n": "WGO 2025 mục 3.5 và Hình 3 bước 5: thăm dò chức năng sau thất bại thuốc chuẩn; AGA CPU 2026 BPA 2: ARM, tống bóng, biofeedback trước khi gọi kháng trị. Mốc 4 tuần là lựa chọn của ca."
+    },
+    {
+     "t": "Chuyển tuyến đo áp lực hậu môn–trực tràng và tống bóng ngay",
+     "v": "a",
+     "n": "AGA CPU 2026 BPA 2 cho phép làm sớm ở đa số người táo bón mạn; WGO 2025 mục 3.5 để dành sau thất bại: cả hai chấp nhận."
+    },
+    {
+     "t": "Làm xét nghiệm máu, TSH, siêu âm bụng",
+     "v": "a",
+     "n": "Tùy chọn khi chưa thất bại điều trị ban đầu (WGO 2025 Hình 3 bước 4)."
+    },
+    {
+     "t": "Bisacodyl uống hằng ngày kéo dài để 'đi đều'",
+     "v": "w",
+     "n": "Dùng hằng ngày chỉ ngắn hạn (≤ 4 tuần) hoặc cứu ở bước đầu (AGA-ACG 2023 Khuyến cáo 5; WGO 2025 mục 4.6)."
+    },
+    {
+     "t": "Kê lại thuốc dị ứng kháng histamin thế hệ 1 hoặc thuốc ngủ vì bác 'hắt hơi không ngủ được'",
+     "v": "w",
+     "n": "Beers 2023 Bảng 2: tránh ở ≥ 65 tuổi; WGO 2025 Bảng 4."
+    },
+    {
+     "t": "Nhập viện thụt tháo, làm sạch ruột",
+     "v": "w",
+     "n": "Không có dấu tắc (WSES 2018); làm sạch ruột chỉ nên thưa (AGA CPU 2026 BPA 7)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng mạn, đáp ứng một phần sau 2 tuần (3 lần/tuần, còn rặn)",
+     "Yếu tố làm nặng còn: dùng lại chlorpheniramin 3 buổi tối, nhịn đi cầu ngoài ruộng, ít nước, PEG quên 2 hôm",
+     "Cơ thắt giãn bình thường khi rặn; chưa có dấu rối loạn đại tiện; chưa phải kháng trị",
+     "Không dấu báo động; nỗi sợ đột quỵ đã giảm sau khi khám"
+    ],
+    "phan_tich_chan_doan": [
+     "Phân biệt hồi phục chậm với thất bại sớm: sau 2 tuần PEG gần đủ ngày, tần số tăng rõ nhưng chưa đạt; còn thuốc làm nặng và nhịn đi cầu nên chưa đủ điều kiện gọi thất bại (AGA CPU 2026 BPA 1). Phải hỏi riêng bác thì mới ra chuyện dùng lại thuốc dị ứng.",
+     "Chị Hồng nói 'ba uống thuốc đều' nhưng chị không biết bác dùng lại thuốc dị ứng và quên 2 hôm PEG: hỏi từng thuốc, từng ngày.",
+     "Thăm trực tràng lại để tìm rối loạn đại tiện: cơ thắt giãn khi rặn là bình thường (AGA CPU 2026 BPA 2; WGO 2025 mục 3.3). Dấu báo động vẫn âm (WGO 2025 Bảng 6)."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục thuốc nền, bỏ thuốc làm nặng, bisacodyl cứu, tối ưu thêm 4 tuần rồi mới xét chuyển đo áp lực hậu môn–trực tràng (WGO 2025 mục 3.5, Hình 3 bước 5; AGA CPU 2026 BPA 2). Chuyển sớm hơn cũng chấp nhận được vì hai nguồn khác nhau về thời điểm: AGA CPU 2026 làm ARM trước khi gọi kháng trị, WGO 2025 sau thất bại điều trị chuẩn.",
+     "Cho bác một việc cụ thể thay thuốc dị ứng: xịt mũi hoặc kháng histamin thế hệ 2 (ARIA-EAACI 2024–2025 Part II, Bảng 1). Liều: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Macrogol (polyethylene glycol, PEG)",
+      "ham_luong": "Gói bột pha uống (17 g PEG mỗi liều)",
+      "lieu": "17 g × 1 lần/ngày, uống đủ mỗi ngày; nếu sau 1 tuần phân còn cứng thì tăng dần theo đáp ứng (mức tăng: không có trong tài liệu đã tải)",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, đặt gói cạnh bình nước để khỏi quên",
+      "so_ngay": "Dùng đều; đánh giá lại sau 4 tuần",
+      "ghi_chu": "AGA-ACG 2023 Bảng 4 (không có liều tối đa rõ, chỉnh theo đáp ứng); WGO 2025 Bảng 9."
+     },
+     {
+      "thuoc": "Bisacodyl",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên khi 3 ngày liền không đi; tối đa 2 viên (10 mg)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Khi cần, ngắn hạn",
+      "ghi_chu": "AGA-ACG 2023 Khuyến cáo 5, Bảng 4; WGO 2025 mục 4.6."
+     }
+    ],
+    "dan_do": [
+     "Bỏ hẳn thuốc dị ứng cũ; hắt hơi thì hẹn thuốc xịt mũi hoặc thuốc thế hệ 2 (ARIA-EAACI 2024–2025 Part II, Bảng 1).",
+     "PEG uống đủ mỗi sáng kể cả ngày đi gặt sớm; đặt chai nước và gói thuốc vào túi mang ra ruộng.",
+     "Chọn giờ đi cầu cố định sau bữa sáng, trước khi ra ruộng; không nhịn (WGO 2025 mục 4.6).",
+     "Đến ngay nếu nôn, chướng bụng to, bí trung tiện, đau quặn, ra máu hoặc phân đen (WSES 2018; WGO 2025 Bảng 6). Tái khám sau 4 tuần với nhật ký đi cầu (mốc của ca)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 2 tháng",
+   "tiep_don": "Bác Hai quay lại sau khoảng 2 tháng (hẹn 4 tuần nhưng bận gặt lúa), chị Hồng đưa đến. Chị nói ba 'bón lại như cũ' ba tuần nay, ăn kém. Sinh hiệu: HA 138/84 mmHg, mạch 80 l/p, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 97%. Cân nặng 57,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bác Hai đi đo áp lực hậu môn–trực tràng hay nội soi gấp lúc này chưa tối ưu: bác từng đáp ứng tốt với PEG và chỉ bón lại sau khi tự ngưng thuốc, tức chưa thất bại điều trị (AGA CPU 2026 BPA 1, 4; WGO 2025 mục 3.5). Đi tỉnh giữa vụ gặt tốn tiền, mất ngày công, mà bác vẫn chưa hiểu vì sao phải dùng thuốc lâu dài.",
+    "nhap_vien": "Nhập viện thụt tháo cho bác Hai là quá tay: bụng mềm, còn trung tiện, không nôn, cân nặng ổn, chỉ có phân cứng ở trực tràng (WSES 2018). Làm sạch ruột lặp lại dễ tạo kỳ vọng sai về điều trị (AGA CPU 2026 BPA 7); bác nghỉ gặt nhiều ngày mà thói quen tự ngưng thuốc vẫn nguyên."
+   },
+   "loi_mo": "Bác sĩ ơi, ba bón lại rồi, lần này ba rặn nhiều lắm. Em nói ba uống thuốc đều mà ba vẫn bón, hay thuốc hết tác dụng rồi?",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "138/84",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "tai_phat",
+     "noi_dung": "Ba tuần nay 4–5 ngày mới đi một lần, phân cục cứng, rặn nhiều, bụng đầy trở lại, ăn kém. Trong khoảng 4 tuần sau lần khám trước bác đi 5 lần/tuần, phân mềm, hết đầy bụng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Tái phát sau khi từng đỡ"
+    },
+    {
+     "id": "ngung_thuoc",
+     "noi_dung": "Thấy đi cầu đều 4 tuần nên bác tự ngưng PEG, nói 'hết bón rồi, uống hoài hại ruột, tốn tiền'. Chị Hồng tưởng ba vẫn uống vì thấy gói thuốc còn trên kệ.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Tự ngưng thuốc duy trì: chưa hiểu bệnh mạn",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi từng thuốc: uống đến ngày nào, ngày cuối là khi nào; hoặc hỏi riêng bác."
+    },
+    {
+     "id": "di_ung_lai",
+     "noi_dung": "Mùa gió chướng, bác uống lại thuốc dị ứng cũ 4–5 buổi tối mỗi tuần trong ba tuần nay.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Dùng lại kháng histamin thế hệ 1",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi lại thuốc dị ứng, thuốc ngủ, thuốc tự mua; hoặc hỏi riêng bác."
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Vụ thu hoạch: dậy 3 giờ sáng đi gặt, ăn uống thất thường, uống ít nước, nhịn đi cầu ngoài ruộng, vẫn lo giá lúa, ngủ chừng 4 tiếng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Căng thẳng vụ gặt, ít nước, nhịn đi cầu"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không ra máu, không phân đen, không nôn, còn trung tiện, không đau quặn. Cân nặng 57,5 kg (giảm 0,5 kg vì ăn kém khi bón).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rà lại dấu báo động khi tái phát"
+    },
+    {
+     "id": "noi_lo",
+     "noi_dung": "Vài hôm nay bác nghe thêm một người trong xóm bị 'tai biến', rặn lâu lại thấp thỏm; nhưng không đau đầu, không yếu liệt.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Nỗi sợ đột quỵ trở lại",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng bác về nỗi lo hoặc chuyện trong xóm."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm mạc hồng, môi hơi khô, cân nặng 57,5 kg.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng chướng nhẹ, mềm, không đau; có khối phân chắc ở hố chậu trái, không khối khác, gan lách không to. Nhu động 4 lần/phút.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Bóng trực tràng có phân rắn cục, không thành khối lớn, đẩy được. Khi bảo rặn, cơ thắt giãn bình thường. Không khối, không hẹp, găng không máu.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "Hb 136 g/L · BC 7,0 G/L · TC 240 G/L.",
+     "n": "Rà lại dấu báo động khi tái phát: không thiếu máu (WGO 2025 Bảng 6)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng mạn tính tái phát sau khi tự ngưng PEG, kèm dùng lại chlorpheniramin, nhịn đi cầu và căng thẳng vụ gặt; không phải thất bại điều trị, không có dấu báo động",
+     "ok": 1,
+     "n": "Đã từng đáp ứng tốt (5 lần/tuần, phân mềm) khi dùng đều; tái phát sau khi ngưng thuốc. AGA CPU 2026 BPA 4: táo bón mạn thường cần điều trị lâu dài, nhiều người không nhận ra đó là bệnh mạn."
+    },
+    {
+     "t": "Táo bón kháng trị hoặc rối loạn đại tiện",
+     "n": "Chưa thử đủ liều liên tục: không thỏa định nghĩa kháng trị (AGA CPU 2026 BPA 1); cơ thắt giãn bình thường khi rặn (AGA CPU 2026 BPA 2; WGO 2025 mục 3.5)."
+    },
+    {
+     "t": "Ung thư đại trực tràng và tắc ruột (đánh giá lại khi tái phát)",
+     "n": "Không máu, không sụt cân đáng kể (giảm 0,5 kg do ăn kém), Hb 136 g/L, không nôn, còn trung tiện (WGO 2025 Bảng 6; WSES 2018). Nền bón từ lâu, tái phát có lý do giải thích được."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi từng thuốc và hỏi riêng bác: ngưng PEG từ lúc nào, có dùng lại thuốc dị ứng không",
+     "v": "c",
+     "n": "Hỏi thuốc và tuân thủ trước khi kết luận thuốc hết tác dụng (WGO 2025 mục 3.3; AGA CPU 2026 BPA 1, 3)."
+    },
+    {
+     "t": "Rà lại dấu báo động và cân nặng khi tái phát",
+     "v": "c",
+     "n": "Dấu báo động gồm sụt cân, thiếu máu, ra máu, tắc (WGO 2025 Bảng 6); đánh giá lại để chắc không chẩn đoán sai từ đầu."
+    },
+    {
+     "t": "Giải thích: bón lại vì ngưng thuốc, đây là bệnh mạn cần thuốc duy trì lâu dài, không phải thuốc hết tác dụng",
+     "v": "c",
+     "n": "AGA CPU 2026 BPA 4: dặn bệnh nhân kỳ vọng điều trị lâu dài, nhấn mạnh tuân thủ. PEG đáp ứng bền 6 tháng (AGA-ACG 2023 Khuyến cáo 2, Bảng 4); dữ liệu dùng dài hơn 6 tháng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dùng lại PEG 17 g mỗi ngày, bisacodyl 5 mg cứu khi 3 ngày không đi (tối đa 10 mg/ngày)",
+     "v": "c",
+     "n": "AGA-ACG 2023 Khuyến cáo 2, 5, Bảng 4; WGO 2025 mục 4.6."
+    },
+    {
+     "t": "Ngưng thuốc dị ứng cũ; hắt hơi thì xịt mũi corticosteroid hoặc kháng histamin thế hệ 2",
+     "v": "c",
+     "n": "Beers 2023 Bảng 2; ARIA-EAACI 2024–2025 Part II, Bảng 1. Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kế hoạch mùa gặt: đặt giờ đi cầu cố định, mang nước và thuốc ra ruộng, hẹn tái khám 4 tuần rồi 3 tháng; nếu 4 tuần dùng đều đủ liều, bỏ thuốc làm nặng mà vẫn không đạt thì chuyển đo áp lực hậu môn–trực tràng",
+     "v": "c",
+     "n": "Đáp ứng sớm khi buồn đi (WGO 2025 mục 4.6); thăm dò chức năng sau thất bại thuốc chuẩn (WGO 2025 mục 3.5; AGA CPU 2026 BPA 1, 2). Các mốc 4 tuần, 3 tháng là lựa chọn của ca."
+    },
+    {
+     "t": "Nhắc kế hoạch sàng lọc đại trực tràng (FIT hằng năm hoặc nội soi mỗi 10 năm)",
+     "v": "c",
+     "n": "APCS 2022 Statement 3; USPSTF 2021 (50–75 tuổi, hạng A)."
+    },
+    {
+     "t": "Thụt hoặc đặt thuốc hậu môn làm sạch phân tại phòng khám",
+     "v": "a",
+     "n": "Làm sạch ruột có ích khi phân nhiều, nhưng chỉ nên thưa (AGA CPU 2026 BPA 7); khối phân lần này không lớn. Chế phẩm, liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển tuyến đo áp lực hậu môn–trực tràng hoặc nội soi đại tràng theo kế hoạch",
+     "v": "a",
+     "n": "AGA CPU 2026 BPA 2 cho phép làm sớm; nội soi theo sàng lọc (APCS 2022 Statement 3). Chưa thất bại điều trị nên chưa bắt buộc."
+    },
+    {
+     "t": "Magie oxid 400–500 mg/ngày",
+     "v": "a",
+     "n": "AGA-ACG 2023 Khuyến cáo 3, Bảng 4; tránh khi suy thận, chưa biết eGFR nên ưu tiên PEG."
+    },
+    {
+     "t": "Bisacodyl uống hằng ngày kéo dài vì bác 'không chịu uống PEG'",
+     "v": "w",
+     "n": "Dùng hằng ngày chỉ ngắn hạn (≤ 4 tuần) hoặc cứu (AGA-ACG 2023 Khuyến cáo 5; WGO 2025 mục 4.6)."
+    },
+    {
+     "t": "Kê thuốc dị ứng kháng histamin thế hệ 1 hoặc thuốc ngủ",
+     "v": "w",
+     "n": "Beers 2023 Bảng 2: tránh ở ≥ 65 tuổi; WGO 2025 Bảng 4."
+    },
+    {
+     "t": "Nhập viện thụt tháo hoặc CT bụng",
+     "v": "w",
+     "n": "Không có dấu tắc (WSES 2018); làm sạch ruột lặp lại nên tránh (AGA CPU 2026 BPA 7)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng mạn tái phát sau khi tự ngưng PEG",
+     "Yếu tố nền chưa xử lý hết: dùng lại chlorpheniramin, nhịn đi cầu ngoài ruộng, ít nước, căng thẳng vụ gặt",
+     "Chưa phải kháng trị; không rối loạn đại tiện; không dấu báo động",
+     "Sàng lọc đại trực tràng còn treo"
+    ],
+    "phan_tich_chan_doan": [
+     "Tái phát: ba khả năng cần xét theo thứ tự: tuân thủ (bác tự ngưng PEG), nguyên nhân nền chưa xử lý (thuốc dị ứng, nhịn, căng thẳng), chẩn đoán sai từ đầu (rà lại dấu báo động, cân, Hb). Chỉ có hai khả năng đầu giải thích được; chị Hồng tưởng bác còn uống nên phải hỏi riêng bác.",
+     "Bác đã đáp ứng tốt khi dùng đều, nên không gọi là kháng trị (AGA CPU 2026 BPA 1). Cơ thắt giãn bình thường khi rặn, chưa có lý do làm đo áp lực hậu môn–trực tràng ngay (WGO 2025 mục 3.5)."
+    ],
+    "phan_tich_xu_tri": [
+     "Quay lại thuốc nền, bỏ thuốc làm nặng, đặt kế hoạch cho mùa gặt; giải thích bệnh mạn và PEG đáp ứng bền 6 tháng (AGA-ACG 2023 Khuyến cáo 2; AGA CPU 2026 BPA 4). Lo bác nghĩ thuốc 'hại ruột': tài liệu đã tải nêu lo ngại dài hạn với thuốc kích thích (WGO 2025 mục 4.6) nhưng AGA CPU 2026 BPA 7 cho là không có cơ sở; với PEG không có số liệu an toàn trên 6 tháng trong tài liệu đã tải.",
+     "Đánh giá lại sau 4 tuần dùng đều: không đạt mới chuyển đo áp lực hậu môn–trực tràng và tống bóng (AGA CPU 2026 BPA 2; WGO 2025 mục 3.5)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Macrogol (polyethylene glycol, PEG)",
+      "ham_luong": "Gói bột pha uống (17 g PEG mỗi liều)",
+      "lieu": "17 g × 1 lần/ngày, chỉnh theo đáp ứng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng đều lâu dài, đánh giá lại sau 4 tuần",
+      "ghi_chu": "AGA-ACG 2023 Khuyến cáo 2, Bảng 4 (đáp ứng bền 6 tháng); AGA CPU 2026 BPA 4. Không tự ngưng khi đã đi được."
+     },
+     {
+      "thuoc": "Bisacodyl",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên khi 3 ngày liền không đi; tối đa 2 viên (10 mg)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Khi cần, ngắn hạn",
+      "ghi_chu": "AGA-ACG 2023 Khuyến cáo 5, Bảng 4; WGO 2025 mục 4.6."
+     }
+    ],
+    "dan_do": [
+     "PEG là thuốc duy trì, giống thuốc huyết áp: đi được là nhờ thuốc, bỏ thuốc thì bón lại (AGA CPU 2026 BPA 4). Để gói thuốc cạnh bình nước; chị Hồng nhắc mà không kiểm soát.",
+     "Bỏ hẳn thuốc dị ứng cũ; hắt hơi thì xịt mũi hoặc kháng histamin thế hệ 2 (ARIA-EAACI 2024–2025 Part II, Bảng 1).",
+     "Mùa gặt: đi cầu sau bữa sáng trước khi ra ruộng, mang nước, không nhịn (WGO 2025 mục 4.6).",
+     "Đến ngay nếu nôn, chướng bụng to, bí trung tiện, đau quặn, ra máu hoặc phân đen, sụt cân (WSES 2018; WGO 2025 Bảng 6). Hẹn tái khám 4 tuần rồi 3 tháng (mốc của ca)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bác Hai dùng lại PEG đều mỗi sáng và bỏ hẳn thuốc dị ứng cũ; hắt hơi thì xịt mũi khi cần. Sau 4 tuần bác đi cầu 4–5 lần/tuần, phân mềm, ăn ngon trở lại; chị Hồng giữ gói thuốc cạnh bình nước cho ba. Bác đi nội soi đại tràng ở bệnh viện tỉnh sau mùa gặt theo kế hoạch sàng lọc (kết quả ngoài phạm vi ca). Tái phát xảy ra vì chuỗi bị gãy ở hai chỗ: thuốc làm nặng chưa bỏ hẳn từ lượt 2, và bác tự ngưng thuốc nền vì chưa hiểu đó là bệnh mạn; chẩn đoán gốc không sai.",
+ "nhieu": [
+  "Thân nhân trả lời thay: chị Hồng kể đúng điều chị thấy nhưng không biết thuốc dị ứng, chuyện nhịn đi cầu, việc ngưng PEG, nỗi sợ đột quỵ. Phải hỏi thẳng bác hoặc mời chị ra ngoài; chị khẳng định 'ba uống thuốc đều' ở lượt 2 và 3 trong khi điều đó không đúng.",
+  "Không có X-quang: loại tắc ruột bằng lâm sàng và theo dõi có mốc (2 tuần, 4 tuần); siêu âm bụng chỉ là tùy chọn; nội soi và đo áp lực hậu môn–trực tràng ở bệnh viện tỉnh.",
+  "Thuốc dị ứng tự mua bị coi là 'không phải thuốc': hỏi 'có uống thuốc gì không' chưa đủ, phải hỏi cụ thể thuốc dị ứng, thuốc ngủ, thuốc mua ở tiệm."
+ ],
+ "bai_hoc_bien": [
+  "Thân nhân trả lời thay: tách người bệnh ra hỏi riêng. Thuốc tự mua, nhịn đi cầu, nỗi sợ (lượt 1), dùng lại thuốc (lượt 2), tự ngưng thuốc (lượt 3) chỉ bác biết.",
+  "Rà thuốc kể cả thuốc dị ứng: kháng histamin thế hệ 1 gây táo bón và nên tránh từ 65 tuổi (Beers 2023 Bảng 2; WGO 2025 Bảng 4).",
+  "Đỡ một phần sau 2 tuần chưa phải thất bại: kiểm tra tuân thủ từng thuốc, thuốc làm nặng, thói quen nhịn trước khi gọi kháng trị (AGA CPU 2026 BPA 1).",
+  "Lý do thật là sợ đột quỵ: hỏi 'bác lo điều gì nhất', khám thần kinh, trấn an dựa trên khám; liên quan rặn và đột quỵ không có trong tài liệu đã tải.",
+  "Tái phát: ba câu hỏi theo thứ tự (tuân thủ, nguyên nhân nền chưa xử lý, chẩn đoán sai), rà lại dấu báo động; táo bón mạn cần điều trị lâu dài (AGA CPU 2026 BPA 4).",
+  "Không có X-quang không làm mất gì khi loại tắc ruột: X-quang bụng không được khuyến cáo (WSES 2018, Level IIC); thăm trực tràng và theo dõi có mốc thay thế."
+ ],
+ "diem_nho": [
+  "Rome IV: ≥ 2 trong rặn, phân cứng, chưa hết, cảm giác chặn, thủ thuật hỗ trợ, < 3 lần/tuần; 3 tháng, khởi phát ≥ 6 tháng (WGO 2025 Bảng 5). Rome V người lớn: không có trong tài liệu đã tải.",
+  "PEG 17 g/ngày là thuốc nền (AGA-ACG 2023 Khuyến cáo 2, Bảng 4); bisacodyl 5 mg, tối đa 10 mg/ngày, ngắn hạn hoặc cứu (Khuyến cáo 5); magie oxid tránh khi suy thận (Khuyến cáo 3).",
+  "Kháng trị chỉ khi đã thử đủ lối sống, thuốc chuẩn; ARM và tống bóng trước khi gọi kháng trị (AGA CPU 2026 BPA 1, 2); WGO 2025 mục 3.5 để sau thất bại thuốc chuẩn.",
+  "Sàng lọc đại trực tràng: FIT mỗi 1–2 năm hoặc nội soi mỗi 10 năm (APCS 2022 Statement 3); 50–75 tuổi hạng A (USPSTF 2021).",
+  "Applicability (60–74 tuổi): các guideline đã tải không có khuyến cáo riêng cho tuổi này ngoài Beers 2023; mốc tái khám, thời gian dùng PEG dài hơn 6 tháng: không có trong tài liệu đã tải."
+ ],
+ "nguon": [
+  "WGO Global Guideline – Chronic Constipation 2025 – kho cũ tltk-10000-ca (02 Tiêu hóa – gan mật/Quốc tế) – mục 3.2–3.5, 4.1, 4.2, 4.6, 4.7; Bảng 3, 4, 5, 6, 9; Hình 3",
+  "AGA-ACG 2023 – Pharmacological management of chronic idiopathic constipation – TL-0208 – Khuyến cáo 1–5 (Bảng 1), Bảng 4",
+  "AGA Clinical Practice Update 2026 – Refractory constipation – TL-0184 – Best Practice Advice 1–4, 7",
+  "BDA 2025 – Dietary management of chronic constipation in adults – kho cũ tltk-10000-ca – khuyến cáo 1.1, 2.1; mục Additional fluids",
+  "AGS Beers 2023 – TL-0022 – Bảng 2 (Antihistamines, first-generation)",
+  "ARIA-EAACI 2024–2025 – Allergic rhinitis Part II (oral and ocular treatments), kho cũ tltk-10000-ca – Bảng 1; Part I – TL-0546 – mục 5.3.1, 5.1.2",
+  "WSES Bologna 2018 – tắc ruột do dính – TL-0093 – mục Definitions, History taking and physical examination, bảng Recommendations (Level IIC)",
+  "Asia-Pacific Working Group 2022 – Colorectal cancer screening – TL-0217 – Statement 3; USPSTF 2021 – TL-0221 – tuổi 50–75 (Grade A)",
+  "Rome V 2026 (TL-0187): bản đã tải là khảo sát dịch tễ, không có tiêu chuẩn chẩn đoán táo bón người lớn; dùng Rome IV qua WGO 2025.",
+  "Không có trong tài liệu đã tải: tiêu chuẩn Rome V người lớn; liên quan giữa rặn và đột quỵ; liều xịt mũi corticosteroid và kháng histamin thế hệ 2; mức tăng liều PEG khi chưa đủ; thể tích nước pha PEG; chế phẩm, liều thụt/đặt thuốc làm sạch phân; an toàn PEG trên 6 tháng; mốc tái khám 2 tuần, 4 tuần, 3 tháng; thời hạn hẹn FIT/nội soi."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-20: viết ca TH-0896 (3 lượt). Tài liệu đã đọc: WGO 2025 (mục 3.2–3.5, 4.1, 4.2, 4.6, 4.7, 4.9; Bảng 3–6, 8, 9; Hình 3), AGA-ACG 2023 TL-0208 (Khuyến cáo 1–10, Bảng 4), AGA CPU 2026 TL-0184 (BPA 1–4, 7), BDA 2025, Beers 2023 TL-0022 Bảng 2, ARIA-EAACI 2024–2025 Part I TL-0546 và Part II, WSES 2018 TL-0093, APCS 2022 TL-0217, USPSTF 2021 TL-0221.",
+  "Thiếu tài liệu: Rome V người lớn; liên quan rặn và đột quỵ; liều thuốc xịt mũi và kháng histamin thế hệ 2; mức tăng PEG; an toàn PEG dài hạn; mốc tái khám.",
+  "Dùng lại mục sổ mâu thuẫn: TH-0870 (Rome IV, bisacodyl, magie oxid), TH-0889 (thời điểm chuyển ARM), TH-0913 (PEG hay lactulose, chất xơ), chlorpheniramin ≥ 65 tuổi (HH-0223). Ghi nhận mới không phải mâu thuẫn: nước uống thêm (WGO 2025 so với BDA 2025).",
+  "Chi tiết do ca tự chọn: tên, nghề, cân nặng, mốc '3 ngày không đi' cho bisacodyl, mốc tái khám 2 tuần, 4 tuần, 3 tháng; thuốc dị ứng là chlorpheniramin 4 mg (ghi theo Beers 2023, WGO 2025 Bảng 4 chỉ nêu diphenhydramin, doxylamin); xét nghiệm máu, FIT, siêu âm chấm `a`; lượt 2 không cần CLS mới.",
+  "Ràng buộc nguồn lực: khoa_cls khai xquang (app tự khóa CT, nội soi); siêu âm bụng, FIT, xét nghiệm máu làm được."
+ ]
+}
