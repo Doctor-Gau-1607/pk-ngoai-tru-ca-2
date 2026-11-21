@@ -1,0 +1,797 @@
+{
+ "ma_ca": "TH-1013",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_viem_gan_b_man",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Viêm gan B mạn",
+  "chan_doan_phai_loai_tru": [
+   "Xơ gan",
+   "Ung thư gan (HCC)"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Tiểu thương chợ (bán trái cây)",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu (xe khách 9 giờ)",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi co mạch dùng kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Huỳnh Thị Bưởi",
+  "tuoi": 77,
+  "gioi": "Nữ",
+  "nghe": "Bán trái cây ở chợ (vẫn đứng sạp)",
+  "can_nang": 46,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ'; gọi cháu là 'con Ngọc'.",
+  "tinh_cach": "Nhanh nhẹn, nói to, mặc cả quen miệng; cả đời buôn bán nên tính từng đồng. Nghe hơi kém tai phải nên hay hỏi lại. Học hết lớp 2, đọc chữ chậm. Tin bà bán hàng cạnh sạp hơn giấy tờ.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: bà chỉ mang khoảng 300.000 đồng, cháu Ngọc có thể thêm 100.000; lần nào cũng hỏi 'cái này bao nhiêu?', xin 'làm cái nào quan trọng nhất thôi', nói 'vài triệu thì bà về'. Bác sĩ phải tự xếp thứ tự xét nghiệm đổi được quyết định và nói rõ giá. Lúc đầu bà chỉ kể mệt, ăn kém, tờ giấy hẹn; chuyện sụt cân, tức sườn, thuốc nhỏ mũi và nỗi sợ ung thư gan chỉ kể khi được hỏi cụ thể, nhẹ nhàng. Lượt 2 bà né chuyện đã ngưng thuốc, chỉ nhận khi được hỏi cụ thể.",
+  "nguoi_nha": "Cháu gái Ngọc, 24 tuổi, phụ bán trái cây, sống cùng bà, đưa bà đi khám. Ngọc biết bà ăn ít, gầy đi, nhỏ mũi suốt ngày; không biết bà tức sườn vì bà giấu; không để ý bà ngưng thuốc ở lượt 2. Ngọc trả lời thay khi hỏi về tiền, giấy tờ, đường đi (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Ngọc (cháu gái)",
+  "ngoai_hinh": {
+   "da": "#c8996f",
+   "toc": "#cfcac2",
+   "kieuToc": "bui",
+   "ao": "#8a6f58",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#d9aa84",
+    "toc": "#1c1512",
+    "kieuToc": "dai",
+    "ao": "#5b7f6b",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tái khám theo giấy hẹn của trạm y tế; mệt, ăn kém sau chuyến xe đường dài",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám đa khoa này không có máy siêu âm (kéo theo không có FibroScan, CT bụng và nội soi tiêu hóa tại chỗ); siêu âm bụng làm ở bệnh viện huyện cách 15 km. Có xét nghiệm sinh hóa, huyết học, huyết thanh HBV, HBV DNA (gửi mẫu, có kết quả sau vài ngày) và AFP."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Huỳnh Thị Bưởi, 77 tuổi, bán trái cây ở chợ, đi cùng cháu gái Ngọc, đến theo giấy hẹn của trạm y tế phường (khám sức khỏe người cao tuổi cách đây 4 tuần). Mệt, ăn kém, hơi choáng váng khi đứng dậy từ sau chuyến xe khách 9 giờ về quê giỗ. Sinh hiệu: HA 138/78 mmHg, mạch 80 l/p, nhiệt độ 36,6 °C, nhịp thở 18 l/p, SpO₂ 96%. Cân nặng 46 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Chỉ hẹn xem lại men gan mà chưa cho thuốc kháng vi rút là bỏ lỡ chỉ định: APRI 0,89 (trên 0,5) đã đủ tiêu chuẩn điều trị, không phụ thuộc HBV DNA hay ALT (QĐ 1740/2026 mục 4.2.3a; WHO 2024 Chapter 5). Bà tính từng đồng, hết mệt là dễ không quay lại, trong khi vi rút tiếp tục gây xơ hóa và anh ruột bà đã mất vì ung thư gan. Nếu chờ làm HBV DNA thì phải hẹn lịch cụ thể: EASL 2025 theo dõi ALT, HBV DNA mỗi 3–6 tháng trong năm đầu cho tới khi xác định chỉ định.",
+    "nhap_vien": "Bà ổn định, không vàng da, không báng, không lú lẫn: nhập viện là không cần, cấp ban đầu quản lý được viêm gan B giai đoạn ổn định (QĐ 1740 mục 4.5). Bà mất thu nhập từ sạp, Ngọc phải bỏ bán ở lại, hóa đơn vượt xa 400.000 đồng bà mang, và bà tin 'vào viện là bệnh nặng' nên dễ bỏ theo dõi.",
+    "chuyen_tuyen": "Gửi bà lên bệnh viện tỉnh ngay để làm trọn gói là quá tay: chưa có mất bù hay nghi thất bại điều trị, hai trường hợp QĐ 1740 mục 4.5 yêu cầu chuyển cấp chuyên sâu. Siêu âm làm theo hẹn ở bệnh viện huyện 15 km; HBV DNA (500.000 đồng), huyết thanh (600.000 đồng) vượt số tiền bà mang, bà sẽ bỏ về không nhận thuốc."
+   },
+   "loi_mo": "Chào bác sĩ. Trạm y tế dặn tôi lên đây khám lại cho đúng hẹn, giấy hẹn đây. Mấy bữa nay tôi mệt, không muốn ăn, đi xe khách về quê giỗ về là rã rời luôn.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "138/78",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bà đến vì tờ giấy hẹn của trạm y tế phường ghi hôm nay phải đến khám lại và thử máu tiếp. Mấy ngày nay bà mệt rã rời, ăn không vô, hơi choáng váng khi đứng dậy, từ sau chuyến xe khách về quê giỗ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (tái khám theo hẹn)"
+    },
+    {
+     "id": "giay_hen",
+     "noi_dung": "Bốn tuần trước, trạm y tế phường khám sức khỏe người cao tuổi: HBsAg (test nhanh) dương tính; mẫu máu gửi về trung tâm y tế cho AST 66, ALT 82 U/L. Không có HBV DNA, không siêu âm. Cô y tá dặn 'viêm gan B, lên phòng khám khám và thử thêm, có thể phải uống thuốc'; bà chưa hiểu, cất tờ giấy trong túi áo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "HBsAg dương, men gan tăng từ trạm y tế"
+    },
+    {
+     "id": "xe_khach",
+     "noi_dung": "Mười ngày trước bà đi xe khách 9 giờ về quê giỗ, ngồi gò một chỗ, ít uống nước vì ngại đi vệ sinh. Suốt chuyến thấy tức nhẹ bên sườn phải. Về tới nhà thì mệt rã rời, ăn không vô, đứng lên hơi choáng; bà nghĩ 'tại đi xe lâu'. Nghỉ mấy hôm vẫn không hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau ngồi xe lâu"
+    },
+    {
+     "id": "an_kem",
+     "noi_dung": "Ăn kém khoảng 3 tháng nay, sụt từ 48 xuống 46 kg (quần phải thắt dây), tức nhẹ hạ sườn phải về chiều và khi nằm nghiêng phải. Bà cho rằng 'già thì ăn ít, đau mình mẩy' nên không kể.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'còn triệu chứng nào khác' thì bà nói không. Chỉ kể khi bác sĩ hỏi cụ thể về ăn uống, cân nặng, quần áo rộng ra, tức hay đau vùng bụng.",
+     "k": 1,
+     "y": "Sụt cân, chán ăn, tức hạ sườn phải (bệnh gan tiến triển, loại trừ HCC)"
+    },
+    {
+     "id": "thuoc_mui",
+     "noi_dung": "Bà nhỏ thuốc nhỏ mũi co mạch (lọ nhỏ mua ở tạp hóa) 3–4 lần mỗi ngày, hơn 8 tháng nay, vì sáng nào cũng nghẹt mũi, 'không nhỏ thì không thở được'. Bà không coi đó là thuốc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì bà nói 'có uống gì đâu'. Chỉ kể khi bác sĩ hỏi cụ thể thuốc nhỏ, xịt mũi, hoặc có nghẹt mũi không.",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc nhỏ mũi co mạch kéo dài"
+    },
+    {
+     "id": "khong_vang",
+     "noi_dung": "Không vàng da vàng mắt, nước tiểu hơi vàng đậm vì ít uống nước (không như nước trà), phân vàng, không ngứa, không sốt, không nôn máu hay đi cầu phân đen, bụng không to, không lú lẫn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc mất bù, viêm gan cấp"
+    },
+    {
+     "id": "thuoc_doc_gan",
+     "noi_dung": "Không uống rượu, không uống paracetamol hay thuốc giảm đau xương khớp, không thuốc nam, thuốc bắc, thực phẩm chức năng, không thuốc dạ dày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rà thuốc, thảo dược độc gan"
+    },
+    {
+     "id": "phoi_nhiem",
+     "noi_dung": "Không truyền máu, không xăm, không phẫu thuật; sinh 5 người con ở nhà. Chưa từng thử máu viêm gan, không biết mình nhiễm từ lúc nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phơi nhiễm HBV; không gợi ý viêm gan cấp"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Anh ruột mất vì ung thư gan năm 64 tuổi, nghe nói sau khi thử máu 'bị viêm gan'. Người con trai ở thành phố và cháu Ngọc chưa ai thử máu viêm gan B.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình ung thư gan; người nhà cần sàng lọc"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Bà bán trái cây được khoảng 150–200 nghìn đồng mỗi ngày. Hôm nay bà mang khoảng 300.000 đồng, Ngọc có thể thêm 100.000. Xét nghiệm ở đây bà tự trả; bà hỏi giá từng cái và nói nếu vài triệu thì bà về. Bệnh viện huyện cách 15 km, xe khách một chuyến.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ràng buộc tiền: xếp ưu tiên xét nghiệm"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Bà sợ nhất 'bệnh gan thành ung thư như anh Hai', sợ phải uống thuốc cả đời mà hết tiền, sợ bỏ sạp thì không ai bán. Vì vậy mấy tuần nay bà không muốn đọc lại tờ giấy hẹn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà lo nhất điều gì, hoặc vì sao bà ngại đến, và nói nhẹ nhàng, không đe dọa.",
+     "k": 1,
+     "y": "Nỗi lo thật: ung thư gan, tiền thuốc cả đời"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng đo huyết áp cao, không tiểu đường, không bệnh tim. Đi lại tự lo, không té.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Gầy (46 kg, BMI 20,4), tỉnh, nghe hơi kém tai phải. Niêm mạc hồng nhạt, củng mạc không vàng, da khô. Không sao mạch, không lòng bàn tay son, không phù, không hạch thượng đòn.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Bờ dưới gan sờ được dưới bờ sườn phải khoảng 2 cm khi hít sâu, mật độ chắc nhẹ, bờ đều, ấn tức nhẹ, không sờ thấy khối. Lách không sờ thấy. Gõ không đục vùng thấp, không tuần hoàn bàng hệ, không báng.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 138/78 mmHg, mạch 80 l/p; đứng 1 phút 132/76 mmHg, mạch 86 l/p, hơi choáng váng thoáng qua, không ngất.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi đỏ sẫm, phù nề, cuốn mũi dưới quá phát hai bên, không mủ. Họng không đỏ, amiđan không to. Tai bình thường.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 123 g/L · MCV 92 fL · Tiểu cầu 158 G/L",
+     "n": "Tiểu cầu cần để tính APRI (QĐ 1740 Phụ lục 2) và theo dõi (Bảng 5). 50.000 đồng.",
+     "bang": {
+      "wbc": 5.9,
+      "neu_pct": 58.0,
+      "neu": 3.42,
+      "lym_pct": 32.0,
+      "lym": 1.89,
+      "mono_pct": 7.0,
+      "mono": 0.41,
+      "eos_pct": 2.5,
+      "eos": 0.15,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.0,
+      "hgb": 123,
+      "hct": 0.37,
+      "mcv": 92.5,
+      "mch": 30.8,
+      "mchc": 332,
+      "rdw": 13.7,
+      "plt": 158
+     }
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 56 · ALT 78 U/L (ALT gấp 4,1 lần ULN nữ 19 U/L; APRI = (56/40 × 100)/158 = 0,89)",
+     "n": "ULN ALT nữ 19 U/L, nam 30 U/L (QĐ 1740 mục 4.1.2b; WHO 2024 Chapter 5); ALT 78 cũng vượt mốc trên 40 U/L của EASL 2025 nên không chạm khác biệt. AST để tính APRI (ULN AST 40 U/L; QĐ 1740 Phụ lục 2). 50.000 đồng."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 6,1 mmol/L · Creatinin 84 µmol/L · eGFR 62 mL/ph/1,73m² (độ thanh thải creatinin ước tính theo Cockcroft–Gault khoảng 36 mL/phút với cân nặng 46 kg)",
+     "n": "Tuổi cao, nhẹ cân dưới 50 kg là yếu tố nguy cơ thận khi chọn thuốc; phải đánh giá creatinin, mức lọc cầu thận trước điều trị (QĐ 1740 mục 4.2.3b, Bảng 3). Phụ lục 4 chia theo CrCl (30–49 mL/phút). Công thức Cockcroft–Gault không có trong tài liệu đã tải. 50.000 đồng.",
+     "bang": {
+      "ure": 6.1,
+      "creat": 84,
+      "egfr": 62
+     }
+    },
+    "afp": {
+     "v": "e",
+     "r": "AFP 6,2 ng/mL (bình thường dưới 20)",
+     "n": "Không có siêu âm nên AFP là phương tiện tầm soát HCC làm được hôm nay; bà thuộc nhóm nguy cơ cao (HBV mạn, anh ruột ung thư gan): siêu âm và AFP mỗi 6 tháng (TL-0169 mục 3.1, 3.2; WHO 2024 Chapter 18). AFP bình thường không loại trừ HCC. 120.000 đồng."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "(Phòng khám không có máy siêu âm. Siêu âm bụng làm ở bệnh viện huyện cách 15 km.)",
+     "thay_the": "afp",
+     "n": "Siêu âm là phương tiện tầm soát HCC chính và giúp tìm xơ gan (TL-0169 mục 3.2; QĐ 1740 Bảng 5). Không có tại chỗ nên dùng AFP và khám gan, rồi hẹn siêu âm nơi khác khi có điều kiện."
+    },
+    "chuc_nang_gan": {
+     "v": "u",
+     "r": "Bilirubin toàn phần 15, trực tiếp 5 µmol/L · ALP 98 · GGT 62 U/L · Albumin 37 g/L · INR 1,1",
+     "n": "Hữu ích nhưng 200.000 đồng: thêm vào ba xét nghiệm kia và AFP thì vượt 400.000 đồng. Khám không có vàng da, báng, lú lẫn nên hoãn được (QĐ 1740 mục 4.1.2a; Bảng 5: bilirubin, INR, albumin 12–24 tuần/lần khi nghi xơ gan)."
+    },
+    "hbv_dna": {
+     "v": "a",
+     "r": "HBV DNA 2,4 × 10^5 IU/mL (5,4 log10)",
+     "n": "Chấp nhận, không bắt buộc hôm nay: 500.000 đồng vượt tiền mang theo, không đổi quyết định vì APRI trên 0,5 đã đủ chỉ định (QĐ 1740 mục 4.2.3a; WHO 2024 Chapter 5). Làm mốc cho tuần 12 (Bảng 5) khi có tiền; EASL 2025 dựa HBV DNA để xác định chỉ định."
+    },
+    "hbv_huyet_thanh": {
+     "v": "a",
+     "r": "HBeAg âm · anti-HBe dương · anti-HBc IgM âm · HBsAg định lượng 3.600 IU/mL · anti-HDV âm",
+     "n": "Chấp nhận, hoãn (600.000 đồng): HBeAg/anti-HBe chỉ giúp xác định giai đoạn (QĐ 1740 mục 4.1.2b); anti-HDV 'nếu có điều kiện' (mục 4.2.6c)."
+    },
+    "virus_mau": {
+     "v": "a",
+     "r": "HBsAg dương tính · anti-HCV âm tính · HIV âm tính",
+     "n": "HBsAg đã có từ trạm y tế. Anti-HCV cho mọi người nhiễm HBV (QĐ 1740 mục 4.2.6a) nhưng 250.000 đồng, hoãn khi có tiền."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Protein âm tính · glucose âm tính · hồng cầu âm tính",
+     "n": "Mốc nước tiểu: làm ở tháng đầu sau khi dùng thuốc kháng vi rút cùng creatinin (QĐ 1740 Bảng 5)."
+    },
+    "huyet_thanh_hav_hev": {
+     "n": "Không có phơi nhiễm trong 4–24 tuần, không vàng da, ALT tăng không do cấp (QĐ 1740 mục 3.1); 450.000 đồng, hoãn."
+    },
+    "lipid": {
+     "n": "Mốc mỡ máu khi dùng TAF làm ở 24–48 tuần (QĐ 1740 Bảng 5), chưa cần hôm nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm gan B mạn (HBsAg dương, AST/ALT tăng kéo dài ít nhất 4 tuần) có xơ hóa gan đáng kể (APRI 0,89), chưa có dấu mất bù, đủ tiêu chuẩn điều trị; ở bà 77 tuổi, nhẹ cân 46 kg, mức lọc giảm nhẹ; HBV DNA và HBeAg chưa làm vì tiền",
+     "ok": 1,
+     "n": "HBsAg dương ở người lớn là nhiễm HBV mạn (QĐ 1740 mục 4.1.1). APRI trên 0,5 là xơ hóa đáng kể ≥F2, đủ tiêu chuẩn điều trị không phụ thuộc DNA và ALT (mục 4.2.3a, Phụ lục 2). Bà không có tiền sử phơi nhiễm 4–24 tuần, không vàng da (mục 3.1)."
+    },
+    {
+     "t": "Xơ gan",
+     "n": "APRI 0,89 chưa vượt 1 (xơ gan nếu trên 1; QĐ 1740 Phụ lục 2), không sao mạch, lòng bàn tay son, báng; lách không to. FIB-4 ≈ 3,09: trên 2,67 (ngưỡng chung) nhưng dưới 3,25 (ngưỡng hiệu chỉnh cho người từ 65 tuổi, APASL 2026). Chưa loại trừ hoàn toàn khi không siêu âm, FibroScan: hẹn siêu âm bụng (Bảng 5)."
+    },
+    {
+     "t": "Ung thư gan (HCC)",
+     "n": "Gan chắc nhẹ, không khối sờ thấy, AFP 6,2; nhưng sụt 2 kg, tức hạ sườn phải, anh ruột chết vì ung thư gan: nguy cơ cao. AFP bình thường không loại trừ; cần siêu âm khi có điều kiện (TL-0169 mục 3.2; WHO 2024 Chapter 18)."
+    },
+    {
+     "t": "Viêm gan B cấp",
+     "n": "Không phơi nhiễm trong 4–24 tuần, không vàng da, gan chắc (QĐ 1740 mục 3.1). IgM anti-HBc chưa làm vì tiền; HBsAg còn dương sau 6 tháng sẽ xác nhận mạn (mục 3.4.3)."
+    },
+    {
+     "t": "Tổn thương gan do thuốc hoặc thảo dược",
+     "n": "Không uống paracetamol, thuốc nam, thực phẩm chức năng, rượu (QĐ 1740 mục 4.2.3b). Thuốc nhỏ mũi tại chỗ: tài liệu đã tải không nêu độc gan."
+    },
+    {
+     "t": "Mệt do mất nước sau chuyến xe",
+     "n": "Có thật (ít uống nước, đứng lên hơi choáng) nhưng không giải thích ALT gấp 4 lần ULN, sụt cân, gan chắc."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xếp ưu tiên xét nghiệm theo 400.000 đồng: làm hôm nay công thức máu, AST/ALT, creatinin, AFP (270.000 đồng); hoãn bilirubin–albumin–INR, HBV DNA, huyết thanh HBV (HBeAg, anti-HDV), anti-HCV/HIV; nói rõ giá và lý do từng cái",
+     "v": "c",
+     "n": "APRI cần AST và tiểu cầu; creatinin để chọn thuốc (QĐ 1740 mục 4.2.3a, 4.2.3b, Phụ lục 2); AFP thay siêu âm tại chỗ (TL-0169 mục 3.2). HBV DNA không đổi quyết định hôm nay vì APRI trên 0,5 đủ chỉ định không phụ thuộc DNA (mục 4.2.3a; WHO 2024 Chapter 5); anti-HCV, anti-HDV làm khi có điều kiện (mục 4.2.6a, 4.2.6c)."
+    },
+    {
+     "t": "Bắt đầu thuốc kháng vi rút lâu dài ngay hôm nay vì APRI trên 0,5: tenofovir alafenamide (TAF) 25 mg mỗi ngày, hoặc entecavir (ETV) giảm liều theo thận (0,25 mg mỗi ngày hoặc 0,5 mg mỗi 48 giờ khi CrCl 30–49 mL/phút); hoặc chưa khởi trị mà chờ làm HBV DNA khi có tiền, kèm lịch hẹn cụ thể",
+     "v": "c",
+     "n": "Khởi trị theo QĐ 1740 mục 4.2.3a, WHO 2024 Chapter 5, APASL 2026 (xơ hóa nơi nguồn lực hạn chế) hoặc xác nhận chỉ định bằng HBV DNA theo EASL 2025 mục Treatment indications (APRI hạn chế ở HBV). Chọn thuốc: TDF tránh khi CrCl dưới 50, tuổi cao, dưới 50 kg (Bảng 3), TAF không chỉnh liều, ETV chỉnh theo Phụ lục 4; TDF vẫn là thuốc ưu tiên của WHO 2024 Chapter 6 (sổ mâu thuẫn 'Từ ca TH-1074')."
+    },
+    {
+     "t": "Hẹn siêu âm bụng ở bệnh viện huyện khi có điều kiện để tìm xơ gan, HCC; sau đó tầm soát mỗi 6 tháng (hoặc siêu âm 12–24 tuần, chỉ dấu ung thư gan 24 tuần)",
+     "v": "c",
+     "n": "HBV mạn là nhóm nguy cơ cao: siêu âm và AFP mỗi 6 tháng (TL-0169 mục 3.1, 3.2; WHO 2024 Chapter 18, thêm tiền sử gia đình HCC; EASL 2025 mục HCC surveillance); QĐ 1740 Bảng 5: siêu âm 12–24 tuần/lần, chỉ dấu 24 tuần/lần. Mốc làm siêu âm lần đầu không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tư vấn trước điều trị, nói bằng lời thường: viêm gan B mạn là gì, thuốc uống lâu dài có thể cả đời và không tự ngưng (nguy cơ bùng phát); tránh rượu, thuốc nam, thực phẩm chức năng, paracetamol liều cao; trả lời nỗi sợ ung thư và tiền thuốc",
+     "v": "c",
+     "n": "QĐ 1740 mục 4.2.2 (điều trị NAs lâu dài, tuân thủ), mục 4.2.3b (nội dung tư vấn), mục 4.2.5b (nguy cơ bùng phát sau ngưng). Giá thuốc và bảo hiểm chi trả không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần với creatinin và nước tiểu (tháng đầu sau thuốc), đánh giá tuân thủ; sau đó 12 tuần/lần trong năm đầu, kèm HBV DNA tuần 12 khi có tiền; cấp thuốc 4 tuần hôm nay; dặn mang vỏ thuốc theo",
+     "v": "c",
+     "n": "QĐ 1740 Bảng 5: creatinin, nước tiểu ở tháng đầu; tái khám và cấp thuốc 12 tuần/lần ở nhóm năm đầu; đánh giá tuân thủ mỗi lần; HBV DNA tuần 12, 24, 48. Mốc 4 tuần là lựa chọn của ca (bà ngại quay lại, cần mốc thận); không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi và xử lý thuốc nhỏ mũi co mạch dùng 8 tháng: giảm dần rồi ngưng, rửa mũi nước muối 0,9%; không liên quan gan nhưng gây nghẹt mũi dội",
+     "v": "c",
+     "n": "Dùng thuốc co mạch nhỏ mũi lâu dài gây nghẹt mũi dội (EPOS 2020 Bảng 10.1.1); thuốc co mạch dưới 10 ngày (EPOS 2020 Hình 1.4.1); rửa mũi NaCl 0,9% (QĐ 5643/2015 bài Ngạt mũi mục 4.1). Cách giảm dần liều không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhắc người nhà: cháu Ngọc, con trai xét nghiệm HBsAg và tiêm vắc xin viêm gan B nếu chưa nhiễm; không dùng chung dao cạo, bàn chải",
+     "v": "c",
+     "n": "QĐ 1740 mục 4.2.3b (tư vấn phòng lây nhiễm, vắc xin cho người chưa nhiễm). Lịch tiêm mũi 2, 3 không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu phải đến ngay: vàng da vàng mắt, nước tiểu như nước trà, bụng to, nôn máu hoặc phân đen, lú lẫn, ngủ gà",
+     "v": "a",
+     "n": "Đặc điểm xơ gan mất bù: cổ trướng, xuất huyết tiêu hóa, bệnh não gan, vàng da (QĐ 1740 mục 4.1.2a). Danh sách dấu hiệu cảnh báo cho người bệnh không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về, bảo khi nào đủ tiền làm HBV DNA, huyết thanh, siêu âm thì quay lại, không hẹn lịch và không cho thuốc",
+     "v": "w",
+     "n": "Đã đủ chỉ định điều trị theo APRI (QĐ 1740 mục 4.2.3a); chờ HBV DNA phải có lịch theo dõi 3–6 tháng/lần (EASL 2025); bà sợ tốn tiền nên dễ bỏ."
+    },
+    {
+     "t": "Chỉ định trọn gói HBV DNA, huyết thanh, anti-HCV, AFP (hơn 1,4 triệu đồng) hôm nay",
+     "v": "w",
+     "n": "Vượt xa 400.000 đồng bà mang; các xét nghiệm đó không đổi quyết định hôm nay (QĐ 1740 mục 4.2.3a), bà sẽ bỏ về."
+    },
+    {
+     "t": "Kê TDF 300 mg mỗi ngày không chỉnh liều",
+     "v": "w",
+     "n": "CrCl khoảng 36 mL/phút: QĐ 1740 Phụ lục 4 chỉnh 300 mg mỗi 48 giờ hoặc chuyển ETV/TAF; Bảng 3 tránh TDF ở người tuổi cao, dưới 50 kg."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm gan B mạn (HBsAg dương, AST 56, ALT 78 U/L), chưa xác định giai đoạn vì chưa có HBV DNA, HBeAg",
+     "Xơ hóa gan đáng kể (APRI 0,89; FIB-4 ≈ 3,09); chưa chẩn đoán xơ gan, chưa có dấu mất bù",
+     "Đủ tiêu chuẩn điều trị kháng vi rút theo APRI; nguy cơ cao ung thư gan (anh ruột mất vì ung thư gan), chưa loại trừ vì chưa siêu âm",
+     "Ở bà 77 tuổi, 46 kg, CrCl ước tính khoảng 36 mL/phút: yếu tố nguy cơ thận khi chọn thuốc",
+     "Dùng thuốc nhỏ mũi co mạch kéo dài (nghẹt mũi dội); mệt, chóng mặt sau chuyến xe một phần do mất nước"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: bắt đầu từ tờ giấy hẹn (HBsAg dương, ALT 82); hỏi cụ thể mới ra sụt cân, tức sườn phải, thuốc nhỏ mũi, anh ruột ung thư gan và nỗi sợ. Mệt, ăn kém, chóng mặt chung chung ở người 77 tuổi dễ bị quy cho 'đi xe lâu', 'già yếu': đó là điều suýt làm bỏ sót bệnh gan; người rất cao tuổi ít có vàng da, đau hạ sườn điển hình.",
+     "Khám: gan chắc nhẹ, bờ dưới 2 cm, không báng, không sao mạch, không lách to; không vàng da, không lú lẫn. Phần lớn người nhiễm HBV không triệu chứng cho đến khi bệnh gan tiến triển (QĐ 1740 mục 4.1.2a).",
+     "Cận lâm sàng: tiểu cầu + AST cho APRI 0,89, trên 0,5 là xơ hóa đáng kể, dưới 1 nên chưa gọi xơ gan (QĐ 1740 Phụ lục 2; WHO 2024 Chapter 4); creatinin để chọn thuốc; AFP thay siêu âm. APASL 2026 dùng FIB-4 (trên 1,3; trên 2,67; từ 65 tuổi trên 2,0 và trên 3,25); EASL 2025 nêu APRI, FIB-4 hạn chế ở HBV (SONIC-B khuyên không dùng ngưỡng chuẩn, WHO ghi nhận nhiều dương tính giả). Ghi cả hai: quyết định hôm nay dựa APRI, nhánh khác xác nhận bằng HBV DNA.",
+     "Chẩn đoán: HBsAg dương ở người lớn là nhiễm HBV mạn (QĐ 1740 mục 4.1.1); không phơi nhiễm 4–24 tuần, không vàng da nên không nghĩ cấp (mục 3.1). Xơ gan, HCC chưa loại trừ hoàn toàn vì thiếu siêu âm. ALT trên ngưỡng 30/19 (QĐ 1740 mục 4.1.2b; WHO 2024) và trên 40 (EASL 2025).",
+     "Tiền sử gia đình ung thư gan là tiêu chuẩn điều trị chỉ khi HBV DNA trên ngưỡng phát hiện (mục 4.2.3a): chưa dùng được hôm nay."
+    ],
+    "phan_tich_xu_tri": [
+     "Xếp ưu tiên: 400.000 đồng đủ bốn xét nghiệm đổi quyết định (270.000 đồng). Bilirubin–albumin–INR (200.000 đồng) không làm cùng lúc được và không có dấu mất bù trên lâm sàng; HBV DNA làm mốc tuần 12 (QĐ 1740 Bảng 5).",
+     "Thuốc: TAF 25 mg mỗi ngày không chỉnh liều theo thận, hoặc ETV 0,25 mg mỗi ngày hoặc 0,5 mg mỗi 48 giờ (QĐ 1740 Bảng 3, Phụ lục 4). TDF là thuốc ưu tiên của WHO 2024 Chapter 6 nhưng QĐ 1740 Bảng 3 và EASL 2025 mục Monitoring safety không ưu tiên ở người tuổi cao, nhẹ cân, giảm mức lọc (EASL còn nêu nguy cơ gãy xương khi dùng TDF ở người trên 60 tuổi). EASL ghi TAF có nơi không sẵn hoặc không được chi trả nên ETV là phương án thay; giá thuốc không có trong tài liệu đã tải.",
+     "Điều trị lâu dài, có thể suốt đời; ngưng chỉ khi đạt tiêu chuẩn (QĐ 1740 mục 4.2.5): bà cần hiểu để không tự bỏ thuốc. Cấp thuốc 4 tuần rồi tái khám lấy mốc creatinin; sau đó 12 tuần/lần (Bảng 5).",
+     "Những việc sai: đuổi về không hẹn không thuốc; xét nghiệm trọn gói vượt tiền; TDF liều đầy đủ.",
+     "Ghi chú áp dụng cho người từ 75 tuổi: tài liệu đã tải không có khuyến cáo riêng cho nhóm này; chỉ có tuổi cao là yếu tố nguy cơ thận và xương khi chọn TDF."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Tenofovir alafenamide (TAF)",
+      "ham_luong": "25 mg",
+      "lieu": "25 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng một giờ mỗi ngày (cháu Ngọc cài báo thức)",
+      "so_ngay": "Cấp 4 tuần đến lần tái khám đầu; điều trị lâu dài, có thể suốt đời",
+      "ghi_chu": "QĐ 1740/2026 Bảng 3 (25 mg/ngày, không chỉnh liều theo thận trừ CrCl dưới 15 không lọc máu), mục 4.2.5a, Bảng 5. Thay bằng ETV: 0,25 mg mỗi ngày hoặc 0,5 mg mỗi 48 giờ (Phụ lục 4, CrCl 30–49). Cách uống so với bữa ăn: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa mũi nhiều lần trong ngày",
+      "duong": "Rửa hoặc nhỏ mũi",
+      "thoi_diem": "Thay các lần nhỏ thuốc co mạch",
+      "so_ngay": "Khi nghẹt mũi",
+      "ghi_chu": "QĐ 5643/2015 bài Ngạt mũi mục 4.1. Thuốc nhỏ mũi co mạch: giảm dần rồi ngưng (EPOS 2020 Bảng 10.1.1; Hình 1.4.1 dưới 10 ngày); số lần giảm mỗi ngày không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống thuốc kháng vi rút mỗi ngày cùng một giờ, không tự ngưng dù hết mệt; đây là thuốc uống lâu dài (QĐ 1740 mục 4.2.2, 4.2.5).",
+     "Đi siêu âm bụng ở bệnh viện huyện khi có tiền và xe; tầm soát ung thư gan mỗi 6 tháng (TL-0169 mục 3.2).",
+     "Không uống rượu bia, thuốc nam, thuốc bắc, thực phẩm chức năng, paracetamol liều cao khi chưa hỏi (QĐ 1740 mục 4.2.3b).",
+     "Giảm dần thuốc nhỏ mũi co mạch, rửa mũi nước muối 0,9%.",
+     "Cháu Ngọc và con trai thử máu viêm gan B, tiêm vắc xin nếu chưa nhiễm; không dùng chung dao cạo, bàn chải (mục 4.2.3b).",
+     "Đến ngay nếu vàng da, nước tiểu như nước trà, bụng to, nôn máu, phân đen, lú lẫn, ngủ gà.",
+     "Tái khám sau 4 tuần với creatinin và nước tiểu, mang theo vỏ thuốc (QĐ 1740 Bảng 5). Uống đủ nước, đứng dậy từ từ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 6 tuần",
+   "tiep_don": "Bà Bưởi tái khám sau 6 tuần (hẹn 4 tuần, bà trễ 2 tuần vì đi chợ đầu mối lấy hàng), cháu Ngọc đưa đến. Ba ngày nay vàng mắt, nước tiểu sẫm, buồn nôn, mệt tới mức không đứng sạp được. Sinh hiệu: HA 124/70 mmHg, mạch 88 l/p, nhiệt độ 37,0 °C, nhịp thở 18 l/p, SpO₂ 96%. Cân nặng 45,2 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho bà về, hẹn 1–2 tuần xem lại là để bà 77 tuổi, nhẹ cân, vàng da, ALT hơn 18 lần ULN ở nhà khi chưa ai loại trừ xơ gan, HCC hay nguyên nhân khác, không có siêu âm. QĐ 1740 mục 4.2.6i yêu cầu điều trị ngay đợt bùng phát để tránh mất bù và tử vong, mục 4.5 yêu cầu chuyển trường hợp nặng hoặc phức tạp. Bà sợ tốn tiền nên dễ chờ 'tự khỏi' đến khi lú lẫn hoặc nôn máu.",
+    "cap_cuu": "Gọi xe cấp cứu, đặt đường truyền rồi chuyển là quá mức: bà tỉnh táo (4AT 0), không nôn máu, không báng, INR 1,3, huyết động ổn. Bà cần chuyển sớm trong ngày bằng xe khách cùng cháu Ngọc, có giấy chuyển và đã uống lại TAF. Xe cấp cứu tốn thêm tiền bà không có, và khoa cấp cứu chưa biết về ngưng thuốc, APRI lượt trước."
+   },
+   "loi_mo": "Bác sĩ ơi, mấy bữa nay mắt tôi vàng, nước tiểu như nước trà, tôi buồn nôn, mệt quá không đứng sạp nổi. Tôi uống thuốc bác sĩ cho rồi mà sao vậy?",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "124/70",
+    "nhiet": "37,0",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "nang_hon",
+     "noi_dung": "Ba ngày nay vàng mắt, vàng da, nước tiểu như nước trà đặc, buồn nôn, ăn không vô, ngứa nhẹ ở lưng, mệt tới mức phải nghỉ bán. Không sốt, không đau quặn bụng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Vàng da, mệt tăng: nặng hơn lượt 1"
+    },
+    {
+     "id": "ngung_thuoc",
+     "noi_dung": "Bà uống TAF được 3 tuần (21 viên) thì ngưng: hết mệt, ăn ngon lại, bà bán hàng cạnh sạp bảo 'thuốc gan uống mãi hại gan hại thận, hết bệnh thì thôi'. Bà cất 7 viên còn lại 'để dành lúc đau lại cho đỡ tốn tiền'. Ngọc không biết. Lần cuối uống cách đây 3 tuần.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống thuốc đều không' bà trả lời 'có uống'. Chỉ kể ngưng thuốc khi bác sĩ hỏi cụ thể lần cuối uống là hôm nào, còn mấy viên, hoặc xin xem vỉ thuốc, và hỏi nhẹ nhàng không trách.",
+     "k": 1,
+     "y": "Tự ngưng thuốc kháng vi rút (yếu tố gây bùng phát)"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không uống rượu, paracetamol, thuốc nam, thuốc bắc, thực phẩm chức năng. Không ăn gỏi, tiết canh; cả nhà ăn chung, không ai vàng mắt. Vẫn nhỏ thuốc nhỏ mũi ngày 2 lần (giảm từ 4 lần).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nguyên nhân khác gây tăng men gan"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không lú lẫn, không ngủ gà, không nôn máu, phân vàng nhạt hơn nhưng không bạc màu, không đi cầu phân đen, bụng không to, vẫn đi tiểu được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu mất bù"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Ngọc mang theo 600.000 đồng (gom tiền bán hàng và mượn). Bà hỏi giá từng xét nghiệm, nói nếu phải lên tỉnh thì cho bà biết tốn bao nhiêu. Bệnh viện tỉnh cách 38 km, xe khách khoảng một giờ; Ngọc đi cùng được hôm nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ràng buộc tiền và đường đi khi chuyển tuyến"
+    },
+    {
+     "id": "nguoi_nha",
+     "noi_dung": "Ngọc đã thử máu ở trạm y tế: HBsAg âm, anti-HBs âm, đã tiêm mũi đầu. Con trai bà chưa thử.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Gầy hơn (45,2 kg), tỉnh nhưng mệt, củng mạc vàng nhẹ, da vàng nhạt, môi khô. Không sao mạch, không lòng bàn tay son, không phù, không xuất huyết dưới da.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Gan to dưới bờ sườn phải khoảng 3 cm, mềm hơn lần trước, ấn đau tức, không khối. Lách không sờ thấy. Gõ không đục vùng thấp, dấu sóng vỗ âm tính, không báng.",
+     "k": 1
+    },
+    "sang_loc_sang": {
+     "a": "4AT 0 điểm: tỉnh táo, đáp đúng tuổi, nơi đang ở, tháng, năm, đọc ngược các tháng đúng, không chú ý kém.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "r": "AST 248 · ALT 356 U/L (ALT gấp 4,6 lần mức 78 lúc đầu, gấp 18,7 lần ULN nữ 19 U/L)",
+     "n": "Đợt bùng phát khi ALT tăng đột ngột trên 3 lần mức ban đầu hoặc trên 5 lần ULN, ở người HBsAg dương, không do nguyên nhân khác (QĐ 1740 mục 4.2.6i). 50.000 đồng."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "Bilirubin toàn phần 46, trực tiếp 31 µmol/L · ALP 128 · GGT 96 U/L · Albumin 36 g/L · INR 1,3",
+     "n": "Đánh giá mất bù và theo dõi: bilirubin, albumin, INR/PT (QĐ 1740 mục 4.1.2b, Bảng 5). Vàng da mức vừa, INR chưa kéo dài, albumin giữ: chưa mất bù. ALP, GGT tăng nhẹ theo hướng tế bào gan. Tài liệu đã tải không nêu dùng điểm Child-Pugh lúc bùng phát. 200.000 đồng."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 119 g/L · Tiểu cầu 142 G/L",
+     "n": "Theo dõi tiểu cầu (QĐ 1740 Bảng 5). Không tính lại APRI lúc này: Bảng 5 ghi đánh giá xơ hóa chỉ nên làm khi không trong đợt bùng phát (ALT dưới 5 ULN). 50.000 đồng.",
+     "bang": {
+      "wbc": 6.6,
+      "neu_pct": 55.0,
+      "neu": 3.63,
+      "lym_pct": 34.0,
+      "lym": 2.24,
+      "mono_pct": 8.0,
+      "mono": 0.53,
+      "eos_pct": 2.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 3.9,
+      "hgb": 119,
+      "hct": 0.36,
+      "mcv": 92.3,
+      "mch": 30.5,
+      "mchc": 331,
+      "rdw": 14.0,
+      "plt": 142
+     }
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 5,4 mmol/L · Creatinin 80 µmol/L · eGFR 65 mL/ph/1,73m²",
+     "n": "Mốc creatinin tháng đầu sau thuốc đã trễ (QĐ 1740 Bảng 5); không tổn thương thận sau 3 tuần TAF. 50.000 đồng.",
+     "bang": {
+      "ure": 5.4,
+      "creat": 80,
+      "egfr": 65
+     }
+    },
+    "afp": {
+     "v": "e",
+     "r": "AFP 9,8 ng/mL (bình thường dưới 20)",
+     "n": "Không có siêu âm nên AFP làm tại chỗ, còn siêu âm làm ở tuyến trên (TL-0169 mục 3.2). AFP bình thường không loại trừ HCC. 120.000 đồng."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "(Phòng khám không có máy siêu âm. Siêu âm bụng làm khi chuyển lên bệnh viện tỉnh.)",
+     "thay_the": "afp",
+     "n": "Cần siêu âm bụng để tìm xơ gan, HCC, tắc mật khi vàng da (TL-0169 mục 3.2; QĐ 1740 Bảng 5): làm ở tuyến trên."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Bilirubin 2+ · urobilinogen tăng · protein âm tính · glucose âm tính",
+     "n": "Mốc nước tiểu tháng đầu (QĐ 1740 Bảng 5); bilirubin niệu phù hợp vàng da tại gan. 40.000 đồng."
+    },
+    "hbv_dna": {
+     "v": "a",
+     "r": "HBV DNA 8,6 × 10^6 IU/mL (6,9 log10)",
+     "n": "Chấp nhận: 500.000 đồng, cộng AST/ALT, bilirubin, CTM, creatinin, AFP thì vượt 600.000 đồng và kết quả không đổi việc phải khởi động lại TAF và chuyển tuyến (QĐ 1740 mục 4.2.6i). Làm ở tuyến trên. HBV DNA có thể không tăng hay thậm chí giảm lúc bùng phát (mục 4.2.6i)."
+    },
+    "hbv_huyet_thanh": {
+     "v": "a",
+     "r": "HBeAg âm · anti-HBe dương · HBsAg định lượng 3.400 IU/mL · anti-HDV âm",
+     "n": "Chấp nhận, 600.000 đồng, hoãn lên tuyến trên; anti-HDV khi có điều kiện (QĐ 1740 mục 4.2.6c)."
+    },
+    "huyet_thanh_hav_hev": {
+     "v": "a",
+     "r": "IgM anti-HAV âm · IgM anti-HEV âm · IgM anti-HBc âm",
+     "n": "Tìm viêm gan cấp chồng lên; làm ở tuyến trên (450.000 đồng)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đợt bùng phát viêm gan B mạn sau khi tự ngưng TAF 3 tuần (ALT 356 U/L, bilirubin 46 µmol/L, vàng da); chưa có dấu mất bù (4AT 0, không báng, INR 1,3); chưa loại trừ xơ gan, HCC, tắc mật vì chưa siêu âm",
+     "ok": 1,
+     "n": "ALT trên 3 lần mức ban đầu và trên 5 lần ULN ở người HBsAg dương; yếu tố thuận lợi gồm ngưng thuốc kháng HBV (QĐ 1740 mục 4.2.6i). EASL 2025 (mục When can antiviral therapy be stopped): HBV DNA thường tăng sau 2–24 tuần, tái phát sớm hơn sau TDF/TAF so với ETV."
+    },
+    {
+     "t": "Xơ gan mất bù",
+     "n": "Không báng, không lú lẫn, không xuất huyết, INR 1,3, albumin 36; APRI lượt 1 là 0,89 (không tính lại lúc bùng phát, QĐ 1740 Bảng 5). Siêu âm ở tuyến trên."
+    },
+    {
+     "t": "Ung thư gan (HCC)",
+     "n": "AFP 9,8, gan mềm, vàng da diễn tiến nhanh sau ngưng thuốc giải thích tốt hơn; nhưng nguy cơ cao (anh ruột ung thư gan) nên cần siêu âm (TL-0169 mục 3.2)."
+    },
+    {
+     "t": "Thất bại điều trị hoặc kháng thuốc",
+     "n": "Bà chỉ uống TAF 3 tuần rồi tự ngưng; TAF có hàng rào kháng cao. Chỉ đổi thuốc sau khi tăng cường tuân thủ và xác định thất bại (QĐ 1740 mục 4.4.1, 4.4.2)."
+    },
+    {
+     "t": "Viêm gan cấp khác chồng lên (HAV, HEV, HDV) hoặc do thuốc, thảo dược",
+     "n": "Không phơi nhiễm, không thuốc nam, rượu, paracetamol. HDV, HAV, HEV làm ở tuyến trên (QĐ 1740 mục 4.2.6c)."
+    },
+    {
+     "t": "Tắc mật do sỏi hoặc u",
+     "n": "Không đau quặn, không sốt; bilirubin trực tiếp chiếm 67% nhưng ALP chỉ 128, GGT 96; hướng tế bào gan. Siêu âm phân biệt."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Uống lại TAF 25 mg ngay hôm nay bằng 7 viên bà còn giữ, không chờ kết quả HBV DNA; không đổi sang thuốc khác",
+     "v": "c",
+     "n": "Điều trị thuốc kháng vi rút ngay đối với đợt bùng phát để tránh nguy cơ bệnh gan mất bù và tử vong (QĐ 1740 mục 4.2.6i). TAF vẫn dùng được, mức lọc 65; chỉ đổi thuốc sau khi tăng cường tuân thủ và xác định thất bại (mục 4.4.2)."
+    },
+    {
+     "t": "Chuyển bệnh viện tỉnh trong ngày (cháu Ngọc đi cùng bằng xe khách), giấy chuyển ghi HBsAg dương, APRI 0,89 lượt 1, tự ngưng TAF 3 tuần, số liệu hôm nay: để siêu âm bụng, HBV DNA, huyết thanh HBV, anti-HDV, IgM anti-HAV/HEV, theo dõi bilirubin, INR, hội chẩn tiêu hóa",
+     "v": "c",
+     "n": "Đợt bùng phát kèm vàng da, người 77 tuổi, nhẹ cân, không có siêu âm: trường hợp nặng hoặc phức tạp chuyển cấp chuyên sâu (QĐ 1740 mục 4.5); anti-HDV total cho người HBsAg dương (mục 4.2.6c); siêu âm bụng tìm xơ gan, HCC (TL-0169 mục 3.2; Bảng 5). Ngưỡng chuyển tuyến riêng cho bùng phát chưa mất bù: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi nhẹ nhàng không trách vì sao ngưng thuốc; giải thích bằng con số của bà: ngưng thuốc làm vi rút bùng lên, men gan từ 78 lên 356; thuốc uống lâu dài, ngưng chỉ khi đủ tiêu chuẩn; hỗ trợ tuân thủ (hộp chia ngày, báo thức, Ngọc theo dõi); trấn an nỗi sợ 'hại gan, hại thận' bằng creatinin bình thường của bà",
+     "v": "c",
+     "n": "Điều trị NAs lâu dài, có thể suốt đời (QĐ 1740 mục 4.2.2, 4.2.5); tiêu chuẩn ngưng thuốc (4.2.5b); đánh giá tuân thủ mỗi lần và tăng cường hỗ trợ (Bảng 5, mục 4.4.1); WHO 2024 Chapter 16 theo dõi tuân thủ mỗi lần khám."
+    },
+    {
+     "t": "Xếp ưu tiên xét nghiệm theo 600.000 đồng: AST/ALT, bilirubin–albumin–INR, công thức máu, creatinin, AFP làm hôm nay (470.000 đồng); hoãn HBV DNA, huyết thanh, siêu âm lên tuyến tỉnh; nói trước cho bà chi phí có thể phải chuẩn bị",
+     "v": "c",
+     "n": "Xét nghiệm đổi quyết định chuyển tuyến và theo dõi mất bù (QĐ 1740 Bảng 5, mục 4.1.2b). Chi phí, bảo hiểm tại bệnh viện tỉnh không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu phải đến cấp cứu ngay: lú lẫn, ngủ gà, nôn máu hoặc phân đen, bụng to nhanh, vàng tăng, chảy máu; không uống thuốc nam, thuốc bổ gan tự mua",
+     "v": "c",
+     "n": "Đặc điểm mất bù: cổ trướng, xuất huyết tiêu hóa, bệnh não gan, vàng da (QĐ 1740 mục 4.1.2a); thận trọng thảo dược, thực phẩm chức năng không rõ nguồn (mục 4.2.3b). Danh sách dấu hiệu cảnh báo đầy đủ không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhắc con trai và Ngọc hoàn tất xét nghiệm, tiêm vắc xin viêm gan B",
+     "v": "a",
+     "n": "QĐ 1740 mục 4.2.3b."
+    },
+    {
+     "t": "Cho bà về nhà, hẹn 1–2 tuần xem lại men gan",
+     "v": "w",
+     "n": "Đợt bùng phát có vàng da ở người 77 tuổi cần chuyển cấp chuyên sâu (QĐ 1740 mục 4.5, 4.2.6i)."
+    },
+    {
+     "t": "Chờ kết quả HBV DNA rồi mới cho uống lại thuốc",
+     "v": "w",
+     "n": "Điều trị NA ngay đối với đợt bùng phát (QĐ 1740 mục 4.2.6i); HBV DNA có thể không tăng lúc bùng phát."
+    },
+    {
+     "t": "Đổi sang TDF hoặc ETV vì nghĩ TAF không hiệu quả",
+     "v": "w",
+     "n": "Nguyên nhân là ngưng thuốc 3 tuần, không phải thất bại; chỉ đổi thuốc sau khi tăng cường tuân thủ và xác định thất bại (QĐ 1740 mục 4.4.2); TDF còn tránh ở tuổi cao, nhẹ cân (Bảng 3)."
+    },
+    {
+     "t": "Gọi xe cấp cứu, đặt đường truyền, truyền dịch rồi chuyển",
+     "v": "w",
+     "n": "Tỉnh táo, không xuất huyết, INR 1,3: chuyển sớm trong ngày, không phải cấp cứu."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đợt bùng phát viêm gan B mạn sau khi tự ngưng TAF (ALT 356 U/L, AST 248, bilirubin 46 µmol/L, INR 1,3, albumin 36 g/L)",
+     "Chưa có dấu mất bù: tỉnh táo (4AT 0), không báng, không xuất huyết; chưa loại trừ xơ gan, HCC, tắc mật vì chưa siêu âm",
+     "Nguyên nhân thuận lợi: ngưng thuốc kháng HBV 3 tuần (hàng xóm bảo hại gan hại thận, tiếc tiền); không phải thất bại hay kháng thuốc",
+     "Nền: viêm gan B mạn có xơ hóa gan đáng kể (APRI 0,89 lượt 1), nguy cơ HCC cao, 77 tuổi, 45 kg",
+     "Cần nâng mức chăm sóc: chuyển bệnh viện tỉnh trong ngày, uống lại TAF ngay"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi: hỏi 'uống thuốc đều không' bà nói có; chỉ khi hỏi lần cuối uống hôm nào, còn mấy viên mới ra việc ngưng thuốc 3 tuần (QĐ 1740 Bảng 5: đánh giá tuân thủ mỗi lần khám). Hỏi thêm rượu, thuốc nam, ăn gỏi, người nhà vàng mắt để loại nguyên nhân khác.",
+     "Khám: vàng nhẹ, gan to 3 cm mềm đau, không báng, 4AT 0: chưa mất bù (QĐ 1740 mục 4.1.2a). Không có siêu âm nên không đánh giá được xơ gan, HCC, đường mật.",
+     "Cận lâm sàng: ALT 356 trên 3 lần mức ban đầu (78) và trên 5 lần ULN: đủ tiêu chuẩn bùng phát (mục 4.2.6i). Bilirubin 46, INR 1,3, albumin 36 không có dấu suy tổng hợp nặng. Không tính APRI lúc này (Bảng 5, dòng đánh giá xơ hóa). Không thể kết luận Child-Pugh vì tài liệu đã tải không nêu cho lúc bùng phát.",
+     "Vì sao vẫn là viêm gan B mạn: ngưng TAF là yếu tố thuận lợi gây bùng phát (mục 4.2.6i); EASL 2025 mô tả HBV DNA tăng sau 2–24 tuần, tái phát sớm hơn sau TDF/TAF so với ETV, và cần theo dõi hằng tháng trong 6 tháng đầu sau ngưng (QĐ 1740 mục 4.2.5b cũng nêu hằng tháng). Khỏi chậm hơn dự kiến vì bùng phát làm ALT và HBV DNA phải giảm lại từ đầu.",
+     "Ngưỡng ALT 30/19 (QĐ 1740 mục 4.1.2b; WHO 2024) và trên 40 (EASL 2025): ALT 356 vượt cả hai nên không chạm khác biệt."
+    ],
+    "phan_tich_xu_tri": [
+     "Uống lại TAF hôm nay, không chờ xét nghiệm (mục 4.2.6i). Vì tuân thủ kém, không đổi thuốc (mục 4.4.1, 4.4.2).",
+     "Chuyển bệnh viện tỉnh trong ngày: người 77 tuổi, vàng da, không có siêu âm để loại xơ gan, HCC, tắc mật; mục 4.5 chuyển cấp chuyên sâu trường hợp nặng hoặc phức tạp. Không cần xe cấp cứu. Giấy chuyển ghi đủ số liệu lượt 1 và hôm nay. FibroScan hoãn đến khi ALT dưới 5 ULN (Bảng 5).",
+     "Xét nghiệm: 470.000 đồng làm hôm nay, kết quả đổi quyết định mức chăm sóc; HBV DNA, huyết thanh, siêu âm làm ở tuyến trên. Giá và bảo hiểm tại bệnh viện tỉnh không có trong tài liệu đã tải.",
+     "Tuân thủ: hỏi không trách, giải thích bằng ALT 78 lên 356, trấn an bằng creatinin 80 µmol/L, hộp chia ngày; điều trị lâu dài, ngưng chỉ khi đạt tiêu chuẩn (QĐ 1740 mục 4.2.5).",
+     "Những việc sai: cho về hẹn lại; chờ HBV DNA; đổi thuốc; gọi cấp cứu; thuốc bổ gan, kháng sinh."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Tenofovir alafenamide (TAF)",
+      "ham_luong": "25 mg",
+      "lieu": "25 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Uống viên đầu tiên ngay hôm nay tại phòng khám, sau đó cùng một giờ mỗi ngày",
+      "so_ngay": "Dùng liên tục; bà còn 7 viên, cấp thêm đủ đến khi tuyến tỉnh tiếp nhận; điều trị lâu dài, có thể suốt đời",
+      "ghi_chu": "QĐ 1740/2026 mục 4.2.6i (điều trị NA ngay đối với bùng phát), Bảng 3 (25 mg/ngày, không chỉnh theo thận), mục 4.2.5a. Số viên cấp thêm là lựa chọn của ca, không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa mũi nhiều lần trong ngày",
+      "duong": "Rửa hoặc nhỏ mũi",
+      "thoi_diem": "Thay các lần nhỏ thuốc co mạch",
+      "so_ngay": "Khi nghẹt mũi",
+      "ghi_chu": "QĐ 5643/2015 bài Ngạt mũi mục 4.1; thuốc nhỏ mũi giảm dần rồi ngưng (EPOS 2020 Bảng 10.1.1)."
+     }
+    ],
+    "dan_do": [
+     "Uống TAF ngay hôm nay, mỗi ngày một viên, không tự ngưng dù hết mệt hay nghe người khác nói; creatinin của bà bình thường, thuốc không hại thận ở bà (QĐ 1740 mục 4.2.2, 4.2.5).",
+     "Đi bệnh viện tỉnh ngay hôm nay cùng cháu Ngọc, mang giấy chuyển, hộp thuốc, tờ giấy hẹn của trạm y tế và các phiếu xét nghiệm.",
+     "Không uống rượu, thuốc nam, thuốc bắc, thuốc bổ gan tự mua (QĐ 1740 mục 4.2.3b). Nghỉ ngơi, ăn đủ bữa.",
+     "Đến cấp cứu ngay nếu lú lẫn, ngủ gà, nôn máu, phân đen, bụng to nhanh, vàng tăng, chảy máu (mục 4.1.2a).",
+     "Sau khi về: khám theo lịch tuyến tỉnh; tái khám tại đây 12 tuần/lần năm đầu (QĐ 1740 Bảng 5); con trai thử máu, Ngọc hoàn tất tiêm vắc xin."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chiều hôm đó Ngọc đưa bà lên bệnh viện tỉnh; bà đã uống TAF lại từ sáng. Siêu âm: gan nhu mô thô nhẹ, bờ đều, không khối, không báng, đường mật không giãn. HBV DNA 8,6 × 10^6 IU/mL, HBeAg âm, anti-HBe dương, anti-HDV âm, IgM anti-HAV, HEV âm. Tuyến tỉnh khẳng định đợt bùng phát sau ngưng thuốc, không xơ gan mất bù, không HCC; hẹn FibroScan khi ALT dưới 5 lần ULN. Bà dùng hộp thuốc chia ngày, Ngọc nhắc, không còn nghe lời bỏ thuốc. Bilirubin về bình thường sau 4 tuần, nhưng ALT còn khoảng 180 sau 4 tuần, 70 sau 12 tuần, 41 sau 24 tuần (vẫn trên ULN nữ 19), HBV DNA giảm hơn 1 log10 nhưng còn phát hiện: khỏi chậm hơn dự kiến, đúng hướng (diễn tiến minh họa, không trích từ tài liệu).",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: lượt 1 mang 400.000 đồng, chọn công thức máu, AST/ALT, creatinin, AFP (270.000 đồng); hoãn HBV DNA, huyết thanh, bilirubin–albumin–INR. Lượt 2 mang 600.000 đồng: xét nghiệm đánh giá bùng phát (470.000 đồng), còn lại làm ở tuyến trên.",
+  "Không có siêu âm: xơ hóa đánh giá bằng APRI, FIB-4 tính tay; HCC bằng AFP, khám gan, hẹn siêu âm; lượt 2 siêu âm ở tuyến tỉnh.",
+  "Không điển hình: người 77 tuổi đến với mệt, ăn kém, choáng khi đứng sau chuyến xe; không vàng da, không đau gan rõ. Tờ giấy hẹn (HBsAg dương, ALT 82) là manh mối suýt bị bỏ qua vì dễ quy cho 'đi xe lâu', 'già yếu'.",
+  "Thuốc nhỏ mũi co mạch kéo dài: không liên quan bệnh gan (tài liệu đã tải không nêu độc gan), hỏi cụ thể mới ra; gây nghẹt mũi dội (EPOS 2020 Bảng 10.1.1; Hình 1.4.1: dưới 10 ngày).",
+  "Lượt 2 nặng hơn: bà tự ngưng TAF sau 3 tuần vì hết mệt, nghe hàng xóm và tiếc tiền; bùng phát với vàng da nhưng chưa mất bù, nên chuyển tuyến chứ không cấp cứu."
+ ],
+ "bai_hoc_bien": [
+  "Người rất cao tuổi nhiễm HBV hay đến với triệu chứng mơ hồ (mệt, ăn kém, choáng): đọc tờ giấy hẹn, hỏi cân nặng, đừng dừng ở 'đi xe lâu' (QĐ 1740 mục 4.1.2a). Người ≥ 75 tuổi ít có trong thử nghiệm; tài liệu đã tải không có khuyến cáo riêng cho nhóm này.",
+  "Không đủ tiền xét nghiệm: tự hỏi xét nghiệm nào đổi được quyết định hôm nay. APRI trên 0,5 đủ chỉ định điều trị, không cần chờ HBV DNA (QĐ 1740 mục 4.2.3a; WHO 2024 Chapter 5); EASL 2025 muốn có HBV DNA nên nhánh 'chờ xét nghiệm' phải kèm lịch hẹn cụ thể.",
+  "Không có siêu âm: APRI, FIB-4, AFP và khám gan tạm thay, hẹn siêu âm nơi khác; AFP bình thường không loại trừ HCC.",
+  "Chọn thuốc cho người cao tuổi nhẹ cân giảm mức lọc: TAF 25 mg hoặc ETV chỉnh liều; tránh TDF liều đầy đủ (QĐ 1740 Bảng 3, Phụ lục 4).",
+  "Hết triệu chứng không phải hết bệnh: giải thích thuốc lâu dài và nguy cơ bùng phát khi ngưng, trả lời nỗi sợ 'hại gan hại thận' bằng creatinin của chính bà.",
+  "Bùng phát sau ngưng thuốc: uống lại thuốc ngay, không đổi thuốc, chuyển tuyến để siêu âm và đánh giá (QĐ 1740 mục 4.2.6i, 4.4.2, 4.5)."
+ ],
+ "diem_nho": [
+  "Điều trị khi APRI trên 0,5 (không phụ thuộc DNA, ALT) hoặc DNA trên 2.000 IU/mL kèm ALT trên ULN (QĐ 1740 mục 4.2.3a; WHO 2024 Chapter 5).",
+  "APRI = (AST/40 × 100)/tiểu cầu; trên 0,5 xơ hóa đáng kể, trên 1 xơ gan (QĐ 1740 Phụ lục 2); FIB-4 người ≥ 65 tuổi trên 2,0 và trên 3,25 (APASL 2026).",
+  "TAF 25 mg không chỉnh liều; ETV 0,25 mg/ngày hoặc 0,5 mg mỗi 48 giờ khi CrCl 30–49; TDF tránh khi tuổi cao, dưới 50 kg (QĐ 1740 Bảng 3, Phụ lục 4).",
+  "Bùng phát: ALT trên 3 lần mức ban đầu hoặc trên 5 lần ULN; điều trị NA ngay (QĐ 1740 mục 4.2.6i). Đánh giá xơ hóa chỉ khi ALT dưới 5 ULN (Bảng 5).",
+  "Siêu âm và AFP mỗi 6 tháng ở HBV mạn, thêm khi có tiền sử gia đình HCC (TL-0169 mục 3.2; WHO 2024 Chapter 18); Bảng 5: siêu âm 12–24 tuần, chỉ dấu 24 tuần."
+ ],
+ "nguon": [
+  "BYT QĐ 1740/QĐ-BYT 2026 – Hướng dẫn chẩn đoán và điều trị viêm gan vi rút B – TL-0164 – mục 3.1, 3.4.3, 4.1.1, 4.1.2, 4.2.2–4.2.6 (4.2.6a, c, i), 4.4.1, 4.4.2, 4.5, Bảng 3, Bảng 5, Phụ lục 2, 4",
+  "WHO 2024 – Guidelines for chronic hepatitis B – TL-0180 – Chapter 4, 5, 6, 16, 18",
+  "EASL 2025 – Clinical Practice Guidelines on HBV infection – TL-0197 – mục Treatment indications; Assessment of liver fibrosis; monitoring after diagnosis (HBV DNA mỗi 3–6 tháng); Monitoring safety; When can antiviral therapy be stopped",
+  "APASL 2026 – Chronic hepatitis B – TL-0185 – mục How should liver fibrosis be assessed in resource-limited settings (KC 1)",
+  "BYT QĐ 3129/QĐ-BYT 2020 – Ung thư biểu mô tế bào gan – TL-0169 – mục 3.1, 3.2",
+  "EPOS 2020 – European Position Paper on Rhinosinusitis and Nasal Polyps – TL-0087 – Bảng 10.1.1, Hình 1.4.1",
+  "BYT QĐ 5643/QĐ-BYT 2015 – Bệnh tai mũi họng – TL-0130 – bài Ngạt mũi, mục 4.1",
+  "Không có trong tài liệu đã tải: công thức Cockcroft–Gault; cách uống TAF so với bữa ăn; xử trí quên liều; mốc siêu âm lần đầu; tiêu chí nhập viện cho viêm gan B mạn; ngưỡng chuyển tuyến của tuyến cơ sở với bùng phát chưa mất bù; cách giảm dần thuốc nhỏ mũi co mạch; giá thuốc và bảo hiểm; danh sách dấu hiệu cảnh báo; lịch tiêm vắc xin mũi 2, 3."
+ ],
+ "phien_ban_ca": "1 – viết 2026-11-21",
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-21. Tài liệu đã đọc: TL-0164 (QĐ 1740/2026) mục 3.1, 3.4.3, 4.1, 4.2.2–4.2.6, Bảng 5, 4.4, 4.5, Phụ lục 1, 2, 4; TL-0180 (WHO 2024) Chapter 4, 5, 6, 16, 18; TL-0197 (EASL 2025) các mục như trường nguon; TL-0185 (APASL 2026) fibrosis in resource-limited settings; TL-0169 mục 3; TL-0087 (EPOS 2020) Bảng 10.1.1, Hình 1.4.1; TL-0130 (QĐ 5643/2015) bài Ngạt mũi.",
+  "Đã theo mục sổ mâu thuẫn: thuốc kháng vi rút đầu tay ở người cao tuổi (TH-1074); khoảng cách tầm soát HCC; ngưỡng ALT; ngưỡng APRI/FIB-4 (TH-1085). Mục mới đề xuất: khởi trị chỉ dựa APRI khi chưa có HBV DNA (xem TH-1013_mau_thuan.md).",
+  "Không có trong tài liệu đã tải: xem mục cuối trường nguon.",
+  "Kết cục ở ket_cuc là diễn tiến minh họa, không trích từ tài liệu."
+ ]
+}
