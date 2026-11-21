@@ -1,0 +1,883 @@
+{
+ "ma_ca": "TH-1354",
+ "phien_ban_kho": "0.3",
+ "benh": "TH_viem_gan_e_cap",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Viêm gan E cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm gan A cấp",
+   "Tắc mật"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Văn Khánh",
+  "tuoi": 34,
+  "gioi": "Nam",
+  "nghe": "Nội trợ (ở nhà chăm con, nấu ăn cho gia đình)",
+  "can_nang": 78,
+  "chieu_cao": 171,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Hiền, hay lo, thích kể chuyện nhà. Ở nhà nội trợ, vợ đi làm công ty, con gái 8 tuổi. Hơi mặc cảm vì hàng xóm hay trêu 'đàn ông ở nhà', rất ngại nói chuyện tiểu tiện, đi cầu. Hiểu biết y khoa ít, biết mình bị huyết áp cao.",
+  "kieu_nhieu": "Kể lể lộn xộn: trả lời một câu hỏi thì lan sang chuyện con thi, vợ tăng ca, giá thịt ngoài chợ, hàng xóm; nhảy thời gian ('à mà trước đó nữa…'), nhắc lại điều đã nói, hay quên mình hỏi gì. Ý quan trọng nằm lẫn trong chuyện phụ. Bác sĩ phải chia mốc thời gian, hỏi từng ý ngắn, tóm tắt lại thì anh mới trả lời gọn.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9ad8a",
+   "toc": "#1f1a17",
+   "kieuToc": "ngan",
+   "ao": "#6b7f8c",
+   "aoKieu": "thun",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Mệt, ăn kém, xin kiểm tra huyết áp và lấy thuốc",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền gồm đường huyết, ure–creatinin, điện giải, AST/ALT, tổng phân tích nước tiểu) và điện tim; không có X-quang, siêu âm, CT, nội soi; không làm được bilirubin máu, ALP, GGT, albumin, PT/INR, các xét nghiệm huyết thanh viêm gan virus hay xét nghiệm chuyên sâu."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Đoàn Văn Khánh, 34 tuổi, nội trợ ở nhà chăm con, tăng huyết áp 2 năm đang uống amlodipin 5 mg. Đến vì mệt, ăn kém khoảng 9 ngày, nhân tiện xin đo lại huyết áp và lấy thêm thuốc. Sinh hiệu: HA 128/82 mmHg, mạch 76 l/p, nhiệt độ 37,0 °C, SpO₂ 98%. Cân nặng 78 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Khánh tỉnh táo, không run vỗ cánh, không chảy máu, vàng da nhẹ: nhập viện ngay hôm nay khi chưa biết INR là quá tay. Viêm gan virus E không có điều trị đặc hiệu, bệnh thường tự khỏi (QĐ 5450/2014 mục I.4, III.1), còn tiêu chuẩn nhập viện của viêm gan E thể thường không có trong tài liệu đã tải; điều cần làm trước là xét nghiệm INR, bilirubin, IgM ở bệnh viện huyện, nhập viện khi PT kéo dài hoặc bệnh não (ACG 2017 KC 19). Anh phải nằm viện trong lúc vợ xin nghỉ làm trông con 8 tuổi, tốn tiền, và nỗi ngại bị hàng xóm bàn tán 'nằm viện vì vàng da' tăng thêm.",
+    "chuyen_tuyen": "Chuyển thẳng anh Khánh lên bệnh viện tỉnh là không cần: IgM anti-HAV, IgM anti-HEV, HBsAg, anti-HCV, bilirubin, INR và siêu âm bụng đều làm được ở bệnh viện huyện cách nhà ít cây số (ACG 2017 Hình 3; QĐ 5450/2014 mục II.2). Anh phải đi xa, mất cả ngày, vợ nghỉ làm đưa đi, phát sinh chi phí; thêm nữa anh đang ngại, dễ bỏ dở xét nghiệm giữa chừng, trong khi vẫn cần theo dõi ở phòng khám gần nhà."
+   },
+   "loi_mo": "Chào bác sĩ. Dạo này em mệt lắm, ăn không thấy ngon. Mà nói thiệt, hôm qua em đi chợ thấy giá thịt lên hoài, con bé nhà em đang kỳ thi, vợ thì tăng ca suốt… Bác sĩ coi giùm em huyết áp có cao không, thuốc huyết áp em còn có ba viên à, lấy thêm cho em luôn.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "128/82",
+    "nhiet": "37,0",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mệt, chán ăn khoảng 9 ngày. Muốn đo lại huyết áp và lấy thêm thuốc huyết áp (còn 3 viên). Kể lan man chuyện con thi, vợ tăng ca, giá thịt ngoài chợ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Ngày 1–2: sốt nhẹ (đo 37,8 °C), đau đầu, nhức mỏi khắp người. Từ ngày 3: chán ăn, ngán dầu mỡ, buồn nôn nhẹ, không nôn nhiều, sụt khoảng 2 kg. Hai ngày nay hết sốt nhưng mệt hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh sử: tiền triệu rồi chán ăn, buồn nôn"
+    },
+    {
+     "id": "dau_hspp",
+     "noi_dung": "Tức nặng âm ỉ dưới sườn phải từ ngày thứ 4. Không đau quặn từng cơn, không lan lên vai hay ra lưng, không liên quan bữa ăn béo, không sốt rét run.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau: phân biệt tắc mật"
+    },
+    {
+     "id": "nuoc_tieu_phan",
+     "noi_dung": "Nước tiểu sẫm như nước trà đặc 5 ngày nay, phân nhạt màu như đất sét 3 ngày nay, ngứa nhẹ tay chân buổi tối. Anh ngượng nói chuyện tiểu tiện, đi cầu nên hỏi chung 'còn gì nữa không' thì trả lời 'không có gì đâu'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi thẳng về màu nước tiểu, màu phân, ngứa, hỏi nhẹ nhàng và giải thích vì sao cần biết.",
+     "y": "Triệu chứng thật bị giấu vì ngại"
+    },
+    {
+     "id": "vang_mat",
+     "noi_dung": "Vợ thấy mắt vàng cách đây 2 ngày và giục đi khám. Anh nói 'chắc do thức khuya' và đeo kính để che.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi về mắt, da vàng, hoặc người nhà có nhận xét gì về diện mạo.",
+     "y": "Vàng mắt"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Khoảng 5 tuần trước, đám giỗ bên ngoại ở quê, anh ăn tiết canh và dồi lòng heo luộc tái, ăn một lần. Không ăn hải sản sống, không ăn rau sống ở quán, không đi xa, không uống nước giếng chưa đun. Vợ và con không ăn tiết canh.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể 1–2 tháng nay ăn gì lạ: tiết canh, thịt heo, nội tạng, hải sản sống, rau sống. Hỏi chung 'ăn uống thế nào' thì nói 'bình thường'.",
+     "y": "Phơi nhiễm HEV: thịt heo, tiết canh"
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Ngày 1–2 uống paracetamol 500 mg, mỗi ngày 2 viên (1 viên × 2 lần), tổng 4 viên, ngưng khi hết sốt. Không dùng thuốc giảm đau khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Khi bác sĩ hỏi thuốc hạ sốt, giảm đau tự mua.",
+     "y": "Thuốc hạ sốt, giảm đau tự mua"
+    },
+    {
+     "id": "thao_duoc",
+     "noi_dung": "3 ngày nay bà hàng xóm cho nước nấu nhân trần và diệp hạ châu 'mát gan', anh uống ngày 2 ly. Không dùng thực phẩm chức năng nào khác.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể thuốc nam, nước lá, thảo dược, thực phẩm chức năng.",
+     "y": "Thảo dược"
+    },
+    {
+     "id": "thuoc_nen",
+     "noi_dung": "Tăng huyết áp 2 năm, amlodipin 5 mg mỗi sáng, uống đều (quên khoảng một lần mỗi tháng). Ở nhà đo 125–135/80–85 mmHg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (hạ áp)"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Mỗi tuần 1–2 lon bia cuối tuần, không uống rượu mạnh; ba tuần nay bỏ hẳn vì ngán. Không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rượu bia"
+    },
+    {
+     "id": "nguy_co",
+     "noi_dung": "Chưa từng truyền máu, không xăm mình, không tiêm chích, không quan hệ ngoài vợ. Chưa xét nghiệm viêm gan, chưa tiêm ngừa viêm gan A, B. Chưa từng bị bệnh gan.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguy cơ viêm gan B, C; tiền sử gan"
+    },
+    {
+     "id": "dau_hieu_nang",
+     "noi_dung": "Ngủ bình thường, không lú lẫn, không chảy máu cam hay chân răng, không bầm tím, không nôn ra máu, phân không đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu hiệu suy gan"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Vợ 33 tuổi đi làm công ty, con gái 8 tuổi. Cả hai khỏe, không sốt, không vàng da.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "ngai",
+     "noi_dung": "Anh sợ bị coi là 'dân nhậu nên vàng mắt', sợ hàng xóm xì xào chuyện đàn ông ở nhà; chuyện nước tiểu, phân thì ngượng, nên chỉ nói chuyện huyết áp.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao hôm nay mới nói, hoặc trấn an không phán xét. Nghe bác sĩ nói bệnh không do bia thì nhẹ nhõm.",
+     "y": "Động cơ thật: ngại ngùng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, tiếp xúc tốt, định hướng đúng. Không phù, không sao mạch, không bầm tím, không nốt xuất huyết. Không hạch cổ.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Củng mạc vàng nhẹ hai mắt, rõ dưới ánh sáng ban ngày. Kết mạc không đỏ.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da vàng kín đáo ở mặt và ngực, vài vết gãi ở cẳng tay, không ban.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Gan to 2 cm dưới bờ sườn phải, mềm, bờ tù, ấn đau nhẹ. Murphy âm tính. Lách không sờ thấy, không cổ trướng.",
+     "k": 1
+    },
+    "nuoc_tieu_mau": {
+     "a": "Nước tiểu nâu sẫm như trà đặc, lắc có bọt vàng.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đúng, nhắc lại ba từ sau một phút. Duỗi hai tay không thấy run vỗ.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "Hb 146 g/L · BC 4,4 G/L · TC 198 G/L",
+     "bang": {
+      "wbc": 4.4,
+      "neu_pct": 38.0,
+      "neu": 1.67,
+      "lym_pct": 48.0,
+      "lym": 2.11,
+      "mono_pct": 10.0,
+      "mono": 0.44,
+      "eos_pct": 3.0,
+      "eos": 0.13,
+      "baso_pct": 1.0,
+      "baso": 0.04,
+      "rbc": 5.0,
+      "hgb": 146,
+      "hct": 0.43,
+      "mcv": 86.0,
+      "mch": 29.2,
+      "mchc": 340,
+      "rdw": 13.2,
+      "plt": 198
+     },
+     "n": "ACG 2017 Hình 3 (AST/ALT > 15 lần giới hạn trên): công thức máu và tiểu cầu là xét nghiệm đầu tiên. Không thiếu máu, tiểu cầu bình thường."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 780 · ALT 1.240 U/L (ALT ≈ 38 lần giới hạn trên của nam 33 U/L)",
+     "ab": 1,
+     "n": "Giới hạn trên ALT của nam 29–33 U/L (ACG 2017, mục ULN của ALT). > 15 lần là mức nặng: phải tìm viêm gan A, B, C cấp (KC 17), hỏi paracetamol, thiếu máu cục bộ (KC 18; Hình 3) và đánh giá dấu suy gan cấp (KC 19)."
+    },
+    "ua": {
+     "v": "e",
+     "r": "SG 1,024 · Bilirubin 3+ · Urobilinogen tăng · Bạch cầu, nitrit, protein, glucose, ceton, hồng cầu âm tính",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.024,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "+++",
+      "u_ubg": "Tăng",
+      "u_ery": "Âm tính"
+     },
+     "n": "Bilirubin niệu dương tính khớp nước tiểu sẫm và vàng mắt. Giá trị của urobilinogen niệu để phân biệt tắc mật: không có trong tài liệu đã tải; loại trừ tắc mật dựa lâm sàng, ALP, GGT và siêu âm ở tuyến huyện."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,6 mmol/L · Creatinin 82 µmol/L · eGFR 112 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.6,
+      "creat": 82,
+      "egfr": 112
+     }
+    },
+    "glu": {
+     "v": "u",
+     "r": "4,9 mmol/L",
+     "bang": {
+      "glu": 4.9
+     },
+     "ghi_chu_mau": "Mẫu lấy lúc khám, người bệnh ăn ít."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 138 · K 4,1 · Cl 102 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 4.1,
+      "cl": 102
+     }
+    },
+    "huyet_thanh_hav_hev": {
+     "v": "e",
+     "r": "(Phòng khám không làm được IgM anti-HAV, IgM anti-HEV, IgM anti-HBc. Làm ở bệnh viện huyện, kết quả trong ngày; hôm nay chưa có.)",
+     "n": "Cần để chẩn đoán xác định: IgM anti-HEV (+) (QĐ 5450/2014 mục II.3), IgM anti-HAV (+) (QĐ 5447/2014 mục II.3). Thử IgM anti-HEV ngay cùng IgM anti-HAV (EASL 2018 tr. 1263, khuyến cáo A1) hoặc sau khi A, B, C âm (ACG 2017 KC 4); cả hai cách đều đúng."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "(Phòng khám không làm được bilirubin máu, ALP, GGT, albumin. Làm ở bệnh viện huyện.)",
+     "thay_the": "liver",
+     "n": "Cần ALP để xác định kiểu tổn thương: R = (ALT ÷ ULN) ÷ (ALP ÷ ULN) > 5 là tế bào gan, < 2 là ứ mật (ACG 2017, mục Patterns, tuyên bố 5); ALP tăng phải kèm GGT (KC 13). Tại chỗ thay bằng AST/ALT và lâm sàng; làm bộ đầy đủ ở tuyến huyện."
+    },
+    "inr": {
+     "v": "e",
+     "r": "(Phòng khám không làm được PT/INR. Làm ở bệnh viện huyện.)",
+     "thay_the": "liver",
+     "n": "PT kéo dài hoặc bệnh não gan: gửi gấp chuyên gia gan (ACG 2017 KC 19). Viêm gan E đã xác định: theo dõi ALT, AST, bilirubin, INR (EASL 2018 tr. 1259). Hôm nay đánh giá bằng lâm sàng: tỉnh, không run vỗ cánh, không chảy máu."
+    },
+    "virus_mau": {
+     "v": "u",
+     "r": "(Phòng khám không làm được HBsAg, anti-HCV, HIV, kể cả test nhanh. Làm ở bệnh viện huyện cùng đợt.)",
+     "n": "Viêm gan B cấp: HBsAg và IgM anti-HBc (ACG 2017 KC 3); viêm gan C cấp: anti-HCV (KC 2); ALT 5–15 lần giới hạn trên trở lên: tìm viêm gan A, B, C cấp (KC 17)."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "(Phòng khám không có máy siêu âm. Làm ở bệnh viện huyện.)",
+     "thay_the": "liver",
+     "n": "Loại trừ tắc mật cơ giới (sỏi đường mật, u đầu tụy, u đường mật: QĐ 5450/2014 mục II.5); ACG 2017 Hình 3 đưa siêu âm bụng vào đánh giá AST/ALT rất cao. Tại chỗ dựa lâm sàng (không đau quặn mật, không sốt rét run, không sụt cân nhiều)."
+    },
+    "paracetamol_mau": {
+     "n": "Không cần: tổng 4 viên 500 mg (2 g) trong 2 ngày, xa liều gây ngộ độc > 150 mg/kg (78 kg: > 11,7 g) (QĐ 3610/2015, Ngộ độc paracetamol, mục 3). Cơ sở cũng không làm được."
+    },
+    "ecg": {
+     "n": "Không cần: không đau ngực, không hồi hộp, HA đang đạt."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm gan virus cấp kiểu tổn thương tế bào gan (AST 780, ALT 1.240 U/L, ≈ 38 lần giới hạn trên), vàng da nhẹ, chưa có dấu suy gan; nghi viêm gan E (tiết canh, dồi heo tái 5 tuần trước), chưa loại viêm gan A; cần IgM anti-HEV, IgM anti-HAV",
+     "ok": 1,
+     "n": "Tiền triệu sốt, nhức mỏi, rồi chán ăn, nước tiểu sẫm, vàng mắt là bệnh cảnh viêm gan virus (QĐ 5450/2014 mục II.1; QĐ 5447/2014 mục II.1). Phơi nhiễm 5 tuần trước nằm trong thời gian ủ bệnh 15–60 ngày (EASL 2018 tr. 1262); thịt heo chưa nấu chín là đường lây quan trọng (tr. 1258)."
+    },
+    {
+     "t": "Viêm gan A cấp",
+     "n": "Lâm sàng hai hướng dẫn BYT liệt kê giống nhau, không phân biệt được; người lớn nhiễm HAV thường rầm rộ hơn (QĐ 5447/2014 mục II.1). Phơi nhiễm tiết canh và heo tái nghiêng về E, nhưng chỉ IgM anti-HAV âm tính mới loại được (QĐ 5447/2014 mục II.3)."
+    },
+    {
+     "t": "Tắc mật (sỏi đường mật, u đầu tụy, u đường mật)",
+     "n": "Không đau quặn mật, không sốt rét run, không sụt cân, AST/ALT tăng vọt. Chưa loại hẳn nếu chưa có ALP, GGT và siêu âm (QĐ 5450/2014 mục II.5; ACG 2017 tuyên bố 5, KC 13): gửi làm ở tuyến huyện."
+    },
+    {
+     "t": "Viêm gan tối cấp, suy gan cấp",
+     "n": "Tỉnh, định hướng đúng, không run vỗ cánh, không chảy máu (QĐ 5450/2014 mục II.4.2). INR chưa có nên phải làm; PT kéo dài hoặc bệnh não thì gửi gấp (ACG 2017 KC 19)."
+    },
+    {
+     "t": "Tổn thương gan do thuốc hoặc thảo dược (paracetamol, nhân trần, diệp hạ châu)",
+     "n": "Paracetamol 2 g trong 2 ngày, xa liều gây ngộ độc (QĐ 3610/2015 mục 3); nước thảo dược uống sau khi đã chán ăn, vàng mắt nên không phải khởi phát. Nghi tổn thương gan do thuốc vẫn phải thử HEV (EASL 2018 tr. 1263, A1; 13% ca bị chẩn đoán nhầm DILI hóa ra viêm gan E)."
+    },
+    {
+     "t": "Viêm gan B hoặc C cấp",
+     "n": "Không truyền máu, xăm, tiêm chích, không quan hệ ngoài vợ. Vẫn cần HBsAg, IgM anti-HBc, anti-HCV (ACG 2017 KC 2, 3, 17)."
+    },
+    {
+     "t": "Gan nhiễm mỡ, bệnh gan do rượu",
+     "n": "BMI 26,7 và tăng huyết áp gợi ý chuyển hóa, nhưng ALT 38 lần giới hạn trên và có triệu chứng cấp không phải mức nhẹ (ACG 2017 KC 5). Rượu bia 1–2 lon mỗi tuần, dưới ngưỡng 210 g/tuần của nam (KC 6)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị ngoại trú, không thuốc đặc hiệu: nghỉ ngơi, hoạt động nhẹ; ăn giàu đạm, vitamin, giảm mỡ động vật, nhiều hoa quả tươi",
+     "v": "c",
+     "n": "QĐ 5450/2014 mục III.1, III.2.1 (viêm gan E không có điều trị đặc hiệu); QĐ 5447/2014 mục III.1, III.2.1. Bệnh thường tự khỏi (QĐ 5450/2014 mục I.4)."
+    },
+    {
+     "t": "Viết giấy giới thiệu và dặn đi bệnh viện huyện ngay hôm nay hoặc chậm nhất sáng mai: bilirubin toàn phần và trực tiếp, ALP, GGT, albumin, PT/INR; IgM anti-HEV, IgM anti-HAV, IgM anti-HBc; HBsAg, anti-HCV; siêu âm bụng",
+     "v": "c",
+     "n": "QĐ 5450/2014 mục II.2, II.3; QĐ 5447/2014 mục II.2; ACG 2017 KC 2, 3, 4, 13, 17, 19 và Hình 3; EASL 2018 tr. 1263 (A1). Thử IgM anti-HEV cùng lúc với IgM anti-HAV (EASL) hoặc sau khi HAV, HBV, HCV âm (ACG): cả hai đúng. Mốc 'hôm nay hoặc sáng mai' là lựa chọn của người soạn, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng nước nhân trần, diệp hạ châu và mọi thuốc nam, thực phẩm chức năng chưa rõ thành phần; tuyệt đối không rượu bia",
+     "v": "c",
+     "n": "QĐ 5450/2014 mục III.2.1: không rượu, bia và hạn chế thuốc, hóa chất gây độc cho gan. ACG 2017 KC 11 và Hình 3: ngưng thuốc độc gan và rượu."
+    },
+    {
+     "t": "Hạ sốt, giảm đau nếu thật cần: paracetamol dưới 3 g/ngày, ngắn ngày, hoặc chưa dùng gì (anh đã hết sốt)",
+     "v": "c",
+     "n": "QĐ 361/2014 hai mức (sổ mâu thuẫn): Phụ lục NSAID mục 3.3, người có bệnh gan: acetaminophen < 3 g/ngày; Phụ lục thuốc giảm đau mục 3.1: chống chỉ định khi đang có hủy tế bào gan (tăng men gan). Anh đang AST/ALT rất cao nên mức thận trọng hơn là chưa dùng. QĐ 5450/2014 không có liều paracetamol riêng."
+    },
+    {
+     "t": "Dặn dấu hiệu phải vào viện ngay: lơ mơ, nói lẫn, ngủ gà hoặc đảo ngược ngày đêm, chảy máu cam hoặc chân răng, bầm tím, nôn nhiều không uống được, vàng da đậm nhanh, sốt cao",
+     "v": "c",
+     "n": "Thể tối cấp: sốt cao, vàng mắt, mệt lả, hôn mê gan (QĐ 5450/2014 mục II.4.2). PT kéo dài hoặc bệnh não gan: gửi gấp chuyên gia gan (ACG 2017 KC 19; Hình 3)."
+    },
+    {
+     "t": "Dặn rửa tay xà phòng; ăn thịt heo, nội tạng nấu chín, không ăn tiết canh; theo dõi triệu chứng ở vợ và con",
+     "v": "c",
+     "n": "QĐ 5450/2014 mục IV.2: rửa tay, không ăn hải sản sống hoặc chưa chín. EASL 2018 tr. 1266: khuyên cả dân số tránh thịt heo chưa chín chưa đủ chứng cứ, nhưng mạnh với người nguy cơ nặng; tr. 1267 (B2): nấu ≥ 70 °C cho người suy giảm miễn dịch. Ca ghi cả hai, dặn ăn chín. Lây từ người sang người chưa rõ (tr. 1266)."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 tuần kèm tờ kết quả của bệnh viện huyện; quay lại sớm nếu có dấu hiệu nặng",
+     "v": "c",
+     "n": "Theo dõi ALT, AST, bilirubin, INR trong viêm gan E (EASL 2018 tr. 1259). Mốc 3 tuần là lựa chọn của người soạn, không có trong tài liệu đã tải. Nếu huyện báo INR kéo dài hoặc bệnh não thì nhập viện (ACG 2017 KC 19)."
+    },
+    {
+     "t": "Giải thích nỗi ngại: vàng mắt, nước tiểu sẫm là biểu hiện viêm gan virus, không phải do bia; không cần ngượng khi kể chuyện tiểu tiện, đi cầu",
+     "v": "c",
+     "n": "Rượu bia của anh dưới ngưỡng nghi bệnh gan do rượu (ACG 2017 KC 6); viêm gan virus có nước tiểu sẫm, vàng mắt (QĐ 5450/2014 mục II.1)."
+    },
+    {
+     "t": "Tiếp tục amlodipin 5 mg mỗi sáng, cấp thuốc đến lần tái khám",
+     "v": "a",
+     "n": "HA 128/82 mmHg đang đạt. Việc giữ hay ngưng thuốc hạ áp khi viêm gan cấp: không có trong tài liệu đã tải; amlodipin không được QĐ 5450/2014 hay ACG 2017 nêu tên là thuốc độc gan."
+    },
+    {
+     "t": "Thuốc bảo vệ tế bào gan (nhóm BDD), glutathione, thuốc lợi mật",
+     "v": "a",
+     "n": "QĐ 5450/2014 mục III.2.2 liệt kê các nhóm thuốc này, không nêu liều, thời gian; EASL 2018 không nêu. Không bắt buộc (sổ mâu thuẫn, mục thuốc bảo vệ gan)."
+    },
+    {
+     "t": "Ribavirin hoặc kháng sinh",
+     "v": "w",
+     "n": "Viêm gan E thể thường không có điều trị đặc hiệu (QĐ 5450/2014 mục III.1). Ribavirin chỉ cân nhắc cho viêm gan E cấp nặng hoặc suy gan cấp trên nền mạn (EASL 2018 tr. 1265, C2)."
+    },
+    {
+     "t": "Truyền dịch, tiêm 'thải độc gan' để mau khỏi",
+     "v": "w",
+     "n": "Anh uống ăn được, không nôn nhiều; chỉ định truyền dịch trong viêm gan cấp và nguy cơ của một lần truyền: không có trong tài liệu đã tải (QĐ 5450/2014 mục III không nêu)."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bệnh viện tỉnh ngay hôm nay",
+     "v": "w",
+     "n": "Chưa có dấu suy gan; INR làm được ở huyện (ACG 2017 KC 19). Tiêu chuẩn nhập viện của viêm gan E: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm gan virus cấp kiểu tổn thương tế bào gan, vàng da nhẹ, AST 780 · ALT 1.240 U/L (≈ 38 lần giới hạn trên)",
+     "Căn nguyên nghi nhiều nhất: viêm gan E (tiết canh, dồi heo tái cách 5 tuần), chưa loại viêm gan A; cần IgM anti-HEV, IgM anti-HAV",
+     "Chưa có dấu suy gan cấp (tỉnh, không run vỗ cánh, không chảy máu); INR chưa có",
+     "Chưa loại hẳn tắc mật, viêm gan B, C cấp, tổn thương gan do thuốc, thảo dược: cần xét nghiệm tuyến huyện",
+     "Bệnh kèm: tăng huyết áp đang dùng amlodipin 5 mg, HA 128/82 mmHg"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: anh chỉ kể mệt, chán ăn và xin thuốc huyết áp. Phải hỏi thẳng, hỏi nhẹ nhàng về màu nước tiểu, màu phân, mắt vàng, ngứa mới ra bệnh cảnh viêm gan: sốt nhẹ, nhức mỏi, chán ăn, nước tiểu sẫm, vàng mắt (QĐ 5450/2014 mục II.1; QĐ 5447/2014 mục II.1). Kể lể lộn xộn: chia mốc thời gian (ngày 1–2, ngày 3–5, hôm nay) rồi hỏi từng ý.",
+     "Hỏi phơi nhiễm và thuốc: ăn gì lạ 1–2 tháng nay (tiết canh, heo tái, hải sản sống, rau sống), paracetamol, thuốc nam, thực phẩm chức năng, rượu bia (ACG 2017 KC 11, 4, 6). Tiết canh và dồi heo tái cách 5 tuần nằm trong thời gian ủ bệnh HEV 15–60 ngày (EASL 2018 tr. 1262); thịt heo chưa nấu chín là đường lây quan trọng (tr. 1258). Paracetamol 2 g trong 2 ngày không đạt liều ngộ độc > 150 mg/kg (QĐ 3610/2015 mục 3).",
+     "Khám: củng mạc vàng nhẹ, gan to 2 cm mềm ấn đau nhẹ, Murphy âm tính, không run vỗ cánh, không bầm tím: viêm gan có vàng da, chưa dấu suy gan (QĐ 5450/2014 mục II.4.2; ACG 2017 KC 19).",
+     "Cận lâm sàng tại chỗ: ALT 1.240 U/L ≈ 38 lần giới hạn trên nam 33 U/L, trên ngưỡng 15 lần: tìm viêm gan A, B, C cấp, hỏi paracetamol, đánh giá suy gan cấp (ACG 2017 KC 17–19; Hình 3). ALT > AST, bilirubin niệu 3+. Không thiếu máu, tiểu cầu bình thường. Kiểu tổn thương (R) cần ALP nên chưa tính được ở cơ sở này.",
+     "Phân biệt A với E: hai hướng dẫn BYT liệt kê triệu chứng giống nhau nên không phân biệt bằng lâm sàng; cần IgM anti-HAV, IgM anti-HEV (QĐ 5447/2014, QĐ 5450/2014 mục II.3). EASL 2018 khuyên thử HEV ngay từ đầu (tr. 1263, A1), ACG 2017 KC 4 khuyên sau khi A, B, C âm: ghi cả hai.",
+     "Tắc mật loại trừ bằng ALP, GGT, bilirubin, siêu âm (QĐ 5450/2014 mục II.5; ACG 2017 KC 13, tuyên bố 5); chưa làm được tại chỗ nên gửi huyện. Mức độ: ngoại trú được vì tỉnh táo, không chảy máu, nhưng INR phải có sớm."
+    ],
+    "phan_tich_xu_tri": [
+     "Không có điều trị đặc hiệu; chăm sóc nâng đỡ: nghỉ ngơi nhẹ nhàng, ăn giàu đạm, vitamin, giảm mỡ động vật, nhiều hoa quả; không rượu, bia, hạn chế thuốc và hóa chất độc gan (QĐ 5450/2014 mục III.1, III.2.1). Ngưng ngay nước nhân trần, diệp hạ châu (ACG 2017 KC 11; Hình 3).",
+     "Giấy giới thiệu bệnh viện huyện làm trong ngày hoặc sáng mai: bilirubin, ALP, GGT, albumin, INR, IgM anti-HEV, IgM anti-HAV, IgM anti-HBc, HBsAg, anti-HCV, siêu âm bụng. INR kéo dài hoặc bệnh não: nhập viện, gửi chuyên gia gan (ACG 2017 KC 19). Mốc 'hôm nay hoặc sáng mai' là lựa chọn của người soạn.",
+     "Paracetamol: QĐ 361/2014 Phụ lục NSAID mục 3.3 cho người có bệnh gan dưới 3 g/ngày; Phụ lục thuốc giảm đau mục 3.1 chống chỉ định khi đang có hủy tế bào gan. Ghi cả hai, chọn thận trọng: chưa dùng (anh đã hết sốt).",
+     "Thuốc huyết áp: giữ amlodipin 5 mg (HA 128/82). Hướng dẫn giữ hay ngưng thuốc hạ áp trong viêm gan cấp: không có trong tài liệu đã tải; đây là cân nhắc của người soạn.",
+     "Ăn chín, rửa tay xà phòng: QĐ 5450/2014 mục IV.2 và EASL 2018 tr. 1266–1267 (ghi cả hai mức chứng cứ). Dặn dấu hiệu nặng bằng lời và giấy. Tái khám sau 3 tuần kèm kết quả huyện (mốc không có trong tài liệu đã tải).",
+     "Những việc không nên: ribavirin (chỉ cho thể nặng, EASL tr. 1265), kháng sinh, truyền dịch 'thải độc', nhập viện hay chuyển tỉnh khi chưa có dấu suy gan."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên mỗi sáng như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp; cấp đủ đến lần tái khám (3 tuần)",
+      "ghi_chu": "Không có hướng dẫn riêng cho thuốc hạ áp trong viêm gan cấp trong tài liệu đã tải; HA đang đạt, giữ nguyên."
+     },
+     {
+      "thuoc": "Paracetamol (chưa dùng)",
+      "ham_luong": "500 mg",
+      "lieu": "Chưa dùng. Nếu thật cần: 1 viên mỗi lần, cách 6–8 giờ, tổng dưới 3 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt hoặc đau nhiều",
+      "so_ngay": "Ngắn ngày",
+      "ghi_chu": "QĐ 361/2014: Phụ lục NSAID mục 3.3 (dưới 3 g/ngày ở bệnh gan) và Phụ lục thuốc giảm đau mục 3.1 (chống chỉ định khi đang hủy tế bào gan); mức thận trọng hơn là chưa dùng."
+     },
+     {
+      "thuoc": "Nước nhân trần, diệp hạ châu, thuốc nam, thực phẩm chức năng",
+      "ham_luong": "—",
+      "lieu": "Ngưng hoàn toàn",
+      "duong": "—",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Cho đến khi bác sĩ cho phép",
+      "ghi_chu": "QĐ 5450/2014 mục III.2.1; ACG 2017 KC 11, Hình 3."
+     },
+     {
+      "thuoc": "Thuốc bảo vệ tế bào gan (BDD) hoặc glutathione (tùy chọn)",
+      "ham_luong": "—",
+      "lieu": "Liều không có trong tài liệu đã tải",
+      "duong": "Uống hoặc theo chỉ định",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "QĐ 5450/2014 mục III.2.2 chỉ liệt kê nhóm thuốc, không nêu liều. Không bắt buộc."
+     }
+    ],
+    "dan_do": [
+     "Hôm nay hoặc chậm nhất sáng mai đi bệnh viện huyện, mang giấy giới thiệu, làm đủ xét nghiệm máu và siêu âm bụng; giữ tờ kết quả mang lại phòng khám.",
+     "Nghỉ ngơi, ăn cơm cháo đủ đạm, vitamin, ít mỡ động vật, nhiều trái cây; chia nhỏ bữa nếu buồn nôn (QĐ 5450/2014 mục III.2.1).",
+     "Ngưng nước nhân trần, diệp hạ châu và mọi thuốc nam; không uống bia rượu; không tự mua thuốc giảm đau.",
+     "Vào viện ngay nếu lơ mơ, nói lẫn, ngủ gà ban ngày, chảy máu mũi hoặc chân răng, bầm tím, nôn nhiều không uống được, vàng da đậm nhanh, sốt cao (QĐ 5450/2014 mục II.4.2; ACG 2017 KC 19).",
+     "Rửa tay xà phòng sau đi vệ sinh và trước khi nấu ăn; thịt heo, nội tạng nấu thật chín, không ăn tiết canh. Vợ con để ý sốt, vàng mắt, nước tiểu sẫm thì đi khám.",
+     "Bệnh này không do bia và không có gì phải ngượng; chuyện nước tiểu, phân cứ nói với bác sĩ.",
+     "Tái khám sau 3 tuần (mốc không có trong tài liệu đã tải), mang kết quả huyện; đến sớm nếu có dấu hiệu nặng ở trên."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 tuần",
+   "tiep_don": "Anh Khánh tái khám sau 3 tuần, tự chạy xe máy đến. Anh nói hết mệt, ăn ngon trở lại, mắt hết vàng, nước tiểu vàng trong, có mang tờ kết quả của bệnh viện huyện. Sinh hiệu: HA 124/78 mmHg, mạch 72 l/p, nhiệt độ 36,8 °C, SpO₂ 99%. Cân nặng 77 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Khánh đã hết triệu chứng, AST/ALT bình thường, INR 1,1: nhập viện lúc này không có lý do. Viêm gan E ở người miễn dịch bình thường tự khỏi, chỉ cần theo dõi men gan (EASL 2018 tr. 1259; QĐ 5450/2014 mục I.4). Anh nằm viện vô ích, vợ phải nghỉ làm trông con 8 tuổi, tốn chi phí, và nỗi ngại bị hàng xóm bàn tán lại tăng.",
+    "chuyen_tuyen": "Chuyển anh Khánh lên bệnh viện tỉnh để làm HEV RNA, hội chẩn gan mật khi đã khỏi và không thuộc nhóm nguy cơ mạn tính là không cần: viêm gan E mạn chủ yếu ở ghép tạng, HIV, dùng thuốc ức chế miễn dịch (QĐ 5450/2014 mục II.4.3; EASL 2018 tr. 1260). Anh mất cả ngày đi lại, vợ nghỉ làm đưa đi, chi phí tăng, và có thể lo lắng thêm rằng bệnh còn nặng hơn bác sĩ nói."
+   },
+   "loi_mo": "Chào bác sĩ. Em khỏe lại rồi bác sĩ ơi, ăn được hai bát cơm, con bé thi xong rồi mà vợ em vẫn tăng ca hoài. À em có mang tờ giấy bên huyện. Giờ em hết bệnh rồi thì có phải uống thuốc gì nữa không bác sĩ?",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "124/78",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khoi",
+     "noi_dung": "Hết mệt, ăn ngon, mắt hết vàng khoảng một tuần nay, nước tiểu vàng trong, phân vàng, hết ngứa, lên 1 kg. Không sốt, không buồn nôn, không tức hạ sườn phải.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ hoàn toàn"
+    },
+    {
+     "id": "phieu_huyen",
+     "noi_dung": "Hôm sau lần khám trước anh đi bệnh viện huyện đúng như dặn, có tờ kết quả (bilirubin, ALP, GGT, albumin, INR, IgM anti-HEV, IgM anti-HAV, IgM anti-HBc, HBsAg, anti-HCV, siêu âm bụng). Bác sĩ huyện nói không nặng, cho về nhà theo dõi, không nhập viện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả xét nghiệm tuyến huyện"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Đã ngưng nước nhân trần, diệp hạ châu, không dùng paracetamol, nghỉ ngơi, ăn đủ chất, ăn thịt heo nấu chín, rửa tay xà phòng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ dặn dò"
+    },
+    {
+     "id": "bia",
+     "noi_dung": "Bốn hôm trước đi tiệc sinh nhật bạn, ngại từ chối nên uống 2 lon bia; sau đó không sao. Chưa dám nói vì sợ bị la.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể có uống lại bia rượu không, hỏi nhẹ nhàng, không phán xét.",
+     "y": "Uống lại bia (ngại)"
+    },
+    {
+     "id": "thuoc_nen",
+     "noi_dung": "Amlodipin 5 mg mỗi sáng, uống đều, còn thuốc. Ở nhà đo 120–128/76–82 mmHg, không phù chân, không đau đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (hạ áp)"
+    },
+    {
+     "id": "gia_dinh2",
+     "noi_dung": "Vợ và con khỏe, không ai sốt hay vàng mắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người tiếp xúc trong nhà"
+    },
+    {
+     "id": "hoi_ve",
+     "noi_dung": "Anh muốn biết còn phải uống thuốc gì không, bao giờ được uống bia lại, có ăn thịt heo được không, có cần xét nghiệm gì nữa không, vì mai bạn rủ nhậu tiếp.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "lo_lang2",
+     "noi_dung": "Sợ bệnh gan để lại di chứng hoặc lây cho con gái.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nhanh nhẹn, tiếp xúc tốt. Không phù, không bầm tím, không hạch cổ.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Củng mạc trắng, hết vàng. Kết mạc không đỏ.",
+     "k": 1
+    },
+    "da": {
+     "a": "Da hồng, không vàng, không vết gãi mới.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Gan không sờ thấy dưới bờ sườn, ấn hạ sườn phải không đau. Lách không to, không cổ trướng.",
+     "k": 1
+    },
+    "nuoc_tieu_mau": {
+     "a": "Nước tiểu vàng trong, không bọt vàng.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đúng, duỗi hai tay không run vỗ.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 72 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 72 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "r": "AST 22 · ALT 26 U/L (lần trước 780 · 1.240)",
+     "ab": 0,
+     "n": "Về dưới giới hạn trên ALT của nam 29–33 U/L (ACG 2017, mục ULN của ALT): xác nhận sinh hóa đã khỏi. EASL 2018 tr. 1259: theo dõi ALT, AST, bilirubin, INR trong viêm gan E; tiêu chí 'khỏi' cụ thể: không có trong tài liệu đã tải."
+    },
+    "ua": {
+     "v": "u",
+     "r": "SG 1,015 · Bilirubin, urobilinogen bình thường · Bạch cầu, nitrit, protein, glucose, ceton, hồng cầu âm tính",
+     "bang": {
+      "u_sg": 1.015,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Hết bilirubin niệu, phù hợp hết vàng da và nước tiểu vàng trong."
+    },
+    "huyet_thanh_hav_hev": {
+     "v": "e",
+     "r": "Phiếu bệnh viện huyện (làm 3 tuần trước): IgM anti-HEV DƯƠNG TÍNH · IgM anti-HAV âm tính · IgM anti-HBc âm tính",
+     "ab": 1,
+     "ghi_chu_mau": "Kết quả mang theo từ bệnh viện huyện, làm ngày hôm sau lần khám trước.",
+     "n": "IgM anti-HEV (+) kèm dịch tễ và lâm sàng là chẩn đoán xác định (QĐ 5450/2014 mục II.3). EASL 2018 tr. 1263 (Bảng 3, A1) khuyên kết hợp huyết thanh với HEV RNA vì IgM đơn độc chưa đủ vững; HEV RNA không có ở huyện. Ghi cả hai (sổ mâu thuẫn)."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "Phiếu bệnh viện huyện (3 tuần trước): Bilirubin toàn phần 96 µmol/L (trực tiếp 64) · ALP 168 U/L (tham chiếu < 120) · GGT 140 U/L · Albumin 39 g/L",
+     "ab": 1,
+     "n": "R = (1.240 ÷ 33) ÷ (168 ÷ 120) ≈ 27 > 5: kiểu tế bào gan, không phải ứ mật (ACG 2017, mục Patterns, tuyên bố 5). ALP, GGT tăng nhẹ đi kèm viêm gan cấp, không gợi ý tắc mật khi siêu âm đường mật không giãn."
+    },
+    "inr": {
+     "v": "e",
+     "r": "Phiếu bệnh viện huyện (3 tuần trước): INR 1,1",
+     "n": "INR bình thường: không có dấu suy tổng hợp (ACG 2017 KC 19; EASL 2018 tr. 1259)."
+    },
+    "virus_mau": {
+     "v": "e",
+     "r": "Phiếu bệnh viện huyện (3 tuần trước): HBsAg âm tính · anti-HCV âm tính",
+     "n": "Loại trừ viêm gan B, C cấp (ACG 2017 KC 2, 3)."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Phiếu bệnh viện huyện (3 tuần trước): gan to nhẹ, nhu mô đồng nhất; đường mật trong và ngoài gan không giãn; túi mật không sỏi; tụy bình thường; không cổ trướng.",
+     "n": "Loại trừ tắc mật cơ giới (QĐ 5450/2014 mục II.5; ACG 2017 Hình 3)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 148 g/L · BC 6,2 G/L · TC 224 G/L",
+     "bang": {
+      "wbc": 6.2,
+      "neu_pct": 58.0,
+      "neu": 3.6,
+      "lym_pct": 32.0,
+      "lym": 1.98,
+      "mono_pct": 7.0,
+      "mono": 0.43,
+      "eos_pct": 2.5,
+      "eos": 0.16,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 5.0,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 88.0,
+      "mch": 29.6,
+      "mchc": 336,
+      "rdw": 13.0,
+      "plt": 224
+     },
+     "n": "Không cần để xác nhận khỏi; bình thường."
+    },
+    "hbv_huyet_thanh": {
+     "n": "Không cần: HBsAg âm tính, IgM anti-HBc âm tính ở phiếu huyện."
+    },
+    "paracetamol_mau": {
+     "n": "Không cần: đã hết bệnh, không dùng paracetamol."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm gan E cấp (IgM anti-HEV dương tính, kiểu tế bào gan R ≈ 27, INR 1,1) đã hồi phục hoàn toàn: hết triệu chứng, AST/ALT về bình thường; tăng huyết áp đang kiểm soát",
+     "ok": 1,
+     "n": "Tự khỏi, không biến chứng ở người miễn dịch bình thường (QĐ 5450/2014 mục I.4). Dịch tễ tiết canh, heo tái trong thời gian ủ bệnh (EASL 2018 tr. 1262)."
+    },
+    {
+     "t": "Viêm gan A cấp",
+     "n": "IgM anti-HAV âm tính (QĐ 5447/2014 mục II.3)."
+    },
+    {
+     "t": "Tắc mật",
+     "n": "R > 5 kiểu tế bào gan, siêu âm đường mật không giãn, hết vàng da không cần can thiệp (QĐ 5450/2014 mục II.5; ACG 2017 tuyên bố 5)."
+    },
+    {
+     "t": "Tổn thương gan do thuốc hoặc thảo dược",
+     "n": "IgM anti-HEV dương tính giải thích bệnh; paracetamol liều thấp, thảo dược uống sau khi đã bệnh. EASL 2018 tr. 1263: 13% ca nghi DILI hóa ra viêm gan E."
+    },
+    {
+     "t": "Viêm gan B, C cấp",
+     "n": "HBsAg, IgM anti-HBc, anti-HCV âm tính."
+    },
+    {
+     "t": "Viêm gan E mạn",
+     "n": "Chỉ gặp ở ghép tạng, HIV, dùng thuốc ức chế miễn dịch (QĐ 5450/2014 mục II.4.3; EASL 2018 tr. 1260); anh miễn dịch bình thường và men gan đã bình thường."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận đã khỏi: hết vàng mắt, nước tiểu và phân bình thường, ăn ngon, gan không to; AST/ALT về bình thường; đối chiếu phiếu huyện (INR 1,1, IgM anti-HEV dương)",
+     "v": "c",
+     "n": "QĐ 5450/2014 mục I.4, II.1; EASL 2018 tr. 1259 (theo dõi ALT, AST, bilirubin, INR); ULN ALT nam 29–33 U/L (ACG 2017). Tiêu chí 'khỏi' và mốc thời gian: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích chẩn đoán xác định viêm gan E bằng IgM anti-HEV dương kèm dịch tễ và lâm sàng (QĐ 5450) hoặc kèm HEV RNA nếu có điều kiện (EASL); không cần xét nghiệm HEV RNA hay IgM lặp lại để 'chứng minh khỏi'",
+     "v": "c",
+     "n": "QĐ 5450/2014 mục II.2–II.3: IgM kéo dài đến 6 tháng; EASL 2018 tr. 1262–1263: IgM thường không quá 3–4 tháng, có thể đến 1 năm, huyết thanh học nên kèm HEV RNA (A1). IgM còn dương sau này không có nghĩa còn bệnh. Ghi cả hai."
+    },
+    {
+     "t": "Không còn thuốc nào phải uống thêm cho viêm gan; không cần thuốc bảo vệ gan. Tiếp tục amlodipin 5 mg mỗi sáng",
+     "v": "c",
+     "n": "Không có điều trị đặc hiệu (QĐ 5450/2014 mục III.1). Thuốc nam và paracetamol đã ngưng, không dùng lại khi chưa hỏi bác sĩ (ACG 2017 KC 11). Chỉ dẫn riêng cho thuốc hạ áp sau viêm gan cấp: không có trong tài liệu đã tải; HA 124/78."
+    },
+    {
+     "t": "Hỏi thẳng, không phán xét về việc có uống bia lại không; dặn tiếp tục không rượu bia, hẹn kiểm tra lại ALT trước khi uống lại",
+     "v": "c",
+     "n": "QĐ 5450/2014 mục III.2.1: không rượu, bia; ACG 2017 Hình 3: ngưng rượu. Mốc được uống lại: không có trong tài liệu đã tải; việc hẹn ALT trước khi uống lại là cân nhắc của người soạn."
+    },
+    {
+     "t": "Phòng tái nhiễm: thịt heo, nội tạng nấu chín, không ăn tiết canh; rửa tay xà phòng; sau khỏi vẫn có thể bị lại",
+     "v": "c",
+     "n": "Miễn dịch sau nhiễm không vô trùng, tái nhiễm có thể xảy ra (EASL 2018 tr. 1259). QĐ 5450/2014 mục IV.2 (rửa tay, không ăn hải sản sống hoặc chưa chín); EASL tr. 1266–1267: tránh thịt heo chưa chín chưa đủ chứng cứ cho dân số chung, B2 ≥ 70 °C cho nhóm nguy cơ. Ghi cả hai, dặn ăn chín."
+    },
+    {
+     "t": "Dặn quay lại sớm khi tái phát vàng mắt, nước tiểu sẫm, mệt, chán ăn; vợ con có triệu chứng thì đi khám",
+     "v": "c",
+     "n": "QĐ 5450/2014 mục II.1. Khả năng lây từ người sang người chưa rõ (EASL 2018 tr. 1266); tiêu chí xét nghiệm người tiếp xúc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn kiểm tra AST/ALT sau 3 tháng; không cần xét nghiệm IgM, HEV RNA",
+     "v": "a",
+     "n": "Mốc 3 tháng là lựa chọn của người soạn, không có trong tài liệu đã tải. Nhiễm HEV kéo dài (> 3 tháng) chỉ ở người suy giảm miễn dịch (EASL 2018 tr. 1260; QĐ 5450/2014 mục II.4.3). Men gan bất thường kéo dài: theo dõi 3–6 tháng (ACG 2017 Hình 1–2)."
+    },
+    {
+     "t": "Thuốc bảo vệ tế bào gan, glutathione, 'thải độc gan' dùng thêm sau khỏi",
+     "v": "a",
+     "n": "QĐ 5450/2014 mục III.2.2 liệt kê nhóm thuốc, không nêu thời gian; không còn chỉ định khi đã khỏi."
+    },
+    {
+     "t": "Làm lại IgM anti-HEV và HEV RNA mỗi tháng đến khi âm tính",
+     "v": "w",
+     "n": "IgM tồn tại nhiều tháng sau khỏi (EASL 2018 tr. 1262); theo dõi men gan là đủ ở người miễn dịch bình thường (tr. 1259)."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bệnh viện tỉnh lúc này",
+     "v": "w",
+     "n": "Đã khỏi, INR 1,1; mạn tính chỉ ở nhóm suy giảm miễn dịch (QĐ 5450/2014 mục II.4.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm gan E cấp đã hồi phục: IgM anti-HEV dương tính (phiếu huyện), hết vàng da, AST/ALT 22/26 U/L",
+     "Kiểu tổn thương tế bào gan (R ≈ 27), INR 1,1, siêu âm đường mật không giãn: loại tắc mật, không suy gan",
+     "Viêm gan A (IgM anti-HAV âm), viêm gan B, C cấp (HBsAg, IgM anti-HBc, anti-HCV âm) đã loại trừ",
+     "Nguy cơ chuyển mạn thấp: người miễn dịch bình thường",
+     "Bệnh kèm: tăng huyết áp, HA 124/78 mmHg với amlodipin 5 mg"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi lại triệu chứng từng hệ (vàng mắt, nước tiểu, phân, ăn uống, mệt) và nhờ anh đưa tờ huyện: anh sẽ không tự đưa nếu không được hỏi. Kể lể lộn xộn nên tóm tắt từng ý.",
+     "Phiếu huyện: bilirubin 96 µmol/L, ALP 168, GGT 140 U/L với ALT 1.240: R ≈ 27 > 5 là tổn thương tế bào gan (ACG 2017 tuyên bố 5); INR 1,1 không suy gan; siêu âm không giãn đường mật; IgM anti-HAV, IgM anti-HBc, HBsAg, anti-HCV âm. IgM anti-HEV dương: chẩn đoán xác định theo QĐ 5450/2014 mục II.3; EASL 2018 tr. 1263 muốn kèm HEV RNA, huyện không làm được. Ghi cả hai.",
+     "Tiêu chí khỏi tại phòng khám: hết triệu chứng, hết vàng mắt, bilirubin niệu âm, AST/ALT 22/26 U/L dưới giới hạn trên (ACG 2017 mục ULN). Tiêu chí khỏi chính thức và mốc thời gian không có trong tài liệu đã tải.",
+     "Không cần xét nghiệm virus lặp lại: IgM anti-HEV có thể dương 3–4 tháng, có khi 1 năm (EASL 2018 tr. 1262), QĐ 5450/2014 mục II.2 ghi đến 6 tháng; mạn tính chỉ ở người suy giảm miễn dịch (mục II.4.3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không còn thuốc phải uống cho viêm gan (QĐ 5450/2014 mục III.1). Thuốc nam, nước lá, paracetamol: không dùng lại khi chưa hỏi bác sĩ. Thuốc huyết áp: tiếp tục amlodipin 5 mg, không có hướng dẫn riêng trong tài liệu đã tải.",
+     "Bia rượu: QĐ 5450/2014 mục III.2.1 dặn không rượu bia; mốc được uống lại không có trong tài liệu, nên hẹn ALT trước khi uống lại. Hỏi nhẹ nhàng vì anh ngại thừa nhận đã uống 2 lon.",
+     "Phòng tái nhiễm: nấu chín thịt heo, nội tạng, bỏ tiết canh, rửa tay xà phòng (QĐ 5450/2014 mục IV.2; EASL 2018 tr. 1259, 1266–1267). Vắc xin viêm gan E chỉ nêu cho người suy giảm miễn dịch hoặc bệnh gan mạn (QĐ 5450/2014 mục IV.1): không có chỉ định cho anh.",
+     "Theo dõi: dặn dấu hiệu quay lại; hẹn ALT sau 3 tháng (mốc của người soạn, không có trong tài liệu đã tải); không làm IgM hay HEV RNA lại (EASL 2018 tr. 1262).",
+     "Những việc sai: làm lại huyết thanh hay HEV RNA hằng tháng, nhập viện, chuyển tuyến tỉnh khi đã khỏi."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên mỗi sáng như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng tiếp, tái khám huyết áp định kỳ",
+      "ghi_chu": "Không có hướng dẫn riêng cho thuốc hạ áp sau viêm gan cấp trong tài liệu đã tải; HA 124/78 đạt."
+     },
+     {
+      "thuoc": "Thuốc điều trị viêm gan E",
+      "ham_luong": "—",
+      "lieu": "Không kê",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "QĐ 5450/2014 mục III.1: không có điều trị đặc hiệu; đã khỏi."
+     }
+    ],
+    "dan_do": [
+     "Bệnh đã khỏi; không phải uống thêm thuốc nào cho gan. Không dùng lại nước nhân trần, diệp hạ châu, thuốc nam, thuốc giảm đau tự mua khi chưa hỏi bác sĩ.",
+     "Tiếp tục không bia rượu; hẹn xét nghiệm AST/ALT sau 3 tháng rồi hỏi bác sĩ khi nào được uống lại (mốc không có trong tài liệu đã tải).",
+     "Thịt heo, lòng, dồi nấu thật chín, không ăn tiết canh; rửa tay xà phòng; vẫn có thể bị lại nếu ăn đồ sống (EASL 2018 tr. 1259).",
+     "Quay lại sớm nếu vàng mắt, nước tiểu sẫm, mệt, chán ăn trở lại; vợ con có triệu chứng này thì đi khám.",
+     "Tiếp tục amlodipin 5 mg mỗi sáng (không có hướng dẫn riêng trong tài liệu đã tải), tự đo huyết áp ở nhà và đo lại khi tái khám.",
+     "Chuyện đã uống 2 lon bia không có gì phải ngại; cứ nói thật để bác sĩ dặn đúng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hôm sau lần khám đầu, anh Khánh đi bệnh viện huyện: IgM anti-HEV dương tính, IgM anti-HAV, IgM anti-HBc, HBsAg, anti-HCV âm tính, INR 1,1, siêu âm đường mật không giãn; bác sĩ huyện cho về theo dõi. Sau 3 tuần anh hết vàng mắt, AST/ALT 22/26 U/L. Anh nấu chín thịt heo, bỏ tiết canh, kiêng bia rượu; vợ con không ai bị bệnh. Ba tháng sau ALT 24 U/L, không tái phát (dữ kiện thiết kế của ca).",
+ "nhieu": [
+  "Kể lể lộn xộn: ý chính (nước tiểu sẫm, phân nhạt, vàng mắt, tiết canh) nằm lẫn trong chuyện con thi, vợ tăng ca, giá thịt; anh còn ngại nói. Chia mốc thời gian, hỏi từng ý ngắn và tóm tắt lại thì mới ra bệnh sử.",
+  "Xin thuốc huyết áp là cái cớ che triệu chứng thật; HA 128/82 đang đạt và amlodipin không liên quan viêm gan.",
+  "Chỉ có xét nghiệm cơ bản: không có bilirubin, ALP, GGT, INR, IgM, siêu âm. Chỉ AST/ALT và nước tiểu cho biết đây là viêm gan; cần giấy giới thiệu bệnh viện huyện và theo dõi bằng lâm sàng trong lúc chờ.",
+  "Paracetamol 2 g, nước nhân trần, diệp hạ châu là nhiễu hợp lý nhưng đều xảy ra sau khi đã bệnh hoặc dưới ngưỡng ngộ độc; chỉ lộ khi hỏi cụ thể."
+ ],
+ "bai_hoc_bien": [
+  "AST/ALT hàng nghìn kèm vàng da ở người trẻ: nghĩ viêm gan virus cấp; ALT > 15 lần giới hạn trên là mức nặng, phải tìm viêm gan A, B, C, hỏi paracetamol và dấu suy gan (ACG 2017 KC 17–19, Hình 3).",
+  "Viêm gan A và E giống nhau về lâm sàng; hỏi ăn tiết canh, thịt heo, nội tạng tái trong 15–60 ngày (EASL 2018 tr. 1262). Chỉ IgM phân biệt.",
+  "Người ngại không kể nước tiểu, phân, mắt vàng: hỏi thẳng, hỏi nhẹ, nói rõ bệnh không do bia thì mới thu được triệu chứng thật.",
+  "Cơ sở không có INR, bilirubin, IgM: viết giấy giới thiệu và dặn dấu hiệu nặng (INR kéo dài hoặc bệnh não thì nhập viện, ACG 2017 KC 19) thay vì nhập viện hay chuyển tỉnh vô ích.",
+  "Khi đã khỏi: ALT bình thường là đủ; không làm lại IgM hay HEV RNA vì IgM còn dương nhiều tháng; dặn nấu chín thịt heo vì có thể nhiễm lại (EASL 2018 tr. 1259, 1262)."
+ ],
+ "diem_nho": [
+  "Viêm gan E không có điều trị đặc hiệu, thường tự khỏi; chăm sóc: nghỉ ngơi, ăn đủ đạm, vitamin, giảm mỡ, không rượu bia, hạn chế thuốc độc gan (QĐ 5450/2014 mục III).",
+  "Ủ bệnh HEV 15–60 ngày; thử HEV ở mọi bệnh nhân viêm gan hoặc nghi DILI (EASL 2018 tr. 1262–1263, A1); ACG 2017 KC 4 chỉ cân nhắc khi A, B, C âm.",
+  "R = (ALT ÷ ULN) ÷ (ALP ÷ ULN): > 5 tế bào gan, < 2 ứ mật (ACG 2017). ULN ALT nam 29–33 U/L.",
+  "Ribavirin chỉ cho viêm gan E cấp nặng hoặc suy gan cấp trên nền mạn (EASL 2018 tr. 1265, C2); HEV mạn chủ yếu ở suy giảm miễn dịch (QĐ 5450/2014 mục II.4.3).",
+  "IgM anti-HEV dương: QĐ 5450 tính đến 6 tháng, EASL thường 3–4 tháng đến 1 năm; EASL khuyên kèm HEV RNA."
+ ],
+ "nguon": [
+  "BYT QĐ 5450/QĐ-BYT ngày 30/12/2014 – Hướng dẫn chẩn đoán, điều trị bệnh viêm gan vi rút E – TL-0175 – mục I.4, II.1–II.5, III.1, III.2.1, III.2.2, IV.1, IV.2. Kho ghi: hiệu lực chưa chắc, chưa thấy văn bản thay thế.",
+  "BYT QĐ 5447/QĐ-BYT ngày 30/12/2014 – Hướng dẫn chẩn đoán, điều trị bệnh viêm gan vi rút A – TL-0174 – mục II.1, II.2, II.3, II.4.2, III.1.",
+  "EASL Clinical Practice Guidelines on hepatitis E virus infection 2018 – TL-0227 – tr. 1258 (đường lây), 1259 (diễn biến, theo dõi, tái nhiễm), 1260 (mạn tính), 1262 (ủ bệnh, IgM), 1263 (khuyến cáo A1, Bảng 3, DILI), 1265 (ribavirin C2), 1266–1267 (phòng bệnh, B2).",
+  "ACG Clinical Guideline: Evaluation of Abnormal Liver Chemistries 2017 – TL-0231 – KC 2, 3, 4, 5, 6, 11, 13, 17, 18, 19; Hình 1–3; mục ULN của ALT; mục Patterns of liver chemistry test elevations (tuyên bố 5, R ratio).",
+  "BYT QĐ 361/QĐ-BYT 2014 – bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID mục 3.3; Phụ lục thuốc giảm đau mục 3.1. BYT QĐ 3610/QĐ-BYT 2015 – xử trí ngộ độc – kho tltk-10000-ca – Ngộ độc paracetamol mục 3.",
+  "Không có trong tài liệu đã tải: tiêu chuẩn nhập viện của viêm gan E thể thường; tiêu chí khỏi và mốc thời gian; mốc tái khám 3 tuần, kiểm ALT sau 3 tháng; thời điểm được uống bia lại; chỉ dẫn giữ hay ngưng thuốc hạ áp khi viêm gan cấp; chỉ định truyền dịch trong viêm gan cấp; tiêu chí xét nghiệm người tiếp xúc; giá trị phân biệt tắc mật của urobilinogen niệu."
+ ],
+ "phien_ban_ca": "1 – soạn lần đầu (2026-11-21)",
+ "ghi_chu_bien_tap": [
+  "Ngày viết 21/11/2026. Tài liệu đã đọc: TL-0175 (QĐ 5450/2014 toàn văn), TL-0174 (QĐ 5447/2014 toàn văn), TL-0227 (EASL 2018: Epidemiology, Clinical aspects, Diagnosis, Treatment, Prevention), TL-0231 (ACG 2017: KC 1–19, Hình 1–3, ULN, R ratio), TL-0286 (QĐ 361/2014 hai dòng paracetamol), QĐ 3610/2015 (Ngộ độc paracetamol mục 3).",
+  "Ca có anh em cùng bệnh là TH-1357 (nữ 46 tuổi, 3 lượt); ca này khác nam 34 tuổi, nội trợ, 2 lượt, đỡ hoàn toàn, giấu triệu chứng vì ngại, chỉ có xét nghiệm cơ bản. Dùng lại mục sổ mâu thuẫn: IgM anti-HEV (thử ngay hay sau A, B, C), paracetamol ở bệnh gan (QĐ 361/2014), thịt heo chưa chín.",
+  "Sổ cái: chẩn đoán loại trừ viêm gan A và tắc mật nằm trong chan_doan cả hai lượt; ràng buộc nguồn lực khóa siêu âm, X-quang; bilirubin, ALP, GGT, INR, IgM, HBsAg là xét nghiệm không làm được tại chỗ (cùng cách ghi TH-1326); lượt 2 là kết quả phiếu huyện mang theo.",
+  "Mâu thuẫn mới đề xuất: tiêu chuẩn xác định HEV (IgM đơn độc – QĐ 5450 so với huyết thanh kèm HEV RNA – EASL) và thời gian IgM tồn tại; xem TH-1354_mau_thuan.md.",
+  "Chỗ nghi: QĐ 5450/2014 bị gắn nhãn hết hiệu lực (kho ghi chưa chắc). Mốc tái khám 3 tuần và 3 tháng là lựa chọn của người soạn. Chưa kiểm vị trí trang tuyệt đối của ACG 2017 (ghi theo số khuyến cáo và hình)."
+ ]
+}
