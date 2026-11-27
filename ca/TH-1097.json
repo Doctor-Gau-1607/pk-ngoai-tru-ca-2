@@ -1,0 +1,923 @@
+{
+ "ma_ca": "TH-1097",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_gan_nhiem_mo_khong_do_ruou_nafld_masld",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Gan nhiễm mỡ không do rượu (NAFLD)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm gan virus",
+   "Viêm gan do rượu"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nữ",
+  "nghe_nghiep": "Nội trợ (ở nhà trông cháu nội ban ngày)",
+  "yeu_to_khoi_phat": "Tiếp xúc người bệnh ho (chăm cháu nội ho sốt hơn một tuần)",
+  "thuoc_dang_dung": "Thuốc ngủ an thần (diazepam 5 mg mỗi tối, tự mua tiếp theo toa cũ)",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim"
+ },
+ "benh_nhan": {
+  "ten": "Vũ Thị Nhung",
+  "tuoi": 67,
+  "gioi": "Nữ",
+  "nghe": "Nội trợ (ở nhà trông cháu nội ban ngày)",
+  "can_nang": 51,
+  "chieu_cao": 153,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ'. Chị Lan (con dâu) gọi bà là 'mẹ', xưng 'con' với bà và 'tôi' hoặc 'chị' với bác sĩ.",
+  "tinh_cach": "Lanh lợi, nói nhanh, hay hỏi dồn dập, lo xa; hay đọc Facebook và điện thoại để tự tìm bệnh. Thương cháu, hay thức đêm lo nghĩ. Nghe được nếu bác sĩ ghi nhận phần bà nói đúng. Tỉnh táo, không lú lẫn.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: chị Lan gõ triệu chứng ra 'gan nhiễm mỡ độ 3, sẽ thành xơ gan rồi ung thư gan, phải uống thuốc bổ gan'. Bà hỏi thẳng 'có đúng không, có phải chụp CT không?'. Chẩn đoán gan nhiễm mỡ có thể đúng; 'độ 3', 'chắc thành ung thư' thì chưa. Bác sĩ gạt phắt thì bà mất tin; ghi nhận phần đúng, nói rõ phần chưa biết thì bà nghe.",
+  "nguoi_nha": "Chị Lan, 38 tuổi, con dâu, nhân viên văn phòng, chở bà đi khám trước giờ làm. Nhanh nhảu, cầm điện thoại đọc kết quả tra mạng. Biết mẹ khó ngủ. KHÔNG biết chuyện cô hàng xóm mất vì nhồi máu và chuyện bà uống thêm thuốc ngủ.",
+  "ten_nguoi_nha": "Chị Lan (con dâu)",
+  "ngoai_hinh": {
+   "da": "#d9ae8a",
+   "toc": "#cfcac4",
+   "kieuToc": "bui",
+   "ao": "#8a6f9e",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e2b794",
+    "toc": "#2a1d16",
+    "kieuToc": "dai",
+    "ao": "#c7ced6",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "binh"
+   }
+  }
+ },
+ "ly_do_kham": "Tức nặng bên sườn phải lan lên giữa ngực 2 tuần, ho khan nhẹ mấy hôm; tra mạng thấy giống gan nhiễm mỡ",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT; chụp CT ở bệnh viện tỉnh cách 35 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Vũ Thị Nhung, 67 tuổi, nội trợ, chị Lan (con dâu) chở đến. Tức nặng bên sườn phải lan lên giữa ngực khoảng 2 tuần, mệt, ho khan nhẹ mấy hôm nay. Bà tra điện thoại thấy 'giống gan nhiễm mỡ' và muốn hỏi có thành xơ gan, ung thư không. Cân nặng 51 kg. Sinh hiệu: mạch 88 l/p, HA 136/84 mmHg, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện vì tức ngực là quá tay: ECG bình thường, hs-TnT 4 ng/L khi triệu chứng đã kéo dài nhiều giờ, huyết động ổn (ESC 2023 Hình 6 chú thích a; QĐ 2187/2019 Hình 3). Bà nằm viện lạ, ngủ càng kém, tốn tiền, chị Lan nghỉ làm, và có thể bị cho thêm an thần dù đã dùng diazepam ở tuổi 67 (AGS Beers 2023 Bảng 2). Gan nhiễm mỡ chỉ cần can thiệp lối sống.",
+    "chuyen_tuyen": "Gửi bà lên bệnh viện tỉnh chụp CT, đo đàn hồi ngay là không cần: FIB-4 1,70 < 2,0 ở người > 65 tuổi, nguy cơ xơ hóa thấp (EASL-EASD-EASO 2024 Hình 2); phòng khám không có CT và CT không thêm gì. Bà đi 35 km, chị Lan nghỉ làm, kết quả nhiều khả năng lặp lại điều đã biết, còn chuyện ngủ, thuốc ngủ và nỗi sợ nhồi máu vẫn chưa ai hỏi tới."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi tức nặng bên sườn phải, lên tới giữa ngực, hai tuần nay, mệt nữa. Con dâu tra mạng nói giống gan nhiễm mỡ. Có đúng không bác sĩ? Có thành xơ gan, ung thư gan không?",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "136/84",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tức nặng bên sườn phải, lan lên giữa ngực, khoảng 2 tuần; mệt. Ho khan nhẹ 4 ngày nay.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "dac_diem_dau",
+     "noi_dung": "Tức nặng âm ỉ dưới sườn phải, lan lên giữa ngực và ra sau lưng phải; nặng hơn sau bữa nhiều dầu mỡ và về đêm, nằm nghiêng trái đỡ hơn. Không liên quan gắng sức (đi chợ, leo hai bậc thềm không đau hơn). Không vã mồ hôi, buồn nôn, khó thở, không lan tay trái hay hàm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau: phân biệt gan–mật và tim"
+    },
+    {
+     "id": "ho_tiep_xuc",
+     "noi_dung": "Chăm cháu nội 5 tuổi ho sốt hơn một tuần, cháu đã khỏi. Bà ho khan nhẹ 4 ngày, không sốt, không khó thở, không ho ra máu, không ra mồ hôi trộm, không sụt cân. Trong nhà không ai ho kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc người ho; sàng lọc nhiễm trùng hô hấp và lao"
+    },
+    {
+     "id": "sang_loc_gan",
+     "noi_dung": "Không vàng da, không vàng mắt, nước tiểu vàng nhạt, phân vàng, không ngứa, không sốt, không nôn. Cân nặng quanh 51–52 kg nhiều năm, không sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu hiệu bệnh gan mật nặng"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Không uống rượu bia; chỉ nhấp một chén nhỏ rượu cúng ngày Tết. Không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ bệnh gan do rượu"
+    },
+    {
+     "id": "chuyen_hoa",
+     "noi_dung": "Mỡ máu cao 2 năm nay, bác sĩ cũ dặn ăn kiêng, chưa dùng thuốc. Chưa bị tiểu đường, chưa tăng huyết áp. Mẹ bà bị tiểu đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố chuyển hóa"
+    },
+    {
+     "id": "an_van_dong",
+     "noi_dung": "Ăn cơm nhiều (ba bữa, mỗi bữa 2–3 chén), thích bánh ngọt, chè; uống 1 lon nước ngọt mỗi ngày; ít thịt mỡ. Ngồi trông cháu cả ngày, ít đi bộ vì đau đầu gối nhẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn uống và vận động (nền tảng điều trị)"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Chưa từng đau thắt ngực khi gắng sức, chưa từng nhồi máu, không hồi hộp, không phù chân, không ngất. Không dùng aspirin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử tim mạch"
+    },
+    {
+     "id": "tuyen_truoc",
+     "noi_dung": "Tuần trước bà ghé phòng khám tư gần chợ vì tức ngực. Bác sĩ ở đó nghe tim phổi, nói 'gan nhiễm mỡ nặng, uống bổ gan là hết', cho viên 'bổ gan, giải độc gan' thảo dược (không ghi rõ thành phần) 2 viên/ngày, dặn uống thuốc ngủ như cũ. Không đo điện tim, không lấy máu. Bà uống 7 ngày, tức không bớt.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì bà chỉ kể thuốc ngủ. Chỉ kể khi bác sĩ hỏi đã đi khám ở đâu chưa, ai cho thuốc gì, có uống thuốc bổ gan, thuốc nam, thực phẩm chức năng không.",
+     "k": 1,
+     "y": "Tuyến trước bỏ qua điện tim và xét nghiệm; thảo dược tự dùng"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Uống diazepam 5 mg 1 viên mỗi tối khoảng 2 năm (toa bác sĩ cũ, nay tự mua tiếp ở hiệu thuốc quen) vì khó ngủ từ khi chồng mất. Thỉnh thoảng uống thêm nửa viên khi thức giấc lúc 3 giờ sáng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể thuốc ngủ, thuốc an thần, ngủ có ngon không, hoặc hỏi toa thuốc cũ.",
+     "k": 1,
+     "y": "Benzodiazepin ở người cao tuổi"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Cô hàng xóm cùng tuổi, hay ngồi bán chung ở chợ, mất đột ngột vì nhồi máu cơ tim cách đây 10 ngày; hôm trước cô ấy cũng chỉ 'tức ngực, tưởng đau gan, đau dạ dày'. Bà sợ mình cũng thế; đêm nào tức ngực bà không dám ngủ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà lo nhất điều gì, vì sao nghĩ tới tim, hoặc quanh bà có ai bị bệnh tim.",
+     "k": 1,
+     "y": "Động cơ thật: sợ nhồi máu cơ tim"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi lo lắng, nói nhanh. Gầy vừa: 51 kg, cao 153 cm, BMI 21,8 kg/m²; vòng eo 82 cm. Da niêm hồng, không vàng da, không sao mạch, không lòng bàn tay son, không phù.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Ấn tức nhẹ dưới sườn phải, bờ gan sờ chạm bờ sườn, mềm, mặt nhẵn; Murphy âm tính; lách không sờ thấy; gõ không có dịch tự do.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Ấn dọc xương ức và các sườn 4–6 hai bên không đau, xoay thân không tái hiện cơn tức.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 86 l/p, trục bình thường, không ST chênh, không sóng Q, không biến đổi ST–T.",
+     "n": "Bắt buộc: đau thượng vị/ngực là triệu chứng tương đương đau ngực (ESC 2023 mục 3.1.1); ECG đọc trong 10 phút (mục 3.2). Phòng khám tư tuần trước đã bỏ qua bước này."
+    },
+    "trop": {
+     "v": "e",
+     "r": "hs-TnT 4 ng/L (ngưỡng < 14)",
+     "n": "Nghi hội chứng vành cấp thì đo hs-troponin (ESC 2023 mục 3.3). Triệu chứng kéo dài trên 3 giờ, 0 giờ < 5 ng/L (Elecsys): loại trừ (QĐ 2187/2019 Hình 3; ESC 2023 Hình 6, chú thích a)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 7,4 G/L · Hb 126 g/L · TC 228 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 7.4,
+      "neu_pct": 62.0,
+      "neu": 4.59,
+      "lym_pct": 28.0,
+      "lym": 2.07,
+      "mono_pct": 6.0,
+      "mono": 0.44,
+      "eos_pct": 3.5,
+      "eos": 0.26,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.3,
+      "hgb": 126,
+      "hct": 0.38,
+      "mcv": 89.0,
+      "mch": 29.3,
+      "mchc": 330,
+      "rdw": 13.4,
+      "plt": 228
+     },
+     "n": "Tiểu cầu để tính FIB-4 = tuổi × AST / (tiểu cầu × √ALT) (EASL-EASD-EASO 2024 Hình 2, chú thích công thức). Bạch cầu bình thường: không gợi ý nhiễm khuẩn."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 44 · ALT 58 U/L",
+     "ab": 1,
+     "n": "ALT thật sự bình thường ở nữ chỉ khoảng 19–25 U/L (AASLD 2023, mục Initial evaluation). AST, ALT tăng dưới 5 lần ULN: tìm viêm gan B, C, rượu, NAFLD, thuốc và thảo dược (ACG 2017 KC 16)."
+    },
+    "chuc_nang_gan": {
+     "v": "u",
+     "r": "Bilirubin toàn phần 11 µmol/L · ALP 84 · GGT 62 U/L · Albumin 41 g/L · INR 1,0",
+     "ab": 1,
+     "n": "Bilirubin, ALP bình thường: không gợi ý tắc mật; albumin, INR bình thường: chưa suy chức năng gan."
+    },
+    "virus_mau": {
+     "v": "u",
+     "r": "HBsAg âm tính · Anti-HCV âm tính · HIV âm tính",
+     "n": "Loại trừ viêm gan virus (ACG 2017 KC 16; AASLD 2023 Bảng 1: anti-HCV nếu chưa sàng lọc; USPSTF 2020: sàng lọc anti-HCV người 18–79 tuổi, độ B)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "5,9 mmol/L (đói)",
+     "ab": 1,
+     "n": "Glucose đói 5,6–6,9 mmol/L là tiền đái tháo đường, một yếu tố chuyển hóa (EASL-EASD-EASO 2024 Bảng 3)."
+    },
+    "hba1c": {
+     "v": "u",
+     "r": "6,0%",
+     "ab": 1,
+     "n": "HbA1c 5,7–6,4%: tiền đái tháo đường (EASL-EASD-EASO 2024 Bảng 3)."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "TC 5,8 · LDL-C 3,6 · HDL-C 1,1 · TG 2,0 mmol/L",
+     "ab": 1,
+     "n": "TG ≥ 1,7 và HDL-C < 1,3 mmol/L ở nữ là yếu tố chuyển hóa (EASL-EASD-EASO 2024 Bảng 3)."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Gan tăng echo lan tỏa, giảm xuyên sâu, bờ đều, mức nhiễm mỡ độ 2; không thấy u gan. Túi mật thành mỏng, không sỏi, không polyp. Đường mật không giãn. Tụy, lách bình thường. Không dịch ổ bụng.",
+     "ab": 1,
+     "n": "MASLD = nhiễm mỡ gan + ≥ 1 yếu tố chuyển hóa, không rượu (EASL-EASD-EASO 2024 Hình 1, Bảng 3). Siêu âm cũng loại sỏi mật; thay cho CT."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Tim phổi bình thường, không thâm nhiễm, không tràn dịch.",
+     "n": "Ho 4 ngày, SpO₂ 97%: không bắt buộc; chưa tới mốc nghi lao (ho > 2 tuần: QĐ 162/2024 mục 1.1 Bảng 1)."
+    },
+    "fibroscan": {
+     "v": "a",
+     "r": "Phòng khám không có máy đo độ đàn hồi gan; làm ở bệnh viện tỉnh cách 35 km.",
+     "n": "FIB-4 1,70 < 2,0 ở > 65 tuổi: chưa cần (EASL-EASD-EASO 2024 Hình 2); AASLD 2023 (ý chính) FIB-4 ≥ 1,3 thì có thể đo VCTE: cả hai chấp nhận."
+    },
+    "ct_bung": {
+     "n": "Không có CT và không cần: siêu âm đủ để chẩn đoán nhiễm mỡ và loại sỏi mật."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Gan nhiễm mỡ do rối loạn chuyển hóa (MASLD, trước đây NAFLD) ở bà 67 tuổi không béo phì, vòng eo 82 cm, tiền đái tháo đường, rối loạn lipid máu; nguy cơ xơ hóa thấp (FIB-4 1,70 < 2,0); triệu chứng tức hạ sườn phải không điển hình; đã loại trừ hội chứng vành cấp, viêm gan virus, bệnh gan do rượu; ho khan do nhiễm virus hô hấp nhẹ",
+     "ok": 1,
+     "n": "Nhiễm mỡ trên siêu âm + vòng eo > 80 cm ở nữ, HbA1c 6,0%, TG ≥ 1,7, HDL-C < 1,3, không rượu, chưa thấy nguyên nhân khác (EASL-EASD-EASO 2024 Hình 1, Bảng 3). Người không béo phì vẫn bị (AASLD 2023, mục NAFLD in lean individuals). Phần lớn không triệu chứng hoặc triệu chứng mơ hồ (AASLD 2023, mục Initial evaluation)."
+    },
+    {
+     "t": "Hội chứng vành cấp / nhồi máu cơ tim",
+     "n": "Không liên quan gắng sức, ECG bình thường, hs-TnT 4 ng/L khi triệu chứng > 3 giờ (ESC 2023 Hình 6; QĐ 2187/2019 Hình 3)."
+    },
+    {
+     "t": "Viêm gan virus B, C",
+     "n": "Không vàng da, HBsAg và anti-HCV âm tính (ACG 2017 KC 16)."
+    },
+    {
+     "t": "Bệnh gan do rượu / MetALD",
+     "n": "Không uống rượu; ngưỡng MetALD bắt đầu 20 g/ngày ở nữ (EASL-EASD-EASO 2024 Hình 1); mức nhẹ tối đa 20 g/ngày (AASLD 2023, mục Role of alcohol)."
+    },
+    {
+     "t": "Sỏi túi mật / bệnh đường mật",
+     "n": "Siêu âm không sỏi, đường mật không giãn; bilirubin, ALP bình thường."
+    },
+    {
+     "t": "Tổn thương gan do thảo dược / thuốc",
+     "n": "Thảo dược mới 7 ngày, triệu chứng có từ 2 tuần trước; liên quan diazepam–men gan: không có trong tài liệu đã tải. Vẫn ngưng thảo dược để quy kết (ACG 2017 KC 11, 16)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích có ghi nhận phần bà nói đúng: gan nhiễm mỡ có thật; 'độ 3' và 'chắc thành xơ gan, ung thư' chưa có (FIB-4 thấp); điện tim và men tim bình thường nên cơn tức này không phải nhồi máu",
+     "v": "c",
+     "n": "FIB-4 thấp: nguy cơ biến cố gan thấp, quản lý ở tuyến cơ sở (AASLD 2023, mục Initial evaluation; EASL-EASD-EASO 2024 Hình 2)."
+    },
+    {
+     "t": "Hỏi ra nỗi sợ thật (cô hàng xóm mất vì nhồi máu); cho bà xem điện tim, hs-TnT bình thường; dặn đi cấp cứu hoặc gọi 115 nếu đau ngực kéo dài, lúc nghỉ, tăng dần, kèm vã mồ hôi, khó thở, lan tay hoặc hàm; làm lại ECG và hs-TnT nếu đau kiểu khác",
+     "v": "c",
+     "n": "ESC 2023 mục 3.1.1, 3.2 (triệu chứng; ECG lặp lại khi cần). Mốc thời gian đau để gọi cấp cứu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tính FIB-4 = 67 × 44 / (228 × √58) = 1,70: dưới ngưỡng thấp 2,0 của người > 65 tuổi, nguy cơ thấp, chưa cần đo đàn hồi, tính lại FIB-4 sau 1–3 năm (EASL-EASD-EASO 2024) HOẶC sau 1–2 năm vì tiền đái tháo đường (AASLD 2023); nếu theo ngưỡng 1,3 của ý chính AASLD thì chuyển đo VCTE cũng chấp nhận",
+     "v": "c",
+     "n": "EASL-EASD-EASO 2024 Hình 2 (> 65 tuổi ngưỡng thấp 2,0), mục xét nghiệm không xâm lấn (lặp lại 1–3 năm); AASLD 2023 key concepts (1–2 năm khi tiền ĐTĐ; FIB-4 ≥ 1,3 thì VCTE/MRE/ELF), chú thích Hình 2 (> 65 tuổi: 2,0). Sổ mâu thuẫn: 'Từ ca TH-1105'."
+    },
+    {
+     "t": "Ăn kiểu Địa Trung Hải: bỏ nước ngọt, bớt cơm trắng, bánh ngọt, chè; hạn chế thực phẩm chế biến sẵn, thịt đỏ; tăng rau, cá, đậu, dầu thực vật",
+     "v": "c",
+     "n": "EASL-EASD-EASO 2024 Hình 3 và mục lối sống (Địa Trung Hải, giảm đồ uống có đường, thực phẩm siêu chế biến); AASLD 2023, mục macronutrient (fructose, nước ngọt)."
+    },
+    {
+     "t": "Vận động ≥ 150 phút/tuần cường độ vừa (đi bộ nhanh, đạp xe tại chỗ nếu đau gối), bắt đầu 20 phút/ngày; giảm thời gian ngồi",
+     "v": "c",
+     "n": "EASL-EASD-EASO 2024 Hình 3 (> 150 phút/tuần vừa hoặc 75 phút mạnh; giảm ngồi)."
+    },
+    {
+     "t": "Cân nặng: giảm nhẹ 3–5% (khoảng 1,5–2,5 kg) trong 6–12 tháng, HOẶC không đặt mục tiêu giảm cân ở người không béo phì mà chỉ chỉnh ăn uống và vận động; vòng eo là chỉ số theo dõi",
+     "v": "c",
+     "n": "EASL-EASD-EASO 2024 Hình 3 (cân nặng bình thường: giảm 3–5%); AASLD 2023, mục NAFLD in lean individuals (giảm cân có thể không phù hợp, ăn–tập vẫn có lợi). Sổ mâu thuẫn: mục mới 'TH-1097'. Mốc 6–12 tháng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng viên bổ gan thảo dược tự mua và không dùng thêm thực phẩm chức năng, thuốc nam",
+     "v": "c",
+     "n": "ACG 2017 KC 11, 16; EASL-EASD-EASO 2024 mục nutraceuticals: không khuyến cáo; AASLD 2023 key concepts: silymarin không dùng điều trị NASH. Sổ mâu thuẫn: 'Từ ca TH-1113'."
+    },
+    {
+     "t": "Thuốc ngủ: giữ diazepam 5 mg một viên mỗi tối như cũ, không tăng liều, không kê thêm; giải thích nguy cơ ở người > 65 tuổi (ngã, lú lẫn, gãy xương, lệ thuộc) và hẹn bàn giảm dần kèm vệ sinh giấc ngủ/CBT-I HOẶC duy trì ngắn hạn sau quyết định chung; không ngưng đột ngột",
+     "v": "c",
+     "n": "AGS Beers 2023 Bảng 2 (tránh benzodiazepin; ngã, gãy xương) và mục Deprescribing; ESRS 2023 mục 1.2 (không khuyên tăng liều), mục 4.5, Bảng 16 (giảm dần; thuốc ≤ 4 tuần); QĐ 2058/2020 Bài 27 mục 4.1, 4.3. Lịch giảm cụ thể: không có trong tài liệu đã tải. Sổ mâu thuẫn: 'Từ ca TT-0161'."
+    },
+    {
+     "t": "Hẹn tái khám sau 6–8 tuần mang theo cân, vòng eo, kết quả; gọi sớm khi vàng da, nước tiểu sẫm, sốt, đau tăng, đau ngực kiểu khác; ho > 2 tuần thì đi khám lại",
+     "v": "c",
+     "n": "Ho kéo dài trên 2 tuần: QĐ 162/2024 mục 1.1 Bảng 1. Mốc 6–8 tuần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chụp CT bụng 'cho chắc ăn'",
+     "v": "w",
+     "n": "Không có CT; không cần cho chẩn đoán nhiễm mỡ hay phân tầng xơ hóa (EASL-EASD-EASO 2024 Hình 2 dùng FIB-4 rồi đàn hồi)."
+    },
+    {
+     "t": "Cho hoặc tiếp tục thuốc bổ gan, giải độc gan (silymarin, thảo dược)",
+     "v": "w",
+     "n": "Đang dùng khi men gan bất thường: cần ngưng để quy kết (ACG 2017 KC 11, 16); không có lợi ích chứng minh (EASL 2024; AASLD 2023)."
+    },
+    {
+     "t": "Kê thêm thuốc ngủ hoặc an thần (diazepam, zolpidem) cho bà ngủ",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2: tránh benzodiazepin và nhóm Z từ 65 tuổi (hại vượt lợi)."
+    },
+    {
+     "t": "Kết luận 'đau do gan' không làm điện tim và hs-troponin",
+     "v": "w",
+     "n": "Đau thượng vị/ngực là triệu chứng tương đương đau ngực; cần ECG trong 10 phút (ESC 2023 mục 3.1.1, 3.2)."
+    },
+    {
+     "t": "Bắt đầu thuốc nhắm đích MASH (semaglutide 2,4 mg/tuần, resmetirom)",
+     "v": "w",
+     "n": "Chỉ cho MASH có xơ hóa F2–F3 theo NIT (EASL-EASD-EASO 2026; AASLD 2025); FIB-4 thấp chưa có chỉ định."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Gan nhiễm mỡ do rối loạn chuyển hóa (MASLD, tên cũ NAFLD) trên siêu âm, mức độ 2",
+     "Yếu tố chuyển hóa: vòng eo 82 cm (> 80 cm nữ), tiền đái tháo đường (HbA1c 6,0%, glucose đói 5,9), TG 2,0, HDL-C 1,1 mmol/L; người không béo phì (BMI 21,8)",
+     "Nguy cơ xơ hóa thấp: FIB-4 1,70 (< 2,0 cho người > 65 tuổi)",
+     "Đã loại trừ: hội chứng vành cấp (ECG, hs-TnT 4 ng/L), viêm gan B/C, bệnh gan do rượu, sỏi mật; ho khan do nhiễm virus hô hấp nhẹ",
+     "Bệnh kèm: mất ngủ mạn dùng diazepam 5 mg mỗi tối 2 năm (benzodiazepin ở người > 65 tuổi); đang dùng thảo dược 'bổ gan'"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao nghĩ MASLD dù không béo phì và triệu chứng lạ: nhiễm mỡ gan trên siêu âm + ≥ 1 yếu tố chuyển hóa (vòng eo > 80 cm nữ, tiền ĐTĐ, TG, HDL-C), không rượu, không nguyên nhân khác (EASL-EASD-EASO 2024 Hình 1, Bảng 3). Người gầy vẫn bị (AASLD 2023, mục NAFLD in lean individuals); phần lớn không triệu chứng hoặc mơ hồ (AASLD 2023, mục Initial evaluation).",
+     "Bà tra mạng 'gan nhiễm mỡ' là đúng; 'độ 3, xơ gan, ung thư gan' chưa có bằng chứng: FIB-4 1,70 < 2,0 ở người > 65 tuổi (EASL-EASD-EASO 2024 Hình 2, chú thích). ALT 58 U/L còn cao so với mức bình thường thật ở nữ 19–25 U/L (AASLD 2023).",
+     "Loại nhồi máu: tức ngực/thượng vị là triệu chứng tương đương đau ngực (ESC 2023 mục 3.1.1); ECG trong 10 phút (mục 3.2) bình thường; hs-TnT 4 ng/L khi triệu chứng > 3 giờ, dưới 5 ng/L (QĐ 2187/2019 Hình 3; ESC 2023 Hình 6). Tuyến trước bỏ qua ECG: may mắn không phải nhồi máu, kết cục tốt không làm cách đó thành đúng.",
+     "Loại viêm gan virus: HBsAg, anti-HCV âm tính (ACG 2017 KC 16; USPSTF 2020). Loại bệnh gan do rượu: không rượu, dưới 20 g/ngày ở nữ (EASL-EASD-EASO 2024 Hình 1; AASLD 2023). Ho khan 4 ngày: virus, X-quang bình thường, lao chỉ nghĩ khi ho > 2 tuần (QĐ 162/2024 mục 1.1 Bảng 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Nền tảng là lối sống: Địa Trung Hải, bỏ đồ uống có đường, > 150 phút/tuần (EASL-EASD-EASO 2024 Hình 3). Cân nặng người không béo phì: giảm 3–5% (EASL Hình 3) hoặc chỉ chỉnh ăn–tập (AASLD 2023, mục NAFLD in lean individuals): cả hai đều đúng.",
+     "FIB-4 1,70: EASL 2024 nguy cơ thấp (< 2,0 ở > 65 tuổi), tính lại 1–3 năm; AASLD 2023 tính lại 1–2 năm vì tiền ĐTĐ, ngưỡng 1,3 ở ý chính thì đo VCTE (chú thích Hình 2 dùng 2,0 cho > 65 tuổi). Không cần CT.",
+     "Thảo dược 'bổ gan': không khuyến cáo (EASL 2024 mục nutraceuticals; AASLD 2023); đang dùng khi men gan bất thường thì ngưng để quy kết (ACG 2017 KC 11, 16).",
+     "Diazepam ≥ 65 tuổi: Beers tránh (Bảng 2); ESRS 2023 Bảng 16 ≤ 4 tuần, mục 4.5 giảm dần; QĐ 2058/2020 Bài 27 mục 4.3 liệt kê diazepam: ghi cả ba. Lịch giảm cụ thể: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc điều trị gan nhiễm mỡ",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Điều trị chính là lối sống",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Hằng ngày",
+      "so_ngay": "Lâu dài; đánh giá lại sau 6–8 tuần",
+      "ghi_chu": "EASL-EASD-EASO 2024 Hình 3; thuốc nhắm MASH chỉ khi xơ hóa F2–F3 (EASL 2026, AASLD 2025)."
+     },
+     {
+      "thuoc": "Diazepam (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên mỗi tối như cũ, KHÔNG uống thêm",
+      "duong": "Uống",
+      "thoi_diem": "Trước khi ngủ",
+      "so_ngay": "Đến lần tái khám; bàn kế hoạch giảm dần",
+      "ghi_chu": "AGS Beers 2023 Bảng 2; ESRS 2023 mục 4.5, Bảng 16; QĐ 2058/2020 Bài 27 mục 4.3. Không ngưng đột ngột; lịch giảm cụ thể: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Viên 'bổ gan, giải độc gan' thảo dược (tự mua)",
+      "ham_luong": "Không rõ thành phần",
+      "lieu": "NGƯNG",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng",
+      "so_ngay": "Không dùng",
+      "ghi_chu": "ACG 2017 KC 11, 16; EASL-EASD-EASO 2024 mục nutraceuticals."
+     }
+    ],
+    "dan_do": [
+     "Gan nhiễm mỡ của bà có thật nhưng nhẹ, chưa xơ gan (FIB-4 thấp: EASL-EASD-EASO 2024 Hình 2). Điện tim, men tim hôm nay bình thường nên cơn tức này không phải nhồi máu.",
+     "Ăn Địa Trung Hải: bỏ nước ngọt, bớt cơm trắng, bánh ngọt, chè; thêm rau, cá, đậu. Đi bộ nhanh 20 phút mỗi ngày, tăng dần tới 150 phút/tuần (EASL-EASD-EASO 2024 Hình 3).",
+     "Ngưng viên bổ gan; lần sau mang mọi thuốc, thảo dược đang dùng.",
+     "Diazepam: 1 viên mỗi tối, không uống thêm khi thức giấc, không tự ngưng đột ngột; lần sau bàn giảm dần.",
+     "Gọi 115 nếu đau ngực kéo dài, lúc nghỉ, tăng dần, kèm vã mồ hôi, khó thở, lan tay hoặc hàm (ESC 2023 mục 3.1.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 8 tuần",
+   "tiep_don": "Bà Nhung tái khám sau 8 tuần theo hẹn, chị Lan chở đến. Bà kể tức dưới sườn phải đỡ khoảng một nửa, nhưng ban đêm vẫn còn tức giữa ngực, ngủ chập chờn và vẫn lo. Cân nặng 50,2 kg (giảm 0,8 kg). Sinh hiệu: mạch 82 l/p, HA 130/80 mmHg, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bà lên tỉnh vì 'đỡ một phần' là vội: 8 tuần còn sớm, ALT 58 xuống 46, AST 44 xuống 36, FIB-4 1,54 < 2,0 (EASL-EASD-EASO 2024 Hình 2), cân giảm tối đa ở tháng thứ 6 (EASL 2024, mục giảm cân). Bà đi 35 km, lo thêm 'gan nặng', trong khi vấn đề thật là ngủ kém, diazepam uống thêm và vừa trượt chân thì chưa ai hỏi (AGS Beers 2023 Bảng 2).",
+    "nhap_vien": "Nhập viện vì còn tức ngực đêm là quá tay: không liên quan gắng sức, ECG và hs-TnT lượt 1 bình thường (ESC 2023 mục 3.1.1, 3.2). Bà nằm viện lạ càng mất ngủ, có thể được cho thêm an thần ở tuổi 67, tăng nguy cơ ngã và lú lẫn (AGS Beers 2023 Bảng 2), còn nỗi sợ nhồi máu không được gỡ."
+   },
+   "loi_mo": "Bác sĩ ơi, bên sườn đỡ hơn nhiều rồi, nhưng đêm nào cũng tức giữa ngực, tôi nằm không dám ngủ. Cân có xuống chút xíu. Gan tôi sao chưa hết hả bác sĩ?",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "130/80",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "do_mot_phan",
+     "noi_dung": "Tức dưới sườn phải đỡ khoảng một nửa so với 8 tuần trước. Ban đêm còn tức giữa ngực, hay thức giấc lúc 2–3 giờ sáng rồi không ngủ lại được. Ho đã hết.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần sau 8 tuần"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Đã bỏ nước ngọt; còn ăn bánh ngọt 2–3 lần/tuần; ăn cơm còn 1–2 chén mỗi bữa. Đi bộ quanh khu phố 20 phút, 3–4 ngày/tuần, nghỉ khi trời mưa; đầu gối hơi đau. Cân 50,2 kg, vòng eo 80 cm. Đã ngưng viên bổ gan từ lần trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ lối sống và ngưng thảo dược"
+    },
+    {
+     "id": "dau_dem",
+     "noi_dung": "Tức giữa ngực về đêm, không liên quan gắng sức: đi bộ nhanh 20 phút không tức, không khó thở, không hồi hộp, không vã mồ hôi. Mỗi lần tức bà nhớ cô hàng xóm và không ngủ lại được; ban ngày bận trông cháu thì không tức.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt tức ngực do tim với do lo âu, mất ngủ"
+    },
+    {
+     "id": "tang_thuoc_ngu",
+     "noi_dung": "Mỗi tuần 2–3 đêm thức lúc 3 giờ, bà uống thêm một viên diazepam 5 mg nữa (tổng 2 viên). Sáng hôm sau ngủ gà, chóng mặt nhẹ. Tuần trước trượt chân trong nhà vệ sinh lúc nửa đêm, vịn được tường, không bị thương.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc đều không' thì nói chỉ uống 1 viên như dặn. Chỉ kể khi bác sĩ hỏi cụ thể có uống thêm thuốc ngủ không, sáng dậy có buồn ngủ, chóng mặt, có bị té ngã hay trượt chân không.",
+     "k": 1,
+     "y": "Tự tăng benzodiazepin, nguy cơ ngã"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi lo lắng nhưng bớt hơn lần trước. Cân 50,2 kg, BMI 21,4 kg/m²; vòng eo 80 cm. Không vàng da, không phù.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm. Ấn tức rất nhẹ dưới sườn phải, bờ gan chạm bờ sườn, mềm; Murphy âm tính; không dịch tự do.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 82 l/p, T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 82 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "dang_di_thang_bang": {
+     "a": "Đi vững, quay người không loạng choạng, Romberg âm tính; đứng lên khỏi ghế không chóng mặt. HA nằm 130/80, đứng 126/78.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Tỉnh táo, định hướng tốt, đáp ứng mạch lạc; lo âu khi nói về cô hàng xóm và ban đêm; không ý nghĩ tự hại.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "r": "AST 36 · ALT 46 U/L",
+     "ab": 1,
+     "n": "Cả hai đều giảm so với lượt 1 (AST 44, ALT 58): đáp ứng với lối sống; ALT còn cao hơn mức bình thường thật ở nữ 19–25 U/L (AASLD 2023, mục Initial evaluation)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 128 g/L · TC 231 G/L",
+     "n": "Tiểu cầu 231 G/L để tính FIB-4 = 67 × 36 / (231 × √46) = 1,54, dưới 2,0 cho người > 65 tuổi (EASL-EASD-EASO 2024 Hình 2). Chưa cần đo đàn hồi."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 80 l/p, không ST chênh, không sóng Q.",
+     "n": "Không bắt buộc lặp: đau không liên quan gắng sức, ECG và hs-TnT lượt 1 bình thường; làm lại nếu đau kiểu khác (ESC 2023 mục 3.2: ECG lặp lại khi cần)."
+    },
+    "trop": {
+     "n": "Không cần: tức kéo dài nhiều tuần, không đợt cấp mới, ECG và hs-TnT lượt 1 bình thường (ESC 2023 mục 3.3: dùng khi nghi hội chứng vành cấp)."
+    },
+    "fibroscan": {
+     "v": "a",
+     "r": "Phòng khám không có máy đo độ đàn hồi gan; làm ở bệnh viện tỉnh cách 35 km.",
+     "n": "FIB-4 1,54 < 2,0 ở > 65 tuổi: chưa cần (EASL-EASD-EASO 2024 Hình 2); AASLD 2023 ý chính (≥ 1,3) cho phép đo VCTE: chấp nhận."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "MASLD (NAFLD) đang cải thiện chậm với lối sống (AST 44 xuống 36, ALT 58 xuống 46, cân giảm 0,8 kg = 1,6%, FIB-4 1,54 < 2,0); tức ngực ban đêm do lo âu và mất ngủ chứ không phải thiếu máu cơ tim; mất ngủ mạn, tự tăng diazepam, nguy cơ ngã",
+     "ok": 1,
+     "n": "Đỡ một phần ở tuần 8 là diễn tiến bình thường: cân giảm tối đa thường ở tháng thứ 6 và men gan cải thiện theo mức giảm cân (EASL-EASD-EASO 2024, mục giảm cân). Benzodiazepin ở người ≥ 65 tuổi: ngã, gãy xương (AGS Beers 2023 Bảng 2)."
+    },
+    {
+     "t": "Thất bại điều trị lối sống / xơ hóa tiến triển",
+     "n": "Men gan và FIB-4 đang giảm; 8 tuần quá sớm để kết luận (EASL-EASD-EASO 2024 Hình 2, mục giảm cân)."
+    },
+    {
+     "t": "Hội chứng vành mạn / đau thắt ngực",
+     "n": "Đau về đêm, không liên quan gắng sức, đi bộ nhanh không tức; ECG và hs-TnT lượt 1 bình thường. Làm lại ECG, hs-TnT và đánh giá tim nếu đau kiểu gắng sức (ESC 2023 mục 3.1.1, 3.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích 'đỡ một phần' sau 8 tuần là hướng đúng, chưa phải thất bại: men gan và FIB-4 giảm; cân giảm tối đa thường ở tháng thứ 6; tiếp tục lối sống, không đổi sang thuốc",
+     "v": "c",
+     "n": "EASL-EASD-EASO 2024, mục giảm cân (mức giảm cân tương ứng cải thiện men gan; giảm tối đa ở 6 tháng) và Hình 3."
+    },
+    {
+     "t": "Củng cố lối sống: bánh ngọt còn 1 lần/tuần, cơm 1 chén mỗi bữa; tăng đi bộ lên 30–60 phút hầu hết các ngày (≥ 150 phút/tuần), có thể chia nhỏ, đạp xe tại chỗ khi mưa hoặc đau gối",
+     "v": "c",
+     "n": "EASL-EASD-EASO 2024 Hình 3 (> 150 phút/tuần) và mục vận động (30–60 phút hầu hết các ngày)."
+    },
+    {
+     "t": "Hỏi kỹ thuốc ngủ thực tế; dặn không tự thêm liều; lập kế hoạch giảm dần diazepam kèm vệ sinh giấc ngủ/CBT-I (đi ngủ và dậy đúng giờ, không nằm lâu thức trên giường), HOẶC giữ 1 viên ngắn hạn sau quyết định chung; nói rõ nguy cơ ngã",
+     "v": "c",
+     "n": "ESRS 2023 mục 4.5 (giảm dần BZ/BZRA có sơ đồ), Bảng 16 (thuốc ≤ 4 tuần; CBT-I đầu tay); AGS Beers 2023 Bảng 2 (tránh benzodiazepin, ngã, gãy xương); QĐ 2058/2020 Bài 27 mục 4.1, 4.3. Lịch giảm cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích tức ngực đêm do lo âu và mất ngủ dựa vào kết quả điện tim, men tim lượt 1; hỏi lại dấu hiệu gắng sức; dặn làm lại ECG, hs-TnT và đi khám ngay nếu đau kiểu khác",
+     "v": "c",
+     "n": "ESC 2023 mục 3.1.1 (triệu chứng), 3.2 (ECG lặp lại khi cần). Cách trấn an bằng kỹ thuật thư giãn: không có trong tài liệu đã tải ngoài mục CBT-I của ESRS 2023."
+    },
+    {
+     "t": "Tính lại FIB-4 = 1,54 (< 2,0, nguy cơ thấp); chưa cần đo đàn hồi; tính lại sau 1–3 năm (EASL 2024) HOẶC 1–2 năm (AASLD 2023)",
+     "v": "c",
+     "n": "EASL-EASD-EASO 2024 Hình 2 và mục xét nghiệm không xâm lấn; AASLD 2023 key concepts."
+    },
+    {
+     "t": "Tiếp tục không dùng thuốc bổ gan, thực phẩm chức năng",
+     "v": "c",
+     "n": "EASL-EASD-EASO 2024 mục nutraceuticals; AASLD 2023 key concepts."
+    },
+    {
+     "t": "Hẹn tái khám sau 3–4 tháng: cân, vòng eo, AST/ALT, mỡ máu, HbA1c",
+     "v": "c",
+     "n": "Mốc 3–4 tháng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bắt đầu semaglutide 2,4 mg/tuần hoặc resmetirom vì cân giảm ít",
+     "v": "w",
+     "n": "Chỉ cho MASH có xơ hóa F2–F3 theo NIT; FIB-4 thấp chưa có chỉ định (EASL-EASD-EASO 2026; AASLD 2025)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "MASLD (NAFLD) đang đáp ứng chậm với lối sống: AST 36, ALT 46 U/L (giảm), cân 50,2 kg (−1,6%), FIB-4 1,54 (< 2,0)",
+     "Tức ngực ban đêm do lo âu và mất ngủ, không phải bệnh tim (ECG, hs-TnT lượt 1 bình thường, không đau khi gắng sức)",
+     "Mất ngủ mạn, tự tăng diazepam, trượt chân: nguy cơ ngã ở người > 65 tuổi"
+    ],
+    "phan_tich_chan_doan": [
+     "Đỡ một phần hay thất bại? Tuần 8 còn sớm: cân và men gan cải thiện theo mức giảm cân, tối đa ở tháng thứ 6 (EASL-EASD-EASO 2024, mục giảm cân). AST, ALT giảm, FIB-4 1,70 → 1,54: hướng đúng.",
+     "Tức ngực còn: về đêm, sau khi nhớ cô hàng xóm, ban ngày không tức, không liên quan gắng sức; ECG, hs-TnT lượt 1 bình thường. Vẫn hỏi lại vì tức ngực là triệu chứng tương đương đau ngực (ESC 2023 mục 3.1.1); không lặp xét nghiệm khi không có đau kiểu khác (mục 3.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục lối sống, tăng vận động (EASL-EASD-EASO 2024 Hình 3); không thêm thuốc: thuốc MASH chỉ F2–F3 theo NIT (EASL 2026; AASLD 2025).",
+     "Thuốc ngủ: giảm dần và CBT-I (ESRS 2023 mục 4.5, Bảng 16); ESRS cho thuốc ≤ 4 tuần, Beers tránh hẳn, QĐ 2058/2020 liệt kê diazepam: ghi cả ba. Lịch giảm cụ thể: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Diazepam (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "Không quá 1 viên mỗi tối; không uống thêm khi thức giấc; kế hoạch giảm dần từng bước nhỏ",
+      "duong": "Uống",
+      "thoi_diem": "Trước khi ngủ",
+      "so_ngay": "Đến lần tái khám sau 3–4 tháng",
+      "ghi_chu": "AGS Beers 2023 Bảng 2; ESRS 2023 mục 4.5, Bảng 16; QĐ 2058/2020 Bài 27 mục 4.3. Lịch giảm cụ thể: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Tức ngực đêm do lo lắng, thiếu ngủ, không phải nhồi máu (điện tim, men tim bình thường, đi bộ nhanh không đau). Đau kiểu khác (khi gắng sức, kéo dài, vã mồ hôi, khó thở): đi cấp cứu ngay (ESC 2023 mục 3.1.1).",
+     "Diazepam tối đa 1 viên mỗi tối, KHÔNG uống thêm; đứng dậy chậm, bật đèn khi đi vệ sinh đêm; không tự ngưng đột ngột (AGS Beers 2023). Ngủ, dậy đúng giờ, không nằm lâu khi không ngủ được (CBT-I: ESRS 2023).",
+     "Đi bộ 30 phút hầu hết các ngày (EASL-EASD-EASO 2024, mục vận động); bánh ngọt tối đa 1 lần/tuần; không dùng thuốc bổ gan; không cần CT."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 6 tháng",
+   "tiep_don": "Bà Nhung tái khám sau 6 tháng kể từ lần đầu, chị Lan chở đến. Bà hết tức sườn phải, ban đêm thỉnh thoảng còn tức giữa ngực khi mất ngủ. Cân nặng 49,4 kg (giảm 1,6 kg so với ban đầu), vòng eo 78 cm. Bà hỏi có phải đi 'tầm soát ung thư gan' không. Sinh hiệu: mạch 78 l/p, HA 128/78 mmHg, nhiệt độ 36,6 °C, nhịp thở 16 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Gửi bà lên tỉnh siêu âm, đo đàn hồi, tầm soát ung thư 'cho chắc' là không cần: FIB-4 1,46 < 2,0 (EASL-EASD-EASO 2024 Hình 2); ở gan chưa xơ chưa có đồng thuận tầm soát ung thư gan, nguy cơ ở F0–F2 rất thấp (EASL 2024, mục HCC surveillance). Bà đi 35 km, tốn kém, và một kết quả lệch nhẹ có thể kéo bà trở lại nỗi sợ ung thư đã gỡ dần.",
+    "nhap_vien": "Nhập viện để 'cai thuốc ngủ' hoặc theo dõi gan là quá tay: bà không vàng da, không biến chứng, men gan gần bình thường, FIB-4 thấp nên theo dõi ở tuyến cơ sở (AASLD 2023, mục Initial evaluation); diazepam đã còn nửa viên. Nằm viện làm bà mất giấc ngủ quen, tốn kém, và có thể bị cho thêm an thần (AGS Beers 2023 Bảng 2)."
+   },
+   "loi_mo": "Bác sĩ ơi, bên sườn hết tức rồi, đêm còn tức ngực chút xíu thôi. Cháu tôi nói gan nhiễm mỡ phải siêu âm với thử máu tìm ung thư gan sáu tháng một lần, có phải không bác sĩ?",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "128/78",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "do_mot_phan",
+     "noi_dung": "Hết tức dưới sườn phải từ tháng thứ 3; chỉ nặng nhẹ khi ăn nhiều dầu mỡ. Tức giữa ngực ban đêm còn 1–2 đêm/tuần, chỉ khi thức giấc không ngủ lại được.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần sau 6 tháng"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Ăn cơm 1 chén mỗi bữa, không uống nước ngọt, bánh ngọt hoặc chè 1 lần/tuần. Đi bộ 30 phút, 5 ngày/tuần, kể cả hôm mưa trong nhà. Cân 49,4 kg, vòng eo 78 cm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ lối sống"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Từ sau lần khám trước chỉ uống nửa viên diazepam 5 mg, khoảng 4 đêm/tuần; 3 đêm không dùng thuốc. Không còn uống thêm khi thức giấc, không té. Bà muốn bỏ hẳn nhưng sợ mất ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giảm benzodiazepin: tiến triển và rào cản"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Leo hai tầng cầu thang chậm không tức ngực, không khó thở. Chưa từng đau khi gắng sức. Bà vui hơn, ít nhắc tới cô hàng xóm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tim mạch và lo âu"
+    },
+    {
+     "id": "hoi_ung_thu",
+     "noi_dung": "Chị Lan đọc trên mạng 'gan nhiễm mỡ phải siêu âm và thử AFP 6 tháng một lần để bắt sớm ung thư gan'. Bà lo bị ung thư gan nhưng sẽ yên tâm nếu bác sĩ giải thích rõ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Câu hỏi tầm soát ung thư gan"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vui vẻ, cân 49,4 kg, BMI 21,1 kg/m²; vòng eo 78 cm. Không vàng da, không phù.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, bờ gan không chạm bờ sườn; Murphy âm tính; không dịch tự do.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, phổi không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "r": "AST 30 · ALT 34 U/L",
+     "ab": 1,
+     "n": "Tiếp tục giảm (lượt 1: AST 44, ALT 58). ALT còn cao hơn mức bình thường thật ở nữ 19–25 U/L (AASLD 2023, mục Initial evaluation)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 130 g/L · TC 236 G/L",
+     "n": "Tiểu cầu 236 G/L để tính FIB-4 = 67 × 30 / (236 × √34) = 1,46 (< 2,0 ở > 65 tuổi, EASL-EASD-EASO 2024 Hình 2)."
+    },
+    "hba1c": {
+     "v": "u",
+     "r": "5,9%",
+     "ab": 1,
+     "n": "Vẫn trong khoảng tiền đái tháo đường 5,7–6,4% (EASL-EASD-EASO 2024 Bảng 3); người tiền ĐTĐ nên xét nghiệm lại hằng năm (ADA 2026 Bảng 2.5, mục 2)."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "TC 5,2 · LDL-C 3,2 · HDL-C 1,2 · TG 1,7 mmol/L",
+     "ab": 1,
+     "n": "TG ≥ 1,7 và HDL-C < 1,3 vẫn là yếu tố chuyển hóa (EASL-EASD-EASO 2024 Bảng 3)."
+    },
+    "fibroscan": {
+     "v": "a",
+     "r": "Phòng khám không có máy đo độ đàn hồi gan; làm ở bệnh viện tỉnh cách 35 km.",
+     "n": "FIB-4 1,46 < 2,0: chưa cần (EASL-EASD-EASO 2024 Hình 2); theo ngưỡng 1,3 của AASLD 2023 (ý chính) đo VCTE cũng chấp nhận."
+    },
+    "afp": {
+     "n": "Không cần ở gan chưa xơ: chưa có đồng thuận về tầm soát ung thư gan ở MASLD chưa xơ gan (EASL-EASD-EASO 2024, mục HCC surveillance)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "MASLD (NAFLD) đáp ứng một phần sau 6 tháng lối sống: cân giảm 3,1%, AST 30, ALT 34 U/L, FIB-4 1,46 (< 2,0, nguy cơ xơ hóa thấp); tiền đái tháo đường (HbA1c 5,9%), LDL-C 3,2 mmol/L; mất ngủ mạn đang giảm dần diazepam còn nửa viên",
+     "ok": 1,
+     "n": "Cân giảm 3–5% cải thiện nhiễm mỡ (AASLD 2023, mục Weight loss; EASL-EASD-EASO 2024 Hình 3); ALT chưa về mức 19–25 U/L (AASLD 2023); FIB-4 1,46 < 2,0 (EASL Hình 2)."
+    },
+    {
+     "t": "Xơ hóa tiến triển / xơ gan",
+     "n": "FIB-4 1,46 < 2,0, tiểu cầu 236, albumin, INR bình thường, gan không to (EASL-EASD-EASO 2024 Hình 2)."
+    },
+    {
+     "t": "Ung thư biểu mô tế bào gan",
+     "n": "Gan chưa xơ: nguy cơ rất thấp ở F0–F2; chưa có đồng thuận tầm soát ở gan chưa xơ (EASL-EASD-EASO 2024, mục HCC surveillance)."
+    },
+    {
+     "t": "Hội chứng vành / đau thắt ngực",
+     "n": "Không đau khi gắng sức (leo 2 tầng), tức đêm giảm còn 1–2 đêm/tuần; ECG, hs-TnT lượt 1 bình thường; làm lại nếu đau kiểu khác (ESC 2023 mục 3.1.1, 3.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ghi nhận tiến bộ và giải thích 'đỡ một phần' là kết quả tốt: cân giảm 3,1%, ALT 58 xuống 34, FIB-4 thấp; ALT chưa về 19–25 U/L nên vẫn tiếp tục",
+     "v": "c",
+     "n": "EASL-EASD-EASO 2024 Hình 3 (3–5% cho cân nặng bình thường); AASLD 2023 (mục Initial evaluation: ALT bình thường thật ở nữ 19–25 U/L; mục Weight loss: giảm 3–5% cải thiện nhiễm mỡ)."
+    },
+    {
+     "t": "FIB-4 1,46 < 2,0 ở > 65 tuổi: nguy cơ thấp, chưa cần đo đàn hồi; tính lại FIB-4 sau 12 tháng (hợp cả mốc 1–3 năm của EASL 2024 và 1–2 năm của AASLD 2023); đo VCTE theo ngưỡng 1,3 của AASLD cũng chấp nhận",
+     "v": "c",
+     "n": "EASL-EASD-EASO 2024 Hình 2; AASLD 2023 key concepts và chú thích Hình 2."
+    },
+    {
+     "t": "Giữ lối sống: ăn Địa Trung Hải, không đồ uống có đường, ≥ 150 phút/tuần vận động vừa, giữ cân quanh 49–50 kg (cân nặng đã đạt 3–5%); không giảm thêm",
+     "v": "c",
+     "n": "EASL-EASD-EASO 2024 Hình 3; AASLD 2023, mục NAFLD in lean individuals (người gầy: ăn và tập luyện, giảm cân có thể không phù hợp)."
+    },
+    {
+     "t": "Tiền đái tháo đường: xét nghiệm lại HbA1c và glucose đói hằng năm, cùng lúc với FIB-4 và mỡ máu",
+     "v": "c",
+     "n": "ADA 2026 Bảng 2.5, mục 2 (người tiền đái tháo đường xét nghiệm hằng năm); EASL-EASD-EASO 2024 Hình 2 (kiểm soát bệnh đi kèm)."
+    },
+    {
+     "t": "Tiếp tục giảm diazepam từng bước nhỏ (nay nửa viên, cách đêm), kèm vệ sinh giấc ngủ/CBT-I, chấp nhận vài đêm ngủ kém thoáng qua, không thay bằng thuốc ngủ khác; mục tiêu ngưng hẳn",
+     "v": "c",
+     "n": "ESRS 2023 mục 4.5 (giảm dần BZ/BZRA), Bảng 16; AGS Beers 2023 Bảng 2 và mục Deprescribing (triệu chứng cai, giảm liều); QĐ 2058/2020 Bài 27 mục 4.1. Lịch giảm cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích nỗi lo ung thư gan: gan bà chưa xơ nên nguy cơ rất thấp; ở gan nhiễm mỡ chưa xơ hiện chưa có đồng thuận phải siêu âm và thử AFP định kỳ; sẽ xét lại nếu FIB-4 tăng hoặc đàn hồi cho thấy xơ hóa",
+     "v": "c",
+     "n": "EASL-EASD-EASO 2024, mục HCC surveillance (tr. 507: chưa có đồng thuận cho MASLD chưa xơ gan; tầm soát áp dụng cho xơ gan do MASLD)."
+    },
+    {
+     "t": "Hẹn tái khám sau 12 tháng làm FIB-4, HbA1c, mỡ máu; gọi sớm nếu vàng da, nước tiểu sẫm, đau bụng tăng, đau ngực gắng sức, ngã",
+     "v": "c",
+     "n": "Mốc 12 tháng: hợp ADA 2026 Bảng 2.5 mục 2 và EASL 2024/AASLD 2023 về FIB-4; dấu hiệu cần khám sớm: không có trong tài liệu đã tải theo từng mục."
+    },
+    {
+     "t": "Bắt đầu semaglutide 2,4 mg/tuần hoặc resmetirom",
+     "v": "w",
+     "n": "Chỉ cho MASH có xơ hóa F2–F3 theo NIT; FIB-4 thấp chưa có chỉ định (EASL-EASD-EASO 2026; AASLD 2025)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "MASLD (NAFLD) đáp ứng một phần với lối sống sau 6 tháng: cân −3,1%, AST 30, ALT 34 U/L, FIB-4 1,46 (< 2,0)",
+     "Tiền đái tháo đường (HbA1c 5,9%, glucose đói 5,6), rối loạn lipid nhẹ (LDL-C 3,2; TG 1,7; HDL-C 1,2)",
+     "Mất ngủ mạn đang giảm dần diazepam (nửa viên, 4 đêm/tuần), chưa ngưng hẳn"
+    ],
+    "phan_tich_chan_doan": [
+     "'Đỡ một phần' vẫn là thành công: hết triệu chứng, cân giảm 3,1% đúng mục tiêu 3–5% (EASL-EASD-EASO 2024 Hình 3), men gan giảm; ALT 34 chưa về 19–25 U/L (AASLD 2023).",
+     "FIB-4 1,46 và tiểu cầu, albumin, INR bình thường: nguy cơ xơ hóa thấp (EASL-EASD-EASO 2024 Hình 2). Nỗi lo ung thư gan: MASLD chưa xơ gan nguy cơ rất thấp, chưa có đồng thuận tầm soát (EASL 2024, mục HCC surveillance)."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ lối sống, không giảm thêm cân, không thuốc (EASL-EASD-EASO 2024 Hình 3; thuốc MASH chỉ F2–F3: EASL 2026, AASLD 2025).",
+     "FIB-4 mỗi 12 tháng (EASL 1–3 năm, AASLD 1–2 năm); HbA1c hằng năm (ADA 2026 Bảng 2.5). Statin an toàn ở MASLD (EASL 2024 mục Statins), quyết định theo nguy cơ tim mạch."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Diazepam (đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "½ viên (2,5 mg) vào những đêm khó ngủ, không quá 4 đêm/tuần; giảm tiếp từng bước nhỏ (cách đêm)",
+      "duong": "Uống",
+      "thoi_diem": "Trước khi ngủ",
+      "so_ngay": "Đến khi ngưng hẳn; đánh giá lại ở lần tái khám 12 tháng hoặc khi cần",
+      "ghi_chu": "AGS Beers 2023 Bảng 2; ESRS 2023 mục 4.5, Bảng 16; QĐ 2058/2020 Bài 27 mục 4.3. Lịch giảm cụ thể: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Giữ cách ăn và đi bộ như hiện nay, không cần giảm thêm cân (EASL-EASD-EASO 2024 Hình 3). Gan chưa xơ nên chưa cần siêu âm, thử AFP 6 tháng/lần; năm sau thử máu tính lại chỉ số xơ hóa và đường huyết (EASL 2024; ADA 2026 Bảng 2.5).",
+     "Diazepam: nửa viên, không quá 4 đêm/tuần, sẽ giảm tiếp; không tự thêm hay ngưng đột ngột; khó ngủ thì dậy đọc sách nhẹ, không nằm lâu (ESRS 2023).",
+     "Khám ngay nếu vàng da, nước tiểu sẫm, đau bụng tăng, đau ngực khi gắng sức hoặc kéo dài (ESC 2023 mục 3.1.1), ngã. Tái khám sau 12 tháng (ADA 2026 Bảng 2.5 mục 2; EASL 2024 Hình 2)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Tuần trước lượt 1, phòng khám tư gần chợ đã bỏ qua điện tim và xét nghiệm, cho bà viên bổ gan kèm lời 'gan nhiễm mỡ nặng'; cơn tức đó may mắn không phải nhồi máu cơ tim, nhưng kết cục tốt không làm cách ấy thành đúng: nếu là thiếu máu cơ tim bà đã mất nhiều giờ. Ở phòng khám này, điện tim và hs-TnT bình thường ngay lượt 1 mới là bằng chứng. Sau 8 tuần bà đỡ một nửa; sau 6 tháng hết tức sườn phải, cân 49,4 kg (−3,1%), AST 30, ALT 34 U/L, FIB-4 1,46, đã ngưng thảo dược, nhưng chưa bỏ hẳn diazepam (nửa viên, 4 đêm/tuần): khỏi một phần.",
+ "nhieu": [
+  "Tự tra mạng 'gan nhiễm mỡ độ 3, sẽ thành xơ gan, ung thư gan': phần nhiễm mỡ đúng; 'độ 3', 'chắc ung thư' chưa có: FIB-4 1,70 → 1,54 → 1,46, đều < 2,0 (EASL-EASD-EASO 2024 Hình 2).",
+  "Ho khan 4 ngày sau chăm cháu ho sốt: virus nhẹ, X-quang bình thường; chỉ nghĩ lao khi ho > 2 tuần (QĐ 162/2024 mục 1.1 Bảng 1). Không có CT: không cần, siêu âm và FIB-4 đủ.",
+  "Tức hạ sườn phải lan lên ngực không điển hình cho gan nhiễm mỡ (thường không triệu chứng: AASLD 2023): phải loại hội chứng vành cấp trước."
+ ],
+ "bai_hoc_bien": [
+  "Gan nhiễm mỡ thường không triệu chứng (AASLD 2023); bệnh nhân đến vì tức ngực thì loại trừ tim bằng ECG và hs-troponin trước (ESC 2023 mục 3.1.1, 3.2, 3.3), rồi mới nói 'do gan'.",
+  "Người không béo phì vẫn bị MASLD: tìm yếu tố chuyển hóa (vòng eo > 80 cm nữ, tiền ĐTĐ, TG, HDL-C: EASL-EASD-EASO 2024 Bảng 3).",
+  "Đỡ một phần ở tuần 8 là diễn tiến bình thường: cân, men gan cải thiện chậm, tối đa ở tháng thứ 6 (EASL 2024, mục giảm cân); đừng nâng bậc điều trị sớm.",
+  "Tự tra mạng: ghi nhận phần đúng, sửa phần chưa đúng bằng số liệu của chính bà. Kết cục tốt không hợp thức hóa xử trí ẩu (near miss)."
+ ],
+ "diem_nho": [
+  "MASLD = nhiễm mỡ gan + ≥ 1 yếu tố chuyển hóa, không rượu (≥ 20 g/ngày nữ là MetALD) (EASL-EASD-EASO 2024 Hình 1, Bảng 3).",
+  "FIB-4 = tuổi × AST / (tiểu cầu × √ALT); > 65 tuổi ngưỡng thấp 2,0; lặp lại 1–3 năm (EASL) hoặc 1–2 năm (AASLD) (Hình 2).",
+  "Lối sống: Địa Trung Hải, ≥ 150 phút/tuần, bỏ đồ uống có đường; cân nặng bình thường giảm 3–5% (EASL Hình 3) hoặc chỉ ăn–tập (AASLD 2023)."
+ ],
+ "nguon": [
+  "EASL-EASD-EASO 2024 – hướng dẫn MASLD – TL-0204 – Hình 1, 2, 3; Bảng 3, 5; mục lối sống/giảm cân; mục Statins; mục nutraceuticals; mục HCC surveillance (tr. 507)",
+  "AASLD 2023 – hướng dẫn NAFLD – TL-0207 – mục Evaluation; mục Role of alcohol; mục NAFLD in lean individuals; Hình 2 và chú thích; key concepts (FIB-4, silymarin, giảm cân 3–5%)",
+  "EASL-EASD-EASO 2026 – thuốc nhắm đích MASH – TL-0188; AASLD 2025 cập nhật semaglutide – TL-0201 (chỉ định thuốc F2–F3 theo NIT)",
+  "ACG 2017 – bất thường men gan – TL-0231 – KC 11, 16; USPSTF 2020 – sàng lọc HCV – TL-0686",
+  "ESC 2023 hội chứng vành cấp – TL-0069 – mục 3.1.1, 3.2, 3.3, Hình 6; BYT QĐ 2187/2019 – TL-0033 – Hình 3",
+  "AGS Beers 2023 – TL-0022 – Bảng 2 (benzodiazepin), mục Deprescribing; ESRS 2023 – TL-0464 – mục 4.5, Bảng 16; BYT QĐ 2058/2020 – TL-0443 – Bài 27 mục 4.1, 4.3",
+  "ADA 2026 – TL-0674 – Bảng 2.5 mục 2; BYT QĐ 162/2024 – TL-0123 – mục 1.1 Bảng 1",
+  "Không có trong tài liệu đã tải: mốc tái khám 6–8 tuần, 3–4 tháng; mốc 6–12 tháng giảm 3–5% cân; lịch giảm liều diazepam; liên quan diazepam–men gan; mốc thời gian đau ngực để gọi cấp cứu; công cụ PREVENT để quyết định statin."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-27 (bản 1): đã đọc TL-0204, 0207, 0231, 0069, 0033, 0022, 0464, 0674, 0686, 0123 (mục 1.1 Bảng 1), 0443 (Bài 27 mục 4.1, 4.3).",
+  "FIB-4: 1,70 → 1,54 → 1,46 (đều < 2,0); cân 51 → 50,2 → 49,4 kg. Không CT: khoa_cls khóa nhóm ct; FibroScan không có tại phòng khám.",
+  "Xử trí ẩu nhưng may mắn: tuyến trước bỏ ECG/xét nghiệm (su_that 'tuyen_truoc', ket_cuc). Mâu thuẫn: dùng lại TH-1105, TH-1113, TH-1123, TT-0161; mục mới về cân nặng MASLD không béo phì."
+ ]
+}
