@@ -1,0 +1,548 @@
+{
+ "ma_ca": "TH-1424",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1.0",
+ "benh": "TH_xuat_huyet_tieu_hoa_nhe_ngoai_tru",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Xuất huyết tiêu hóa (nhẹ/ngoại trú)",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư tiêu hóa",
+   "Vỡ giãn TM thực quản"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "nghe_nghiep": "Chủ quán ăn",
+  "yeu_to_khoi_phat": "Sau tự uống kháng sinh",
+  "thuoc_dang_dung": "Thuốc bôi ngoài da không rõ",
+  "ly_do_that_su_den_kham": "Sợ đột quỵ",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ"
+ },
+ "benh_nhan": {
+  "ten": "Đỗ Thị Hạnh",
+  "tuoi": 52,
+  "gioi": "Nữ",
+  "nghe": "Chủ quán cơm bình dân",
+  "can_nang": 54,
+  "chieu_cao": 155,
+  "xung_ho": "Bác sĩ gọi bà là 'cô'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhảu, nói to, tính toán từng đồng, mất kiên nhẫn khi bị hỏi dài. Đứng bếp từ 4 giờ sáng, sợ đóng quán mất khách. Mẹ mất vì đột quỵ nên rất sợ, nhưng giấu và nói bằng giọng cứng.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: bà mệt mỏi, mất niềm tin, hay nói 'chỗ nào cũng cho thuốc bổ'. Ngại bị cho đi xét nghiệm tiếp, đòi chụp CT đầu cho yên tâm. Chỉ kể đủ khi bác sĩ ghi nhận công sức đi ba nơi, hỏi cụ thể từng nơi đã làm gì, cho thuốc gì, và chịu nghe đến cuối; hỏi chung chung thì bà đáp 'bình thường'.",
+  "nguoi_nha": "Con gái",
+  "ten_nguoi_nha": "Chị Trần Ngọc Mai",
+  "ngoai_hinh": {
+   "da": "#d9a982",
+   "toc": "#4a4440",
+   "kieuToc": "bui",
+   "ao": "#c9b27c",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e0b48f",
+    "toc": "#1f1a17",
+    "kieuToc": "dai",
+    "ao": "#8fb0a6",
+    "aoKieu": "blouse",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Chóng mặt, hoa mắt, tê hai bàn tay một tuần, đã khám ba nơi chưa đỡ",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ khám lâm sàng: không làm được xét nghiệm nào (không máu, phân, nước tiểu, que thử, test nhanh, đường huyết mao mạch) và không có máy siêu âm; vì vậy cũng không có X-quang, CT, nội soi. Còn dùng được: ống nghe, nhiệt kế, huyết áp kế, máy đo SpO₂, cân, máy điện tim. Bệnh viện đa khoa khu vực cách 9 km, có xét nghiệm và nội soi trong ngày."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Đỗ Thị Hạnh, 52 tuổi, chủ quán cơm bình dân, đi cùng con gái. Đến vì chóng mặt, hoa mắt, tê hai bàn tay khoảng một tuần, đã khám ba nơi chưa đỡ. Sinh hiệu: HA 112/70 mmHg, mạch 94 l/p, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 98%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bà Hạnh đi cầu phân đen sệt dính đã 8 ngày, đứng lên là mạch tăng 18 l/p và hoa mắt; cho về với thuốc dạ dày rồi hẹn tuần sau là bỏ sót xuất huyết tiêu hóa đang rỉ. Xử trí ngoại trú chỉ khi chứng minh được điểm Glasgow-Blatchford ≤ 1 (ACG 2021 khuyến cáo 1; ESGE 2026 mục 1.3), mà phòng khám không có Hb và ure, riêng phân đen đã 1 điểm (ACG 2021 Bảng 2). Nếu chảy tiếp, bà đứng bếp nóng từ 4 giờ sáng có thể ngã hoặc ngất, nội soi trong 24 giờ (ACG 2021 khuyến cáo 5) lùi theo ngày hẹn; bà đã qua ba nơi chỉ được thuốc bổ nên dễ coi đây là lần thứ tư không có gì và vẫn tin mình sắp đột quỵ.",
+    "theo_doi": "Giữ bà Hạnh nằm phòng khám vài giờ rồi cho về là không đủ: phòng khám không có Hb, ure nên vẫn không tính được điểm Glasgow-Blatchford (ACG 2021 Bảng 2) và không có nội soi nên mốc nội soi sớm trong 24 giờ (ESGE 2026 mục 2.1) không đạt. Đo thêm mạch, huyết áp vài lần chỉ cho con số tại thời điểm đó, không thay được Hb. Bà mất nửa ngày quán, tốn tiền gửi theo dõi mà cuối cùng vẫn phải chuyển, trong khi con gái phải đóng cửa quán cả buổi.",
+    "cap_cuu": "Gọi xe cấp cứu, đặt đường truyền và truyền dịch cho bà Hạnh là quá tay: bà tỉnh, HA 112/70, mạch 94, không nôn máu, không ngất; hồi sức dịch tinh thể dành cho người huyết động không ổn (ESGE 2026 mục 1.1), truyền máu khi Hb dưới 7 g/dL (ACG 2021 khuyến cáo 2) mà chưa ai biết Hb. Bệnh viện khu vực cách 9 km, con gái chở bằng ô tô khoảng 20 phút là kịp; gọi cấp cứu chỉ tốn kém, chiếm xe của người nặng hơn và làm bà thêm hoảng vì tưởng mình sắp đột quỵ."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi chóng mặt, hoa mắt, hai bàn tay tê rần cả tuần nay. Đi ba chỗ rồi, chỗ nào cũng cho thuốc bổ, uống chả đỡ gì. Bác sĩ chụp cho tôi cái CT đầu đi, rồi tôi còn về mở quán.",
+   "sinh_hieu": {
+    "mach": 94,
+    "ha": "112/70",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chóng mặt, hoa mắt, hai bàn tay tê rần khoảng một tuần; nặng hơn khi đứng bếp lâu hoặc đứng lên nhanh. Mệt, ăn kém. Muốn chụp CT đầu cho yên tâm vì đã đi ba nơi mà chưa đỡ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Ba nơi trong tuần qua. Phòng khám tư gần nhà: đo huyết áp 100/60 'hơi thấp', cho thuốc bổ não và vitamin nhóm B. Trạm y tế phường: nghe tim phổi, cho thuốc chống chóng mặt. Phòng khám tư khác: đo điện tim 'bình thường' (còn giữ phiếu), cho thuốc tiền đình. Cả ba nơi không hỏi về phân, không khám bụng, không lấy máu. Đã tốn hơn một triệu đồng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã khám ba nơi: làm gì, bỏ sót gì; điện tim đã bình thường nên không cần lặp lại"
+    },
+    {
+     "id": "dac_diem_chong_mat",
+     "noi_dung": "Chóng mặt kiểu hoa mắt, tối sầm, muốn xỉu khi đứng lên nhanh hoặc đứng bếp lâu; ngồi hoặc nằm thì đỡ. Không quay cuồng, không nôn, không ù tai. Hai bàn tay tê rần cả hai bên từng lúc, không yếu liệt, không méo miệng, không nói khó, không nhìn đôi, không đau đầu dữ dội. Chưa ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm chóng mặt: tư thế, không dấu thần kinh khu trú"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Khoảng 8 ngày nay đi cầu 1–2 lần mỗi ngày, phân sệt, đen sẫm, dính, mùi khắm hơn thường; sáng nay vẫn đen. Bà nghĩ do ăn lòng, huyết ở quán nên không để ý.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đi cầu thế nào' thì bà đáp 'bình thường, hơi sẫm'. Chỉ kể đủ khi bác sĩ hỏi cụ thể màu, độ dính, mùi, số lần, hoặc hỏi phân có đen như hắc ín không; con gái kể thêm 'sáng nay con thấy bồn cầu đen sì' nếu được hỏi.",
+     "k": 1,
+     "y": "Phân đen (melena)"
+    },
+    {
+     "id": "an_huyet",
+     "noi_dung": "Làm quán nên hay nếm lòng heo, dồi, huyết luộc, vài lần mỗi tuần. Bà cho rằng phân đen là do ăn huyết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố gây nhiễu: ăn huyết, phân đen giả"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Cùng đợt kháng sinh, hiệu thuốc bán kèm một vỉ 'thuốc giảm đau chống viêm' viên trắng nhỏ. Hết đau họng bà vẫn uống 1–2 viên mỗi ngày vì đau hai đầu gối do đứng bếp, khoảng 12 ngày; ngưng hôm kia vì hoa mắt. Vỉ còn lại nằm trong túi thuốc, ghi diclofenac 50 mg.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì bà chỉ kể thuốc bổ ba nơi cho và dầu bôi. Chỉ kể và lấy vỉ ra khi bác sĩ hỏi cụ thể thuốc giảm đau, thuốc chống viêm, thuốc xương khớp, hoặc xin xem túi thuốc.",
+     "k": 1,
+     "y": "NSAID giấu (nguyên nhân thuận lợi chảy máu)"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "16 ngày trước đau họng, ho; hiệu thuốc bán viên nang 500 mg (vỉ ghi amoxicillin), uống 3 lần mỗi ngày, 5 ngày; hết đau họng thì ngưng, cách đây 11 ngày. Không tiêu chảy, không nổi mẩn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kháng sinh tự uống (yếu tố khởi phát; ảnh hưởng test H. pylori)"
+    },
+    {
+     "id": "thuoc_boi",
+     "noi_dung": "Mỗi tối bôi 'dầu cao gia truyền' mua ở chợ lên hai gối và thắt lưng, hộp không nhãn, mùi bạc hà nồng, không rõ thành phần. Không bôi lên da trầy.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "khong_non",
+     "noi_dung": "Không nôn ra máu hay bã cà phê, không ngất. Thỉnh thoảng tức nhẹ thượng vị sau bữa ăn, không đau dữ dội, không thức giấc vì đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nôn máu, ngất (thành phần điểm Glasgow-Blatchford); đau bụng ít, biểu hiện không điển hình"
+    },
+    {
+     "id": "dau_bao_dong",
+     "noi_dung": "Không sụt cân (54 kg như năm ngoái), không nuốt nghẹn, không nôn kéo dài, không sờ thấy khối. Ăn kém vì mệt, không vì đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu báo động (ung thư)"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không bệnh gan, tim, thận, tiểu đường, huyết áp cao; chưa từng vàng da. Bia 1–2 lon cuối tuần với khách, không hút thuốc. Mãn kinh 2 năm nay. Chưa từng loét dạ dày hay nội soi. Không uống aspirin hay thuốc chống đông.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền (gan, tim: thành phần điểm Glasgow-Blatchford); loại trừ chống đông, tăng áp cửa"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Mẹ bà mất vì đột quỵ năm 58 tuổi; tháng trước một khách quen ngã quỵ ngay trước quán, méo miệng rồi mất. Bà sợ mình là người kế tiếp nên đòi chụp CT đầu, nhưng ngại nói ra vì sợ bị cười là nghĩ quẩn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà lo nhất điều gì, vì sao bà muốn chụp đầu, hoặc trong nhà có ai bị đột quỵ không.",
+     "k": 1,
+     "y": "Động cơ thật: sợ đột quỵ"
+    },
+    {
+     "id": "gan_vien",
+     "noi_dung": "Bệnh viện đa khoa khu vực cách 9 km, ô tô khoảng 20 phút; con gái lái được. Ngày mai quán đông nên bà ngại đóng cửa, nhưng nếu bác sĩ nói rõ vì sao thì bà đi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng chuyển tuyến, nguồn lực"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi mệt. Niêm mạc mắt và lòng bàn tay nhợt rõ. Không vàng da, không sao mạch, lòng bàn tay không son, không phù, không bầm máu da.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: HA 112/70 mmHg, mạch 90 l/p. Đứng 1 phút: HA 106/68 mmHg, mạch 108 l/p (tăng 18 l/p), hoa mắt thoáng qua. Đứng 3 phút: HA 104/66 mmHg, mạch 110 l/p. Huyết áp tâm thu giảm 8 mmHg, tâm trương giảm 4 mmHg.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn tức nhẹ thượng vị, không phản ứng thành bụng, không co cứng, không sờ thấy khối, gan lách không sờ thấy, không cổ trướng.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Ít phân sệt đen bóng dính găng, mùi hắc đặc trưng; không khối, không trĩ chảy máu, không máu đỏ tươi.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói rõ, hiểu lời. Không méo mặt, hai tay giơ đều, sức cơ 5/5 bốn chi. Cảm giác nông hai bàn tay bình thường, không rối loạn cảm giác một bên. Nghiệm pháp ngón–mũi, đi thẳng một hàng, Romberg bình thường. Đồng tử đều, không nhìn đôi, không giật nhãn cầu.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 94 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 94 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Hai gối không sưng nóng đỏ, ấn đau nhẹ khe khớp, gấp duỗi đủ biên độ. Cột sống thắt lưng không điểm đau chói.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, amiđan không to, không mủ. Tai, mũi bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 104 g/L · MCV 80 fL · BC 8,4 G/L · TC 412 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 8.4,
+      "neu_pct": 62.0,
+      "neu": 5.2,
+      "lym_pct": 28.0,
+      "lym": 2.35,
+      "mono_pct": 6.0,
+      "mono": 0.5,
+      "eos_pct": 3.0,
+      "eos": 0.25,
+      "baso_pct": 1.0,
+      "baso": 0.08,
+      "rbc": 4.19,
+      "hgb": 104,
+      "hct": 0.335,
+      "mcv": 80,
+      "mch": 24.8,
+      "mchc": 310,
+      "rdw": 15.4,
+      "plt": 412
+     },
+     "n": "Không làm được ở phòng khám: giấy giới thiệu bệnh viện. Hb là thành phần điểm Glasgow-Blatchford: nữ 100–119 g/L cho 1 điểm, dưới 100 g/L cho 6 điểm (Blatchford 2000 Bảng 1; ACG 2021 Bảng 2). Thiếu máu là dấu báo động (VNAGE 2023 Bảng 2). Hb 104 g/L cho điểm tổng 2 (cộng 1 điểm phân đen)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 5,4 mmol/L · Creatinin 68 µmol/L · eGFR > 90 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.4,
+      "creat": 68,
+      "egfr": 95
+     },
+     "n": "Không làm được ở phòng khám. Ure là thành phần điểm: dưới 6,5 mmol/L cho 0 điểm (Blatchford 2000 Bảng 1; ACG 2021 Bảng 2 dùng BUN 18,2 mg/dL cùng mốc)."
+    },
+    "ferritin_sat": {
+     "v": "u",
+     "r": "Ferritin 14 ng/mL · Độ bão hòa transferrin 11%",
+     "n": "Không làm được ở phòng khám. Ferritin thấp và độ bão hòa dưới 16% là thiếu sắt (ESGE 2026 mục 3.6, dẫn thử nghiệm: ferritin < 30 µg/L, độ bão hòa < 16%); không đổi hướng chuyển tuyến."
+    },
+    "chuc_nang_gan": {
+     "v": "u",
+     "r": "Bilirubin toàn phần 11 µmol/L · ALP 82 · GGT 28 U/L · Albumin 41 g/L · INR 1,0",
+     "n": "Không làm được ở phòng khám. Không bằng chứng bệnh gan mạn: hỗ trợ loại trừ xuất huyết do tăng áp cửa (Baveno VIII bàn tăng áp cửa ở bệnh gan mạn tiến triển; ngưỡng riêng cho người không bệnh gan không có trong tài liệu đã tải)."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 94 l/p, không ST chênh, không biến đổi ST–T.",
+     "n": "Phiếu điện tim ở nơi thứ ba đã bình thường: không cần làm lại để 'cho chắc'. Chỉ định ECG thường quy trong xuất huyết tiêu hóa không có trong tài liệu đã tải."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Gan không to, bờ đều, không nốt. Lách không to, tĩnh mạch cửa không giãn, không cổ trướng.",
+     "n": "Không có máy siêu âm ở phòng khám. Tài liệu đã tải không có chỉ định siêu âm thường quy trong xuất huyết tiêu hóa trên; siêu âm giúp loại tăng áp cửa."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "(Phòng khám không có máy đo đường huyết mao mạch.)",
+     "n": "Không có trong phòng khám; không đổi hướng xử trí."
+    },
+    "hp_ubt": {
+     "v": "n",
+     "r": "Âm tính (có thể âm giả).",
+     "n": "Không nên làm hôm nay: vừa dùng kháng sinh (cần ≥ 4 tuần không kháng sinh trước test: VNAGE 2023 Statement 6) và đang chảy máu cấp (urease nhanh, mô bệnh có thể âm giả: Statement 7). Test H. pylori làm lúc nội soi (ESGE 2026 mục 3.5)."
+    },
+    "ct_nao": {
+     "v": "n",
+     "r": "Không có chỉ định.",
+     "n": "Không có dấu thần kinh khu trú hoặc rối loạn ý thức đột ngột (QĐ 5331/2020, Chương 2 mục I.1). Chóng mặt hiếm khi xuất hiện đơn lẻ trong nhồi máu não (cùng mục). Phòng khám cũng không có CT."
+    },
+    "noi_soi": {
+     "v": "e",
+     "r": "(Phòng khám không có nội soi.)",
+     "n": "Có chỉ định: xuất huyết tiêu hóa, thiếu máu là dấu báo động (VNAGE 2023 Bảng 2; VNAGE 2024 KC 2). Người nằm viện hoặc theo dõi nội soi sớm trong 24 giờ (ACG 2021 khuyến cáo 5; ESGE 2026 mục 2.1); nội soi cấp trong 12 giờ không cần khi huyết động ổn (ESGE 2026 mục 2.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Xuất huyết tiêu hóa trên mức nhẹ (phân đen, huyết động ổn) kèm thiếu máu, nghi nguồn loét dạ dày – tá tràng sau dùng thuốc giảm đau chống viêm (NSAID) tự mua; chưa xếp được nguy cơ vì chưa có Hb, ure; cần xét nghiệm và nội soi trong 24 giờ ở bệnh viện",
+     "ok": 1,
+     "n": "Phân sệt đen bóng dính, mùi hắc trên găng thăm trực tràng, niêm mạc nhợt, mạch tăng 18 l/p khi đứng; NSAID 12 ngày (diclofenac). Điểm Glasgow-Blatchford tối thiểu 1 từ lâm sàng (ACG 2021 Bảng 2). Biểu hiện không điển hình: không nôn máu, ít đau bụng, triệu chứng nổi bật là chóng mặt và tê tay."
+    },
+    {
+     "t": "Ung thư tiêu hóa",
+     "n": "Chưa loại hẳn: chỉ nội soi khẳng định. Không sụt cân, nuốt nghẹn, nôn kéo dài, không khối bụng; khởi phát sau NSAID. Xuất huyết tiêu hóa và thiếu máu là dấu báo động cần nội soi (VNAGE 2023 Bảng 2; VNAGE 2024 KC 2)."
+    },
+    {
+     "t": "Vỡ giãn tĩnh mạch thực quản",
+     "n": "Không bệnh gan, không dấu xơ gan (sao mạch, lòng bàn tay son, cổ trướng, lách to), không nôn máu, bia ít. Baveno VIII (TL-0186) bàn xuất huyết do tăng áp cửa ở người bệnh gan mạn tiến triển: không thuộc bệnh nhân này; nội soi sẽ xác nhận."
+    },
+    {
+     "t": "Đột quỵ não hoặc thiếu máu não thoáng qua",
+     "n": "Chóng mặt kiểu hoa mắt khi đứng lên, tê hai tay đối xứng, không liệt, méo mặt, nói khó, nhìn đôi; khám thần kinh bình thường (QĐ 5331/2020 Chương 2 mục I.1: nghĩ đột quỵ khi có dấu thần kinh khu trú hoặc rối loạn ý thức đột ngột; chóng mặt hiếm khi đơn lẻ). Nguyên nhân là mất máu thiếu máu, không cần CT đầu."
+    },
+    {
+     "t": "Phân đen giả do ăn huyết, lòng heo (không phải chảy máu)",
+     "n": "Không chấp nhận: phân sệt, bóng dính, mùi hắc kèm niêm mạc nhợt và mạch tăng khi đứng là melena. Tài liệu đã tải không nêu cách phân biệt phân đen do thức ăn với melena bằng hình thức phân; ca dùng thăm trực tràng, huyết động nằm–đứng và Hb."
+    },
+    {
+     "t": "Chóng mặt tư thế do huyết áp thấp, rối loạn tiền đình hoặc tác dụng phụ kháng sinh",
+     "n": "Huyết áp giảm 8/4 mmHg khi đứng, chưa đạt hạ huyết áp tư thế (giảm ≥ 20/10 trong 3 phút: ESH 2023 mục 14.9) nhưng mạch tăng rõ và có phân đen; không giải thích được phân đen, niêm mạc nhợt. Ba nơi đã điều trị theo hướng này không đỡ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển ngay trong ngày (bây giờ) đến bệnh viện đa khoa khu vực có xét nghiệm và nội soi (9 km, con gái chở bằng ô tô) để làm Hb, ure, tính Glasgow-Blatchford và nội soi trong 24 giờ",
+     "v": "c",
+     "n": "Ngoại trú chỉ khi Glasgow-Blatchford ≤ 1 (ACG 2021 khuyến cáo 1; ESGE 2026 mục 1.3; Ann Intern Med 2019 A2a). Phân đen đã 1 điểm, Hb và ure chỉ có thể làm điểm tăng nên tại phòng khám không kết luận được ≤ 1 (suy ra từ ACG 2021 Bảng 2; ACG không nói riêng ca thiếu xét nghiệm). Nội soi sớm ≤ 24 giờ: ACG 2021 khuyến cáo 5; ESGE 2026 mục 2.1. Thời hạn chuyển cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viết giấy giới thiệu ngắn: phân đen 8 ngày, niêm mạc nhợt, mạch tăng 18 l/p khi đứng, NSAID 12 ngày, amoxicillin 5 ngày ngưng 11 ngày trước; gọi điện báo trước; mang theo túi thuốc, vỉ kháng sinh, vỉ chống viêm và hộp dầu bôi",
+     "v": "c",
+     "n": "Giao tiếp chuyển tuyến; mẫu giấy chuyển không có trong tài liệu đã tải. Ghi ngày ngưng kháng sinh để tính mốc thử lại H. pylori ≥ 4 tuần (VNAGE 2023 Statement 6)."
+    },
+    {
+     "t": "Ngưng ngay thuốc 'chống viêm' (diclofenac) và mọi thuốc giảm đau chống viêm tự mua; ngưng dầu bôi không rõ thành phần; đau gối dùng paracetamol 500 mg 1 viên khi đau, cách nhau ít nhất 6 giờ, tối đa 4 viên mỗi ngày",
+     "v": "c",
+     "n": "Loét dạ dày tá tràng đang tiến triển và bệnh chảy máu không kiểm soát là chống chỉ định tuyệt đối của NSAID (QĐ 361/2014 Phụ lục NSAID mục 3.2). Paracetamol 500–1.000 mg mỗi lần, cách 6–8 giờ, không quá 4 g/24 giờ (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1; WHO AWaRe cách 4–6 giờ cùng trần 4 g, theo mục đã có trong sổ). Thuốc bôi không rõ thành phần: hấp thu toàn thân không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích: chóng mặt và tê tay do mất máu và thiếu máu, không phải đột quỵ; khám thần kinh bình thường; dặn dấu hiệu FAST và khi nào gọi cấp cứu",
+     "v": "c",
+     "n": "Trả lời đúng nỗi lo thật. Dấu hiệu cảnh báo đột quỵ cho người dân (F mặt méo, A yếu tay, S nói khó, T gọi cấp cứu ngay): QĐ 5331/2020 Chương 5 mục I. Nhồi máu não thường có dấu thần kinh đột ngột, chóng mặt hiếm khi đơn lẻ (Chương 2 mục I.1)."
+    },
+    {
+     "t": "Dặn dừng xe, gọi 115 nếu nôn máu, đi cầu nhiều phân đen, ngất hoặc xuất hiện méo miệng, yếu tay, nói khó trên đường; con gái đi cùng, bà không tự đi",
+     "v": "c",
+     "n": "Mất ổn định huyết động cần hồi sức (ESGE 2026 mục 1.1); dấu hiệu FAST (QĐ 5331/2020 Chương 5 mục I)."
+    },
+    {
+     "t": "Cho một liều thuốc ức chế bơm proton trước khi đi nếu không làm chậm chuyển",
+     "v": "a",
+     "n": "ESGE 2026 mục 1.5: cân nhắc PPI liều cao tĩnh mạch trước nội soi nhưng không được làm chậm nội soi sớm; Ann Intern Med 2019 A9: có thể cân nhắc; ACG 2021 khuyến cáo 4: chưa đạt khuyến cáo ủng hộ hay phản đối. Ba nguồn không chống nhau. Liều uống trước nội soi không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không ăn uống thêm cho tới khi bác sĩ bệnh viện cho phép",
+     "v": "a",
+     "n": "Thực hành chung khi chờ nội soi; không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho sắt uống ngay tại phòng khám",
+     "v": "a",
+     "n": "Chưa có Hb và ferritin nên chưa chứng minh thiếu sắt; sắt làm phân đen, khó theo dõi melena (tài liệu đã tải không nêu cách phân biệt phân đen do sắt). Sắt sau xuất huyết tiêu hóa khi có thiếu máu hoặc thiếu sắt: ESGE 2026 mục 3.6; BSG 2021 khuyến cáo 17, 18."
+    },
+    {
+     "t": "Cho về, kê omeprazol, hẹn khám lại sau một tuần",
+     "v": "w",
+     "n": "Không biết Hb, ure thì không chứng minh được điểm Glasgow-Blatchford ≤ 1 (ACG 2021 khuyến cáo 1, Bảng 2; ESGE 2026 mục 1.3); phòng khám không có xét nghiệm."
+    },
+    {
+     "t": "Truyền dịch hoặc truyền máu tại phòng khám, gọi xe cấp cứu",
+     "v": "w",
+     "n": "Huyết động ổn (ESGE 2026 mục 1.1 chỉ hồi sức dịch khi mất ổn định); truyền máu khi Hb < 7 g/dL (ACG 2021 khuyến cáo 2; ESGE 2026 mục 1.2) hoặc < 80 g/L (Ann Intern Med 2019 A4), mà chưa biết Hb."
+    },
+    {
+     "t": "Gửi đi chụp CT sọ não hoặc MRI trước vì sợ đột quỵ",
+     "v": "w",
+     "n": "Không có dấu thần kinh khu trú hoặc rối loạn ý thức đột ngột (QĐ 5331/2020 Chương 2 mục I.1); chụp đầu làm chậm Hb và nội soi, đúng việc ba nơi trước đã bỏ sót. Mức độ 'sai' là lập luận từ nguồn trên, không có tài liệu nói chụp sọ gây hại."
+    },
+    {
+     "t": "Làm test thở urê hoặc cho phác đồ diệt H. pylori ngay",
+     "v": "w",
+     "n": "Chưa chẩn đoán loét; kháng sinh trong 4 tuần và chảy máu cấp làm âm tính giả (VNAGE 2023 Statement 6, 7). Test lúc nội soi (ESGE 2026 mục 3.5)."
+    },
+    {
+     "t": "Kê thêm thuốc tiền đình hoặc thuốc bổ não rồi hẹn lại",
+     "v": "w",
+     "n": "Che triệu chứng thiếu máu và lặp lại hướng của ba nơi trước. Mức độ 'sai' là lập luận từ ACG 2021 Bảng 2 và ESGE 2026 mục 1.3, không có tài liệu nói trực tiếp về các thuốc này."
+    },
+    {
+     "t": "Cho thêm thuốc chống viêm, aspirin hoặc corticoid để giảm đau gối",
+     "v": "h",
+     "n": "NSAID chống chỉ định tuyệt đối khi loét dạ dày tá tràng đang tiến triển hoặc bệnh chảy máu không kiểm soát (QĐ 361/2014 Phụ lục NSAID mục 3.2); đang có nghi ngờ xuất huyết tiêu hóa."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Xuất huyết tiêu hóa trên mức nhẹ: phân đen 8 ngày, chưa nôn máu, chưa ngất, huyết động ổn (HA 112/70 mmHg, mạch 94 l/p; đứng mạch tăng 18 l/p, huyết áp giảm 8/4 mmHg).",
+     "Thiếu máu mức vừa trên lâm sàng (niêm mạc nhợt, hoa mắt khi đứng); Hb thật chỉ biết khi chuyển tuyến.",
+     "Nghi nguồn loét dạ dày – tá tràng sau NSAID (diclofenac 12 ngày) tự mua; kháng sinh tự uống chỉ gây nhiễu (không có trong tài liệu đã tải mối liên quan nhân quả với chảy máu).",
+     "Điểm Glasgow-Blatchford tối thiểu từ lâm sàng 1 (phân đen); Hb, ure chưa biết nên chưa xếp được nguy cơ rất thấp.",
+     "Đã loại trừ trên lâm sàng: đột quỵ (khám thần kinh bình thường), vỡ giãn tĩnh mạch thực quản, ung thư tiêu hóa (chỉ nội soi loại hẳn).",
+     "Yếu tố gây nhiễu: ba nơi khám trước, ăn huyết heo, thuốc bôi không rõ, nỗi sợ đột quỵ."
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh theo thứ tự: lý do và đặc điểm chóng mặt (hoa mắt khi đứng, không quay cuồng, tê hai tay đối xứng, không dấu thần kinh khu trú), rồi hỏi cụ thể màu, độ dính, mùi, số lần của phân và thuốc giảm đau chống viêm. Hỏi chung 'đi cầu thế nào' chỉ nhận 'hơi sẫm'.",
+     "Khám: niêm mạc nhợt, huyết áp và mạch nằm–đứng (mạch tăng 18 l/p, huyết áp giảm 8/4 mmHg, chưa đạt hạ huyết áp tư thế giảm ≥ 20/10 mmHg trong 3 phút: ESH 2023 mục 14.9), bụng mềm, thăm trực tràng thấy phân sệt đen bóng dính mùi hắc xác nhận melena; khám thần kinh bình thường.",
+     "Điểm Glasgow-Blatchford: phân đen 1 điểm; không ngất (0), huyết áp tâm thu ≥ 110 (0), mạch < 100 (0), không bệnh gan, không suy tim (0); Hb nữ 100–119 g/L thêm 1 điểm, dưới 100 g/L thêm 6 điểm; ure ≥ 6,5 mmol/L thêm ≥ 2 điểm (Blatchford 2000 Bảng 1; ACG 2021 Bảng 2). Điểm tối thiểu 1 chỉ từ lâm sàng, Hb và ure chỉ làm điểm tăng nên không chứng minh được ≤ 1 tại phòng khám (suy ra từ Bảng 2; ACG không nêu riêng ca thiếu xét nghiệm).",
+     "Biểu hiện không điển hình: không nôn máu, ít đau, triệu chứng nổi bật là hoa mắt và tê tay. Chóng mặt kiểu tối sầm khi đứng, tê đối xứng, không liệt, không méo mặt, nói không khó, khám thần kinh bình thường nên không phải đột quỵ (QĐ 5331/2020 Chương 2 mục I.1: dấu thần kinh khu trú hoặc rối loạn ý thức đột ngột; chóng mặt hiếm khi đơn lẻ).",
+     "Ung thư và giãn tĩnh mạch thực quản: không sụt cân, nuốt nghẹn, nôn; không bệnh gan, không dấu xơ gan, không nôn máu; xuất huyết tiêu hóa và thiếu máu là dấu báo động cần nội soi (VNAGE 2023 Bảng 2; VNAGE 2024 KC 2). Baveno VIII bàn xuất huyết do tăng áp cửa ở người bệnh gan mạn; ngưỡng loại trừ giãn tĩnh mạch ở người không bệnh gan không có trong tài liệu đã tải.",
+     "Nguyên nhân thuận lợi: NSAID là thuốc chống chỉ định tuyệt đối khi loét tiến triển (QĐ 361/2014 Phụ lục NSAID mục 3.2); nhiễm H. pylori và NSAID là hai nguyên nhân chính của loét (JSGE 2026, phần tóm tắt). Kháng sinh vừa dùng làm test H. pylori hôm nay không tin cậy (VNAGE 2023 Statement 6).",
+     "Nỗi lo thật: mẹ và khách quen mất vì đột quỵ nên bà đòi CT đầu. Nói rõ khám thần kinh bình thường, điện tim ở nơi thứ ba đã bình thường nên không lặp lại, và lý do chuyển bệnh viện là để tìm chỗ chảy máu."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển trong ngày, không chờ: cần Hb, ure để tính điểm và nội soi sớm ≤ 24 giờ sau ổn định huyết động (ACG 2021 khuyến cáo 1, 5; ESGE 2026 mục 1.3, 2.1). Nội soi cấp ≤ 12 giờ không cần khi huyết động ổn, nên không cần xe cấp cứu (ESGE 2026 mục 2.1).",
+     "Không truyền dịch hoặc máu tại phòng khám: huyết động ổn, ngưỡng truyền khi Hb < 7 g/dL (ACG 2021 khuyến cáo 2; ESGE 2026 mục 1.2), < 80 g/L (Ann Intern Med 2019 A4), ESGE ≤ 8 g/dL nếu có bệnh tim mạch; theo mục đã có trong sổ (HH-1192).",
+     "PPI trước nội soi: ESGE 2026 mục 1.5 và Ann Intern Med 2019 A9 cho phép cân nhắc, ACG 2021 khuyến cáo 4 chưa có khuyến cáo; không chống nhau nên chấm a. Liều trước nội soi không có trong tài liệu đã tải.",
+     "Không làm test H. pylori hôm nay; làm lúc nội soi và thử lại nếu âm tính (ESGE 2026 mục 3.5; VNAGE 2023 Statement 6, 7). Chưa cho sắt vì chưa biết Hb, ferritin; sắt làm phân đen che theo dõi melena.",
+     "Ngưng NSAID và dầu bôi không rõ thành phần; đau gối dùng paracetamol (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1; Phụ lục NSAID mục 3.2). Mang túi thuốc theo để bệnh viện đọc nhãn.",
+     "Sai hướng: cho về hẹn tuần sau; giữ theo dõi tại phòng khám; gọi cấp cứu truyền dịch; chụp CT đầu trước; kê thêm thuốc tiền đình; thêm NSAID."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Thuốc ức chế bơm proton (omeprazol hoặc pantoprazol) trước nội soi",
+      "ham_luong": "Do bệnh viện chọn",
+      "lieu": "Liều cao đường tĩnh mạch tại bệnh viện (ESGE 2026 mục 1.5); con số liều trước nội soi không có trong tài liệu đã tải",
+      "duong": "Tĩnh mạch tại bệnh viện; phòng khám chỉ cho nếu không làm chậm chuyển",
+      "thoi_diem": "Ngay khi tới bệnh viện, không làm chậm nội soi",
+      "so_ngay": "Theo bác sĩ nội soi",
+      "ghi_chu": "ESGE 2026 mục 1.5; Ann Intern Med 2019 A9; ACG 2021 khuyến cáo 4 (chưa có khuyến cáo)."
+     },
+     {
+      "thuoc": "Diclofenac 50 mg ('thuốc chống viêm' hiệu thuốc cho)",
+      "ham_luong": "50 mg",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Từ bây giờ",
+      "so_ngay": "Ngưng; mang vỉ theo",
+      "ghi_chu": "NSAID chống chỉ định tuyệt đối khi loét dạ dày tá tràng đang tiến triển, bệnh chảy máu không kiểm soát (QĐ 361/2014 Phụ lục NSAID mục 3.2)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần khi đau gối, cách nhau ít nhất 6 giờ, tối đa 4 viên mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau; không uống lúc đi chuyển viện nếu bệnh viện chưa cho phép ăn uống",
+      "so_ngay": "Khi cần cho tới khi bệnh viện xử trí",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1 (500–1.000 mg mỗi lần, cách 6–8 giờ, không quá 4 g/24 giờ); WHO AWaRe cách 4–6 giờ cùng trần 4 g; theo mục đã có trong sổ."
+     },
+     {
+      "thuoc": "Amoxicillin 500 mg (đã dùng 5 ngày)",
+      "ham_luong": "500 mg",
+      "lieu": "Đã ngưng, không dùng tiếp",
+      "duong": "Uống",
+      "thoi_diem": "Không",
+      "so_ngay": "Không",
+      "ghi_chu": "Đã hết đau họng. Ghi ngày ngưng kháng sinh để tính mốc thử lại H. pylori ≥ 4 tuần (VNAGE 2023 Statement 6)."
+     },
+     {
+      "thuoc": "Dầu cao gia truyền không nhãn",
+      "ham_luong": "Không rõ thành phần",
+      "lieu": "Ngưng",
+      "duong": "Bôi ngoài da",
+      "thoi_diem": "Từ tối nay",
+      "so_ngay": "Ngưng; mang hộp theo",
+      "ghi_chu": "Không có trong tài liệu đã tải: thành phần và hấp thu toàn thân của loại dầu này; ngưng để loại yếu tố gây nhiễu."
+     }
+    ],
+    "dan_do": [
+     "Đi bệnh viện khu vực ngay bây giờ cùng con gái, không tự đi; mang giấy giới thiệu, túi thuốc, vỉ chống viêm, vỉ kháng sinh, hộp dầu bôi. Đóng quán nửa ngày: đây là việc cần làm ngay vì có thể đang chảy máu trong dạ dày.",
+     "Không ăn uống thêm cho tới khi bác sĩ bệnh viện cho phép (thực hành chung; không có trong tài liệu đã tải).",
+     "Dừng xe, gọi 115 nếu nôn ra máu, đi cầu ra nhiều phân đen hoặc máu, ngất, hoặc méo miệng, yếu tay, nói khó (QĐ 5331/2020 Chương 5 mục I).",
+     "Nói với bác sĩ bệnh viện: phân đen 8 ngày, đã uống kháng sinh 5 ngày ngưng 11 ngày trước, thuốc chống viêm 12 ngày (ngày ngưng kháng sinh quyết định mốc thử lại H. pylori: VNAGE 2023 Statement 6); nếu muốn thử máu thì thử luôn, không phải chụp đầu.",
+     "Giải thích: hoa mắt, tê tay là vì mất máu chứ không phải đột quỵ; điện tim đã bình thường nên không làm lại.",
+     "Sau khi khỏi: không tự mua thuốc chống viêm, không tự mua kháng sinh; đau gối dùng paracetamol."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Con gái chở bà Hạnh đến bệnh viện khu vực lúc 10 giờ. Hb 104 g/L, ure 5,4 mmol/L, ferritin 14 ng/mL, tiểu cầu 412 G/L; Glasgow-Blatchford 2 (Hb nữ 100–119 g/L cho 1 điểm, phân đen 1 điểm) nên bà nằm theo dõi. Sáng hôm sau nội soi thấy loét hành tá tràng 6 mm, đáy sạch (Forrest III), không cần cầm máu; test urease nhanh âm tính nhưng bác sĩ ghi có thể âm giả do kháng sinh 11 ngày trước và chảy máu, nên hẹn thử lại. Bà không phải truyền máu, được cho về sau 2 ngày với omeprazol 20 mg ngày 1 lần và sắt uống; vỉ diclofenac và hộp dầu bôi bị thu giữ không dùng lại. Bà hồi phục chậm hơn dự kiến: sau 4 tuần uống sắt Hb mới lên 109 g/L vì bà uống sắt cùng bữa cơm quán và hay quên liều, hoa mắt thoáng qua mỗi lần đứng bếp lâu kéo dài gần 3 tuần nên bà chỉ mở quán nửa ngày; mỗi lần chóng mặt bà lại lo đột quỵ và hỏi chụp đầu, con gái phải nhắc 'bác sĩ đã nói là do thiếu máu'. Sau khi hết đợt PPI do bác sĩ tiêu hóa quyết, ngưng thuốc 2 tuần và cách kháng sinh hơn 4 tuần, test thở urê dương tính nên bà được diệt H. pylori. Nhờ chuyển ngay trong ngày thay vì uống thêm thuốc bổ, tổn thương được phát hiện khi đáy còn sạch.",
+ "nhieu": [
+  "Từng khám 3 nơi không khỏi: ba nơi đều xử trí chóng mặt mà không hỏi phân, không khám bụng, không lấy máu; bà mất niềm tin, đòi CT đầu. Tái lập niềm tin bằng cách ghi nhận từng nơi đã làm gì, giải thích lý do chuyển, và không lặp lại điện tim đã bình thường.",
+  "Không có xét nghiệm nào: không có Hb, ure nên không tính được điểm Glasgow-Blatchford; quyết định chuyển phải đưa ra trước khi có kết quả, từ lâm sàng (phân đen, niêm mạc nhợt, mạch–huyết áp nằm–đứng). Điểm tối thiểu từ lâm sàng 1 (suy ra từ ACG 2021 Bảng 2, không có trong tài liệu: cách tính khi thiếu xét nghiệm).",
+  "Biểu hiện không điển hình: không nôn máu, ít đau bụng, triệu chứng nổi bật là hoa mắt và tê hai tay khiến bà và ba nơi trước nghĩ tới huyết áp thấp, tiền đình hoặc đột quỵ.",
+  "Ăn huyết heo, kháng sinh tự mua và dầu bôi không rõ: ba chi tiết gây nhiễu; không được dùng để gạt bỏ melena. Kháng sinh vừa dùng làm test H. pylori hôm nay không tin cậy (VNAGE 2023 Statement 6)."
+ ],
+ "bai_hoc_bien": [
+  "Chóng mặt tư thế, hoa mắt, tê tay ở người có phân sẫm: hỏi cụ thể màu, độ dính, mùi, số lần của phân và thăm trực tràng; đừng tin câu 'hơi sẫm'.",
+  "Nỗi sợ đột quỵ là lý do thật đến khám: hỏi 'cô lo nhất điều gì', khám thần kinh rồi nói rõ kết quả; không chụp đầu khi không có dấu thần kinh khu trú (QĐ 5331/2020 Chương 2 mục I.1).",
+  "Không có xét nghiệm thì không tính được Glasgow-Blatchford: ngoại trú chỉ khi chứng minh ≤ 1 (ACG 2021 khuyến cáo 1; ESGE 2026 mục 1.3); điểm tối thiểu từ lâm sàng đã là 1; thiếu dữ kiện thì chuyển trong ngày.",
+  "Hỏi cụ thể thuốc giảm đau chống viêm và xem túi thuốc: bà chỉ kể 'thuốc bổ' khi hỏi chung; vỉ diclofenac nằm trong túi.",
+  "Khỏi chậm hơn dự kiến thường là thiếu sắt kéo dài và sắt uống bị bỏ liều, không phải chảy máu lại: kiểm Hb sau 4 tuần sắt, tiếp tục khoảng 3 tháng sau khi Hb bình thường (BSG 2021 khuyến cáo 18, 20).",
+  "Test H. pylori lúc nội soi và thử lại nếu âm tính; ngưng kháng sinh ≥ 4 tuần, PPI ≥ 2 tuần trước test (ESGE 2026 mục 3.5; VNAGE 2023 Statement 6, 7)."
+ ],
+ "diem_nho": [
+  "GBS 0–1 mới xử trí ngoại trú. Nữ Hb 100–119 g/L cho 1 điểm, dưới 100 g/L cho 6 điểm; phân đen 1; ngất 2; HA tâm thu 100–109 cho 1; mạch ≥ 100 cho 1; ure ≥ 6,5 mmol/L cho ≥ 2 (Blatchford 2000 Bảng 1; ACG 2021 Bảng 2).",
+  "Nội soi sớm ≤ 24 giờ sau hồi sức; không cần cấp ≤ 12 giờ nếu huyết động ổn (ESGE 2026 mục 2.1).",
+  "Ngưỡng truyền máu: Hb < 7 g/dL (ACG 2021, ESGE 2026), < 80 g/L (Ann Intern Med 2019); ≤ 8 g/dL nếu bệnh tim mạch (ESGE 2026 mục 1.2).",
+  "Loét Forrest IIc/III đáy sạch: không cần cầm máu nội soi, cân nhắc xuất viện sớm nếu nguy cơ thấp (ESGE 2026 Hình 3; Ann Intern Med 2019 A8).",
+  "Hạ huyết áp tư thế: giảm tâm thu ≥ 20 hoặc tâm trương ≥ 10 mmHg trong 3 phút sau đứng (ESH 2023 mục 14.9); mạch tăng khi đứng không có ngưỡng trong tài liệu đã tải.",
+  "Sắt uống sau xuất huyết tiêu hóa có thiếu máu: ESGE 2026 mục 3.6; 1 viên mỗi ngày, theo dõi Hb 4 tuần, tiếp tục khoảng 3 tháng sau khi Hb bình thường, không cần vitamin C (BSG 2021 khuyến cáo 17, 18, 20).",
+  "Dấu hiệu cảnh báo đột quỵ cho người dân (FAST): mặt méo, yếu tay, nói khó, gọi cấp cứu ngay (QĐ 5331/2020 Chương 5 mục I)."
+ ],
+ "nguon": [
+  "ACG 2021 – XHTH trên và loét chảy máu – TL-0076 – Bảng 2 (Glasgow-Blatchford), khuyến cáo 1, 2, 4, 5",
+  "Blatchford 2000 – TL-0116 – Bảng 1 (Hb nữ, ure mmol/L, huyết áp, mạch, phân đen)",
+  "ESGE 2026 – XHTH do loét – TL-0189 – mục 1.1, 1.2, 1.3, 1.5, 2.1, 2.2, 3.5, 3.6, Hình 3 (Endoscopy 2026;58:899)",
+  "Ann Intern Med 2019 – Đồng thuận quốc tế XHTH trên không do giãn TM – TL-0226 – A2a, A4, A8, A9, C5",
+  "VNAGE 2023 – H. pylori – TL-0179 – Statement 6, 7, Bảng 2 (dấu báo động); VNAGE 2024 – TL-0178 – KC 2 (dấu báo động)",
+  "BYT QĐ 361/2014 – bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID mục 3.2 (chống chỉ định), Phụ lục thuốc giảm đau mục 3.1",
+  "JSGE 2026 – loét dạ dày tá tràng – TL-0190 – phần tóm tắt (H. pylori và NSAID là hai nguyên nhân chính)",
+  "BYT QĐ 5331/QĐ-BYT 2020 – Hướng dẫn chẩn đoán và xử trí đột quỵ não – TL-0030 – Chương 2 mục I.1 (lâm sàng), Chương 5 mục I (FAST)",
+  "ESH 2023 – tăng huyết áp – TL-0312 – mục 14.9 (hạ huyết áp tư thế)",
+  "BSG 2021 – thiếu sắt – TL-0219 – khuyến cáo 17, 18, 20; Baveno VIII 2026 – TL-0186 – phạm vi (tăng áp cửa ở bệnh gan mạn; không áp dụng ca này)",
+  "Không có trong tài liệu đã tải: thời hạn chuyển tuyến cụ thể, liều PPI uống trước nội soi, cách tính Glasgow-Blatchford khi thiếu xét nghiệm, thời gian PPI cho loét tá tràng Forrest III, ngưỡng tăng mạch khi đứng, cách phân biệt phân đen do thức ăn/sắt với melena, thành phần và hấp thu của dầu bôi không rõ, liên quan nhân quả kháng sinh với chảy máu tiêu hóa"
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-27 (bản 1). Cùng chuyên khoa và chẩn đoán đích với TH-1427 (nam 46 tuổi, 2 lượt) nhưng khác biểu hiện: ở đây nữ 52 tuổi, hoa mắt/tê tay thay vì rát thượng vị, không có đau, ba nơi đã khám bỏ sót, nỗi sợ đột quỵ, nguồn lực 'không xét nghiệm nào'.",
+  "Tài liệu đã đọc: TL-0076 (Bảng 2, khuyến cáo 1–5), TL-0116 (Bảng 1), TL-0189 (mục 1.1–1.5, 2.1, 3.5, 3.6, Hình 3), TL-0226 (A2a, A4, A8, A9, C5), TL-0179 (Statement 3, 6, 7, Bảng 2), TL-0178 (KC 2), TL-0286 (Phụ lục NSAID 3.2, giảm đau 3.1), TL-0030 (Chương 2 mục I.1, Chương 5 mục I), TL-0312 (mục 14.9), TL-0219 (khuyến cáo 17–20), TL-0190 (tóm tắt).",
+  "Thiết kế: Hb 104 g/L + phân đen = Glasgow-Blatchford 2, vượt ngưỡng ≤ 1 vì Hb nữ 100–119 g/L cho 1 điểm; ure 5,4 mmol/L dưới 6,5. Chỉ số ctm nhất quán: Hct 0,335 = Hb 104/MCHC 310; RBC 4,19 = Hct/MCV 80; MCH 24,8 = Hb/RBC.",
+  "Mâu thuẫn: không có mới. Theo mục đã có: PPI trước nội soi không chống nhau (ESGE 2026, Ann Intern Med 2019, ACG 2021; ghi từ TH-1427), ngưỡng truyền máu (HH-1192), paracetamol (mục khoảng cách liều), sắt uống (TH-0990), kháng sinh và test H. pylori (TH-0047).",
+  "Không dùng ảnh da; âm thanh tim, phổi bình thường (mạch 94 < 100, dùng AT-TIM-BT-NL-01 như TH-1427)."
+ ]
+}
