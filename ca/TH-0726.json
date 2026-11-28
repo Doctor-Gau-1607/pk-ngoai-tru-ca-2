@@ -1,0 +1,573 @@
+{
+ "ma_ca": "TH-0726",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "Ngộ độc thực phẩm",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Ngộ độc thực phẩm",
+  "chan_doan_phai_loai_tru": [
+   "Tả",
+   "Viêm ruột thừa",
+   "Nhiễm khuẩn huyết"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Tài xế xe công nghệ",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng",
+  "ly_do_that_su_den_kham": "Mâu thuẫn gia đình"
+ },
+ "benh_nhan": {
+  "ten": "Lê Quang Thịnh",
+  "tuoi": 51,
+  "gioi": "Nam",
+  "nghe": "Tài xế xe công nghệ (ô tô, chạy dịch vụ, xe trả góp); nhà cách phòng khám 5 km",
+  "can_nang": 70,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi 'anh Thịnh'. Anh xưng 'tôi', gọi bác sĩ là 'bác sĩ'; khi hoảng thì 'bác sĩ ơi, cứu tôi'.",
+  "tinh_cach": "Tự lực, nóng tính, gánh nợ trả góp xe và áp lực thu nhập, ít khi kể chuyện nhà. Tăng huyết áp 6 năm, uống thuốc đều. Khi sợ thì nói nhanh, hỏi đi hỏi lại, hay lấy chuyện người quen ra so.",
+  "kieu_nhieu": "Sợ hãi quá mức: ôm bụng rên to, hỏi dồn 'có phải ruột thừa vỡ không, có phải tả không, có phải nhiễm trùng máu không', năn nỉ 'chụp CT, tiêm thuốc mạnh cho chắc'. Chỉ bớt hoảng khi bác sĩ nói rõ từng kết quả khám và vì sao chưa cần làm thêm; nghe 'không sao đâu' chung chung thì càng sợ.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#b98a62",
+   "toc": "#3a3532",
+   "kieuToc": "ngan",
+   "ao": "#5b6f8a",
+   "aoKieu": "polo",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đau quặn bụng, nôn, đi ngoài lỏng từ rạng sáng, người nóng; rất lo bị ruột thừa vỡ hay nhiễm trùng máu, đòi chụp CT và tiêm kháng sinh.",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám làm tại chỗ các xét nghiệm cơ bản: công thức máu, ure–creatinin, điện giải đồ, đường huyết, tổng phân tích nước tiểu (có kết quả sau khoảng 40 phút), cùng điện tim và đường huyết mao mạch. Không có X-quang, siêu âm, CT, nội soi, CRP; mẫu cấy phân gửi labo bệnh viện huyện cách 16 km, kết quả sau 2–3 ngày; siêu âm và CT chỉ làm ở bệnh viện huyện. Quyết định hôm nay phải đưa ra khi chưa có hình ảnh."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 – sáng thứ Ba",
+   "tiep_don": "Anh Lê Quang Thịnh, 51 tuổi, tài xế xe công nghệ, tăng huyết áp đang uống thuốc, tự đến phòng khám một mình lúc 9 giờ 30 sáng thứ Ba vì đau quặn bụng, nôn và đi ngoài từ rạng sáng. Điều dưỡng Linh ghi nhận: mạch 100 l/p, HA 124/78 mmHg, nhiệt độ 38,0 °C, nhịp thở 20 l/p, SpO₂ 98%, cân nặng 70 kg. Anh ôm bụng, rên to và hỏi liên tục có phải ruột thừa vỡ hay nhiễm trùng máu không.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "ve_hen": "Cho anh Thịnh về ngay với gói Oresol khi chưa có K, creatinin và chưa khám bụng lặp là bỏ qua quan sát khi không có siêu âm (WSES 2020 Statement 1.9; WSES 2025 khuyến cáo 1). Anh ở nhà một mình ban ngày, vẫn uống losartan và hydrochlorothiazid, nôn tiếp thì mất nước, hạ kali nặng hơn, choáng khi đứng (KDIGO 2024 Practice Point 4.3.2); nếu đau chuyển cố định hố chậu phải thì không ai khám lại và anh tự đi cấp cứu nơi khác.",
+    "nhap_vien": "Nhập viện ngay cho anh Thịnh khi anh tỉnh, uống được, HA 124/78, bụng mềm là quá tay: ORS là đầu tay cho mất nước nhẹ–vừa kể cả có nôn, truyền tĩnh mạch dành cho nặng, sốc, rối loạn tri giác hoặc thất bại ORS (IDSA 2017 khuyến cáo 39, 41). Anh nghỉ chạy xe nhiều ngày, mất thu nhập đúng điều gây cãi vã tối qua, và được nằm viện càng củng cố niềm tin mình bệnh nặng.",
+    "chuyen_tuyen": "Chuyển anh Thịnh lên bệnh viện huyện (16 km) chụp CT bụng và cấy máu ngay là quá tay khi bụng mềm, không phản ứng, không điểm đau cố định: hình ảnh khi nguy cơ trung gian hoặc cao hoặc khám lặp xấu đi (WSES 2020 khuyến cáo 1.8; WSES 2025 khuyến cáo 1), cấy máu khi có dấu nhiễm khuẩn huyết (IDSA 2017 khuyến cáo 9). Anh phải tự lái xe khi đang choáng, tốn chi phí, và người sợ hãi được chụp hết sẽ tin nỗi sợ là đúng."
+   },
+   "loi_mo": "Bác sĩ ơi cứu tôi với! Tôi đau quặn bụng từ khuya tới giờ, nôn hoài, đi ngoài nữa. Có phải ruột thừa vỡ không? Hay tả, nhiễm trùng máu? Bạn tôi chạy xe cũng bị tiêu chảy hai ngày là mất luôn đó. Bác sĩ chụp CT, tiêm thuốc mạnh cho tôi đi!",
+   "sinh_hieu": {
+    "mach": 100,
+    "ha": "124/78",
+    "nhiet": "38,0",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": [
+     "Sốt 38,0 °C",
+     "Mạch 100 l/p"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Từ khoảng 2 giờ sáng nay anh đau quặn bụng, nôn nhiều lần, đi ngoài phân lỏng, người nóng. Anh sợ nhất là ruột thừa vỡ, bệnh tả hoặc nhiễm trùng máu, nên đến xin bác sĩ chụp CT và tiêm kháng sinh mạnh cho chắc.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra và nỗi sợ quá mức"
+    },
+    {
+     "id": "moc_gio",
+     "noi_dung": "Đêm qua anh ngủ được đến khoảng 2 giờ sáng thì thức vì đau quặn quanh rốn. Khoảng 3 giờ bắt đầu nôn. Từ đó đến giờ nôn khoảng 5 lần (thức ăn rồi dịch vàng, không máu), đi ngoài 3 lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mốc thời gian khởi phát, số lần nôn và đi ngoài"
+    },
+    {
+     "id": "bua_an",
+     "noi_dung": "Anh nói không ăn gì lạ. Hỏi theo giờ thì hôm qua (thứ Hai) anh ăn hai bữa ngoài, đều một mình: khoảng 13 giờ cơm sườn, trứng ốp la, canh ở quán ven đường; khoảng 18 giờ bánh mì chả lụa và ly nước mía ở xe đẩy. Anh không nhớ bữa nào bất thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hai bữa ăn ngoài; không xác định được nguồn gây bệnh"
+    },
+    {
+     "id": "khong_cum",
+     "noi_dung": "Bữa tối vợ nấu ở nhà anh không ăn vì cãi nhau; vợ và con trai 19 tuổi ăn bữa đó và hiện không ai đau bụng hay đi ngoài. Anh cũng không biết ai cùng ăn quán hay xe bánh mì bị bệnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có cụm ca cùng bữa ăn: lý do ca không điển hình"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Đau quặn từng cơn quanh rốn rồi nghiêng về bụng dưới bên phải, mỗi cơn vài phút, dịu bớt sau khi đi ngoài hoặc nôn. Không đau dời từ rốn xuống hố chậu phải một cách rõ ràng, ho hoặc rung xe không đau thêm. Không lan ra lưng, không xuống bìu. Hơi chán ăn từ sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau lệch hố chậu phải nhưng quặn cơn, dịu sau đi ngoài (loại viêm ruột thừa)"
+    },
+    {
+     "id": "phan",
+     "noi_dung": "Ba lần đi ngoài từ 4 giờ sáng: lần đầu phân sệt, hai lần sau lỏng, ít, vàng nâu, mùi chua. Không máu, không nhầy, không giống nước vo gạo, không mót rặn. Tổng lượng nhỏ, không phải đi ngoài ào ạt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất phân: loại tả, lỵ"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Người nóng, hơi ớn lạnh từ khoảng 5 giờ sáng, không rét run. Đo ở nhà lúc 7 giờ được 37,8 °C. Không đau đầu, không cứng gáy, không co giật, tỉnh táo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt nhẹ, không dấu nhiễm trùng toàn thân"
+    },
+    {
+     "id": "nuoc_tieu",
+     "noi_dung": "Từ sáng chỉ uống vài ngụm nước vì uống vào là buồn nôn. Khát, khô miệng. Lần đi tiểu cuối khoảng 6 giờ sáng, ít, vàng sậm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng nước uống và nước tiểu: mức mất nước"
+    },
+    {
+     "id": "tang_ha",
+     "noi_dung": "Tăng huyết áp 6 năm, khám định kỳ ở phòng khám này. Đang uống mỗi sáng 1 viên losartan 50 mg kèm hydrochlorothiazid 12,5 mg và 1 viên amlodipin 5 mg. Huyết áp thường 130/80. Không đái tháo đường, không bệnh thận, không sỏi thận, chưa mổ bụng, không uống rượu bia hôm qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền và thuốc hạ áp đang dùng"
+    },
+    {
+     "id": "thuoc_sang",
+     "noi_dung": "Sáng nay lúc 6 giờ 30, dù đang nôn, anh vẫn uống đủ 2 thuốc hạ áp như mọi ngày vì sợ 'bỏ thuốc thì huyết áp vọt'. Anh không uống thuốc giảm đau, kháng sinh hay thuốc chống viêm nào khác.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'đang dùng thuốc gì' thì anh chỉ nói 'thuốc huyết áp như thường'. Chỉ kể đã uống sáng nay khi bác sĩ hỏi sáng nay đã uống thuốc nào, uống lúc mấy giờ, hoặc có bỏ thuốc nào vì nôn không.",
+     "y": "Vẫn uống ARB và lợi tiểu khi mất nước: nguy cơ tổn thương thận, hạ kali, hạ huyết áp"
+    },
+    {
+     "id": "moi_nguy",
+     "noi_dung": "Anh họ ruột mới mổ ruột thừa vỡ, nằm viện nửa tháng; một bạn tài xế cùng nhóm năm ngoái đi ngoài hai ngày rồi vào viện 'nhiễm trùng máu', mất sau một tuần. Anh nghĩ cứ đau bụng bên phải là ruột thừa.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Ban đầu anh chỉ hỏi dồn 'có chết không'. Chỉ kể hai người này khi bác sĩ hỏi vì sao anh nghĩ đến ruột thừa vỡ hoặc nhiễm trùng máu, hoặc anh lo nhất điều gì.",
+     "y": "Nguồn gốc nỗi sợ quá mức (kiểu nhiễu)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Tối qua anh cãi nặng với vợ về tiền trả góp xe (thu nhập tháng này giảm, còn nợ hai kỳ), bỏ ra ngủ trong xe; sáng nay vợ đi làm, không hỏi anh. Anh đến vì thật sự đau, và cũng muốn được nằm viện vài ngày để khỏi về nhà và để vợ biết anh bệnh nặng.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi nhẹ nhàng về tâm trạng, chuyện nhà, tối qua có chuyện gì không vui, hoặc anh mong buổi khám hôm nay giúp được gì. Hỏi cụt 'có stress không' thì anh chối.",
+     "y": "Lý do thật: mâu thuẫn gia đình, muốn nằm viện để trốn về nhà"
+    },
+    {
+     "id": "dich_te",
+     "noi_dung": "Không ăn hải sản sống, mắm tôm, nem chua hay tiết canh. Uống nước đóng bình, không đi vùng có dịch, không tiếp xúc ai bị tả hay tiêu chảy. Trứng ốp la hôm qua còn lòng đào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dịch tễ loại trừ tả; trứng lòng đào là nguy cơ nhỏ"
+    },
+    {
+     "id": "loai_tru",
+     "noi_dung": "Không ho, khó thở, tức ngực, không tiểu buốt, không đau hố thắt lưng, không vàng da, không phát ban, không đau thượng vị lan lưng. Từ sáng không đi tiểu ra máu. Cân nặng thường ngày khoảng 72 kg.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu phủ định: nhiễm trùng nơi khác, sỏi thận, tụy, tim"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Anh chạy ô tô công nghệ 10 giờ mỗi ngày, ăn ngoài là chính. Hôm nay đã tắt ứng dụng. Anh tự lái xe đến phòng khám lúc hơi choáng. Vợ đi làm đến 17 giờ nên ban ngày anh ở nhà một mình; bệnh viện huyện cách 16 km.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nghề, lái xe, chăm sóc tại nhà"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt nhưng hốt hoảng, ôm bụng, nói nhanh, hỏi dồn. Môi khô, lưỡi hơi khô, mắt không trũng, véo da mu tay trở lại hơi chậm. Chi ấm. Cân nặng 70 kg (nền 72 kg, sụt khoảng 3%). Không vàng da, không phù.",
+     "k": 1,
+     "hien": "Tỉnh, hốt hoảng, ôm bụng; môi hơi khô."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 122/76 mmHg, mạch 96 l/p. Đứng 3 phút: 106/70 mmHg, mạch 116 l/p, hơi choáng, vịn giường, không ngã. Huyết áp tâm thu tụt 16 mmHg, mạch tăng 20 l/p.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay rõ, đều, đầy vừa. Đổ đầy mao mạch ở ngón tay khoảng 2 giây, chi ấm.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, 100 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 100 l/p."
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, đều. Rì rào phế nang êm dịu hai bên, không ran. SpO₂ 98%.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, thở đều."
+    },
+    "bung": {
+     "a": "Bụng cân đối, không sẹo mổ, không chướng. Nhu động ruột tăng, sôi bụng. Ấn nông đau nhẹ lan tỏa quanh rốn và hố chậu phải, ông nhăn mặt rõ hơn ở hố chậu phải nhưng không có điểm đau cố định; ấn sâu vùng McBurney đau mơ hồ. Không đề kháng, không co cứng thành bụng, ấn buông không đau. Rovsing, nghiệm pháp cơ thắt lưng chậu và cơ bịt âm tính; ho và gõ nhẹ hố chậu phải không đau thêm. Gan lách không to, không khối, thượng vị mềm.",
+     "k": 1,
+     "hien": "Bụng cân đối, không sẹo mổ, không chướng."
+    },
+    "truc_trang": {
+     "a": "Cơ thắt hậu môn bình thường, bóng trực tràng có ít phân sệt vàng nâu, găng không dính máu. Ấn thành bên phải không đau hơn bên trái, không khối.",
+     "k": 0
+    },
+    "tiet_nieu": {
+     "a": "Không đau hố thắt lưng, vỗ vùng thận âm tính hai bên.",
+     "k": 0
+    },
+    "bui_tinh_hoan": {
+     "a": "Hai vùng bẹn không phồng khi rặn, không khối, ấn không đau. Bìu và tinh hoàn hai bên bình thường.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da ấm, không ban, không xuất huyết, không vàng da.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 11,6 G/L · Neutrophil 76% · Hb 152 g/L · Hct 0,46 · TC 236 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 11.6,
+      "neu_pct": 76.0,
+      "neu": 8.82,
+      "lym_pct": 16.0,
+      "lym": 1.86,
+      "mono_pct": 6.0,
+      "mono": 0.7,
+      "eos_pct": 1.0,
+      "eos": 0.12,
+      "baso_pct": 1.0,
+      "baso": 0.12,
+      "rbc": 5.1,
+      "hgb": 152,
+      "hct": 0.46,
+      "mcv": 90.2,
+      "mch": 29.8,
+      "mchc": 330,
+      "rdw": 13.4,
+      "plt": 236
+     },
+     "n": "Bạch cầu và bạch cầu trung tính tăng là một tiêu chí cân nhắc kháng sinh (QĐ 5642/2015 mục 3.3, 4.2.1); IDSA 2017 khuyến cáo 22: không dùng bạch cầu để xác định căn nguyên nhưng có thể hữu ích về lâm sàng. Không phân biệt được với viêm ruột thừa sớm (nhận định của ca). Hb, Hct hơi cao do cô đặc máu."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 8,9 mmol/L · Creatinin 121 µmol/L · eGFR 62 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 8.9,
+      "creat": 121,
+      "egfr": 62
+     },
+     "n": "Nền creatinin 86 µmol/L (eGFR 94) cách đây 4 tháng, nay tăng 35, gợi ý giảm tưới máu thận do mất dịch trên nền losartan và hydrochlorothiazid. Suy thận cấp là biến chứng của tiêu chảy do vi khuẩn (QĐ 5642/2015 mục 3.3, 5). Ngưỡng phân độ tổn thương thận cấp: không có trong tài liệu đã tải."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 134 · K 3,3 · Cl 96 mmol/L",
+     "ab": 1,
+     "bang": {
+      "na": 134,
+      "k": 3.3,
+      "cl": 96
+     },
+     "n": "Hạ kali nhẹ do nôn, tiêu chảy và hydrochlorothiazid; hạ natri nhẹ do mất dịch. Rối loạn điện giải là biến chứng được nêu (QĐ 5642/2015 mục 3.3, 5). Ngưỡng và liều bổ sung kali: không có trong tài liệu đã tải."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Tỷ trọng 1,028 · pH 5,5 · ceton + · không bạch cầu, nitrit, protein, hồng cầu, glucose",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.028,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "+",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "n": "Nước tiểu cô đặc, ceton do nhịn ăn, phù hợp mất nước; không hồng cầu nên ít nghĩ sỏi niệu quản phải, không bạch cầu nên không nghĩ nhiễm trùng tiểu. Que thử không dùng để chia độ mất nước (không có trong tài liệu đã tải)."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 5,8 mmol/L.",
+     "n": "Chấp nhận, không bắt buộc: không đái tháo đường, không run, không vã mồ hôi."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 100 l/p, đều. Không ST chênh, không sóng Q, QTc 430 ms. Sóng T bình thường, không sóng U rõ.",
+     "n": "Chấp nhận, không bắt buộc: 51 tuổi, tăng huyết áp, K 3,3. Chỉ định điện tim cho nôn và tiêu chảy: không có trong tài liệu đã tải."
+    },
+    "cay_phan": {
+     "v": "a",
+     "r": "Đã lấy mẫu phân lần đi ngoài thứ tư lúc 11 giờ vào lọ vô khuẩn, gửi labo bệnh viện huyện; kết quả sau 48–72 giờ.",
+     "n": "Chấp nhận, không bắt buộc, không dùng để quyết định hôm nay. Có sốt và đau quặn: IDSA 2017 khuyến cáo 8 nêu chỉ định xét nghiệm phân; ACG 2016 khuyến cáo 2 giới hạn ở bệnh vừa–nặng, lỵ hoặc trên 7 ngày; QĐ 5642/2015 mục 3.4 coi cấy phân là tiêu chuẩn xác định."
+    },
+    "crp": {
+     "v": "n",
+     "r": "Phòng khám không làm CRP.",
+     "n": "Không cần: không thay đổi xử trí hôm nay; dấu ấn sinh học trong viêm ruột thừa người lớn chưa có khuyến cáo (WSES 2020 Statement 1.6)."
+    },
+    "cay": {
+     "v": "n",
+     "r": "Cấy máu: không làm tại phòng khám.",
+     "n": "Không cần: cấy máu khi có dấu nhiễm khuẩn huyết hoặc biểu hiện toàn thân (IDSA 2017 khuyến cáo 9); ông tỉnh, HA 124/78, nhịp thở 20, chi ấm."
+    },
+    "ct_bung": {
+     "v": "n",
+     "r": "CT bụng: cơ sở không có.",
+     "n": "Chưa có chỉ định khi bụng mềm, không phản ứng, không điểm đau cố định; cần cân nhắc nếu khám lặp xấu đi (WSES 2020 khuyến cáo 1.8; WSES 2025 khuyến cáo 1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ngộ độc thực phẩm (viêm dạ dày ruột cấp nghi nhiễm khuẩn sau bữa ăn ngoài), thể không điển hình; mất nước nhẹ có dấu tư thế; hạ kali, hạ natri nhẹ; creatinin tăng so với nền khi đang dùng losartan và hydrochlorothiazid; chưa có dấu nhiễm khuẩn huyết hay bụng ngoại khoa",
+     "ok": 1,
+     "n": "Khởi phát khoảng 13 giờ sau bữa ăn ngoài, sốt nhẹ, đau quặn, nôn, phân lỏng ít, không máu (QĐ 5642/2015 mục 3.1, 3.4; Salmonella ủ bệnh 12–14 giờ: QĐ 4178/2007 mục II.2a). Không điển hình: không ai cùng ăn bị bệnh, đau lệch hố chậu phải, phân chỉ 3 lần, 'không ăn gì lạ'. Tác nhân chưa xác định. Mất nước độ 1 (mạch dưới 100 khi nằm, HA bình thường, tiểu ít: QĐ 5642/2015 mục 3.1)."
+    },
+    {
+     "t": "Tả",
+     "n": "Phân không phải nước vo gạo, chỉ 3 lần, ít, có sốt và đau quặn, không ăn hải sản sống hay đến vùng dịch (QĐ 5642/2015 mục 3.2: tả đi ngoài 20–50 lần/ngày, không sốt, không đau quặn; QĐ 4178/2007 mục II.1a, II.1c)."
+    },
+    {
+     "t": "Viêm ruột thừa cấp",
+     "n": "Đau nghiêng hố chậu phải nhưng quặn cơn, dịu sau đi ngoài, không dời chỗ, ấn buông không đau, Rovsing và cơ thắt lưng chậu âm tính. Điểm lâm sàng loại được nguy cơ thấp, không dùng để khẳng định (WSES 2020 khuyến cáo 1.2.1, 1.3); Yersinia có thể bắt chước viêm ruột thừa (IDSA 2017 Bảng 3). Bạch cầu hơi tăng, không có siêu âm nên chưa loại hẳn: nhóm trung gian cần quan sát, khám lặp (WSES 2020 Statement 1.9; WSES 2025 khuyến cáo 1)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "Tỉnh, HA 124/78, nhịp thở 20, chi ấm, đang đi tiểu, không ban: qSOFA 0/3 (Sepsis-3 2016 Box 4; không dùng qSOFA đơn độc: SSC 2026 khuyến cáo 4). NICE NG253 mục 1.5.2, Bảng 1: không tiêu chí nguy cơ cao; có 1 tiêu chí trung bình (mạch 91–130, do mất nước và sốt) nên cần theo dõi."
+    },
+    {
+     "t": "Sỏi niệu quản phải, nhiễm trùng tiểu",
+     "n": "Không đau hố thắt lưng, vỗ vùng thận âm tính, nước tiểu không hồng cầu, bạch cầu, nitrit; đau quặn nhưng kèm nôn, tiêu chảy."
+    },
+    {
+     "t": "Hội chứng vành cấp, tác dụng phụ thuốc hạ áp (hạ huyết áp, hạ kali)",
+     "n": "Điện tim không ST chênh, QTc 430 ms, không đau ngực. Choáng khi đứng do mất nước phối hợp ARB và thiazid: cần chỉnh thuốc (KDIGO 2024 Practice Point 4.3.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Bù ORS bằng đường uống ngay tại phòng khám, từng ngụm nhỏ, đợt đầu 2–4 L (ORS hoặc dịch, súp muối), sau đó bù thêm sau mỗi lần nôn hoặc đi ngoài, tự do khoảng 2 L/ngày",
+     "v": "c",
+     "n": "Mất nước nhẹ, uống được thì bù đường uống (QĐ 5642/2015 mục 4.2.3a); ORS đầu tay kể cả khi có nôn: IDSA 2017 khuyến cáo 39, 42, 43, Bảng 7 (người lớn 2–4 L, duy trì tự do khoảng 2 L/ngày). Nôn thì uống từng ngụm nhỏ (QĐ 4178/2007 mục III.2a). ACG 2016 khuyến cáo 5: nước, súp, bánh mặn cũng đủ cho đa số người lớn, nên ORS hoặc dịch/súp muối đều được (sổ mâu thuẫn). Thời gian bù 2–4 L: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ ông lại phòng khám theo dõi khoảng 3–4 giờ: uống ORS, đo lại sinh hiệu và HA nằm–đứng, đếm lần tiểu và nôn, khám bụng lặp lại sau 1–2 giờ và trước khi cho về",
+     "v": "c",
+     "n": "Không siêu âm, nguy cơ viêm ruột thừa trung gian: quan sát và khám lặp (WSES 2020 Statement 1.1, 1.9; WSES 2025 khuyến cáo 1). NICE NG253 Bảng 1 có một tiêu chí trung bình nên cần đánh giá lại. Mốc 3–4 giờ, khám lặp sau 1–2 giờ và điều kiện cho về (đã tiểu, mạch dưới 100, HA nằm–đứng ổn, giữ được ORS, bụng không đổi) là nhận định của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tạm ngưng losartan và hydrochlorothiazid từ hôm nay, ghi rõ kế hoạch dùng lại (khi ăn uống bình thường 24–48 giờ và creatinin, kali, HA đã kiểm tra lại); không tự bỏ cả đơn",
+     "v": "c",
+     "n": "KDIGO 2024 Practice Point 4.3.2 và đoạn 'sick day rules' (tr. S251): bệnh cấp mất nước thì tạm ngừng ARB, ACEi, lợi tiểu, NSAID, metformin, SGLT2i và thông báo rõ khi nào dùng lại (hay gặp nhất là quên dùng lại). Viết cho bệnh thận mạn, bằng chứng còn ít; áp dụng cho ông vì creatinin tăng, K 3,3, tụt HA tư thế là lập luận của ca (ngoại suy). Mốc 24–48 giờ: nhận định của ca."
+    },
+    {
+     "t": "Amlodipin 5 mg: dùng tiếp hoặc hoãn đến khi hết mất nước, có theo dõi HA tại nhà",
+     "v": "a",
+     "n": "Không có trong tài liệu đã tải hướng dẫn riêng cho amlodipin khi mất nước (KDIGO 2024 sick day rules không nêu nhóm chẹn kênh canxi). Hai cách đều chấp nhận được; tụt HA tư thế nhẹ chưa đủ để buộc phải ngưng."
+    },
+    {
+     "t": "Không kê kháng sinh theo kinh nghiệm, giải thích rõ, chờ cấy phân và theo dõi; HOẶC cân nhắc kháng sinh vì có sốt và bạch cầu tăng: azithromycin 500 mg/ngày × 3 ngày hoặc 0,5 g/ngày × 5 ngày, hoặc ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày",
+     "v": "c",
+     "n": "Cách A: tiêu chảy nước cấp, không đi nước ngoài, không suy giảm miễn dịch thì không dùng kháng sinh kinh nghiệm (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10); sốt 38,0 °C chưa tới mốc 101 °F (38,3 °C) của ACG 2016 Hình 1. Cách B: QĐ 5642/2015 mục 4.2.1 cho cân nhắc khi sốt, bạch cầu tăng; mục 4.2.2a ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày hoặc azithromycin 0,5 g/ngày × 5 ngày; ACG 2016 Bảng 4: azithromycin 500 mg × 3 ngày. Khác nhau vì QĐ 5642 là văn bản chung 2015 mở rộng chỉ định, còn hai guideline quốc tế dựa trên người lớn miễn dịch bình thường (sổ mâu thuẫn). Số ngày thận trọng hơn: 3. Quinolon: nguy cơ viêm gân (ACG 2016)."
+    },
+    {
+     "t": "Trấn an có cấu trúc: nói từng kết quả khám và xét nghiệm (không phải tả, chưa có dấu nhiễm khuẩn huyết, bụng hiện chưa cần mổ), vì sao chưa cần kháng sinh tiêm hay CT, những dấu hiệu nào sẽ làm đổi hướng; không chiều theo yêu cầu chụp và tiêm",
+     "v": "c",
+     "n": "Tả: phân nước vo gạo, 20–50 lần/ngày (QĐ 5642/2015 mục 3.2). Kháng sinh đường truyền chỉ khi nặng có nhiễm khuẩn toàn thân (QĐ 5642/2015 mục 4.2.2). Hình ảnh khi nguy cơ trung gian hoặc cao và khi khám lặp xấu đi (WSES 2020 khuyến cáo 1.8). Kỹ thuật trấn an: không có trong tài liệu đã tải; nghe 'không sao đâu' chung chung thì ông càng sợ."
+    },
+    {
+     "t": "Hỏi nhẹ nhàng về điều anh lo nhất, chuyện tối qua ở nhà; đề nghị mời vợ đến nghe giải thích nếu ông đồng ý; nói rõ nằm viện không giải quyết được chuyện gia đình",
+     "v": "c",
+     "n": "Lý do thật đến khám (mâu thuẫn gia đình) quyết định có nhập viện 'theo yêu cầu' hay không. Cách khai thác và tư vấn gia đình: không có trong tài liệu đã tải; đây là nhận định của ca (nhập viện khi không có tiêu chuẩn là quá tay)."
+    },
+    {
+     "t": "Dặn dấu hiệu phải quay lại hoặc gọi ngay và hẹn tái khám sau 24–48 giờ để xét nghiệm lại creatinin, kali, đo HA, cân nặng và khám bụng; không tự lái xe chạy dịch vụ khi còn choáng hoặc chưa ăn uống bình thường",
+     "v": "c",
+     "n": "NICE NG253 Bảng 1: nguy cơ cao khi nhịp thở từ 25 lần/phút, HA tâm thu từ 90 mmHg trở xuống hoặc thấp hơn bình thường trên 40 mmHg, không tiểu 18 giờ, thay đổi tri giác. Đau cố định hố chậu phải, bụng cứng, nôn không giữ được nước, phân máu: nhận định của ca. Mốc tái khám 24–48 giờ và lời dặn lái xe không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho ăn lại thức ăn thường, dễ tiêu ngay khi bớt nôn; tiếp tục ORS đến khi hết nôn và tiêu chảy; rửa tay, nấu chín, không dùng trứng sống hoặc lòng đào khi đang bệnh",
+     "v": "c",
+     "n": "Ăn lại chế độ bình thường trong hoặc ngay sau bù dịch (IDSA 2017 khuyến cáo 45). Vệ sinh tay và an toàn thực phẩm (QĐ 5642/2015 mục 6; IDSA 2017 khuyến cáo 52, 54)."
+    },
+    {
+     "t": "Paracetamol 500 mg khi sốt trên 38,5 °C hoặc khó chịu, cách 6–8 giờ, tổng không quá 3 g/ngày (hoặc tối đa 4 g/ngày)",
+     "v": "a",
+     "n": "Người tăng huyết áp: acetaminophen dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3); người lớn nói chung 500–1.000 mg/lần, cách 6–8 giờ, không quá 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1). Con số thận trọng hơn: dưới 3 g/ngày (sổ mâu thuẫn, TH-0295). Mốc sốt 38,5 °C là nhận định của ca."
+    },
+    {
+     "t": "Men vi sinh, hoặc không dùng",
+     "v": "a",
+     "n": "IDSA 2017 khuyến cáo 49: có thể cho người lớn miễn dịch bình thường; ACG 2016 khuyến cáo 6: không khuyến cáo. Hai cách đều đúng (sổ mâu thuẫn, TH-0624)."
+    },
+    {
+     "t": "Loperamid để cầm đi ngoài",
+     "v": "w",
+     "n": "Ông có sốt: IDSA 2017 khuyến cáo 47 tránh loperamid khi tiêu chảy kèm sốt hoặc nghi tiêu chảy viêm; QĐ 5642/2015 mục 4.2.3b không lạm dụng thuốc cầm tiêu chảy (sổ mâu thuẫn, TH-0624: có sốt thì chấm w)."
+    },
+    {
+     "t": "Tiêm hoặc truyền kháng sinh tĩnh mạch (ceftriaxon) theo yêu cầu của ông",
+     "v": "w",
+     "n": "Kháng sinh đường truyền chỉ dùng khi nặng có nhiễm khuẩn toàn thân (QĐ 5642/2015 mục 4.2.2); ông tỉnh, HA 124/78. Theo yêu cầu của người bệnh không phải chỉ định (IDSA 2017 khuyến cáo 36, 9)."
+    },
+    {
+     "t": "Cho thuốc giảm đau chống viêm (diclofenac, ibuprofen) để bớt đau bụng",
+     "v": "w",
+     "n": "Đang mất nước, dùng ARB và lợi tiểu, creatinin tăng: tránh NSAID (KDIGO 2024 Bảng 32: NSAID, ACEi/ARB, lợi tiểu có thể gây AKI, hạ huyết áp, giảm thể tích; QĐ 361/2014 Phụ lục NSAID mục 3.3: người tăng huyết áp tránh NSAID nếu có thể)."
+    },
+    {
+     "t": "Cho ông tiếp tục nguyên losartan và hydrochlorothiazid như mọi ngày, bù ORS rồi cho về ngay không theo dõi",
+     "v": "w",
+     "n": "ARB và lợi tiểu nằm trong danh sách tạm ngừng khi bệnh cấp mất nước (KDIGO 2024 Practice Point 4.3.2, tr. S251); Bảng 32 nêu hạ huyết áp, AKI, giảm thể tích khi tiếp tục dùng (viết cho phẫu thuật chương trình, ngoại suy). Cho về ngay khi chưa khám lặp, chưa có K và creatinin là bỏ qua điều kiện an toàn (nhận định của ca)."
+    },
+    {
+     "t": "Chuyển ngay lên bệnh viện huyện chụp CT bụng, cấy máu hoặc nhập viện truyền dịch 'cho yên tâm' khi ông tỉnh, uống được, bụng mềm",
+     "v": "w",
+     "n": "Chưa có chỉ định: mất nước nhẹ, uống được thì ORS (IDSA 2017 khuyến cáo 39; truyền tĩnh mạch khi nặng, sốc, rối loạn tri giác hoặc thất bại ORS: khuyến cáo 41); hình ảnh khi nguy cơ trung gian hoặc cao hoặc khám lặp xấu đi (WSES 2020 khuyến cáo 1.8). Đúng khi khám lặp xấu đi, không phải để chiều lòng người sợ hãi hay giải quyết mâu thuẫn gia đình."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ngộ độc thực phẩm: viêm dạ dày ruột cấp nghi nhiễm khuẩn sau bữa ăn ngoài, ủ bệnh khoảng 13 giờ, tác nhân chưa xác định; thể không điển hình (không cụm ca, đau lệch hố chậu phải, phân ít)",
+     "Mất nước nhẹ có dấu tư thế (sụt khoảng 3%, tụt HA tâm thu 16 mmHg và mạch tăng 20 l/p khi đứng); hạ kali 3,3, hạ natri 134 nhẹ",
+     "Creatinin 121 µmol/L tăng so với nền 86 khi đang dùng losartan và hydrochlorothiazid: nguy cơ tổn thương thận do mất dịch, đã uống thuốc sáng nay",
+     "Nhóm nguy cơ trung gian cho viêm ruột thừa khi chưa có hình ảnh: cần khám lặp; đã loại lâm sàng tả và nhiễm khuẩn huyết",
+     "Yếu tố tâm lý: sợ hãi quá mức; lý do thật đến khám là mâu thuẫn gia đình, muốn nằm viện để khỏi về nhà"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: sinh hiệu; hỏi mốc giờ, nôn, đi ngoài, đặc điểm đau, bữa ăn theo từng giờ (ông nói không ăn gì lạ), người cùng ăn, nước tiểu, bệnh nền, thuốc đã uống sáng nay, điều ông sợ nhất và chuyện ở nhà; khám mất nước, HA nằm–đứng, bụng, bẹn, hố thắt lưng, thăm trực tràng; xét nghiệm cơ bản, điện tim; chẩn đoán; xử trí.",
+     "Vì sao là ngộ độc thực phẩm: sau bữa ăn ngoài, sốt, nôn, đau quặn, tiêu chảy ít, không máu (QĐ 5642/2015 mục 3.1, 3.4); Salmonella ủ 12–14 giờ (QĐ 4178/2007 mục II.2a); trứng chưa nấu chín là nguy cơ (IDSA 2017 Bảng 2). Không điển hình: không ai cùng ăn bị bệnh, 'không ăn gì lạ', đau nghiêng hố chậu phải kéo về ruột thừa; nhưng đau quặn dịu sau đi ngoài, không dời chỗ, không phản ứng thành bụng.",
+     "Loại trừ tả: phân ít, vàng nâu, có sốt và đau quặn, không dịch tễ (QĐ 5642/2015 mục 3.2; QĐ 4178/2007 mục II.1a, II.1c). Loại trừ nhiễm khuẩn huyết: tỉnh, HA 124/78, qSOFA 0/3 (Sepsis-3 2016 Box 4; SSC 2026 khuyến cáo 4); NICE NG253 Bảng 1 chỉ có tiêu chí trung bình là mạch 91–130: cần theo dõi, không cần chuyển cấp cứu.",
+     "Viêm ruột thừa chưa loại hẳn: nhóm trung gian cần hình ảnh hoặc quan sát (WSES 2020 Statement 1.9; WSES 2025 khuyến cáo 1). Phòng khám không có siêu âm nên khám lặp có mốc giờ.",
+     "Xét nghiệm: bạch cầu 11,6 không xác định căn nguyên (IDSA 2017 khuyến cáo 22). Creatinin, K, Na dùng để chỉnh thuốc hạ áp và theo dõi biến chứng (QĐ 5642/2015 mục 3.3, 5). Cấy phân là tiêu chuẩn xác định (QĐ 5642/2015 mục 3.4), không bắt buộc hôm nay."
+    ],
+    "phan_tich_xu_tri": [
+     "Bù dịch trước tiên: mất nước độ 1, uống được thì ORS (QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 39, 42, 43, Bảng 7). Truyền tĩnh mạch khi nặng, sốc, rối loạn tri giác hoặc thất bại ORS (IDSA 2017 khuyến cáo 41). Thời gian bù và thể tích truyền: không có trong tài liệu đã tải.",
+     "Thuốc hạ áp: ARB và lợi tiểu tạm ngưng khi bệnh cấp mất nước, kèm kế hoạch dùng lại rõ (KDIGO 2024 Practice Point 4.3.2, tr. S251; viết cho bệnh thận mạn, ca ngoại suy). Amlodipin: không có trong tài liệu đã tải. Tránh NSAID (KDIGO 2024 Bảng 32; QĐ 361/2014 Phụ lục NSAID mục 3.3).",
+     "Kháng sinh, ghi cả hai cách: (A) không kê theo kinh nghiệm, chờ cấy phân (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10); (B) cân nhắc vì sốt và bạch cầu tăng (QĐ 5642/2015 mục 4.2.1): ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày hoặc azithromycin 0,5 g/ngày × 5 ngày (mục 4.2.2a), hoặc azithromycin 500 mg × 3 ngày (ACG 2016 Bảng 4). Số ngày thận trọng hơn: 3. Không kê để làm yên lòng.",
+     "Theo dõi tại phòng khám 3–4 giờ và khám bụng lặp (WSES 2020 Statement 1.1, 1.9; WSES 2025 khuyến cáo 1); mốc giờ là nhận định của ca. Chuyển tuyến khi bụng khu trú hoặc phản ứng thành bụng, HA tụt, lơ mơ, không tiểu, không giữ được dịch (NICE NG253 Bảng 1; WSES 2020 khuyến cáo 1.8).",
+     "Tâm lý và gia đình: không nhập viện khi không có chỉ định y khoa; mời vợ nghe giải thích nếu ông đồng ý (nhận định của ca, không có trong tài liệu đã tải). Loperamid chấm w vì có sốt (IDSA 2017 khuyến cáo 47)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Oresol (ORS), ưu tiên loại áp lực thẩm thấu thấp",
+      "ham_luong": "Gói pha theo nhà sản xuất (công thức QĐ 4178: NaCl 3,5 g, NaHCO₃ 2,5 g, KCl 1,5 g, glucose 20 g pha 1 lít nước đun sôi để nguội)",
+      "lieu": "Từng ngụm nhỏ; đợt đầu 2–4 L; sau đó bù theo mỗi lần nôn, đi ngoài, tự do khoảng 2 L/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Bắt đầu ngay tại phòng khám, tiếp tục ở nhà",
+      "so_ngay": "Đến khi hết nôn, hết tiêu chảy",
+      "ghi_chu": "IDSA 2017 khuyến cáo 39, 42, 43, Bảng 7; QĐ 4178/2007 mục III.2a; QĐ 5642/2015 mục 4.2.3a. Thời gian bù 2–4 L: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Losartan 50 mg + hydrochlorothiazid 12,5 mg (đang dùng)",
+      "ham_luong": "Viên phối hợp 50/12,5 mg",
+      "lieu": "TẠM NGƯNG từ hôm nay; dùng lại 1 viên mỗi sáng khi ăn uống bình thường 24–48 giờ và creatinin, kali, HA đã kiểm tra lại",
+      "duong": "Uống",
+      "thoi_diem": "Dùng lại theo hẹn tái khám",
+      "so_ngay": "Tạm ngưng 1–2 ngày",
+      "ghi_chu": "KDIGO 2024 Practice Point 4.3.2 và đoạn sick day rules (tr. S251), Bảng 32; viết cho bệnh thận mạn, ca ngoại suy; mốc 24–48 giờ là nhận định của ca. Phải nói rõ ngày dùng lại vì quên dùng lại là sai sót thường gặp (KDIGO 2024)."
+     },
+     {
+      "thuoc": "Amlodipin 5 mg (đang dùng)",
+      "ham_luong": "Viên 5 mg",
+      "lieu": "1 viên mỗi sáng, hoặc hoãn đến khi hết mất nước; đo HA tại nhà sáng, tối",
+      "duong": "Uống",
+      "thoi_diem": "Sáng",
+      "so_ngay": "Theo tái khám",
+      "ghi_chu": "Không có trong tài liệu đã tải hướng dẫn riêng cho amlodipin khi mất nước; hai cách đều chấp nhận."
+     },
+     {
+      "thuoc": "Paracetamol (không bắt buộc)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg/lần khi sốt trên 38,5 °C hoặc khó chịu, cách 6–8 giờ, tối đa 3 g/ngày (hoặc 4 g/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Khi cần, sau ăn",
+      "so_ngay": "1–3 ngày",
+      "ghi_chu": "QĐ 361/2014 Phụ lục NSAID mục 3.3 (dưới 3 g/ngày ở người tăng huyết áp); Phụ lục thuốc giảm đau mục 3.1 (tối đa 4 g/24 giờ). Con số thận trọng hơn: dưới 3 g/ngày."
+     },
+     {
+      "thuoc": "Kháng sinh (không bắt buộc, chỉ khi chọn cách B)",
+      "ham_luong": "Azithromycin 500 mg",
+      "lieu": "500 mg/ngày × 3 ngày (ACG 2016 Bảng 4) hoặc 0,5 g/ngày × 5 ngày (QĐ 5642/2015 mục 4.2.2a); ciprofloxacin 0,5 g × 2 lần/ngày × 5 ngày là thuốc ưu tiên của QĐ 5642",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "3 hoặc 5 ngày",
+      "ghi_chu": "Cách A (không kê, chờ cấy phân) cũng đúng: IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10. Quinolon: nguy cơ viêm gân (ACG 2016). Chỉnh liều theo eGFR 62: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Ringer lactat (chỉ khi cần)",
+      "ham_luong": "Chai 500 mL",
+      "lieu": "Chỉ khi nôn không giữ được ORS, hoặc HA, tri giác xấu đi; thể tích, tốc độ: không có trong tài liệu đã tải",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Tại phòng khám hoặc nơi chuyển tới",
+      "so_ngay": "Vài giờ",
+      "ghi_chu": "QĐ 5642/2015 mục 4.2.3a; IDSA 2017 khuyến cáo 41. Không truyền thường quy."
+     }
+    ],
+    "dan_do": [
+     "Uống ORS từng ngụm nhỏ; nôn thì nghỉ vài phút rồi uống chậm lại. Ăn lại thức ăn thường, dễ tiêu ngay khi bớt nôn (QĐ 4178/2007 mục III.2a; IDSA 2017 khuyến cáo 45).",
+     "Giải thích: chưa phải tả, chưa có dấu nhiễm trùng máu, bụng hiện chưa cần mổ, vì sao chưa cần kháng sinh tiêm hay chụp CT; đa số tự khỏi (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 10). Khám lại bụng sau 1–2 giờ để chắc ruột thừa chưa có vấn đề.",
+     "Tạm ngưng losartan + hydrochlorothiazid đến khi hẹn tái khám; ghi ngày dùng lại vào sổ (KDIGO 2024 Practice Point 4.3.2). Không uống thuốc giảm đau chống viêm (diclofenac, ibuprofen).",
+     "Quay lại hoặc gọi ngay nếu: đau cố định hố chậu phải hoặc bụng cứng, sốt cao, lú lẫn, ngất, nhịp thở nhanh, không đi tiểu 18 giờ, nôn không giữ được nước, phân có máu (NICE NG253 Bảng 1 và nhận định của ca). Tái khám sau 24–48 giờ để làm lại creatinin, kali và đo HA.",
+     "Hôm nay không lái xe chạy dịch vụ; chỉ chạy lại khi hết choáng khi đứng và ăn uống bình thường (không có trong tài liệu đã tải; nhận định của ca). Không ăn trứng lòng đào, thức ăn để lâu; rửa tay bằng xà phòng (QĐ 5642/2015 mục 6; IDSA 2017 khuyến cáo 52, 54).",
+     "Chuyện nhà: anh có thể về nghỉ, nên mời chị đến nghe giải thích; phòng khám không giữ nằm viện vì lý do này. Mẫu phân gửi cấy, kết quả báo lại sau vài ngày (nhận định của ca)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Thịnh ở lại phòng khám 4 giờ. Sau khi bác sĩ nói rõ từng kết quả, anh bớt run, uống khoảng 2,5 lít Oresol từng ngụm, nôn thêm 1 lần trong giờ đầu rồi hết. Anh tiểu lần đầu lúc 11 giờ 15; lúc 12 giờ mạch 88, nằm 128/78, đứng 3 phút 120/76, không choáng. Bụng khám lại lúc 10 giờ 45 và 13 giờ vẫn mềm, đau nhẹ lan tỏa, không khu trú. Trong lúc chờ, anh kể chuyện cãi vợ rồi đồng ý gọi vợ; chị Hạnh đến lúc 12 giờ 30, nghe giải thích và đón anh về, anh không tự lái. Không dùng kháng sinh; sau 3 ngày cấy phân mọc Salmonella không thương hàn. Anh hết sốt, hết nôn trong 24 giờ; tái khám ngày 2: creatinin 92 µmol/L, K 3,9, HA 138/84, dùng lại losartan + hydrochlorothiazid như đã ghi. Khỏi hẳn ngày 4, chạy xe lại. Kết cục tốt không biến mọi quyết định thành đúng: chấm theo thông tin có lúc khám (outcome bias).",
+ "nhieu": [
+  "Sợ hãi quá mức: anh hỏi dồn 'có chết không', đòi chụp CT và tiêm kháng sinh mạnh; đáp án là trấn an có cấu trúc bằng kết quả khám từng bước, không chọn xét nghiệm chiều lòng. Nỗi sợ có nguồn (anh họ mổ ruột thừa vỡ, bạn tài xế mất sau tiêu chảy). Mạch 100 do mất nước, sốt và hoảng sợ, không phải nhiễm khuẩn huyết.",
+  "Lý do thật là mâu thuẫn gia đình: anh muốn nằm viện để khỏi về nhà. Chỉ lộ khi hỏi nhẹ nhàng về chuyện nhà; không nhập viện theo yêu cầu khi không có chỉ định.",
+  "Thuốc hạ áp: anh vẫn uống losartan và hydrochlorothiazid sáng nay dù đang nôn; chỉ lộ khi hỏi cụ thể thuốc sáng nay. Creatinin và kali là bằng chứng cần chỉnh thuốc.",
+  "Ca không điển hình: không ai cùng ăn bị bệnh, anh nói 'không ăn gì lạ'; phải hỏi bữa ăn theo từng giờ. Đau nghiêng hố chậu phải kéo bác sĩ về viêm ruột thừa; phải khám lặp thay vì chụp ngay.",
+  "Chỉ có xét nghiệm cơ bản: không siêu âm, CT, CRP; quyết định dựa vào khám lặp có mốc giờ và xét nghiệm có sẵn."
+ ],
+ "bai_hoc_bien": [
+  "Ngộ độc thực phẩm lẻ tẻ vẫn có thể gặp khi không có người cùng ăn bị bệnh: hỏi bữa ăn theo từng giờ trong 48 giờ, không tin câu 'không ăn gì lạ' (QĐ 5642/2015 mục 3.4; QĐ 4178/2007 mục II.2a).",
+  "Đau lệch hố chậu phải kèm sốt nhẹ, nôn: không kết luận sớm là viêm ruột thừa mà cũng không loại sớm; điểm lâm sàng chỉ để loại nguy cơ thấp, nhóm trung gian cần quan sát và khám lặp có mốc giờ (WSES 2020 khuyến cáo 1.2.1, 1.3, Statement 1.9).",
+  "Người tăng huyết áp mất nước: hỏi đã uống thuốc nào sáng nay, tạm ngưng ARB và lợi tiểu, kiểm tra lại creatinin và kali, hẹn dùng lại rõ ràng (KDIGO 2024 Practice Point 4.3.2).",
+  "Người sợ hãi đòi kháng sinh và CT: tìm điều anh thật sự sợ, nói từng kết quả vì sao chưa cần (IDSA 2017 khuyến cáo 36; WSES 2020 khuyến cáo 1.8). Lý do thật có thể là chuyện gia đình: không giải quyết bằng nhập viện."
+ ],
+ "diem_nho": [
+  "Mất nước độ 1 uống được: ORS 2–4 L đợt đầu, duy trì tự do khoảng 2 L/ngày (IDSA 2017 khuyến cáo 39, Bảng 7); Ringer lactat khi không uống được (QĐ 5642/2015 mục 4.2.3a).",
+  "Kháng sinh kinh nghiệm ở tiêu chảy nước người lớn: không (IDSA 2017 khuyến cáo 36; ACG 2016 khuyến cáo 9, 10) hoặc cân nhắc khi sốt, bạch cầu tăng (QĐ 5642/2015 mục 4.2.1); azithromycin 500 mg × 3 ngày (ACG 2016 Bảng 4) hoặc 0,5 g × 5 ngày (QĐ 5642 mục 4.2.2a).",
+  "Sick day rules: tạm ngưng ARB, ACEi, lợi tiểu, NSAID khi bệnh cấp mất nước và ghi kế hoạch dùng lại (KDIGO 2024 Practice Point 4.3.2, tr. S251).",
+  "Tả: phân nước vo gạo 20–50 lần/ngày, không sốt, ít đau quặn (QĐ 5642/2015 mục 3.2)."
+ ],
+ "nguon": [
+  "BYT QĐ 5642/2015 – TL-0038 – Bệnh tiêu chảy do vi khuẩn mục 3.1–3.4, 4.1, 4.2.1, 4.2.2a, 4.2.3a–b, 5, 6",
+  "BYT QĐ 4178/2007 hướng dẫn bệnh tả – TL-0176 – mục II.1a, II.1c, II.2a, III.2a",
+  "IDSA 2017 tiêu chảy nhiễm trùng – TL-0230 – khuyến cáo 8, 9, 11, 22, 30, 36, 39, 41, 42, 43, 45, 47, 49, 52, 54; Bảng 2, 3, 7",
+  "ACG 2016 tiêu chảy nhiễm khuẩn cấp – TL-0233 – khuyến cáo 2, 5, 6, 9, 10; Hình 1; Bảng 4",
+  "WSES 2020 viêm ruột thừa – TL-0263 – Statement 1.1, 1.6, 1.9, khuyến cáo 1.2.1, 1.3, 1.8; WSES 2025 – TL-0053 – khuyến cáo 1",
+  "NICE NG253 nghi nhiễm khuẩn huyết ≥ 16 tuổi – TL-0057 – mục 1.5.2, Bảng 1; Sepsis-3 2016 – TL-0101 – Box 4; SSC 2026 – TL-0049 – khuyến cáo 4",
+  "KDIGO 2024 bệnh thận mạn – TL-0308 – Practice Point 4.3.2 và đoạn sick day rules (tr. S251), Bảng 32",
+  "BYT QĐ 361/2014 bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID mục 2, 3.3 (bảng nguy cơ cao); Phụ lục thuốc giảm đau mục 3.1",
+  "Không có trong tài liệu đã tải: thời gian bù 2–4 L ORS; thể tích, tốc độ truyền; ngưỡng phân độ tổn thương thận cấp, liều bổ sung kali; amlodipin khi mất nước; mốc giờ theo dõi, điều kiện cho về, mốc tái khám 24–48 giờ; lời dặn lái xe; kỹ thuật trấn an, tư vấn mâu thuẫn gia đình; chỉ định điện tim, đường huyết mao mạch."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-28: viết bản 1. Tài liệu đã đọc: TL-0038 (Tiêu chảy do vi khuẩn mục 1–6; Nhiễm khuẩn huyết mục 2.1), TL-0176 (mục II, III), TL-0230 (khuyến cáo 8–11, 22, 30, 36–49, 52–54; Bảng 2, 3, 7), TL-0233 (khuyến cáo 1–11), TL-0263 (Statement 1.1–1.9), TL-0053 (khuyến cáo 1, 2), TL-0057 (mục 1.5, Bảng 1), TL-0101 (Box 4), TL-0049 (khuyến cáo 4), TL-0308 (Practice Point 4.3.2, Bảng 32), TL-0286 (Phụ lục NSAID, thuốc giảm đau).",
+  "Biến sổ cái: trung niên 51 tuổi; không điển hình (không cụm ca, đau lệch hố chậu phải, phân ít); sợ hãi quá mức; chỉ có xét nghiệm cơ bản (khóa X-quang, siêu âm, kéo theo CT, nội soi); tài xế xe công nghệ; không rõ yếu tố khởi phát; thuốc hạ áp (sick day); lý do thật mâu thuẫn gia đình (giấu); kết cục khỏi bệnh (ngày 4).",
+  "ket_luan theo_doi: ở lại phòng khám 3–4 giờ vì không có hình ảnh, nhóm nguy cơ trung gian cho ruột thừa, creatinin tăng và hạ kali dưới thuốc hạ áp; mốc giờ và điều kiện cho về là nhận định của ca. Nếu trưởng nhóm muốn đáp án ve_hen thì sửa ket_luan và neu_sai.",
+  "Chỗ nghi ngờ: KDIGO 2024 sick day rules viết cho bệnh thận mạn, ca ngoại suy; nền creatinin 86 và số liệu xét nghiệm, sinh hiệu phụ là minh họa. Không dùng âm thanh tim (mạch 100 không khớp tệp tim nhanh ≈ 115 l/p).",
+  "Mâu thuẫn: dùng mục có sẵn trong sổ (kháng sinh kinh nghiệm tiêu chảy nước người lớn có sốt, azithromycin 3 hay 5 ngày, loperamid, men vi sinh, dạng dịch bù, paracetamol tối đa ở người tăng huyết áp); không có mục mới. Xem TH-0726_mau_thuan.md."
+ ]
+}
