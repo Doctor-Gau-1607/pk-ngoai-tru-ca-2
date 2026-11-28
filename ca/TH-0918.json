@@ -1,0 +1,673 @@
+{
+ "ma_ca": "TH-0918",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TH_tao_bon_chuc_nang",
+ "so_cai": {
+  "chuyen_khoa": "Tiêu hóa - gan mật",
+  "chan_doan_dich": "Táo bón chức năng",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư đại trực tràng",
+   "Tắc ruột"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Thay đổi thời tiết",
+  "thuoc_dang_dung": "Thuốc nhỏ mắt corticoid",
+  "ly_do_that_su_den_kham": "Bạn bè có bệnh tương tự"
+ },
+ "benh_nhan": {
+  "ten": "Lê Minh Khôi",
+  "tuoi": 10,
+  "gioi": "Nam",
+  "nghe": "Học sinh lớp 5",
+  "can_nang": 32,
+  "chieu_cao": 138,
+  "xung_ho": "Bé 10 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ'; ít nói, hay cúi mặt khi bị hỏi chuyện đi vệ sinh. Mẹ là người kể chính: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em'.",
+  "tinh_cach": "Bé hiền, hay ngại, mê chơi game trên điện thoại, xấu hổ vì són phân ra quần nên giấu mẹ. Mẹ (chị Trần Thu Hà, 37 tuổi, kế toán) nói nhanh, quả quyết, hay đọc nhóm phụ huynh lớp, thương con và sợ con 'bị bệnh nặng như bé Phúc'.",
+  "kieu_nhieu": "Đòi kháng sinh: mẹ vào phòng khám nói thẳng 'bác sĩ cho cháu thuốc kháng sinh cho nhanh khỏi'; tin ruột bị viêm, có vi trùng; hỏi dồn, dễ phật ý nếu bị gạt đi. Hợp tác tốt khi được ghi nhận nỗi lo, được giải thích bằng chính dấu hiệu khám của bé, và được đưa kế hoạch cụ thể thay cho thuốc mẹ xin.",
+  "nguoi_nha": "Mẹ bé, chị Hà, 37 tuổi, đi cùng và trả lời hầu hết câu hỏi (nguoi_noi = nguoi_nha). Khi bác sĩ hỏi thẳng bé (vd 'Khôi ở trường có đi vệ sinh không?') thì bé trả lời nhỏ, ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hà)",
+  "ngoai_hinh": {
+   "da": "#e3b98f",
+   "toc": "#1c1411",
+   "kieuToc": "ngan",
+   "ao": "#6fa3c7",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e8bf9c",
+    "toc": "#2a1d17",
+    "kieuToc": "dai",
+    "ao": "#c9a3a3",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đau bụng, đi ngoài khó 3 tháng; mẹ xin kháng sinh",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản: công thức máu, sinh hóa nền (ure–creatinin, điện giải, glucose, men gan), tổng phân tích nước tiểu, soi phân. Không có X-quang, siêu âm, CT, nội soi tại chỗ."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé Lê Minh Khôi, 10 tuổi, 32 kg, học sinh lớp 5, mẹ đưa đến vì đau bụng từng cơn và đi ngoài khó khoảng 3 tháng, mấy tuần nay quần lót hay dính phân. Mẹ xin kháng sinh. Sinh hiệu: nhiệt 36,8 °C, mạch 84 l/p, nhịp thở 20 l/p, SpO₂ 99%. Bé tỉnh, hơi ngại.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Khôi tỉnh, bụng mềm, không sốt, không nôn, còn đánh hơi, không mất nước: nhập viện chỉ để làm sạch phân ứ là không cần vì PEG uống làm được ở nhà, thụt chỉ khi không có PEG (ESPGHAN/NASPGHAN 2014 khuyến cáo 31–32, tr. 269; QĐ 3312/2015 Táo bón mục 5.2b, tr. 333). Bé nghỉ học, bị tách khỏi mẹ, bị đặt kim; mẹ càng tin 'con bệnh nặng như bé Phúc' và đòi kháng sinh mạnh hơn. Vấn đề thật là nhà vệ sinh ở trường và thói quen nhịn vẫn còn nguyên khi bé về.",
+    "chuyen_tuyen": "Gửi Khôi lên tuyến trên để đo áp lực hậu môn trực tràng hoặc sinh thiết là chưa đúng lúc: bé khởi phát sau nhiều năm đi ngoài đều, có nín nhịn, bóng trực tràng đầy phân, không dấu báo động, và chưa điều trị tối ưu ≥ 3 tháng (ESPGHAN/NASPGHAN 2014 Bảng 5, tr. 265; tr. 262; khuyến cáo 14–16, tr. 266). Mẹ phải xin nghỉ làm, đi xa, chờ lâu; bé về vẫn chưa được uống PEG đúng liều nên ứ phân tiếp diễn và mẹ nghĩ 'bệnh nặng đến mức phải lên viện lớn'."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu nhà em đau bụng ba tháng nay, đi ngoài khó, dạo này còn dính ra quần. Em nghĩ ruột con bị viêm, có vi trùng, bác sĩ cho cháu thuốc kháng sinh cho nhanh khỏi nha.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau bụng từng cơn khoảng 3 tháng, đi ngoài khó và ít, nặng hơn từ khi trời trở rét. Mẹ cho là ruột bị viêm, có vi trùng nên xin kháng sinh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và điều mẹ mong"
+    },
+    {
+     "id": "tan_suat",
+     "noi_dung": "Trước đây bé đi ngoài mỗi sáng, phân mềm. Khoảng 3 tháng nay chỉ 2 lần mỗi tuần, mỗi lần phân to, cứng như cục, rặn 15–20 phút, kêu đau hậu môn. Một lần giấy lau có vài vệt máu tươi, không thấy máu trộn trong phân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tần suất và tính chất phân (tiêu chuẩn Rome III)"
+    },
+    {
+     "id": "son_phan",
+     "noi_dung": "Khoảng 5–6 tuần nay quần lót hay dính vệt phân lỏng sệt, 3–4 lần mỗi tuần; bé xấu hổ, giấu quần bẩn. Mẹ tưởng là tiêu chảy, 'ruột viêm'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Són phân do tràn (dễ nhầm tiêu chảy)"
+    },
+    {
+     "id": "nin_nhin",
+     "noi_dung": "Khi buồn đi, bé kẹp hai đùi, nhón chân, đỏ mặt rồi nhịn tiếp vì đang chơi game hoặc đang học. Ở trường bé gần như không vào nhà vệ sinh (lạnh, ướt, hôi, cửa hỏng chốt, sợ bạn cười). Ở nhà bé đi buổi tối, cần mẹ đứng cạnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nín nhịn ở trường"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Bắt đầu sau đợt mưa lạnh đầu mùa: bé mặc nhiều lớp, ít ra sân chơi, uống ít nước, ngại ra nhà vệ sinh lạnh. Đợt rét vừa rồi đau nặng hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: thay đổi thời tiết"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không sốt, không nôn, vẫn đánh hơi hằng ngày, bụng không to dần. Không phân đen, không máu trộn trong phân, không sụt cân. Sinh đủ tháng, phân su ngày đầu, từ nhỏ đi ngoài đều, chưa mổ bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ dấu báo động (tắc ruột, Hirschsprung)"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Đau quanh rốn và bụng dưới bên trái, từng cơn, dịu sau khi đánh hơi hoặc ra ít phân; giữa cơn vẫn chơi. Không đau khu trú hố chậu phải, đi lại, nhảy không đau thêm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đặc điểm đau bụng"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Uống khoảng 3 ly nước mỗi ngày, thích sữa hộp, nước ngọt; ăn ít rau, trái cây, nhiều mì gói, bánh. Ở trường bé cố uống ít nước để khỏi đi vệ sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn uống, nước"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Chưa dùng thuốc nhuận tràng hay kháng sinh. Mẹ cho uống men vi sinh 2 tuần, không khỏi. Bé còn nhỏ thuốc nhỏ mắt dexamethasone thừa từ đợt đau mắt dị ứng đầu mùa, 1–2 giọt mỗi khi mắt ngứa đỏ, khoảng 3 tuần.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng (nhỏ mắt corticoid: nhiễu, không liên quan)"
+    },
+    {
+     "id": "doi_ks",
+     "noi_dung": "Nếu bác sĩ không kê kháng sinh, mẹ nài: 'Bé Phúc uống kháng sinh mới khỏi, sao con em không?'. Mẹ nghe và bớt nài khi bác sĩ ghi nhận nỗi lo, giải thích bằng dấu hiệu khám của chính bé và đưa kế hoạch rõ ràng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đòi kháng sinh"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bé Phúc, bạn cùng bàn của Khôi, hai tuần trước nhập viện vì 'táo bón nặng, nghi tắc ruột', được thụt tháo và tiêm kháng sinh, ba ngày khỏi. Mẹ bé Phúc kể trên nhóm phụ huynh 'tiêm kháng sinh mới khỏi'. Mẹ Khôi sợ con cũng bị tắc ruột nên hôm nay đưa đi ngay.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi vì sao hôm nay mẹ lo, vì sao mẹ nghĩ cần kháng sinh, hoặc xung quanh có ai bị tương tự.",
+     "k": 1,
+     "y": "Lý do thật: bạn bè có bệnh tương tự"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi ngại, da hồng, môi ẩm, mắt không trũng, không vàng da, không phù. Không mất nước.",
+     "k": 0
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 32 kg, chiều cao 138 cm, cân đối; theo sổ khám sức khỏe ở trường, bé tăng cân đều, không sụt cân.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Mặt cân đối, không phù. Tuyến giáp không to. Không hạch cổ.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Kết mạc đỏ nhẹ hai mắt, không ghèn mủ, có dấu dụi mắt; thị lực nhìn chung bình thường.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p, không co lõm lồng ngực, phổi trong, không ran.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng chướng nhẹ, di động theo nhịp thở, không sẹo mổ, nhu động nghe được bình thường. Bụng mềm, sờ thấy khối chắc, ranh giới rõ, ấn lõm ở hố chậu trái và trên xương mu, không đau khu trú, không đề kháng. Điểm McBurney không đau, không phản ứng dội.",
+     "k": 1
+    },
+    "quan_sat_hau_mon": {
+     "a": "Hậu môn đúng vị trí, không lỗ dò, không sẹo. Một nứt kẽ nhỏ ở 6 giờ, khô, không chảy máu. Vài vụn phân cứng dính quanh hậu môn; quần lót có vệt phân lỏng sệt màu nâu.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Đã giải thích, mẹ ở cạnh, ngón tay có bôi trơn: cơ thắt trương lực bình thường, không hẹp; bóng trực tràng giãn, đầy khối phân cứng. Rút ngón chỉ có ít phân cứng, không phun phân lỏng.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Đi, chạy, nhón chân bình thường. Sức cơ, trương lực hai chân bình thường; phản xạ gân gối bình thường; có phản xạ co hậu môn.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống thắt lưng – cùng cân đối, không lõm da, không búi lông. Rãnh liên mông thẳng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 7,4 G/L · Hb 131 g/L · TC 285 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 7.4,
+      "neu_pct": 55.0,
+      "neu": 4.07,
+      "lym_pct": 36.0,
+      "lym": 2.66,
+      "mono_pct": 6.0,
+      "mono": 0.44,
+      "eos_pct": 2.5,
+      "eos": 0.19,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.8,
+      "hgb": 131,
+      "hct": 0.39,
+      "mcv": 82.0,
+      "mch": 27.3,
+      "mchc": 335,
+      "rdw": 12.8,
+      "plt": 285
+     },
+     "n": "Không cần: táo bón chức năng chẩn đoán bằng hỏi bệnh và khám (QĐ 3312/2015 Táo bón mục 4; ESPGHAN/NASPGHAN 2014 khuyến cáo 2, tr. 262); không có nhiễm khuẩn nên bạch cầu bình thường. Làm để trấn an mẹ thì chấp nhận, không trừ điểm."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 2 mg/L",
+     "bang": {
+      "crp": 2
+     },
+     "n": "Không cần: không sốt, bụng mềm, không dấu nhiễm khuẩn; CRP không có vai trò chẩn đoán táo bón chức năng (xét nghiệm hỗ trợ không nằm trong khuyến cáo 1–13, tr. 262–266)."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Nước tiểu: không bạch cầu, không nitrit, không protein, không glucose.",
+     "n": "Không bắt buộc (ESPGHAN/NASPGHAN 2014 khuyến cáo 2: chẩn đoán dựa trên hỏi bệnh và khám); bé không tiểu buốt, không đái dầm, nên làm hay không đều chấp nhận."
+    },
+    "tsh": {
+     "v": "n",
+     "r": "TSH, FT4 trong giới hạn bình thường.",
+     "n": "Không làm thường quy khi không có dấu báo động (ESPGHAN/NASPGHAN 2014 khuyến cáo 13, tr. 266); bé tăng trưởng bình thường, không phù, tuyến giáp không to."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng ở trẻ 10 tuổi, có ứ phân (khối phân hố chậu trái, bóng trực tràng đầy phân cứng), nín nhịn ở trường, són phân do tràn và nứt kẽ hậu môn nhỏ; chưa có dấu báo động",
+     "ok": 1,
+     "n": "Đủ tiêu chuẩn Rome III ở trẻ ≥ 4 tuổi: ≥ 2 trong 6 mục (đi ngoài < 3 lần/tuần, són phân ≥ 1 lần/tuần, nín nhịn, phân đau/cứng, khối phân lớn trong trực tràng), kéo dài 3 tháng (≥ 2 tháng theo QĐ 3312/2015 Táo bón mục 4.1, tr. 332; ESPGHAN/NASPGHAN 2014 Bảng 2, tr. 261). Tiêu chuẩn Rome V cho trẻ: không có trong tài liệu đã tải. Máu trên giấy lau do nứt kẽ, không phải máu trong phân (Bảng 5, tr. 265)."
+    },
+    {
+     "t": "Ung thư đại trực tràng",
+     "n": "Không phù hợp: bé tăng cân, không sụt cân, không máu trộn trong phân, không thiếu máu (Hb 131 g/L nếu làm). Dữ liệu ung thư đại trực tràng đã tải chỉ có người lớn (USPSTF 2021: sàng lọc từ 45 tuổi; Asia-Pacific 2022: từ 50 tuổi); tỉ lệ ở trẻ 10 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tắc ruột",
+     "n": "Không có: không nôn, còn đánh hơi, bụng mềm, nhu động bình thường, không sẹo mổ. Tắc ruột đặc trưng bởi đau bụng, nôn, chướng, bí đại tiện (WSES 2018, phần Definitions và History taking, người lớn); nôn mật, chướng bụng nặng là dấu báo động (ESPGHAN/NASPGHAN 2014 Bảng 5, tr. 265). Khối ở hố chậu trái là khối phân."
+    },
+    {
+     "t": "Bệnh Hirschsprung, suy giáp, celiac, bất thường tủy sống",
+     "n": "Không gợi ý: phân su ngày đầu, nhiều năm đi ngoài đều, có nín nhịn và són phân, trực tràng đầy phân, thần kinh – cột sống bình thường, tăng trưởng bình thường (ESPGHAN/NASPGHAN 2014 Bảng 4–5, tr. 264–265; QĐ 3312/2015 Táo bón mục 4.3, tr. 333). Không cần xét nghiệm tầm soát khi không có dấu báo động (khuyến cáo 13, tr. 266)."
+    },
+    {
+     "t": "Nhiễm khuẩn tiêu hóa hoặc viêm ruột cần kháng sinh",
+     "n": "Không có: không sốt, không nôn, phân lỏng ra quần chỉ là phân tràn, bụng mềm không đau khu trú. Kháng sinh không có trong điều trị táo bón chức năng (QĐ 3312 Táo bón mục 5, tr. 333–334; ESPGHAN 2014 khuyến cáo 31–41, tr. 269–272)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích cho mẹ và bé: đây là táo bón, phân cứng ứ ở cuối ruột làm đau và gây són phân tràn; ghi nhận nỗi lo ung thư, tắc ruột và hỏi vì sao hôm nay mẹ lo (bạn bé Phúc)",
+     "v": "c",
+     "n": "Tư vấn cho cha mẹ và trẻ là bước đầu (QĐ 3312/2015 Táo bón mục 5.2a, tr. 333); khuyến cáo giải thích, 'phá bỏ bí ẩn' (demystification) việc đi vệ sinh (ESPGHAN/NASPGHAN 2014 khuyến cáo 27, tr. 268). Cách nói trấn an cụ thể: thiết kế của ca."
+    },
+    {
+     "t": "Không kê kháng sinh; nói rõ vì sao bằng dấu hiệu của bé (không sốt, bụng mềm, khối phân ở hố chậu trái, bóng trực tràng đầy phân) và đưa kế hoạch thay thế (dọn phân, giữ phân mềm, tập đi vệ sinh, hẹn tái khám)",
+     "v": "c",
+     "n": "Thuốc điều trị táo bón chức năng gồm PEG, thụt, lactulose, nhuận tràng khác; không có kháng sinh (QĐ 3312/2015 Táo bón mục 5.2, tr. 333–334; ESPGHAN/NASPGHAN 2014 khuyến cáo 31–38, tr. 269–270). Bé không có chỉ định nhiễm khuẩn. Tác hại cụ thể của kháng sinh trong táo bón: không có trong tài liệu đã tải. Lời thoại mẫu: trong dap_an."
+    },
+    {
+     "t": "Làm sạch phân ứ bằng PEG uống 1–1,5 g/kg/ngày: bé 32 kg là 32–48 g/ngày, chọn 40 g/ngày chia 2 lần, 3 ngày; chưa hết ứ thì kéo dài tối đa 6 ngày liên tiếp",
+     "v": "c",
+     "n": "QĐ 3312/2015 Táo bón mục 5.2b (tr. 333): PEG 1–1,5 g/kg/ngày × 3 ngày; ESPGHAN/NASPGHAN 2014 khuyến cáo 31 (tr. 269), Bảng 6: 1–1,5 g/kg/ngày, 3–6 ngày, tối đa 6 ngày liên tiếp (hai nguồn cùng khoảng liều). Vài ngày đầu có thể són nhiều hơn (phần 7.1, tr. 269)."
+    },
+    {
+     "t": "Duy trì ngay sau làm sạch bằng PEG 0,4 g/kg/ngày (bé 32 kg: khoảng 13 g/ngày), chỉnh theo đáp ứng trong 0,2–0,8 g/kg/ngày (6,4–25,6 g), hoặc PEG 1 g/kg/ngày (32 g/ngày)",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2014 khuyến cáo 33 (tr. 270), Bảng 6 (tr. 269): khởi đầu 0,4 g/kg/ngày, chỉnh theo đáp ứng, 0,2–0,8 g/kg/ngày; QĐ 3312/2015 Táo bón mục 5.2c (tr. 334): PEG 3350 không điện giải 1 g/kg/ngày. Ghi cả hai (sổ mâu thuẫn, mục NH-1091 số 1); 0,4 g/kg thận trọng hơn vì 1 g/kg vượt cận trên khoảng duy trì của ESPGHAN."
+    },
+    {
+     "t": "Duy trì thuốc ít nhất 2 tháng, uống đều kể cả ngày đã đi được; chỉ giảm dần khi hết mọi triệu chứng ít nhất 1 tháng",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2014 khuyến cáo 37 (tr. 270). Mục tiêu là phân mềm, không đau khi đi, không són, ngừa tái phát (QĐ 3312/2015 Táo bón mục 5.1, tr. 333)."
+    },
+    {
+     "t": "Hướng dẫn tập đi vệ sinh đều đặn (ngồi bồn cầu sau bữa ăn, không nhịn), ghi nhật ký đi ngoài; viết giấy cho cô chủ nhiệm để bé được đi vệ sinh khi cần",
+     "v": "c",
+     "n": "Huấn luyện đi ngoài là một phần điều trị duy trì (QĐ 3312/2015 Táo bón mục 5.2c, tr. 334; ESPGHAN/NASPGHAN 2014 khuyến cáo 27, Hình 2 hộp 'Education, Diary, Toilet training', tr. 261). Mốc giờ ngồi, thời gian ngồi: không có trong tài liệu đã tải. Giấy gửi nhà trường: thiết kế của ca."
+    },
+    {
+     "t": "Ăn uống bình thường theo tuổi: uống đủ nước (không né nước), ăn rau, trái cây, ngũ cốc; vận động bình thường",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2014 khuyến cáo 21–23 (tr. 268): xơ, nước, vận động ở mức bình thường, không ủng hộ bổ sung thêm; QĐ 3312/2015 Táo bón mục 5.2c (tr. 334): tăng dịch, carbohydrate, chất xơ. Ghi cả hai (sổ mâu thuẫn, mục NH-1091 số 2)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần cùng nhật ký đi ngoài; dặn quay lại ngay nếu nôn (nhất là dịch xanh vàng), bụng chướng to dần, sốt, đau dữ dội, máu lẫn trong phân",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2014 Hình 2 hộp 10 (tr. 261): đánh giá sau 2 tuần, có hiệu quả thì duy trì; dấu hiệu cần đánh giá lại: Bảng 5 (tr. 265). Lịch gọi điện giữa hai lần khám: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thụt hậu môn để làm sạch phân ứ thay PEG (natri phosphat 2,5 mL/kg, tối đa 133 mL/lần)",
+     "v": "a",
+     "n": "ESPGHAN/NASPGHAN 2014 khuyến cáo 32 (tr. 269) và Bảng 6: thụt mỗi ngày 3–6 ngày khi không có PEG; QĐ 3312/2015 Táo bón mục 5.2b: phosphate soda cho trẻ > 2 tuổi. PEG uống là lựa chọn đầu tay (khuyến cáo 31) và bé ngại can thiệp hậu môn, nên chấm chấp nhận."
+    },
+    {
+     "t": "Cho tiếp men vi sinh",
+     "v": "a",
+     "n": "ESPGHAN/NASPGHAN 2014 khuyến cáo 24–25 (tr. 268): không khuyến cáo thường quy prebiotic, probiotic; tài liệu không nói có hại."
+    },
+    {
+     "t": "Nhắc mẹ không tự dùng thuốc nhỏ mắt corticoid kéo dài, đưa bé đi khám mắt nếu còn đỏ ngứa",
+     "v": "a",
+     "n": "Thuốc nhỏ mắt không gây táo bón và không phải việc chính của lượt này. Thời hạn, nguy cơ của corticoid nhỏ mắt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh (uống hoặc tiêm) theo yêu cầu của mẹ",
+     "v": "w",
+     "n": "Không có chỉ định: không sốt, không dấu nhiễm khuẩn; kháng sinh không nằm trong điều trị táo bón (QĐ 3312/2015 Táo bón mục 5.2; ESPGHAN/NASPGHAN 2014 khuyến cáo 31–41). Tác hại cụ thể (kháng thuốc, rối loạn tiêu hóa): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến ngay để chụp thụt barium, đo áp lực hậu môn trực tràng, sinh thiết trực tràng",
+     "v": "w",
+     "n": "Chưa có chỉ định: không dấu báo động, chưa điều trị tối ưu ≥ 3 tháng (ESPGHAN/NASPGHAN 2014 tr. 262, Bảng 5; khuyến cáo 14–16, tr. 266). Phòng khám cũng không có X-quang, siêu âm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng ở trẻ 10 tuổi (đủ tiêu chuẩn Rome III), có ứ phân và nín nhịn do ngại nhà vệ sinh ở trường",
+     "Són phân do tràn (overflow) quanh khối phân ứ, không phải tiêu chảy",
+     "Nứt kẽ hậu môn nhỏ (máu tươi trên giấy lau)",
+     "Không có dấu báo động: không sốt, nôn, chướng nặng, sụt cân, máu trong phân; thần kinh – cột sống bình thường",
+     "Yếu tố góp phần: uống ít nước sau thay đổi thời tiết, ăn ít xơ, nhịn đi vệ sinh; nhiễu: thuốc nhỏ mắt corticoid (không liên quan)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: đi ngoài 2 lần/tuần, phân to cứng, đau, són phân 3–4 lần/tuần, nín nhịn, khối phân trong trực tràng: đủ ≥ 2 mục Rome III trong 3 tháng (QĐ 3312/2015 Táo bón mục 4.1, tr. 332; ESPGHAN/NASPGHAN 2014 Bảng 2, tr. 261). Với bệnh sử và khám đủ, không cần xét nghiệm, X-quang hay siêu âm để chẩn đoán (ESPGHAN/NASPGHAN 2014 khuyến cáo 2, 6, 10, 13, tr. 262, 265–266; QĐ 3312 mục 4).",
+     "Khám: khối phân hố chậu trái và trên xương mu, nứt kẽ hậu môn 6 giờ, vụn phân quanh hậu môn, thần kinh chi dưới và cột sống bình thường, tăng cân đều (ESPGHAN/NASPGHAN 2014 Bảng 4–5, tr. 264–265). Ứ phân (fecal impaction) được định nghĩa bằng khối phân chắc ở bụng dưới hoặc trực tràng giãn đầy phân (tr. 262).",
+     "Vì sao không phải tắc ruột hay ung thư: không nôn, còn đánh hơi, bụng mềm, không sẹo mổ, không sụt cân, không máu trộn trong phân (Bảng 5, tr. 265; WSES 2018, phần Definitions: tắc ruột có đau bụng, nôn, chướng, bí đại tiện). Số liệu ung thư đại trực tràng ở trẻ nhỏ: không có trong tài liệu đã tải.",
+     "Lý do thật: nỗi sợ tắc ruột như bé Phúc. Khi mẹ nói được điều đó, câu trả lời dùng chính dấu hiệu khám của Khôi: bụng mềm, còn đánh hơi, không sốt. Bé Phúc bị gì và vì sao được tiêm kháng sinh: không có trong tài liệu đã tải, không so sánh được.",
+     "Phân lỏng ra quần: phân lỏng ở trên khối phân ứ tràn qua, mẹ dễ nhầm với tiêu chảy; không dùng thuốc cầm tiêu chảy trong bối cảnh này (QĐ 3312 mục 3.1.1 mô tả són phân đôi khi bị mẹ nhầm với tiêu chảy, tr. 330)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hai bước: làm sạch ứ phân rồi duy trì. PEG uống là lựa chọn đầu tay, thụt khi không có PEG (ESPGHAN/NASPGHAN 2014 khuyến cáo 31–32, tr. 269; QĐ 3312/2015 mục 5.2b). Liều làm sạch hai nguồn cùng khoảng 1–1,5 g/kg/ngày (32–48 g/ngày), QĐ ghi 3 ngày, ESPGHAN 3–6 ngày, tối đa 6 ngày liên tiếp.",
+     "Liều duy trì khác nhau: ESPGHAN khởi đầu 0,4 g/kg/ngày chỉnh trong 0,2–0,8 g/kg (khuyến cáo 33, Bảng 6) và QĐ 3312 mục 5.2c ghi 1 g/kg/ngày: ghi cả hai, 0,4 g/kg thận trọng hơn. Lactulose chỉ khi không có PEG (khuyến cáo 35, tr. 270).",
+     "Không dùng kháng sinh: không có chỉ định. Cách nói với mẹ (thiết kế của ca): 'Chị lo vậy là đúng, vì bé Phúc đã phải vào viện. Hôm nay em khám Khôi thấy bụng mềm, con không sốt, không nôn, còn đánh hơi; có một khối phân cứng ở bụng dưới bên trái. Kháng sinh diệt vi khuẩn, nó không làm khối phân đó mềm ra. Thuốc làm phân mềm, dọn khối phân ra mới giúp con hết đau, hết són. Mình thử kế hoạch này, hai tuần nữa chị đem con quay lại, nếu con sốt, nôn hay bụng to dần thì báo ngay.'",
+     "Duy trì ít nhất 2 tháng, ngưng khi hết triệu chứng ≥ 1 tháng và giảm dần (ESPGHAN/NASPGHAN 2014 khuyến cáo 37, tr. 270); khoảng 50% trẻ tái phát ít nhất 1 lần trong 5 năm sau khi khỏi nên cần theo dõi sát (phần 9.1, tr. 271). Tuổi 10 đã tự khai được, nên giải thích cho chính bé (khuyến cáo 27).",
+     "Nhiễu thuốc nhỏ mắt corticoid: không liên quan táo bón; thời hạn dùng và nguy cơ: không có trong tài liệu đã tải, nên chỉ nhắc đi khám mắt."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "PEG (macrogol) không điện giải, dạng gói bột (làm sạch phân ứ)",
+      "ham_luong": "Hàm lượng mỗi gói theo chế phẩm sẵn có (không có trong tài liệu đã tải); tính liều theo gam",
+      "lieu": "40 g/ngày (≈ 1,25 g/kg × 32 kg; khoảng đúng 32–48 g/ngày), chia 2 lần sáng và chiều",
+      "duong": "Uống, pha với nước theo hướng dẫn trên gói",
+      "thoi_diem": "Ngày 1 đến ngày 3, bắt đầu từ tối nay; cách chia lần: không có trong tài liệu đã tải, chọn 2 lần cho dễ uống",
+      "so_ngay": "3 ngày; còn ứ phân thì kéo dài tối đa 6 ngày liên tiếp rồi chuyển sang liều duy trì",
+      "ghi_chu": "QĐ 3312/2015 Táo bón mục 5.2b (tr. 333): 1–1,5 g/kg/ngày × 3 ngày; ESPGHAN/NASPGHAN 2014 khuyến cáo 31 (tr. 269), Bảng 6: tối đa 6 ngày liên tiếp. Vài ngày đầu có thể són nhiều hơn (phần 7.1). Tuổi tối thiểu dùng PEG: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "PEG (macrogol) không điện giải (duy trì)",
+      "ham_luong": "Như trên",
+      "lieu": "Cách 1: khởi đầu 0,4 g/kg/ngày ≈ 13 g/ngày, chỉnh trong 6,4–25,6 g/ngày (0,2–0,8 g/kg) theo đáp ứng. Cách 2: 1 g/kg/ngày = 32 g/ngày. Cách 1 thận trọng hơn",
+      "duong": "Uống, pha với nước hoặc nước ép",
+      "thoi_diem": "1 lần mỗi sáng, bắt đầu ngay sau khi làm sạch; uống đều cả ngày bé đi ngoài tốt",
+      "so_ngay": "Ít nhất 2 tháng; chỉ giảm dần khi hết mọi triệu chứng ≥ 1 tháng; đánh giá lại sau 2 tuần để chỉnh liều",
+      "ghi_chu": "Cách 1: ESPGHAN/NASPGHAN 2014 khuyến cáo 33, 37 (tr. 270), Bảng 6; cách 2: QĐ 3312/2015 Táo bón mục 5.2c (tr. 334). Ghi cả hai theo sổ mâu thuẫn (mục NH-1091 số 1)."
+     }
+    ],
+    "dan_do": [
+     "Khôi bị táo bón: phân cứng ứ lại ở cuối ruột làm đau và làm phân lỏng tràn ra quần. Qua hỏi bệnh và khám, bụng mềm, không sốt, không nôn, chưa có dấu hiệu tắc ruột hay bệnh nặng (ESPGHAN/NASPGHAN 2014 Bảng 5, tr. 265). Con không cần kháng sinh, vì kháng sinh không làm phân mềm.",
+     "Ba ngày đầu uống PEG 40 g mỗi ngày, chia sáng và chiều, để dọn khối phân; con có thể đi ngoài lỏng và són nhiều hơn vài ngày đầu, đó là thuốc đang làm việc (ESPGHAN/NASPGHAN 2014 khuyến cáo 31, phần 7.1). Sau đó uống PEG 13 g mỗi sáng, ngày nào cũng uống kể cả khi con đã đi được.",
+     "Không tự bỏ thuốc khi con vừa đi ngoài tốt: uống ít nhất 2 tháng, chỉ giảm khi hết triệu chứng ≥ 1 tháng (ESPGHAN/NASPGHAN 2014 khuyến cáo 37). Tác dụng của thuốc là giữ phân mềm để con hết sợ đau. Chuyện 'lờn thuốc, nghiện thuốc': không có trong tài liệu đã tải.",
+     "Cho con uống đủ nước, mang chai nước đi học, ăn rau và trái cây, ra sân chơi; sau bữa ăn cho con ngồi bồn cầu, khen, không mắng khi con són (QĐ 3312/2015 Táo bón mục 5.2c, ESPGHAN/NASPGHAN 2014 khuyến cáo 21–23, 27). Em viết giấy cho cô chủ nhiệm để con được đi vệ sinh khi cần. Ghi nhật ký đi ngoài từng ngày.",
+     "Hai tuần nữa đem con và nhật ký quay lại (Hình 2 hộp 10). Đưa đến ngay nếu con nôn (nhất là dịch xanh vàng), bụng to dần, sốt, đau dữ dội liên tục hoặc có máu lẫn trong phân (Bảng 5, tr. 265). Tắt điện thoại, game khi ngồi bồn cầu."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Ba tuần sau, mẹ đưa Khôi tái khám: bé vẫn đau bụng, chưa đi ngoài mềm, còn són phân. Mẹ nói đã cho uống thuốc nhưng không đỡ, xin kháng sinh. Cân nặng 32,4 kg. Sinh hiệu: nhiệt 36,7 °C, mạch 82 l/p, nhịp thở 20 l/p, SpO₂ 99%. Bé tỉnh, ngại.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Gửi Khôi lên nhi tiêu hóa sau 3 tuần là sớm: bé chưa được làm sạch phân ứ đúng cách, uống thuốc ngắt quãng với liều thấp, nên chưa phải táo bón khó chữa (không đáp ứng điều trị tối ưu ≥ 3 tháng, ESPGHAN/NASPGHAN 2014 tr. 262; Hình 2 hộp 11, tr. 261: rà tuân thủ, liều, ứ phân trước). Lên tuyến trên mẹ tốn ngày công, bé bị đặt nhiều thăm dò không cần, còn lỗi thật ở nhà vẫn chưa sửa nên bé vẫn đau, còn mẹ nghĩ 'bác sĩ ở đây không chữa được'.",
+    "nhap_vien": "Nhập viện để thụt tháo trong khi bé tỉnh, ăn uống được, không sốt, không nôn là không cần: PEG uống tại nhà tốt như thụt (ESPGHAN/NASPGHAN 2014 khuyến cáo 31–32, tr. 269). Bé nghỉ học, bị tách mẹ, đúng nỗi sợ 'phải vào viện như bé Phúc'; sau khi ra viện, nhà vệ sinh ở trường, thói quen nhịn và việc uống thuốc đều vẫn chưa ai sửa nên ứ phân tái diễn."
+   },
+   "loi_mo": "Bác sĩ ơi, em cho cháu uống thuốc ba tuần rồi mà cháu không đỡ chút nào, vẫn đau, vẫn dính quần. Thuốc nhuận tràng không ăn thua, chắc là có vi trùng. Bé Phúc uống kháng sinh mới khỏi, bác sĩ cho con em kháng sinh đi.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "Không đo",
+    "nhiet": "36,7",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ba tuần nay đã cho uống thuốc nhưng bé không đỡ: vẫn đau bụng, đi ngoài 2 lần/tuần, phân cứng, còn són phân. Mẹ cho rằng thuốc nhuận tràng 'không ăn thua', chắc là có vi trùng và xin kháng sinh như bé Phúc.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám lại: không đỡ, mẹ đòi kháng sinh"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Ngày đầu mẹ pha 40 g PEG cho bé; bé đi ngoài lỏng 5–6 lần và són nhiều, mẹ sợ 'tiêu chảy, yếu ruột' nên ngưng sang ngày thứ hai (chỉ làm sạch khoảng 1 ngày). Sau đó cho 1 gói (10 g) khoảng 3–4 ngày/tuần, lúc nhớ, thường chỉ khi bé chưa đi được; ngày bé đi được thì không cho. Không ghi nhật ký.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ và liều (nguyên nhân không đỡ)"
+    },
+    {
+     "id": "truong",
+     "noi_dung": "Ở trường bé vẫn nhịn cả buổi, uống ít nước để khỏi đi vệ sinh; cô chủ nhiệm chưa biết. Ở nhà bé ngồi bồn cầu không đều, vẫn cần mẹ đứng cạnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nín nhịn ở trường chưa giải quyết"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Vẫn đi ngoài khoảng 2 lần/tuần, phân to cứng, đau; són phân 3–4 lần/tuần; đau bụng từng cơn 3–4 lần/tuần. Không sốt, không nôn, không máu trộn trong phân, ăn được. Vẫn uống ít nước, ít ra sân chơi vì rét; mắt vẫn hay đỏ ngứa, còn nhỏ dexamethasone.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng hiện tại, không dấu báo động"
+    },
+    {
+     "id": "doi_ks",
+     "noi_dung": "Mẹ nài: 'Bác sĩ cho con kháng sinh đi, bé Phúc kháng sinh mới khỏi, con em uống thuốc ba tuần rồi mà không đỡ'. Mẹ dịu xuống khi bác sĩ không nói lỗi của mẹ, chỉ ra từng điểm làm thuốc chưa đủ, và đưa kế hoạch cụ thể.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đòi kháng sinh, lần hai"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bé Phúc ra viện rồi đau lại, mẹ bé Phúc than 'uống thuốc nhuận tràng mãi không dứt, phải tiêm kháng sinh lại'. Mẹ Khôi càng sợ thuốc không hiệu quả.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi mẹ lo điều gì nhất hôm nay, hoặc hỏi thăm chuyện bé Phúc.",
+     "k": 0,
+     "y": "Nỗi lo từ chuyện bé Phúc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, ngại, hơi buồn. Da hồng, môi ẩm, không phù. Không mất nước.",
+     "k": 0
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 32,4 kg (tăng 0,4 kg sau 3 tuần), cân đối.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Kết mạc đỏ nhẹ hai mắt, không ghèn mủ.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng chướng nhẹ, nhu động bình thường. Bụng mềm, khối phân chắc lớn hơn lần trước, từ hố chậu trái lên gần rốn và trên xương mu, ấn không đau khu trú, không đề kháng; McBurney không đau.",
+     "k": 1
+    },
+    "quan_sat_hau_mon": {
+     "a": "Hậu môn đúng vị trí, không lỗ dò; nứt kẽ 6 giờ đã lành; quần lót có vệt phân lỏng sệt màu nâu sẫm, vụn phân cứng quanh hậu môn.",
+     "k": 1
+    },
+    "truc_trang": {
+     "a": "Đã giải thích, mẹ ở cạnh: cơ thắt gồng nhẹ khi bé nín, thả lỏng được khi dỗ, không hẹp. Bóng trực tràng giãn lớn, đầy khối phân cứng; rút ngón ra có ít phân cứng, không phun phân lỏng, không có máu.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Dáng đi, sức cơ, trương lực hai chân, phản xạ gân gối bình thường; có phản xạ co hậu môn.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống thắt lưng – cùng cân đối, không lõm da, không búi lông, rãnh liên mông thẳng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 7,1 G/L · Hb 130 g/L · TC 270 G/L",
+     "n": "Không cần: không sốt, không dấu báo động; xét nghiệm máu không thay đổi hướng xử trí (ESPGHAN/NASPGHAN 2014 khuyến cáo 13, tr. 266)."
+    },
+    "tsh": {
+     "v": "n",
+     "r": "TSH, FT4 trong giới hạn bình thường.",
+     "n": "Chưa cần: mới 3 tuần, không dấu báo động nên không làm xét nghiệm tầm soát thường quy (ESPGHAN/NASPGHAN 2014 khuyến cáo 13, tr. 266)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 2 mg/L",
+     "bang": {
+      "crp": 2
+     },
+     "n": "Không cần: không sốt, bụng mềm; mẹ xin kháng sinh nên làm CRP chỉ để 'chứng minh' là không giúp thay đổi quyết định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Táo bón chức năng ở trẻ 10 tuổi, ứ phân tái diễn do điều trị chưa đủ: làm sạch phân ứ chưa tới nơi, duy trì liều thấp và ngắt quãng, vẫn nín nhịn ở trường; chưa phải táo bón khó chữa",
+     "ok": 1,
+     "n": "Vẫn đủ tiêu chuẩn Rome III (QĐ 3312/2015 mục 4.1, tr. 332; ESPGHAN/NASPGHAN 2014 Bảng 2, tr. 261). Không đáp ứng sau điều trị chưa được thực hiện đúng không phải là thất bại: cần rà tuân thủ, liều, ứ phân chưa điều trị, cân nhắc hỗ trợ tâm lý khi không đáp ứng (Hình 2 hộp 11, tr. 261). Táo bón khó chữa chỉ khi không đáp ứng điều trị tối ưu ≥ 3 tháng (tr. 262)."
+    },
+    {
+     "t": "Táo bón khó chữa (intractable) hoặc nguyên nhân thực thể (Hirschsprung, suy giáp, celiac, tủy sống)",
+     "n": "Chưa đặt ra: mới 3 tuần, tuân thủ kém, liều thấp; không dấu báo động, thần kinh – cột sống bình thường, rút ngón không phun phân (ESPGHAN/NASPGHAN 2014 tr. 262; Bảng 5, tr. 265; QĐ 3312/2015 mục 4.3, tr. 333). Đo áp lực, sinh thiết chỉ khi thất bại với điều trị tối ưu (khuyến cáo 14–15, tr. 266)."
+    },
+    {
+     "t": "Ung thư đại trực tràng, tắc ruột",
+     "n": "Không: không sốt, nôn, sụt cân, máu trộn trong phân; bụng mềm, còn đánh hơi, tăng 0,4 kg (ESPGHAN/NASPGHAN 2014 Bảng 5, tr. 265). Dữ liệu ung thư đại trực tràng ở trẻ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm khuẩn cần kháng sinh",
+     "n": "Không có: không sốt, bụng mềm, không đau khu trú; vệt phân lỏng là phân tràn. Kháng sinh không có trong điều trị táo bón chức năng (QĐ 3312 Táo bón mục 5, tr. 333–334; ESPGHAN 2014 khuyến cáo 31–41)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Rà vì sao 'không đỡ' trước khi coi là thất bại: hỏi cách cho thuốc (số gói, số ngày, ngưng sớm), nhật ký, nín nhịn ở trường, uống nước; khám xem có ứ phân chưa được dọn",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2014 Hình 2 hộp 11 (tr. 261): đánh giá lại tuân thủ, liều, thuốc khác, ứ phân chưa điều trị, xét hỗ trợ sức khỏe tâm thần. Khám bụng, hậu môn, thăm trực tràng để xác nhận ứ phân (Bảng 4, tr. 264)."
+    },
+    {
+     "t": "Không kê kháng sinh; ghi nhận thuốc chưa đủ liều chứ không đổ lỗi; nói rõ 3 điểm làm thuốc chưa có tác dụng và kế hoạch sửa",
+     "v": "c",
+     "n": "Táo bón chức năng không có chỉ định kháng sinh (QĐ 3312/2015 Táo bón mục 5.2, tr. 333–334; ESPGHAN/NASPGHAN 2014 khuyến cáo 31–41, tr. 269–272). Tác hại cụ thể: không có trong tài liệu đã tải. Lời thoại mẫu: trong dap_an."
+    },
+    {
+     "t": "Làm sạch lại phân ứ bằng PEG uống 1–1,5 g/kg/ngày: bé 32,4 kg là 32–49 g/ngày, chọn 40 g/ngày chia 2 lần, 3 ngày (tối đa 6 ngày liên tiếp); báo trước là vài ngày đầu bé đi ngoài lỏng, són nhiều",
+     "v": "c",
+     "n": "QĐ 3312/2015 Táo bón mục 5.2b (tr. 333): 1–1,5 g/kg/ngày × 3 ngày; ESPGHAN/NASPGHAN 2014 khuyến cáo 31 (tr. 269), Bảng 6: tối đa 6 ngày liên tiếp. Phần 7.1: PEG liều cao làm tăng són phân trong lúc dọn phân (tr. 269)."
+    },
+    {
+     "t": "Duy trì ngay sau làm sạch bằng PEG 0,4 g/kg/ngày (khoảng 13 g/ngày), chỉnh theo đáp ứng trong 0,2–0,8 g/kg/ngày, hoặc PEG 1 g/kg/ngày (32 g/ngày); uống mỗi sáng, kể cả ngày đã đi được; không ngưng đột ngột",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2014 khuyến cáo 33, 37 (tr. 270), Bảng 6; QĐ 3312/2015 Táo bón mục 5.2c (tr. 334). Ghi cả hai (sổ mâu thuẫn, mục NH-1091 số 1); 0,4 g/kg thận trọng hơn. Duy trì ít nhất 2 tháng, giảm dần khi hết triệu chứng ≥ 1 tháng."
+    },
+    {
+     "t": "Gỡ nút thắt ở trường: giấy gửi cô chủ nhiệm cho bé được đi vệ sinh khi cần, mang chai nước, tập ngồi bồn cầu sau bữa ăn tại nhà; mẹ khen thay vì mắng khi bé són",
+     "v": "c",
+     "n": "Giải thích và hướng dẫn tập đi vệ sinh (ESPGHAN/NASPGHAN 2014 khuyến cáo 27, tr. 268; QĐ 3312/2015 Táo bón mục 5.2c). Giấy gửi nhà trường và nội dung khen thưởng cụ thể: thiết kế của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ghi nhật ký đi ngoài và thuốc từng ngày; hẹn tái khám sau 2 tuần; chưa đáp ứng sau khi tuân thủ đủ thì xem lại liều, nghĩ ứ phân, xét hỗ trợ tâm lý; sau ≥ 3 tháng điều trị tối ưu mới chuyển nhi tiêu hóa",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2014 Hình 2 hộp 10–12 (tr. 261); định nghĩa táo bón khó chữa ≥ 3 tháng điều trị tối ưu (tr. 262)."
+    },
+    {
+     "t": "Dặn quay lại ngay nếu nôn (nhất là dịch xanh vàng), bụng chướng to dần, sốt, đau dữ dội liên tục, máu lẫn trong phân",
+     "v": "c",
+     "n": "ESPGHAN/NASPGHAN 2014 Bảng 5 (tr. 265). Ngưỡng thời gian quay lại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh theo yêu cầu của mẹ",
+     "v": "w",
+     "n": "Không có chỉ định (QĐ 3312/2015 Táo bón mục 5.2; ESPGHAN/NASPGHAN 2014 khuyến cáo 31–41). Tác hại cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển nhi tiêu hóa, nhập viện ngay hoặc làm đo áp lực, sinh thiết, chụp thụt barium",
+     "v": "w",
+     "n": "Chưa đủ 3 tháng điều trị tối ưu; mới điều trị sai cách 3 tuần (ESPGHAN/NASPGHAN 2014 tr. 262; Hình 2 hộp 11–12, tr. 261; khuyến cáo 14–16, tr. 266)."
+    },
+    {
+     "t": "Cho về giữ nguyên toa cũ, hẹn lại sau 1 tháng",
+     "v": "w",
+     "n": "Toa cũ chưa được thực hiện đúng, không đổi cách thì tiếp tục thất bại (ESPGHAN/NASPGHAN 2014 Hình 2 hộp 10–11, tr. 261: đánh giá sau 2 tuần)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Táo bón chức năng ở trẻ 10 tuổi, ứ phân tái diễn (khối phân tới gần rốn, bóng trực tràng đầy phân cứng)",
+     "Không đáp ứng sau 3 tuần do điều trị chưa đúng: làm sạch chỉ 1 ngày, duy trì 10 g ngắt quãng 3–4 ngày/tuần, ngưng khi bé đi được, không nhật ký",
+     "Nín nhịn ở trường chưa giải quyết; uống ít nước, ít vận động do trời lạnh",
+     "Chưa phải táo bón khó chữa (cần ≥ 3 tháng điều trị tối ưu); không dấu báo động, thần kinh – cột sống bình thường",
+     "Nhiễu: đòi kháng sinh, thuốc nhỏ mắt corticoid (không liên quan)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi chi tiết cách cho thuốc mới lộ nguyên nhân: PEG ngày đầu rồi ngưng, duy trì 10 g, 3–4 ngày/tuần, chỉ khi bé chưa đi; bé 32,4 kg cần 0,4 g/kg ≈ 13 g mỗi ngày đều đặn (ESPGHAN/NASPGHAN 2014 khuyến cáo 33, tr. 270). Mẹ nói 'đã uống thuốc ba tuần' nhưng liều thực tế thấp và gián đoạn.",
+     "Khám: khối phân to hơn lần trước, trực tràng đầy phân cứng, nứt kẽ đã lành, không phun phân khi rút ngón, thần kinh – cột sống bình thường: ứ phân chưa được dọn là nguyên nhân chính (ESPGHAN/NASPGHAN 2014 Hình 2 hộp 11, tr. 261; Bảng 4–5).",
+     "Vì sao chưa chuyển tuyến: táo bón khó chữa là không đáp ứng điều trị tối ưu ≥ 3 tháng (ESPGHAN/NASPGHAN 2014 tr. 262); thử làm đúng 2 tuần rồi đánh giá lại (Hình 2 hộp 10, tr. 261). Hirschsprung, suy giáp, celiac không gợi ý (Bảng 5; khuyến cáo 13, 14–15, tr. 266)."
+    ],
+    "phan_tich_xu_tri": [
+     "Dọn lại phân ứ trước khi duy trì: PEG 1–1,5 g/kg/ngày × 3 ngày (tối đa 6) (QĐ 3312/2015 mục 5.2b; ESPGHAN/NASPGHAN 2014 khuyến cáo 31). Cho cả hai cách duy trì: 0,4 g/kg/ngày chỉnh 0,2–0,8 g/kg hoặc 1 g/kg/ngày; 0,4 g/kg thận trọng hơn (mục NH-1091 số 1).",
+     "Nói với mẹ (thiết kế của ca): 'Chị đã cho con uống thuốc rất sốt sắng. Em xem lại thì thuốc chưa đủ để dọn hết khối phân đó, nên kháng sinh cũng không giúp được. Mình làm lại ba ngày dọn phân, sau đó uống đều mỗi sáng, và nhờ cô giáo cho con đi vệ sinh. Hai tuần nữa mình xem nhật ký. Con không đỡ thật sự thì lúc đó em giới thiệu lên bác sĩ chuyên khoa.'",
+     "Duy trì ít nhất 2 tháng, ngưng khi hết triệu chứng ≥ 1 tháng, giảm dần (khuyến cáo 37). Chưa đáp ứng sau điều chỉnh: xem lại tuân thủ, liều, thuốc, ứ phân, hỗ trợ tâm lý, đến khi đủ 3 tháng điều trị tối ưu mới chuyển nhi tiêu hóa (ESPGHAN/NASPGHAN 2014 Hình 2 hộp 11–12, tr. 261)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "PEG (macrogol) không điện giải, dạng gói bột (làm sạch lại phân ứ)",
+      "ham_luong": "Hàm lượng mỗi gói theo chế phẩm mẹ mang theo (gói 10 g theo lời mẹ); tính liều theo gam",
+      "lieu": "40 g/ngày (≈ 1,2 g/kg × 32,4 kg; khoảng đúng 32–49 g/ngày), chia 2 lần sáng và chiều: 2 gói buổi sáng, 2 gói buổi chiều",
+      "duong": "Uống, pha với nước",
+      "thoi_diem": "Ngày 1 đến ngày 3, bắt đầu từ tối nay",
+      "so_ngay": "3 ngày; còn ứ phân thì kéo dài tối đa 6 ngày liên tiếp rồi chuyển sang liều duy trì",
+      "ghi_chu": "QĐ 3312/2015 Táo bón mục 5.2b (tr. 333); ESPGHAN/NASPGHAN 2014 khuyến cáo 31 (tr. 269), Bảng 6; phần 7.1: có thể són nhiều trong vài ngày đầu."
+     },
+     {
+      "thuoc": "PEG (macrogol) không điện giải (duy trì)",
+      "ham_luong": "Như trên",
+      "lieu": "Cách 1: khởi đầu 0,4 g/kg/ngày ≈ 13 g/ngày (khoảng 1 gói rưỡi), chỉnh trong 6,5–26 g/ngày theo đáp ứng. Cách 2: 1 g/kg/ngày ≈ 32 g/ngày. Cách 1 thận trọng hơn",
+      "duong": "Uống, pha với nước hoặc nước ép",
+      "thoi_diem": "1 lần mỗi sáng, uống mọi ngày kể cả ngày đã đi ngoài",
+      "so_ngay": "Ít nhất 2 tháng, giảm dần khi hết triệu chứng ≥ 1 tháng; đánh giá sau 2 tuần để chỉnh liều",
+      "ghi_chu": "Cách 1: ESPGHAN/NASPGHAN 2014 khuyến cáo 33, 37 (tr. 270), Bảng 6; cách 2: QĐ 3312/2015 Táo bón mục 5.2c (tr. 334). Ghi cả hai theo sổ mâu thuẫn (mục NH-1091 số 1)."
+     }
+    ],
+    "dan_do": [
+     "Thuốc không hết tác dụng, chỉ là chưa đủ liều và chưa đều nên phân ứ vẫn còn trong ruột. Con không cần kháng sinh vì không có nhiễm khuẩn (không sốt, bụng mềm); kháng sinh không làm phân mềm.",
+     "Ba ngày tới uống 4 gói PEG mỗi ngày (2 gói sáng, 2 gói chiều) để dọn khối phân; con sẽ đi ngoài lỏng, són nhiều hơn vài ngày, không phải tiêu chảy bệnh, chị đừng ngưng thuốc (ESPGHAN/NASPGHAN 2014 khuyến cáo 31, phần 7.1). Sau đó uống 1 gói rưỡi mỗi sáng, mỗi ngày.",
+     "Ghi nhật ký: ngày nào uống mấy gói, con đi ngoài mấy lần, phân cứng hay mềm, có són không. Mang đến khi tái khám sau hai tuần (ESPGHAN/NASPGHAN 2014 Hình 2 hộp 10, tr. 261). Tiếp tục thuốc ít nhất 2 tháng; chỉ giảm khi con hết triệu chứng ≥ 1 tháng (khuyến cáo 37).",
+     "Em viết giấy cho cô chủ nhiệm cho con đi vệ sinh khi buồn đi, mang chai nước vào lớp; cho con ngồi bồn cầu sau bữa ăn tối ở nhà. Khen con mỗi lần ngồi, không mắng khi con són. Mắt ngứa đỏ nên đi khám mắt, đừng tự nhỏ thuốc có corticoid kéo dài.",
+     "Đưa con đến ngay nếu nôn (nhất là dịch xanh vàng), bụng to dần, sốt, đau dữ dội liên tục hoặc có máu lẫn trong phân (ESPGHAN/NASPGHAN 2014 Bảng 5, tr. 265)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai tuần sau mẹ báo qua điện thoại và mang nhật ký: ba ngày dọn phân bé đi ngoài lỏng nhiều, mẹ không ngưng thuốc; sau đó đi ngoài gần như mỗi ngày, phân mềm, hết són, hết đau bụng. Cô chủ nhiệm cho bé đi vệ sinh khi cần, bé hết ngại. Mẹ không đòi kháng sinh nữa và nhắn bé Phúc 'cũng được bác sĩ dặn uống thuốc đều'. Bé duy trì PEG mỗi sáng, hết triệu chứng ≥ 1 tháng thì giảm liều dần theo hẹn. Diễn biến sau lượt 2 là dựng theo mục tiêu điều trị (không phải số liệu trong nguồn).",
+ "nhieu": [
+  "Đòi kháng sinh: mẹ xin kháng sinh cả hai lượt vì bé Phúc 'tiêm kháng sinh mới khỏi'. Lời thoại ghi trong dap_an (lượt 1, mục phân tích xử trí); kháng sinh không có chỉ định (QĐ 3312 Táo bón mục 5; ESPGHAN 2014 khuyến cáo 31–41).",
+  "Thuốc nhỏ mắt corticoid: không liên quan đến táo bón; chỉ là thuốc đang dùng cần hỏi; thời hạn dùng và nguy cơ của corticoid nhỏ mắt: không có trong tài liệu đã tải.",
+  "Chỉ có xét nghiệm cơ bản: không ảnh hưởng ca này vì táo bón chức năng chẩn đoán bằng hỏi bệnh và khám, không cần X-quang, siêu âm, xét nghiệm tầm soát khi không có dấu báo động (ESPGHAN 2014 khuyến cáo 2, 6, 10, 13).",
+  "Nỗi sợ tắc ruột và ung thư từ chuyện bé Phúc (lý do thật): cần hỏi vì sao hôm nay mẹ lo, rồi trả lời bằng dấu hiệu khám của chính bé.",
+  "Lượt 2 'không đỡ': nguyên nhân là điều trị chưa đúng (làm sạch 1 ngày, duy trì liều thấp ngắt quãng, vẫn nín nhịn ở trường), không phải thất bại thuốc hay bệnh thực thể."
+ ],
+ "bai_hoc_bien": [
+  "Đòi kháng sinh: ghi nhận nỗi lo, hỏi lý do thật (bé Phúc), giải thích bằng dấu hiệu khám của chính bé, rồi đưa kế hoạch cụ thể thay cho thuốc mẹ xin; giữ được lòng tin mà không kê đơn không chỉ định.",
+  "Không đỡ chưa phải là thất bại: rà cách cho thuốc, liều, nhật ký, ứ phân chưa dọn, nín nhịn ở trường trước khi nghĩ đến chuyển tuyến (ESPGHAN 2014 Hình 2 hộp 11; táo bón khó chữa là ≥ 3 tháng điều trị tối ưu, tr. 262).",
+  "Phân lỏng ra quần ở trẻ táo bón là phân tràn quanh khối ứ, không phải tiêu chảy; nhiều mẹ ngưng thuốc vì sợ 'tiêu chảy' khi dọn phân, cần báo trước.",
+  "Thay đổi thời tiết dẫn đến trẻ uống ít nước, ít vận động, ngại nhà vệ sinh lạnh; nhà vệ sinh ở trường là yếu tố bị bỏ sót ở học sinh.",
+  "Táo bón chức năng chẩn đoán bằng hỏi bệnh và khám; không cần X-quang, siêu âm, xét nghiệm thường quy khi không có dấu báo động (ESPGHAN 2014 khuyến cáo 2, 6, 13)."
+ ],
+ "diem_nho": [
+  "Rome III ở trẻ ≥ 4 tuổi: ≥ 2 trong 6 mục (đi ngoài < 3 lần/tuần, són ≥ 1 lần/tuần, nín nhịn, đau hoặc phân cứng, khối phân trong trực tràng, phân to tắc bồn cầu); QĐ 3312 ghi 2 tháng, ESPGHAN Bảng 2 ghi 1 tháng; tiêu chuẩn Rome V cho trẻ: không có trong tài liệu đã tải (QĐ 3312 mục 4.1; ESPGHAN 2014 Bảng 2).",
+  "Dấu báo động cần tìm: khởi phát < 1 tháng, phân su > 48 giờ, phân dẹt, máu trong phân khi không có nứt kẽ, chậm tăng trưởng, sốt, nôn mật, chướng nặng, bất thường hậu môn hoặc cột sống (ESPGHAN 2014 Bảng 5, tr. 265).",
+  "Làm sạch phân ứ: PEG 1–1,5 g/kg/ngày, 3 ngày (QĐ 3312) hoặc 3–6 ngày, tối đa 6 ngày (ESPGHAN 2014 khuyến cáo 31); thụt khi không có PEG.",
+  "Duy trì PEG: 0,4 g/kg/ngày chỉnh 0,2–0,8 g/kg (ESPGHAN) hoặc 1 g/kg/ngày (QĐ 3312 mục 5.2c); ít nhất 2 tháng, giảm dần khi hết triệu chứng ≥ 1 tháng (khuyến cáo 37).",
+  "Đánh giá sau 2 tuần; không đáp ứng thì rà tuân thủ, liều, thuốc, ứ phân chưa điều trị, hỗ trợ tâm lý (Hình 2 hộp 10–11, tr. 261). Táo bón khó chữa: không đáp ứng điều trị tối ưu ≥ 3 tháng (tr. 262)."
+ ],
+ "nguon": [
+  "QĐ 3312/QĐ-BYT 2015 – Bộ Y tế, Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ em – TL-0037 – ĐÃ ĐỌC: Táo bón (mục 1–5, tr. 330–334)",
+  "ESPGHAN/NASPGHAN 2014 – Tabbers MM et al, Evaluation and treatment of functional constipation in infants and children, J Pediatr Gastroenterol Nutr 2014;58(2):258–274 – TL-0269 – ĐÃ ĐỌC: Bảng 2, 4–6; Hình 2; khuyến cáo 1–16, 21–38 (tr. 261–272)",
+  "Rome V 2026 – Drossman DA et al, Rome V: Disorders of Gut-Brain Interaction and the Rome V Process, Gastroenterology 2026;170(6) – TL-0252 – ĐÃ ĐỌC: phân loại (H2a). Tiêu chuẩn chẩn đoán nhi chi tiết: không có trong tài liệu đã tải",
+  "WSES 2018 – ten Broek RPG et al, Bologna guidelines for diagnosis and management of adhesive small bowel obstruction, World J Emerg Surg 2018;13:24 – TL-0093 – ĐÃ ĐỌC: Definitions, History taking and physical examination (người lớn, tắc ruột dính)",
+  "USPSTF 2021 – Colorectal Cancer: Screening, JAMA 2021 – TL-0221 – ĐÃ ĐỌC: khuyến cáo sàng lọc từ 45 tuổi (người lớn); Asia-Pacific 2022 – Third Asia-Pacific consensus recommendations on colorectal cancer screening, Gut 2022;71:2152–2166 – TL-0217 – ĐÃ ĐỌC: từ 50 tuổi (người lớn)",
+  "CHƯA CÓ TRONG TÀI LIỆU ĐÃ TẢI: tiêu chuẩn Rome V chi tiết cho trẻ; tỉ lệ ung thư đại trực tràng và tắc ruột ở trẻ 10 tuổi; thời hạn và nguy cơ của corticoid nhỏ mắt; mốc giờ và thời gian ngồi bồn cầu; tác hại cụ thể của kháng sinh dùng không chỉ định trong táo bón; bệnh của bé Phúc"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-28 – bản 1, viết mới. Ghi cả hai cách theo quy tắc 12/10/2026: liều PEG duy trì (mục NH-1091 số 1), nước và chất xơ (NH-1091 số 2), Rome V cho trẻ: không có trong tài liệu đã tải (NH-1091 số 4); lactulose chỉ nêu là phương án khi không có PEG (NH-1074 số 1). Ghi nhận mới (TH-0918_mau_thuan.md): ngưỡng thời gian Rome III ở trẻ > 4 tuổi (QĐ 3312 2 tháng, ESPGHAN Bảng 2 1 tháng; ca 3 tháng thỏa cả hai).",
+  "Tài liệu đã đọc: TL-0037 (Táo bón mục 1–5, tr. 330–334), TL-0269 (Bảng 2, 4–6, Hình 2, khuyến cáo 1–38, phần 7.1, 9.1), TL-0252 (phân loại, qua sổ mâu thuẫn), TL-0093 (Definitions, History taking), TL-0221, TL-0217 (tuổi sàng lọc người lớn).",
+  "Thiết kế: bé 10 tuổi nên hỏi bệnh, thăm trực tràng và nín nhịn ở trường được viết theo tuổi học sinh; đòi kháng sinh ở cả hai lượt (lời thoại ghi trong dap_an); lượt 2 'không đỡ' là do tuân thủ và liều (không phải thất bại thuốc), kết luận ve_hen vì chưa đủ ≥ 3 tháng điều trị tối ưu. Tên bé Phúc, chi tiết nhập viện của bé Phúc, 'gói 10 g' và số liệu cân nặng/liều theo ca là thiết kế của ca. Huyết áp 'Không đo' theo ca mẫu nhi; không dùng âm thanh tim, phổi (mạch 82–84 l/p không khớp tệp ≈ 60 hay ≈ 115 l/p). Không có ảnh da."
+ ]
+}
