@@ -1,0 +1,834 @@
+{
+ "ma_ca": "CX-0617",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-28)",
+ "benh": "CX_hoi_chung_ong_co_tay",
+ "so_cai": {
+  "chuyen_khoa": "Cơ xương khớp - đau",
+  "chan_doan_dich": "Hội chứng ống cổ tay",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh rễ cổ",
+   "Suy giáp"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Cơ đỏ ngụy trang",
+  "co_co_do": "Có",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Lao công (công nhân vệ sinh đường phố: quét đường, đẩy xe rác, ca sáng 3 giờ đến 10 giờ)",
+  "yeu_to_khoi_phat": "Tiếp xúc người bệnh ho (ở chung phòng trọ khoảng 4 tháng với đồng nghiệp ho dai dẳng, chưa khám; tê tay và ho đều bắt đầu sau thời gian đó)",
+  "thuoc_dang_dung": "Thuốc ngủ an thần (diazepam 5 mg mua không đơn, mỗi tối khoảng 10 tháng)",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim (chồng mất vì nhồi máu cơ tim 2 năm trước, hai ngày trước đó ông kêu tê tay trái và tức ngực)",
+  "loai_ket_cuc": "Biến chứng do bỏ sót"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Thị Mận",
+  "tuoi": 52,
+  "gioi": "Nữ",
+  "nghe": "Lao công đường phố, quét đường và đẩy xe rác từ 3 giờ đến 10 giờ sáng",
+  "can_nang": 45,
+  "chieu_cao": 155,
+  "xung_ho": "Bác sĩ gọi bà là 'cô'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Chịu khó, kiệm lời, quen tự xoay xở, mất ngủ nhiều. Hay đọc điện thoại, tin những gì tra được; gắt nhẹ khi bị hỏi chuyện 'không liên quan'. Sợ mất ngày công nên chỉ nói điều bà cho là chính, hay hạ nhẹ triệu chứng khác.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: vào là nói 'tôi bị hội chứng ống cổ tay, cho tôi cái nẹp và thuốc ngủ'. Bà đúng về bàn tay nên dễ khiến bác sĩ dừng ở đó. Ho, sụt cân, mồ hôi đêm bà gán cho bụi đường, mãn kinh, lo nghĩ; chỉ nói khi được hỏi từng điều. Thuốc ngủ gọi là 'thuốc bổ thần kinh', chỉ khai tên khi hỏi cụ thể thuốc tự mua.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#b9855d",
+   "toc": "#4a423d",
+   "kieuToc": "bui",
+   "ao": "#d9772b",
+   "aoKieu": "dong_phuc",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Tê hai bàn tay, đêm tỉnh giấc; xin nẹp và thuốc ngủ",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám tư tuyến cơ sở làm được xét nghiệm máu, nước tiểu, X-quang ngực, siêu âm, điện tim. Không có CT, MRI, điện cơ. Xpert và soi AFB đờm gửi đơn vị chống lao Trung tâm Y tế huyện (khoảng 6 km). Bệnh viện tỉnh có khoa chấn thương chỉnh hình."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Sáng thứ Hai, phòng khám tư tuyến cơ sở: làm được xét nghiệm, X-quang, siêu âm, điện tim; không có CT, MRI. Trung tâm Y tế huyện (có đơn vị chống lao) cách khoảng 6 km. Cô Phạm Thị Mận, 52 tuổi, lao công, đến một mình vì tê hai bàn tay mấy tuần, đêm tỉnh giấc; cô nói đã tra điện thoại và 'chắc là hội chứng ống cổ tay'. Sinh hiệu: mạch 90 l/p, HA 110/70 mmHg, nhiệt độ 37,6 °C, nhịp thở 20 l/p, SpO₂ 96%, cân nặng 45 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cô Mận được cho nẹp và hẹn hai tuần vì 'đúng như cô tra mạng'; ho, mồ hôi đêm, sụt cân bị xem là bụi đường và mãn kinh. Cô vẫn ngủ chung phòng trọ và khạc đờm khi quét đường: ho trên 2 tuần kèm sụt cân, mồ hôi đêm là người nghi lao (QĐ 162/2024 Phần II mục 1.1 Bảng 1), người ở cùng là người tiếp xúc (Phần I mục 1.5). Chẩn đoán lao chậm vài tuần, nỗi sợ nhồi máu của cô không ai hỏi tới.",
+    "nhap_vien": "Cô bị nhập viện tuyến huyện 'cho chắc'. Sinh hiệu ổn, SpO₂ 96%, không ho ra máu nhiều, không suy kiệt, chưa có chỉ định nội trú lao (QĐ 162/2024 Phần III mục 7.2.2); việc cần làm là đăng ký điều trị ngoại trú ở tuyến huyện trong tối đa 3 ngày (mục 7.2.1, 7.2.3). Cô mất ngày công và tiền nằm viện, vẫn chưa có nẹp.",
+    "cap_cuu": "Cô được chuyển cấp cứu vì 'tê tay trái, tức ngực'. Điện tim bình thường, đau không điển hình; ở khoa cấp cứu cô được loại tim rồi cho về với toa giảm đau, không ai hỏi ho và mồ hôi đêm (ESC 2023 mục 3.2: ECG đã bình thường ngay tại phòng khám). Cô mất một ngày và tiền xe, bệnh lao chưa được gọi tên."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi tra điện thoại thấy giống hội chứng ống cổ tay, tê hai bàn tay mấy tuần rồi, đêm không ngủ được. Bác sĩ cho tôi cái nẹp với ít thuốc ngủ nữa nghen.",
+   "sinh_hieu": {
+    "mach": 90,
+    "ha": "110/70",
+    "nhiet": "37,6",
+    "nhip_tho": 20,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tê hai bàn tay khoảng 6 tuần, đêm tỉnh giấc 3–4 lần mỗi tuần, tay phải nhiều hơn. Cô tra điện thoại, tin mình bị hội chứng ống cổ tay, xin nẹp và thuốc ngủ. Không chấn thương.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và chẩn đoán tự tra mạng",
+     "nhieu": 1
+    },
+    {
+     "id": "vi_tri_te",
+     "noi_dung": "Tê và châm kim ở ngón cái, trỏ, giữa và nửa ngón nhẫn phía ngón cái, cả hai tay; ngón út không tê. Tê nhất 2–3 giờ sáng, vẩy tay hoặc gác tay lên cao thì đỡ; ban ngày tăng khi cầm chổi, đẩy xe rác. Không đau cổ, tê không đổi theo tư thế cổ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tê theo vùng thần kinh giữa, về đêm, không đau cổ"
+    },
+    {
+     "id": "noi_khoa",
+     "noi_dung": "Không đái tháo đường, không tăng huyết áp, không hút thuốc. Mãn kinh khoảng 1 năm. Không sợ lạnh, không táo bón, không tăng cân; ngược lại sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền và triệu chứng gợi ý suy giáp"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khoảng 6 tuần, buổi sáng nhiều, khạc ít đờm trắng; cô cho là bụi đường vì quét đường nhiều năm. Tuần trước hai lần thấy vài vệt hồng trong đờm, nghĩ do ho mạnh. Thỉnh thoảng đau nhói ngực phải khi hít sâu hoặc ho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho kéo dài trên 2 tuần, vệt máu trong đờm, đau ngực kiểu màng phổi"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Hai tháng sụt từ 49 xuống 45 kg, ăn kém, mệt. Ra mồ hôi ướt áo 3–4 đêm mỗi tuần, tưởng 'bốc hỏa mãn kinh'. Chiều thấy người âm ấm, chưa đo. Cô cho là ăn ít vì thuốc ngủ và lo nghĩ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sụt cân, mồ hôi đêm, sốt nhẹ chiều",
+     "nhieu": 1
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Từ tháng 6 cô ngủ chung phòng trọ khoảng 4 tháng với chị Nga, đồng nghiệp quét đường. Chị ho dai dẳng cả năm, gầy, nói 'viêm họng'; tháng trước về quê, chưa khám. Cô không nghĩ liên quan.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc gần người ho dai dẳng"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mỗi tối uống 1 viên diazepam 5 mg (nhà thuốc bán không đơn, cô gọi 'thuốc bổ thần kinh') khoảng 10 tháng vì mất ngủ. Không uống rượu. Không dùng corticoid, không thuốc bắc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc ngủ tự mua, kéo dài",
+     "nhieu": 1
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Hai lần cô thấy 'tức ngực trái' thoáng qua khi lo và tay trái tê. Chồng cô mất 2 năm trước vì nhồi máu cơ tim; hai ngày trước đó ông kêu tê tay trái và tức ngực mà không ai để ý. Cô sợ mình giống ông nên mới nghỉ buổi sáng đi khám, chưa nói ai.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: sợ nhồi máu cơ tim",
+     "dieu_kien_lo": "Cô chỉ nói khi bác sĩ hỏi nhẹ nhàng cô lo điều gì nhất, hoặc hỏi tiền sử gia đình/người thân về tim. Bị hỏi dồn hoặc chỉ hỏi về bàn tay, cô nói 'tôi chỉ lo cái tay'."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Gầy, mệt, da niêm hơi nhợt, trán và cổ hơi ẩm mồ hôi. Cân 45 kg, cao 155 cm, BMI 18,7. Không phù mặt, không vàng da, không hạch cổ, nách.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân. Không hạch cổ.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống cổ đủ biên độ, không đau cạnh sống. Spurling hai bên âm tính; kéo giãn cổ và dạng vai không đổi triệu chứng. Vai, khuỷu bình thường.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Phản xạ gân nhị đầu, tam đầu, cánh tay quay (++) hai bên đều. Không Hoffmann, đi thẳng, đi gót, đi mũi chân tốt. Giảm cảm giác ngón cái, trỏ, giữa và nửa ngón nhẫn phía ngón cái hai bên; ngón út, mu tay và chân bình thường.",
+     "k": 1
+    },
+    "co_tay_ban_tay": {
+     "a": "Mô cái hai bên đầy, không teo. Dạng ngón cái chống lực 5/5 hai bên. Tinel dương tính hai bên (tê như điện chạy ra ngón 1–3), Phalen dương tính hai bên (tay phải sau khoảng 20 giây, tay trái sau khoảng 40 giây). Da bàn tay chai do cầm chổi, không sưng nóng đỏ, không phù mu tay.",
+     "k": 1,
+     "hien": "Hai bàn tay; mô cái hai bên nhìn đầy, không lõm."
+    },
+    "phoi": {
+     "a": "Ran ẩm và ran nổ khu trú ở đỉnh phổi phải (trên và dưới xương đòn); phổi trái rì rào phế nang bình thường. Nhịp thở 20 l/p. Không tam chứng ba giảm.",
+     "k": 1,
+     "hien": "Nghe hai phế trường, chú ý đỉnh phổi phải (trên xương đòn).",
+     "media": [
+      {
+       "vi_tri": "Đỉnh phổi phải",
+       "id": "AT-PHOI-RAN-NO-TO-01",
+       "chu": "Ran nổ to hạt, khu trú ở đỉnh phổi phải."
+      }
+     ]
+    },
+    "tim": {
+     "a": "T1, T2 rõ, nhịp đều, không âm thổi, không T3, T4.",
+     "k": 0,
+     "hien": "Nghe tim, nhịp đều.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 bình thường, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "u",
+     "ab": 0,
+     "r": "Nhịp xoang 88 l/p, trục bình thường, không ST chênh, không T đảo, không sóng Q bệnh lý.",
+     "n": "ECG trong 10 phút sau tiếp xúc y tế đầu tiên khi nghi hội chứng vành cấp (ESC 2023 mục 3.2). Đau thoáng, không gắng sức nên ít nghĩ ACS; làm để loại trừ và để nỗi sợ của cô có chỗ nói ra."
+    },
+    "cxr": {
+     "v": "e",
+     "ab": 1,
+     "r": "X-quang ngực thẳng: đám mờ không đồng nhất ở vùng đỉnh và phân thùy sau thùy trên phổi phải, trong đó có hang nhỏ thành mỏng khoảng 2 cm, vài nốt nhỏ xung quanh. Không tràn dịch màng phổi, không hạch rốn phổi to rõ. Phổi trái sạch. Bóng tim bình thường.",
+     "n": "Người ho trên 2 tuần là người nghi lao, cần X-quang ngực kèm xét nghiệm vi sinh (QĐ 162/2024 Phần II mục 1.1 Bảng 1, Sơ đồ 1). Tổn thương thùy trên, hang là hình ảnh nghi lao (Phần II mục 1.2 Bảng 2)."
+    },
+    "xpert": {
+     "v": "e",
+     "ab": 1,
+     "r": "Xpert MTB/RIF đờm (mẫu khạc tại chỗ, gửi đơn vị chống lao huyện): phát hiện MTB mức thấp, không phát hiện kháng rifampicin. Soi AFB đờm: 1+.",
+     "n": "Sinh học phân tử là xét nghiệm ban đầu, ưu tiên đờm (QĐ 162/2024 Phần II mục 2.1a, Sơ đồ 2); MTB (+) không kháng R là bằng chứng vi khuẩn xác định lao phổi (mục 3.2.2). Không có Xpert: soi AFB 2 mẫu cách nhau ít nhất 2 giờ. Thời gian trả kết quả: không có trong tài liệu đã tải; ca coi như có trong ngày."
+    },
+    "tsh": {
+     "v": "u",
+     "ab": 0,
+     "r": "TSH 2,1 mUI/L · FT4 14 pmol/L (bình thường).",
+     "n": "Loại suy giáp: thường tăng cân, sợ rét (QĐ 3879/2014 mục IV.1.2) trái với cô. Liên quan suy giáp – hội chứng ống cổ tay: không có trong tài liệu đã tải."
+    },
+    "glu": {
+     "v": "u",
+     "ab": 0,
+     "r": "Glucose máu đói 5,1 mmol/L",
+     "bang": {
+      "glu": 5.1
+     },
+     "n": "Loại đái tháo đường (QĐ 3510/2025 mục 4: bệnh đơn dây thần kinh gặp nhiều hơn ở người đái tháo đường); cũng là mốc trước điều trị lao (QĐ 162/2024 Phần III mục 3.1.5)."
+    },
+    "ctm": {
+     "v": "u",
+     "ab": 1,
+     "r": "Công thức máu",
+     "bang": {
+      "wbc": 9.6,
+      "neu_pct": 72,
+      "lym_pct": 18,
+      "hgb": 108,
+      "mcv": 84,
+      "plt": 430
+     },
+     "n": "Thiếu máu nhẹ, hợp bệnh mạn; là xét nghiệm trước điều trị lao (QĐ 162/2024 Phần III mục 5.1.3, bảng theo dõi dòng 8)."
+    },
+    "liver": {
+     "v": "u",
+     "ab": 0,
+     "r": "AST 24 · ALT 22 U/L (bình thường)",
+     "n": "Mốc trước điều trị lao (QĐ 162/2024 Phần III mục 5.1.3, bảng theo dõi dòng 10, 12: gan, HIV, viêm gan B, C); làm tại phòng khám hay đơn vị chống lao đều được."
+    },
+    "mri_cot_song": {
+     "v": "n",
+     "ab": 0,
+     "r": "(Cơ sở không có MRI.)",
+     "n": "Không cần: không đau cổ, không dấu rễ hay tủy. MRI cột sống cổ khi đau kéo dài trên 4–6 tuần, tổn thương thần kinh tiến triển, bệnh tủy cổ hoặc dấu hiệu ác tính, nhiễm trùng (QĐ 361/2014 mục 3.1.2, tr. 150); MRI không dùng chẩn đoán hội chứng ống cổ tay (AAOS/ASSH 2024, Diagnosis: MRI)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng ống cổ tay hai bên, phải nặng hơn, mức nhẹ đến vừa",
+     "ok": 1,
+     "n": "Tê ngón 1–3, tê đêm, vẩy tay đỡ, Tinel, Phalen dương tính, mô cái không teo: dùng CTS-6, không cần siêu âm hay điện cơ thường quy (AAOS/ASSH 2024, Diagnosis: CTS-6, Ultrasonography, NCV/EMG). Điểm CTS-6: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lao phổi thùy trên phải có hang, Xpert MTB (+) không kháng rifampicin, AFB 1+",
+     "ok": 1,
+     "n": "Ho trên 2 tuần, sụt cân, mồ hôi đêm, sốt nhẹ, tiếp xúc gần, ran khu trú đỉnh phải, X-quang hang thùy trên, Xpert (+) (QĐ 162/2024 Phần II mục 3.2.1–3.2.2). Điều bị che dưới vỏ 'hội chứng ống cổ tay'; QĐ 361/2014 mục 3.1.1 (tr. 149) dặn loại trừ ác tính, nhiễm trùng khi có sốt, vã mồ hôi đêm, sụt cân."
+    },
+    {
+     "t": "Bệnh rễ cổ",
+     "n": "Không đau cổ, tê không đổi theo tư thế cổ, ngón út không tê, Spurling âm, phản xạ đều (QĐ 361/2014 mục 3.1.1, tr. 148–149)."
+    },
+    {
+     "t": "Suy giáp",
+     "n": "Sụt cân thay vì tăng cân, không sợ lạnh, tuyến giáp không to, TSH 2,1 (QĐ 3879/2014 mục IV.1); nữ 40–50 tuổi là nhóm hay gặp nên dễ nhầm."
+    },
+    {
+     "t": "Hội chứng vành cấp / đau thắt ngực",
+     "n": "Loại trừ: đau thoáng, không gắng sức, ECG bình thường (ESC 2023 mục 3.2). Đây là lý do thật cô đến khám."
+    },
+    {
+     "t": "Mồ hôi đêm và sụt cân do mãn kinh, lo âu, thuốc ngủ",
+     "n": "Không giải thích được ho kéo dài, vệt máu, hang trên X-quang (QĐ 162/2024 Phần II mục 1.1 Bảng 1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi nhẹ nhàng cô lo điều gì nhất; làm điện tim, nghe tim phổi; giải thích điện tim bình thường, tê tay này không phải nhồi máu",
+     "v": "c",
+     "n": "Xử lý động cơ thật; ECG 10 phút (ESC 2023 mục 3.2). Kỹ thuật tư vấn: không có trong tài liệu đã tải, là thiết kế của ca."
+    },
+    {
+     "t": "Hỏi ngoài bàn tay: ho, sụt cân, mồ hôi đêm, sốt, ai ở cùng ho, thuốc tự mua; khám phổi; chỉ định X-quang ngực và Xpert đờm",
+     "v": "c",
+     "n": "Ho trên 2 tuần là triệu chứng nghi lao quan trọng nhất (QĐ 162/2024 Phần II mục 1.1 Bảng 1); X-quang cùng vi sinh (Sơ đồ 1); Xpert đờm (mục 2.1a)."
+    },
+    {
+     "t": "Cho đeo khẩu trang ngay, che miệng khi ho, nhổ vào khăn giấy bỏ đúng chỗ, mở cửa thông khí; bảo cô ngủ riêng, tránh chỗ đông người",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần V mục 4.1, 4.2 (khẩu trang, vệ sinh ho khạc, phòng riêng, thông khí). Thời gian còn lây, nghỉ quét đường: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển trong tối đa 3 ngày đến đơn vị chống lao Trung tâm Y tế huyện để đăng ký và điều trị ngoại trú có giám sát hằng ngày; viết giấy giới thiệu kèm X-quang, Xpert, cân nặng 45 kg, thuốc ngủ đang dùng",
+     "v": "c",
+     "n": "Đăng ký tối đa 3 ngày ở tuyến huyện (QĐ 162/2024 Phần III mục 7.2.1); ngoại trú, tái khám hằng tháng (mục 7.2.3); uống thuốc có kiểm soát hằng ngày (mục 1.3). Quy định chuyển từ phòng khám tư: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Phác đồ do đơn vị chống lao chỉ định: 2HRZE/4RHE hoặc 2HRZE/4HR; phòng khám không tự kê thuốc lao",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần III mục 2.1.2 phác đồ A1 (2HRZE/4RHE); WHO 2025 Module 4 khuyến cáo 1.1 (2HRZE/4HR): hai cách đều đúng (sổ mâu thuẫn HH-1338)."
+    },
+    {
+     "t": "Khám người tiếp xúc: nhắn chị Nga về quê khám; báo đơn vị chống lao",
+     "v": "c",
+     "n": "Người ngủ cùng phòng ít nhất 1 đêm/tuần trong 3 tháng là người tiếp xúc (QĐ 162/2024 Phần I mục 1.5; Phần IV mục 1.1.1). Tìm người ở xa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hội chứng ống cổ tay: nẹp cổ tay trung tính đeo đêm cả hai tay (phải trước), giải thích đây không phải bệnh tim; hạn chế gập cổ tay lâu",
+     "v": "c",
+     "n": "Cochrane 2012 (Page): nẹp đêm cải thiện sau 4 tuần (nguồn bổ sung tự tìm, theo sổ CX-0618). Loại nẹp, giá: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê thêm hay tăng thuốc ngủ; dặn mang vỏ thuốc ngủ đến đơn vị chống lao, báo trước khi uống thuốc lao",
+     "v": "c",
+     "n": "Isoniazid làm tăng, rifampicin làm giảm nồng độ diazepam (QĐ 162/2024 Phụ lục 7 Bảng 4). Benzodiazepin ngắn hạn tối đa 4 tuần (ESRS 2023 Bảng 16) hoặc QĐ 2058/2020 Bài 27 mục 4.3 (không nêu thời gian): ghi cả hai (sổ mâu thuẫn). Cách giảm liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho prednisolon uống vài ngày cho 'đỡ tê tay'",
+     "v": "w",
+     "n": "Corticosteroid uống không cải thiện lâu dài (AAOS/ASSH 2024, Non-Operative Treatment: Long-Term); corticosteroid kéo dài là yếu tố nguy cơ lao (QĐ 162/2024 Phần II mục 1.3). Hậu quả một đợt ngắn khi lao chưa điều trị: không có trong tài liệu đã tải; mức w là thiết kế của ca."
+    },
+    {
+     "t": "Kê thêm thuốc ngủ mạnh hơn hoặc tăng diazepam vì cô xin",
+     "v": "w",
+     "n": "Mất ngủ do ho, mồ hôi đêm, tê tay, sợ: chưa gỡ nguyên nhân; benzodiazepin ngắn hạn (ESRS 2023 Bảng 16); sắp có tương tác thuốc lao (QĐ 162/2024 Phụ lục 7 Bảng 4)."
+    },
+    {
+     "t": "Chỉ cho nẹp, bảo 'đúng như cô tra mạng' rồi cho về, bỏ qua ho và sụt cân",
+     "v": "h",
+     "n": "Bỏ sót lao phổi có hang, đang lây, người ở cùng, nguy cơ ho ra máu (QĐ 162/2024 Phần II mục 1.1, 3.2.1; Phần III mục 7.2.2); QĐ 361/2014 mục 3.1.1, tr. 149: lưu ý loại trừ ác tính, nhiễm trùng khi có sốt, vã mồ hôi đêm, sụt cân."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng ống cổ tay hai bên, phải nặng hơn, mức nhẹ đến vừa (Tinel, Phalen dương tính, mô cái không teo, dạng ngón cái 5/5)",
+     "Lao phổi thùy trên phải có hang, Xpert MTB (+) không kháng rifampicin, AFB 1+ (điều phải nhận ra, bị che dưới vỏ hội chứng ống cổ tay)",
+     "Đã loại trừ: bệnh rễ cổ, suy giáp (TSH 2,1), hội chứng vành cấp (ECG, đặc điểm đau)",
+     "Thiếu máu nhẹ, BMI 18,7 kg/m²; dùng diazepam không đơn khoảng 10 tháng"
+    ],
+    "phan_tich_chan_doan": [
+     "Hội chứng ống cổ tay: tê vùng dây giữa, tê đêm, vẩy tay đỡ, Tinel và Phalen dương tính; AAOS/ASSH 2024 khuyến cáo mạnh dùng CTS-6, không siêu âm hay điện cơ thường quy. Cô tra mạng đúng về bàn tay nên dễ dừng ở đó (neo chẩn đoán).",
+     "Điều lẽ ra phải dừng lại: ho trên 2 tuần, sụt cân, mồ hôi đêm, sốt nhẹ, ngủ chung phòng với người ho dai dẳng (QĐ 162/2024 Phần II mục 1.1 Bảng 1; Phần I mục 1.5; QĐ 361/2014 mục 3.1.1, tr. 149). Dễ lướt qua vì cô có sẵn lời giải thích (bụi đường, mãn kinh) và bàn tay đã có chẩn đoán đúng.",
+     "Lao phổi: hang đỉnh phải (QĐ 162/2024 Phần II mục 1.2 Bảng 2); Xpert MTB (+) không kháng R xác định (mục 3.2.2). Không cần CT: đã có bằng chứng vi khuẩn. Lý do thật là sợ nhồi máu như chồng: điện tim bình thường, đau thoáng không gắng sức (ESC 2023 mục 3.2); cần nói thẳng kết quả."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: chuyển trong tối đa 3 ngày đến đơn vị chống lao huyện để đăng ký, điều trị ngoại trú có giám sát (QĐ 162/2024 Phần III mục 7.2.1, 7.2.3, 1.3); chưa nội trú vì sinh hiệu ổn, không ho ra máu nhiều (mục 7.2.2). Phòng lây ngay hôm nay (Phần V mục 4.1, 4.2), khám người ở cùng (Phần I mục 1.5)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nẹp cổ tay trung tính có thanh cứng ở lòng bàn tay",
+      "ham_luong": "Cỡ vừa tay; cả hai tay, phải trước",
+      "lieu": "Đeo mỗi đêm khi ngủ",
+      "duong": "Đeo ngoài",
+      "thoi_diem": "Trước khi ngủ; không đeo khi cầm chổi, đẩy xe",
+      "so_ngay": "Ít nhất 4 tuần rồi đánh giá lại (khi nào bỏ: không có trong tài liệu đã tải)",
+      "ghi_chu": "Cochrane 2012 (Page): nẹp đêm cải thiện sau 4 tuần (nguồn bổ sung tự tìm, theo sổ mâu thuẫn CX-0618). Loại nẹp, giá: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (không bắt buộc)",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần khi tê làm mất ngủ, tối đa 4 viên (2 g)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, cách nhau 6–8 giờ",
+      "so_ngay": "Tối đa 1–2 tuần; ngừng khi bắt đầu thuốc lao nếu men gan tăng",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1: không quá 4 g/24 giờ, chống chỉ định khi tăng men gan; 2 g/ngày thận trọng hơn. NSAID liều thấp ngắn ngày là lựa chọn thay thế (Phụ lục NSAID mục 2, 3.1)."
+     },
+     {
+      "thuoc": "Thuốc chống lao (không kê tại phòng khám; do đơn vị chống lao chỉ định)",
+      "ham_luong": "Nhóm 40–54 kg: HRZE 75/150/400/275 mg",
+      "lieu": "3 viên HRZE mỗi ngày trong 2 tháng đầu",
+      "duong": "Uống",
+      "thoi_diem": "Một lần mỗi sáng, xa bữa ăn, có giám sát",
+      "so_ngay": "2 tháng tấn công, 4 tháng duy trì",
+      "ghi_chu": "QĐ 162/2024 Phụ lục 6 Bảng 3, Phần III mục 1.3, 2.1.2; WHO 2025 Module 4 khuyến cáo 1.1 (4HR): ghi cả hai."
+     }
+    ],
+    "dan_do": [
+     "Tê tay của cô là do dây thần kinh giữa bị chèn ở cổ tay; cô tra đúng. Nhưng cái ho, sụt cân và mồ hôi đêm mới là chuyện lớn hơn: phổi cô có tổn thương lao.",
+     "Điện tim bình thường, đau thoáng không gắng sức: tê tay và tức ngực thoáng này không phải nhồi máu như ông nhà. Cô lo vậy là dễ hiểu."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau khoảng 3 tuần. Cô Mận đã đăng ký ở Trung tâm Y tế huyện, uống thuốc lao mỗi sáng tại trạm y tế phường (hôm nay là ngày thứ 21). Cô đến một mình, trông mệt và lờ đờ hơn lần trước. Sinh hiệu: mạch 92 l/p, HA 108/68 mmHg, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 97%, cân nặng 44,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cô bị nhập viện 'theo dõi gan và thần kinh'. AST, ALT tăng dưới 5 lần giới hạn trên, không vàng da, cô tỉnh: chưa có chỉ định nội trú lao (QĐ 162/2024 Phần III mục 7.2.2). Nằm viện làm gián đoạn thuốc có giám sát ở trạm y tế, cô mất ngày công, tê chân vẫn không ai bổ sung vitamin B6.",
+    "chuyen_tuyen": "Cô được chuyển lên bệnh viện tỉnh 'xem thuốc lao có hại thần kinh không'. Trong lúc chờ khám cô tự ngưng thuốc lao hai ngày vì sợ; bỏ trị làm kéo dài điều trị, tăng nguy cơ thất bại, kháng thuốc (QĐ 162/2024 Phần III mục 5.3.1c). Tê chân xử trí được ngay ở phòng khám phối hợp đơn vị chống lao."
+   },
+   "loi_mo": "Bác sĩ ơi, thuốc lao tôi uống đều, ho đỡ nhiều rồi. Nhưng tay tôi tê nặng hơn, giờ hai bàn chân cũng tê rát như kim châm, ban ngày thì lờ đờ buồn ngủ, hôm trước suýt ngã khi đẩy xe rác. Không biết có phải thuốc lao hại thần kinh không.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "108/68",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho giảm nhiều, hết sốt, mồ hôi đêm thưa. Nhưng tay tê nặng hơn: nay tê cả ban ngày ở ngón 1–3 hai tay, đêm tỉnh gần mỗi đêm; hai bàn chân tê rát, kim châm, nặng về đêm, bắt đầu khoảng 10 ngày sau khi uống thuốc lao. Cô lờ đờ buồn ngủ và suýt ngã khi đẩy xe rác.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Tê tay nặng hơn, tê rát hai bàn chân mới, buồn ngủ ban ngày"
+    },
+    {
+     "id": "thuoc_lao",
+     "noi_dung": "Mỗi sáng uống 3 viên HRZE (viên hỗn hợp) ở trạm y tế phường, có nhân viên đứng nhìn uống. Nước tiểu màu cam. Trạm chỉ phát thuốc lao, không phát vitamin B6; cô chưa uống vitamin nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đang dùng thuốc lao, không có B6"
+    },
+    {
+     "id": "chan_te",
+     "noi_dung": "Tê rát từ ngón chân lên mu bàn chân hai bên, như kim châm, như có kiến bò, đau hơn khi nằm; không yếu chân, đi lại được. Tay thì ngón út và ngón nhẫn không tê thêm, tê vẫn ở ngón 1–3.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tê chân kiểu đi tất, tay vẫn vùng dây giữa"
+    },
+    {
+     "id": "diazepam",
+     "noi_dung": "Vẫn uống 1 viên diazepam 5 mg mỗi tối. Từ khi uống thuốc lao ngủ li bì, sáng dậy lờ đờ, suýt ngã. Cô tưởng do thuốc lao 'mạnh quá'. Chưa báo trạm y tế về thuốc ngủ vì quên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc ngủ tăng tác dụng khi dùng cùng thuốc lao",
+     "nhieu": 1
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Buồn nôn nhẹ buổi sáng sau thuốc, ăn kém hơn. Không vàng da, không vàng mắt, không đau hạ sườn phải, phân bình thường. Không uống rượu, không dùng thuốc bắc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng gan"
+    },
+    {
+     "id": "lo_lang",
+     "noi_dung": "Cô giờ sợ nhất là thuốc lao 'độc' làm hại thần kinh, và lỡ ngưng thuốc thì bệnh nặng. Nỗi sợ nhồi máu thì đã đỡ nhiều từ khi biết điện tim bình thường.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nỗi lo hiện tại"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Gầy, hơi lờ đờ nhưng trả lời đúng. Cân 44,5 kg. Không vàng da, không vàng mắt, củng mạc không vàng. Da niêm hơi nhợt.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn hạ sườn phải không đau, gan không to, lách không sờ thấy.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Phản xạ gân gót giảm hai bên; nhị đầu, tam đầu (++). Monofilament 10 g: không cảm nhận ở đầu ngón cái hai bên; âm thoa 128 Hz giảm rung ở ngón cái hai bên. Sức cơ bàn chân 5/5, hơi loạng choạng khi quay người. Bàn tay: giảm cảm giác ngón 1–3 hai bên, ngón út bình thường. Không Hoffmann.",
+     "k": 1
+    },
+    "co_tay_ban_tay": {
+     "a": "Mô cái hai bên đầy, không teo. Dạng ngón cái chống lực 5/5 hai bên. Tinel dương tính, Phalen dương tính sau khoảng 10 giây ở tay phải, 20 giây ở tay trái.",
+     "k": 1,
+     "hien": "Hai bàn tay; mô cái hai bên nhìn đầy, không lõm."
+    },
+    "phoi": {
+     "a": "Còn ít ran ẩm ở đỉnh phổi phải, giảm nhiều so với lần trước; phổi trái bình thường. Nhịp thở 18 l/p.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "ab": 1,
+     "r": "AST 58 · ALT 71 U/L (giới hạn trên của phòng khám 40 U/L, ALT khoảng 1,8 lần). Bilirubin toàn phần bình thường.",
+     "n": "Người trên 35 tuổi theo dõi men gan mỗi 4–6 tuần và khi có triệu chứng; dưới 5 lần giới hạn trên không triệu chứng: có thể không ngừng thuốc, hỗ trợ gan, xét nghiệm lại sau 3–5 ngày; trên 2,5 lần kèm triệu chứng thì cân nhắc ngừng (QĐ 162/2024 Phần III mục 5.3.4a). Người có bệnh gan mạn: ngừng khi trên 2 lần (mục 3.1.3b); cô không có bệnh gan mạn, ghi cả hai theo sổ (HH-1300)."
+    },
+    "glu": {
+     "v": "u",
+     "ab": 0,
+     "r": "Glucose máu đói 5,4 mmol/L",
+     "bang": {
+      "glu": 5.4
+     },
+     "n": "Loại đái tháo đường làm tăng nguy cơ bệnh thần kinh do isoniazid (QĐ 162/2024 Phần III mục 3.1.5)."
+    },
+    "b12": {
+     "v": "a",
+     "ab": 0,
+     "r": "Vitamin B12 huyết thanh 310 pmol/L (trong giới hạn bình thường).",
+     "n": "Thiếu B12, suy giáp, thiếu pyridoxin là chẩn đoán phân biệt của bệnh đa dây thần kinh (QĐ 3510/2025 mục 3.2.4); làm thì không trừ điểm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh đa dây thần kinh ngoại biên do isoniazid (không có B6, suy dinh dưỡng) chồng lên hội chứng ống cổ tay hai bên đang nặng lên",
+     "ok": 1,
+     "n": "Tê rát hai bàn chân kiểu đi tất, mất monofilament, giảm rung, mất phản xạ gót, bắt đầu khoảng 10 ngày sau thuốc lao (QĐ 162/2024 Phần III mục 5.3.1; Phần IV mục 2.3.1). Tay vẫn vùng dây giữa nên hội chứng ống cổ tay còn."
+    },
+    {
+     "t": "Tăng men gan nhẹ do thuốc lao (ALT khoảng 1,8 lần giới hạn trên), chưa vàng da",
+     "ok": 1,
+     "n": "Dưới 5 lần, không triệu chứng rõ, tiếp tục thuốc, xét nghiệm lại sau 3–5 ngày (QĐ 162/2024 Phần III mục 5.3.4a)."
+    },
+    {
+     "t": "Buồn ngủ, nguy cơ té ngã do tương tác diazepam – isoniazid/rifampicin",
+     "ok": 1,
+     "n": "Isoniazid làm tăng, rifampicin làm giảm nồng độ diazepam (QĐ 162/2024 Phụ lục 7 Bảng 4); tác động ròng khi dùng đồng thời: không có trong tài liệu đã tải. Biểu hiện lâm sàng là li bì, loạng choạng."
+    },
+    {
+     "t": "Bệnh thần kinh do đái tháo đường, thiếu B12, suy giáp",
+     "n": "Loại trừ: glucose 5,4; B12 bình thường; TSH lượt 1 bình thường; khởi phát sau thuốc lao (QĐ 3510/2025 mục 3.2.4)."
+    },
+    {
+     "t": "Lao thất bại hoặc kháng thuốc",
+     "n": "Không nghĩ: ho giảm, hết sốt, mồ hôi đêm thưa sau 3 tuần; Xpert không kháng R. Đánh giá sau 2 tháng theo lịch (QĐ 162/2024 Phần III mục 5.1.3 bảng theo dõi, dòng AFB)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi cụ thể thuốc lao đang uống, thuốc ngủ, thời điểm bắt đầu tê chân; nói rõ tê chân là biến cố đã biết của thuốc lao, xử trí được, không tự ý ngưng thuốc lao",
+     "v": "c",
+     "n": "Viêm dây thần kinh là biến cố thường gặp (QĐ 162/2024 Phần III mục 5.3.1); bỏ trị làm kéo dài điều trị, thất bại, kháng thuốc (mục 5.3.1c)."
+    },
+    {
+     "t": "Cho vitamin B6 (pyridoxin) 25 mg mỗi ngày, uống kèm thuốc lao, không quá liều cao",
+     "v": "c",
+     "n": "Người dùng isoniazid có nguy cơ bệnh thần kinh (suy dinh dưỡng, đái tháo đường, có thai…) nên bổ sung B6 (QĐ 162/2024 Phần IV mục 2.3.1, lưu ý); 25 mg/ngày (Phần III mục 3.1.1), 10–25 mg/ngày (mục 3.1.5). Liều riêng cho suy dinh dưỡng: không có trong tài liệu đã tải; chọn 25 mg là thiết kế của ca. Trên 100 mg/ngày có thể gây bệnh thần kinh (mục 2.2.2, lưu ý linezolid)."
+    },
+    {
+     "t": "Kiểm tra men gan: AST/ALT, hẹn xét nghiệm lại sau 3–5 ngày; không ngừng thuốc lao vì ALT dưới 5 lần giới hạn trên, không vàng da; dặn dấu hiệu viêm gan",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần III mục 5.3.4a; hai ngưỡng theo đối tượng (3.1.3b và 5.3.4a), cô không có bệnh gan mạn."
+    },
+    {
+     "t": "Báo bằng giấy hoặc điện thoại cho đơn vị chống lao tuyến huyện về tê chân, men gan, thuốc ngủ; nhờ họ theo dõi",
+     "v": "c",
+     "n": "Tái khám hằng tháng ở tuyến huyện (QĐ 162/2024 Phần III mục 7.2.3). Quy trình báo biến cố từ phòng khám tư: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc ngủ: không tăng; giảm xuống nửa viên mỗi tối, đánh giá lại sau 1–2 tuần, không ngưng đột ngột; dặn nguy cơ ngã",
+     "v": "c",
+     "n": "Tương tác: QĐ 162/2024 Phụ lục 7 Bảng 4. Benzodiazepin ngắn hạn tối đa 4 tuần (ESRS 2023 Bảng 16) so với QĐ 2058/2020 Bài 27 mục 4.3 (không nêu thời gian): ghi cả hai. Cách giảm: không có trong tài liệu đã tải; nửa viên là thiết kế của ca."
+    },
+    {
+     "t": "Ngừng toàn bộ thuốc lao vì tê chân và men gan hơi tăng",
+     "v": "w",
+     "n": "Men gan dưới 5 lần giới hạn trên không triệu chứng thì có thể tiếp tục (QĐ 162/2024 Phần III mục 5.3.4a); bỏ trị làm kéo dài điều trị, thất bại, kháng thuốc (mục 5.3.1c)."
+    },
+    {
+     "t": "Uống paracetamol để giảm đau chân, tay tê",
+     "v": "w",
+     "n": "Men gan đang tăng: paracetamol chống chỉ định khi tăng men gan (QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1, tr. 202); đang uống thuốc lao độc với gan (QĐ 162/2024 Phần III mục 5.3.4a)."
+    },
+    {
+     "t": "Cho vitamin B6 liều rất cao (trên 100 mg/ngày) để chữa tê nhanh",
+     "v": "w",
+     "n": "Pyridoxin trên 100 mg/ngày có thể gây bệnh lý thần kinh ngoại biên (QĐ 162/2024 Phần III mục 2.2.2, lưu ý linezolid)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh đa dây thần kinh ngoại biên do isoniazid (suy dinh dưỡng, chưa có B6)",
+     "Hội chứng ống cổ tay hai bên đang nặng lên (tê cả ngày), mô cái chưa teo",
+     "Tăng men gan nhẹ do thuốc lao (ALT khoảng 1,8 lần), chưa vàng da"
+    ],
+    "phan_tich_chan_doan": [
+     "Tê rát hai bàn chân kiểu đi tất, mất monofilament và rung, mất phản xạ gót, khởi phát khoảng 10 ngày sau thuốc lao: bệnh thần kinh do isoniazid (QĐ 162/2024 Phần III mục 5.3.1; Phần IV mục 2.3.1). Trạm y tế không phát B6 là điểm gãy. Bàn tay vẫn tê ngón 1–3, Tinel, Phalen dương tính: hội chứng ống cổ tay chưa lui.",
+     "Nặng hơn: phải đánh giá toàn diện (tay, chân, gan, thuốc ngủ) chứ không chỉ một triệu chứng; vẫn ngoại trú phối hợp đơn vị chống lao vì chưa có tiêu chí nội trú (mục 7.2.2). Thuốc ngủ: isoniazid làm tăng, rifampicin làm giảm nồng độ diazepam (Phụ lục 7 Bảng 4); tác động ròng không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Không ngừng thuốc lao (QĐ 162/2024 Phần III mục 5.3.1c); men gan dưới 5 lần, không vàng da: tiếp tục, xét nghiệm lại sau 3–5 ngày (mục 5.3.4a)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Pyridoxin (vitamin B6)",
+      "ham_luong": "25 mg",
+      "lieu": "1 viên mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng thời điểm uống thuốc lao",
+      "so_ngay": "Trong suốt thời gian dùng isoniazid (đơn vị chống lao quyết định)",
+      "ghi_chu": "QĐ 162/2024 Phần IV mục 2.3.1 (lưu ý B6), Phần III mục 3.1.1 (25 mg/ngày), 3.1.5 (10–25 mg/ngày). Liều riêng cho suy dinh dưỡng: không có trong tài liệu đã tải; không quá 100 mg/ngày (Phần III mục 2.2.2)."
+     },
+     {
+      "thuoc": "Diazepam (thuốc ngủ đang dùng, hạ liều)",
+      "ham_luong": "5 mg",
+      "lieu": "½ viên mỗi tối, đánh giá lại sau 1–2 tuần",
+      "duong": "Uống",
+      "thoi_diem": "Trước ngủ",
+      "so_ngay": "1–2 tuần rồi xem lại, không ngưng đột ngột",
+      "ghi_chu": "QĐ 162/2024 Phụ lục 7 Bảng 4 (tương tác); ESRS 2023 Bảng 16 (ngắn hạn tối đa 4 tuần); QĐ 2058/2020 Bài 27 mục 4.3. Cách giảm và ngưng: không có trong tài liệu đã tải; thiết kế của ca."
+     },
+     {
+      "thuoc": "Thuốc chống lao và nẹp đêm (tiếp tục)",
+      "ham_luong": "HRZE 75/150/400/275 mg; nẹp trung tính hai tay",
+      "lieu": "3 viên HRZE mỗi sáng; nẹp mỗi đêm",
+      "duong": "Uống; đeo ngoài",
+      "thoi_diem": "Sáng, xa bữa ăn, có giám sát; trước ngủ",
+      "so_ngay": "Không ngừng; nẹp đến lần hẹn",
+      "ghi_chu": "QĐ 162/2024 Phụ lục 6 Bảng 3, Phần III mục 1.3, 5.3.4a; Cochrane 2012 (nguồn bổ sung tự tìm, theo sổ)."
+     }
+    ],
+    "dan_do": [
+     "Tê chân là do thuốc lao ảnh hưởng dây thần kinh, thường gặp, chữa được; tuyệt đối không tự ngưng thuốc lao vì tê.",
+     "Uống vitamin B6 mỗi ngày như đã kê; đừng tự uống nhiều hơn, uống quá cao lại hại thần kinh.",
+     "Men gan hơi cao: hẹn thử lại sau 5 ngày (QĐ 162/2024 Phần III mục 5.3.4a); đi khám ngay nếu vàng da vàng mắt, nôn nhiều, đau hạ sườn phải."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Tái khám sau khoảng 2 tháng rưỡi từ lần đầu (cô nghỉ quét đường 3 tuần vì tay). Cô Mận đã xong 2 tháng tấn công, đang uống 4 tháng duy trì ở trạm y tế; đơn vị chống lao báo đờm hết vi khuẩn. Cô đến một mình, xách túi nặng bằng khuỷu tay vì tay yếu. Sinh hiệu: mạch 78 l/p, HA 112/70 mmHg, nhiệt độ 36,6 °C, nhịp thở 16 l/p, SpO₂ 98%, cân nặng 47 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cô Mận được cho về, tiếp tục nẹp đêm, hẹn 4 tuần. Tê liên tục, yếu, teo mô cái là dấu hiệu nặng; để lâu dây thần kinh giữa có thể mất chức năng, cảm giác vĩnh viễn (AAOS/ASSH 2024, Overview and Rationale; tiêu chí chuyển mổ theo BJGP 2014, sổ mâu thuẫn). Cô vẫn nghỉ không lương, tay yếu thêm.",
+    "nhap_vien": "Cô bị nhập viện tuyến huyện 'theo dõi tay yếu'. Lao đã ổn (đờm âm tính, sinh hiệu bình thường), không có chỉ định nội trú (QĐ 162/2024 Phần III mục 7.2.2); tài liệu đã tải không có tiêu chuẩn nhập viện cho hội chứng ống cổ tay. Nằm viện không đo được điện cơ hay mổ, chỉ tốn tiền và ngày công."
+   },
+   "loi_mo": "Bác sĩ ơi, thuốc lao tôi vẫn uống đều, ho hết rồi, ăn được hơn. Nhưng hai bàn tay tê cả ngày, tay phải yếu, tôi cầm chổi không nổi, làm rơi cái ly mấy lần. Chân thì đỡ tê nhiều rồi. Tôi nghỉ làm 3 tuần rồi.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "112/70",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai bàn tay tê gần như cả ngày, tay phải yếu, không cầm chổi và nắm chặt được, rơi ly. Đêm vẫn tỉnh vì tê dù đeo nẹp đều. Nghỉ làm 3 tuần không lương, tiền thuê trọ bắt đầu thiếu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Tê liên tục cả ngày, yếu tay phải, rơi đồ"
+    },
+    {
+     "id": "dieu_tri",
+     "noi_dung": "Đã uống thuốc lao đủ hơn 2 tháng, bác sĩ lao nói đờm tháng thứ 2 không còn vi khuẩn, sang 4 tháng duy trì. Ho hết, ăn ngon, tăng 2 kg. Vẫn uống vitamin B6 hằng ngày; chân tê đỡ nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng tốt với lao; chân đỡ nhờ B6"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Nay uống nửa viên diazepam mỗi tối, ngủ được vì hết ho và ra mồ hôi; không còn lờ đờ sáng, không té nữa.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc ngủ"
+    },
+    {
+     "id": "co_chan",
+     "noi_dung": "Không đau cổ, không đau từ cổ lan xuống tay, không yếu hai chân, đi lại bình thường, không vấp, tiểu tiện bình thường, không đau lưng. Không sốt, không đổ mồ hôi đêm, không sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu bệnh tủy cổ, không dấu toàn thân trở lại"
+    },
+    {
+     "id": "nep",
+     "noi_dung": "Cô đeo nẹp mỗi đêm đúng như dặn gần 2 tháng, nhưng thức giấc vì tê, nhiều đêm tháo nẹp vì nóng. Không tiêm, không uống corticoid. Cô nhờ cháu tìm trên điện thoại, đọc thấy phải mổ nên rất lo mất việc quét đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ nẹp, nỗi lo mổ",
+     "nhieu": 1
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Giờ cô sợ nhất không còn là tim mà là tay liệt: mất việc quét đường thì không có tiền thuê trọ, thuốc lao. Cô chưa dám nói với tổ trưởng.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Nỗi lo hiện nay: mất việc, mất thu nhập",
+     "dieu_kien_lo": "Cô nói khi được hỏi nhẹ nhàng về công việc, tiền thuê trọ, hoặc 'cô lo điều gì nhất bây giờ'."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nét mặt khá hơn, cân 47 kg, da niêm hồng nhẹ, không vàng da.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống cổ đủ biên độ, không đau ấn cạnh sống, Spurling âm hai bên. Vai, khuỷu bình thường. Không điểm đau ở cột sống ngực, thắt lưng.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Phản xạ gân nhị đầu, tam đầu, cánh tay quay (++) hai bên; gân gót còn giảm nhẹ. Không Hoffmann, không Babinski, đi thẳng, đi nối gót tốt. Giảm cảm giác ngón cái, trỏ, giữa và nửa ngón nhẫn phía ngón cái hai bên; ngón út bình thường.",
+     "k": 1
+    },
+    "co_tay_ban_tay": {
+     "a": "Mô cái tay phải lõm, teo nhẹ so với tay trái. Dạng ngón cái chống lực tay phải 4/5, tay trái 5/5; ngón cái khó chụm với ngón út khi nhắm mắt. Tinel dương tính hai bên; Phalen dương tính sau khoảng 5 giây tay phải, 15 giây tay trái. Cảm giác hai điểm phân biệt: phòng khám không có dụng cụ.",
+     "k": 1,
+     "hien": "Hai bàn tay; mô cái bên phải nhìn lõm hơn bên trái."
+    },
+    "suc_co": {
+     "a": "Gốc chi hai bên 5/5. Cầm nắm tay phải yếu, bóp ngón tay 4/5. Chân 5/5. Gập cổ chống lực tốt.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm, không ran. Nhịp thở 16 l/p.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "u",
+     "ab": 0,
+     "r": "AST 32 · ALT 36 U/L (bình thường).",
+     "n": "Người trên 35 tuổi theo dõi men gan mỗi 4–6 tuần khi uống thuốc lao (QĐ 162/2024 Phần III mục 5.3.4a). Men gan đã về bình thường sau lượt 2."
+    },
+    "mri_cot_song": {
+     "v": "n",
+     "ab": 0,
+     "r": "(Cơ sở không có MRI.)",
+     "n": "Không cần: không đau cổ, không Hoffmann, Babinski, không toàn thân. MRI khi nghi bệnh tủy cổ hoặc dấu cảnh báo ác tính, nhiễm trùng (QĐ 361/2014 mục 3.1.2, tr. 150)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng ống cổ tay hai bên mức nặng (tê liên tục, yếu và teo mô cái phải), không đáp ứng nẹp đêm gần 2 tháng",
+     "ok": 1,
+     "n": "Triệu chứng nặng, liên tục, yếu hoặc teo mô cái, đã nẹp đủ thời gian (AAOS/ASSH 2024: để lâu có thể mất chức năng vĩnh viễn; tiêu chí chuyển phẫu thuật theo BJGP 2014, sổ mâu thuẫn). Điện cơ khi cần xác nhận (AAOS/ASSH 2024, Diagnosis: CTS-6, Ultrasonography, NCV/EMG)."
+    },
+    {
+     "t": "Lao phổi mới, đang giai đoạn duy trì (tháng thứ 3), đáp ứng tốt, đờm âm tính tháng 2",
+     "ok": 1,
+     "n": "Phác đồ 6 tháng theo dõi hằng tháng (QĐ 162/2024 Phần III mục 7.2.3, 5.1.3)."
+    },
+    {
+     "t": "Bệnh đa dây thần kinh do isoniazid đang hồi phục dưới vitamin B6",
+     "n": "Chân đỡ, monofilament còn giảm nhẹ (QĐ 162/2024 Phần III mục 5.3.1)."
+    },
+    {
+     "t": "Bệnh tủy cổ hoặc lao cột sống cổ",
+     "n": "Loại trừ lâm sàng: hai bàn tay tê, yếu, teo cơ gợi ý bệnh tủy cổ (QĐ 361/2014 mục 3.1.1, tr. 149) nhưng không đau cổ, không Hoffmann, Babinski, đi bình thường; vùng tê đúng dây giữa, ngón út không tê; không sốt, mồ hôi, sụt cân trở lại. Không có MRI/CT: theo dõi sát, MRI khi có dấu tủy (mục 3.1.2)."
+    },
+    {
+     "t": "Bệnh rễ cổ, suy giáp",
+     "n": "Đã loại trừ ở lượt 1 (Spurling âm, TSH bình thường); lần này Spurling âm, vùng tê vẫn dây giữa."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển bệnh viện tuyến tỉnh (khoa chấn thương chỉnh hình, ngoại bàn tay) để đo điện cơ – dẫn truyền thần kinh và xét phẫu thuật giải ép ống cổ tay; viết giấy giới thiệu ghi đang điều trị lao tháng thứ 3 (đờm đã âm), thuốc đang uống, men gan, B6",
+     "v": "c",
+     "n": "Tê liên tục, yếu, teo mô cái, đã nẹp đủ: tiêu chí chuyển phẫu thuật (BJGP 2014, nguồn bổ sung tự tìm, theo sổ CX-0618; không mở lại được bản gốc). Mổ mini-open hay nội soi như nhau (AAOS/ASSH 2024, Surgical Release Technique). Thời điểm mổ so với điều trị lao: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích đây không phải thuốc lao gây ra và không phải liệt: tay cô cần giải phóng dây thần kinh, mổ ngắn ngày, thường về trong ngày; không tự ngưng thuốc lao",
+     "v": "c",
+     "n": "Bỏ trị làm kéo dài điều trị, thất bại, kháng thuốc (QĐ 162/2024 Phần III mục 5.3.1c). Thời gian hồi phục sau mổ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khám lại thần kinh: Hoffmann, Babinski, dáng đi, phản xạ; hỏi đau cổ, sốt, mồ hôi, sụt cân để loại trừ bệnh tủy cổ, lao cột sống; ghi rõ vào giấy chuyển",
+     "v": "c",
+     "n": "Hội chứng tủy cổ: tê bì, mất khéo léo, teo cơ hai tay, đi khó; sốt, mồ hôi đêm, sụt cân phải loại trừ ác tính, nhiễm trùng (QĐ 361/2014 mục 3.1.1, tr. 149). Phác đồ A1 không chỉ định cho lao xương khớp (QĐ 162/2024 Phần III mục 2.1.2)."
+    },
+    {
+     "t": "Tiếp tục vitamin B6 và nẹp đêm trong lúc chờ; vẫn uống thuốc lao đều ở trạm y tế; tái khám tháng sau theo lịch đơn vị chống lao",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần IV mục 2.3.1 (B6); Phần III mục 7.2.3 (tái khám hằng tháng)."
+    },
+    {
+     "t": "Hỏi về công việc, tiền thuê trọ, nỗi lo mất việc; hướng dẫn xin giấy xác nhận bệnh cho tổ trưởng, nhờ trạm y tế phường hỗ trợ xã hội",
+     "v": "c",
+     "n": "Hỗ trợ tâm lý xã hội là một phần quản lý lao (QĐ 162/2024 Phần III mục 7.1). Giấy nghỉ ốm, chế độ lao công: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về, tiếp tục nẹp đêm, hẹn lại 4–8 tuần",
+     "v": "w",
+     "n": "Tê liên tục, yếu và teo mô cái: không nên tiếp tục điều trị bảo tồn (BJGP 2014, theo sổ); để lâu có thể mất chức năng vĩnh viễn (AAOS/ASSH 2024, Overview and Rationale)."
+    },
+    {
+     "t": "Ngừng thuốc lao để chờ mổ",
+     "v": "w",
+     "n": "Bỏ trị làm kéo dài điều trị, thất bại, kháng thuốc (QĐ 162/2024 Phần III mục 5.3.1c). Thuốc lao phải dùng đủ thời gian (mục 1.4)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng ống cổ tay hai bên, phải nặng (tê liên tục, dạng ngón cái 4/5, teo nhẹ mô cái), không đáp ứng nẹp đêm gần 2 tháng",
+     "Lao phổi đang điều trị tháng thứ 3, đờm âm tính, men gan bình thường; bệnh thần kinh do isoniazid đang hồi phục dưới B6",
+     "Đã loại trừ lâm sàng: bệnh rễ cổ, bệnh tủy cổ/lao cột sống, suy giáp, đái tháo đường"
+    ],
+    "phan_tich_chan_doan": [
+     "Điều cần loại: bệnh tủy cổ hoặc lao cột sống cổ, vì tay tê, yếu, teo cơ ở người đang điều trị lao (QĐ 361/2014 mục 3.1.1, tr. 149). Không có MRI/CT: dựa lâm sàng (không đau cổ, không Hoffmann, Babinski, ngón út không tê, không toàn thân) và ghi để tuyến trên xem lại."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: chuyển tuyến tỉnh có lý do (tê liên tục, yếu, teo mô cái, nẹp đủ lâu; BJGP 2014 theo sổ); cần điện cơ và bác sĩ phẫu thuật bàn tay, phòng khám không có. Tài liệu đã tải không có tiêu chuẩn chuyển mổ. Không nhập viện: lao đã ổn (QĐ 162/2024 Phần III mục 7.2.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Pyridoxin (vitamin B6)",
+      "ham_luong": "25 mg",
+      "lieu": "1 viên mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng lúc uống thuốc lao",
+      "so_ngay": "Đến hết thời gian dùng isoniazid (đơn vị chống lao quyết định)",
+      "ghi_chu": "QĐ 162/2024 Phần IV mục 2.3.1, Phần III mục 3.1.1, 3.1.5; không quá 100 mg/ngày (Phần III mục 2.2.2)."
+     },
+     {
+      "thuoc": "Thuốc chống lao giai đoạn duy trì (đơn vị chống lao) và nẹp đêm",
+      "ham_luong": "HR 75/150 mg × 3 viên (kèm E 400 mg × 2 viên nếu theo QĐ 162/2024); nẹp trung tính",
+      "lieu": "Mỗi sáng; nẹp mỗi đêm",
+      "duong": "Uống; đeo ngoài",
+      "thoi_diem": "Xa bữa ăn, có giám sát; trước ngủ",
+      "so_ngay": "4 tháng duy trì, không ngừng; nẹp đến khi gặp bác sĩ bàn tay",
+      "ghi_chu": "QĐ 162/2024 Phụ lục 6 Bảng 2–3, Phần III mục 2.1.2 (4RHE); WHO 2025 Module 4 khuyến cáo 1.1 (4HR): ghi cả hai (sổ HH-1338). Cochrane 2012 (nẹp)."
+     }
+    ],
+    "dan_do": [
+     "Tay cô tê và yếu vì dây thần kinh giữa bị chèn ở cổ tay nặng lên; nẹp một mình chưa đủ, cần bác sĩ bàn tay xem có mổ giải ép.",
+     "Đi bệnh viện tỉnh trong vài ngày tới; mang giấy giới thiệu, sổ lao, vỏ thuốc; nói rõ đang uống thuốc lao tháng thứ 3.",
+     "Không được ngừng thuốc lao, kể cả khi lo chuyện mổ; uống đủ 6 tháng ở trạm y tế (QĐ 162/2024 Phần III mục 1.4, 5.3.1c)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Điểm gãy: bác sĩ dừng ở chẩn đoán cô tự tra (hội chứng ống cổ tay, đúng về bàn tay), cho nẹp, thuốc ngủ, hẹn lại; không hỏi ho, sụt cân, mồ hôi đêm, người ở cùng, không nghe phổi, không chụp X-quang. Vài tuần sau cô ho ra máu, X-quang hang lan rộng, người ở cùng trọ cũng phải khám lao; đó là biến chứng do bỏ sót, còn nỗi sợ nhồi máu của cô vẫn không ai hỏi. Theo đường đúng: lao phát hiện ở lượt 1, điều trị đủ 6 tháng; hội chứng ống cổ tay nặng lên cần mổ ở tuyến tỉnh. Kết cục là thiết kế của ca; tỉ lệ ho ra máu, lây: không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Chẩn đoán tự tra trên mạng: cô đúng về hội chứng ống cổ tay nên dễ neo; trả lời bằng cách xác nhận phần đúng rồi hỏi rộng hơn, không hạ thấp cô."
+ ],
+ "bai_hoc_bien": [
+  "Cơ đỏ ngụy trang: chẩn đoán lành tính ở bàn tay che lao phổi. Điều lẽ ra phải dừng lại: ho trên 2 tuần, sụt cân, mồ hôi đêm, người ở cùng ho dai dẳng (QĐ 162/2024 Phần II mục 1.1 Bảng 1; Phần I mục 1.5); QĐ 361/2014 mục 3.1.1 (tr. 149) dặn loại trừ ác tính, nhiễm trùng khi có sốt, vã mồ hôi đêm, sụt cân ở người đau cổ, tay. Dễ lướt qua vì cô có sẵn lời giải thích (bụi đường, mãn kinh) và chẩn đoán đúng ở tay.",
+  "Neo chẩn đoán (anchoring) từ chẩn đoán của người bệnh, và đóng sớm (premature closure) khi đã tìm được một chẩn đoán khớp triệu chứng chính: câu hỏi cuối mỗi ca 'còn dữ kiện nào chẩn đoán này không giải thích?'."
+ ],
+ "diem_nho": [
+  "Người ho trên 2 tuần là người nghi lao: X-quang ngực, Xpert đờm; ho kèm sụt cân, sốt nhẹ chiều, mồ hôi đêm (QĐ 162/2024 Phần II mục 1.1 Bảng 1).",
+  "Đăng ký người bệnh lao nhạy thuốc tối đa 3 ngày sau chẩn đoán tại tuyến huyện; điều trị ngoại trú có giám sát hằng ngày (QĐ 162/2024 Phần III mục 7.2.1, 7.2.3)."
+ ],
+ "nguon": [
+  "TL-0123 · QĐ 162/QĐ-BYT 2024 – Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao: Phần I mục 1.5; Phần II mục 1.1 Bảng 1, 1.2 Bảng 2, 1.3, 2.1a, 3.2.1–3.2.2, Sơ đồ 1, 2; Phần III mục 1.3, 1.4, 2.1.2, 2.2.2, 3.1.1, 3.1.3, 3.1.5, 5.1.3, 5.3.1, 5.3.4a, 7.1, 7.2.1–7.2.3; Phần IV mục 1.1.1, 2.3.1; Phần V mục 4.1, 4.2; Phụ lục 6 Bảng 1–3; Phụ lục 7 Bảng 4. WHO 2025 Module 4 (TL-0132) khuyến cáo 1.1: theo sổ mâu thuẫn HH-1338, không mở lại lượt này",
+  "TL-0354 · AAOS/ASSH 2024 (Shapiro LM, Kamal R. J Am Acad Orthop Surg 2025;33(7):e356–e366) – Overview and Rationale; Summary of Recommendations (Diagnosis: CTS-6, Ultrasonography, NCV/EMG; Diagnosis: MRI; Corticosteroid Injection; Surgical Release Technique); Summary of Options (Non-Operative Treatment vs. Placebo/Control; Long-Term)",
+  "TL-0286 · QĐ 361/QĐ-BYT 2014: Hội chứng cổ vai cánh tay mục 3.1.1 (tr. 148–149), 3.1.2 (tr. 150); Phụ lục thuốc giảm đau mục 3.1 (tr. 202); Phụ lục NSAID mục 2, 3.1. TL-0344 · QĐ 654/QĐ-BYT 2014 (tiêm hội chứng đường hầm cổ tay) mục I, III, IV.1",
+  "TL-0039 · QĐ 3879/QĐ-BYT 2014 Suy giáp ở người lớn mục IV.1 (tr. 88–89). TL-0279 · QĐ 3510/QĐ-BYT 2025 mục 3.2.4, mục 4 (tr. 27). TL-0069 · ESC 2023 ACS mục 3.2. TL-0464 · ESRS 2023 mục 4.2.1, Bảng 16; TL-0443 · QĐ 2058/QĐ-BYT 2020 Bài 27 mục 4.3 (theo sổ mâu thuẫn)",
+  "Nguồn bổ sung tự tìm (theo sổ mâu thuẫn CX-0610, CX-0614, CX-0618; chưa mở lại bản gốc, trang BJGP bị chặn): Page MJ, et al. Cochrane Database Syst Rev 2012;7:CD010003, https://doi.org/10.1002/14651858.CD010003 · Br J Gen Pract 2014;64(622):262–263, https://bjgp.org/content/64/622/262",
+  "Không có trong tài liệu đã tải: thời gian còn lây; quy định chuyển người lao từ phòng khám tư; điểm CTS-6; thời gian trả kết quả Xpert; liều B6 cho người lớn suy dinh dưỡng; cách giảm, ngưng diazepam; thời điểm mổ trong lúc điều trị lao; tiêu chuẩn chuyển mổ hội chứng ống cổ tay; giấy nghỉ ốm cho lao công"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-28: viết CX-0617. Tài liệu đã đọc: TL-0123 (các mục trong nguon), TL-0354, TL-0286 (hội chứng cổ vai cánh tay), TL-0344 mục I–IV, TL-0039 mục IV, TL-0279 mục 3.2.4 và 4, TL-0069 mục 3.2. Không có ảnh da.",
+  "Mâu thuẫn áp dụng từ sổ: NSAID uống cho hội chứng ống cổ tay; tiêm corticosteroid ống cổ tay; thời gian đeo nẹp; thuốc ngủ benzodiazepin; 4HR hay 4RHE; hai ngưỡng men gan (HH-1300). Chỗ nghi ngờ: tiêu chuẩn chuyển mổ chỉ dựa BJGP 2014 theo sổ; liều B6 25 mg là lựa chọn của ca."
+ ]
+}
